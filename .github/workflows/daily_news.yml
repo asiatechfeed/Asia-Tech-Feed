@@ -115,15 +115,20 @@ jobs:
       - name: Create Pull Request
         if: steps.run_scraper.outputs.has_articles == 'true'
         id: create_pr
-        uses: peter-evans/create-pull-request@v6
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: "news/${{ steps.run_scraper.outputs.digest_date }}"
-          base: main
-          title: "📰 News Digest — ${{ steps.run_scraper.outputs.digest_date }} (${{ steps.run_scraper.outputs.article_count }} articles)"
-          body-path: /tmp/pr_body.txt
-          labels: "auto-news"
-          draft: false
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE="${{ steps.run_scraper.outputs.digest_date }}"
+          PR_URL=$(gh pr create \
+            --base main \
+            --head "news/$DATE" \
+            --title "📰 News Digest — $DATE (${{ steps.run_scraper.outputs.article_count }} articles)" \
+            --body-file /tmp/pr_body.txt \
+            --label "auto-news" 2>/dev/null || \
+            gh pr view "news/$DATE" --json url --jq '.url' 2>/dev/null || echo "")
+          PR_NUMBER=$(echo "$PR_URL" | grep -o '[0-9]*$')
+          echo "pull-request-number=$PR_NUMBER" >> $GITHUB_OUTPUT
+          echo "PR: $PR_URL (number: $PR_NUMBER)"
 
       # ── 6. Send approval email ───────────────────────────────────────────
       - name: Send approval email
