@@ -526,7 +526,6 @@ def render_news_table(articles: list[dict]) -> str:
     for i, a in enumerate(articles, 1):
         tags_html = "".join(tag_html(t) for t in (a.get("tags") or []))
         kp = a.get("key_points", ["", "", ""])
-        date_str = a["date"].strftime("%d %b %Y") if a.get("date") else "N/A"
         url = a["url"]
 
         row = f"""<tr>
@@ -540,7 +539,6 @@ def render_news_table(articles: list[dict]) -> str:
     <li>{kp[2]}</li>
   </ul></td>
   <td class="col-tags">{tags_html}</td>
-  <td class="col-date">{date_str}</td>
   <td class="col-link"><a class="btn-link" href="{url}" target="_blank" rel="noopener">Read</a></td>
 </tr>"""
         rows.append(row)
@@ -554,7 +552,6 @@ def render_news_table(articles: list[dict]) -> str:
   <th class="col-summary">Summary</th>
   <th class="col-points">Key Points</th>
   <th class="col-tags">Topics</th>
-  <th class="col-date">Date</th>
   <th class="col-link">Link</th>
 </tr>
 </thead>
