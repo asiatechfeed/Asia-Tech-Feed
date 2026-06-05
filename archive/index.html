@@ -18,4 +18,100 @@
     <div class="header-meta">
       SE Asia · Semiconductors · AI · Automation · Pharma
     </div>
- 
+  </div>
+</header>
+
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a href="/asia-news-feed/" >Latest</a>
+    <a href="/asia-news-feed/archive" class="active">Archive</a>
+    <a href="/asia-news-feed/feed.xml">RSS Feed</a>
+  </div>
+</nav>
+
+<main>
+  <h2 style="margin-bottom:20px; color:#1a3a5c;">📁 All News Digests</h2>
+
+<div style="margin-bottom:24px;">
+  <h3 style="color:#718096; font-size:0.9rem; font-weight:700; letter-spacing:1px; text-transform:uppercase; margin-bottom:10px; border-bottom:1px solid #dde3ec; padding-bottom:6px;">
+    2026
+  </h3>
+  
+  
+  <div style="margin-bottom:16px; padding-left:16px;">
+    <div style="font-size:0.82rem; color:#2b6cb0; font-weight:600; margin-bottom:8px;">June</div>
+    
+    <div style="padding:8px 0; border-bottom:1px solid #f0f0f0; display:flex; justify-content:space-between; align-items:center;">
+      <a href="/asia-news-feed/2026/06/05/asia-tech-news-digest/" style="color:#1a3a5c; text-decoration:none; font-size:0.9rem;">
+        Asia Tech News Digest — June 05, 2026
+      </a>
+      <span style="font-size:0.78rem; color:#718096; margin-left:12px; white-space:nowrap;">
+        05 Jun · 12 articles
+      </span>
+    </div>
+    
+    <div style="padding:8px 0; border-bottom:1px solid #f0f0f0; display:flex; justify-content:space-between; align-items:center;">
+      <a href="/asia-news-feed/2026/06/04/welcome/" style="color:#1a3a5c; text-decoration:none; font-size:0.9rem;">
+        Asia Tech News Feed — Getting Started
+      </a>
+      <span style="font-size:0.78rem; color:#718096; margin-left:12px; white-space:nowrap;">
+        04 Jun · 0 articles
+      </span>
+    </div>
+    
+  </div>
+  
+</div>
+
+
+</main>
+
+<footer>
+  <p>Asia Tech News Feed · Auto-updated daily via GitHub Actions · Filtered for Southeast Asia</p>
+  <p>Keywords: Semiconductor · Electronics · Logistics · Pharmaceutical · Biotechnology · AI · Machine Vision · Automation</p>
+</footer>
+
+<script>
+// Keyword filter
+function filterTable(keyword) {
+  const rows = document.querySelectorAll('.news-table tbody tr');
+  const btns = document.querySelectorAll('.filter-btn');
+  btns.forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+
+  rows.forEach(row => {
+    if (!keyword || keyword === 'all') {
+      row.style.display = '';
+    } else {
+      const text = row.innerText.toLowerCase();
+      row.style.display = text.includes(keyword.toLowerCase()) ? '' : 'none';
+    }
+  });
+}
+
+// CSV download
+function downloadCSV() {
+  const table = document.querySelector('.news-table');
+  if (!table) return;
+  let csv = [];
+  const rows = table.querySelectorAll('tr');
+  rows.forEach(row => {
+    const cols = row.querySelectorAll('th, td');
+    const rowData = Array.from(cols).map(col => {
+      const link = col.querySelector('a');
+      let text = link && col.classList.contains('col-link') ? link.href : col.innerText;
+      return '"' + text.replace(/"/g, '""').replace(/\n/g, ' ') + '"';
+    });
+    csv.push(rowData.join('\t'));
+  });
+  const blob = new Blob([csv.join('\n')], { type: 'text/csv' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'asia-news-' + new Date().toISOString().slice(0,10) + '.csv';
+  a.click();
+}
+</script>
+
+</body>
+</html>

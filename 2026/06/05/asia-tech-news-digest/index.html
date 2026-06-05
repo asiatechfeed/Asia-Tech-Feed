@@ -36,4 +36,81 @@
     <div class="header-meta">
       SE Asia · Semiconductors · AI · Automation · Pharma
     </div>
- 
+  </div>
+</header>
+
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a href="/asia-news-feed/" >Latest</a>
+    <a href="/asia-news-feed/archive" >Archive</a>
+    <a href="/asia-news-feed/feed.xml">RSS Feed</a>
+  </div>
+</nav>
+
+<main>
+  <div class="post-header">
+  <h1>Asia Tech News Digest — June 05, 2026</h1>
+  <div class="post-meta">
+    <span>📅 June 05, 2026</span>
+    <span>📰 12 articles</span>
+    <span>🌏 Southeast Asia Focus</span>
+  </div>
+</div>
+
+<div class="actions-bar">
+  <a href="/asia-news-feed/assets/data/news-2026-06-05.tsv" class="btn-download" download>
+    ⬇ Download for Google Sheets (.tsv)
+  </a>
+</div>
+
+</main>
+
+<footer>
+  <p>Asia Tech News Feed · Auto-updated daily via GitHub Actions · Filtered for Southeast Asia</p>
+  <p>Keywords: Semiconductor · Electronics · Logistics · Pharmaceutical · Biotechnology · AI · Machine Vision · Automation</p>
+</footer>
+
+<script>
+// Keyword filter
+function filterTable(keyword) {
+  const rows = document.querySelectorAll('.news-table tbody tr');
+  const btns = document.querySelectorAll('.filter-btn');
+  btns.forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+
+  rows.forEach(row => {
+    if (!keyword || keyword === 'all') {
+      row.style.display = '';
+    } else {
+      const text = row.innerText.toLowerCase();
+      row.style.display = text.includes(keyword.toLowerCase()) ? '' : 'none';
+    }
+  });
+}
+
+// CSV download
+function downloadCSV() {
+  const table = document.querySelector('.news-table');
+  if (!table) return;
+  let csv = [];
+  const rows = table.querySelectorAll('tr');
+  rows.forEach(row => {
+    const cols = row.querySelectorAll('th, td');
+    const rowData = Array.from(cols).map(col => {
+      const link = col.querySelector('a');
+      let text = link && col.classList.contains('col-link') ? link.href : col.innerText;
+      return '"' + text.replace(/"/g, '""').replace(/\n/g, ' ') + '"';
+    });
+    csv.push(rowData.join('\t'));
+  });
+  const blob = new Blob([csv.join('\n')], { type: 'text/csv' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'asia-news-' + new Date().toISOString().slice(0,10) + '.csv';
+  a.click();
+}
+</script>
+
+</body>
+</html>
