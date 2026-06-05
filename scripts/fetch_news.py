@@ -323,11 +323,13 @@ def summarize_with_claude(articles: list[dict]) -> list[dict]:
     if not ANTHROPIC_API_KEY:
         print("⚠ ANTHROPIC_API_KEY not set — using raw summaries.")
         for a in articles:
-            raw = a.get("full_text") or a.get("summary_raw") or a["title"]
+            raw = a.get("summary_raw") or a["title"]
             a["summary"] = (a["summary_raw"] or a["title"])[:320]
-            # Extract up to 3 sentences from the article text as key points
+            # Extract up to 3 sentences from the RSS summary as key points
             import re as _re
-            sentences = [s.strip() for s in _re.split(r'(?<=[.!?])\s+', raw) if len(s.strip()) > 20]
+            sentences = [s.strip() for s in _re.split(r'(?<=[.!?])\s+', raw)
+                         if len(s.strip()) > 30 and not any(w in s.lower() for w in
+                         ['advertisement', 'subscribe', 'cookie', 'newsletter', 'bookmark', 'whatsapp', 'telegram', 'twitter', 'linkedin', 'facebook'])]
             a["key_points"] = (sentences[:3] + ["", "", ""])[:3]
             a["tags"] = a.get("matched_keywords", [])[:3]
         return articles
@@ -367,7 +369,7 @@ Return ONLY the JSON. No markdown, no explanation."""
             )
             raw = message.content[0].text.strip()
             # Strip any markdown code fences
-            raw = re.sub(r"^```(?:json)?\s*", "", raw)
+            raw = re.sub(r"^```(?json)?\s*", "", raw)
             raw = re.sub(r"\s*```$", "", raw)
             data = json.loads(raw)
             article["summary"] = data.get("summary", article["title"])[:400]
