@@ -1,35 +1,41 @@
 {
   "date": "2026-06-05",
-  "count": 10,
+  "count": 17,
   "sources": [
-    "EW"
+    "CNA",
+    "DigiTimes",
+    "EETAsia",
+    "EW",
+    "KED",
+    "NikkeiAsia",
+    "TechAsia"
   ],
   "post_file": "2026-06-05-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Jet Fuel Prices Soar",
-      "source": "EW",
-      "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/jet-fuel-prices-soar-2026-06/"
+      "title": "Singtel secures AI funding under Singapore partnership",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/singtels-infraco-nvidia-launch-ai-center-of-excellence"
     },
     {
-      "title": "Jedec SiC Guidelines improve reliability in WBG power electronics",
-      "source": "EW",
-      "url": "https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-sic-guidelines-improve-reliability-in-wbg-power-electronics-2026-06/"
+      "title": "Samsung, SK hynix, Micron to supply AI memory for Nvidia",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/nvidia-china-included-200b-cpu-market"
     },
     {
-      "title": "What caught your eye? RTX Spark, Arm CEO pay, UK space sector",
-      "source": "EW",
-      "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-rtx-spark-arm-ceo-pay-uk-space-sector-2026-06/"
+      "title": "Nvidia CEO sees robotics as next major sector in South Korea",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/nvidia-ceo-sees-robotics-next-major-sector-in-south-korea-6163956"
     },
     {
-      "title": "Fable: The Engineer Who Got The Blues",
-      "source": "EW",
-      "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-engineer-who-got-the-blues-2026-06/"
+      "title": "Nvidia to partner with Korean manufacturers on robotics",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/nvidia-rally-lifts-asian-chip-and-robotics-stocks"
     },
     {
-      "title": "Picture of the Day: AtkinsR\u00e9alis-Spot navigates nuclear sites",
+      "title": "SK Hynix to double output in five years",
       "source": "EW",
-      "url": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-atkinsrealis-spot-navigates-nuclear-sites-2026-06/"
+      "url": "https://www.electronicsweekly.com/news/business/sk-hynix-to-double-output-in-five-years-2026-06/"
     }
   ]
 }

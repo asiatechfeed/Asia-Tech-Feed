@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Asia Tech News Digest — June 05, 2026"
-date: 2026-06-05 12:38:44 +0800
-articles_count: 10
-sources_count: 1
-sources: ["EW"]
+title: "Asia Tech News Digest ÃÂ¢ÃÂÃÂ June 05, 2026"
+date: 2026-06-05 16:21:09 +0800
+articles_count: 17
+sources_count: 7
+sources: ["CNA", "DigiTimes", "EETAsia", "EW", "KED", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-06-05.tsv
 ---
 
@@ -24,143 +24,241 @@ csv_file: /assets/data/news-2026-06-05.tsv
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">Jet Fuel Prices Soar</span></td>
-  <td class="col-summary">Jet fuel prices have surged sharply in recent weeks, approaching levels last seen during the peak of the global energy crisis in 2022. Compared with gasoline or even diesel, jet ... The post Jet Fuel Prices Soar appeared first on Electronics Weekly .</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Singtel secures AI funding under Singapore partnership</span></td>
+  <td class="col-summary">Singtel said the program will cover AI-enabled operations, digital infrastructure, customer platforms, and workforce development.</td>
   <td class="col-points"><ul class="key-points">
-    <li>Jet fuel prices have surged sharply in recent weeks, approaching levels last seen during the peak of the global energy crisis in 2022.</li>
-    <li>Compared with gasoline or even diesel, jet ...</li>
-    <li>The post Jet Fuel Prices Soar appeared first on Electronics Weekly .</li>
+    <li>Singtel said the</li>
+    <li>program will cover</li>
+    <li>AIenabled operations digital</li>
   </ul></td>
-  <td class="col-tags"><span class="tag semi">electronics</span></td>
+  <td class="col-tags"><span class="tag "> ai </span></td>
   <td class="col-date">05 Jun 2026</td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/blogs/mannerisms/markets/jet-fuel-prices-soar-2026-06/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/singtels-infraco-nvidia-launch-ai-center-of-excellence" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">Jedec SiC Guidelines improve reliability in WBG power electronics</span></td>
-  <td class="col-summary">JEDEC is publishing two new guidelines around the use of wide bandgap (WBG) power semiconductor materials, such as Gallium Nitride (GaN) and Silicon Carbide (SiC). There is JEP203: Guideline for ... The post Jedec SiC Guidelines improve reliability in WBG power electronics appeared first on Electronics Weekly .</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Samsung, SK hynix, Micron to supply AI memory for Nvidia</span></td>
+  <td class="col-summary">Nvidia is hiring for a new research and development center in Korea amid tight HBM supply.</td>
   <td class="col-points"><ul class="key-points">
-    <li>JEDEC is publishing two new guidelines around the use of wide bandgap (WBG) power semiconductor materials, such as Gallium Nitride (GaN) and Silicon Carbide (SiC).</li>
-    <li>There is JEP203: Guideline for ...</li>
-    <li>The post Jedec SiC Guidelines improve reliability in WBG power electronics appeared first on Electronics Weekly .</li>
+    <li>Nvidia is hiring</li>
+    <li>research and development</li>
+    <li>center in Korea</li>
   </ul></td>
-  <td class="col-tags"><span class="tag semi">semiconductor</span><span class="tag semi">electronics</span></td>
-  <td class="col-date">04 Jun 2026</td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-sic-guidelines-improve-reliability-in-wbg-power-electronics-2026-06/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-tags"><span class="tag "> ai </span></td>
+  <td class="col-date">05 Jun 2026</td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-china-included-200b-cpu-market" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">What caught your eye? RTX Spark, Arm CEO pay, UK space sector</span></td>
-  <td class="col-summary">There's Nvidia claiming its RTX Spark will reinvent the PC, an Elon Musk-sized pay deal for Arm's CEO, and a report examining the impact of academia on the UK space sector... The post What caught your eye? RTX Spark, Arm CEO pay, UK space sector appeared first on Electronics Weekly .</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Nvidia CEO sees robotics as next major sector in South Korea</span></td>
+  <td class="col-summary">Nvidia CEO sees robotics as next major sector in South Korea</td>
   <td class="col-points"><ul class="key-points">
-    <li>There's Nvidia claiming its RTX Spark will reinvent the PC, an Elon Musk-sized pay deal for Arm's CEO, and a report examining the impact of academia on the UK space sector...</li>
-    <li>RTX Spark, Arm CEO pay, UK space sector appeared first on Electronics Weekly .</li>
-    <li></li>
+    <li>Nvidia CEO sees</li>
+    <li>robotics as next</li>
+    <li>major sector in</li>
   </ul></td>
-  <td class="col-tags"><span class="tag semi">electronics</span></td>
-  <td class="col-date">04 Jun 2026</td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-rtx-spark-arm-ceo-pay-uk-space-sector-2026-06/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-tags"><span class="tag ">robot</span></td>
+  <td class="col-date">05 Jun 2026</td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/nvidia-ceo-sees-robotics-next-major-sector-in-south-korea-6163956" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">Fable: The Engineer Who Got The Blues</span></td>
-  <td class="col-summary">This engineer is famous for his wise sayings as well as for the scientific breakthrough which won him a Nobel Prize. Among his most famous insights are: ‘Strength ... The post Fable: The Engineer Who Got The Blues appeared first on Electronics Weekly .</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia to partner with Korean manufacturers on robotics</span></td>
+  <td class="col-summary">He added that Nvidia will partner with Korean manufacturing companies on robotics and AI.</td>
   <td class="col-points"><ul class="key-points">
-    <li>This engineer is famous for his wise sayings as well as for the scientific breakthrough which won him a Nobel Prize.</li>
-    <li>Among his most famous insights are: ‘Strength ...</li>
-    <li>The post Fable: The Engineer Who Got The Blues appeared first on Electronics Weekly .</li>
+    <li>added that Nvidia</li>
+    <li>partner with Korean</li>
+    <li>manufacturing companies on</li>
   </ul></td>
-  <td class="col-tags"><span class="tag semi">electronics</span><span class="tag ">fab</span></td>
-  <td class="col-date">04 Jun 2026</td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-engineer-who-got-the-blues-2026-06/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-tags"><span class="tag ">manufacturing</span><span class="tag ">robot</span></td>
+  <td class="col-date">05 Jun 2026</td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-rally-lifts-asian-chip-and-robotics-stocks" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">Picture of the Day: AtkinsRéalis-Spot navigates nuclear sites</span></td>
-  <td class="col-summary">AtkinsRéalis and Oxford Robotics Institute (ORI) - the University of Oxford’s centre for robotics and AI - are partnering to speed the adoption of autonomous robotic systems in the nuclear and energy sectors. The post Picture of the Day: AtkinsRéalis-Spot navigates nuclear sites appeared first on Electronics Weekly .</td>
+  <td class="col-title"><span class="article-title">SK Hynix to double output in five years</span></td>
+  <td class="col-summary">SK Hynix is to double its production capacity over the next five years, says chairman Chey Tae-won. The company has budgeted $67 billion between 2024 and 2028 to fund expansion. ... The post SK Hynix to double output in five years appeared first on Electronics Weekly .</td>
   <td class="col-points"><ul class="key-points">
-    <li>AtkinsRéalis and Oxford Robotics Institute (ORI) - the University of Oxford’s centre for robotics and AI - are partnering to speed the adoption of autonomous robotic systems in the nuclear and energy sectors.</li>
-    <li>The post Picture of the Day: AtkinsRéalis-Spot navigates nuclear sites appeared first on Electronics Weekly .</li>
-    <li></li>
+    <li>Hynix is to</li>
+    <li>double its production</li>
+    <li>capacity over the</li>
   </ul></td>
-  <td class="col-tags"><span class="tag semi">electronics</span><span class="tag "> ai </span><span class="tag ">robot</span></td>
-  <td class="col-date">04 Jun 2026</td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-atkinsrealis-spot-navigates-nuclear-sites-2026-06/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-tags"><span class="tag semi">electronics</span></td>
+  <td class="col-date">05 Jun 2026</td>
+  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/sk-hynix-to-double-output-in-five-years-2026-06/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">Overcoming durability and cost barriers for wearables and foldable devices</span></td>
-  <td class="col-summary">The rapid evolution of wearable and foldable technology is reshaping consumer electronics, writes Samudrapom Dam. As market demand grows, wearable and foldable electronic devices face critical challenges in durability and ... The post Overcoming durability and cost barriers for wearables and foldable devices appeared f</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">HKUST Partners with CalmCar to Establish Physical AI Innovation Center</span></td>
+  <td class="col-summary">The center aims to build a new-generation physical AI technology foundation capable of understanding, predicting, reasoning, and decision-making. The post HKUST Partners with CalmCar to Establish Physical AI Innovation Center appeared first on EE Times Asia .</td>
   <td class="col-points"><ul class="key-points">
-    <li>The rapid evolution of wearable and foldable technology is reshaping consumer electronics, writes Samudrapom Dam.</li>
-    <li>As market demand grows, wearable and foldable electronic devices face critical challenges in durability and ...</li>
-    <li>The post Overcoming durability and cost barriers for wearables and foldable devices appeared first on Electronics Weekly .</li>
+    <li>center aims to</li>
+    <li>build a newgeneration</li>
+    <li>physical AI technology</li>
   </ul></td>
-  <td class="col-tags"><span class="tag semi">electronics</span><span class="tag ">technology</span></td>
+  <td class="col-tags"><span class="tag ">technology</span><span class="tag "> ai </span></td>
   <td class="col-date">04 Jun 2026</td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/overcoming-durability-and-cost-barriers-for-wearables-and-foldable-devices-2026-06/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/hkust-partners-with-calmcar-to-establish-physical-ai-innovation-center/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">Tiny SoM featuring NXP’s i.MX 91 targets Linux-based IoT</span></td>
-  <td class="col-summary">Direct Insight is introducing its QS91 system-on-module featuring NXP’s i.MX 91 applications processor. The Oxfordshire-based integrator says the SoM delivers an “optimised blend of security, features, and energy-efficient performance” for ... The post Tiny SoM featuring NXP’s i.MX 91 targets Linux-based IoT appeared f</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">TWSE Highlights AI-driven Capital Growth and Semiconductor Leadership at COMPUTEX 2026</span></td>
+  <td class="col-summary">TWSE highlights AI-driven growth, semiconductor strength, and capital market momentum at COMPUTEX 2026. The post TWSE Highlights AI-driven Capital Growth and Semiconductor Leadership at COMPUTEX 2026 appeared first on EE Times Asia .</td>
   <td class="col-points"><ul class="key-points">
-    <li>Direct Insight is introducing its QS91 system-on-module featuring NXP’s i.MX 91 applications processor.</li>
-    <li>The Oxfordshire-based integrator says the SoM delivers an “optimised blend of security, features, and energy-efficient performance” for ...</li>
-    <li>The post Tiny SoM featuring NXP’s i.MX 91 targets Linux-based IoT appeared first on Electronics Weekly .</li>
+    <li>highlights AIdriven growth</li>
+    <li>semiconductor strength and</li>
+    <li>capital market momentum</li>
   </ul></td>
-  <td class="col-tags"><span class="tag semi">electronics</span></td>
+  <td class="col-tags"><span class="tag semi">semiconductor</span></td>
   <td class="col-date">04 Jun 2026</td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/products/bus-systems-sbcs/tiny-som-featuring-nxps-i-mx-91-targets-linux-based-iot-2026-06/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/twse-highlights-ai-driven-capital-growth-and-semiconductor-leadership-at-computex-2026/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">Tessalia plans $250m packaging plant in France</span></td>
-  <td class="col-summary">Earlier this week Tessalia Technology, a packaging joint venture between Foxconn, Radiall and Thales, laid the foundation stone of an advanced semiconductor packaging facility in Le Barp, Nouvelle-Aquitaine. Patrice Caine, ... The post Tessalia plans $250m packaging plant in France appeared first on Electronics Weekly </td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">MacDermid Alpha Enables Reliable Ultra-fine Feature Printing at Production Scale</span></td>
+  <td class="col-summary">MacDermid Alpha's ALPHA OM-377 is a no-clean solder paste engineered for ultra-fine feature printing in advanced electronics assemblies. The post MacDermid Alpha Enables Reliable Ultra-fine Feature Printing at Production Scale appeared first on EE Times Asia .</td>
   <td class="col-points"><ul class="key-points">
-    <li>Earlier this week Tessalia Technology, a packaging joint venture between Foxconn, Radiall and Thales, laid the foundation stone of an advanced semiconductor packaging facility in Le Barp, Nouvelle-Aquitaine.</li>
-    <li>The post Tessalia plans $250m packaging plant in France appeared first on Electronics Weekly .</li>
-    <li></li>
+    <li>MacDermid Alphas ALPHA</li>
+    <li>OM377 is a</li>
+    <li>noclean solder paste</li>
   </ul></td>
-  <td class="col-tags"><span class="tag semi">semiconductor</span><span class="tag semi">electronics</span><span class="tag ">technology</span></td>
+  <td class="col-tags"><span class="tag semi">electronics</span></td>
   <td class="col-date">04 Jun 2026</td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/tessia-plans-250m-packaging-plant-in-france-2026-06/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/macdermid-alpha-enables-reliable-ultra-fine-feature-printing-at-production-scale/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">Nissan to make cars for Chery at Sunderland</span></td>
-  <td class="col-summary">Nissan and Chinese car maker Chery have signed a non-binding MoU for the study of contract manufacturing for Nissan to manufacture Chery UK passenger vehicles at its Sunderland plant. Under ... The post Nissan to make cars for Chery at Sunderland appeared first on Electronics Weekly .</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Semiconductors</span></td>
+  <td class="col-summary">Semiconductors</td>
   <td class="col-points"><ul class="key-points">
-    <li>Nissan and Chinese car maker Chery have signed a non-binding MoU for the study of contract manufacturing for Nissan to manufacture Chery UK passenger vehicles at its Sunderland plant.</li>
-    <li>The post Nissan to make cars for Chery at Sunderland appeared first on Electronics Weekly .</li>
+    <li>Semiconductors</li>
+    <li></li>
     <li></li>
   </ul></td>
-  <td class="col-tags"><span class="tag semi">electronics</span><span class="tag ">manufacturing</span></td>
-  <td class="col-date">04 Jun 2026</td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/nissan-to-make-cars-for-chery-at-sunderland-2026-06/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-tags"><span class="tag semi">semiconductor</span></td>
+  <td class="col-date">ÃÂ¢ÃÂÃÂ</td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/topic/semiconductors/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">Chips Act II proposed – much like Chips Act 1</span></td>
-  <td class="col-summary">The EU has proposed a Chips Act II which will give the Commission power to invest directly in new EU-based fabs instead of requiring companies to apply for subsidies. The ... The post Chips Act II proposed – much like Chips Act 1 appeared first on Electronics Weekly .</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">SK Hynix speeds Yongin fab buildout as memory crunch fuels capacity race</span></td>
+  <td class="col-summary">SK Hynix speeds Yongin fab buildout as memory crunch fuels capacity race</td>
   <td class="col-points"><ul class="key-points">
-    <li>The EU has proposed a Chips Act II which will give the Commission power to invest directly in new EU-based fabs instead of requiring companies to apply for subsidies.</li>
-    <li>The post Chips Act II proposed – much like Chips Act 1 appeared first on Electronics Weekly .</li>
+    <li>Hynix speeds Yongin</li>
+    <li>buildout as memory</li>
+    <li>crunch fuels capacity</li>
+  </ul></td>
+  <td class="col-tags"><span class="tag ">fab</span></td>
+  <td class="col-date">ÃÂ¢ÃÂÃÂ</td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260518VL210/sk-hynix-fab-capacity-demand-production.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">AMD's 2nm defection to Samsung dents TSMC's AI grip</span></td>
+  <td class="col-summary">AMD's 2nm defection to Samsung dents TSMC's AI grip</td>
+  <td class="col-points"><ul class="key-points">
+    <li>defection to Samsung</li>
+    <li>dents TSMCs AI</li>
     <li></li>
   </ul></td>
-  <td class="col-tags"><span class="tag semi">electronics</span><span class="tag ">chip</span><span class="tag ">fab</span></td>
-  <td class="col-date">04 Jun 2026</td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/chips-act-ii-proposed-much-like-chips-act-1-2026-06/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-tags"><span class="tag "> ai </span></td>
+  <td class="col-date">ÃÂ¢ÃÂÃÂ</td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260511PD215/samsung-tsmc-amd-2nm-supply-chain.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">US startup bets on Japan with AI agents that tap live web data</span></td>
+  <td class="col-summary">US startup bets on Japan with AI agents that tap live web data</td>
+  <td class="col-points"><ul class="key-points">
+    <li>startup bets on</li>
+    <li>Japan with AI</li>
+    <li>agents that tap</li>
+  </ul></td>
+  <td class="col-tags"><span class="tag "> ai </span></td>
+  <td class="col-date">ÃÂ¢ÃÂÃÂ</td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/us-startup-bets-on-japan-with-ai-agents-that-tap-live-web-data" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">13</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">WeChat opens up to smartphone AI assistants after ByteDance phone backlash</span></td>
+  <td class="col-summary">WeChat opens up to smartphone AI assistants after ByteDance phone backlash</td>
+  <td class="col-points"><ul class="key-points">
+    <li>WeChat opens up</li>
+    <li>smartphone AI assistants</li>
+    <li>after ByteDance phone</li>
+  </ul></td>
+  <td class="col-tags"><span class="tag "> ai </span></td>
+  <td class="col-date">ÃÂ¢ÃÂÃÂ</td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/wechat-opens-up-to-smartphone-ai-assistants-after-bytedance-phone-backlash" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">14</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Netflix creating industry guidelines for AI production, co-CEO says</span></td>
+  <td class="col-summary">Netflix creating industry guidelines for AI production, co-CEO says</td>
+  <td class="col-points"><ul class="key-points">
+    <li>Netflix creating industry</li>
+    <li>guidelines for AI</li>
+    <li>production coCEO says</li>
+  </ul></td>
+  <td class="col-tags"><span class="tag "> ai </span></td>
+  <td class="col-date">ÃÂ¢ÃÂÃÂ</td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/netflix-creating-industry-guidelines-for-ai-production-co-ceo-says" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">15</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">AI trade isn’t just about tech stocks but also power, TCW says</span></td>
+  <td class="col-summary">The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun</td>
+  <td class="col-points"><ul class="key-points">
+    <li>artificial intelligence boom</li>
+    <li>investors racing into</li>
+    <li>chipmakers cloud providers</li>
+  </ul></td>
+  <td class="col-tags"><span class="tag ">technology</span><span class="tag ai">artificial intelligence</span><span class="tag ">chip</span></td>
+  <td class="col-date">ÃÂ¢ÃÂÃÂ</td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">16</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">South Korean ETF issuers in space race to ride SpaceX IPO buzz</span></td>
+  <td class="col-summary">South Korean asset managers are rushing to launch new exchange-traded funds tied to both established and emerging space technology companies, seeking</td>
+  <td class="col-points"><ul class="key-points">
+    <li>South Korean asset</li>
+    <li>managers are rushing</li>
+    <li>launch new exchangetraded</li>
+  </ul></td>
+  <td class="col-tags"><span class="tag ">technology</span></td>
+  <td class="col-date">ÃÂ¢ÃÂÃÂ</td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/korean-stock-market/newsView/ked202604140004" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">17</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">No career ambition, no ego: AI plays devil's advocate at Audax Private Equity</span></td>
+  <td class="col-summary">Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass</td>
+  <td class="col-points"><ul class="key-points">
+    <li>Generative AI is</li>
+    <li>challenging traditional investment</li>
+    <li>theses acting as</li>
+  </ul></td>
+  <td class="col-tags"><span class="tag "> ai </span></td>
+  <td class="col-date">ÃÂ¢ÃÂÃÂ</td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
