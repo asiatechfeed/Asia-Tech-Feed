@@ -3,7 +3,7 @@ layout: default
 title: Archive
 ---
 
-<h2 style="margin-bottom:20px; color:#1a3a5c;">📁 All News Digests</h2>
+<h2 style="margin-bottom:20px; color:#1a3a5c;">&#128193; All News Digests</h2>
 
 {% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
