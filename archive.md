@@ -21,7 +21,7 @@ title: Archive
         {{ post.title }}
       </a>
       <span style="font-size:0.78rem; color:#718096; margin-left:12px; white-space:nowrap;">
-        {{ post.date | date: "%d %b" }} · {{ post.articles_count | default: 0 }} articles
+        {{ post.date | date: "%d %b" }} &middot; {{ post.articles_count | default: 0 }} articles
       </span>
     </div>
     {% endfor %}
