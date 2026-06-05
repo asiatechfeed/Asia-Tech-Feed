@@ -13,10 +13,10 @@
 <header class="site-header">
   <div class="header-inner">
     <a class="site-title" href="/Asia-Tech-Feed/">
-      â¡ Asia <span>Tech</span> News Feed
+      &#9889; Asia <span>Tech</span> News Feed
     </a>
     <div class="header-meta">
-      SE Asia Â&middot; Semiconductors Â&middot; AI Â&middot; Automation Â&middot; Pharma
+      Asia &middot; Semiconductors &middot; AI &middot; Automation &middot; Pharma
     </div>
   </div>
 </header>
@@ -349,24 +349,22 @@
 </div>
 
 <p style="margin-top:16px; font-size:0.8rem; color:#718096;">
-  Generated: 2026-06-05 09:14 UTC Â&middot; Sources: 12 websites monitored
+  Generated: 2026-06-05 09:15 UTC Â&middot; Sources: 12 websites monitored
 </p>
 
 </main>
 
 <footer>
-  <p>Asia Tech News Feed Â&middot; Auto-updated daily via GitHub Actions Â&middot; Filtered for Asia</p>
-  <p>Keywords: Semiconductor Â&middot; Electronics Â&middot; Logistics Â&middot; Pharmaceutical Â&middot; Biotechnology Â&middot; AI Â&middot; Machine Vision Â&middot; Automation</p>
+  <p>Asia Tech News Feed &middot; Auto-updated daily via GitHub Actions &middot; Filtered for Asia</p>
+  <p>Keywords: Semiconductor &middot; Electronics &middot; Logistics &middot; Pharmaceutical &middot; Biotechnology &middot; AI &middot; Machine Vision &middot; Automation</p>
 </footer>
 
 <script>
-// Keyword filter
 function filterTable(keyword) {
   const rows = document.querySelectorAll('.news-table tbody tr');
   const btns = document.querySelectorAll('.filter-btn');
   btns.forEach(b => b.classList.remove('active'));
   event.target.classList.add('active');
-
   rows.forEach(row => {
     if (!keyword || keyword === 'all') {
       row.style.display = '';
@@ -376,8 +374,6 @@ function filterTable(keyword) {
     }
   });
 }
-
-// CSV download
 function downloadCSV() {
   const table = document.querySelector('.news-table');
   if (!table) return;
