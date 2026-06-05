@@ -1,11 +1,10 @@
 {
   "date": "2026-06-05",
-  "count": 17,
+  "count": 16,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "EW",
     "KED",
     "NikkeiAsia",
     "TechAsia"
@@ -33,9 +32,9 @@
       "url": "https://www.techinasia.com/nvidia-rally-lifts-asian-chip-and-robotics-stocks"
     },
     {
-      "title": "SK Hynix to double output in five years",
-      "source": "EW",
-      "url": "https://www.electronicsweekly.com/news/business/sk-hynix-to-double-output-in-five-years-2026-06/"
+      "title": "HKUST Partners with CalmCar to Establish Physical AI Innovation Center",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/hkust-partners-with-calmcar-to-establish-physical-ai-innovation-center/"
     }
   ]
 }
