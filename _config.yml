@@ -1,0 +1,41 @@
+title: Asia Tech News Feed
+description: Daily SE Asia news digest covering semiconductors, electronics, logistics, pharma, biotech, AI & automation
+baseurl: "/asia-news-feed"
+url: "https://YOUR_GITHUB_USERNAME.github.io"
+
+# Build settings
+theme: null
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page/:num/"
+
+# Permalink
+permalink: /:year/:month/:day/:title/
+
+# Exclude from build
+exclude:
+  - scripts/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - "*.sh"
+
+# Collections
+collections:
+  drafts:
+    output: false
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+markdown: kramdown
+highlighter: rouge
