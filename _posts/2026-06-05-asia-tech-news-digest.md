@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Asia Tech News Digest ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ June 05, 2026"
+title: "Asia Tech News Digest - June 05, 2026"
 date: 2026-06-05 16:34:17 +0800
 articles_count: 16
 sources_count: 6
@@ -122,7 +122,7 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li></li>
   </ul></td>
   <td class="col-tags"><span class="tag semi">semiconductor</span></td>
-  <td class="col-date">ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ</td>
+  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/topic/semiconductors/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>Yongin</li>
   </ul></td>
   <td class="col-tags"><span class="tag ">fab</span></td>
-  <td class="col-date">ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ</td>
+  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260518VL210/sk-hynix-fab-capacity-demand-production.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -148,7 +148,7 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>Samsung dents</li>
   </ul></td>
   <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-date">ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ</td>
+  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260511PD215/samsung-tsmc-amd-2nm-supply-chain.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -161,7 +161,7 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>Japan</li>
   </ul></td>
   <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-date">ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ</td>
+  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/us-startup-bets-on-japan-with-ai-agents-that-tap-live-web-data" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -174,7 +174,7 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>smartphone</li>
   </ul></td>
   <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-date">ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ</td>
+  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/wechat-opens-up-to-smartphone-ai-assistants-after-bytedance-phone-backlash" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -187,7 +187,7 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>industry guidelines</li>
   </ul></td>
   <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-date">ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ</td>
+  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/netflix-creating-industry-guidelines-for-ai-production-co-ceo-says" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -200,7 +200,7 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>boom</li>
   </ul></td>
   <td class="col-tags"><span class="tag ">technology</span><span class="tag ai">artificial intelligence</span><span class="tag ">chip</span></td>
-  <td class="col-date">ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ</td>
+  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -213,7 +213,7 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>asset managers</li>
   </ul></td>
   <td class="col-tags"><span class="tag ">technology</span></td>
-  <td class="col-date">ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ</td>
+  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/korean-stock-market/newsView/ked202604140004" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -226,7 +226,7 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>traditional investment</li>
   </ul></td>
   <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-date">ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ</td>
+  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
