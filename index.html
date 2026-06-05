@@ -17,7 +17,7 @@ title: Latest News
     <div class="lbl">Topic Keywords</div>
   </div>
   <div class="stat-card">
-    <div class="num">SE Asia</div>
+    <div class="num">Asia</div>
     <div class="lbl">Region Focus</div>
   </div>
 </div>
@@ -36,10 +36,10 @@ title: Latest News
     <a href="{{ latest.url | relative_url }}" style="text-decoration:none; color:inherit;">{{ latest.title }}</a>
   </h2>
   <div style="font-size:0.85rem; color:#718096; margin-bottom:14px;">
-    {{ latest.date | date: "%A, %B %d, %Y" }} · {{ latest.articles_count | default: 0 }} articles
+    {{ latest.date | date: "%A, %B %d, %Y" }} Â· {{ latest.articles_count | default: 0 }} articles
   </div>
   <a href="{{ latest.url | relative_url }}" style="background:#1a3a5c; color:#fff; padding:8px 20px; border-radius:6px; text-decoration:none; font-size:0.85rem; font-weight:600;">
-    Read Digest →
+    Read Digest â
   </a>
 </div>
 
@@ -52,10 +52,10 @@ title: Latest News
       {{ post.title }}
     </a>
     <div style="font-size:0.8rem; color:#718096; margin-top:3px;">
-      {{ post.date | date: "%B %d, %Y" }} · {{ post.articles_count | default: 0 }} articles
+      {{ post.date | date: "%B %d, %Y" }} Â· {{ post.articles_count | default: 0 }} articles
     </div>
   </div>
-  <a href="{{ post.url | relative_url }}" style="font-size:0.82rem; color:#2b6cb0; text-decoration:none; white-space:nowrap; margin-left:16px;">View →</a>
+  <a href="{{ post.url | relative_url }}" style="font-size:0.82rem; color:#2b6cb0; text-decoration:none; white-space:nowrap; margin-left:16px;">View â</a>
 </div>
 {% endfor %}
 </div>
