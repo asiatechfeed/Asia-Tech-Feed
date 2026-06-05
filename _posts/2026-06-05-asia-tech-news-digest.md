@@ -16,7 +16,6 @@ csv_file: /assets/data/news-2026-06-05.tsv
   <th class="col-summary">Summary</th>
   <th class="col-points">Key Points</th>
   <th class="col-tags">Topics</th>
-  <th class="col-date">Date</th>
   <th class="col-link">Link</th>
 </tr>
 </thead>
@@ -31,7 +30,6 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>cover AIenabled</li>
   </ul></td>
   <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-date">05 Jun 2026</td>
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/singtels-infraco-nvidia-launch-ai-center-of-excellence" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -44,7 +42,6 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>research</li>
   </ul></td>
   <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-date">05 Jun 2026</td>
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-china-included-200b-cpu-market" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -57,7 +54,6 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>robotics</li>
   </ul></td>
   <td class="col-tags"><span class="tag ">robot</span></td>
-  <td class="col-date">05 Jun 2026</td>
   <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/nvidia-ceo-sees-robotics-next-major-sector-in-south-korea-6163956" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -70,7 +66,6 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>partner</li>
   </ul></td>
   <td class="col-tags"><span class="tag ">manufacturing</span><span class="tag ">robot</span></td>
-  <td class="col-date">05 Jun 2026</td>
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-rally-lifts-asian-chip-and-robotics-stocks" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -83,7 +78,6 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>build</li>
   </ul></td>
   <td class="col-tags"><span class="tag ">technology</span><span class="tag "> ai </span></td>
-  <td class="col-date">04 Jun 2026</td>
   <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/hkust-partners-with-calmcar-to-establish-physical-ai-innovation-center/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -96,7 +90,6 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>AIdriven growth</li>
   </ul></td>
   <td class="col-tags"><span class="tag semi">semiconductor</span></td>
-  <td class="col-date">04 Jun 2026</td>
   <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/twse-highlights-ai-driven-capital-growth-and-semiconductor-leadership-at-computex-2026/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -109,7 +102,6 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>ALPHA OM377</li>
   </ul></td>
   <td class="col-tags"><span class="tag semi">electronics</span></td>
-  <td class="col-date">04 Jun 2026</td>
   <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/macdermid-alpha-enables-reliable-ultra-fine-feature-printing-at-production-scale/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -122,7 +114,6 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li></li>
   </ul></td>
   <td class="col-tags"><span class="tag semi">semiconductor</span></td>
-  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/topic/semiconductors/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -135,7 +126,6 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>Yongin</li>
   </ul></td>
   <td class="col-tags"><span class="tag ">fab</span></td>
-  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260518VL210/sk-hynix-fab-capacity-demand-production.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -148,7 +138,6 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>Samsung dents</li>
   </ul></td>
   <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260511PD215/samsung-tsmc-amd-2nm-supply-chain.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -161,7 +150,6 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>Japan</li>
   </ul></td>
   <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/us-startup-bets-on-japan-with-ai-agents-that-tap-live-web-data" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -174,7 +162,6 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>smartphone</li>
   </ul></td>
   <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/wechat-opens-up-to-smartphone-ai-assistants-after-bytedance-phone-backlash" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -187,7 +174,6 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>industry guidelines</li>
   </ul></td>
   <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/netflix-creating-industry-guidelines-for-ai-production-co-ceo-says" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -200,7 +186,6 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>boom</li>
   </ul></td>
   <td class="col-tags"><span class="tag ">technology</span><span class="tag ai">artificial intelligence</span><span class="tag ">chip</span></td>
-  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -213,7 +198,6 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>asset managers</li>
   </ul></td>
   <td class="col-tags"><span class="tag ">technology</span></td>
-  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/korean-stock-market/newsView/ked202604140004" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -226,7 +210,6 @@ csv_file: /assets/data/news-2026-06-05.tsv
     <li>traditional investment</li>
   </ul></td>
   <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-date">N/A</td>
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
