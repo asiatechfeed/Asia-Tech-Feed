@@ -19,9 +19,10 @@ layout: default
 <div class="summary-bar">
   {% assign kws = "semiconductor,electronics,logistics,pharmaceutical,biotechnology,AI,automation,machine vision" | split: "," %}
   {% for kw in kws %}
+  {% assign kw_lower = kw | downcase %}
   <div class="stat-card">
     <div class="num">
-      {{ content | downcase | split: kw | size | minus: 1 }}
+      {{ content | downcase | split: kw_lower | size | minus: 1 }}
     </div>
     <div class="lbl">{{ kw }}</div>
   </div>
