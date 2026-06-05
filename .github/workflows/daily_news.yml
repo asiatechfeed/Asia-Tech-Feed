@@ -78,7 +78,7 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b "news/$DATE"
-          git add _posts/ assets/data/ _digest_meta.json
+          git add _posts/ assets/data/ -f _digest_meta.json
           git commit -m "📰 News digest $DATE (${{ steps.run_scraper.outputs.article_count }} articles)"
           git push origin "news/$DATE" --force
 
