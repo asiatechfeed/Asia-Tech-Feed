@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Asia Tech News Feed — Daily Scraper
+Asia Tech News Feed â Daily Scraper
 Scrapes 12 news sources, filters for SE Asia + keywords,
 summarizes via Claude API, generates Jekyll posts + TSV for Google Sheets.
 """
@@ -24,9 +24,9 @@ from dateutil import parser as dateparser
 import pytz
 import anthropic
 
-# ─────────────────────────────────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 # CONFIGURATION
-# ─────────────────────────────────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 POSTS_DIR = Path(__file__).parent.parent / "_posts"
@@ -34,7 +34,8 @@ ASSETS_DIR = Path(__file__).parent.parent / "assets" / "data"
 POSTS_DIR.mkdir(exist_ok=True)
 ASSETS_DIR.mkdir(parents=True, exist_ok=True)
 
-MAX_ARTICLES = 20
+MAX_ARTICLES = 25
+MAX_PER_DOMAIN = 3
 LOOKBACK_DAYS = 3
 SGT = pytz.timezone("Asia/Singapore")
 
@@ -63,9 +64,9 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
 }
 
-# ─────────────────────────────────────────────────────────────────────────────
-# NEWS SOURCES — (name, type, url, rss_url or scrape config)
-# ─────────────────────────────────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+# NEWS SOURCES â (name, type, url, rss_url or scrape config)
+# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 
 SOURCES = [
     {
@@ -220,12 +221,12 @@ SOURCES = [
 ]
 
 
-# ─────────────────────────────────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 # HELPERS
-# ─────────────────────────────────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 
 def normalize_date(raw_date) -> datetime | None:
-    """Parse various date formats → timezone-aware UTC datetime."""
+    """Parse various date formats â timezone-aware UTC datetime."""
     if not raw_date:
         return None
     try:
@@ -275,18 +276,18 @@ def fetch_url(url: str, timeout: int = 15) -> requests.Response | None:
         resp.raise_for_status()
         return resp
     except Exception as e:
-        print(f"  ⚠ Failed to fetch {url}: {e}")
+        print(f"  â  Failed to fetch {url}: {e}")
         return None
 
 
-# ─────────────────────────────────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 # FETCHING
-# ─────────────────────────────────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 
 def fetch_rss(source: dict) -> list[dict]:
     """Parse RSS/Atom feed and return raw articles."""
     rss_url = source.get("rss", source["url"])
-    print(f"  📡 RSS: {rss_url}")
+    print(f"  ð¡ RSS: {rss_url}")
     try:
         feed = feedparser.parse(rss_url, request_headers=HEADERS)
         articles = []
@@ -305,13 +306,13 @@ def fetch_rss(source: dict) -> list[dict]:
             })
         return articles
     except Exception as e:
-        print(f"  ⚠ RSS parse error for {rss_url}: {e}")
+        print(f"  â  RSS parse error for {rss_url}: {e}")
         return []
 
 
 def fetch_scrape(source: dict) -> list[dict]:
     """HTML scrape fallback."""
-    print(f"  🔍 Scraping: {source['url']}")
+    print(f"  ð Scraping: {source['url']}")
     resp = fetch_url(source["url"])
     if not resp:
         return []
@@ -373,14 +374,14 @@ def fetch_full_text(url: str) -> str:
     return text[:3000]
 
 
-# ─────────────────────────────────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 # CLAUDE SUMMARIZATION
-# ─────────────────────────────────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 
 def summarize_with_claude(articles: list[dict]) -> list[dict]:
     """Batch summarize articles via Claude API."""
     if not ANTHROPIC_API_KEY:
-        print("⚠ ANTHROPIC_API_KEY not set — using raw summaries.")
+        print("â  ANTHROPIC_API_KEY not set â using raw summaries.")
         for a in articles:
             raw = a.get("summary_raw") or a["title"]
             a["summary"] = (a["summary_raw"] or a["title"])[:320]
@@ -397,7 +398,7 @@ def summarize_with_claude(articles: list[dict]) -> list[dict]:
     summarized = []
 
     for idx, article in enumerate(articles):
-        print(f"  🤖 Summarizing {idx+1}/{len(articles)}: {article['title'][:60]}...")
+        print(f"  ð¤ Summarizing {idx+1}/{len(articles)}: {article['title'][:60]}...")
         context = article.get("full_text") or article.get("summary_raw") or article["title"]
 
         prompt = f"""You are a journalist specializing in Southeast Asia technology and industry news.
@@ -411,9 +412,9 @@ Content:
 Provide ONLY a JSON response with these exact keys:
 {{
   "summary": "<Concise factual summary in exactly 60-80 words. Journalist style. No fluff.>",
-  "key_point_1": "<First key takeaway — factual, journalist style, unique angle, 1-2 sentences>",
-  "key_point_2": "<Second key takeaway — factual, journalist style, unique angle, 1-2 sentences>",
-  "key_point_3": "<Third key takeaway — factual, journalist style, unique angle, 1-2 sentences>",
+  "key_point_1": "<First key takeaway â factual, journalist style, unique angle, 1-2 sentences>",
+  "key_point_2": "<Second key takeaway â factual, journalist style, unique angle, 1-2 sentences>",
+  "key_point_3": "<Third key takeaway â factual, journalist style, unique angle, 1-2 sentences>",
   "tags": ["<tag1>", "<tag2>", "<tag3>"]
 }}
 
@@ -439,7 +440,7 @@ Return ONLY the JSON. No markdown, no explanation."""
             ]
             article["tags"] = data.get("tags", [])[:4]
         except Exception as e:
-            print(f"    ⚠ Claude error: {e}")
+            print(f"    â  Claude error: {e}")
             article["summary"] = (article.get("summary_raw") or article["title"])[:320]
             article["key_points"] = ["", "", ""]
             article["tags"] = article.get("matched_keywords", [])[:3]
@@ -452,9 +453,9 @@ Return ONLY the JSON. No markdown, no explanation."""
     return summarized
 
 
-# ─────────────────────────────────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 # DEDUPLICATION
-# ─────────────────────────────────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 
 def deduplicate(articles: list[dict]) -> list[dict]:
     """Remove near-duplicate articles by URL and title similarity."""
@@ -472,9 +473,9 @@ def deduplicate(articles: list[dict]) -> list[dict]:
     return unique
 
 
-# ─────────────────────────────────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 # OUTPUT GENERATION
-# ─────────────────────────────────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 
 TAG_CLASS_MAP = {
     "ai": "ai", "artificial intelligence": "ai",
@@ -495,7 +496,7 @@ def render_news_table(articles: list[dict]) -> str:
     for i, a in enumerate(articles, 1):
         tags_html = "".join(tag_html(t) for t in (a.get("tags") or []))
         kp = a.get("key_points", ["", "", ""])
-        date_str = a["date"].strftime("%d %b %Y") if a.get("date") else "—"
+        date_str = a["date"].strftime("%d %b %Y") if a.get("date") else "â"
         url = a["url"]
 
         row = f"""<tr>
@@ -576,7 +577,7 @@ def write_jekyll_post(articles: list[dict], run_date: datetime) -> Path:
 
     front_matter = f"""---
 layout: post
-title: "Asia Tech News Digest — {run_date.strftime('%B %d, %Y')}"
+title: "Asia Tech News Digest â {run_date.strftime('%B %d, %Y')}"
 date: {run_date.strftime('%Y-%m-%d %H:%M:%S')} +0800
 articles_count: {len(articles)}
 sources_count: {len(sources_used)}
@@ -585,7 +586,7 @@ csv_file: /assets/data/{tsv_filename}
 ---
 """
     filename.write_text(front_matter + "\n" + table_html + "\n", encoding="utf-8")
-    print(f"✅ Jekyll post written: {filename}")
+    print(f"â Jekyll post written: {filename}")
     return filename
 
 
@@ -594,7 +595,7 @@ def build_email_html(articles: list[dict], run_date: datetime) -> str:
     rows = ""
     for i, a in enumerate(articles, 1):
         kp = a.get("key_points", ["", "", ""])
-        tags = " · ".join(a.get("tags") or [])
+        tags = " Â· ".join(a.get("tags") or [])
         date_str = a["date"].strftime("%d %b") if a.get("date") else ""
         rows += f"""
 <tr style="border-bottom:1px solid #eee;">
@@ -603,11 +604,11 @@ def build_email_html(articles: list[dict], run_date: datetime) -> str:
   <td style="padding:10px 8px;">
     <div style="font-weight:600;color:#1a3a5c;margin-bottom:4px;">{a['title']}</div>
     <div style="font-size:12px;color:#555;margin-bottom:6px;">{a.get('summary','')}</div>
-    <div style="font-size:11px;color:#888;">• {kp[0]}<br>• {kp[1]}<br>• {kp[2]}</div>
+    <div style="font-size:11px;color:#888;">â¢ {kp[0]}<br>â¢ {kp[1]}<br>â¢ {kp[2]}</div>
     <div style="margin-top:6px;">
       <span style="font-size:11px;color:#718096;">{tags}</span>
       <span style="font-size:11px;color:#718096;margin-left:10px;">{date_str}</span>
-      <a href="{a['url']}" style="font-size:11px;color:#e84545;margin-left:10px;">Read →</a>
+      <a href="{a['url']}" style="font-size:11px;color:#e84545;margin-left:10px;">Read â</a>
     </div>
   </td>
 </tr>"""
@@ -616,11 +617,11 @@ def build_email_html(articles: list[dict], run_date: datetime) -> str:
 <html>
 <body style="font-family:Segoe UI,sans-serif;max-width:800px;margin:0 auto;padding:20px;color:#2d3748;">
   <div style="background:#1a3a5c;color:#fff;padding:20px 24px;border-radius:8px 8px 0 0;">
-    <h2 style="margin:0;font-size:1.2rem;">⚡ Asia Tech News Digest — {run_date.strftime('%B %d, %Y')}</h2>
-    <p style="margin:6px 0 0;font-size:13px;color:rgba(255,255,255,0.7);">{len(articles)} articles · Filtered for SE Asia + tech keywords · Awaiting your approval</p>
+    <h2 style="margin:0;font-size:1.2rem;">â¡ Asia Tech News Digest â {run_date.strftime('%B %d, %Y')}</h2>
+    <p style="margin:6px 0 0;font-size:13px;color:rgba(255,255,255,0.7);">{len(articles)} articles Â· Filtered for SE Asia + tech keywords Â· Awaiting your approval</p>
   </div>
   <div style="background:#fff5e6;border:1px solid #f6ad55;border-radius:0 0 8px 8px;padding:14px 20px;margin-bottom:20px;">
-    <strong>📋 Action required:</strong> Review the {len(articles)} articles below.
+    <strong>ð Action required:</strong> Review the {len(articles)} articles below.
     To <strong>publish</strong>, merge the pull request on GitHub.
     To <strong>skip</strong>, simply close the PR without merging.
   </div>
@@ -628,7 +629,7 @@ def build_email_html(articles: list[dict], run_date: datetime) -> str:
     {rows}
   </table>
   <div style="margin-top:20px;padding:14px;background:#f7fafc;border-radius:6px;font-size:12px;color:#718096;text-align:center;">
-    Auto-generated by Asia Tech News Feed · GitHub Actions
+    Auto-generated by Asia Tech News Feed Â· GitHub Actions
   </div>
 </body>
 </html>"""
@@ -641,27 +642,27 @@ def write_email_file(html: str, run_date: datetime) -> Path:
     return email_path
 
 
-# ─────────────────────────────────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 # MAIN
-# ─────────────────────────────────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 
 def main():
     run_date = datetime.now(SGT)
-    print(f"\n🌏 Asia Tech News Feed — {run_date.strftime('%Y-%m-%d %H:%M SGT')}")
+    print(f"\nð Asia Tech News Feed â {run_date.strftime('%Y-%m-%d %H:%M SGT')}")
     print("=" * 60)
 
     all_articles = []
 
     for source in SOURCES:
-        print(f"\n📰 [{source['short']}] {source['name']}")
+        print(f"\nð° [{source['short']}] {source['name']}")
         try:
             if source.get("rss") or source["type"] == "rss":
                 raw = fetch_rss(source)
             else:
                 raw = fetch_scrape(source)
-            print(f"  → {len(raw)} items fetched")
+            print(f"  â {len(raw)} items fetched")
         except Exception as e:
-            print(f"  ✖ Error: {e}")
+            print(f"  â Error: {e}")
             continue
 
         for article in raw:
@@ -674,33 +675,46 @@ def main():
             article["matched_keywords"] = kws
             all_articles.append(article)
 
-    print(f"\n📊 {len(all_articles)} relevant articles found before dedup")
+    print(f"\nð {len(all_articles)} relevant articles found before dedup")
     all_articles = deduplicate(all_articles)
-    print(f"📊 {len(all_articles)} after deduplication")
+    print(f"ð {len(all_articles)} after deduplication")
 
     # Sort by date descending, take top MAX_ARTICLES
     all_articles.sort(key=lambda x: x.get("date") or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
+
+    # Cap at MAX_PER_DOMAIN articles per source domain
+    domain_counts = {}
+    capped = []
+    for a in all_articles:
+        domain = urlparse(a["url"]).netloc
+        if domain_counts.get(domain, 0) < MAX_PER_DOMAIN:
+            domain_counts[domain] = domain_counts.get(domain, 0) + 1
+            capped.append(a)
+    all_articles = capped
+    print(f"📊 {len(all_articles)} after per-domain cap (max {MAX_PER_DOMAIN} per site)")
+
+    # Take top MAX_ARTICLES
     all_articles = all_articles[:MAX_ARTICLES]
-    print(f"📊 Top {len(all_articles)} selected")
+    print(f"ð Top {len(all_articles)} selected")
 
     if not all_articles:
-        print("\n⚠ No articles matched. Exiting without creating post.")
+        print("\nâ  No articles matched. Exiting without creating post.")
         # Write a signal file for GitHub Actions
         Path("/tmp/no_articles.flag").touch()
         sys.exit(0)
 
     # Fetch full text for better summaries (optional, best-effort)
-    print("\n📖 Fetching article full text...")
+    print("\nð Fetching article full text...")
     for a in all_articles[:MAX_ARTICLES]:
         a["full_text"] = fetch_full_text(a["url"])
         time.sleep(0.3)
 
     # Summarize
-    print("\n🤖 Summarizing with Claude...")
+    print("\nð¤ Summarizing with Claude...")
     all_articles = summarize_with_claude(all_articles)
 
     # Write outputs
-    print("\n📝 Writing outputs...")
+    print("\nð Writing outputs...")
     post_path = write_jekyll_post(all_articles, run_date)
 
     email_html = build_email_html(all_articles, run_date)
@@ -720,8 +734,8 @@ def main():
     json_path = Path(__file__).parent.parent / "_digest_meta.json"
     json_path.write_text(json.dumps(summary_json, indent=2), encoding="utf-8")
 
-    print(f"\n✅ Done! {len(all_articles)} articles → {post_path.name}")
-    print(f"📧 Email preview: {email_path}")
+    print(f"\nâ Done! {len(all_articles)} articles â {post_path.name}")
+    print(f"ð§ Email preview: {email_path}")
 
 
 if __name__ == "__main__":
