@@ -1,0 +1,16 @@
+/* =============================================
+   Asia Tech News Feed — Jekyll Theme
+   ============================================= */
+
+:root {
+  --primary: #1a3a5c;
+  --accent: #e84545;
+  --bg: #f5f7fa;
+  --card-bg: #ffffff;
+  --border: #dde3ec;
+  --text: #2d3748;
+  --muted: #718096;
+  --tag-bg: #edf2f7;
+  --tag-text: #2b6cb0;
+  --font: "Segoe UI", system-ui, -apple-system, sans-serif;
+}
