@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-05",
+  "count": 12,
+  "sources": [
+    "CNA",
+    "EW"
+  ],
+  "post_file": "2026-06-05-asia-tech-news-digest.md",
+  "articles": [
+    {
+      "title": "US officials eye government stakes in AI companies, NOTUS reports",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/us-officials-eye-government-stakes-in-ai-companies-notus-reports-6163561"
+    },
+    {
+      "title": "Jet Fuel Prices Soar",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/jet-fuel-prices-soar-2026-06/"
+    },
+    {
+      "title": "Anthropic calls for pause of global AI development",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/anthropic-pause-global-ai-development-6163531"
+    },
+    {
+      "title": "Jedec SiC Guidelines improve reliability in WBG power electronics",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-sic-guidelines-improve-reliability-in-wbg-power-electronics-2026-06/"
+    },
+    {
+      "title": "What caught your eye? RTX Spark, Arm CEO pay, UK space sector",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-rtx-spark-arm-ceo-pay-uk-space-sector-2026-06/"
+    }
+  ]
+}
