@@ -158,6 +158,65 @@ SOURCES = [
         "rss": "https://www.vision-systems.com/rss.xml",
         "type": "rss",
     },
+    {
+        "name": "EE Times Asia",
+        "short": "EETAsia",
+        "url": "https://www.eetasia.com/",
+        "rss": "https://www.eetasia.com/feed/",
+        "type": "rss",
+    },
+    {
+        "name": "DigiTimes",
+        "short": "DigiTimes",
+        "url": "https://www.digitimes.com/news/",
+        "type": "scrape",
+        "article_selector": "article, .news-item, .story-item",
+        "title_selector": "h2, h3, .title",
+        "date_selector": ".date, time, .published",
+        "link_selector": "a",
+    },
+    {
+        "name": "Nikkei Asia",
+        "short": "NikkeiAsia",
+        "url": "https://asia.nikkei.com/",
+        "rss": "https://asia.nikkei.com/rss/feed/nar",
+        "type": "rss",
+    },
+    {
+        "name": "KED Global",
+        "short": "KED",
+        "url": "https://www.kedglobal.com/",
+        "rss": "https://www.kedglobal.com/rss/",
+        "type": "rss",
+    },
+    {
+        "name": "Focus Taiwan",
+        "short": "FocusTW",
+        "url": "https://focustaiwan.tw/",
+        "rss": "https://focustaiwan.tw/rss/aall.xml",
+        "type": "rss",
+    },
+    {
+        "name": "Tech in Asia",
+        "short": "TechAsia",
+        "url": "https://www.techinasia.com/",
+        "rss": "https://www.techinasia.com/feed",
+        "type": "rss",
+    },
+    {
+        "name": "Automation.com",
+        "short": "Automate",
+        "url": "https://www.automation.com/",
+        "rss": "https://www.automation.com/rss-feeds/all-content",
+        "type": "rss",
+    },
+    {
+        "name": "Semiconductor Engineering",
+        "short": "SemiEng",
+        "url": "https://semiengineering.com/",
+        "rss": "https://semiengineering.com/feed/",
+        "type": "rss",
+    },
 ]
 
 
@@ -369,7 +428,7 @@ Return ONLY the JSON. No markdown, no explanation."""
             )
             raw = message.content[0].text.strip()
             # Strip any markdown code fences
-            raw = re.sub(r"^```(?json)?\s*", "", raw)
+            raw = re.sub(r"^```(?:json)?\s*", "", raw)
             raw = re.sub(r"\s*```$", "", raw)
             data = json.loads(raw)
             article["summary"] = data.get("summary", article["title"])[:400]
