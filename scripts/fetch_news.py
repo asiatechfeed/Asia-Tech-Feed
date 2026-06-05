@@ -34,7 +34,7 @@ ASSETS_DIR = Path(__file__).parent.parent / "assets" / "data"
 POSTS_DIR.mkdir(exist_ok=True)
 ASSETS_DIR.mkdir(parents=True, exist_ok=True)
 
-MAX_ARTICLES = 25
+MAX_ARTICLES = 30
 MAX_PER_DOMAIN = 3
 LOOKBACK_DAYS = 3
 
