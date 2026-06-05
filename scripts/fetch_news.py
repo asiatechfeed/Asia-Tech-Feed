@@ -24,7 +24,160 @@ from dateutil import parser as dateparser
 import pytz
 import anthropic
 
-   except Exception:
+# ─────────────────────────────────────────────────────────────────────────────
+# CONFIGURATION
+# ─────────────────────────────────────────────────────────────────────────────
+
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
+POSTS_DIR = Path(__file__).parent.parent / "_posts"
+ASSETS_DIR = Path(__file__).parent.parent / "assets" / "data"
+POSTS_DIR.mkdir(exist_ok=True)
+ASSETS_DIR.mkdir(parents=True, exist_ok=True)
+
+MAX_ARTICLES = 20
+LOOKBACK_DAYS = 3
+SGT = pytz.timezone("Asia/Singapore")
+
+KEYWORDS = [
+    "semiconductor", "electronics", "logistics", "pharmaceutical",
+    "biotechnology", "biotech", "technology", "artificial intelligence",
+    " ai ", "machine vision", "automation", "manufacturing",
+    "chip", "wafer", "fab", "foundry", "pcb", "circuit board",
+    "supply chain", "medtech", "drug", "vaccine", "robot",
+]
+
+SE_ASIA_TERMS = [
+    "singapore", "malaysia", "thailand", "vietnam", "indonesia",
+    "philippines", "myanmar", "cambodia", "laos", "brunei",
+    "southeast asia", "se asia", "asean", "asia pacific", "apac",
+    "penang", "johor", "selangor", "bangkok", "ho chi minh",
+    "jakarta", "manila", "yangon", "phnom penh", "kuala lumpur",
+]
+
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept-Language": "en-US,en;q=0.9",
+}
+
+# ─────────────────────────────────────────────────────────────────────────────
+# NEWS SOURCES — (name, type, url, rss_url or scrape config)
+# ─────────────────────────────────────────────────────────────────────────────
+
+SOURCES = [
+    {
+        "name": "IC-PCB",
+        "short": "IC-PCB",
+        "url": "https://www.ic-pcb.com/",
+        "rss": "https://www.ic-pcb.com/feed/",
+        "type": "rss",
+    },
+    {
+        "name": "Channel NewsAsia",
+        "short": "CNA",
+        "url": "https://www.channelnewsasia.com/",
+        "rss": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+        "type": "rss",
+    },
+    {
+        "name": "Business Times SG",
+        "short": "BT",
+        "url": "https://www.businesstimes.com.sg/",
+        "rss": "https://www.businesstimes.com.sg/rss/all-news",
+        "type": "rss",
+    },
+    {
+        "name": "The Star MY",
+        "short": "Star",
+        "url": "https://www.thestar.com.my/news/",
+        "rss": "https://www.thestar.com.my/rss/News/Nation/",
+        "type": "rss",
+    },
+    {
+        "name": "Straits Times",
+        "short": "ST",
+        "url": "https://www.straitstimes.com/",
+        "rss": "https://www.straitstimes.com/news/tech/rss.xml",
+        "type": "rss",
+    },
+    {
+        "name": "Asia Manufacturing Review",
+        "short": "AMR",
+        "url": "https://www.asiamanufacturingreview.com/",
+        "rss": "https://www.asiamanufacturingreview.com/rss/news",
+        "type": "rss",
+    },
+    {
+        "name": "EDB Corporate News",
+        "short": "EDB",
+        "url": "https://www.edb.gov.sg/en/about-edb/media-releases-publications.html?tab=corporate-news",
+        "type": "scrape",
+        "article_selector": "article, .news-item, .media-item",
+        "title_selector": "h2, h3, .title",
+        "date_selector": ".date, time, .published",
+        "link_selector": "a",
+    },
+    {
+        "name": "EDB Industry News",
+        "short": "EDB-I",
+        "url": "https://www.edb.gov.sg/en/about-edb/media-releases-publications.html?tab=industry-news",
+        "type": "scrape",
+        "article_selector": "article, .news-item, .media-item",
+        "title_selector": "h2, h3, .title",
+        "date_selector": ".date, time, .published",
+        "link_selector": "a",
+    },
+    {
+        "name": "EECO Thailand",
+        "short": "EECO",
+        "url": "https://www.eeco.or.th/en",
+        "rss": "https://www.eeco.or.th/en/feed/",
+        "type": "rss",
+    },
+    {
+        "name": "TrendForce",
+        "short": "TrendForce",
+        "url": "https://www.trendforce.com/news/",
+        "rss": "https://www.trendforce.com/feed/",
+        "type": "rss",
+    },
+    {
+        "name": "Electronics Weekly",
+        "short": "EW",
+        "url": "https://www.electronicsweekly.com/news/",
+        "rss": "https://www.electronicsweekly.com/feed/",
+        "type": "rss",
+    },
+    {
+        "name": "Vision Systems Design",
+        "short": "VSD",
+        "url": "https://www.vision-systems.com/",
+        "rss": "https://www.vision-systems.com/rss.xml",
+        "type": "rss",
+    },
+]
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# HELPERS
+# ─────────────────────────────────────────────────────────────────────────────
+
+def normalize_date(raw_date) -> datetime | None:
+    """Parse various date formats → timezone-aware UTC datetime."""
+    if not raw_date:
+        return None
+    try:
+        if isinstance(raw_date, time.struct_time):
+            dt = datetime(*raw_date[:6], tzinfo=timezone.utc)
+        else:
+            dt = dateparser.parse(str(raw_date), fuzzy=True)
+        if dt and dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt
+    except Exception:
         return None
 
 
@@ -47,7 +200,152 @@ def is_relevant(text: str) -> tuple[bool, list[str]]:
     matched_sea = [s for s in SE_ASIA_TERMS if s.lower() in t]
     # Must match at least 1 keyword. SE Asia match is a bonus but not required
     # for sources that are already SE Asia-focused.
-    return bool(matched_kw), matched_kwly 60-80 words. Journalist style. No fluff.>",
+    return bool(matched_kw), matched_kw
+
+
+def clean_text(html_or_text: str) -> str:
+    """Strip HTML tags and clean whitespace."""
+    soup = BeautifulSoup(html_or_text, "lxml")
+    text = soup.get_text(separator=" ", strip=True)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def fetch_url(url: str, timeout: int = 15) -> requests.Response | None:
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=timeout)
+        resp.raise_for_status()
+        return resp
+    except Exception as e:
+        print(f"  ⚠ Failed to fetch {url}: {e}")
+        return None
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# FETCHING
+# ─────────────────────────────────────────────────────────────────────────────
+
+def fetch_rss(source: dict) -> list[dict]:
+    """Parse RSS/Atom feed and return raw articles."""
+    rss_url = source.get("rss", source["url"])
+    print(f"  📡 RSS: {rss_url}")
+    try:
+        feed = feedparser.parse(rss_url, request_headers=HEADERS)
+        articles = []
+        for entry in feed.entries:
+            url = entry.get("link", "")
+            title = entry.get("title", "")
+            summary = entry.get("summary", entry.get("description", ""))
+            pub_date = normalize_date(entry.get("published_parsed") or entry.get("updated_parsed"))
+            articles.append({
+                "title": clean_text(title),
+                "url": url,
+                "summary_raw": clean_text(summary)[:800],
+                "date": pub_date,
+                "source": source["name"],
+                "short": source["short"],
+            })
+        return articles
+    except Exception as e:
+        print(f"  ⚠ RSS parse error for {rss_url}: {e}")
+        return []
+
+
+def fetch_scrape(source: dict) -> list[dict]:
+    """HTML scrape fallback."""
+    print(f"  🔍 Scraping: {source['url']}")
+    resp = fetch_url(source["url"])
+    if not resp:
+        return []
+    soup = BeautifulSoup(resp.text, "lxml")
+    articles = []
+
+    # Try common article container patterns
+    containers = (
+        soup.select("article") or
+        soup.select(".news-item") or
+        soup.select(".media-item") or
+        soup.select(".post") or
+        soup.select("li.item")
+    )
+
+    for item in containers[:30]:
+        link_tag = item.find("a", href=True)
+        if not link_tag:
+            continue
+        url = urljoin(source["url"], link_tag["href"])
+        title_tag = item.find(["h1", "h2", "h3", "h4"])
+        title = clean_text(title_tag.get_text() if title_tag else link_tag.get_text())
+        if not title or len(title) < 10:
+            continue
+        p_tag = item.find("p")
+        summary = clean_text(p_tag.get_text() if p_tag else "")
+        time_tag = item.find(["time", "span"], class_=re.compile("date|time|published", re.I))
+        raw_date = ""
+        if time_tag:
+            raw_date = time_tag.get("datetime") or time_tag.get_text()
+        pub_date = normalize_date(raw_date)
+        articles.append({
+            "title": title,
+            "url": url,
+            "summary_raw": summary[:800],
+            "date": pub_date,
+            "source": source["name"],
+            "short": source["short"],
+        })
+    return articles
+
+
+def fetch_full_text(url: str) -> str:
+    """Fetch article body for better summarization context."""
+    resp = fetch_url(url, timeout=12)
+    if not resp:
+        return ""
+    soup = BeautifulSoup(resp.text, "lxml")
+    # Remove nav, header, footer, ads, scripts
+    for tag in soup(["script", "style", "nav", "header", "footer", "aside", "iframe", "form"]):
+        tag.decompose()
+    # Try article body
+    body = (
+        soup.find("article") or
+        soup.find(class_=re.compile("article-body|post-content|entry-content|story-body")) or
+        soup.find("main")
+    )
+    text = clean_text(body.get_text() if body else soup.get_text())
+    return text[:3000]
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# CLAUDE SUMMARIZATION
+# ─────────────────────────────────────────────────────────────────────────────
+
+def summarize_with_claude(articles: list[dict]) -> list[dict]:
+    """Batch summarize articles via Claude API."""
+    if not ANTHROPIC_API_KEY:
+        print("⚠ ANTHROPIC_API_KEY not set — using raw summaries.")
+        for a in articles:
+            a["summary"] = (a["summary_raw"] or a["title"])[:320]
+            a["key_points"] = ["Key point 1 placeholder.", "Key point 2 placeholder.", "Key point 3 placeholder."]
+            a["tags"] = a.get("matched_keywords", [])[:3]
+        return articles
+
+    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    summarized = []
+
+    for idx, article in enumerate(articles):
+        print(f"  🤖 Summarizing {idx+1}/{len(articles)}: {article['title'][:60]}...")
+        context = article.get("full_text") or article.get("summary_raw") or article["title"]
+
+        prompt = f"""You are a journalist specializing in Southeast Asia technology and industry news.
+
+Article Title: {article['title']}
+Source: {article['source']}
+URL: {article['url']}
+Content:
+{context}
+
+Provide ONLY a JSON response with these exact keys:
+{{
+  "summary": "<Concise factual summary in exactly 60-80 words. Journalist style. No fluff.>",
   "key_point_1": "<First key takeaway — factual, journalist style, unique angle, 1-2 sentences>",
   "key_point_2": "<Second key takeaway — factual, journalist style, unique angle, 1-2 sentences>",
   "key_point_3": "<Third key takeaway — factual, journalist style, unique angle, 1-2 sentences>",
