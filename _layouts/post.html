@@ -15,3 +15,38 @@ layout: default
     ⬇ Download for Google Sheets (.tsv)
   </a>
 </div>
+
+<div class="summary-bar">
+  {% assign kws = "semiconductor,electronics,logistics,pharmaceutical,biotechnology,AI,automation,machine vision" | split: "," %}
+  {% for kw in kws %}
+  <div class="stat-card">
+    <div class="num">
+      {{ content | downcase | split: kw | size | minus: 1 }}
+    </div>
+    <div class="lbl">{{ kw }}</div>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="filter-bar">
+  <label>Filter:</label>
+  <button class="filter-btn active" onclick="filterTable('all')">All</button>
+  <button class="filter-btn" onclick="filterTable('semiconductor')">Semiconductor</button>
+  <button class="filter-btn" onclick="filterTable('ai')">AI</button>
+  <button class="filter-btn" onclick="filterTable('electronics')">Electronics</button>
+  <button class="filter-btn" onclick="filterTable('logistics')">Logistics</button>
+  <button class="filter-btn" onclick="filterTable('pharmaceutical')">Pharma</button>
+  <button class="filter-btn" onclick="filterTable('biotechnology')">Biotech</button>
+  <button class="filter-btn" onclick="filterTable('automation')">Automation</button>
+  <button class="filter-btn" onclick="filterTable('machine vision')">Machine Vision</button>
+</div>
+
+<div class="post-body">
+  <div class="news-table-wrapper">
+    {{ content }}
+  </div>
+</div>
+
+<p style="margin-top:16px; font-size:0.8rem; color:#718096;">
+  Generated: {{ page.date | date: "%Y-%m-%d %H:%M UTC" }} · Sources: {{ page.sources_count | default: 12 }} websites monitored
+</p>
