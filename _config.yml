@@ -1,7 +1,7 @@
 title: Asia Tech News Feed
 description: Daily SE Asia news digest covering semiconductors, electronics, logistics, pharma, biotech, AI & automation
 baseurl: "/asia-news-feed"
-url: "https://YOUR_GITHUB_USERNAME.github.io"
+url: "https://asiatechfeed.github.io"
 
 # Build settings
 theme: null
@@ -23,6 +23,7 @@ exclude:
   - Gemfile.lock
   - README.md
   - "*.sh"
+  - vendor/
 
 # Collections
 collections:
