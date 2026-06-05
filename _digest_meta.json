@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "count": 12,
+  "count": 11,
   "sources": [
     "CNA",
     "EW"
@@ -18,11 +18,6 @@
       "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/jet-fuel-prices-soar-2026-06/"
     },
     {
-      "title": "Anthropic calls for pause of global AI development",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/anthropic-pause-global-ai-development-6163531"
-    },
-    {
       "title": "Jedec SiC Guidelines improve reliability in WBG power electronics",
       "source": "EW",
       "url": "https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-sic-guidelines-improve-reliability-in-wbg-power-electronics-2026-06/"
@@ -31,6 +26,11 @@
       "title": "What caught your eye? RTX Spark, Arm CEO pay, UK space sector",
       "source": "EW",
       "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-rtx-spark-arm-ceo-pay-uk-space-sector-2026-06/"
+    },
+    {
+      "title": "Fable: The Engineer Who Got The Blues",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-engineer-who-got-the-blues-2026-06/"
     }
   ]
 }
