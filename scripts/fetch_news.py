@@ -526,7 +526,7 @@ def render_news_table(articles: list[dict]) -> str:
     for i, a in enumerate(articles, 1):
         tags_html = "".join(tag_html(t) for t in (a.get("tags") or []))
         kp = a.get("key_points", ["", "", ""])
-        date_str = a["date"].strftime("%d %b %Y") if a.get("date") else "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ"
+        date_str = a["date"].strftime("%d %b %Y") if a.get("date") else "N/A"
         url = a["url"]
 
         row = f"""<tr>
@@ -607,7 +607,7 @@ def write_jekyll_post(articles: list[dict], run_date: datetime) -> Path:
 
     front_matter = f"""---
 layout: post
-title: "Asia Tech News Digest ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ {run_date.strftime('%B %d, %Y')}"
+title: "Asia Tech News Digest - {run_date.strftime('%B %d, %Y')}"{run_date.strftime('%B %d, %Y')}"
 date: {run_date.strftime('%Y-%m-%d %H:%M:%S')} +0800
 articles_count: {len(articles)}
 sources_count: {len(sources_used)}
