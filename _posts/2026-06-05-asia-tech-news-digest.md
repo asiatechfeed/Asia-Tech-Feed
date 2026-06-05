@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Asia Tech News Digest — June 05, 2026"
-date: 2026-06-05 12:25:16 +0800
-articles_count: 11
-sources_count: 2
-sources: ["CNA", "EW"]
+date: 2026-06-05 12:38:44 +0800
+articles_count: 10
+sources_count: 1
+sources: ["EW"]
 csv_file: /assets/data/news-2026-06-05.tsv
 ---
 
@@ -24,153 +24,139 @@ csv_file: /assets/data/news-2026-06-05.tsv
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">US officials eye government stakes in AI companies, NOTUS reports</span></td>
-  <td class="col-summary">US officials eye government stakes in AI companies, NOTUS reports</td>
-  <td class="col-points"><ul class="key-points">
-    <li>Advertisement Business US officials eye government stakes in AI companies, NOTUS reports Open AI and Anthropic logos are seen in this illustration taken on September 12, 2025.</li>
-    <li>REUTERS/Dado Ruvic/Illustration 05 Jun 2026 08:05AM Bookmark Bookmark Share WhatsApp Telegram Facebook Twitter Email LinkedIn Set CNA as your preferred source on Google Add CNA as a trusted source to help Google better understand and surface our content in search results.</li>
-    <li>Read a summary of this article on FAST.</li>
-  </ul></td>
-  <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-date">05 Jun 2026</td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/us-officials-eye-government-stakes-in-ai-companies-notus-reports-6163561" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">EW</span></td>
   <td class="col-title"><span class="article-title">Jet Fuel Prices Soar</span></td>
   <td class="col-summary">Jet fuel prices have surged sharply in recent weeks, approaching levels last seen during the peak of the global energy crisis in 2022. Compared with gasoline or even diesel, jet ... The post Jet Fuel Prices Soar appeared first on Electronics Weekly .</td>
   <td class="col-points"><ul class="key-points">
-    <li>Jet Fuel Prices Soar Jet fuel prices have surged sharply in recent weeks, approaching levels last seen during the peak of the global energy crisis in 2022.</li>
-    <li>Compared with gasoline or even diesel, jet fuel prices tend to be more sensitive to supply disruptions, as aviation demand is highly global and refining output is less flexible.</li>
-    <li>According to data from Thomson Reuters via the U.S.</li>
+    <li>Jet fuel prices have surged sharply in recent weeks, approaching levels last seen during the peak of the global energy crisis in 2022.</li>
+    <li>Compared with gasoline or even diesel, jet ...</li>
+    <li>The post Jet Fuel Prices Soar appeared first on Electronics Weekly .</li>
   </ul></td>
   <td class="col-tags"><span class="tag semi">electronics</span></td>
   <td class="col-date">05 Jun 2026</td>
   <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/blogs/mannerisms/markets/jet-fuel-prices-soar-2026-06/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">3</td>
+  <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">EW</span></td>
   <td class="col-title"><span class="article-title">Jedec SiC Guidelines improve reliability in WBG power electronics</span></td>
   <td class="col-summary">JEDEC is publishing two new guidelines around the use of wide bandgap (WBG) power semiconductor materials, such as Gallium Nitride (GaN) and Silicon Carbide (SiC). There is JEP203: Guideline for ... The post Jedec SiC Guidelines improve reliability in WBG power electronics appeared first on Electronics Weekly .</td>
   <td class="col-points"><ul class="key-points">
-    <li>Jedec SiC Guidelines improve reliability in WBG power electronics JEDEC is publishing two new guidelines around the use of wide bandgap (WBG) power semiconductor materials, such as Gallium Nitride (GaN) and Silicon Carbide (SiC).</li>
-    <li>There is JEP203: Guideline for Short Circuit Evaluation in Power Conversion Transistors.</li>
-    <li>And JEP204: Catalog of Stress Procedures for Silicon Carbide Devices for Power Electronic Conversion.</li>
+    <li>JEDEC is publishing two new guidelines around the use of wide bandgap (WBG) power semiconductor materials, such as Gallium Nitride (GaN) and Silicon Carbide (SiC).</li>
+    <li>There is JEP203: Guideline for ...</li>
+    <li>The post Jedec SiC Guidelines improve reliability in WBG power electronics appeared first on Electronics Weekly .</li>
   </ul></td>
   <td class="col-tags"><span class="tag semi">semiconductor</span><span class="tag semi">electronics</span></td>
   <td class="col-date">04 Jun 2026</td>
   <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-sic-guidelines-improve-reliability-in-wbg-power-electronics-2026-06/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">4</td>
+  <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">EW</span></td>
   <td class="col-title"><span class="article-title">What caught your eye? RTX Spark, Arm CEO pay, UK space sector</span></td>
   <td class="col-summary">There's Nvidia claiming its RTX Spark will reinvent the PC, an Elon Musk-sized pay deal for Arm's CEO, and a report examining the impact of academia on the UK space sector... The post What caught your eye? RTX Spark, Arm CEO pay, UK space sector appeared first on Electronics Weekly .</td>
   <td class="col-points"><ul class="key-points">
-    <li>What caught your eye?</li>
-    <li>RTX Spark, Arm CEO pay, UK space sector What caught our eye this last week?</li>
-    <li>There’s Nvidia claiming its RTX Spark will reinvent the PC, an Elon Musk-sized pay deal for Arm’s CEO, and a report examining the impact of academia on the UK space sector… The Electronics Weekly team share some fingerposts – their picks of the week, in terms of announcements, developments, product releases, quotes, or anything else in the wide world of electronics, that caught their eye… Caroline Hayes, editor I liked the story about Nvidia entering the PC domain and claiming that the RTX Spark reinvents the PC.</li>
+    <li>There's Nvidia claiming its RTX Spark will reinvent the PC, an Elon Musk-sized pay deal for Arm's CEO, and a report examining the impact of academia on the UK space sector...</li>
+    <li>RTX Spark, Arm CEO pay, UK space sector appeared first on Electronics Weekly .</li>
+    <li></li>
   </ul></td>
   <td class="col-tags"><span class="tag semi">electronics</span></td>
   <td class="col-date">04 Jun 2026</td>
   <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-rtx-spark-arm-ceo-pay-uk-space-sector-2026-06/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">5</td>
+  <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">EW</span></td>
   <td class="col-title"><span class="article-title">Fable: The Engineer Who Got The Blues</span></td>
   <td class="col-summary">This engineer is famous for his wise sayings as well as for the scientific breakthrough which won him a Nobel Prize. Among his most famous insights are: ‘Strength ... The post Fable: The Engineer Who Got The Blues appeared first on Electronics Weekly .</td>
   <td class="col-points"><ul class="key-points">
-    <li>Fable: The Engineer Who Got The Blues This engineer is famous for his wise sayings as well as for the scientific breakthrough which won him a Nobel Prize.</li>
-    <li>Among his most famous insights are: ‘Strength does not come from physical capacity.</li>
-    <li>It comes from an indomitable will’ ‘We as human beings live in a very imprecise world.</li>
+    <li>This engineer is famous for his wise sayings as well as for the scientific breakthrough which won him a Nobel Prize.</li>
+    <li>Among his most famous insights are: ‘Strength ...</li>
+    <li>The post Fable: The Engineer Who Got The Blues appeared first on Electronics Weekly .</li>
   </ul></td>
   <td class="col-tags"><span class="tag semi">electronics</span><span class="tag ">fab</span></td>
   <td class="col-date">04 Jun 2026</td>
   <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-engineer-who-got-the-blues-2026-06/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">6</td>
+  <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">EW</span></td>
   <td class="col-title"><span class="article-title">Picture of the Day: AtkinsRéalis-Spot navigates nuclear sites</span></td>
   <td class="col-summary">AtkinsRéalis and Oxford Robotics Institute (ORI) - the University of Oxford’s centre for robotics and AI - are partnering to speed the adoption of autonomous robotic systems in the nuclear and energy sectors. The post Picture of the Day: AtkinsRéalis-Spot navigates nuclear sites appeared first on Electronics Weekly .</td>
   <td class="col-points"><ul class="key-points">
-    <li>Picture of the Day: AtkinsRéalis-Spot navigates nuclear sites AtkinsRéalis and Oxford Robotics Institute (ORI) - the University of Oxford’s centre for robotics and AI - are partnering to speed the adoption of autonomous robotic systems in the nuclear and energy sectors.</li>
-    <li>The collaboration follows joint work in the UK.</li>
-    <li>Specifically, using the AtkinsRéalis robotics platforms for autonomous navigation,…</li>
+    <li>AtkinsRéalis and Oxford Robotics Institute (ORI) - the University of Oxford’s centre for robotics and AI - are partnering to speed the adoption of autonomous robotic systems in the nuclear and energy sectors.</li>
+    <li>The post Picture of the Day: AtkinsRéalis-Spot navigates nuclear sites appeared first on Electronics Weekly .</li>
+    <li></li>
   </ul></td>
   <td class="col-tags"><span class="tag semi">electronics</span><span class="tag "> ai </span><span class="tag ">robot</span></td>
   <td class="col-date">04 Jun 2026</td>
   <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-atkinsrealis-spot-navigates-nuclear-sites-2026-06/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">7</td>
+  <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">EW</span></td>
   <td class="col-title"><span class="article-title">Overcoming durability and cost barriers for wearables and foldable devices</span></td>
   <td class="col-summary">The rapid evolution of wearable and foldable technology is reshaping consumer electronics, writes Samudrapom Dam. As market demand grows, wearable and foldable electronic devices face critical challenges in durability and ... The post Overcoming durability and cost barriers for wearables and foldable devices appeared f</td>
   <td class="col-points"><ul class="key-points">
-    <li>Overcoming durability and cost barriers for wearables and foldable devices The rapid evolution of wearable and foldable technology is reshaping consumer electronics, writes Samudrapom Dam.</li>
-    <li>As market demand grows, wearable and foldable electronic devices face critical challenges in durability and cost that hinder widespread adoption.</li>
-    <li>However, diverse approaches aim to overcome these bottlenecks, ultimately paving the way for more resilient, affordable and scalable wearable and foldable solutions.</li>
+    <li>The rapid evolution of wearable and foldable technology is reshaping consumer electronics, writes Samudrapom Dam.</li>
+    <li>As market demand grows, wearable and foldable electronic devices face critical challenges in durability and ...</li>
+    <li>The post Overcoming durability and cost barriers for wearables and foldable devices appeared first on Electronics Weekly .</li>
   </ul></td>
   <td class="col-tags"><span class="tag semi">electronics</span><span class="tag ">technology</span></td>
   <td class="col-date">04 Jun 2026</td>
   <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/overcoming-durability-and-cost-barriers-for-wearables-and-foldable-devices-2026-06/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">8</td>
+  <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">EW</span></td>
   <td class="col-title"><span class="article-title">Tiny SoM featuring NXP’s i.MX 91 targets Linux-based IoT</span></td>
   <td class="col-summary">Direct Insight is introducing its QS91 system-on-module featuring NXP’s i.MX 91 applications processor. The Oxfordshire-based integrator says the SoM delivers an “optimised blend of security, features, and energy-efficient performance” for ... The post Tiny SoM featuring NXP’s i.MX 91 targets Linux-based IoT appeared f</td>
   <td class="col-points"><ul class="key-points">
-    <li>Tiny SoM featuring NXP’s i.MX 91 targets Linux-based IoT Direct Insight is introducing its QS91 system-on-module featuring NXP’s i.MX 91 applications processor.</li>
-    <li>The Oxfordshire-based integrator says the SoM delivers an “optimised blend of security, features, and energy-efficient performance” for Linux-based IoT and industrial applications.</li>
-    <li>SoM Measuring just 27x27mm, with 2.6mm total height in a single-sided assembly, its QFN-style lead style design has a 1mm pitch with 100 pads.</li>
+    <li>Direct Insight is introducing its QS91 system-on-module featuring NXP’s i.MX 91 applications processor.</li>
+    <li>The Oxfordshire-based integrator says the SoM delivers an “optimised blend of security, features, and energy-efficient performance” for ...</li>
+    <li>The post Tiny SoM featuring NXP’s i.MX 91 targets Linux-based IoT appeared first on Electronics Weekly .</li>
   </ul></td>
   <td class="col-tags"><span class="tag semi">electronics</span></td>
   <td class="col-date">04 Jun 2026</td>
   <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/products/bus-systems-sbcs/tiny-som-featuring-nxps-i-mx-91-targets-linux-based-iot-2026-06/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">9</td>
+  <td class="col-num">8</td>
   <td class="col-source"><span class="source-badge">EW</span></td>
   <td class="col-title"><span class="article-title">Tessalia plans $250m packaging plant in France</span></td>
   <td class="col-summary">Earlier this week Tessalia Technology, a packaging joint venture between Foxconn, Radiall and Thales, laid the foundation stone of an advanced semiconductor packaging facility in Le Barp, Nouvelle-Aquitaine. Patrice Caine, ... The post Tessalia plans $250m packaging plant in France appeared first on Electronics Weekly </td>
   <td class="col-points"><ul class="key-points">
-    <li>Tessalia plans $250m packaging plant in France Earlier this week Tessalia Technology, a packaging joint venture between Foxconn, Radiall and Thales, laid the foundation stone of an advanced semiconductor packaging facility in Le Barp, Nouvelle-Aquitaine.</li>
-    <li>Patrice Caine, chairman and CEO of Thales, said Tessalia represents a push for control over the company’s electronics value chain amid a competitive global semiconductor market.</li>
-    <li>The investment could be more than €250m by 2033.</li>
+    <li>Earlier this week Tessalia Technology, a packaging joint venture between Foxconn, Radiall and Thales, laid the foundation stone of an advanced semiconductor packaging facility in Le Barp, Nouvelle-Aquitaine.</li>
+    <li>The post Tessalia plans $250m packaging plant in France appeared first on Electronics Weekly .</li>
+    <li></li>
   </ul></td>
   <td class="col-tags"><span class="tag semi">semiconductor</span><span class="tag semi">electronics</span><span class="tag ">technology</span></td>
   <td class="col-date">04 Jun 2026</td>
   <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/tessia-plans-250m-packaging-plant-in-france-2026-06/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">10</td>
+  <td class="col-num">9</td>
   <td class="col-source"><span class="source-badge">EW</span></td>
   <td class="col-title"><span class="article-title">Nissan to make cars for Chery at Sunderland</span></td>
   <td class="col-summary">Nissan and Chinese car maker Chery have signed a non-binding MoU for the study of contract manufacturing for Nissan to manufacture Chery UK passenger vehicles at its Sunderland plant. Under ... The post Nissan to make cars for Chery at Sunderland appeared first on Electronics Weekly .</td>
   <td class="col-points"><ul class="key-points">
-    <li>Nissan to make cars for Chery at Sunderland Nissan and Chinese car maker Chery have signed a non-binding MoU for the study of contract manufacturing for Nissan to manufacture Chery UK passenger vehicles at its Sunderland plant.</li>
-    <li>Under the terms of the MoU the Sunderland facility would remain fully owned by Nissan, with the team at the plant employed by Nissan.</li>
-    <li>“The MoU includes the possibility that Nissan would aim to begin manufacturing Chery International UK passenger vehicles on the plant’s production Line One in financial year 2027,” says a joint statement.</li>
+    <li>Nissan and Chinese car maker Chery have signed a non-binding MoU for the study of contract manufacturing for Nissan to manufacture Chery UK passenger vehicles at its Sunderland plant.</li>
+    <li>The post Nissan to make cars for Chery at Sunderland appeared first on Electronics Weekly .</li>
+    <li></li>
   </ul></td>
   <td class="col-tags"><span class="tag semi">electronics</span><span class="tag ">manufacturing</span></td>
   <td class="col-date">04 Jun 2026</td>
   <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/nissan-to-make-cars-for-chery-at-sunderland-2026-06/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">11</td>
+  <td class="col-num">10</td>
   <td class="col-source"><span class="source-badge">EW</span></td>
   <td class="col-title"><span class="article-title">Chips Act II proposed – much like Chips Act 1</span></td>
   <td class="col-summary">The EU has proposed a Chips Act II which will give the Commission power to invest directly in new EU-based fabs instead of requiring companies to apply for subsidies. The ... The post Chips Act II proposed – much like Chips Act 1 appeared first on Electronics Weekly .</td>
   <td class="col-points"><ul class="key-points">
-    <li>Chips Act II proposed – much like Chips Act 1 The EU has proposed a Chips Act II which will give the Commission power to invest directly in new EU-based fabs instead of requiring companies to apply for subsidies.</li>
-    <li>The EU has now acknowledged that Chips Act I will not double Europe’s world market share by 2030 as intended.</li>
-    <li>Chips Act II is looking at a spend of $139 billion in public-private investment by 2035 by which time TSMC, at its current level of capex of $50+ billion a year, will have spent over $500 billion on capital investment.</li>
+    <li>The EU has proposed a Chips Act II which will give the Commission power to invest directly in new EU-based fabs instead of requiring companies to apply for subsidies.</li>
+    <li>The post Chips Act II proposed – much like Chips Act 1 appeared first on Electronics Weekly .</li>
+    <li></li>
   </ul></td>
   <td class="col-tags"><span class="tag semi">electronics</span><span class="tag ">chip</span><span class="tag ">fab</span></td>
   <td class="col-date">04 Jun 2026</td>

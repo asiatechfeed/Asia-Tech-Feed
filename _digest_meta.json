@@ -1,17 +1,11 @@
 {
   "date": "2026-06-05",
-  "count": 11,
+  "count": 10,
   "sources": [
-    "CNA",
     "EW"
   ],
   "post_file": "2026-06-05-asia-tech-news-digest.md",
   "articles": [
-    {
-      "title": "US officials eye government stakes in AI companies, NOTUS reports",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/us-officials-eye-government-stakes-in-ai-companies-notus-reports-6163561"
-    },
     {
       "title": "Jet Fuel Prices Soar",
       "source": "EW",
@@ -31,6 +25,11 @@
       "title": "Fable: The Engineer Who Got The Blues",
       "source": "EW",
       "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-engineer-who-got-the-blues-2026-06/"
+    },
+    {
+      "title": "Picture of the Day: AtkinsR\u00e9alis-Spot navigates nuclear sites",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-atkinsrealis-spot-navigates-nuclear-sites-2026-06/"
     }
   ]
 }
