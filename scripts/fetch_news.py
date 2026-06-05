@@ -323,8 +323,12 @@ def summarize_with_claude(articles: list[dict]) -> list[dict]:
     if not ANTHROPIC_API_KEY:
         print("⚠ ANTHROPIC_API_KEY not set — using raw summaries.")
         for a in articles:
+            raw = a.get("full_text") or a.get("summary_raw") or a["title"]
             a["summary"] = (a["summary_raw"] or a["title"])[:320]
-            a["key_points"] = ["Key point 1 placeholder.", "Key point 2 placeholder.", "Key point 3 placeholder."]
+            # Extract up to 3 sentences from the article text as key points
+            import re as _re
+            sentences = [s.strip() for s in _re.split(r'(?<=[.!?])\s+', raw) if len(s.strip()) > 20]
+            a["key_points"] = (sentences[:3] + ["", "", ""])[:3]
             a["tags"] = a.get("matched_keywords", [])[:3]
         return articles
 
