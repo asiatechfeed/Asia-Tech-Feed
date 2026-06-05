@@ -4,15 +4,15 @@ layout: default
 <div class="post-header">
   <h1>{{ page.title }}</h1>
   <div class="post-meta">
-    <span>📅 {{ page.date | date: "%B %d, %Y" }}</span>
-    <span>📰 {{ page.articles_count | default: 0 }} articles</span>
-    <span>🌏 Southeast Asia Focus</span>
+    <span>ð {{ page.date | date: "%B %d, %Y" }}</span>
+    <span>ð° {{ page.articles_count | default: 0 }} articles</span>
+    <span>ð Asia Focus</span>
   </div>
 </div>
 
 <div class="actions-bar">
   <a href="{{ page.csv_file | relative_url }}" class="btn-download" download>
-    ⬇ Download for Google Sheets (.tsv)
+    â¬ Download for Google Sheets (.tsv)
   </a>
 </div>
 
@@ -48,5 +48,5 @@ layout: default
 </div>
 
 <p style="margin-top:16px; font-size:0.8rem; color:#718096;">
-  Generated: {{ page.date | date: "%Y-%m-%d %H:%M UTC" }} · Sources: {{ page.sources_count | default: 12 }} websites monitored
+  Generated: {{ page.date | date: "%Y-%m-%d %H:%M UTC" }} Â· Sources: {{ page.sources_count | default: 12 }} websites monitored
 </p>
