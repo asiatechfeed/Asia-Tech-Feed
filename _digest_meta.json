@@ -1,8 +1,7 @@
 {
   "date": "2026-06-06",
-  "count": 20,
+  "count": 17,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
     "EW",
@@ -29,14 +28,14 @@
       "url": "https://www.techinasia.com/huawei-commits-2-6b-to-smart-driving-tech"
     },
     {
-      "title": "Marvell to join S&P 500 after AI boom helps chipmaker pass profitability test",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/marvell-join-sp-500-after-ai-boom-helps-chipmaker-pass-profitability-test-6165681"
+      "title": "Accelerating Zero-Knowledge Proof Generation With Reconfigurable Hardware (KAIST)",
+      "source": "SemiEng",
+      "url": "https://semiengineering.com/accelerating-zero-knowledge-proof-generation-with-reconfigurable-hardware-kaist/"
     },
     {
-      "title": "US says it will speed development and use of AI for national security",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/us-says-it-will-speed-development-and-use-ai-national-security-6165561"
+      "title": "SK Hynix to double output in five years",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/news/business/sk-hynix-to-double-output-in-five-years-2026-06/"
     }
   ]
 }
