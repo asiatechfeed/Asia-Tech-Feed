@@ -1,4 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.github.io/Asia-Tech-Feed/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.github.io/Asia-Tech-Feed/" rel="alternate" type="text/html" /><updated>2026-06-06T02:30:55+00:00</updated><id>https://asiatechfeed.github.io/Asia-Tech-Feed/feed.xml</id><title type="html">Asia Tech News Feed</title><subtitle>Daily Asia news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html"></title><link href="https://asiatechfeed.github.io/Asia-Tech-Feed/2026/06/06/2026-06-06-asia-tech-news-digest/" rel="alternate" type="text/html" title="" /><published>2026-06-06T02:30:55+00:00</published><updated>2026-06-06T02:30:55+00:00</updated><id>https://asiatechfeed.github.io/Asia-Tech-Feed/2026/06/06/2026-06-06-asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.github.io/Asia-Tech-Feed/2026/06/06/2026-06-06-asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Asia Tech News Feed</title>
+  <meta name="description" content="Daily Asia news digest covering semiconductors, electronics, logistics, pharma, biotech, AI & automation">
+  <link rel="stylesheet" href="/Asia-Tech-Feed/assets/css/style.css">
+  <link rel="alternate" type="application/rss+xml" title="Asia Tech News Feed" href="/Asia-Tech-Feed/feed.xml">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="site-title" href="/Asia-Tech-Feed/">
+      &#9889; Asia <span>Tech</span> News Feed
+    </a>
+    <div class="header-meta">
+      Asia &middot; Semiconductors &middot; AI &middot; Automation &middot; Pharma
+    </div>
+  </div>
+</header>
+
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a href="/Asia-Tech-Feed/" >Latest</a>
+    <a href="/Asia-Tech-Feed/archive" >Archive</a>
+    <a href="/Asia-Tech-Feed/feed.xml">RSS Feed</a>
+  </div>
+</nav>
+
+<main>
+  <div class="post-header">
+  <h1></h1>
+  <div class="post-meta">
+    <span>&#128197; June 06, 2026</span>
+    <span>&#128240; 0 articles</span>
+    <span>&#127759; Asia Focus</span>
+  </div>
+</div>
+
+<div class="actions-bar">
+  <a href="" class="btn-download" download>
+    &#11015; Download for Google Sheets (.tsv)
+  </a>
+</div>
+
+<div class="summary-bar">
+  
+  
+  <div class="stat-card" data-topic="semiconductor">
+    <div class="num">0</div>
+    <div class="lbl">semiconductor</div>
+  </div>
+  
+  <div class="stat-card" data-topic="electronics">
+    <div class="num">0</div>
+    <div class="lbl">electronics</div>
+  </div>
+  
+  <div class="stat-card" data-topic="logistics">
+    <div class="num">0</div>
+    <div class="lbl">logistics</div>
+  </div>
+  
+  <div class="stat-card" data-topic="pharmaceutical">
+    <div class="num">0</div>
+    <div class="lbl">pharmaceutical</div>
+  </div>
+  
+  <div class="stat-card" data-topic="biotechnology">
+    <div class="num">0</div>
+    <div class="lbl">biotechnology</div>
+  </div>
+  
+  <div class="stat-card" data-topic="ai">
+    <div class="num">0</div>
+    <div class="lbl">AI</div>
+  </div>
+  
+  <div class="stat-card" data-topic="automation">
+    <div class="num">0</div>
+    <div class="lbl">automation</div>
+  </div>
+  
+  <div class="stat-card" data-topic="machine vision">
+    <div class="num">0</div>
+    <div class="lbl">machine vision</div>
+  </div>
+  
+</div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const rows = document.querySelectorAll('.news-table tbody tr');
+  document.querySelectorAll('.stat-card[data-topic]').forEach(function(card) {
+    const kw = card.dataset.topic;
+    let count = 0;
+    rows.forEach(function(row) {
+      const tags = row.querySelector('.col-tags');
+      if (tags && tags.innerText.toLowerCase().includes(kw)) count++;
+    });
+    card.querySelector('.num').textContent = count > 0 ? count : '';
+    if (count === 0) card.style.opacity = '0.35';
+  });
+});
+</script>
+
+<div class="filter-bar">
+  <label>Filter:</label>
+  <button class="filter-btn active" onclick="filterTable('all')">All</button>
+  <button class="filter-btn" onclick="filterTable('semiconductor')">Semiconductor</button>
+  <button class="filter-btn" onclick="filterTable('ai')">AI</button>
+  <button class="filter-btn" onclick="filterTable('electronics')">Electronics</button>
+  <button class="filter-btn" onclick="filterTable('logistics')">Logistics</button>
+  <button class="filter-btn" onclick="filterTable('pharmaceutical')">Pharma</button>
+  <button class="filter-btn" onclick="filterTable('biotechnology')">Biotech</button>
+  <button class="filter-btn" onclick="filterTable('automation')">Automation</button>
+  <button class="filter-btn" onclick="filterTable('machine vision')">Machine Vision</button>
+</div>
+
+<div class="post-body">
+  <div class="news-table-wrapper">
+    <table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -272,130 +394,66 @@
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author></entry><entry><title type="html">Asia Tech News Digest - June 05, 2026</title><link href="https://asiatechfeed.github.io/Asia-Tech-Feed/2026/06/05/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 05, 2026" /><published>2026-06-05T08:34:17+00:00</published><updated>2026-06-05T08:34:17+00:00</updated><id>https://asiatechfeed.github.io/Asia-Tech-Feed/2026/06/05/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.github.io/Asia-Tech-Feed/2026/06/05/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Singtel secures AI funding under Singapore partnership</span></td>
-  <td class="col-summary">Singtel said the program will cover AI-enabled operations, digital infrastructure, customer platforms, and workforce development.</td>
-  <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/singtels-infraco-nvidia-launch-ai-center-of-excellence" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Samsung, SK hynix, Micron to supply AI memory for Nvidia</span></td>
-  <td class="col-summary">Nvidia is hiring for a new research and development center in Korea amid tight HBM supply.</td>
-  <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-china-included-200b-cpu-market" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Nvidia CEO sees robotics as next major sector in South Korea</span></td>
-  <td class="col-summary">Nvidia CEO sees robotics as next major sector in South Korea</td>
-  <td class="col-tags"><span class="tag ">robot</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/nvidia-ceo-sees-robotics-next-major-sector-in-south-korea-6163956" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Nvidia to partner with Korean manufacturers on robotics</span></td>
-  <td class="col-summary">He added that Nvidia will partner with Korean manufacturing companies on robotics and AI.</td>
-  <td class="col-tags"><span class="tag ">manufacturing</span><span class="tag ">robot</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-rally-lifts-asian-chip-and-robotics-stocks" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">HKUST Partners with CalmCar to Establish Physical AI Innovation Center</span></td>
-  <td class="col-summary">The center aims to build a new-generation physical AI technology foundation capable of understanding, predicting, reasoning, and decision-making. The post HKUST Partners with CalmCar to Establish Physical AI Innovation Center appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ">technology</span><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/hkust-partners-with-calmcar-to-establish-physical-ai-innovation-center/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">TWSE Highlights AI-driven Capital Growth and Semiconductor Leadership at COMPUTEX 2026</span></td>
-  <td class="col-summary">TWSE highlights AI-driven growth, semiconductor strength, and capital market momentum at COMPUTEX 2026. The post TWSE Highlights AI-driven Capital Growth and Semiconductor Leadership at COMPUTEX 2026 appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/twse-highlights-ai-driven-capital-growth-and-semiconductor-leadership-at-computex-2026/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">MacDermid Alpha Enables Reliable Ultra-fine Feature Printing at Production Scale</span></td>
-  <td class="col-summary">MacDermid Alpha's ALPHA OM-377 is a no-clean solder paste engineered for ultra-fine feature printing in advanced electronics assemblies. The post MacDermid Alpha Enables Reliable Ultra-fine Feature Printing at Production Scale appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/macdermid-alpha-enables-reliable-ultra-fine-feature-printing-at-production-scale/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Semiconductors</span></td>
-  <td class="col-summary">Semiconductors</td>
-  <td class="col-tags"><span class="tag semi">semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/topic/semiconductors/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SK Hynix speeds Yongin fab buildout as memory crunch fuels capacity race</span></td>
-  <td class="col-summary">SK Hynix speeds Yongin fab buildout as memory crunch fuels capacity race</td>
-  <td class="col-tags"><span class="tag ">fab</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260518VL210/sk-hynix-fab-capacity-demand-production.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AMD's 2nm defection to Samsung dents TSMC's AI grip</span></td>
-  <td class="col-summary">AMD's 2nm defection to Samsung dents TSMC's AI grip</td>
-  <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260511PD215/samsung-tsmc-amd-2nm-supply-chain.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">US startup bets on Japan with AI agents that tap live web data</span></td>
-  <td class="col-summary">US startup bets on Japan with AI agents that tap live web data</td>
-  <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/us-startup-bets-on-japan-with-ai-agents-that-tap-live-web-data" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">WeChat opens up to smartphone AI assistants after ByteDance phone backlash</span></td>
-  <td class="col-summary">WeChat opens up to smartphone AI assistants after ByteDance phone backlash</td>
-  <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/wechat-opens-up-to-smartphone-ai-assistants-after-bytedance-phone-backlash" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Netflix creating industry guidelines for AI production, co-CEO says</span></td>
-  <td class="col-summary">Netflix creating industry guidelines for AI production, co-CEO says</td>
-  <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/netflix-creating-industry-guidelines-for-ai-production-co-ceo-says" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">AI trade isn’t just about tech stocks but also power, TCW says</span></td>
-  <td class="col-summary">The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun</td>
-  <td class="col-tags"><span class="tag ">technology</span><span class="tag ai">artificial intelligence</span><span class="tag ">chip</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">South Korean ETF issuers in space race to ride SpaceX IPO buzz</span></td>
-  <td class="col-summary">South Korean asset managers are rushing to launch new exchange-traded funds tied to both established and emerging space technology companies, seeking</td>
-  <td class="col-tags"><span class="tag ">technology</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/korean-stock-market/newsView/ked202604140004" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">No career ambition, no ego: AI plays devil's advocate at Audax Private Equity</span></td>
-  <td class="col-summary">Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass</td>
-  <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Source Title Summary Topics Link TechAsia Singtel secures AI funding under Singapore partnership Singtel said the program will cover AI-enabled operations, digital infrastructure, customer platforms, and workforce development. ai Read TechAsia Samsung, SK hynix, Micron to supply AI memory for Nvidia Nvidia is hiring for a new research and development center in Korea amid tight HBM supply. ai Read CNA Nvidia CEO sees robotics as next major sector in South Korea Nvidia CEO sees robotics as next major sector in South Korea robot Read TechAsia Nvidia to partner with Korean manufacturers on robotics He added that Nvidia will partner with Korean manufacturing companies on robotics and AI. manufacturingrobot Read EETAsia HKUST Partners with CalmCar to Establish Physical AI Innovation Center The center aims to build a new-generation physical AI technology foundation capable of understanding, predicting, reasoning, and decision-making. The post HKUST Partners with CalmCar to Establish Physical AI Innovation Center appeared first on EE Times Asia . technology ai Read EETAsia TWSE Highlights AI-driven Capital Growth and Semiconductor Leadership at COMPUTEX 2026 TWSE highlights AI-driven growth, semiconductor strength, and capital market momentum at COMPUTEX 2026. The post TWSE Highlights AI-driven Capital Growth and Semiconductor Leadership at COMPUTEX 2026 appeared first on EE Times Asia . semiconductor Read EETAsia MacDermid Alpha Enables Reliable Ultra-fine Feature Printing at Production Scale MacDermid Alpha's ALPHA OM-377 is a no-clean solder paste engineered for ultra-fine feature printing in advanced electronics assemblies. The post MacDermid Alpha Enables Reliable Ultra-fine Feature Printing at Production Scale appeared first on EE Times Asia . electronics Read DigiTimes Semiconductors Semiconductors semiconductor Read DigiTimes SK Hynix speeds Yongin fab buildout as memory crunch fuels capacity race SK Hynix speeds Yongin fab buildout as memory crunch fuels capacity race fab Read DigiTimes AMD's 2nm defection to Samsung dents TSMC's AI grip AMD's 2nm defection to Samsung dents TSMC's AI grip ai Read NikkeiAsia US startup bets on Japan with AI agents that tap live web data US startup bets on Japan with AI agents that tap live web data ai Read NikkeiAsia WeChat opens up to smartphone AI assistants after ByteDance phone backlash WeChat opens up to smartphone AI assistants after ByteDance phone backlash ai Read NikkeiAsia Netflix creating industry guidelines for AI production, co-CEO says Netflix creating industry guidelines for AI production, co-CEO says ai Read KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun technologyartificial intelligencechip Read KED South Korean ETF issuers in space race to ride SpaceX IPO buzz South Korean asset managers are rushing to launch new exchange-traded funds tied to both established and emerging space technology companies, seeking technology Read KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass ai Read]]></summary></entry><entry><title type="html">Asia Tech News Feed — Getting Started</title><link href="https://asiatechfeed.github.io/Asia-Tech-Feed/2026/06/04/welcome/" rel="alternate" type="text/html" title="Asia Tech News Feed — Getting Started" /><published>2026-06-04T16:00:00+00:00</published><updated>2026-06-04T16:00:00+00:00</updated><id>https://asiatechfeed.github.io/Asia-Tech-Feed/2026/06/04/welcome</id><content type="html" xml:base="https://asiatechfeed.github.io/Asia-Tech-Feed/2026/06/04/welcome/"><![CDATA[<p style="padding:40px;text-align:center;color:#718096;">
-  Your daily Asia Tech news digest will appear here. The feed runs every morning at 10:00 AM SGT.
-</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Your daily Asia Tech news digest will appear here. The feed runs every morning at 10:00 AM SGT.]]></summary></entry></feed>
+</table>
+
+  </div>
+</div>
+
+<p style="margin-top:16px; font-size:0.8rem; color:#718096;">
+  Generated: 2026-06-06 02:30 UTC &middot; Sources: 12 websites monitored
+</p>
+
+</main>
+
+<footer>
+  <p>Asia Tech News Feed &middot; Auto-updated daily via GitHub Actions &middot; Filtered for Asia</p>
+  <p>Keywords: Semiconductor &middot; Electronics &middot; Logistics &middot; Pharmaceutical &middot; Biotechnology &middot; AI &middot; Machine Vision &middot; Automation</p>
+</footer>
+
+<script>
+function filterTable(keyword) {
+  const rows = document.querySelectorAll('.news-table tbody tr');
+  const btns = document.querySelectorAll('.filter-btn');
+  btns.forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+  rows.forEach(row => {
+    if (!keyword || keyword === 'all') {
+      row.style.display = '';
+    } else {
+      const text = row.innerText.toLowerCase();
+      row.style.display = text.includes(keyword.toLowerCase()) ? '' : 'none';
+    }
+  });
+}
+function downloadCSV() {
+  const table = document.querySelector('.news-table');
+  if (!table) return;
+  let csv = [];
+  const rows = table.querySelectorAll('tr');
+  rows.forEach(row => {
+    const cols = row.querySelectorAll('th, td');
+    const rowData = Array.from(cols).map(col => {
+      const link = col.querySelector('a');
+      let text = link && col.classList.contains('col-link') ? link.href : col.innerText;
+      return '"' + text.replace(/"/g, '""').replace(/\n/g, ' ') + '"';
+    });
+    csv.push(rowData.join('\t'));
+  });
+  const blob = new Blob([csv.join('\n')], { type: 'text/csv' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'asia-news-' + new Date().toISOString().slice(0,10) + '.csv';
+  a.click();
+}
+</script>
+
+
+<div style="text-align:center; padding:18px 0 10px;">
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_uv" style="display:inline-flex; align-items:center; gap:6px; background:#f7fafc; border:1px solid #e2e8f0; border-radius:20px; padding:5px 16px; font-size:0.8rem; color:#4a5568;">
+&#128065; <span id="busuanzi_value_site_uv">...</span> visitors
+</span>
+</div>
+</body>
+</html>
