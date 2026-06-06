@@ -1,40 +1,42 @@
 {
-  "date": "2026-06-05",
-  "count": 16,
+  "date": "2026-06-06",
+  "count": 20,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
+    "EW",
     "KED",
     "NikkeiAsia",
+    "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-06-05-asia-tech-news-digest.md",
+  "post_file": "2026-06-06-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Singtel secures AI funding under Singapore partnership",
+      "title": "Meta drops 5% on report it may sell stock for AI",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/singtels-infraco-nvidia-launch-ai-center-of-excellence"
+      "url": "https://www.techinasia.com/meta-notifies-singapore-staff-in-global-8000-role-layoffs"
     },
     {
-      "title": "Samsung, SK hynix, Micron to supply AI memory for Nvidia",
+      "title": "Marvell joins S&P 500 after meeting profit requirement",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-china-included-200b-cpu-market"
+      "url": "https://www.techinasia.com/marvell-sees-strong-2028-revenue-ai-data-centers-shares-jump"
     },
     {
-      "title": "Nvidia CEO sees robotics as next major sector in South Korea",
+      "title": "Huawei Ascend 910C chips used in DeepSeek post-training",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/huawei-commits-2-6b-to-smart-driving-tech"
+    },
+    {
+      "title": "Marvell to join S&P 500 after AI boom helps chipmaker pass profitability test",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/nvidia-ceo-sees-robotics-next-major-sector-in-south-korea-6163956"
+      "url": "https://www.channelnewsasia.com/business/marvell-join-sp-500-after-ai-boom-helps-chipmaker-pass-profitability-test-6165681"
     },
     {
-      "title": "Nvidia to partner with Korean manufacturers on robotics",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-rally-lifts-asian-chip-and-robotics-stocks"
-    },
-    {
-      "title": "HKUST Partners with CalmCar to Establish Physical AI Innovation Center",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/hkust-partners-with-calmcar-to-establish-physical-ai-innovation-center/"
+      "title": "US says it will speed development and use of AI for national security",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/us-says-it-will-speed-development-and-use-ai-national-security-6165561"
     }
   ]
 }
