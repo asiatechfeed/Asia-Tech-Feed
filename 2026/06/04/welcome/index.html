@@ -16,10 +16,10 @@
 <header class="site-header">
   <div class="header-inner">
     <a class="site-title" href="/Asia-Tech-Feed/">
-      â¡ Asia <span>Tech</span> News Feed
+      &#9889; Asia <span>Tech</span> News Feed
     </a>
     <div class="header-meta">
-      SE Asia Â&middot; Semiconductors Â&middot; AI Â&middot; Automation Â&middot; Pharma
+      Asia &middot; Semiconductors &middot; AI &middot; Automation &middot; Pharma
     </div>
   </div>
 </header>
@@ -36,78 +36,77 @@
   <div class="post-header">
   <h1>Asia Tech News Feed — Getting Started</h1>
   <div class="post-meta">
-    <span>ð June 04, 2026</span>
-    <span>ð° 0 articles</span>
-    <span>ð Asia Focus</span>
+    <span>&#128197; June 04, 2026</span>
+    <span>&#128240; 0 articles</span>
+    <span>&#127759; Asia Focus</span>
   </div>
 </div>
 
 <div class="actions-bar">
   <a href="/Asia-Tech-Feed/assets/data/" class="btn-download" download>
-    â¬ Download for Google Sheets (.tsv)
+    &#11015; Download for Google Sheets (.tsv)
   </a>
 </div>
 
 <div class="summary-bar">
   
   
-  <div class="stat-card">
-    <div class="num">
-      0
-    </div>
+  <div class="stat-card" data-topic="semiconductor">
+    <div class="num">0</div>
     <div class="lbl">semiconductor</div>
   </div>
   
-  <div class="stat-card">
-    <div class="num">
-      0
-    </div>
+  <div class="stat-card" data-topic="electronics">
+    <div class="num">0</div>
     <div class="lbl">electronics</div>
   </div>
   
-  <div class="stat-card">
-    <div class="num">
-      0
-    </div>
+  <div class="stat-card" data-topic="logistics">
+    <div class="num">0</div>
     <div class="lbl">logistics</div>
   </div>
   
-  <div class="stat-card">
-    <div class="num">
-      0
-    </div>
+  <div class="stat-card" data-topic="pharmaceutical">
+    <div class="num">0</div>
     <div class="lbl">pharmaceutical</div>
   </div>
   
-  <div class="stat-card">
-    <div class="num">
-      0
-    </div>
+  <div class="stat-card" data-topic="biotechnology">
+    <div class="num">0</div>
     <div class="lbl">biotechnology</div>
   </div>
   
-  <div class="stat-card">
-    <div class="num">
-      0
-    </div>
+  <div class="stat-card" data-topic="ai">
+    <div class="num">0</div>
     <div class="lbl">AI</div>
   </div>
   
-  <div class="stat-card">
-    <div class="num">
-      0
-    </div>
+  <div class="stat-card" data-topic="automation">
+    <div class="num">0</div>
     <div class="lbl">automation</div>
   </div>
   
-  <div class="stat-card">
-    <div class="num">
-      0
-    </div>
+  <div class="stat-card" data-topic="machine vision">
+    <div class="num">0</div>
     <div class="lbl">machine vision</div>
   </div>
   
 </div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const rows = document.querySelectorAll('.news-table tbody tr');
+  document.querySelectorAll('.stat-card[data-topic]').forEach(function(card) {
+    const kw = card.dataset.topic;
+    let count = 0;
+    rows.forEach(function(row) {
+      const tags = row.querySelector('.col-tags');
+      if (tags && tags.innerText.toLowerCase().includes(kw)) count++;
+    });
+    card.querySelector('.num').textContent = count > 0 ? count : '';
+    if (count === 0) card.style.opacity = '0.35';
+  });
+});
+</script>
 
 <div class="filter-bar">
   <label>Filter:</label>
@@ -132,24 +131,22 @@
 </div>
 
 <p style="margin-top:16px; font-size:0.8rem; color:#718096;">
-  Generated: 2026-06-04 16:00 UTC Â&middot; Sources: 0 websites monitored
+  Generated: 2026-06-04 16:00 UTC &middot; Sources: 0 websites monitored
 </p>
 
 </main>
 
 <footer>
-  <p>Asia Tech News Feed Â&middot; Auto-updated daily via GitHub Actions Â&middot; Filtered for Asia</p>
-  <p>Keywords: Semiconductor Â&middot; Electronics Â&middot; Logistics Â&middot; Pharmaceutical Â&middot; Biotechnology Â&middot; AI Â&middot; Machine Vision Â&middot; Automation</p>
+  <p>Asia Tech News Feed &middot; Auto-updated daily via GitHub Actions &middot; Filtered for Asia</p>
+  <p>Keywords: Semiconductor &middot; Electronics &middot; Logistics &middot; Pharmaceutical &middot; Biotechnology &middot; AI &middot; Machine Vision &middot; Automation</p>
 </footer>
 
 <script>
-// Keyword filter
 function filterTable(keyword) {
   const rows = document.querySelectorAll('.news-table tbody tr');
   const btns = document.querySelectorAll('.filter-btn');
   btns.forEach(b => b.classList.remove('active'));
   event.target.classList.add('active');
-
   rows.forEach(row => {
     if (!keyword || keyword === 'all') {
       row.style.display = '';
@@ -159,8 +156,6 @@ function filterTable(keyword) {
     }
   });
 }
-
-// CSV download
 function downloadCSV() {
   const table = document.querySelector('.news-table');
   if (!table) return;
@@ -184,5 +179,12 @@ function downloadCSV() {
 }
 </script>
 
+
+<div style="text-align:center; padding:18px 0 10px;">
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_uv" style="display:inline-flex; align-items:center; gap:6px; background:#f7fafc; border:1px solid #e2e8f0; border-radius:20px; padding:5px 16px; font-size:0.8rem; color:#4a5568;">
+&#128065; <span id="busuanzi_value_site_uv">...</span> visitors
+</span>
+</div>
 </body>
 </html>

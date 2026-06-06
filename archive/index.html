@@ -13,10 +13,10 @@
 <header class="site-header">
   <div class="header-inner">
     <a class="site-title" href="/Asia-Tech-Feed/">
-      â¡ Asia <span>Tech</span> News Feed
+      &#9889; Asia <span>Tech</span> News Feed
     </a>
     <div class="header-meta">
-      SE Asia Â&middot; Semiconductors Â&middot; AI Â&middot; Automation Â&middot; Pharma
+      Asia &middot; Semiconductors &middot; AI &middot; Automation &middot; Pharma
     </div>
   </div>
 </header>
@@ -30,7 +30,7 @@
 </nav>
 
 <main>
-  <h2 style="margin-bottom:20px; color:#1a3a5c;">📁 All News Digests</h2>
+  <h2 style="margin-bottom:20px; color:#1a3a5c;">&#128193; All News Digests</h2>
 
 <div style="margin-bottom:24px;">
   <h3 style="color:#718096; font-size:0.9rem; font-weight:700; letter-spacing:1px; text-transform:uppercase; margin-bottom:10px; border-bottom:1px solid #dde3ec; padding-bottom:6px;">
@@ -42,11 +42,11 @@
     <div style="font-size:0.82rem; color:#2b6cb0; font-weight:600; margin-bottom:8px;">June</div>
     
     <div style="padding:8px 0; border-bottom:1px solid #f0f0f0; display:flex; justify-content:space-between; align-items:center;">
-      <a href="/Asia-Tech-Feed/2026/06/06/2026-06-05-asia-tech-news-digest/" style="color:#1a3a5c; text-decoration:none; font-size:0.9rem;">
-        
+      <a href="/Asia-Tech-Feed/2026/06/05/asia-tech-news-digest/" style="color:#1a3a5c; text-decoration:none; font-size:0.9rem;">
+        Asia Tech News Digest - June 05, 2026
       </a>
       <span style="font-size:0.78rem; color:#718096; margin-left:12px; white-space:nowrap;">
-        06 Jun &middot; 0 articles
+        05 Jun &middot; 16 articles
       </span>
     </div>
     
@@ -67,18 +67,16 @@
 </main>
 
 <footer>
-  <p>Asia Tech News Feed Â&middot; Auto-updated daily via GitHub Actions Â&middot; Filtered for Asia</p>
-  <p>Keywords: Semiconductor Â&middot; Electronics Â&middot; Logistics Â&middot; Pharmaceutical Â&middot; Biotechnology Â&middot; AI Â&middot; Machine Vision Â&middot; Automation</p>
+  <p>Asia Tech News Feed &middot; Auto-updated daily via GitHub Actions &middot; Filtered for Asia</p>
+  <p>Keywords: Semiconductor &middot; Electronics &middot; Logistics &middot; Pharmaceutical &middot; Biotechnology &middot; AI &middot; Machine Vision &middot; Automation</p>
 </footer>
 
 <script>
-// Keyword filter
 function filterTable(keyword) {
   const rows = document.querySelectorAll('.news-table tbody tr');
   const btns = document.querySelectorAll('.filter-btn');
   btns.forEach(b => b.classList.remove('active'));
   event.target.classList.add('active');
-
   rows.forEach(row => {
     if (!keyword || keyword === 'all') {
       row.style.display = '';
@@ -88,8 +86,6 @@ function filterTable(keyword) {
     }
   });
 }
-
-// CSV download
 function downloadCSV() {
   const table = document.querySelector('.news-table');
   if (!table) return;
@@ -113,5 +109,12 @@ function downloadCSV() {
 }
 </script>
 
+
+<div style="text-align:center; padding:18px 0 10px;">
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_uv" style="display:inline-flex; align-items:center; gap:6px; background:#f7fafc; border:1px solid #e2e8f0; border-radius:20px; padding:5px 16px; font-size:0.8rem; color:#4a5568;">
+&#128065; <span id="busuanzi_value_site_uv">...</span> visitors
+</span>
+</div>
 </body>
 </html>
