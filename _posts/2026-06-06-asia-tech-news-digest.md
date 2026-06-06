@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Asia Tech News Digest - June 06, 2026"June 06, 2026"
+title: "Asia Tech News Digest - June 06, 2026"
 date: 2026-06-06 10:22:53 +0800
 articles_count: 20
 sources_count: 8
