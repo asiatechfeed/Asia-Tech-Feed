@@ -134,7 +134,8 @@ jobs:
       - name: Send approval email
         if: >
           steps.run_scraper.outputs.has_articles == 'true' &&
-          github.event.inputs.force_publish != 'true'
+          github.event.inputs.force_publish != 'true' &&
+          github.event_name != 'schedule'
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
@@ -152,7 +153,7 @@ jobs:
       - name: Auto-merge if force_publish
         if: >
           steps.run_scraper.outputs.has_articles == 'true' &&
-          github.event.inputs.force_publish == 'true' &&
+          (github.event.inputs.force_publish == 'true' || github.event_name == 'schedule') &&
           steps.create_pr.outputs.pull-request-number != ''
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
