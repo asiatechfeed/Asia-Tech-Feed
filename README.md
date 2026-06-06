@@ -1,6 +1,6 @@
 # ⚡ Asia Tech News Feed
 
-Automated daily news digest for Southeast Asia covering semiconductors, electronics, logistics, pharmaceutical, biotechnology, AI, machine vision, and automation.
+Automated daily news digest for Asia covering semiconductors, electronics, logistics, pharmaceutical, biotechnology, AI, machine vision, and automation.
 
 ---
 
