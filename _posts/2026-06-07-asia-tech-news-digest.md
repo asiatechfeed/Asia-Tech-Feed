@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Asia Tech News Digest - June 07, 2026"
-date: 2026-06-07 13:29:33 +0800
+date: 2026-06-07 18:38:17 +0800
 articles_count: 18
 sources_count: 8
 sources: ["CNA", "DigiTimes", "EETAsia", "EW", "KED", "NikkeiAsia", "SemiEng", "TechAsia"]
@@ -23,6 +23,19 @@ csv_file: /assets/data/news-2026-06-07.tsv
 <tbody>
 <tr>
   <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">South Korea nominates country's first female prime minister in two decades</span></td>
+  <td class="col-summary">The 58-year-old Han Seong-sook is expected to lead the country's AI transformation.</td>
+  <td class="col-points"><ul class="key-points">
+    <li>58yearold</li>
+    <li>Seongsook</li>
+    <li>expected</li>
+  </ul></td>
+  <td class="col-tags"><span class="tag "> ai </span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/south-korea-han-seongsook-first-female-prime-minister-6167106" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
   <td class="col-title"><span class="article-title">LG Uplus targets $3.2b in AI data center orders</span></td>
   <td class="col-summary">LG Uplus plans to use modular construction and hybrid cooling for its Paju AI data center.</td>
@@ -35,7 +48,7 @@ csv_file: /assets/data/news-2026-06-07.tsv
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/google-in-talks-with-lg-uplus-for-s-korea-data-center-sources" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">2</td>
+  <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
   <td class="col-title"><span class="article-title">Huggy robots? Seriously</span></td>
   <td class="col-summary">In picking this week’s top reads, we look at robots - lots of robots - and the impact of the corruption trials against tech execs in Indonesia.</td>
@@ -48,7 +61,7 @@ csv_file: /assets/data/news-2026-06-07.tsv
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/huggy-robots" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">3</td>
+  <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
   <td class="col-title"><span class="article-title">Union minister Goyal launches AI training center in Mumbai</span></td>
   <td class="col-summary">Six AI training centres are being set up in North Mumbai, alongside a proposed AI Innovation Hub.</td>
@@ -59,19 +72,6 @@ csv_file: /assets/data/news-2026-06-07.tsv
   </ul></td>
   <td class="col-tags"><span class="tag "> ai </span></td>
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/indias-venture-catalysts-secures-18m-share-sales" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: What if AI retraining is just a comforting lie?</span></td>
-  <td class="col-summary">If upskilling is being touted as the bridge to an AI future, it must lead somewhere, says Catherine Thorbecke for Bloomberg Opinion.</td>
-  <td class="col-points"><ul class="key-points">
-    <li>upskilling</li>
-    <li>touted</li>
-    <li>bridge</li>
-  </ul></td>
-  <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/ai-layoffs-job-loss-upskill-reskill-tech-sector-6164066" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
