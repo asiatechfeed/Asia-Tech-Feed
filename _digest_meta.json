@@ -1,10 +1,10 @@
 {
   "date": "2026-06-08",
-  "count": 18,
+  "count": 16,
   "sources": [
     "CNA",
-    "DigiTimes",
     "EETAsia",
+    "EW",
     "KED",
     "NikkeiAsia",
     "TechAsia"
@@ -27,14 +27,14 @@
       "url": "https://www.channelnewsasia.com/business/uk-sets-out-15-billion-ai-hardware-plan-supercomputer-chip-funding-6169286"
     },
     {
+      "title": "Nidec debuts highest capacity in-rack cooling prototype",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/news/nidec-debuts-highest-capacity-in-rack-cooling-prototype-2026-06/"
+    },
+    {
       "title": "Naver, Samsung SDS join South Korea\u2019s AI project",
       "source": "TechAsia",
       "url": "https://www.techinasia.com/south-korea-govt-forms-ai-working-group-samsung-hyundai"
-    },
-    {
-      "title": "Doosan expands Nvidia partnership into AI factories",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/south-korea-vcs-step-up-direct-investments-in-silicon-valley"
     }
   ]
 }
