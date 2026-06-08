@@ -1,0 +1,145 @@
+---
+layout: default
+title: Search
+---
+
+<div class="search-page">
+  <div class="search-header">
+    <h1>Search News</h1>
+    <p class="search-sub">Search across all current and archived articles</p>
+    <div class="search-box-wrap">
+      <input id="searchInput" type="text" placeholder="Search topics, sources, keywordsâ¦" autocomplete="off" autofocus />
+      <span class="search-icon">ð</span>
+    </div>
+    <div id="searchMeta" class="search-meta"></div>
+  </div>
+
+  <div id="resultsWrap">
+    <div id="noQuery" class="search-hint">Start typing to search articlesâ¦</div>
+    <div id="noResults" class="search-hint" style="display:none">No articles found. Try different keywords.</div>
+    <table id="resultsTable" class="news-table" style="display:none">
+      <thead>
+        <tr>
+          <th class="col-date">Date</th>
+          <th class="col-source">Source</th>
+          <th class="col-title">Title</th>
+          <th class="col-summary">Summary</th>
+          <th class="col-tags">Topics</th>
+        </tr>
+      </thead>
+      <tbody id="resultsBody"></tbody>
+    </table>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<script>
+(function () {
+  const INDEX_URL = "{{ '/assets/data/search-index.json' | relative_url }}";
+  let fuse = null;
+  let allData = [];
+
+  const input     = document.getElementById('searchInput');
+  const meta      = document.getElementById('searchMeta');
+  const noQuery   = document.getElementById('noQuery');
+  const noResults = document.getElementById('noResults');
+  const table     = document.getElementById('resultsTable');
+  const tbody     = document.getElementById('resultsBody');
+
+  // Load index
+  fetch(INDEX_URL)
+    .then(r => r.json())
+    .then(data => {
+      allData = data;
+      fuse = new Fuse(data, {
+        keys: [
+          { name: 'title',   weight: 0.4 },
+          { name: 'summary', weight: 0.35 },
+          { name: 'tags',    weight: 0.15 },
+          { name: 'source',  weight: 0.1 },
+        ],
+        threshold: 0.4,
+        includeScore: true,
+        minMatchCharLength: 2,
+      });
+      meta.textContent = `${data.length} articles indexed`;
+    })
+    .catch(() => {
+      meta.textContent = 'Search index unavailable â check back after the next daily run.';
+    });
+
+  function tagBadge(tag) {
+    const cls = 'tag ' + tag.toLowerCase().replace(/[^a-z0-9]/g, '-');
+    return `<span class="${cls}">${tag}</span>`;
+  }
+
+  function renderResults(items) {
+    if (!items.length) {
+      table.style.display = 'none';
+      noResults.style.display = '';
+      noQuery.style.display = 'none';
+      return;
+    }
+    noResults.style.display = 'none';
+    noQuery.style.display = 'none';
+    table.style.display = '';
+
+    tbody.innerHTML = items.map(({ item }) => {
+      const tags = (item.tags || []).map(tagBadge).join(' ');
+      const titleCell = item.url
+        ? `<a class="article-title" href="${item.url}" target="_blank" rel="noopener">${item.title}</a>`
+        : `<span class="article-title">${item.title}</span>`;
+      return `<tr>
+        <td class="col-date">${item.date}</td>
+        <td class="col-source"><span class="source-badge">${item.short || item.source}</span></td>
+        <td class="col-title">${titleCell}</td>
+        <td class="col-summary">${item.summary}</td>
+        <td class="col-tags">${tags}</td>
+      </tr>`;
+    }).join('');
+  }
+
+  let timer;
+  input.addEventListener('input', () => {
+    clearTimeout(timer);
+    timer = setTimeout(() => {
+      const q = input.value.trim();
+      if (!q) {
+        table.style.display = 'none';
+        noResults.style.display = 'none';
+        noQuery.style.display = '';
+        return;
+      }
+      if (!fuse) return;
+      const results = fuse.search(q, { limit: 50 });
+      meta.textContent = `${results.length} result${results.length !== 1 ? 's' : ''} for "${q}" Â· ${allData.length} articles indexed`;
+      renderResults(results);
+    }, 250);
+  });
+})();
+</script>
+
+<style>
+.search-page { max-width: 1100px; margin: 0 auto; padding: 24px 16px; }
+.search-header { margin-bottom: 28px; }
+.search-header h1 { margin-bottom: 4px; }
+.search-sub { color: var(--text-muted, #666); margin-bottom: 16px; }
+.search-box-wrap { position: relative; max-width: 560px; }
+.search-box-wrap input {
+  width: 100%;
+  padding: 12px 44px 12px 16px;
+  font-size: 1.05rem;
+  border: 2px solid var(--border, #ddd);
+  border-radius: 8px;
+  background: var(--card-bg, #fff);
+  color: var(--text, #111);
+  box-sizing: border-box;
+}
+.search-box-wrap input:focus { outline: none; border-color: var(--primary, #2a5298); }
+.search-icon { position: absolute; right: 14px; top: 50%; transform: translateY(-50%); pointer-events: none; font-size: 1.1rem; }
+.search-meta { margin-top: 8px; font-size: 0.85rem; color: var(--text-muted, #666); min-height: 1.2em; }
+.search-hint { padding: 32px 0; color: var(--text-muted, #888); text-align: center; }
+
+html.dark .search-box-wrap input { border-color: #334; background: var(--card-bg); color: var(--text); }
+html.dark .search-box-wrap input:focus { border-color: #7eb8f7; }
+</style>
