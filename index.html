@@ -46,7 +46,7 @@ title: Latest News
 <h3 style="margin-bottom:14px; font-size:1rem; color:#2d3748;">All Digests</h3>
 <div style="background:#fff; border-radius:10px; overflow:hidden; border:1px solid #dde3ec;">
 {% for post in site.posts %}
-<div style="padding:14px 20px; border-bottom:1px solid #dde3ec; display:flex; justify-content:space-between; align-items:center; {% if forloop.last %}border-bottom:none;{% endif %}">
+<div class="digest-item" style="padding:14px 20px; border-bottom:1px solid #dde3ec; display:flex; justify-content:space-between; align-items:center; {% if forloop.last %}border-bottom:none;{% endif %}">
   <div>
     <a href="{{ post.url | relative_url }}" style="font-weight:600; color:#1a3a5c; text-decoration:none;">
       {{ post.title }}
@@ -55,7 +55,7 @@ title: Latest News
       {{ post.date | date: "%B %d, %Y" }} &middot; {{ post.articles_count | default: 0 }} articles
     </div>
   </div>
-  <a href="{{ post.url | relative_url }}" style="font-size:0.82rem; color:#2b6cb0; text-decoration:none; white-space:nowrap; margin-left:16px;">View &rarr;</a>
+  <a href="{{ post.url | relative_url }}" class="view-link" style="font-size:0.82rem; color:#2b6cb0; text-decoration:none; white-space:nowrap; margin-left:16px;">View &rarr;</a>
 </div>
 {% endfor %}
 </div>
