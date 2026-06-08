@@ -241,8 +241,164 @@ footer {
 }
 .btn-download:hover { background: #1e4d35; }
 
-@media (max-width: 768px) {
+/* =============================================
+   MOBILE & RESPONSIVE STYLES
+   ============================================= */
+
+/* ── Tablet (≤900px) ── */
+@media (max-width: 900px) {
   .col-points { display: none; }
   .col-tags   { display: none; }
-  main { padding: 16px 12px; }
+}
+
+/* ── Mobile (≤768px) ── */
+@media (max-width: 768px) {
+
+  /* Header: stack title + meta vertically */
+  .header-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    padding: 12px 16px;
+  }
+  .site-title { font-size: 1.1rem; }
+  .header-meta { font-size: 0.75rem; }
+
+  /* Nav: recalculate sticky offset; make links fill row */
+  nav.site-nav { top: 62px; }
+  .nav-inner { padding: 0 8px; }
+  nav a { padding: 10px 14px; font-size: 0.85rem; flex: 1; text-align: center; }
+
+  /* Main content padding */
+  main { padding: 14px 12px; }
+
+  /* Stat cards: 2-column grid */
+  .summary-bar {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+  .stat-card { min-width: 0; padding: 12px 10px; }
+  .stat-card .num { font-size: 1.35rem; }
+
+  /* Keyword stats bar in post: horizontal scroll (8 cards → don't use grid) */
+  .keyword-bar {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    gap: 8px;
+    padding-bottom: 4px;
+    scrollbar-width: none;
+  }
+  .keyword-bar::-webkit-scrollbar { display: none; }
+  .keyword-bar .stat-card { min-width: 90px; flex-shrink: 0; }
+
+  /* Filter bar: horizontal scroll, no wrap */
+  .filter-bar {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding: 10px 12px;
+    gap: 8px;
+    scrollbar-width: none;
+  }
+  .filter-bar::-webkit-scrollbar { display: none; }
+  .filter-bar label { white-space: nowrap; }
+  .filter-btn { white-space: nowrap; flex-shrink: 0; padding: 7px 14px; font-size: 0.82rem; min-height: 36px; }
+
+  /* Actions bar */
+  .actions-bar { justify-content: stretch; }
+  .btn-download { width: 100%; justify-content: center; padding: 11px 18px; font-size: 0.88rem; min-height: 44px; }
+
+  /* ── Article table → card layout ── */
+  .news-table-wrapper { overflow-x: unset; }
+
+  .news-table,
+  .news-table tbody,
+  .news-table tr { display: block; width: 100%; }
+
+  /* Hide the table header row */
+  .news-table thead { display: none; }
+
+  /* Each row becomes a card */
+  .news-table tr {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 14px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  }
+  .news-table tr:hover td { background: transparent; }
+
+  /* Hide dense/redundant columns on mobile */
+  .col-num   { display: none; }
+  .col-date  { display: none; }
+  .col-points { display: none; }
+  .col-tags  { display: none; }
+
+  /* All visible cells: block */
+  .news-table td {
+    display: block;
+    padding: 4px 0;
+    border-bottom: none;
+    width: 100%;
+  }
+
+  /* Source badge: top of card */
+  .col-source { margin-bottom: 6px; }
+
+  /* Title: prominent */
+  .col-title { margin-bottom: 8px; }
+  .article-title { font-size: 0.95rem; line-height: 1.45; }
+
+  /* Summary: readable */
+  .col-summary { font-size: 0.85rem; color: var(--text); line-height: 1.55; margin-bottom: 10px; }
+
+  /* Read link: full-width button */
+  .col-link {
+    text-align: left;
+    margin-top: 4px;
+  }
+  .btn-link {
+    display: block;
+    text-align: center;
+    padding: 9px 16px;
+    font-size: 0.85rem;
+    min-height: 40px;
+    line-height: 1.4;
+  }
+
+  /* Post header */
+  .post-header h1 { font-size: 1.2rem; line-height: 1.4; }
+  .post-meta { gap: 8px; font-size: 0.8rem; }
+
+  /* Post body: no excess padding */
+  .post-body { padding: 0; background: transparent; box-shadow: none; border-radius: 0; }
+
+  /* Digest list items in index.html */
+  .digest-item {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 8px;
+  }
+  .digest-item a.view-link {
+    margin-left: 0 !important;
+    align-self: flex-start;
+  }
+
+  /* Footer */
+  footer { padding: 18px 12px; font-size: 0.75rem; }
+  footer p { margin-bottom: 6px; }
+}
+
+/* ── Small mobile (≤480px) ── */
+@media (max-width: 480px) {
+  .site-title { font-size: 1rem; }
+  .summary-bar { grid-template-columns: 1fr 1fr; gap: 8px; }
+  .stat-card .num { font-size: 1.2rem; }
+  .stat-card .lbl { font-size: 0.72rem; }
+  .article-title { font-size: 0.9rem; }
+  .col-summary { font-size: 0.82rem; }
 }
