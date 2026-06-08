@@ -5,7 +5,6 @@ on:
     # Runs at 02:00 UTC = 10:00 AM Singapore Time, every day
     - cron: "0 2 * * *"
   workflow_dispatch:
-    # Allow manual trigger from GitHub Actions UI
     inputs:
       force_publish:
         description: "Skip email approval and publish directly"
@@ -28,13 +27,11 @@ jobs:
       pr_number: ${{ steps.create_pr.outputs.pull-request-number }}
 
     steps:
-      # ── 1. Checkout ──────────────────────────────────────────────────────
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # ── 2. Python setup ──────────────────────────────────────────────────
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
@@ -45,7 +42,6 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r scripts/requirements.txt
 
-      # ── 3. Run scraper ───────────────────────────────────────────────────
       - name: Run news scraper
         id: run_scraper
         env:
@@ -64,13 +60,11 @@ jobs:
             echo "digest_date=$DATE" >> $GITHUB_OUTPUT
           fi
 
-      # ── 4. Stop if no articles ───────────────────────────────────────────
       - name: Skip if no articles
         if: steps.run_scraper.outputs.has_articles == 'false'
         run: |
           echo "No matching articles found today. Skipping PR creation."
 
-      # ── 5. Create branch + PR ────────────────────────────────────────────
       - name: Create draft branch
         if: steps.run_scraper.outputs.has_articles == 'true'
         run: |
@@ -130,7 +124,6 @@ jobs:
           echo "pull-request-number=$PR_NUMBER" >> $GITHUB_OUTPUT
           echo "PR: $PR_URL (number: $PR_NUMBER)"
 
-      # ── 6. Send approval email ───────────────────────────────────────────
       - name: Send approval email
         if: >
           steps.run_scraper.outputs.has_articles == 'true' &&
@@ -149,44 +142,14 @@ jobs:
           html_body: file://_email_preview.html
           priority: normal
 
-      # ── 7. Force-publish path (manual trigger with force_publish=true) ──
       - name: Auto-merge if force_publish
         if: >
           steps.run_scraper.outputs.has_articles == 'true' &&
           (github.event.inputs.force_publish == 'true' || github.event_name == 'schedule') &&
           steps.create_pr.outputs.pull-request-number != ''
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           gh pr merge ${{ steps.create_pr.outputs.pull-request-number }} \
             --merge --delete-branch \
             --subject "📰 Auto-publish: News Digest ${{ steps.run_scraper.outputs.digest_date }}"
-
-  # ── Deploy Jekyll site when PR is merged to main ──────────────────────────
-  deploy:
-    runs-on: ubuntu-latest
-    needs: []
-    if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: "3.2"
-          bundler-cache: true
-
-      - name: Build Jekyll site
-        run: bundle exec jekyll build --destination ./_site
-        env:
-          JEKYLL_ENV: production
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
-          publish_branch: gh-pages
-          commit_message: "🚀 Deploy news digest ${{ github.event.head_commit.message }}"
