@@ -4,42 +4,29 @@ layout: default
 <div class="post-header">
   <h1>{{ page.title }}</h1>
   <div class="post-meta">
-    <span>&#128197; {{ page.date | date: "%B %d, %Y" }}</span>
-    <span>&#128240; {{ page.articles_count | default: 0 }} articles</span>
-    <span>&#127759; Asia Focus</span>
+    <span>📅 {{ page.date | date: "%B %d, %Y" }}</span>
+    <span>📰 {{ page.articles_count | default: 0 }} articles</span>
+    <span>🌏 Asia Focus</span>
   </div>
 </div>
 
 <div class="actions-bar">
   <a href="{{ page.csv_file | relative_url }}" class="btn-download" download>
-    &#11015; Download for Google Sheets (.tsv)
+    ⬇ Download for Google Sheets (.tsv)
   </a>
 </div>
 
-<div class="summary-bar">
+<div class="summary-bar keyword-bar">
   {% assign kws = "semiconductor,electronics,logistics,pharmaceutical,biotechnology,AI,automation,machine vision" | split: "," %}
   {% for kw in kws %}
-  <div class="stat-card" data-topic="{{ kw | downcase }}">
-    <div class="num">0</div>
+  <div class="stat-card">
+    <div class="num">
+      {{ content | downcase | split: kw | size | minus: 1 }}
+    </div>
     <div class="lbl">{{ kw }}</div>
   </div>
   {% endfor %}
 </div>
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const rows = document.querySelectorAll('.news-table tbody tr');
-  document.querySelectorAll('.stat-card[data-topic]').forEach(function(card) {
-    const kw = card.dataset.topic;
-    let count = 0;
-    rows.forEach(function(row) {
-      const tags = row.querySelector('.col-tags');
-      if (tags && tags.innerText.toLowerCase().includes(kw)) count++;
-    });
-    card.querySelector('.num').textContent = count > 0 ? count : '';
-    if (count === 0) card.style.opacity = '0.35';
-  });
-});
-</script>
 
 <div class="filter-bar">
   <label>Filter:</label>
