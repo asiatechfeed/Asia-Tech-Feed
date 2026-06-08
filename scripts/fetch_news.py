@@ -383,6 +383,23 @@ def fetch_full_text(url: str) -> str:
     return text[:3000]
 
 
+def fetch_og_image(url: str) -> str:
+    """Fetch the og:image URL from an article page."""
+    resp = fetch_url(url, timeout=12)
+    if not resp:
+        return ""
+    soup = BeautifulSoup(resp.text, "lxml")
+    og = soup.find("meta", property="og:image") or soup.find("meta", attrs={"name": "twitter:image"})
+    if og:
+        img = og.get("content", "").strip()
+        # Make sure it's an absolute URL
+        if img.startswith("//"):
+            img = "https:" + img
+        if img.startswith("http"):
+            return img
+    return ""
+
+
 # âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 # CLAUDE SUMMARIZATION
 # âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
@@ -444,6 +461,38 @@ Return ONLY the JSON. No markdown, no explanation."""
             time.sleep(0.5)
 
     return summarized
+
+
+def select_featured_article(articles: list[dict]) -> dict | None:
+    """Use Claude to pick the single most newsworthy article as today's featured story."""
+    if not articles:
+        return None
+    if not ANTHROPIC_API_KEY:
+        return articles[0]
+
+    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    candidates = "\n".join(
+        f"{i+1}. [{a['short']}] {a['title']}"
+        for i, a in enumerate(articles[:15])
+    )
+    prompt = f"""You are an Asia tech news editor. From the list below, pick the single most impactful and reader-grabbing story for today's featured hero card. Return ONLY the number of your choice (1â{min(15, len(articles))}).
+
+{candidates}
+
+Return ONLY a single integer. No explanation."""
+
+    try:
+        message = client.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=8,
+            messages=[{"role": "user", "content": prompt}]
+        )
+        idx = int(message.content[0].text.strip()) - 1
+        idx = max(0, min(idx, min(14, len(articles) - 1)))
+        return articles[idx]
+    except Exception as e:
+        print(f"  â  Featured selection error: {e} â defaulting to first article")
+        return articles[0]
 
 
 # âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
@@ -571,7 +620,7 @@ def update_search_index(articles: list[dict], run_date: datetime) -> None:
     print(f"ð Search index updated: {len(existing)} total articles")
 
 
-def write_jekyll_post(articles: list[dict], run_date: datetime) -> Path:
+def write_jekyll_post(articles: list[dict], run_date: datetime, featured: dict | None = None) -> Path:
     """Write Jekyll post markdown file."""
     date_str = run_date.strftime("%Y-%m-%d")
     slug = f"{date_str}-asia-tech-news-digest"
@@ -585,6 +634,16 @@ def write_jekyll_post(articles: list[dict], run_date: datetime) -> Path:
     table_html = render_news_table(articles)
     sources_used = sorted(set(a["short"] for a in articles))
 
+    # Build optional featured front matter fields
+    featured_fm = ""
+    if featured:
+        featured_fm = f"""featured_title: {json.dumps(featured.get('title', ''))}
+featured_url: {json.dumps(featured.get('url', ''))}
+featured_source: {json.dumps(featured.get('short', featured.get('source', '')))}
+featured_summary: {json.dumps(featured.get('summary', ''))}
+featured_image: {json.dumps(featured.get('og_image', ''))}
+"""
+
     front_matter = f"""---
 layout: post
 title: "Asia Tech News Digest - {run_date.strftime('%B %d, %Y')}"
@@ -593,7 +652,7 @@ articles_count: {len(articles)}
 sources_count: {len(sources_used)}
 sources: {json.dumps(sources_used)}
 csv_file: /assets/data/{tsv_filename}
----
+{featured_fm}---
 """
     filename.write_text(front_matter + "\n" + table_html + "\n", encoding="utf-8")
     print(f"â Jekyll post written: {filename}")
@@ -728,9 +787,17 @@ def main():
     print("\nð¤ Summarizing with Claude...")
     all_articles = summarize_with_claude(all_articles)
 
+    # Select featured article and fetch its OG image
+    print("\nâ­ Selecting featured article...")
+    featured = select_featured_article(all_articles)
+    if featured:
+        print(f"  â Featured: {featured['title'][:70]}")
+        featured["og_image"] = fetch_og_image(featured["url"])
+        print(f"  â OG image: {featured['og_image'][:80] if featured['og_image'] else '(none)'}")
+
     # Write outputs
     print("\nð Writing outputs...")
-    post_path = write_jekyll_post(all_articles, run_date)
+    post_path = write_jekyll_post(all_articles, run_date, featured=featured)
     update_search_index(all_articles, run_date)
 
     email_html = build_email_html(all_articles, run_date)
