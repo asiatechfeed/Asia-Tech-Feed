@@ -36,77 +36,78 @@
   <div class="post-header">
   <h1>Asia Tech News Feed — Getting Started</h1>
   <div class="post-meta">
-    <span>&#128197; June 04, 2026</span>
-    <span>&#128240; 0 articles</span>
-    <span>&#127759; Asia Focus</span>
+    <span>📅 June 04, 2026</span>
+    <span>📰 0 articles</span>
+    <span>🌏 Asia Focus</span>
   </div>
 </div>
 
 <div class="actions-bar">
   <a href="/Asia-Tech-Feed/assets/data/" class="btn-download" download>
-    &#11015; Download for Google Sheets (.tsv)
+    ⬇ Download for Google Sheets (.tsv)
   </a>
 </div>
 
-<div class="summary-bar">
+<div class="summary-bar keyword-bar">
   
   
-  <div class="stat-card" data-topic="semiconductor">
-    <div class="num">0</div>
+  <div class="stat-card">
+    <div class="num">
+      0
+    </div>
     <div class="lbl">semiconductor</div>
   </div>
   
-  <div class="stat-card" data-topic="electronics">
-    <div class="num">0</div>
+  <div class="stat-card">
+    <div class="num">
+      0
+    </div>
     <div class="lbl">electronics</div>
   </div>
   
-  <div class="stat-card" data-topic="logistics">
-    <div class="num">0</div>
+  <div class="stat-card">
+    <div class="num">
+      0
+    </div>
     <div class="lbl">logistics</div>
   </div>
   
-  <div class="stat-card" data-topic="pharmaceutical">
-    <div class="num">0</div>
+  <div class="stat-card">
+    <div class="num">
+      0
+    </div>
     <div class="lbl">pharmaceutical</div>
   </div>
   
-  <div class="stat-card" data-topic="biotechnology">
-    <div class="num">0</div>
+  <div class="stat-card">
+    <div class="num">
+      0
+    </div>
     <div class="lbl">biotechnology</div>
   </div>
   
-  <div class="stat-card" data-topic="ai">
-    <div class="num">0</div>
+  <div class="stat-card">
+    <div class="num">
+      0
+    </div>
     <div class="lbl">AI</div>
   </div>
   
-  <div class="stat-card" data-topic="automation">
-    <div class="num">0</div>
+  <div class="stat-card">
+    <div class="num">
+      0
+    </div>
     <div class="lbl">automation</div>
   </div>
   
-  <div class="stat-card" data-topic="machine vision">
-    <div class="num">0</div>
+  <div class="stat-card">
+    <div class="num">
+      0
+    </div>
     <div class="lbl">machine vision</div>
   </div>
   
 </div>
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const rows = document.querySelectorAll('.news-table tbody tr');
-  document.querySelectorAll('.stat-card[data-topic]').forEach(function(card) {
-    const kw = card.dataset.topic;
-    let count = 0;
-    rows.forEach(function(row) {
-      const tags = row.querySelector('.col-tags');
-      if (tags && tags.innerText.toLowerCase().includes(kw)) count++;
-    });
-    card.querySelector('.num').textContent = count > 0 ? count : '';
-    if (count === 0) card.style.opacity = '0.35';
-  });
-});
-</script>
 
 <div class="filter-bar">
   <label>Filter:</label>
