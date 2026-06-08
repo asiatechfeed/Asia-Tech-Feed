@@ -1,40 +1,41 @@
 {
   "date": "2026-06-08",
-  "count": 16,
+  "count": 19,
   "sources": [
+    "CNA",
     "DigiTimes",
     "EETAsia",
+    "EW",
     "KED",
     "NikkeiAsia",
-    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-06-08-asia-tech-news-digest.md",
   "articles": [
     {
+      "title": "Amazon, Corning sign multi-billion-dollar deal to boost fiber optics manufacturing in US",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/amazon-corning-sign-multi-billion-dollar-deal-boost-fiber-optics-manufacturing-in-us-6169376"
+    },
+    {
+      "title": "Alphabet taps Intel to make three million in-house chips, The Information reports",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/alphabet-taps-intel-make-three-million-in-house-chips-information-reports-6169321"
+    },
+    {
+      "title": "UK sets out $1.5 billion AI hardware plan with supercomputer, chip funding",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/uk-sets-out-15-billion-ai-hardware-plan-supercomputer-chip-funding-6169286"
+    },
+    {
+      "title": "Nidec debuts highest capacity in-rack cooling prototype",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/news/nidec-debuts-highest-capacity-in-rack-cooling-prototype-2026-06/"
+    },
+    {
       "title": "Naver, Samsung SDS join South Korea\u2019s AI project",
       "source": "TechAsia",
       "url": "https://www.techinasia.com/south-korea-govt-forms-ai-working-group-samsung-hyundai"
-    },
-    {
-      "title": "Doosan expands Nvidia partnership into AI factories",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/south-korea-vcs-step-up-direct-investments-in-silicon-valley"
-    },
-    {
-      "title": "Ares-backed SG chip firm Silicon Box raises $77.5m",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/cisco-to-launch-silicon-one-g300-chip-for-ai-data-centers"
-    },
-    {
-      "title": "Semiconductor Equipment Billings Jump 14% YoY in 1Q 2026",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/semiconductor-equipment-billings-jump-14-yoy-in-1q-2026/"
-    },
-    {
-      "title": "Micron, MetAI Build SimReady Fab Twins on NVIDIA Omniverse for Semiconductor Physical AI",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/micron-metai-build-simready-fab-twins-on-nvidia-omniverse-for-semiconductor-physical-ai/"
     }
   ]
 }
