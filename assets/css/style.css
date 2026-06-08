@@ -171,7 +171,6 @@ main { max-width: 1280px; margin: 0 auto; padding: 28px 24px; }
 .col-source { width: 130px; }
 .col-title  { width: 220px; }
 .col-summary { min-width: 260px; }
-.col-points { min-width: 260px; }
 .col-tags  { width: 140px; }
 .col-date  { width: 95px; white-space: nowrap; color: var(--muted); font-size: 0.8rem; }
 .col-link  { width: 80px; text-align: center; }
@@ -187,8 +186,6 @@ main { max-width: 1280px; margin: 0 auto; padding: 28px 24px; }
   font-weight: 600;
   white-space: nowrap;
 }
-.key-points { padding-left: 16px; margin: 0; }
-.key-points li { margin-bottom: 5px; line-height: 1.5; }
 .tag {
   display: inline-block;
   background: var(--tag-bg);
@@ -217,13 +214,13 @@ html.dark .source-badge  { color: #7eb8f7; }
 html.dark .stat-card .num { color: #7eb8f7; }
 html.dark .post-header h1 { color: #7eb8f7; }
 html.dark .pagination a, html.dark .pagination span { color: #7eb8f7; }
+
 @media (prefers-color-scheme: dark) {
   html:not(.light) .tag.ai   { background: #1e3a5f; color: #90cdf4; border-color: #2a5298; }
   html:not(.light) .tag.semi { background: #3b1a1a; color: #fca5a5; border-color: #7f1d1d; }
   html:not(.light) .tag.bio  { background: #14351e; color: #86efac; border-color: #166534; }
   html:not(.light) .tag.auto { background: #2d2506; color: #fde047; border-color: #713f12; }
   html:not(.light) .tag.logis{ background: #1f1244; color: #c4b5fd; border-color: #4c1d95; }
-
   html:not(.light) .article-title { color: #7eb8f7; }
   html:not(.light) .source-badge  { color: #7eb8f7; }
   html:not(.light) .stat-card .num { color: #7eb8f7; }
@@ -316,13 +313,135 @@ footer {
 .btn-download:hover { background: #1e4d35; }
 
 /* =============================================
+   FEATURED HERO CARD
+   ============================================= */
+
+.featured-hero {
+  display: flex;
+  gap: 24px;
+  align-items: stretch;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 28px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.featured-hero__img-wrap {
+  flex: 0 0 260px;
+  max-width: 260px;
+  overflow: hidden;
+  background: var(--tag-bg);
+}
+
+.featured-hero__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  min-height: 180px;
+}
+
+.featured-hero__body {
+  flex: 1;
+  padding: 22px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.featured-hero__label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.featured-hero__title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 0;
+  color: var(--primary);
+}
+
+.featured-hero__title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.featured-hero__title a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.featured-hero__summary {
+  font-size: 0.88rem;
+  color: var(--text);
+  line-height: 1.6;
+  margin: 0;
+  flex: 1;
+}
+
+.featured-hero__meta {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.featured-hero__source {
+  background: var(--tag-bg);
+  color: var(--tag-text);
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 4px;
+}
+
+.featured-hero__cta {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  margin-left: auto;
+}
+
+.featured-hero__cta:hover { text-decoration: underline; }
+
+/* Dark mode overrides for hero */
+html.dark .featured-hero,
+@media (prefers-color-scheme: dark) {
+  html:not(.light) .featured-hero {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+  }
+}
+
+/* Responsive hero */
+@media (max-width: 768px) {
+  .featured-hero {
+    flex-direction: column;
+  }
+  .featured-hero__img-wrap {
+    flex: none;
+    max-width: 100%;
+    max-height: 200px;
+  }
+  .featured-hero__img { min-height: unset; height: 200px; }
+  .featured-hero__body { padding: 16px; }
+  .featured-hero__title { font-size: 1rem; }
+}
+
+/* =============================================
    MOBILE & RESPONSIVE STYLES
    ============================================= */
 
 /* ââ Tablet (â¤900px) ââ */
 @media (max-width: 900px) {
-  .col-points { display: none; }
-  .col-tags   { display: none; }
+  .col-tags { display: none; }
 }
 
 /* ââ Mobile (â¤768px) ââ */
@@ -409,7 +528,6 @@ footer {
   /* Hide dense/redundant columns on mobile */
   .col-num   { display: none; }
   .col-date  { display: none; }
-  .col-points { display: none; }
   .col-tags  { display: none; }
 
   /* All visible cells: block */
