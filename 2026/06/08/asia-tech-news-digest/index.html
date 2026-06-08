@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" id="html-root">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,6 +23,18 @@
   Naver, Samsung SDS join South Korea’s AI project
   The deployment will in...">
   <link rel="stylesheet" href="/Asia-Tech-Feed/assets/css/style.css">
+  <script>
+    // Apply saved preference before paint to avoid flash
+    (function() {
+      var saved = localStorage.getItem('theme');
+      var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (saved === 'dark' || (!saved && prefersDark)) {
+        document.documentElement.classList.add('dark');
+      } else if (saved === 'light') {
+        document.documentElement.classList.add('light');
+      }
+    })();
+  </script>
   <link rel="alternate" type="application/rss+xml" title="Asia Tech News Feed" href="/Asia-Tech-Feed/feed.xml">
 </head>
 <body>
@@ -35,6 +47,9 @@
     <div class="header-meta">
       Asia &middot; Semiconductors &middot; AI &middot; Automation &middot; Pharma
     </div>
+    <button class="dark-toggle" id="dark-toggle" onclick="toggleDark()" aria-label="Toggle dark mode">
+      <span id="dark-icon">🌙</span> <span id="dark-label">Dark</span>
+    </button>
   </div>
 </header>
 
@@ -377,11 +392,39 @@
 </footer>
 
 <script>
+// Dark mode toggle
+function toggleDark() {
+  var html = document.documentElement;
+  var isDark = html.classList.contains('dark');
+  if (isDark) {
+    html.classList.remove('dark');
+    html.classList.add('light');
+    localStorage.setItem('theme', 'light');
+  } else {
+    html.classList.remove('light');
+    html.classList.add('dark');
+    localStorage.setItem('theme', 'dark');
+  }
+  updateToggleLabel();
+}
+
+function updateToggleLabel() {
+  var isDark = document.documentElement.classList.contains('dark');
+  var icon = document.getElementById('dark-icon');
+  var label = document.getElementById('dark-label');
+  if (icon) icon.textContent = isDark ? '☀️' : '🌙';
+  if (label) label.textContent = isDark ? 'Light' : 'Dark';
+}
+
+document.addEventListener('DOMContentLoaded', updateToggleLabel);
+
+// Keyword filter
 function filterTable(keyword) {
   const rows = document.querySelectorAll('.news-table tbody tr');
   const btns = document.querySelectorAll('.filter-btn');
   btns.forEach(b => b.classList.remove('active'));
   event.target.classList.add('active');
+
   rows.forEach(row => {
     if (!keyword || keyword === 'all') {
       row.style.display = '';
@@ -391,6 +434,8 @@ function filterTable(keyword) {
     }
   });
 }
+
+// CSV download
 function downloadCSV() {
   const table = document.querySelector('.news-table');
   if (!table) return;
@@ -414,12 +459,5 @@ function downloadCSV() {
 }
 </script>
 
-
-<div style="text-align:center; padding:18px 0 10px;">
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_uv" style="display:inline-flex; align-items:center; gap:6px; background:#f7fafc; border:1px solid #e2e8f0; border-radius:20px; padding:5px 16px; font-size:0.8rem; color:#4a5568;">
-&#128065; <span id="busuanzi_value_site_uv">...</span> visitors
-</span>
-</div>
 </body>
 </html>
