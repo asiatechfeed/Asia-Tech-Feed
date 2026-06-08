@@ -34,7 +34,7 @@
       Asia &middot; Semiconductors &middot; AI &middot; Automation &middot; Pharma
     </div>
     <button class="dark-toggle" id="dark-toggle" onclick="toggleDark()" aria-label="Toggle dark mode">
-      <span id="dark-icon">ð</span> <span id="dark-label">Dark</span>
+      <span id="dark-icon">&#127769;</span> <span id="dark-label">Dark</span>
     </button>
   </div>
 </header>
@@ -181,7 +181,7 @@ function updateToggleLabel() {
   var isDark = document.documentElement.classList.contains('dark');
   var icon = document.getElementById('dark-icon');
   var label = document.getElementById('dark-label');
-  if (icon) icon.textContent = isDark ? 'âï¸' : 'ð';
+  if (icon) icon.innerHTML = isDark ? '&#9728;&#xFE0F;' : '&#127769;';
   if (label) label.textContent = isDark ? 'Light' : 'Dark';
 }
 
