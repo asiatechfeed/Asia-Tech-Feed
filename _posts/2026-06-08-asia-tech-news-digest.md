@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Asia Tech News Digest - June 08, 2026"
-date: 2026-06-08 22:59:25 +0800
-articles_count: 16
-sources_count: 6
-sources: ["CNA", "EETAsia", "EW", "KED", "NikkeiAsia", "TechAsia"]
+date: 2026-06-08 23:01:14 +0800
+articles_count: 19
+sources_count: 7
+sources: ["CNA", "DigiTimes", "EETAsia", "EW", "KED", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-06-08.tsv
 featured_title: "Amazon, Corning sign multi-billion-dollar deal to boost fiber optics manufacturing in US"
 featured_url: "https://www.channelnewsasia.com/business/amazon-corning-sign-multi-billion-dollar-deal-boost-fiber-optics-manufacturing-in-us-6169376"
@@ -107,6 +107,30 @@ featured_image: "https://dam.mediacorp.sg/image/upload/s--WzqtMiza--/c_fill,g_au
 </tr>
 <tr>
   <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Semiconductors</span></td>
+  <td class="col-summary">Semiconductors</td>
+  <td class="col-tags"><span class="tag semi">semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/topic/semiconductors/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">SK Hynix speeds Yongin fab buildout as memory crunch fuels capacity race</span></td>
+  <td class="col-summary">SK Hynix speeds Yongin fab buildout as memory crunch fuels capacity race</td>
+  <td class="col-tags"><span class="tag ">fab</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260518VL210/sk-hynix-fab-capacity-demand-production.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">13</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">AMD's 2nm defection to Samsung dents TSMC's AI grip</span></td>
+  <td class="col-summary">AMD's 2nm defection to Samsung dents TSMC's AI grip</td>
+  <td class="col-tags"><span class="tag "> ai </span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260511PD215/samsung-tsmc-amd-2nm-supply-chain.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">14</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
   <td class="col-title"><span class="article-title">Lee sets sights beyond chips for South Korea's next growth wave</span></td>
   <td class="col-summary">Lee sets sights beyond chips for South Korea's next growth wave</td>
@@ -114,7 +138,7 @@ featured_image: "https://dam.mediacorp.sg/image/upload/s--WzqtMiza--/c_fill,g_au
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/politics/lee-sets-sights-beyond-chips-for-south-korea-s-next-growth-wave" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">12</td>
+  <td class="col-num">15</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
   <td class="col-title"><span class="article-title">Tin demand for AI servers to triple by 2030, analyst says</span></td>
   <td class="col-summary">Tin demand for AI servers to triple by 2030, analyst says</td>
@@ -122,7 +146,7 @@ featured_image: "https://dam.mediacorp.sg/image/upload/s--WzqtMiza--/c_fill,g_au
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/commodities/tin-demand-for-ai-servers-to-triple-by-2030-analyst-says" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">13</td>
+  <td class="col-num">16</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
   <td class="col-title"><span class="article-title">Frontier AI shock: Japan's analog layer offers a resilience lesson</span></td>
   <td class="col-summary">Frontier AI shock: Japan's analog layer offers a resilience lesson</td>
@@ -130,7 +154,7 @@ featured_image: "https://dam.mediacorp.sg/image/upload/s--WzqtMiza--/c_fill,g_au
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/opinion/frontier-ai-shock-japan-s-analog-layer-offers-a-resilience-lesson" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">14</td>
+  <td class="col-num">17</td>
   <td class="col-source"><span class="source-badge">KED</span></td>
   <td class="col-title"><span class="article-title">AI trade isn’t just about tech stocks but also power, TCW says</span></td>
   <td class="col-summary">The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun</td>
@@ -138,7 +162,7 @@ featured_image: "https://dam.mediacorp.sg/image/upload/s--WzqtMiza--/c_fill,g_au
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">15</td>
+  <td class="col-num">18</td>
   <td class="col-source"><span class="source-badge">KED</span></td>
   <td class="col-title"><span class="article-title">South Korean ETF issuers in space race to ride SpaceX IPO buzz</span></td>
   <td class="col-summary">South Korean asset managers are rushing to launch new exchange-traded funds tied to both established and emerging space technology companies, seeking</td>
@@ -146,7 +170,7 @@ featured_image: "https://dam.mediacorp.sg/image/upload/s--WzqtMiza--/c_fill,g_au
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/korean-stock-market/newsView/ked202604140004" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">16</td>
+  <td class="col-num">19</td>
   <td class="col-source"><span class="source-badge">KED</span></td>
   <td class="col-title"><span class="article-title">No career ambition, no ego: AI plays devil's advocate at Audax Private Equity</span></td>
   <td class="col-summary">Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass</td>
