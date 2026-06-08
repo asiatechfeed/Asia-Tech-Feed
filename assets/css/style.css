@@ -1,5 +1,5 @@
 /* =============================================
-   Asia Tech News Feed — Jekyll Theme
+   Asia Tech News Feed â Jekyll Theme
    ============================================= */
 
 :root {
@@ -16,7 +16,7 @@
   --font: "Segoe UI", system-ui, -apple-system, sans-serif;
 }
 
-/* Dark mode — manual toggle (.dark on <html>) */
+/* Dark mode â manual toggle (.dark on <html>) */
 html.dark {
   --primary: #2a5298;
   --accent: #e84545;
@@ -30,7 +30,7 @@ html.dark {
   --row-hover: #1c2e45;
 }
 
-/* Dark mode — respect OS preference when no manual toggle */
+/* Dark mode â respect OS preference when no manual toggle */
 @media (prefers-color-scheme: dark) {
   html:not(.light) {
     --primary: #2a5298;
@@ -95,7 +95,7 @@ header.site-header {
 }
 .dark-toggle:hover { background: rgba(255,255,255,0.22); }
 
-/* NAV — sticky beneath header */
+/* NAV â sticky beneath header */
 nav.site-nav { background: #132d4a; position: sticky; top: 49px; z-index: 99; box-shadow: 0 2px 6px rgba(0,0,0,0.12); }
 .nav-inner { max-width: 1280px; margin: 0 auto; padding: 0 24px; display: flex; gap: 0; }
 nav a { color: rgba(255,255,255,0.75); text-decoration: none; font-size: 0.87rem; padding: 10px 16px; display: inline-block; transition: all .2s; }
@@ -210,12 +210,25 @@ html.dark .tag.semi { background: #3b1a1a; color: #fca5a5; border-color: #7f1d1d
 html.dark .tag.bio  { background: #14351e; color: #86efac; border-color: #166534; }
 html.dark .tag.auto { background: #2d2506; color: #fde047; border-color: #713f12; }
 html.dark .tag.logis{ background: #1f1244; color: #c4b5fd; border-color: #4c1d95; }
+
+/* Dark mode: lighten text elements that use --primary as foreground color */
+html.dark .article-title { color: #7eb8f7; }
+html.dark .source-badge  { color: #7eb8f7; }
+html.dark .stat-card .num { color: #7eb8f7; }
+html.dark .post-header h1 { color: #7eb8f7; }
+html.dark .pagination a, html.dark .pagination span { color: #7eb8f7; }
 @media (prefers-color-scheme: dark) {
   html:not(.light) .tag.ai   { background: #1e3a5f; color: #90cdf4; border-color: #2a5298; }
   html:not(.light) .tag.semi { background: #3b1a1a; color: #fca5a5; border-color: #7f1d1d; }
   html:not(.light) .tag.bio  { background: #14351e; color: #86efac; border-color: #166534; }
   html:not(.light) .tag.auto { background: #2d2506; color: #fde047; border-color: #713f12; }
   html:not(.light) .tag.logis{ background: #1f1244; color: #c4b5fd; border-color: #4c1d95; }
+
+  html:not(.light) .article-title { color: #7eb8f7; }
+  html:not(.light) .source-badge  { color: #7eb8f7; }
+  html:not(.light) .stat-card .num { color: #7eb8f7; }
+  html:not(.light) .post-header h1 { color: #7eb8f7; }
+  html:not(.light) .pagination a, html:not(.light) .pagination span { color: #7eb8f7; }
 }
 
 .btn-link {
@@ -306,13 +319,13 @@ footer {
    MOBILE & RESPONSIVE STYLES
    ============================================= */
 
-/* ── Tablet (≤900px) ── */
+/* ââ Tablet (â¤900px) ââ */
 @media (max-width: 900px) {
   .col-points { display: none; }
   .col-tags   { display: none; }
 }
 
-/* ── Mobile (≤768px) ── */
+/* ââ Mobile (â¤768px) ââ */
 @media (max-width: 768px) {
 
   /* Header: stack title + meta vertically */
@@ -342,7 +355,7 @@ footer {
   .stat-card { min-width: 0; padding: 12px 10px; }
   .stat-card .num { font-size: 1.35rem; }
 
-  /* Keyword stats bar in post: horizontal scroll (8 cards → don't use grid) */
+  /* Keyword stats bar in post: horizontal scroll (8 cards â don't use grid) */
   .keyword-bar {
     display: flex !important;
     flex-wrap: nowrap !important;
@@ -372,7 +385,7 @@ footer {
   .actions-bar { justify-content: stretch; }
   .btn-download { width: 100%; justify-content: center; padding: 11px 18px; font-size: 0.88rem; min-height: 44px; }
 
-  /* ── Article table → card layout ── */
+  /* ââ Article table â card layout ââ */
   .news-table-wrapper { overflow-x: unset; }
 
   .news-table,
@@ -454,7 +467,7 @@ footer {
   footer p { margin-bottom: 6px; }
 }
 
-/* ── Small mobile (≤480px) ── */
+/* ââ Small mobile (â¤480px) ââ */
 @media (max-width: 480px) {
   .site-title { font-size: 1rem; }
   .summary-bar { grid-template-columns: 1fr 1fr; gap: 8px; }
