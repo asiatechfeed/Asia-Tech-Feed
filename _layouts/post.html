@@ -1,18 +1,39 @@
 ---
 layout: default
 ---
+{% if page.featured_url %}
+<div class="featured-hero">
+  {% if page.featured_image and page.featured_image != "" %}
+  <div class="featured-hero__img-wrap">
+    <img class="featured-hero__img" src="{{ page.featured_image }}" alt="{{ page.featured_title }}" loading="lazy" onerror="this.closest('.featured-hero__img-wrap').style.display='none'">
+  </div>
+  {% endif %}
+  <div class="featured-hero__body">
+    <div class="featured-hero__label">â­ Today's Top Story</div>
+    <h2 class="featured-hero__title">
+      <a href="{{ page.featured_url }}" target="_blank" rel="noopener">{{ page.featured_title }}</a>
+    </h2>
+    <p class="featured-hero__summary">{{ page.featured_summary }}</p>
+    <div class="featured-hero__meta">
+      <span class="featured-hero__source">{{ page.featured_source }}</span>
+      <a class="featured-hero__cta" href="{{ page.featured_url }}" target="_blank" rel="noopener">Read full story â</a>
+    </div>
+  </div>
+</div>
+{% endif %}
+
 <div class="post-header">
   <h1>{{ page.title }}</h1>
   <div class="post-meta">
-    <span>📅 {{ page.date | date: "%B %d, %Y" }}</span>
-    <span>📰 {{ page.articles_count | default: 0 }} articles</span>
-    <span>🌏 Asia Focus</span>
+    <span>ð {{ page.date | date: "%B %d, %Y" }}</span>
+    <span>ð° {{ page.articles_count | default: 0 }} articles</span>
+    <span>ð Asia Focus</span>
   </div>
 </div>
 
 <div class="actions-bar">
   <a href="{{ page.csv_file | relative_url }}" class="btn-download" download>
-    ⬇ Download for Google Sheets (.tsv)
+    â¬ Download for Google Sheets (.tsv)
   </a>
 </div>
 
