@@ -533,11 +533,6 @@ def render_news_table(articles: list[dict]) -> str:
   <td class="col-source"><span class="source-badge">{a['short']}</span></td>
   <td class="col-title"><span class="article-title">{a['title']}</span></td>
   <td class="col-summary">{a.get('summary','')}</td>
-  <td class="col-points"><ul class="key-points">
-    <li>{kp[0]}</li>
-    <li>{kp[1]}</li>
-    <li>{kp[2]}</li>
-  </ul></td>
   <td class="col-tags">{tags_html}</td>
   <td class="col-link"><a class="btn-link" href="{url}" target="_blank" rel="noopener">Read</a></td>
 </tr>"""
@@ -550,7 +545,6 @@ def render_news_table(articles: list[dict]) -> str:
   <th class="col-source">Source</th>
   <th class="col-title">Title</th>
   <th class="col-summary">Summary</th>
-  <th class="col-points">Key Points</th>
   <th class="col-tags">Topics</th>
   <th class="col-link">Link</th>
 </tr>
