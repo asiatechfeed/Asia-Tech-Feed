@@ -1,42 +1,40 @@
 {
-  "date": "2026-06-07",
-  "count": 18,
+  "date": "2026-06-08",
+  "count": 16,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
-    "EW",
     "KED",
     "NikkeiAsia",
     "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-06-07-asia-tech-news-digest.md",
+  "post_file": "2026-06-08-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "LG Uplus targets $3.2b in AI data center orders",
+      "title": "Naver, Samsung SDS join South Korea\u2019s AI project",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/google-in-talks-with-lg-uplus-for-s-korea-data-center-sources"
+      "url": "https://www.techinasia.com/south-korea-govt-forms-ai-working-group-samsung-hyundai"
     },
     {
-      "title": "Huggy robots? Seriously",
+      "title": "Doosan expands Nvidia partnership into AI factories",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/huggy-robots"
+      "url": "https://www.techinasia.com/south-korea-vcs-step-up-direct-investments-in-silicon-valley"
     },
     {
-      "title": "Union minister Goyal launches AI training center in Mumbai",
+      "title": "Ares-backed SG chip firm Silicon Box raises $77.5m",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/indias-venture-catalysts-secures-18m-share-sales"
+      "url": "https://www.techinasia.com/cisco-to-launch-silicon-one-g300-chip-for-ai-data-centers"
     },
     {
-      "title": "Commentary: What if AI retraining is just a comforting lie?",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/ai-layoffs-job-loss-upskill-reskill-tech-sector-6164066"
+      "title": "Semiconductor Equipment Billings Jump 14% YoY in 1Q 2026",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/semiconductor-equipment-billings-jump-14-yoy-in-1q-2026/"
     },
     {
-      "title": "Accelerating Zero-Knowledge Proof Generation With Reconfigurable Hardware (KAIST)",
-      "source": "SemiEng",
-      "url": "https://semiengineering.com/accelerating-zero-knowledge-proof-generation-with-reconfigurable-hardware-kaist/"
+      "title": "Micron, MetAI Build SimReady Fab Twins on NVIDIA Omniverse for Semiconductor Physical AI",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/micron-metai-build-simready-fab-twins-on-nvidia-omniverse-for-semiconductor-physical-ai/"
     }
   ]
 }
