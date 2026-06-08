@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Asia Tech News Digest - June 08, 2026"
-date: 2026-06-08 22:34:00 +0800
+date: 2026-06-08 22:44:45 +0800
 articles_count: 19
 sources_count: 7
 sources: ["CNA", "DigiTimes", "EETAsia", "EW", "KED", "NikkeiAsia", "TechAsia"]
