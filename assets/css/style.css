@@ -1,5 +1,5 @@
 /* =============================================
-   Asia Tech News Feed â Jekyll Theme
+   Asia Tech News Feed — Jekyll Theme
    ============================================= */
 
 :root {
@@ -16,7 +16,7 @@
   --font: "Segoe UI", system-ui, -apple-system, sans-serif;
 }
 
-/* Dark mode â manual toggle (.dark on <html>) */
+/* Dark mode — manual toggle (.dark on <html>) */
 html.dark {
   --primary: #2a5298;
   --accent: #e84545;
@@ -30,7 +30,7 @@ html.dark {
   --row-hover: #1c2e45;
 }
 
-/* Dark mode â respect OS preference when no manual toggle */
+/* Dark mode — respect OS preference when no manual toggle */
 @media (prefers-color-scheme: dark) {
   html:not(.light) {
     --primary: #2a5298;
@@ -76,7 +76,7 @@ header.site-header {
 }
 .site-title { font-size: 1.3rem; font-weight: 700; letter-spacing: -0.3px; text-decoration: none; color: #fff; }
 .site-title span { color: #f6c90e; }
-.header-meta { font-size: 0.82rem; color: rgba(255,255,255,0.65); }
+.header-meta { font-size: 1.05rem; color: rgba(255,255,255,0.8); font-style: italic; letter-spacing: 0.2px; }
 
 /* DARK MODE TOGGLE */
 .dark-toggle {
@@ -95,7 +95,7 @@ header.site-header {
 }
 .dark-toggle:hover { background: rgba(255,255,255,0.22); }
 
-/* NAV â sticky beneath header */
+/* NAV — sticky beneath header */
 nav.site-nav { background: #132d4a; position: sticky; top: 49px; z-index: 99; box-shadow: 0 2px 6px rgba(0,0,0,0.12); }
 .nav-inner { max-width: 1280px; margin: 0 auto; padding: 0 24px; display: flex; gap: 0; }
 nav a { color: rgba(255,255,255,0.75); text-decoration: none; font-size: 0.87rem; padding: 10px 16px; display: inline-block; transition: all .2s; }
@@ -288,6 +288,8 @@ footer {
   border-top: 1px solid var(--border);
   margin-top: 40px;
 }
+.visitor-counter { margin-top: 10px; }
+.visitor-counter img { vertical-align: middle; border-radius: 3px; }
 
 /* CSV DOWNLOAD */
 .actions-bar {
@@ -439,12 +441,12 @@ html.dark .featured-hero,
    MOBILE & RESPONSIVE STYLES
    ============================================= */
 
-/* ââ Tablet (â¤900px) ââ */
+/* ── Tablet (≤900px) ── */
 @media (max-width: 900px) {
   .col-tags { display: none; }
 }
 
-/* ââ Mobile (â¤768px) ââ */
+/* ── Mobile (≤768px) ── */
 @media (max-width: 768px) {
 
   /* Header: stack title + meta vertically */
@@ -455,7 +457,7 @@ html.dark .featured-hero,
     padding: 12px 16px;
   }
   .site-title { font-size: 1.1rem; }
-  .header-meta { font-size: 0.75rem; }
+  .header-meta { font-size: 0.9rem; }
 
   /* Nav: recalculate sticky offset; make links fill row */
   nav.site-nav { top: 62px; }
@@ -474,7 +476,7 @@ html.dark .featured-hero,
   .stat-card { min-width: 0; padding: 12px 10px; }
   .stat-card .num { font-size: 1.35rem; }
 
-  /* Keyword stats bar in post: horizontal scroll (8 cards â don't use grid) */
+  /* Keyword stats bar in post: horizontal scroll (8 cards → don't use grid) */
   .keyword-bar {
     display: flex !important;
     flex-wrap: nowrap !important;
@@ -504,7 +506,7 @@ html.dark .featured-hero,
   .actions-bar { justify-content: stretch; }
   .btn-download { width: 100%; justify-content: center; padding: 11px 18px; font-size: 0.88rem; min-height: 44px; }
 
-  /* ââ Article table â card layout ââ */
+  /* ── Article table → card layout ── */
   .news-table-wrapper { overflow-x: unset; }
 
   .news-table,
@@ -585,7 +587,7 @@ html.dark .featured-hero,
   footer p { margin-bottom: 6px; }
 }
 
-/* ââ Small mobile (â¤480px) ââ */
+/* ── Small mobile (≤480px) ── */
 @media (max-width: 480px) {
   .site-title { font-size: 1rem; }
   .summary-bar { grid-template-columns: 1fr 1fr; gap: 8px; }
