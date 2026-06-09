@@ -1,41 +1,40 @@
 {
-  "date": "2026-06-08",
-  "count": 19,
+  "date": "2026-06-09",
+  "count": 17,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "EW",
     "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-06-08-asia-tech-news-digest.md",
+  "post_file": "2026-06-09-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Amazon, Corning sign multi-billion-dollar deal to boost fiber optics manufacturing in US",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/amazon-corning-sign-multi-billion-dollar-deal-boost-fiber-optics-manufacturing-in-us-6169376"
-    },
-    {
-      "title": "Alphabet taps Intel to make three million in-house chips, The Information reports",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/alphabet-taps-intel-make-three-million-in-house-chips-information-reports-6169321"
-    },
-    {
-      "title": "UK sets out $1.5 billion AI hardware plan with supercomputer, chip funding",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/uk-sets-out-15-billion-ai-hardware-plan-supercomputer-chip-funding-6169286"
-    },
-    {
-      "title": "Nidec debuts highest capacity in-rack cooling prototype",
-      "source": "EW",
-      "url": "https://www.electronicsweekly.com/news/nidec-debuts-highest-capacity-in-rack-cooling-prototype-2026-06/"
-    },
-    {
-      "title": "Naver, Samsung SDS join South Korea\u2019s AI project",
+      "title": "Intel-backed Articul8 eyes up to $50m for India AI unit",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/south-korea-govt-forms-ai-working-group-samsung-hyundai"
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+    },
+    {
+      "title": "Universal Display Strengthens China Presence with New OLED Technology and Innovation Center",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/universal-display-strengthens-china-presence-with-new-oled-technology-and-innovation-center/"
+    },
+    {
+      "title": "Apple rolls out revamped Siri with AI upgrades",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/apple-ramps-ai-investment-lifts-share"
+    },
+    {
+      "title": "SpaceX IPO may fuel AI satellite expansion: report",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/spacex-ipo-could-make-elon-musk-first-trillionaire"
+    },
+    {
+      "title": "Ahead of SpaceX IPO, Musk says AI satellites will use mostly existing technology",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/ahead-spacex-ipo-musk-says-ai-satellites-will-use-mostly-existing-technology-6170216"
     }
   ]
 }
