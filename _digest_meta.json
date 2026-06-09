@@ -5,6 +5,7 @@
     "CNA",
     "DigiTimes",
     "EETAsia",
+    "EW",
     "KED",
     "NikkeiAsia",
     "TechAsia"
@@ -12,29 +13,29 @@
   "post_file": "2026-06-09-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Intel-backed Articul8 eyes up to $50m for India AI unit",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
-    },
-    {
-      "title": "Universal Display Strengthens China Presence with New OLED Technology and Innovation Center",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/universal-display-strengthens-china-presence-with-new-oled-technology-and-innovation-center/"
-    },
-    {
-      "title": "Apple rolls out revamped Siri with AI upgrades",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/apple-ramps-ai-investment-lifts-share"
-    },
-    {
-      "title": "SpaceX IPO may fuel AI satellite expansion: report",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/spacex-ipo-could-make-elon-musk-first-trillionaire"
-    },
-    {
-      "title": "Ahead of SpaceX IPO, Musk says AI satellites will use mostly existing technology",
+      "title": "Apple failed to make its AI tool to comply to EU regulations, EU Commission says",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/ahead-spacex-ipo-musk-says-ai-satellites-will-use-mostly-existing-technology-6170216"
+      "url": "https://www.channelnewsasia.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-6171256"
+    },
+    {
+      "title": "China weighs $295b plan for AI data center network",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/huawei-backs-deepseek-v4-with-ascend-ai-chips"
+    },
+    {
+      "title": "Samsung pushes AI overhaul with Gemini, ChatGPT",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/samsung-electronics-spending-hits-257b-2025"
+    },
+    {
+      "title": "Why falling AI costs spark investor panic but drive new revenue",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/cheaper-ai-means-compute"
+    },
+    {
+      "title": "MLCC with capacitance of 2.2\u03bcF at 100Vdc",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/news/products/passives/mlcc-with-capacitance-of-2-2%ce%bcf-at-100vdc-2026-06/"
     }
   ]
 }

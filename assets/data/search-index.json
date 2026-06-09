@@ -1,15 +1,85 @@
 [
   {
     "date": "2026-06-09",
-    "title": "Intel-backed Articul8 eyes up to $50m for India AI unit",
-    "summary": "Articul8 said intellectual property generated through the heritage initiative would remain in India while licensing core technology from the parent company.",
+    "title": "Apple failed to make its AI tool to comply to EU regulations, EU Commission says",
+    "summary": "Apple failed to make its AI tool to comply to EU regulations, EU Commission says",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://www.channelnewsasia.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-6171256"
+  },
+  {
+    "date": "2026-06-09",
+    "title": "China weighs $295b plan for AI data center network",
+    "summary": "The plan would rely on domestic suppliers for at least 80% of key technology, including AI chips, which could benefit Chinese companies such as Huawei.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "technology",
+      " ai ",
+      "chip"
+    ],
+    "url": "https://www.techinasia.com/huawei-backs-deepseek-v4-with-ascend-ai-chips"
+  },
+  {
+    "date": "2026-06-09",
+    "title": "Samsung pushes AI overhaul with Gemini, ChatGPT",
+    "summary": "The company said the effort is part of a broader push to overhaul work processes and corporate culture.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
       " ai "
     ],
-    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+    "url": "https://www.techinasia.com/samsung-electronics-spending-hits-257b-2025"
+  },
+  {
+    "date": "2026-06-09",
+    "title": "Why falling AI costs spark investor panic but drive new revenue",
+    "summary": "Nebius co-founder Roman Chernin argues that falling AI costs will expand adoption, driving greater demand for infrastructure and cloud computing.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://www.techinasia.com/cheaper-ai-means-compute"
+  },
+  {
+    "date": "2026-06-09",
+    "title": "MLCC with capacitance of 2.2μF at 100Vdc",
+    "summary": "Murata has introduced the GCJ21BD72A225KE02, a soft-termination chip multilayer ceramic capacitor (MLCC) for automotive powertrain and safety equipment. This soft-termination chip MLCC product claims the highest available capacitance of 2.2μF ... The post MLCC with capacitance of 2.2μF at 100Vdc appeared first on Elect",
+    "source": "Electronics Weekly",
+    "short": "EW",
+    "tags": [
+      "electronics",
+      "chip"
+    ],
+    "url": "https://www.electronicsweekly.com/news/products/passives/mlcc-with-capacitance-of-2-2%ce%bcf-at-100vdc-2026-06/"
+  },
+  {
+    "date": "2026-06-09",
+    "title": "HBM Contract Prices Projected to Surge Multiples Higher in 2027",
+    "summary": "Accelerated AI infrastructure deployment is expected to sustain strong HBM demand growth through 2026 and 2027. The post HBM Contract Prices Projected to Surge Multiples Higher in 2027 appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://www.eetasia.com/hbm-contract-prices-projected-to-surge-multiples-higher-in-2027/"
+  },
+  {
+    "date": "2026-06-09",
+    "title": "Cadence Autonomous AI Design Engineer Accelerates Chip Verification and Development",
+    "summary": "Cadence extends ChipStack AI Super Agent to Level-5 autonomy, enabling fully autonomous semiconductor verification workflows. The post Cadence Autonomous AI Design Engineer Accelerates Chip Verification and Development appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "semiconductor",
+      " ai ",
+      "chip"
+    ],
+    "url": "https://www.eetasia.com/cadence-autonomous-ai-design-engineer-accelerates-chip-verification-and-development/"
   },
   {
     "date": "2026-06-09",
@@ -21,75 +91,6 @@
       "technology"
     ],
     "url": "https://www.eetasia.com/universal-display-strengthens-china-presence-with-new-oled-technology-and-innovation-center/"
-  },
-  {
-    "date": "2026-06-09",
-    "title": "Apple rolls out revamped Siri with AI upgrades",
-    "summary": "Apple said the new Siri will launch in beta this fall, in English first, after the company delayed features from its 2024 Apple Intelligence preview.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      " ai "
-    ],
-    "url": "https://www.techinasia.com/apple-ramps-ai-investment-lifts-share"
-  },
-  {
-    "date": "2026-06-09",
-    "title": "SpaceX IPO may fuel AI satellite expansion: report",
-    "summary": "TrendForce said SpaceX’s push into direct-to-cell services and orbital computing could benefit suppliers of antenna modules.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      " ai "
-    ],
-    "url": "https://www.techinasia.com/spacex-ipo-could-make-elon-musk-first-trillionaire"
-  },
-  {
-    "date": "2026-06-09",
-    "title": "Ahead of SpaceX IPO, Musk says AI satellites will use mostly existing technology",
-    "summary": "Ahead of SpaceX IPO, Musk says AI satellites will use mostly existing technology",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "technology",
-      " ai "
-    ],
-    "url": "https://www.channelnewsasia.com/business/ahead-spacex-ipo-musk-says-ai-satellites-will-use-mostly-existing-technology-6170216"
-  },
-  {
-    "date": "2026-06-09",
-    "title": "Siri AI, Apple Intelligence, child safety tools: Key takeaways from Apple’s WWDC",
-    "summary": "Apple unveiled Siri AI, expanded Apple Intelligence and integrated new AI features across its apps. The company also introduced enhanced child safety tools, upgraded photo editing features and expanded Liquid Glass customisation.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      " ai "
-    ],
-    "url": "https://www.channelnewsasia.com/living/apple-wwdc-2026-siri-ai-child-safety-tools-6169861"
-  },
-  {
-    "date": "2026-06-09",
-    "title": "Why Semiconductor Manufacturers are Rethinking MES",
-    "summary": "AI-ready MES platforms are becoming essential for quality, agility, and control as semiconductor manufacturing expands across Southeast Asia. The post Why Semiconductor Manufacturers are Rethinking MES appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "semiconductor",
-      "manufacturing"
-    ],
-    "url": "https://www.eetasia.com/why-semiconductor-manufacturers-are-rethinking-mes/"
-  },
-  {
-    "date": "2026-06-09",
-    "title": "Semiconductor Equipment Billings Jump 14% YoY in 1Q 2026",
-    "summary": "Record quarterly billings were driven by continued AI-related investment, including capacity expansion and technology upgrades supporting leading-edge logic, DRAM, and advanced packaging. The post Semiconductor Equipment Billings Jump 14% YoY in 1Q 2026 appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "semiconductor",
-      "technology"
-    ],
-    "url": "https://www.eetasia.com/semiconductor-equipment-billings-jump-14-yoy-in-1q-2026/"
   },
   {
     "date": "2026-06-09",
@@ -126,6 +127,28 @@
   },
   {
     "date": "2026-06-09",
+    "title": "Semiconductor advances a 'must' for data centers, says Tokyo Electron boss",
+    "summary": "Semiconductor advances a 'must' for data centers, says Tokyo Electron boss",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/spotlight/the-future-of-asia/future-of-asia-2026/semiconductor-advances-a-must-for-data-centers-says-tokyo-electron-boss"
+  },
+  {
+    "date": "2026-06-09",
+    "title": "From Nintendo to Sanrio, Japanese entertainment stocks face AI headwinds",
+    "summary": "From Nintendo to Sanrio, Japanese entertainment stocks face AI headwinds",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://asia.nikkei.com/business/media-entertainment/from-nintendo-to-sanrio-japanese-entertainment-stocks-face-ai-headwinds"
+  },
+  {
+    "date": "2026-06-09",
     "title": "Sony eyes rebound from Xperia smartphone stumble with AI camera functions",
     "summary": "Sony eyes rebound from Xperia smartphone stumble with AI camera functions",
     "source": "Nikkei Asia",
@@ -134,28 +157,6 @@
       " ai "
     ],
     "url": "https://asia.nikkei.com/business/electronics/sony-eyes-rebound-from-xperia-smartphone-stumble-with-ai-camera-functions"
-  },
-  {
-    "date": "2026-06-09",
-    "title": "Apple, Google team on AI as Apple Intelligence awaits China approval",
-    "summary": "Apple, Google team on AI as Apple Intelligence awaits China approval",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      " ai "
-    ],
-    "url": "https://asia.nikkei.com/business/technology/apple-google-team-on-ai-as-apple-intelligence-awaits-china-approval"
-  },
-  {
-    "date": "2026-06-09",
-    "title": "Nvidia's Jensen Huang charms South Korea, clinching AI factory deal with SK",
-    "summary": "Nvidia's Jensen Huang charms South Korea, clinching AI factory deal with SK",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      " ai "
-    ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-s-jensen-huang-charms-south-korea-clinching-ai-factory-deal-with-sk"
   },
   {
     "date": "2026-06-09",
