@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Asia Tech News Feed â Daily Scraper
+Asia Tech News Feed — Daily Scraper
 Scrapes 20 news sources, filters for Asia + keywords,
 summarizes via Claude API, generates Jekyll posts + TSV for Google Sheets.
 """
@@ -24,9 +24,9 @@ from dateutil import parser as dateparser
 import pytz
 import anthropic
 
-# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+# ─────────────────────────────────────────────────────────────────────────────
 # CONFIGURATION
-# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+# ─────────────────────────────────────────────────────────────────────────────
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 POSTS_DIR = Path(__file__).parent.parent / "_posts"
@@ -39,7 +39,7 @@ MAX_PER_DOMAIN = 3
 LOOKBACK_DAYS = 3
 SGT = pytz.timezone("Asia/Singapore")
 
-# Domains that are inherently Asia-focused â no additional Asia term required
+# Domains that are inherently Asia-focused — no additional Asia term required
 ASIA_FOCUSED_DOMAINS = {
     "channelnewsasia.com", "businesstimes.com.sg", "thestar.com.my",
     "straitstimes.com", "asiamanufacturingreview.com", "edb.gov.sg",
@@ -50,11 +50,17 @@ ASIA_FOCUSED_DOMAINS = {
 
 KEYWORDS = [
     "semiconductor", "electronics", "logistics", "pharmaceutical",
-    "biotechnology", "biotech", "technology", "artificial intelligence",
-    " ai ", "machine vision", "automation", "manufacturing",
+    "biotechnology", "biotech", "artificial intelligence",
+    " ai ", "machine vision", "automation",
     "chip", "wafer", "fab", "foundry", "pcb", "circuit board",
     "supply chain", "medtech", "drug", "vaccine", "robot",
 ]
+
+# Only these 8 topics are allowed as tags in the final digest
+APPROVED_TAGS = {
+    "semiconductor", "electronics", "logistics", "pharmaceutical",
+    "biotechnology", "AI", "machine vision", "automation",
+}
 
 SE_ASIA_TERMS = [
     "singapore", "malaysia", "thailand", "vietnam", "indonesia",
@@ -73,9 +79,9 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
 }
 
-# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
-# NEWS SOURCES â (name, type, url, rss_url or scrape config)
-# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+# ─────────────────────────────────────────────────────────────────────────────
+# NEWS SOURCES — (name, type, url, rss_url or scrape config)
+# ─────────────────────────────────────────────────────────────────────────────
 
 SOURCES = [
     {
@@ -230,12 +236,12 @@ SOURCES = [
 ]
 
 
-# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+# ─────────────────────────────────────────────────────────────────────────────
 # HELPERS
-# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+# ─────────────────────────────────────────────────────────────────────────────
 
 def normalize_date(raw_date) -> datetime | None:
-    """Parse various date formats â timezone-aware UTC datetime."""
+    """Parse various date formats → timezone-aware UTC datetime."""
     if not raw_date:
         return None
     try:
@@ -285,18 +291,18 @@ def fetch_url(url: str, timeout: int = 15) -> requests.Response | None:
         resp.raise_for_status()
         return resp
     except Exception as e:
-        print(f"  â  Failed to fetch {url}: {e}")
+        print(f"  ⚠ Failed to fetch {url}: {e}")
         return None
 
 
-# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+# ─────────────────────────────────────────────────────────────────────────────
 # FETCHING
-# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+# ─────────────────────────────────────────────────────────────────────────────
 
 def fetch_rss(source: dict) -> list[dict]:
     """Parse RSS/Atom feed and return raw articles."""
     rss_url = source.get("rss", source["url"])
-    print(f"  ð¡ RSS: {rss_url}")
+    print(f"  📡 RSS: {rss_url}")
     try:
         feed = feedparser.parse(rss_url, request_headers=HEADERS)
         articles = []
@@ -315,13 +321,13 @@ def fetch_rss(source: dict) -> list[dict]:
             })
         return articles
     except Exception as e:
-        print(f"  â  RSS parse error for {rss_url}: {e}")
+        print(f"  ⚠ RSS parse error for {rss_url}: {e}")
         return []
 
 
 def fetch_scrape(source: dict) -> list[dict]:
     """HTML scrape fallback."""
-    print(f"  ð Scraping: {source['url']}")
+    print(f"  🔍 Scraping: {source['url']}")
     resp = fetch_url(source["url"])
     if not resp:
         return []
@@ -400,14 +406,14 @@ def fetch_og_image(url: str) -> str:
     return ""
 
 
-# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+# ─────────────────────────────────────────────────────────────────────────────
 # CLAUDE SUMMARIZATION
-# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+# ─────────────────────────────────────────────────────────────────────────────
 
 def summarize_with_claude(articles: list[dict]) -> list[dict]:
     """Batch summarize articles via Claude API."""
     if not ANTHROPIC_API_KEY:
-        print("â  ANTHROPIC_API_KEY not set â using raw summaries.")
+        print("⚠ ANTHROPIC_API_KEY not set — using raw summaries.")
         for a in articles:
             a["summary"] = (a["summary_raw"] or a["title"])[:320]
             a["tags"] = a.get("matched_keywords", [])[:3]
@@ -417,7 +423,7 @@ def summarize_with_claude(articles: list[dict]) -> list[dict]:
     summarized = []
 
     for idx, article in enumerate(articles):
-        print(f"  ð¤ Summarizing {idx+1}/{len(articles)}: {article['title'][:60]}...")
+        print(f"  🤖 Summarizing {idx+1}/{len(articles)}: {article['title'][:60]}...")
         context = article.get("full_text") or article.get("summary_raw") or article["title"]
 
         prompt = f"""You are a journalist specializing in Asia technology and industry news.
@@ -434,7 +440,10 @@ Provide ONLY a JSON response with these exact keys:
   "tags": ["<tag1>", "<tag2>", "<tag3>"]
 }}
 
-Tags must be from: semiconductor, electronics, logistics, pharmaceutical, biotechnology, AI, machine vision, automation, technology
+Tags must be chosen ONLY from this exact list (use as-is, no variations):
+semiconductor, electronics, logistics, pharmaceutical, biotechnology, AI, machine vision, automation
+
+If none of these tags apply, return an empty tags array [].
 Return ONLY the JSON. No markdown, no explanation."""
 
         try:
@@ -449,11 +458,34 @@ Return ONLY the JSON. No markdown, no explanation."""
             raw = re.sub(r"\s*```$", "", raw)
             data = json.loads(raw)
             article["summary"] = data.get("summary", article["title"])[:400]
-            article["tags"] = data.get("tags", [])[:4]
+            # Keep only approved tags
+            raw_tags = data.get("tags", [])[:4]
+            article["tags"] = [t for t in raw_tags if t in APPROVED_TAGS]
         except Exception as e:
-            print(f"    â  Claude error: {e}")
+            print(f"    ⚠ Claude error: {e}")
             article["summary"] = (article.get("summary_raw") or article["title"])[:320]
-            article["tags"] = article.get("matched_keywords", [])[:3]
+            # Fallback: map matched keywords to approved tags only
+            kw_to_tag = {
+                "semiconductor": "semiconductor", "electronics": "electronics",
+                "logistics": "logistics", "supply chain": "logistics",
+                "pharmaceutical": "pharmaceutical", "drug": "pharmaceutical",
+                "vaccine": "pharmaceutical", "medtech": "pharmaceutical",
+                "biotechnology": "biotechnology", "biotech": "biotechnology",
+                "artificial intelligence": "AI", " ai ": "AI",
+                "machine vision": "machine vision", "robot": "automation",
+                "automation": "automation",
+            }
+            fallback_tags = []
+            for kw in article.get("matched_keywords", []):
+                mapped = kw_to_tag.get(kw.lower())
+                if mapped and mapped not in fallback_tags:
+                    fallback_tags.append(mapped)
+            article["tags"] = fallback_tags[:3]
+
+        # Skip articles that don't map to any approved topic
+        if not article["tags"]:
+            print(f"    ⏭ Skipping (no approved topic): {article['title'][:60]}")
+            continue
 
         summarized.append(article)
         # Respect API rate limits
@@ -475,7 +507,7 @@ def select_featured_article(articles: list[dict]) -> dict | None:
         f"{i+1}. [{a['short']}] {a['title']}"
         for i, a in enumerate(articles[:15])
     )
-    prompt = f"""You are an Asia tech news editor. From the list below, pick the single most impactful and reader-grabbing story for today's featured hero card. Return ONLY the number of your choice (1â{min(15, len(articles))}).
+    prompt = f"""You are an Asia tech news editor. From the list below, pick the single most impactful and reader-grabbing story for today's featured hero card. Return ONLY the number of your choice (1–{min(15, len(articles))}).
 
 {candidates}
 
@@ -491,13 +523,13 @@ Return ONLY a single integer. No explanation."""
         idx = max(0, min(idx, min(14, len(articles) - 1)))
         return articles[idx]
     except Exception as e:
-        print(f"  â  Featured selection error: {e} â defaulting to first article")
+        print(f"  ⚠ Featured selection error: {e} — defaulting to first article")
         return articles[0]
 
 
-# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+# ─────────────────────────────────────────────────────────────────────────────
 # DEDUPLICATION
-# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+# ─────────────────────────────────────────────────────────────────────────────
 
 def deduplicate(articles: list[dict]) -> list[dict]:
     """Remove near-duplicate articles by URL and title similarity."""
@@ -515,9 +547,9 @@ def deduplicate(articles: list[dict]) -> list[dict]:
     return unique
 
 
-# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+# ─────────────────────────────────────────────────────────────────────────────
 # OUTPUT GENERATION
-# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+# ─────────────────────────────────────────────────────────────────────────────
 
 TAG_CLASS_MAP = {
     "ai": "ai", "artificial intelligence": "ai",
@@ -617,7 +649,7 @@ def update_search_index(articles: list[dict], run_date: datetime) -> None:
     existing.sort(key=lambda x: x.get("date", ""), reverse=True)
     ASSETS_DIR.mkdir(parents=True, exist_ok=True)
     index_path.write_text(json.dumps(existing, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"ð Search index updated: {len(existing)} total articles")
+    print(f"🔍 Search index updated: {len(existing)} total articles")
 
 
 def write_jekyll_post(articles: list[dict], run_date: datetime, featured: dict | None = None) -> Path:
@@ -655,7 +687,7 @@ csv_file: /assets/data/{tsv_filename}
 {featured_fm}---
 """
     filename.write_text(front_matter + "\n" + table_html + "\n", encoding="utf-8")
-    print(f"â Jekyll post written: {filename}")
+    print(f"✅ Jekyll post written: {filename}")
     return filename
 
 
@@ -688,7 +720,7 @@ def build_email_html(articles: list[dict], run_date: datetime) -> str:
     <p style="margin:6px 0 0;font-size:13px;color:rgba(255,255,255,0.7);">{len(articles)} articles | Filtered for Asia + tech keywords | Awaiting your approval</p>
   </div>
   <div style="background:#fff5e6;border:1px solid #f6ad55;border-radius:0 0 8px 8px;padding:14px 20px;margin-bottom:20px;">
-    <strong>ð Action required:</strong> Review the {len(articles)} articles below.
+    <strong>📋 Action required:</strong> Review the {len(articles)} articles below.
     To <strong>publish</strong>, merge the pull request on GitHub.
     To <strong>skip</strong>, simply close the PR without merging.
   </div>
@@ -709,27 +741,27 @@ def write_email_file(html: str, run_date: datetime) -> Path:
     return email_path
 
 
-# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+# ─────────────────────────────────────────────────────────────────────────────
 # MAIN
-# âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+# ─────────────────────────────────────────────────────────────────────────────
 
 def main():
     run_date = datetime.now(SGT)
-    print(f"\nð Asia Tech News Feed â {run_date.strftime('%Y-%m-%d %H:%M SGT')}")
+    print(f"\n🌏 Asia Tech News Feed — {run_date.strftime('%Y-%m-%d %H:%M SGT')}")
     print("=" * 60)
 
     all_articles = []
 
     for source in SOURCES:
-        print(f"\nð° [{source['short']}] {source['name']}")
+        print(f"\n📰 [{source['short']}] {source['name']}")
         try:
             if source.get("rss") or source["type"] == "rss":
                 raw = fetch_rss(source)
             else:
                 raw = fetch_scrape(source)
-            print(f"  â {len(raw)} items fetched")
+            print(f"  → {len(raw)} items fetched")
         except Exception as e:
-            print(f"  â Error: {e}")
+            print(f"  ✖ Error: {e}")
             continue
 
         for article in raw:
@@ -749,9 +781,9 @@ def main():
             article["matched_keywords"] = kws
             all_articles.append(article)
 
-    print(f"\nð {len(all_articles)} relevant articles found before dedup")
+    print(f"\n📊 {len(all_articles)} relevant articles found before dedup")
     all_articles = deduplicate(all_articles)
-    print(f"ð {len(all_articles)} after deduplication")
+    print(f"📊 {len(all_articles)} after deduplication")
 
     # Sort by date descending
     all_articles.sort(key=lambda x: x.get("date") or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
@@ -765,38 +797,38 @@ def main():
             domain_counts[domain] = domain_counts.get(domain, 0) + 1
             capped.append(a)
     all_articles = capped
-    print(f"ð {len(all_articles)} after per-domain cap (max {MAX_PER_DOMAIN} per site)")
+    print(f"📊 {len(all_articles)} after per-domain cap (max {MAX_PER_DOMAIN} per site)")
 
     # Take top MAX_ARTICLES
     all_articles = all_articles[:MAX_ARTICLES]
-    print(f"ð Top {len(all_articles)} selected")
+    print(f"📊 Top {len(all_articles)} selected")
 
     if not all_articles:
-        print("\nâ  No articles matched. Exiting without creating post.")
+        print("\n⚠ No articles matched. Exiting without creating post.")
         # Write a signal file for GitHub Actions
         Path("/tmp/no_articles.flag").touch()
         sys.exit(0)
 
     # Fetch full text for better summaries (optional, best-effort)
-    print("\nð Fetching article full text...")
+    print("\n📖 Fetching article full text...")
     for a in all_articles[:MAX_ARTICLES]:
         a["full_text"] = fetch_full_text(a["url"])
         time.sleep(0.3)
 
     # Summarize
-    print("\nð¤ Summarizing with Claude...")
+    print("\n🤖 Summarizing with Claude...")
     all_articles = summarize_with_claude(all_articles)
 
     # Select featured article and fetch its OG image
-    print("\nâ­ Selecting featured article...")
+    print("\n⭐ Selecting featured article...")
     featured = select_featured_article(all_articles)
     if featured:
-        print(f"  â Featured: {featured['title'][:70]}")
+        print(f"  → Featured: {featured['title'][:70]}")
         featured["og_image"] = fetch_og_image(featured["url"])
-        print(f"  â OG image: {featured['og_image'][:80] if featured['og_image'] else '(none)'}")
+        print(f"  → OG image: {featured['og_image'][:80] if featured['og_image'] else '(none)'}")
 
     # Write outputs
-    print("\nð Writing outputs...")
+    print("\n📝 Writing outputs...")
     post_path = write_jekyll_post(all_articles, run_date, featured=featured)
     update_search_index(all_articles, run_date)
 
@@ -817,8 +849,8 @@ def main():
     json_path = Path(__file__).parent.parent / "_digest_meta.json"
     json_path.write_text(json.dumps(summary_json, indent=2), encoding="utf-8")
 
-    print(f"\nâ Done! {len(all_articles)} articles â {post_path.name}")
-    print(f"ð§ Email preview: {email_path}")
+    print(f"\n✅ Done! {len(all_articles)} articles → {post_path.name}")
+    print(f"📧 Email preview: {email_path}")
 
 
 if __name__ == "__main__":
