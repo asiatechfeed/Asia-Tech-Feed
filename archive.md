@@ -3,29 +3,100 @@ layout: default
 title: Archive
 ---
 
-<h2 style="margin-bottom:20px; color:#1a3a5c;">&#128193; All News Digests</h2>
+<h2 style="margin-bottom:20px; color:#1a3a5c;">📁 All News Digests</h2>
 
 {% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-<div style="margin-bottom:24px;">
-  <h3 style="color:#718096; font-size:0.9rem; font-weight:700; letter-spacing:1px; text-transform:uppercase; margin-bottom:10px; border-bottom:1px solid #dde3ec; padding-bottom:6px;">
-    {{ year.name }}
-  </h3>
-  {% assign postsByMonth = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
-  {% for month in postsByMonth %}
-  <div style="margin-bottom:16px; padding-left:16px;">
-    <div style="font-size:0.82rem; color:#2b6cb0; font-weight:600; margin-bottom:8px;">{{ month.name }}</div>
+
+{% assign postsByMonth = year.items | group_by_exp: "post", "post.date | date: '%B %Y'" %}
+{% for month in postsByMonth %}
+<details class="archive-folder" {% if forloop.first and forloop.parentloop.first %}open{% endif %}>
+  <summary class="archive-folder-title">
+    <span class="folder-icon">📂</span>
+    <span class="folder-name">{{ month.name }}</span>
+    <span class="folder-count">{{ month.items | size }} digest{% if month.items.size != 1 %}s{% endif %}</span>
+  </summary>
+  <div class="archive-folder-body">
     {% for post in month.items %}
-    <div style="padding:8px 0; border-bottom:1px solid #f0f0f0; display:flex; justify-content:space-between; align-items:center;">
-      <a href="{{ post.url | relative_url }}" style="color:#1a3a5c; text-decoration:none; font-size:0.9rem;">
-        {{ post.title }}
-      </a>
-      <span style="font-size:0.78rem; color:#718096; margin-left:12px; white-space:nowrap;">
-        {{ post.date | date: "%d %b" }} &middot; {{ post.articles_count | default: 0 }} articles
-      </span>
+    <div class="archive-row">
+      <a href="{{ post.url | relative_url }}" class="archive-link">{{ post.title }}</a>
+      <span class="archive-meta">{{ post.date | date: "%d %b" }} &middot; {{ post.articles_count | default: 0 }} articles</span>
     </div>
     {% endfor %}
   </div>
-  {% endfor %}
-</div>
+</details>
 {% endfor %}
+
+{% endfor %}
+
+<style>
+.archive-folder {
+  background: var(--card-bg, #fff);
+  border: 1px solid var(--border, #dde3ec);
+  border-radius: 10px;
+  margin-bottom: 12px;
+  overflow: hidden;
+}
+.archive-folder-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 18px;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+  font-weight: 600;
+  color: var(--text, #1a3a5c);
+  font-size: 0.95rem;
+}
+.archive-folder-title::-webkit-details-marker { display: none; }
+.archive-folder-title::before {
+  content: '▶';
+  font-size: 0.65rem;
+  color: #718096;
+  transition: transform 0.2s;
+  flex-shrink: 0;
+}
+details[open] > .archive-folder-title::before { transform: rotate(90deg); }
+.folder-icon { font-size: 1.1rem; }
+.folder-name { flex: 1; }
+.folder-count {
+  font-size: 0.78rem;
+  color: #718096;
+  font-weight: 400;
+  background: var(--bg, #f7f9fc);
+  border: 1px solid var(--border, #dde3ec);
+  border-radius: 12px;
+  padding: 2px 10px;
+}
+.archive-folder-body {
+  border-top: 1px solid var(--border, #dde3ec);
+  padding: 4px 0;
+}
+.archive-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 18px 10px 42px;
+  border-bottom: 1px solid var(--border, #f0f4f8);
+}
+.archive-row:last-child { border-bottom: none; }
+.archive-link {
+  color: var(--text, #1a3a5c);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+.archive-link:hover { color: #2b6cb0; text-decoration: underline; }
+.archive-meta {
+  font-size: 0.78rem;
+  color: #718096;
+  white-space: nowrap;
+  margin-left: 12px;
+}
+html.dark .archive-folder { background: var(--card-bg); border-color: #334; }
+html.dark .archive-folder-title { color: var(--text); }
+html.dark .folder-count { background: #1a2035; border-color: #334; }
+html.dark .archive-folder-body { border-top-color: #334; }
+html.dark .archive-row { border-bottom-color: #2a3045; }
+html.dark .archive-link { color: var(--text); }
+</style>
