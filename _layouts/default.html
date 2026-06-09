@@ -53,77 +53,9 @@
   <p>{{ site.title }} &middot; Auto-updated daily via GitHub Actions &middot; Filtered for Asia</p>
   <p>Keywords: Semiconductor &middot; Electronics &middot; Logistics &middot; Pharmaceutical &middot; Biotechnology &middot; AI &middot; Machine Vision &middot; Automation</p>
   <p class="visitor-counter">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fasiatechfeed.github.io%2FAsia-Tech-Feed&count_bg=%234A90D9&title_bg=%23374151&icon=eye.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true" alt="Visitor counter" loading="lazy">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=asiatechfeed.Asia-Tech-Feed&left_color=%23374151&right_color=%234A90D9&left_text=visitors" alt="Visitor counter" loading="lazy">
   </p>
 </footer>
 
 <script>
 // Dark mode toggle
-function toggleDark() {
-  var html = document.documentElement;
-  var isDark = html.classList.contains('dark');
-  if (isDark) {
-    html.classList.remove('dark');
-    html.classList.add('light');
-    localStorage.setItem('theme', 'light');
-  } else {
-    html.classList.remove('light');
-    html.classList.add('dark');
-    localStorage.setItem('theme', 'dark');
-  }
-  updateToggleLabel();
-}
-
-function updateToggleLabel() {
-  var isDark = document.documentElement.classList.contains('dark');
-  var icon = document.getElementById('dark-icon');
-  var label = document.getElementById('dark-label');
-  if (icon) icon.innerHTML = isDark ? '&#9728;&#xFE0F;' : '&#127769;';
-  if (label) label.textContent = isDark ? 'Light' : 'Dark';
-}
-
-document.addEventListener('DOMContentLoaded', updateToggleLabel);
-
-// Keyword filter
-function filterTable(keyword) {
-  const rows = document.querySelectorAll('.news-table tbody tr');
-  const btns = document.querySelectorAll('.filter-btn');
-  btns.forEach(b => b.classList.remove('active'));
-  event.target.classList.add('active');
-
-  rows.forEach(row => {
-    if (!keyword || keyword === 'all') {
-      row.style.display = '';
-    } else {
-      const text = row.innerText.toLowerCase();
-      row.style.display = text.includes(keyword.toLowerCase()) ? '' : 'none';
-    }
-  });
-}
-
-// CSV download
-function downloadCSV() {
-  const table = document.querySelector('.news-table');
-  if (!table) return;
-  let csv = [];
-  const rows = table.querySelectorAll('tr');
-  rows.forEach(row => {
-    const cols = row.querySelectorAll('th, td');
-    const rowData = Array.from(cols).map(col => {
-      const link = col.querySelector('a');
-      let text = link && col.classList.contains('col-link') ? link.href : col.innerText;
-      return '"' + text.replace(/"/g, '""').replace(/\n/g, ' ') + '"';
-    });
-    csv.push(rowData.join('\t'));
-  });
-  const blob = new Blob([csv.join('\n')], { type: 'text/csv' });
-  const url = URL.createObjectURL(blob);
-  const a = document.createElement('a');
-  a.href = url;
-  a.download = 'asia-news-' + new Date().toISOString().slice(0,10) + '.csv';
-  a.click();
-}
-</script>
-
-</body>
-</html>
