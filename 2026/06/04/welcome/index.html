@@ -20,7 +20,7 @@
         document.documentElement.classList.add('light');
       }
     })();
-  </script>
+  <\/script>
   <link rel="alternate" type="application/rss+xml" title="Asia Tech News Feed" href="/feed.xml">
 </head>
 <body>
@@ -171,7 +171,7 @@
   <p>Asia Tech News Feed &middot; Auto-updated daily via GitHub Actions &middot; Filtered for Asia</p>
   <p>Keywords: Semiconductor &middot; Electronics &middot; Logistics &middot; Pharmaceutical &middot; Biotechnology &middot; AI &middot; Machine Vision &middot; Automation</p>
   <p class="visitor-counter">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fasiatechfeed.github.io%2FAsia-Tech-Feed&count_bg=%234A90D9&title_bg=%23374151&icon=eye.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true" alt="Visitor counter" loading="lazy">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fasiatechfeed.com&count_bg=%234A90D9&title_bg=%23374151&icon=eye.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true" alt="Visitor counter" loading="lazy">
   </p>
 </footer>
 
@@ -230,18 +230,20 @@ function downloadCSV() {
     const rowData = Array.from(cols).map(col => {
       const link = col.querySelector('a');
       let text = link && col.classList.contains('col-link') ? link.href : col.innerText;
-      return '"' + text.replace(/"/g, '""').replace(/\n/g, ' ') + '"';
+      return '"' + text.replace(/"/g, '""').replace(/
+/g, ' ') + '"';
     });
-    csv.push(rowData.join('\t'));
+    csv.push(rowData.join('	'));
   });
-  const blob = new Blob([csv.join('\n')], { type: 'text/csv' });
+  const blob = new Blob([csv.join('
+')], { type: 'text/csv' });
   const url = URL.createObjectURL(blob);
   const a = document.createElement('a');
   a.href = url;
   a.download = 'asia-news-' + new Date().toISOString().slice(0,10) + '.csv';
   a.click();
 }
-</script>
+<\/script>
 
 </body>
 </html>
