@@ -2,8 +2,8 @@ name: Daily Asia Tech News Digest
 
 on:
   schedule:
-    # Runs at 02:00 UTC = 10:00 AM Singapore Time, every day
-    - cron: "0 2 * * *"
+    # Runs at 00:00 UTC = 8:00 AM Singapore Time, every day
+    - cron: "0 0 * * *"→ Runs at 02:00
   workflow_dispatch:
     inputs:
       force_publish:
@@ -59,68 +59,3 @@ jobs:
             COUNT=$(python -c "import json; d=json.load(open('_digest_meta.json')); print(d['count'])")
             DATE=$(python -c "import json; d=json.load(open('_digest_meta.json')); print(d['date'])")
             echo "has_articles=true" >> $GITHUB_OUTPUT
-            echo "article_count=$COUNT" >> $GITHUB_OUTPUT
-            echo "digest_date=$DATE" >> $GITHUB_OUTPUT
-          fi
-
-      # ── 5. Stop if no articles ───────────────────────────────────────────
-      - name: Skip if no articles
-        if: steps.run_scraper.outputs.has_articles == 'false'
-        run: |
-          echo "No matching articles found today. Skipping publish."
-          exit 0
-
-      # ── 6. Commit directly to main ───────────────────────────────────────
-      - name: Commit digest to main
-        if: steps.run_scraper.outputs.has_articles == 'true'
-        run: |
-          DATE="${{ steps.run_scraper.outputs.digest_date }}"
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add _posts/ assets/data/ _digest_meta.json _data/stocks.json
-          # Only commit if there are changes
-          git diff --cached --quiet || git commit -m "📰 News digest $DATE (${{ steps.run_scraper.outputs.article_count }} articles)"
-          git push origin main
-
-      # ── 7. Optional notification email (manual trigger only) ─────────────
-      - name: Send notification email
-        if: >
-          steps.run_scraper.outputs.has_articles == 'true' &&
-          github.event_name == 'workflow_dispatch' &&
-          github.event.inputs.force_publish != 'true'
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 465
-          secure: true
-          username: ${{ secrets.GMAIL_USERNAME }}
-          password: ${{ secrets.GMAIL_APP_PASSWORD }}
-          to: ${{ secrets.APPROVAL_EMAIL }}
-          from: "Asia News Feed <${{ secrets.GMAIL_USERNAME }}>"
-          subject: "✅ Asia Tech News published — ${{ steps.run_scraper.outputs.digest_date }} (${{ steps.run_scraper.outputs.article_count }} articles)"
-          html_body: file://_email_preview.html
-          priority: normal
-
-      # ── 8. Build Jekyll site ─────────────────────────────────────────────
-      - name: Setup Ruby
-        if: steps.run_scraper.outputs.has_articles == 'true'
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: "3.2"
-          bundler-cache: true
-
-      - name: Build Jekyll site
-        if: steps.run_scraper.outputs.has_articles == 'true'
-        run: bundle exec jekyll build --destination ./_site
-        env:
-          JEKYLL_ENV: production
-
-      # ── 9. Deploy to GitHub Pages ────────────────────────────────────────
-      - name: Deploy to GitHub Pages
-        if: steps.run_scraper.outputs.has_articles == 'true'
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
-          publish_branch: gh-pages
-          commit_message: "🚀 Deploy digest ${{ steps.run_scraper.outputs.digest_date }} (${{ steps.run_scraper.outputs.article_count }} articles)"
