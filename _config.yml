@@ -1,7 +1,7 @@
 title: Asia Tech News Feed
 description: Daily Asia news digest covering semiconductors, electronics, logistics, pharma, biotech, AI & automation
-baseurl: "/Asia-Tech-Feed"
-url: "https://asiatechfeed.github.io"
+baseurl: ""
+url: "https://asia-tech-feed.pages.dev"
 
 # Build settings
 theme: null
