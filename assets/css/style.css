@@ -596,3 +596,26 @@ html.dark .featured-hero,
   .article-title { font-size: 0.9rem; }
   .col-summary { font-size: 0.82rem; }
 }
+
+
+/* ── Stock ticker ─────────────────────────────────────── */
+.ticker-wrap { background: #0a1628; border-bottom: 1px solid rgba(255,255,255,0.07); display: flex; align-items: stretch; overflow: hidden; height: 34px; }
+.ticker-label-box { background: #4a90d9; color: #fff; font-size: 11px; font-weight: 600; letter-spacing: 0.8px; text-transform: uppercase; padding: 0 14px; display: flex; align-items: center; white-space: nowrap; flex-shrink: 0; }
+.ticker-scroll-outer { flex: 1; overflow: hidden; position: relative; }
+.ticker-scroll-outer::before { content: ''; position: absolute; left: 0; top: 0; width: 24px; height: 100%; background: linear-gradient(to right, #0a1628, transparent); z-index: 1; pointer-events: none; }
+.ticker-scroll-outer::after { content: ''; position: absolute; right: 0; top: 0; width: 24px; height: 100%; background: linear-gradient(to left, #0a1628, transparent); z-index: 1; pointer-events: none; }
+.ticker-track { display: flex; align-items: center; height: 34px; white-space: nowrap; animation: ticker-scroll 40s linear infinite; }
+.ticker-track:hover { animation-play-state: paused; }
+.ticker-item { display: inline-flex; align-items: center; gap: 7px; padding: 0 18px; border-right: 1px solid rgba(255,255,255,0.08); font-size: 13px; height: 100%; }
+.ticker-sym { color: #fff; font-weight: 600; letter-spacing: 0.3px; }
+.ticker-price { color: rgba(255,255,255,0.6); font-size: 12px; }
+.ticker-chg { font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; gap: 3px; }
+.ticker-chg.up { color: #4cdb8a; }
+.ticker-chg.down { color: #ff6b6b; }
+.ticker-dot { width: 5px; height: 5px; border-radius: 50%; display: inline-block; }
+.dot-up { background: #4cdb8a; }
+.dot-down { background: #ff6b6b; }
+.ticker-eod { display: flex; align-items: center; gap: 6px; padding: 0 12px; flex-shrink: 0; font-size: 11px; color: rgba(255,255,255,0.35); border-left: 1px solid rgba(255,255,255,0.07); white-space: nowrap; }
+.ticker-pulse { width: 6px; height: 6px; border-radius: 50%; background: #4cdb8a; animation: ticker-pulse 2s ease-in-out infinite; display: inline-block; }
+@keyframes ticker-scroll { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+@keyframes ticker-pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.2; } }
