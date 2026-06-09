@@ -1,0 +1,15 @@
+{
+  "updated": "Jun 09, 2026",
+  "stocks": [
+    {"symbol": "TSM",     "name": "TSMC",             "price": "$172.40",  "change": "1.20%", "direction": "up"},
+    {"symbol": "NVDA",    "name": "Nvidia",           "price": "$134.20",  "change": "0.80%", "direction": "down"},
+    {"symbol": "ASML",    "name": "ASML",             "price": "$680.10",  "change": "0.40%", "direction": "up"},
+    {"symbol": "AMD",     "name": "AMD",              "price": "$163.50",  "change": "2.10%", "direction": "up"},
+    {"symbol": "AMAT",    "name": "Applied Materials","price": "$198.30",  "change": "0.60%", "direction": "up"},
+    {"symbol": "MU",      "name": "Micron",           "price": "$112.80",  "change": "1.40%", "direction": "down"},
+    {"symbol": "INTC",    "name": "Intel",            "price": "$30.15",   "change": "0.30%", "direction": "down"},
+    {"symbol": "LRCX",    "name": "Lam Research",     "price": "$850.60",  "change": "0.90%", "direction": "up"},
+    {"symbol": "SAMSUNG", "name": "Samsung",          "price": "₩71,400",  "change": "0.70%", "direction": "up"},
+    {"symbol": "SKHYNIX", "name": "SK Hynix",         "price": "₩190,500", "change": "0.50%", "direction": "down"}
+  ]
+}
