@@ -3,24 +3,29 @@ layout: default
 title: Latest News
 ---
 
-<div class="summary-bar">
-  <div class="stat-card">
-    <div class="num">{{ site.posts | size }}</div>
-    <div class="lbl">Daily Digests</div>
-  </div>
-  <div class="stat-card">
-    <div class="num">12</div>
-    <div class="lbl">Sources Monitored</div>
-  </div>
-  <div class="stat-card">
-    <div class="num">8</div>
-    <div class="lbl">Topic Keywords</div>
-  </div>
-  <div class="stat-card">
-    <div class="num">Asia</div>
-    <div class="lbl">Region Focus</div>
+{% assign latest = site.posts.first %}
+{% if latest.featured_title %}
+<div class="top-story-card">
+  {% if latest.featured_image %}
+  <div class="top-story-img" style="background-image:url('{{ latest.featured_image }}')"></div>
+  {% endif %}
+  <div class="top-story-body">
+    <div class="top-story-label">â­ TODAY'S TOP STORY</div>
+    <h2 class="top-story-title">
+      <a href="{{ latest.featured_url }}" target="_blank" rel="noopener">{{ latest.featured_title }}</a>
+    </h2>
+    {% if latest.featured_summary %}
+    <p class="top-story-summary">{{ latest.featured_summary }}</p>
+    {% endif %}
+    <div class="top-story-meta">
+      <span class="top-story-source">{{ latest.featured_source }}</span>
+      <span>&middot;</span>
+      <span>{{ latest.date | date: "%B %d, %Y" }}</span>
+      <a href="{{ latest.url | relative_url }}" class="top-story-digest-link">View full digest &rarr;</a>
+    </div>
   </div>
 </div>
+{% endif %}
 
 {% if site.posts.size == 0 %}
 <div style="background:#fff; border-radius:10px; padding:40px; text-align:center; border:1px solid #dde3ec;">
