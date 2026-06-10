@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{%- if page.title -%}{{ page.title }} | {%- endif -%}{{ site.title }}</title>
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <script>
@@ -64,9 +64,6 @@
 <footer>
   <p>{{ site.title }} &middot; Auto-updated daily via GitHub Actions &middot; Filtered for Asia</p>
   <p>Keywords: Semiconductor &middot; Electronics &middot; Logistics &middot; Pharmaceutical &middot; Biotechnology &middot; AI &middot; Machine Vision &middot; Automation</p>
-  <p class="visitor-counter">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fasiatechfeed.com&count_bg=%234A90D9&title_bg=%23374151&icon=eye.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true" alt="Visitor counter" loading="lazy">
-  </p>
 </footer>
 
 <script>
