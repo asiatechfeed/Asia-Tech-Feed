@@ -185,11 +185,8 @@ SOURCES = [
         "name": "DigiTimes",
         "short": "DigiTimes",
         "url": "https://www.digitimes.com/news/",
-        "type": "scrape",
-        "article_selector": "article, .news-item, .story-item",
-        "title_selector": "h2, h3, .title",
-        "date_selector": ".date, time, .published",
-        "link_selector": "a",
+        "rss": "https://www.digitimes.com/rss/daily.xml",
+        "type": "rss",
     },
     {
         "name": "Nikkei Asia",
