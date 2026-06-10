@@ -1,41 +1,40 @@
 {
-  "date": "2026-06-09",
-  "count": 17,
+  "date": "2026-06-10",
+  "count": 18,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "EW",
     "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-06-09-asia-tech-news-digest.md",
+  "post_file": "2026-06-10-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Apple failed to make its AI tool to comply to EU regulations, EU Commission says",
+      "title": "Samsung considers Gwangju plant for AI chip packaging",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/samsung-ships-hbm4e-samples-to-ai-chip-customers"
+    },
+    {
+      "title": "DHL Supply Chain expands Asia-Pacific data center network",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/singapore-to-launch-robotics-test-bed-in-punggol"
+    },
+    {
+      "title": "Fashion wasn\u2019t designed for people with special needs or disabilities \u2013 this designer wants to change that",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-6171256"
+      "url": "https://www.channelnewsasia.com/women/singapore-designer-adaptive-fashion-disabilities-6129531"
     },
     {
-      "title": "China weighs $295b plan for AI data center network",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/huawei-backs-deepseek-v4-with-ascend-ai-chips"
+      "title": "ST Puts Focus on Continuous Learning to Address Semiconductor Talent Pressures",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/st-puts-focus-on-continuous-learning-to-address-semiconductor-talent-pressures/"
     },
     {
-      "title": "Samsung pushes AI overhaul with Gemini, ChatGPT",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/samsung-electronics-spending-hits-257b-2025"
-    },
-    {
-      "title": "Why falling AI costs spark investor panic but drive new revenue",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/cheaper-ai-means-compute"
-    },
-    {
-      "title": "MLCC with capacitance of 2.2\u03bcF at 100Vdc",
-      "source": "EW",
-      "url": "https://www.electronicsweekly.com/news/products/passives/mlcc-with-capacitance-of-2-2%ce%bcf-at-100vdc-2026-06/"
+      "title": "SpaceX aims to launch orbital AI computing tests by end of next year, sources say",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/spacex-orbital-ai-computing-tests-ipo-2027-6172371"
     }
   ]
 }
