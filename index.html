@@ -6,11 +6,11 @@ title: Latest News
 {% assign latest = site.posts.first %}
 {% if latest.featured_title %}
 <div class="top-story-card">
-  {% if latest.featured_image %}
+  {% unless latest.featured_image == blank %}
   <div class="top-story-img" style="background-image:url('{{ latest.featured_image }}')"></div>
-  {% endif %}
+  {% endunless %}
   <div class="top-story-body">
-    <div class="top-story-label">â­ TODAY'S TOP STORY</div>
+    <div class="top-story-label">&#11088; TODAY'S TOP STORY</div>
     <h2 class="top-story-title">
       <a href="{{ latest.featured_url }}" target="_blank" rel="noopener">{{ latest.featured_title }}</a>
     </h2>
@@ -70,5 +70,4 @@ title: Latest News
   <a href="{{ '/archive' | relative_url }}" style="font-size:0.85rem; color:#2b6cb0; text-decoration:none; font-weight:600;">View all archives &rarr;</a>
 </div>
 {% endif %}
-
 {% endif %}
