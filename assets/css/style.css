@@ -1,5 +1,5 @@
 /* =============================================
-   Asia Tech News Feed â Jekyll Theme
+   Asia Tech News Feed Ã¢ÂÂ Jekyll Theme
    ============================================= */
 
 :root {
@@ -16,7 +16,7 @@
   --font: "Segoe UI", system-ui, -apple-system, sans-serif;
 }
 
-/* Dark mode â manual toggle (.dark on <html>) */
+/* Dark mode Ã¢ÂÂ manual toggle (.dark on <html>) */
 html.dark {
   --primary: #2a5298;
   --accent: #e84545;
@@ -30,7 +30,7 @@ html.dark {
   --row-hover: #1c2e45;
 }
 
-/* Dark mode â respect OS preference when no manual toggle */
+/* Dark mode Ã¢ÂÂ respect OS preference when no manual toggle */
 @media (prefers-color-scheme: dark) {
   html:not(.light) {
     --primary: #2a5298;
@@ -95,7 +95,7 @@ header.site-header {
 }
 .dark-toggle:hover { background: rgba(255,255,255,0.22); }
 
-/* NAV â sticky beneath header */
+/* NAV Ã¢ÂÂ sticky beneath header */
 nav.site-nav { background: #132d4a; position: sticky; top: 49px; z-index: 99; box-shadow: 0 2px 6px rgba(0,0,0,0.12); }
 .nav-inner { max-width: 1280px; margin: 0 auto; padding: 0 24px; display: flex; gap: 0; }
 nav a { color: rgba(255,255,255,0.75); text-decoration: none; font-size: 0.87rem; padding: 10px 16px; display: inline-block; transition: all .2s; }
@@ -493,12 +493,12 @@ html.dark .featured-hero,
    MOBILE & RESPONSIVE STYLES
    ============================================= */
 
-/* ââ Tablet (â¤900px) ââ */
+/* Ã¢ÂÂÃ¢ÂÂ Tablet (Ã¢ÂÂ¤900px) Ã¢ÂÂÃ¢ÂÂ */
 @media (max-width: 900px) {
   .col-tags { display: none; }
 }
 
-/* ââ Mobile (â¤768px) ââ */
+/* Ã¢ÂÂÃ¢ÂÂ Mobile (Ã¢ÂÂ¤768px) Ã¢ÂÂÃ¢ÂÂ */
 @media (max-width: 768px) {
 
   /* Header: stack title + meta vertically */
@@ -524,7 +524,7 @@ html.dark .featured-hero,
   .top-story-body { padding: 14px 16px 16px; }
   .top-story-title { font-size: 1.1rem; }
 
-  /* Keyword stats bar in post: horizontal scroll (8 cards â don't use grid) */
+  /* Keyword stats bar in post: horizontal scroll (8 cards Ã¢ÂÂ don't use grid) */
   .keyword-bar {
     display: flex !important;
     flex-wrap: nowrap !important;
@@ -554,7 +554,7 @@ html.dark .featured-hero,
   .actions-bar { justify-content: stretch; }
   .btn-download { width: 100%; justify-content: center; padding: 11px 18px; font-size: 0.88rem; min-height: 44px; }
 
-  /* ââ Article table â card layout ââ */
+  /* Ã¢ÂÂÃ¢ÂÂ Article table Ã¢ÂÂ card layout Ã¢ÂÂÃ¢ÂÂ */
   .news-table-wrapper { overflow-x: unset; }
 
   .news-table,
@@ -635,7 +635,7 @@ html.dark .featured-hero,
   footer p { margin-bottom: 6px; }
 }
 
-/* ââ Small mobile (â¤480px) ââ */
+/* Ã¢ÂÂÃ¢ÂÂ Small mobile (Ã¢ÂÂ¤480px) Ã¢ÂÂÃ¢ÂÂ */
 @media (max-width: 480px) {
   .site-title { font-size: 1rem; }
   .summary-bar { grid-template-columns: 1fr 1fr; gap: 8px; }
@@ -643,4 +643,128 @@ html.dark .featured-hero,
   .stat-card .lbl { font-size: 0.72rem; }
   .article-title { font-size: 0.9rem; }
   .col-summary { font-size: 0.82rem; }
+}
+
+
+/* =====================================================
+   STOCK TICKER
+   ===================================================== */
+
+.ticker-wrap {
+  background: #0a1a2e;
+  border-bottom: 1px solid #1a3a5c;
+  display: flex;
+  align-items: center;
+  height: 34px;
+  overflow: hidden;
+  position: relative;
+  z-index: 98;
+}
+
+.ticker-label-box {
+  background: #e84545;
+  color: #fff;
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  padding: 0 12px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-transform: uppercase;
+}
+
+.ticker-scroll-outer {
+  flex: 1;
+  overflow: hidden;
+  height: 100%;
+  position: relative;
+}
+
+.ticker-track {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  width: max-content;
+  animation: ticker-scroll 40s linear infinite;
+}
+
+.ticker-track:hover { animation-play-state: paused; }
+
+@keyframes ticker-scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.ticker-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 0 20px;
+  border-right: 1px solid rgba(255,255,255,0.08);
+  white-space: nowrap;
+  font-size: 0.78rem;
+}
+
+.ticker-sym {
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.ticker-price {
+  color: #c8d6e5;
+  font-variant-numeric: tabular-nums;
+}
+
+.ticker-chg {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 0.74rem;
+  font-weight: 600;
+}
+
+.ticker-chg.up   { color: #48bb78; }
+.ticker-chg.down { color: #fc8181; }
+
+.ticker-dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-up   { background: #48bb78; }
+.dot-down { background: #fc8181; }
+
+.ticker-eod {
+  background: #0a1a2e;
+  color: rgba(255,255,255,0.4);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  padding: 0 10px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  flex-shrink: 0;
+  border-left: 1px solid rgba(255,255,255,0.08);
+}
+
+.ticker-pulse {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #48bb78;
+  display: inline-block;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%       { opacity: 0.4; transform: scale(0.7); }
 }
