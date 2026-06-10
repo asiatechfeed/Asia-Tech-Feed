@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Latest News | Asia Tech News Feed</title>
+  <title>Latest News |Asia Tech News Feed</title>
   <meta name="description" content="Daily Asia news digest covering semiconductors, electronics, logistics, pharma, biotech, AI & automation">
   <link rel="stylesheet" href="/assets/css/style.css">
   <script>
@@ -17,7 +17,7 @@
         document.documentElement.classList.add('light');
       }
     })();
-  <\/script>
+  </script>
   <link rel="alternate" type="application/rss+xml" title="Asia Tech News Feed" href="/feed.xml">
 </head>
 <body>
@@ -207,20 +207,18 @@ function downloadCSV() {
     const rowData = Array.from(cols).map(col => {
       const link = col.querySelector('a');
       let text = link && col.classList.contains('col-link') ? link.href : col.innerText;
-      return '"' + text.replace(/"/g, '""').replace(/
-/g, ' ') + '"';
+      return '"' + text.replace(/"/g, '""').replace(/\n/g, ' ') + '"';
     });
-    csv.push(rowData.join('	'));
+    csv.push(rowData.join('\t'));
   });
-  const blob = new Blob([csv.join('
-')], { type: 'text/csv' });
+  const blob = new Blob([csv.join('\n')], { type: 'text/csv' });
   const url = URL.createObjectURL(blob);
   const a = document.createElement('a');
   a.href = url;
   a.download = 'asia-news-' + new Date().toISOString().slice(0,10) + '.csv';
   a.click();
 }
-<\/script>
+</script>
 
 </body>
 </html>
