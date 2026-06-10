@@ -171,7 +171,7 @@ main { max-width: 1280px; margin: 0 auto; padding: 28px 24px; }
 .col-source { width: 130px; }
 .col-title  { width: 220px; }
 .col-summary { min-width: 260px; }
-.col-tags  { width: 140px; }
+.col-tags  { width: 180px; }
 .col-date  { width: 95px; white-space: nowrap; color: var(--muted); font-size: 0.8rem; }
 .col-link  { width: 80px; text-align: center; }
 
@@ -195,6 +195,7 @@ main { max-width: 1280px; margin: 0 auto; padding: 28px 24px; }
   font-size: 0.72rem;
   font-weight: 600;
   margin: 2px 2px 2px 0;
+  white-space: nowrap;
 }
 .tag.ai     { background: #dbeafe; color: #1d4ed8; border: 1px solid #93c5fd; }
 .tag.semi   { background: #fee2e2; color: #b91c1c; border: 1px solid #fca5a5; }
