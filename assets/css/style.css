@@ -242,6 +242,39 @@ html.dark .pagination a, html.dark .pagination span { color: #7eb8f7; }
 .btn-link:hover { background: #c0392b; }
 
 /* SUMMARY BAR */
+.summary-bar {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.stat-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 14px 12px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.stat-card .num {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--primary);
+  line-height: 1;
+}
+
+.stat-card .lbl {
+  font-size: 0.75rem;
+  color: var(--muted);
+  text-transform: capitalize;
+  letter-spacing: 0.02em;
+}
+
 /* TOP STORY CARD */
 .top-story-card {
   background: var(--card-bg);
