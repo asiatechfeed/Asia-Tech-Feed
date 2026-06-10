@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <title>{%- if page.title -%}{{ page.title }} | {%- endif -%}{{ site.title }}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <script>
@@ -17,7 +17,7 @@
         document.documentElement.classList.add('light');
       }
     })();
-  <\/script>
+  </script>
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
 </head>
 <body>
@@ -124,20 +124,18 @@ function downloadCSV() {
     const rowData = Array.from(cols).map(col => {
       const link = col.querySelector('a');
       let text = link && col.classList.contains('col-link') ? link.href : col.innerText;
-      return '"' + text.replace(/"/g, '""').replace(/
-/g, ' ') + '"';
+      return '"' + text.replace(/"/g, '""').replace(/\n/g, ' ') + '"';
     });
-    csv.push(rowData.join('	'));
+    csv.push(rowData.join('\t'));
   });
-  const blob = new Blob([csv.join('
-')], { type: 'text/csv' });
+  const blob = new Blob([csv.join('\n')], { type: 'text/csv' });
   const url = URL.createObjectURL(blob);
   const a = document.createElement('a');
   a.href = url;
   a.download = 'asia-news-' + new Date().toISOString().slice(0,10) + '.csv';
   a.click();
 }
-<\/script>
+</script>
 
 </body>
 </html>
