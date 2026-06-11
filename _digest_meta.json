@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-10",
-  "count": 17,
+  "date": "2026-06-11",
+  "count": 16,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -9,32 +9,32 @@
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-06-10-asia-tech-news-digest.md",
+  "post_file": "2026-06-11-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Half of Americans fear AI could put someone in their household out of work, Reuters/Ipsos poll finds",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/half-americans-fear-ai-could-put-someone-in-their-household-out-work-reutersipsos-poll-finds-6173981"
-    },
-    {
-      "title": "Shopee cuts jobs in Singapore amid AI push; software engineers among those affected",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/shopee-job-cuts-layoff-employees-software-engineers-6173816"
-    },
-    {
-      "title": "SeaX Ventures backs AI game studio Onibi",
+      "title": "Israeli cybersecurity firm Cyera raises $600m at $12b value",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+      "url": "https://www.techinasia.com/blackstone-reportedly-leads-400m-cybersecurity-firm-cyera"
     },
     {
-      "title": "Advanced semiconductor demand fuels Liying's fluorine recycling expansion",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260610PD250/demand-circular-economy-chips-revenue-materials.html"
+      "title": "Commentary: Fans attending World Cup 2026 face an epic, expensive voyage",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/world-cup-2026-north-america-logistics-travel-tickets-football-6173586"
     },
     {
-      "title": "Infineon and VinRobotics sign partnership to advance humanoid robot development",
+      "title": "Commentary: BYD unveils new AI platform as China's EV race shifts beyond batteries",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260610PR200/development-infineon-partnership-robotics-asia.html"
+      "url": "https://www.digitimes.com/news/a20260609PD224/byd-automotive-ai-competition.html"
+    },
+    {
+      "title": "Volkswagen plans Europe-made Samsung SDI square batteries to diversify supply chain",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260610PD209/volkswagen-samsung-sdi-supply-chain-production-lithium-battery.html"
+    },
+    {
+      "title": "CanSemi IPO exposes strains in China's mature-node chip push",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260608VL216/cansemi-ipo-production-capacity-2025.html"
     }
   ]
 }

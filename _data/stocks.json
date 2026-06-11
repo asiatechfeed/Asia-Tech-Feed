@@ -1,74 +1,74 @@
 {
-  "updated": "Jun 10, 2026",
+  "updated": "Jun 11, 2026",
   "stocks": [
     {
       "symbol": "TSM",
       "name": "TSMC",
-      "price": "$nan",
-      "change": "nan%",
+      "price": "$408.75",
+      "change": "4.48%",
       "direction": "down"
     },
     {
       "symbol": "NVDA",
       "name": "Nvidia",
-      "price": "$nan",
-      "change": "nan%",
+      "price": "$200.42",
+      "change": "3.73%",
       "direction": "down"
     },
     {
       "symbol": "ASML",
       "name": "ASML",
-      "price": "$nan",
-      "change": "nan%",
+      "price": "$1734.19",
+      "change": "2.45%",
       "direction": "down"
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": "$nan",
-      "change": "nan%",
+      "price": "$452.40",
+      "change": "4.86%",
       "direction": "down"
     },
     {
       "symbol": "AMAT",
       "name": "Applied Materials",
-      "price": "$nan",
-      "change": "nan%",
+      "price": "$497.01",
+      "change": "0.44%",
       "direction": "down"
     },
     {
       "symbol": "MU",
       "name": "Micron",
-      "price": "$nan",
-      "change": "nan%",
+      "price": "$891.88",
+      "change": "4.70%",
       "direction": "down"
     },
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": "$nan",
-      "change": "nan%",
+      "price": "$107.04",
+      "change": "0.82%",
       "direction": "down"
     },
     {
       "symbol": "LRCX",
       "name": "Lam Research",
-      "price": "$nan",
-      "change": "nan%",
+      "price": "$321.80",
+      "change": "1.64%",
       "direction": "down"
     },
     {
       "symbol": "SAMSUNG",
       "name": "Samsung",
-      "price": "\u20a9302,500",
-      "change": "6.06%",
+      "price": "\u20a9293,000",
+      "change": "3.14%",
       "direction": "down"
     },
     {
       "symbol": "SKHYNIX",
       "name": "SK Hynix",
-      "price": "\u20a92,048,000",
-      "change": "7.54%",
+      "price": "\u20a91,989,000",
+      "change": "2.88%",
       "direction": "down"
     }
   ]
