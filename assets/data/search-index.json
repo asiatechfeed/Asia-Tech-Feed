@@ -1,83 +1,130 @@
 [
   {
     "date": "2026-06-11",
-    "title": "Israeli cybersecurity firm Cyera raises $600m at $12b value",
-    "summary": "Cyera said the funding will support the development of its data and AI security platform.",
+    "title": "KKR launches $10 billion AI infrastructure company with Nvidia, Vistra",
+    "summary": "KKR launches $10 billion AI infrastructure company with Nvidia, Vistra",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://www.channelnewsasia.com/business/kkr-launches-10-billion-ai-infrastructure-company-nvidia-vistra-6176901"
+  },
+  {
+    "date": "2026-06-11",
+    "title": "ST Brings AI Inference Closer to Sensing Element",
+    "summary": "ST's IIS3DWB10IS with ISPU 2.0)brings advanced digital signal processing and AI inference closer to the sensing element. The post ST Brings AI Inference Closer to Sensing Element appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://www.eetasia.com/st-brings-ai-inference-closer-to-sensing-element/"
+  },
+  {
+    "date": "2026-06-11",
+    "title": "Malaysia police call for total vape ban after ‘Piu Piu’ drug found in e-liquids",
+    "summary": "The synthetic drug, a mixture of fentanyl and psychoactive chemicals, could cause severe intoxication and leave users in a “zombie-like” state, Malaysia’s deputy inspector-general of police Ayob Khan Mydin Pitchay said.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "drug"
+    ],
+    "url": "https://www.channelnewsasia.com/asia/malaysia-police-vape-ban-piu-piu-drug-e-liquids-6176756"
+  },
+  {
+    "date": "2026-06-11",
+    "title": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI",
+    "summary": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://www.channelnewsasia.com/business/anthropic-v-openai-behind-bitter-battle-future-ai-6176571"
+  },
+  {
+    "date": "2026-06-11",
+    "title": "SK Group plans AI factory in Japan for 2028-2029",
+    "summary": "Japan also has strong positions in chip materials and equipment, including about 88% of the global coater-developer market and 53% of silicon wafers.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      " ai ",
+      "chip",
+      "wafer"
+    ],
+    "url": "https://www.techinasia.com/sk-group-taps-younger-leaders-in-ai-focused-reshuffle"
+  },
+  {
+    "date": "2026-06-11",
+    "title": "Taiwan chips in as drone makers ditch China supply chains",
+    "summary": "Taiwan's drone supply chain is notching fresh wins, with downstream players such as Thunder Tiger and Taiwan's Aerospace Industrial Development Corporation (AIDC) continuing to secure orders while upstream suppliers, especially chipmakers, are quietly expanding their deployments and market share. For military and comme",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      " ai ",
+      "chip",
+      "supply chain"
+    ],
+    "url": "https://www.digitimes.com/news/a20260611PD226/supply-chain-taiwan-demand-chips-military.html"
+  },
+  {
+    "date": "2026-06-11",
+    "title": "Alibaba replaces DingTalk chief as AI strategy comes under focus",
+    "summary": "The move followed an internal debate over the workplace app’s role in the company’s broader AI strategy,",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       " ai "
     ],
-    "url": "https://www.techinasia.com/blackstone-reportedly-leads-400m-cybersecurity-firm-cyera"
+    "url": "https://www.techinasia.com/alibaba-cloud-expands-ai-push-in-singapore"
   },
   {
     "date": "2026-06-11",
-    "title": "Commentary: Fans attending World Cup 2026 face an epic, expensive voyage",
-    "summary": "What should be a celebration of football may be a nightmare of costs and logistics for fans flying to North America, says sports writer Michael Church.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "logistics"
-    ],
-    "url": "https://www.channelnewsasia.com/commentary/world-cup-2026-north-america-logistics-travel-tickets-football-6173586"
-  },
-  {
-    "date": "2026-06-11",
-    "title": "Commentary: BYD unveils new AI platform as China's EV race shifts beyond batteries",
-    "summary": "China's electric vehicle (EV) leader, BYD, is pushing aggressively into the next frontier of automotive competition: artificial intelligence.",
+    "title": "Amkor Korea weighs KRW1 trillion Gwangju expansion amid reported TSMC order growth",
+    "summary": "Amkor Technology Korea is considering investing about KRW1 trillion (approx. US$650 million) to expand its chip packaging and testing facilities in the South Korean city of Gwangju, according to Korean media reports and city officials. The company has not officially announced the plan.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "artificial intelligence",
-      " ai "
+      "chip"
     ],
-    "url": "https://www.digitimes.com/news/a20260609PD224/byd-automotive-ai-competition.html"
+    "url": "https://www.digitimes.com/news/a20260611VL216/amkor-south-korea-expansion-packaging-testing.html"
   },
   {
     "date": "2026-06-11",
-    "title": "Volkswagen plans Europe-made Samsung SDI square batteries to diversify supply chain",
-    "summary": "Volkswagen is preparing a new three-way lithium battery supply chain that would add Samsung SDI as a Europe-based supplier of standardized square batteries as early as 2027, executives said. The automaker’s plan centers on in-house production via PowerCo, China’s Gotion High-tech and a potential Samsung SDI partnership",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "supply chain"
-    ],
-    "url": "https://www.digitimes.com/news/a20260610PD209/volkswagen-samsung-sdi-supply-chain-production-lithium-battery.html"
-  },
-  {
-    "date": "2026-06-11",
-    "title": "CanSemi IPO exposes strains in China's mature-node chip push",
-    "summary": "CanSemi Technology's planned ChiNext listing has exposed the financial strain behind China's push to build mature-node semiconductor capacity, as the Guangzhou-based foundry seeks fresh capital despite persistent losses, negative gross margins and a long road to profitability.",
+    "title": "Applied Materials CEO: AI reshapes semiconductor innovation",
+    "summary": "Applied Materials said artificial intelligence (AI) is reshaping the global semiconductor industry and could drive years of heavy investment in chipmaking, packaging, and materials engineering. The shift matters far beyond one company, because AI demand is increasing worldwide and is expected to influence data centers,",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "semiconductor",
-      "chip",
-      "foundry"
+      "artificial intelligence",
+      " ai "
     ],
-    "url": "https://www.digitimes.com/news/a20260608VL216/cansemi-ipo-production-capacity-2025.html"
+    "url": "https://www.digitimes.com/news/a20260611PD202/applied-materials-ai-investment-demand-materials.html"
   },
   {
     "date": "2026-06-11",
-    "title": "SeaX Ventures backs AI game studio Onibi",
-    "summary": "The studio’s team members previously worked on Fortnite, League of Legends, Baldur’s Gate 3, Fall Guys, Grand Theft Auto, and World of Warcraft.",
+    "title": "CrowdStrike joins identity groups as AI agents gain ground",
+    "summary": "The move comes as enterprises deal with AI agents and other non-human identities that can exceed older access controls.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       " ai "
     ],
-    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+    "url": "https://www.techinasia.com/crowdstrike-acquire-identity-security-firm-sgnl-740m"
   },
   {
     "date": "2026-06-11",
-    "title": "TSMC revenue jumps 30% as AI demand stays strong",
-    "summary": "TSMC has said strong AI-related demand is a growth driver this year.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Photonics Emerges as Next Scaling Frontier for AI Infra, Distributed Computing",
+    "summary": "As AI systems expand, photonics is stepping up to enable faster, lower-power data movement, memory sharing, and scalable infrastructure. The post Photonics Emerges as Next Scaling Frontier for AI Infra, Distributed Computing appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
       " ai "
     ],
-    "url": "https://www.techinasia.com/tsmc-sony-plan-japan-venture-for-image-sensors"
+    "url": "https://www.eetasia.com/photonics-emerges-as-next-scaling-frontier-for-ai-infra-distributed-computing/"
   },
   {
     "date": "2026-06-11",
@@ -93,58 +140,36 @@
   },
   {
     "date": "2026-06-11",
-    "title": "Next-Gen Real-Time Intelligence for Modern Smart Factories",
-    "summary": "Smart factories are evolving toward physical AI systems capable of real-time perception, adaptation, and autonomous action. The post Next-Gen Real-Time Intelligence for Modern Smart Factories appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      " ai "
-    ],
-    "url": "https://www.eetasia.com/embeddedblog-next-gen-real-time-intelligence-for-smart-factories/"
-  },
-  {
-    "date": "2026-06-11",
-    "title": "Global AI Spending to Grow 47% in 2026",
-    "summary": "Gartner forecasts worldwide spending on AI to reach $2.59 trillion in 2026, a 47% increase year-over-year. The post Global AI Spending to Grow 47% in 2026 appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      " ai "
-    ],
-    "url": "https://www.eetasia.com/global-ai-spending-to-grow-47-in-2026/"
-  },
-  {
-    "date": "2026-06-11",
-    "title": "SK Hynix to triple wafer capacity by 2034: Chairman Chey",
-    "summary": "SK Hynix to triple wafer capacity by 2034: Chairman Chey",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "wafer"
-    ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-to-triple-wafer-capacity-by-2034-chairman-chey"
-  },
-  {
-    "date": "2026-06-11",
-    "title": "NTT sets sights on Nvidia, AI race with $500m optical network fund",
-    "summary": "NTT sets sights on Nvidia, AI race with $500m optical network fund",
+    "title": "China's AI companies dig in as SpaceX, US rivals ready IPO bonanza",
+    "summary": "China's AI companies dig in as SpaceX, US rivals ready IPO bonanza",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       " ai "
     ],
-    "url": "https://asia.nikkei.com/business/technology/ntt-sets-sights-on-nvidia-ai-race-with-500m-optical-network-fund"
+    "url": "https://asia.nikkei.com/business/markets/china-s-ai-companies-dig-in-as-spacex-us-rivals-ready-ipo-bonanza"
   },
   {
     "date": "2026-06-11",
-    "title": "Anthropic plugs Claude AI in Japan for automated software development",
-    "summary": "Anthropic plugs Claude AI in Japan for automated software development",
+    "title": "From scams to deepfakes, AI use in Asia creates new cyberthreats",
+    "summary": "From scams to deepfakes, AI use in Asia creates new cyberthreats",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       " ai "
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-plugs-claude-ai-in-japan-for-automated-software-development"
+    "url": "https://asia.nikkei.com/spotlight/the-future-of-asia/future-of-asia-2026/from-scams-to-deepfakes-ai-use-in-asia-creates-new-cyberthreats"
+  },
+  {
+    "date": "2026-06-11",
+    "title": "Laos to create energy, logistics hub amid global conflict: PM",
+    "summary": "Laos to create energy, logistics hub amid global conflict: PM",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "logistics"
+    ],
+    "url": "https://asia.nikkei.com/spotlight/the-future-of-asia/future-of-asia-2026/laos-to-create-energy-logistics-hub-amid-global-conflict-pm"
   },
   {
     "date": "2026-06-11",

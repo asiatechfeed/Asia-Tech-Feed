@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "count": 16,
+  "count": 18,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -12,29 +12,29 @@
   "post_file": "2026-06-11-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Israeli cybersecurity firm Cyera raises $600m at $12b value",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/blackstone-reportedly-leads-400m-cybersecurity-firm-cyera"
-    },
-    {
-      "title": "Commentary: Fans attending World Cup 2026 face an epic, expensive voyage",
+      "title": "KKR launches $10 billion AI infrastructure company with Nvidia, Vistra",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/world-cup-2026-north-america-logistics-travel-tickets-football-6173586"
+      "url": "https://www.channelnewsasia.com/business/kkr-launches-10-billion-ai-infrastructure-company-nvidia-vistra-6176901"
     },
     {
-      "title": "Commentary: BYD unveils new AI platform as China's EV race shifts beyond batteries",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260609PD224/byd-automotive-ai-competition.html"
+      "title": "ST Brings AI Inference Closer to Sensing Element",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/st-brings-ai-inference-closer-to-sensing-element/"
     },
     {
-      "title": "Volkswagen plans Europe-made Samsung SDI square batteries to diversify supply chain",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260610PD209/volkswagen-samsung-sdi-supply-chain-production-lithium-battery.html"
+      "title": "Malaysia police call for total vape ban after \u2018Piu Piu\u2019 drug found in e-liquids",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-police-vape-ban-piu-piu-drug-e-liquids-6176756"
     },
     {
-      "title": "CanSemi IPO exposes strains in China's mature-node chip push",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260608VL216/cansemi-ipo-production-capacity-2025.html"
+      "title": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/anthropic-v-openai-behind-bitter-battle-future-ai-6176571"
+    },
+    {
+      "title": "SK Group plans AI factory in Japan for 2028-2029",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/sk-group-taps-younger-leaders-in-ai-focused-reshuffle"
     }
   ]
 }
