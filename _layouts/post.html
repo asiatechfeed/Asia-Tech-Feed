@@ -37,7 +37,8 @@ layout: default
   {% for kw in kws %}
   <div class="stat-card">
     <div class="num">
-      {{ content | downcase | split: kw | size | minus: 1 }}
+      {% assign kw_lower = kw | downcase %}
+      {{ content | downcase | split: kw_lower | size | minus: 1 }}
     </div>
     <div class="lbl">{{ kw }}</div>
   </div>
