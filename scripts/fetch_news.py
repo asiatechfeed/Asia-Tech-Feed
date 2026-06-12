@@ -56,10 +56,16 @@ KEYWORDS = [
     "supply chain", "medtech", "drug", "vaccine", "robot",
 ]
 
-# Only these 8 topics are allowed as tags in the final digest
+# Only these 8 topics are allowed as tags — maps lowercase input → display label
 APPROVED_TAGS = {
-    "semiconductor", "electronics", "logistics", "pharmaceutical",
-    "biotechnology", "AI", "machine vision", "automation",
+    "semiconductor": "Semiconductor",
+    "electronics": "Electronics",
+    "logistics": "Logistics",
+    "pharmaceutical": "Pharmaceutical",
+    "biotechnology": "Biotechnology",
+    "ai": "AI",
+    "machine vision": "Machine Vision",
+    "automation": "Automation",
 }
 
 SE_ASIA_TERMS = [
@@ -457,7 +463,7 @@ Return ONLY the JSON. No markdown, no explanation."""
             article["summary"] = data.get("summary", article["title"])[:400]
             # Keep only approved tags
             raw_tags = data.get("tags", [])[:4]
-            article["tags"] = [t for t in raw_tags if t in APPROVED_TAGS]
+            article["tags"] = [APPROVED_TAGS[t.lower()] for t in raw_tags if t.lower() in APPROVED_TAGS]
         except Exception as e:
             print(f"    ⚠ Claude error: {e}")
             article["summary"] = (article.get("summary_raw") or article["title"])[:320]
@@ -468,15 +474,15 @@ Return ONLY the JSON. No markdown, no explanation."""
                 "pharmaceutical": "pharmaceutical", "drug": "pharmaceutical",
                 "vaccine": "pharmaceutical", "medtech": "pharmaceutical",
                 "biotechnology": "biotechnology", "biotech": "biotechnology",
-                "artificial intelligence": "AI", " ai ": "AI",
+                "artificial intelligence": "ai", " ai ": "ai",
                 "machine vision": "machine vision", "robot": "automation",
                 "automation": "automation",
             }
             fallback_tags = []
             for kw in article.get("matched_keywords", []):
                 mapped = kw_to_tag.get(kw.lower())
-                if mapped and mapped not in fallback_tags:
-                    fallback_tags.append(mapped)
+                if mapped and mapped in APPROVED_TAGS and APPROVED_TAGS[mapped] not in fallback_tags:
+                    fallback_tags.append(APPROVED_TAGS[mapped])
             article["tags"] = fallback_tags[:3]
 
         # Skip articles that don't map to any approved topic
