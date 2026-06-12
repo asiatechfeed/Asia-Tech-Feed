@@ -42,6 +42,8 @@
     <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Latest</a>
     <a href="{{ '/archive' | relative_url }}" {% if page.url contains 'archive' %}class="active"{% endif %}>Archive</a>
     <a href="{{ '/search' | relative_url }}" {% if page.url contains 'search' %}class="active"{% endif %}>Search</a>
+    <a href="{{ '/about' | relative_url }}" {% if page.url contains 'about' %}class="active"{% endif %}>About</a>
+    <a href="{{ '/contact' | relative_url }}" {% if page.url contains 'contact' %}class="active"{% endif %}>Contact</a>
   </div>
 </nav>
 
