@@ -1,40 +1,41 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "count": 18,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
+    "EW",
     "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-06-11-asia-tech-news-digest.md",
+  "post_file": "2026-06-12-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "KKR launches $10 billion AI infrastructure company with Nvidia, Vistra",
+      "title": "Commentary: As SpaceX, OpenAI and Anthropic plan blockbuster IPOs, will it make them more accountable?",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/kkr-launches-10-billion-ai-infrastructure-company-nvidia-vistra-6176901"
+      "url": "https://www.channelnewsasia.com/commentary/spacex-ipo-openai-anthropic-ai-risks-accountability-6176236"
+    },
+    {
+      "title": "Musk's SpaceX prices record US$75 billion IPO at US$135 a share",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/spacex-ipo-us75-billion-elon-musk-6177981"
+    },
+    {
+      "title": "SuperAI Singapore: Physical AI accelerates as cheaper hardware and AI models drive robot data demand",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260611VL217/data-hardware-panel-robot-superai.html"
+    },
+    {
+      "title": "Change of pattern as AI cycle hits memory market",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/news/change-of-pattern-as-ai-cycle-hits-memory-market-2026-06/"
     },
     {
       "title": "ST Brings AI Inference Closer to Sensing Element",
       "source": "EETAsia",
       "url": "https://www.eetasia.com/st-brings-ai-inference-closer-to-sensing-element/"
-    },
-    {
-      "title": "Malaysia police call for total vape ban after \u2018Piu Piu\u2019 drug found in e-liquids",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/malaysia-police-vape-ban-piu-piu-drug-e-liquids-6176756"
-    },
-    {
-      "title": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/anthropic-v-openai-behind-bitter-battle-future-ai-6176571"
-    },
-    {
-      "title": "SK Group plans AI factory in Japan for 2028-2029",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/sk-group-taps-younger-leaders-in-ai-focused-reshuffle"
     }
   ]
 }

@@ -1,61 +1,61 @@
 {
-  "updated": "Jun 11, 2026",
+  "updated": "Jun 12, 2026",
   "stocks": [
     {
       "symbol": "TSM",
       "name": "TSMC",
-      "price": "$408.75",
-      "change": "4.48%",
-      "direction": "down"
+      "price": "$421.07",
+      "change": "3.01%",
+      "direction": "up"
     },
     {
       "symbol": "NVDA",
       "name": "Nvidia",
-      "price": "$200.42",
-      "change": "3.73%",
-      "direction": "down"
+      "price": "$204.87",
+      "change": "2.22%",
+      "direction": "up"
     },
     {
       "symbol": "ASML",
       "name": "ASML",
-      "price": "$1734.19",
-      "change": "2.45%",
-      "direction": "down"
+      "price": "$1899.48",
+      "change": "9.53%",
+      "direction": "up"
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": "$452.40",
-      "change": "4.86%",
-      "direction": "down"
+      "price": "$488.45",
+      "change": "7.97%",
+      "direction": "up"
     },
     {
       "symbol": "AMAT",
       "name": "Applied Materials",
-      "price": "$497.01",
-      "change": "0.44%",
-      "direction": "down"
+      "price": "$552.64",
+      "change": "11.19%",
+      "direction": "up"
     },
     {
       "symbol": "MU",
       "name": "Micron",
-      "price": "$891.88",
-      "change": "4.70%",
-      "direction": "down"
+      "price": "$995.87",
+      "change": "11.66%",
+      "direction": "up"
     },
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": "$107.04",
-      "change": "0.82%",
-      "direction": "down"
+      "price": "$116.96",
+      "change": "9.27%",
+      "direction": "up"
     },
     {
       "symbol": "LRCX",
       "name": "Lam Research",
-      "price": "$321.80",
-      "change": "1.64%",
-      "direction": "down"
+      "price": "$362.52",
+      "change": "12.65%",
+      "direction": "up"
     },
     {
       "symbol": "SAMSUNG",
