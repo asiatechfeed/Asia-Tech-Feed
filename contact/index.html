@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en" id="html-root">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Us | Asia Tech News Feed</title>
+  <meta name="description" content="Daily Asia news digest covering semiconductors, electronics, logistics, pharma, biotech, AI & automation">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <script>
+    // Apply saved preference before paint to avoid flash
+    (function() {
+      var saved = localStorage.getItem('theme');
+      var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (saved === 'dark' || (!saved && prefersDark)) {
+        document.documentElement.classList.add('dark');
+      } else if (saved === 'light') {
+        document.documentElement.classList.add('light');
+      }
+    })();
+  </script>
+  <link rel="alternate" type="application/rss+xml" title="Asia Tech News Feed" href="/feed.xml">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5549175788718429" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="site-title" href="/">
+      &#9889; Asia <span>Tech</span> News Feed
+    </a>
+    <div class="header-meta">
+      Asia Tech. Byte-sized.
+    </div>
+    <button class="dark-toggle" id="dark-toggle" onclick="toggleDark()" aria-label="Toggle dark mode">
+      <span id="dark-icon">&#127769;</span> <span id="dark-label">Dark</span>
+    </button>
+  </div>
+</header>
+
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a href="/" >Latest</a>
+    <a href="/archive" >Archive</a>
+    <a href="/search" >Search</a>
+  </div>
+</nav>
+
+
+<div class="ticker-wrap">
+  <div class="ticker-label-box">SEMICON</div>
+  <div class="ticker-scroll-outer">
+    <div class="ticker-track">
+      <div class="ticker-item"><span class="ticker-sym">TSM</span><span class="ticker-price">$421.07</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 3.01%</span></div><div class="ticker-item"><span class="ticker-sym">NVDA</span><span class="ticker-price">$204.87</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 2.22%</span></div><div class="ticker-item"><span class="ticker-sym">ASML</span><span class="ticker-price">$1899.48</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 9.53%</span></div><div class="ticker-item"><span class="ticker-sym">AMD</span><span class="ticker-price">$488.45</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 7.97%</span></div><div class="ticker-item"><span class="ticker-sym">AMAT</span><span class="ticker-price">$552.64</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 11.19%</span></div><div class="ticker-item"><span class="ticker-sym">MU</span><span class="ticker-price">$995.87</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 11.66%</span></div><div class="ticker-item"><span class="ticker-sym">INTC</span><span class="ticker-price">$116.96</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 9.27%</span></div><div class="ticker-item"><span class="ticker-sym">LRCX</span><span class="ticker-price">$362.52</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 12.65%</span></div><div class="ticker-item"><span class="ticker-sym">SAMSUNG</span><span class="ticker-price">₩299,000</span><span class="ticker-chg down"><span class="ticker-dot dot-down"></span>&#9660; 1.16%</span></div><div class="ticker-item"><span class="ticker-sym">SKHYNIX</span><span class="ticker-price">₩2,101,000</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 2.59%</span></div><div class="ticker-item"><span class="ticker-sym">TSM</span><span class="ticker-price">$421.07</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 3.01%</span></div><div class="ticker-item"><span class="ticker-sym">NVDA</span><span class="ticker-price">$204.87</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 2.22%</span></div><div class="ticker-item"><span class="ticker-sym">ASML</span><span class="ticker-price">$1899.48</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 9.53%</span></div><div class="ticker-item"><span class="ticker-sym">AMD</span><span class="ticker-price">$488.45</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 7.97%</span></div><div class="ticker-item"><span class="ticker-sym">AMAT</span><span class="ticker-price">$552.64</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 11.19%</span></div><div class="ticker-item"><span class="ticker-sym">MU</span><span class="ticker-price">$995.87</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 11.66%</span></div><div class="ticker-item"><span class="ticker-sym">INTC</span><span class="ticker-price">$116.96</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 9.27%</span></div><div class="ticker-item"><span class="ticker-sym">LRCX</span><span class="ticker-price">$362.52</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 12.65%</span></div><div class="ticker-item"><span class="ticker-sym">SAMSUNG</span><span class="ticker-price">₩299,000</span><span class="ticker-chg down"><span class="ticker-dot dot-down"></span>&#9660; 1.16%</span></div><div class="ticker-item"><span class="ticker-sym">SKHYNIX</span><span class="ticker-price">₩2,101,000</span><span class="ticker-chg up"><span class="ticker-dot dot-up"></span>&#9650; 2.59%</span></div>
+    </div>
+  </div>
+  <div class="ticker-eod"><span class="ticker-pulse"></span>EOD</div>
+</div>
+
+
+<main>
+  <div class="post-body" style="max-width:820px; margin:0 auto; background:var(--card-bg); border-radius:10px; padding:40px 48px; box-shadow:0 1px 4px rgba(0,0,0,0.07);">
+
+  <div class="post-header">
+    <h1 style="font-size:1.8rem; color:var(--primary); margin-bottom:8px;">Contact Us</h1>
+    <div class="post-meta">We'd love to hear from you</div>
+  </div>
+
+  <p>Have a news tip, press release, feedback, or general inquiry? Get in touch — we read every message.</p>
+
+  <div style="background:var(--tag-bg); border:1px solid var(--border); border-radius:8px; padding:22px 26px; margin:24px 0;">
+    <div style="font-size:0.72rem; font-weight:700; letter-spacing:0.06em; text-transform:uppercase; color:var(--muted); margin-bottom:8px;">General Inquiries &amp; Editorial</div>
+    <a href="mailto:asiatechfeed@gmail.com" style="font-size:1.1rem; font-weight:600; color:var(--tag-text); text-decoration:none;">asiatechfeed@gmail.com</a>
+  </div>
+
+  <h2 style="font-size:1.1rem; font-weight:700; color:var(--primary); margin:28px 0 10px; padding-top:20px; border-top:1px solid var(--border);">What We'd Love to Hear</h2>
+  <ul style="margin:10px 0 16px 22px; color:var(--text); line-height:1.9;">
+    <li><strong>News tips</strong> — Spotted a story we should cover? Send it our way.</li>
+    <li><strong>Press releases</strong> — Funding rounds, product launches, executive hires, and major announcements.</li>
+    <li><strong>Corrections</strong> — Found an error in our reporting? Let us know and we'll correct it promptly.</li>
+    <li><strong>Advertising</strong> — Interested in advertising on AsiaTechFeed? Reach out to discuss options.</li>
+    <li><strong>Feedback</strong> — We're always looking to improve. Tell us what you think.</li>
+  </ul>
+
+  <h2 style="font-size:1.1rem; font-weight:700; color:var(--primary); margin:28px 0 10px; padding-top:20px; border-top:1px solid var(--border);">Response Time</h2>
+  <p>We aim to respond to all emails within 2–3 business days. For time-sensitive news tips, please indicate <strong>URGENT</strong> in your subject line.</p>
+
+  <h2 style="font-size:1.1rem; font-weight:700; color:var(--primary); margin:28px 0 10px; padding-top:20px; border-top:1px solid var(--border);">Stay Connected</h2>
+  <p>Follow our coverage at <a href="https://www.asiatechfeed.com" style="color:var(--tag-text);">www.asiatechfeed.com</a> for daily updates on Asia's technology industry.</p>
+
+</div>
+
+</main>
+
+<footer>
+  <p>Asia Tech News Feed &middot; Auto-updated daily via GitHub Actions &middot; Filtered for Asia</p>
+  <p>Keywords: Semiconductor &middot; Electronics &middot; Logistics &middot; Pharmaceutical &middot; Biotechnology &middot; AI &middot; Machine Vision &middot; Automation</p>
+</footer>
+
+<script>
+// Dark mode toggle
+function toggleDark() {
+  var html = document.documentElement;
+  var isDark = html.classList.contains('dark');
+  if (isDark) {
+    html.classList.remove('dark');
+    html.classList.add('light');
+    localStorage.setItem('theme', 'light');
+  } else {
+    html.classList.remove('light');
+    html.classList.add('dark');
+    localStorage.setItem('theme', 'dark');
+  }
+  updateToggleLabel();
+}
+
+function updateToggleLabel() {
+  var isDark = document.documentElement.classList.contains('dark');
+  var icon = document.getElementById('dark-icon');
+  var label = document.getElementById('dark-label');
+  if (icon) icon.innerHTML = isDark ? '&#9728;&#xFE0F;' : '&#127769;';
+  if (label) label.textContent = isDark ? 'Light' : 'Dark';
+}
+
+document.addEventListener('DOMContentLoaded', updateToggleLabel);
+
+// Keyword filter
+function filterTable(keyword) {
+  const rows = document.querySelectorAll('.news-table tbody tr');
+  const btns = document.querySelectorAll('.filter-btn');
+  btns.forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+
+  rows.forEach(row => {
+    if (!keyword || keyword === 'all') {
+      row.style.display = '';
+    } else {
+      const text = row.innerText.toLowerCase();
+      row.style.display = text.includes(keyword.toLowerCase()) ? '' : 'none';
+    }
+  });
+}
+
+// CSV download
+function downloadCSV() {
+  const table = document.querySelector('.news-table');
+  if (!table) return;
+  let csv = [];
+  const rows = table.querySelectorAll('tr');
+  rows.forEach(row => {
+    const cols = row.querySelectorAll('th, td');
+    const rowData = Array.from(cols).map(col => {
+      const link = col.querySelector('a');
+      let text = link && col.classList.contains('col-link') ? link.href : col.innerText;
+      return '"' + text.replace(/"/g, '""').replace(/\n/g, ' ') + '"';
+    });
+    csv.push(rowData.join('\t'));
+  });
+  const blob = new Blob([csv.join('\n')], { type: 'text/csv' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'asia-news-' + new Date().toISOString().slice(0,10) + '.csv';
+  a.click();
+}
+</script>
+
+</body>
+</html>
