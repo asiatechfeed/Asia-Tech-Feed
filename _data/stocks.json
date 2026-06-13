@@ -1,74 +1,74 @@
 {
-  "updated": "Jun 12, 2026",
+  "updated": "Jun 13, 2026",
   "stocks": [
     {
       "symbol": "TSM",
       "name": "TSMC",
-      "price": "$421.07",
-      "change": "3.01%",
+      "price": "$423.93",
+      "change": "0.68%",
       "direction": "up"
     },
     {
       "symbol": "NVDA",
       "name": "Nvidia",
-      "price": "$204.87",
-      "change": "2.22%",
+      "price": "$205.19",
+      "change": "0.16%",
       "direction": "up"
     },
     {
       "symbol": "ASML",
       "name": "ASML",
-      "price": "$1899.48",
-      "change": "9.53%",
-      "direction": "up"
+      "price": "$1863.55",
+      "change": "1.89%",
+      "direction": "down"
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": "$488.45",
-      "change": "7.97%",
+      "price": "$511.57",
+      "change": "4.73%",
       "direction": "up"
     },
     {
       "symbol": "AMAT",
       "name": "Applied Materials",
-      "price": "$552.64",
-      "change": "11.19%",
+      "price": "$567.25",
+      "change": "2.64%",
       "direction": "up"
     },
     {
       "symbol": "MU",
       "name": "Micron",
-      "price": "$995.87",
-      "change": "11.66%",
-      "direction": "up"
+      "price": "$981.61",
+      "change": "1.43%",
+      "direction": "down"
     },
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": "$116.96",
-      "change": "9.27%",
+      "price": "$124.57",
+      "change": "6.51%",
       "direction": "up"
     },
     {
       "symbol": "LRCX",
       "name": "Lam Research",
-      "price": "$362.52",
-      "change": "12.65%",
+      "price": "$366.81",
+      "change": "1.18%",
       "direction": "up"
     },
     {
       "symbol": "SAMSUNG",
       "name": "Samsung",
-      "price": "\u20a9299,000",
-      "change": "1.16%",
-      "direction": "down"
+      "price": "\u20a9322,500",
+      "change": "7.86%",
+      "direction": "up"
     },
     {
       "symbol": "SKHYNIX",
       "name": "SK Hynix",
-      "price": "\u20a92,101,000",
-      "change": "2.59%",
+      "price": "\u20a92,150,000",
+      "change": "2.33%",
       "direction": "up"
     }
   ]

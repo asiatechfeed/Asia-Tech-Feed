@@ -1,41 +1,40 @@
 {
-  "date": "2026-06-12",
-  "count": 18,
+  "date": "2026-06-13",
+  "count": 16,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "EW",
     "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-06-12-asia-tech-news-digest.md",
+  "post_file": "2026-06-13-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Commentary: As SpaceX, OpenAI and Anthropic plan blockbuster IPOs, will it make them more accountable?",
+      "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/spacex-ipo-openai-anthropic-ai-risks-accountability-6176236"
+      "url": "https://www.channelnewsasia.com/business/zuckerberg-says-meta-made-mistakes-in-ai-workforce-shift-6180351"
     },
     {
-      "title": "Musk's SpaceX prices record US$75 billion IPO at US$135 a share",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/spacex-ipo-us75-billion-elon-musk-6177981"
+      "title": "Anthropic\u2019s Claude Fable 5 adds hurdles for Chinese AI firms",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/anthropic-confidentially-submits-draft-ipo-filing"
     },
     {
-      "title": "SuperAI Singapore: Physical AI accelerates as cheaper hardware and AI models drive robot data demand",
+      "title": "Japanese chipmaker Kioxia tops Toyota at $274b",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/us-patent-probe-puts-sk-hynix-kioxia-chip-imports-at-risk"
+    },
+    {
+      "title": "TCS, Oracle launch AI lab in Kolkata",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/indias-tcs-tpg-partner-invest-2b-ai-data-centers"
+    },
+    {
+      "title": "Shin-Etsu plans rare earth plant in Japan to counter China supply curbs",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260611VL217/data-hardware-panel-robot-superai.html"
-    },
-    {
-      "title": "Change of pattern as AI cycle hits memory market",
-      "source": "EW",
-      "url": "https://www.electronicsweekly.com/news/change-of-pattern-as-ai-cycle-hits-memory-market-2026-06/"
-    },
-    {
-      "title": "ST Brings AI Inference Closer to Sensing Element",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/st-brings-ai-inference-closer-to-sensing-element/"
+      "url": "https://www.digitimes.com/news/a20260612VL212/shin-etsu-plant-materials-production-government.html"
     }
   ]
 }
