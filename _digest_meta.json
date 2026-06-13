@@ -1,8 +1,7 @@
 {
   "date": "2026-06-13",
-  "count": 16,
+  "count": 15,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
     "KED",
@@ -12,29 +11,29 @@
   "post_file": "2026-06-13-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/zuckerberg-says-meta-made-mistakes-in-ai-workforce-shift-6180351"
-    },
-    {
-      "title": "Anthropic\u2019s Claude Fable 5 adds hurdles for Chinese AI firms",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-confidentially-submits-draft-ipo-filing"
-    },
-    {
-      "title": "Japanese chipmaker Kioxia tops Toyota at $274b",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/us-patent-probe-puts-sk-hynix-kioxia-chip-imports-at-risk"
-    },
-    {
-      "title": "TCS, Oracle launch AI lab in Kolkata",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/indias-tcs-tpg-partner-invest-2b-ai-data-centers"
-    },
-    {
-      "title": "Shin-Etsu plans rare earth plant in Japan to counter China supply curbs",
+      "title": "Anthropic is complying with a government order to pull its top AI models \u2014 and says the rationale is wrong",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260612VL212/shin-etsu-plant-materials-production-government.html"
+      "url": "https://www.digitimes.com/news/a20260613VL201/government-anthropic.html"
+    },
+    {
+      "title": "Zuckerberg admits mistakes in Meta\u2019s AI reshuffle",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/meta-drops-5-report-sell-stock-ai"
+    },
+    {
+      "title": "Anthropic suspends two AI models under US order",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/anthropic-expand-glasswing-150-partners"
+    },
+    {
+      "title": "Google to appeal German AI Overviews liability ruling",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/google-cloud-opens-sea-ai-startup-accelerator"
+    },
+    {
+      "title": "Taiwan drone suppliers push into Western defense chains as Ukraine demand climbs",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260611PD217/taiwan-ukraine-demand-market-commercial.html"
     }
   ]
 }
