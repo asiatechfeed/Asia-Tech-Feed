@@ -1,5 +1,188 @@
 [
   {
+    "date": "2026-06-13",
+    "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
+    "summary": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://www.channelnewsasia.com/business/zuckerberg-says-meta-made-mistakes-in-ai-workforce-shift-6180351"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "Anthropic’s Claude Fable 5 adds hurdles for Chinese AI firms",
+    "summary": "Anthropic said the distillation filter was a response to earlier model-extraction attempts.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      " ai ",
+      "fab"
+    ],
+    "url": "https://www.techinasia.com/anthropic-confidentially-submits-draft-ipo-filing"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "Japanese chipmaker Kioxia tops Toyota at $274b",
+    "summary": "The company overtook Toyota Motor, valued at 43.8 trillion yen (US$273 billion), as investors continued buying AI-related chip stocks.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "chip"
+    ],
+    "url": "https://www.techinasia.com/us-patent-probe-puts-sk-hynix-kioxia-chip-imports-at-risk"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "TCS, Oracle launch AI lab in Kolkata",
+    "summary": "TCS said the facility at Delta Park Lords will build reusable architectures, industry solutions, and accelerators around Oracle’s AI Data Platform.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://www.techinasia.com/indias-tcs-tpg-partner-invest-2b-ai-data-centers"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "Shin-Etsu plans rare earth plant in Japan to counter China supply curbs",
+    "summary": "Shin-Etsu Chemical plans to build a new rare earth production facility in Fukui Prefecture, aiming to expand domestic smelting capacity and reduce Japan's reliance on China for materials critical to electric vehicle and semiconductor manufacturing equipment, according to Nikkei and Kyodo News .",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260612VL212/shin-etsu-plant-materials-production-government.html"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "Taiwan PMIC maker Global Mixed-mode to raise prices as chip shortages persist",
+    "summary": "Taiwanese power management IC supplier Global Mixed-mode Technology (GMT) will follow peers in seeking price increases from customers as tight chip supply continues to reshape capacity allocation across the industry.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "chip"
+    ],
+    "url": "https://www.digitimes.com/news/a20260612PD215/ic-management-price-supplier-pmic.html"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "Samsung's packaging gap clouds chip comeback as TSMC, Intel push ahead",
+    "summary": "Samsung Electronics is regaining ground in high-bandwidth memory and foundry services, but advanced packaging remains a weak point in its bid to capture a larger share of the AI chip supply chain, according to industry sources and Korean media reports.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "electronics",
+      " ai ",
+      "chip"
+    ],
+    "url": "https://www.digitimes.com/news/a20260611VL219/samsung-packaging-tsmc-intel-hbm.html"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "Cadence, Samsung Foundry Expand 2nm and 3D‑IC Platform Partnership",
+    "summary": "Cadence and Samsung Foundry are expanding certified 2nm and 3D‑IC design capabilities for AI infrastructure systems. The post Cadence, Samsung Foundry Expand 2nm and 3D‑IC Platform Partnership appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      " ai ",
+      "foundry"
+    ],
+    "url": "https://www.eetasia.com/cadence-samsung-foundry-expand-2nm-and-3d%e2%80%91ic-platform-partnership/"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "ST Brings AI Inference Closer to Sensing Element",
+    "summary": "ST's IIS3DWB10IS with ISPU 2.0)brings advanced digital signal processing and AI inference closer to the sensing element. The post ST Brings AI Inference Closer to Sensing Element appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://www.eetasia.com/st-brings-ai-inference-closer-to-sensing-element/"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "Photonics Emerges as Next Scaling Frontier for AI Infra, Distributed Computing",
+    "summary": "As AI systems expand, photonics is stepping up to enable faster, lower-power data movement, memory sharing, and scalable infrastructure. The post Photonics Emerges as Next Scaling Frontier for AI Infra, Distributed Computing appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://www.eetasia.com/photonics-emerges-as-next-scaling-frontier-for-ai-infra-distributed-computing/"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "Japan pharma companies turn to China for drug discovery, growth",
+    "summary": "Japan pharma companies turn to China for drug discovery, growth",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "drug"
+    ],
+    "url": "https://asia.nikkei.com/business/pharmaceuticals/japan-pharma-companies-turn-to-china-for-drug-discovery-growth"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "TCS and Opendoor fuel worries over AI impacting India's tech jobs",
+    "summary": "TCS and Opendoor fuel worries over AI impacting India's tech jobs",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tcs-and-opendoor-fuel-worries-over-ai-impacting-india-s-tech-jobs"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "India doubles public investment in 5 years to build rails, chip plants",
+    "summary": "India doubles public investment in 5 years to build rails, chip plants",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "chip"
+    ],
+    "url": "https://asia.nikkei.com/economy/india-doubles-public-investment-in-5-years-to-build-rails-chip-plants"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
+    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "artificial intelligence",
+      "chip"
+    ],
+    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "No career ambition, no ego: AI plays devil's advocate at Audax Private Equity",
+    "summary": "Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://www.kedglobal.com/private-equity/newsView/ked202603120002"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate",
+    "summary": "EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "biotechnology",
+      "biotech",
+      "vaccine"
+    ],
+    "url": "https://www.kedglobal.com/bio-pharma/newsView/ked202603100001"
+  },
+  {
     "date": "2026-06-12",
     "title": "Commentary: As SpaceX, OpenAI and Anthropic plan blockbuster IPOs, will it make them more accountable?",
     "summary": "Once publicly listed, the AI labs of SpaceX, Anthropic and Open AI would be subject to public market scrutiny for the first time, says an academic.",
