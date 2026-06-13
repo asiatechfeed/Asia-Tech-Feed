@@ -1,5 +1,176 @@
 [
   {
+    "date": "2026-06-14",
+    "title": "Anthropic is complying with a government order to pull its top AI models — and says the rationale is wrong",
+    "summary": "The US government on June 12 issued an export control directive ordering Anthropic to suspend all access to its Fable 5 and Mythos 5 models by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      " ai ",
+      "fab"
+    ],
+    "url": "https://www.digitimes.com/news/a20260613VL201/government-anthropic.html"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "Zuckerberg admits mistakes in Meta’s AI reshuffle",
+    "summary": "Meta plans a July hackathon and will increase annual capital spending to up to US$145 billion.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://www.techinasia.com/meta-drops-5-report-sell-stock-ai"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "Anthropic suspends two AI models under US order",
+    "summary": "Fable 5 is available through Amazon Bedrock, a cloud service for AI model access.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      " ai ",
+      "fab"
+    ],
+    "url": "https://www.techinasia.com/anthropic-expand-glasswing-150-partners"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "Google to appeal German AI Overviews liability ruling",
+    "summary": "The Munich court ruled AI Overviews are Google's own words, not just search results summaries.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://www.techinasia.com/google-cloud-opens-sea-ai-startup-accelerator"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "Taiwan drone suppliers push into Western defense chains as Ukraine demand climbs",
+    "summary": "Taiwan's drone suppliers are seeking deeper ties with Western defense contractors and Ukraine's wartime drone industry, as export demand accelerates and buyers look for alternatives to China-dependent supply chains.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "supply chain"
+    ],
+    "url": "https://www.digitimes.com/news/a20260611PD217/taiwan-ukraine-demand-market-commercial.html"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "Tesla-linked expansion by Taiwan's Aleees underscores shifts in global battery supply chains",
+    "summary": "Taiwanese cathode materials maker Aleees has disclosed an expansion plan to meet North American demand for lithium iron phosphate precursor materials. The move highlights Tesla's broader push to localize its battery supply chain, reduce exposure to China-linked technology and materials risks, and secure upstream capaci",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "supply chain"
+    ],
+    "url": "https://www.digitimes.com/news/a20260612PD206/aleees-tesla-materials-expansion-taiwan.html"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "Cadence, Samsung Foundry Expand 2nm and 3D‑IC Platform Partnership",
+    "summary": "Cadence and Samsung Foundry are expanding certified 2nm and 3D‑IC design capabilities for AI infrastructure systems. The post Cadence, Samsung Foundry Expand 2nm and 3D‑IC Platform Partnership appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      " ai ",
+      "foundry"
+    ],
+    "url": "https://www.eetasia.com/cadence-samsung-foundry-expand-2nm-and-3d%e2%80%91ic-platform-partnership/"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "ST Brings AI Inference Closer to Sensing Element",
+    "summary": "ST's IIS3DWB10IS with ISPU 2.0)brings advanced digital signal processing and AI inference closer to the sensing element. The post ST Brings AI Inference Closer to Sensing Element appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://www.eetasia.com/st-brings-ai-inference-closer-to-sensing-element/"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "Photonics Emerges as Next Scaling Frontier for AI Infra, Distributed Computing",
+    "summary": "As AI systems expand, photonics is stepping up to enable faster, lower-power data movement, memory sharing, and scalable infrastructure. The post Photonics Emerges as Next Scaling Frontier for AI Infra, Distributed Computing appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://www.eetasia.com/photonics-emerges-as-next-scaling-frontier-for-ai-infra-distributed-computing/"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "Japan pharma companies turn to China for drug discovery, growth",
+    "summary": "Japan pharma companies turn to China for drug discovery, growth",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "drug"
+    ],
+    "url": "https://asia.nikkei.com/business/pharmaceuticals/japan-pharma-companies-turn-to-china-for-drug-discovery-growth"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "TCS and Opendoor fuel worries over AI impacting India's tech jobs",
+    "summary": "TCS and Opendoor fuel worries over AI impacting India's tech jobs",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tcs-and-opendoor-fuel-worries-over-ai-impacting-india-s-tech-jobs"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "India doubles public investment in 5 years to build rails, chip plants",
+    "summary": "India doubles public investment in 5 years to build rails, chip plants",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "chip"
+    ],
+    "url": "https://asia.nikkei.com/economy/india-doubles-public-investment-in-5-years-to-build-rails-chip-plants"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
+    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "artificial intelligence",
+      "chip"
+    ],
+    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "No career ambition, no ego: AI plays devil's advocate at Audax Private Equity",
+    "summary": "Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      " ai "
+    ],
+    "url": "https://www.kedglobal.com/private-equity/newsView/ked202603120002"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate",
+    "summary": "EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "biotechnology",
+      "biotech",
+      "vaccine"
+    ],
+    "url": "https://www.kedglobal.com/bio-pharma/newsView/ked202603100001"
+  },
+  {
     "date": "2026-06-13",
     "title": "Anthropic is complying with a government order to pull its top AI models — and says the rationale is wrong",
     "summary": "The US government on June 12 issued an export control directive ordering Anthropic to suspend all access to its Fable 5 and Mythos 5 models by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.",
