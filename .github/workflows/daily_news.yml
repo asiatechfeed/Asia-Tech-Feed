@@ -39,11 +39,7 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r scripts/requirements.txt
 
-      # ── 3. Fetch stock prices ─────────────────────────────────────────────
-      - name: Fetch stock prices
-        run: python scripts/fetch_stocks.py
-
-      # ── 4. Run scraper ───────────────────────────────────────────────────
+      # ── 3. Run scraper ───────────────────────────────────────────────────
       - name: Run news scraper
         id: run_scraper
         env:
@@ -63,25 +59,26 @@ jobs:
             echo "digest_date=$DATE" >> $GITHUB_OUTPUT
           fi
 
-      # ── 5. Stop if no articles ───────────────────────────────────────────
+      # ── 4. Stop if no articles ───────────────────────────────────────────
       - name: Skip if no articles
         if: steps.run_scraper.outputs.has_articles == 'false'
         run: |
           echo "No matching articles found today. Skipping publish."
           exit 0
 
-      # ── 6. Commit directly to main ───────────────────────────────────────
+      # ── 5. Commit directly to main ───────────────────────────────────────
       - name: Commit digest to main
         if: steps.run_scraper.outputs.has_articles == 'true'
         run: |
           DATE="${{ steps.run_scraper.outputs.digest_date }}"
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add _posts/ assets/data/ _digest_meta.json _data/stocks.json
+          git add _posts/ assets/data/ _digest_meta.json
+          # Only commit if there are changes
           git diff --cached --quiet || git commit -m "📰 News digest $DATE (${{ steps.run_scraper.outputs.article_count }} articles)"
           git push origin main
 
-      # ── 7. Optional notification email (manual trigger only) ─────────────
+      # ── 6. Optional notification email (manual trigger only) ─────────────
       - name: Send notification email
         if: >
           steps.run_scraper.outputs.has_articles == 'true' &&
@@ -100,7 +97,7 @@ jobs:
           html_body: file://_email_preview.html
           priority: normal
 
-      # ── 8. Build Jekyll site ─────────────────────────────────────────────
+      # ── 7. Build Jekyll site ─────────────────────────────────────────────
       - name: Setup Ruby
         if: steps.run_scraper.outputs.has_articles == 'true'
         uses: ruby/setup-ruby@v1
@@ -114,7 +111,7 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      # ── 9. Deploy to GitHub Pages ────────────────────────────────────────
+      # ── 8. Deploy to GitHub Pages ────────────────────────────────────────
       - name: Deploy to GitHub Pages
         if: steps.run_scraper.outputs.has_articles == 'true'
         uses: peaceiris/actions-gh-pages@v4
@@ -123,21 +120,3 @@ jobs:
           publish_dir: ./_site
           publish_branch: gh-pages
           commit_message: "🚀 Deploy digest ${{ steps.run_scraper.outputs.digest_date }} (${{ steps.run_scraper.outputs.article_count }} articles)"
-
-      # ── 9. Site health check ─────────────────────────────────────────────
-      - name: Verify site is live (HTTP 200)
-        if: steps.run_scraper.outputs.has_articles == 'true'
-        run: |
-          echo "⏳ Waiting 30s for Cloudflare to propagate..."
-          sleep 30
-          TIMESTAMP=$(date -u "+%Y-%m-%d %H:%M:%S UTC")
-          STATUS=$(curl -o /dev/null -s -w "%{http_code}" --max-time 15 https://asiatechfeed.com)
-          echo "🕐 Timestamp : $TIMESTAMP"
-          echo "🌐 URL       : https://asiatechfeed.com"
-          echo "📊 HTTP Status: $STATUS"
-          if [ "$STATUS" = "200" ]; then
-            echo "✅ Site is live and responding normally."
-          else
-            echo "❌ Unexpected status code: $STATUS"
-            exit 1
-          fi
