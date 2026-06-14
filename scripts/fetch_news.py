@@ -36,7 +36,7 @@ ASSETS_DIR.mkdir(parents=True, exist_ok=True)
 
 MAX_ARTICLES = 30
 MAX_PER_DOMAIN = 3
-LOOKBACK_DAYS = 3
+LOOKBACK_DAYS = 2
 SGT = pytz.timezone("Asia/Singapore")
 
 # Domains that are inherently Asia-focused — no additional Asia term required
@@ -49,11 +49,9 @@ ASIA_FOCUSED_DOMAINS = {
 }
 
 KEYWORDS = [
-    "semiconductor", "electronics", "logistics", "pharmaceutical",
-    "biotechnology", "biotech", "artificial intelligence",
-    " ai ", "machine vision", "automation",
-    "chip", "wafer", "fab", "foundry", "pcb", "circuit board",
-    "supply chain", "medtech", "drug", "vaccine", "robot",
+    "Semiconductor", "Electronics", "Logistics", "Pharmaceutical",
+    "Biotechnology", "biotech", "Artificial Intelligence",
+    " AI ", "Machine Vision", "Automation", "Robot"
 ]
 
 # Only these 8 topics are allowed as tags — maps lowercase input → display label
