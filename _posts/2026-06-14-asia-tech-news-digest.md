@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Asia Tech News Digest - June 14, 2026"
-date: 2026-06-14 17:59:43 +0800
+date: 2026-06-14 18:05:20 +0800
 articles_count: 11
 sources_count: 4
 sources: ["DigiTimes", "KED", "NikkeiAsia", "TechAsia"]
@@ -38,15 +38,15 @@ featured_image: ""
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
   <td class="col-title"><span class="article-title">Chinese AI chipmaker MetaX eyes Hong Kong listing</span></td>
   <td class="col-summary">MetaX's shares surged 564% since its Shanghai IPO, valuing the company at about $41 billion.</td>
-  <td class="col-tags"></td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinese-chipmakers-race-ipos-listing-surge" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Anthropic falls as US orders AI model suspension</span></td>
+  <td class="col-title"><span class="article-title">Anthropic shares fall as US orders AI model suspension</span></td>
   <td class="col-summary">Anthropic's AI models Fable 5 and Mythos 5 were shut down for all customers after US government order.</td>
-  <td class="col-tags"></td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropic-expand-glasswing-150-partners" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ featured_image: ""
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
   <td class="col-title"><span class="article-title">Anthropic is complying with a government order to pull its top AI models — and says the rationale is wrong</span></td>
   <td class="col-summary">The US government on June 12 issued an export control directive ordering Anthropic to suspend all access to its Fable 5 and Mythos 5 models by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.</td>
-  <td class="col-tags"></td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260613VL201/government-anthropic.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ featured_image: ""
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
   <td class="col-title"><span class="article-title">Alibaba Cloud opens new Malaysia region to meet rising AI demand</span></td>
   <td class="col-summary">Alibaba Cloud has launched a new public cloud region in Johor, Malaysia, adding two data centers as part of its push to expand cloud and AI infrastructure. The move is aimed at serving growing demand in Malaysia and across the region, with implications for businesses seeking faster, more secure digital services regiona</td>
-  <td class="col-tags"></td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260612PR200/alibaba-cloud-region-demand-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ featured_image: ""
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
   <td class="col-title"><span class="article-title">TCS and Opendoor fuel worries over AI impacting India's tech jobs</span></td>
   <td class="col-summary">TCS and Opendoor fuel worries over AI impacting India's tech jobs</td>
-  <td class="col-tags"></td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/tcs-and-opendoor-fuel-worries-over-ai-impacting-india-s-tech-jobs" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ featured_image: ""
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
   <td class="col-title"><span class="article-title">Sony cuts wait times for World Cup replays with updated AI tech</span></td>
   <td class="col-summary">Sony cuts wait times for World Cup replays with updated AI tech</td>
-  <td class="col-tags"></td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/sports/world-cup-2026/sony-cuts-wait-times-for-world-cup-replays-with-updated-ai-tech" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ featured_image: ""
   <td class="col-source"><span class="source-badge">KED</span></td>
   <td class="col-title"><span class="article-title">No career ambition, no ego: AI plays devil's advocate at Audax Private Equity</span></td>
   <td class="col-summary">Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass</td>
-  <td class="col-tags"></td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
