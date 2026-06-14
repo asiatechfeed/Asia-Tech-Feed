@@ -415,9 +415,22 @@ def summarize_with_claude(articles: list[dict]) -> list[dict]:
     """Batch summarize articles via Claude API."""
     if not ANTHROPIC_API_KEY:
         print("⚠ ANTHROPIC_API_KEY not set — using raw summaries.")
+        kw_to_display = {
+            " ai ": "AI", "artificial intelligence": "AI",
+            "semiconductor": "Semiconductor", "electronics": "Electronics",
+            "logistics": "Logistics", "supply chain": "Logistics",
+            "pharmaceutical": "Pharmaceutical", "biotechnology": "Biotechnology",
+            "biotech": "Biotechnology", "machine vision": "Machine Vision",
+            "automation": "Automation", "robot": "Automation",
+        }
         for a in articles:
             a["summary"] = (a["summary_raw"] or a["title"])[:320]
-            a["tags"] = a.get("matched_keywords", [])[:3]
+            seen = []
+            for kw in a.get("matched_keywords", []):
+                tag = kw_to_display.get(kw.lower().strip())
+                if tag and tag not in seen:
+                    seen.append(tag)
+            a["tags"] = seen[:3]
         return articles
 
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
