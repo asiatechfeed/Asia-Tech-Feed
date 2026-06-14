@@ -419,14 +419,13 @@ def summarize_with_claude(articles: list[dict]) -> list[dict]:
             # AI
             " ai ": "AI", "artificial intelligence": "AI",
             # Semiconductor
-            "semiconductor": "Semiconductor", "chip": "Semiconductor",
-            "wafer": "Semiconductor", "fab": "Semiconductor", "foundry": "Semiconductor",
+            "semiconductor": "Semiconductor",
             # Electronics
             "electronics": "Electronics", "pcb": "Electronics", "circuit board": "Electronics",
             # Logistics
             "logistics": "Logistics", "supply chain": "Logistics",
             # Pharmaceutical
-            "pharmaceutical": "Pharmaceutical", "drug": "Pharmaceutical", "medtech": "Pharmaceutical",
+            "pharmaceutical": "Pharmaceutical", "medtech": "Pharmaceutical",
             # Biotechnology
             "biotechnology": "Biotechnology", "biotech": "Biotechnology", "vaccine": "Biotechnology",
             # Machine Vision
