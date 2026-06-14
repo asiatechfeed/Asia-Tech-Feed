@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asia-tech-feed.pages.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asia-tech-feed.pages.dev/" rel="alternate" type="text/html" /><updated>2026-06-14T10:04:11+00:00</updated><id>https://asia-tech-feed.pages.dev/feed.xml</id><title type="html">Asia Tech News Feed</title><subtitle>Daily Asia news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - June 14, 2026</title><link href="https://asia-tech-feed.pages.dev/2026/06/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 14, 2026" /><published>2026-06-14T09:59:43+00:00</published><updated>2026-06-14T09:59:43+00:00</updated><id>https://asia-tech-feed.pages.dev/2026/06/14/asia-tech-news-digest</id><content type="html" xml:base="https://asia-tech-feed.pages.dev/2026/06/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asia-tech-feed.pages.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asia-tech-feed.pages.dev/" rel="alternate" type="text/html" /><updated>2026-06-14T10:06:02+00:00</updated><id>https://asia-tech-feed.pages.dev/feed.xml</id><title type="html">Asia Tech News Feed</title><subtitle>Daily Asia news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - June 14, 2026</title><link href="https://asia-tech-feed.pages.dev/2026/06/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 14, 2026" /><published>2026-06-14T10:05:20+00:00</published><updated>2026-06-14T10:05:20+00:00</updated><id>https://asia-tech-feed.pages.dev/2026/06/14/asia-tech-news-digest</id><content type="html" xml:base="https://asia-tech-feed.pages.dev/2026/06/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -23,15 +23,15 @@
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
   <td class="col-title"><span class="article-title">Chinese AI chipmaker MetaX eyes Hong Kong listing</span></td>
   <td class="col-summary">MetaX's shares surged 564% since its Shanghai IPO, valuing the company at about $41 billion.</td>
-  <td class="col-tags"></td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinese-chipmakers-race-ipos-listing-surge" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Anthropic falls as US orders AI model suspension</span></td>
+  <td class="col-title"><span class="article-title">Anthropic shares fall as US orders AI model suspension</span></td>
   <td class="col-summary">Anthropic's AI models Fable 5 and Mythos 5 were shut down for all customers after US government order.</td>
-  <td class="col-tags"></td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropic-expand-glasswing-150-partners" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
   <td class="col-title"><span class="article-title">Anthropic is complying with a government order to pull its top AI models — and says the rationale is wrong</span></td>
   <td class="col-summary">The US government on June 12 issued an export control directive ordering Anthropic to suspend all access to its Fable 5 and Mythos 5 models by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.</td>
-  <td class="col-tags"></td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260613VL201/government-anthropic.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
   <td class="col-title"><span class="article-title">Alibaba Cloud opens new Malaysia region to meet rising AI demand</span></td>
   <td class="col-summary">Alibaba Cloud has launched a new public cloud region in Johor, Malaysia, adding two data centers as part of its push to expand cloud and AI infrastructure. The move is aimed at serving growing demand in Malaysia and across the region, with implications for businesses seeking faster, more secure digital services regiona</td>
-  <td class="col-tags"></td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260612PR200/alibaba-cloud-region-demand-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
   <td class="col-title"><span class="article-title">TCS and Opendoor fuel worries over AI impacting India's tech jobs</span></td>
   <td class="col-summary">TCS and Opendoor fuel worries over AI impacting India's tech jobs</td>
-  <td class="col-tags"></td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/tcs-and-opendoor-fuel-worries-over-ai-impacting-india-s-tech-jobs" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
   <td class="col-title"><span class="article-title">Sony cuts wait times for World Cup replays with updated AI tech</span></td>
   <td class="col-summary">Sony cuts wait times for World Cup replays with updated AI tech</td>
-  <td class="col-tags"></td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/sports/world-cup-2026/sony-cuts-wait-times-for-world-cup-replays-with-updated-ai-tech" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@
   <td class="col-source"><span class="source-badge">KED</span></td>
   <td class="col-title"><span class="article-title">No career ambition, no ego: AI plays devil's advocate at Audax Private Equity</span></td>
   <td class="col-summary">Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass</td>
-  <td class="col-tags"></td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/bio-pharma/newsView/ked202603100001" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Amazon to expand warehouse automation in India Amazon uses SLAM labelers in India to scan parcels and apply shipping labels automatically. Automation Read 2 TechAsia Chinese AI chipmaker MetaX eyes Hong Kong listing MetaX's shares surged 564% since its Shanghai IPO, valuing the company at about $41 billion. Read 3 TechAsia Anthropic falls as US orders AI model suspension Anthropic's AI models Fable 5 and Mythos 5 were shut down for all customers after US government order. Read 4 DigiTimes Anthropic is complying with a government order to pull its top AI models — and says the rationale is wrong The US government on June 12 issued an export control directive ordering Anthropic to suspend all access to its Fable 5 and Mythos 5 models by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. Read 5 DigiTimes Samsung to review strategy as memory boom pressures devices Samsung Electronics is set to hold its semiannual global strategy meeting from June 16 to 18, with executives expected to review a split operating environment: strong memory demand is supporting the chip business, while higher component costs are putting pressure on smartphones, PCs, and other consumer devices. Electronics Read 6 DigiTimes Alibaba Cloud opens new Malaysia region to meet rising AI demand Alibaba Cloud has launched a new public cloud region in Johor, Malaysia, adding two data centers as part of its push to expand cloud and AI infrastructure. The move is aimed at serving growing demand in Malaysia and across the region, with implications for businesses seeking faster, more secure digital services regiona Read 7 NikkeiAsia TCS and Opendoor fuel worries over AI impacting India's tech jobs TCS and Opendoor fuel worries over AI impacting India's tech jobs Read 8 NikkeiAsia Sony cuts wait times for World Cup replays with updated AI tech Sony cuts wait times for World Cup replays with updated AI tech Read 9 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun AI Read 10 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass Read 11 KED EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease Biotechnology Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - June 13, 2026</title><link href="https://asia-tech-feed.pages.dev/2026/06/13/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 13, 2026" /><published>2026-06-13T10:13:41+00:00</published><updated>2026-06-13T10:13:41+00:00</updated><id>https://asia-tech-feed.pages.dev/2026/06/13/asia-tech-news-digest</id><content type="html" xml:base="https://asia-tech-feed.pages.dev/2026/06/13/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Amazon to expand warehouse automation in India Amazon uses SLAM labelers in India to scan parcels and apply shipping labels automatically. Automation Read 2 TechAsia Chinese AI chipmaker MetaX eyes Hong Kong listing MetaX's shares surged 564% since its Shanghai IPO, valuing the company at about $41 billion. AI Read 3 TechAsia Anthropic shares fall as US orders AI model suspension Anthropic's AI models Fable 5 and Mythos 5 were shut down for all customers after US government order. AI Read 4 DigiTimes Anthropic is complying with a government order to pull its top AI models — and says the rationale is wrong The US government on June 12 issued an export control directive ordering Anthropic to suspend all access to its Fable 5 and Mythos 5 models by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. AI Read 5 DigiTimes Samsung to review strategy as memory boom pressures devices Samsung Electronics is set to hold its semiannual global strategy meeting from June 16 to 18, with executives expected to review a split operating environment: strong memory demand is supporting the chip business, while higher component costs are putting pressure on smartphones, PCs, and other consumer devices. Electronics Read 6 DigiTimes Alibaba Cloud opens new Malaysia region to meet rising AI demand Alibaba Cloud has launched a new public cloud region in Johor, Malaysia, adding two data centers as part of its push to expand cloud and AI infrastructure. The move is aimed at serving growing demand in Malaysia and across the region, with implications for businesses seeking faster, more secure digital services regiona AI Read 7 NikkeiAsia TCS and Opendoor fuel worries over AI impacting India's tech jobs TCS and Opendoor fuel worries over AI impacting India's tech jobs AI Read 8 NikkeiAsia Sony cuts wait times for World Cup replays with updated AI tech Sony cuts wait times for World Cup replays with updated AI tech AI Read 9 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun AI Read 10 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass AI Read 11 KED EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease Biotechnology Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - June 13, 2026</title><link href="https://asia-tech-feed.pages.dev/2026/06/13/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 13, 2026" /><published>2026-06-13T10:13:41+00:00</published><updated>2026-06-13T10:13:41+00:00</updated><id>https://asia-tech-feed.pages.dev/2026/06/13/asia-tech-news-digest</id><content type="html" xml:base="https://asia-tech-feed.pages.dev/2026/06/13/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
