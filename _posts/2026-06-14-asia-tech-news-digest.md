@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - June 14, 2026"
-date: 2026-06-14 07:55:56 +0800
+date: 2026-06-14 08:11:23 +0800
 articles_count: 15
 sources_count: 5
 sources: ["DigiTimes", "EETAsia", "KED", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-06-14.tsv
-featured_title: "Anthropic is complying with a government order to pull its top AI models \u2014 and says the rationale is wrong"
-featured_url: "https://www.digitimes.com/news/a20260613VL201/government-anthropic.html"
-featured_source: "DigiTimes"
-featured_summary: "The US government on June 12 issued an export control directive ordering Anthropic to suspend all access to its Fable 5 and Mythos 5 models by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees."
-featured_image: "https://img.digitimes.com/newsshow/20260613vl201_files/1_b.jpg"
+featured_title: "50 rising AI startups in Asia"
+featured_url: "https://www.techinasia.com/50-rising-ai-startups-in-asia"
+featured_source: "TechAsia"
+featured_summary: "These AI startups have a shot at becoming the next big thing."
+featured_image: ""
 ---
 
 <table class="news-table">
@@ -27,6 +27,14 @@ featured_image: "https://img.digitimes.com/newsshow/20260613vl201_files/1_b.jpg"
 <tbody>
 <tr>
   <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">50 rising AI startups in Asia</span></td>
+  <td class="col-summary">These AI startups have a shot at becoming the next big thing.</td>
+  <td class="col-tags"><span class="tag "> ai </span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/50-rising-ai-startups-in-asia" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
   <td class="col-title"><span class="article-title">Anthropic is complying with a government order to pull its top AI models — and says the rationale is wrong</span></td>
   <td class="col-summary">The US government on June 12 issued an export control directive ordering Anthropic to suspend all access to its Fable 5 and Mythos 5 models by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.</td>
@@ -34,7 +42,7 @@ featured_image: "https://img.digitimes.com/newsshow/20260613vl201_files/1_b.jpg"
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260613VL201/government-anthropic.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">2</td>
+  <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
   <td class="col-title"><span class="article-title">Zuckerberg admits mistakes in Meta’s AI reshuffle</span></td>
   <td class="col-summary">Meta plans a July hackathon and will increase annual capital spending to up to US$145 billion.</td>
@@ -42,20 +50,12 @@ featured_image: "https://img.digitimes.com/newsshow/20260613vl201_files/1_b.jpg"
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-drops-5-report-sell-stock-ai" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">3</td>
+  <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
   <td class="col-title"><span class="article-title">Anthropic suspends two AI models under US order</span></td>
   <td class="col-summary">Fable 5 is available through Amazon Bedrock, a cloud service for AI model access.</td>
   <td class="col-tags"><span class="tag "> ai </span><span class="tag ">fab</span></td>
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropic-expand-glasswing-150-partners" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Google to appeal German AI Overviews liability ruling</span></td>
-  <td class="col-summary">The Munich court ruled AI Overviews are Google's own words, not just search results summaries.</td>
-  <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/google-cloud-opens-sea-ai-startup-accelerator" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
