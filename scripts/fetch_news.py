@@ -417,7 +417,7 @@ def summarize_with_claude(articles: list[dict]) -> list[dict]:
         print("⚠ ANTHROPIC_API_KEY not set — using raw summaries.")
         kw_to_display = {
             # AI
-            " ai ": "AI", "artificial intelligence": "AI",
+            "ai": "AI", "artificial intelligence": "AI",
             # Semiconductor
             "semiconductor": "Semiconductor",
             # Electronics
@@ -495,7 +495,7 @@ Return ONLY the JSON. No markdown, no explanation."""
                 "pharmaceutical": "pharmaceutical", "drug": "pharmaceutical",
                 "vaccine": "pharmaceutical", "medtech": "pharmaceutical",
                 "biotechnology": "biotechnology", "biotech": "biotechnology",
-                "artificial intelligence": "ai", " ai ": "ai",
+                "artificial intelligence": "ai", "ai": "ai",
                 "machine vision": "machine vision", "robot": "automation",
                 "automation": "automation",
             }
