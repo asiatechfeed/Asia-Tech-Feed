@@ -8,5 +8,11 @@ binding     = "DB"
 database_name = "atf-registrations"
 database_id   = "de962751-3c14-4295-9e15-ae1f55ee9974"
 
-# ── Optional: set ADMIN_SECRET via `wrangler secret put ADMIN_SECRET` ──────────
-# Or add it in the Cloudflare dashboard → Workers → atf-registration-worker → Settings → Variables
+# ── KV binding (OTP temp storage, auto-expiry via TTL) ──────────────────────────
+[[kv_namespaces]]
+binding = "OTP_STORE"
+id      = "65196bedef5b4b49b5e52538ed034270"
+
+# ── Secrets (set via `wrangler secret put <NAME>`) ──────────────────────────────
+# ADMIN_SECRET   — protects GET /admin CSV export
+# RESEND_API_KEY — Resend.com API key for sending OTP emails

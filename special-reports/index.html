@@ -822,12 +822,12 @@ permalink: /special-reports/
         <li><span class="bullet-icon">→</span> 9 original data exhibits across memory, foundry, equipment, and regional</li>
       </ul>
 
-      <!-- Registration form -->
+      <!-- Step 1: Registration details -->
       <div id="gateForm">
-        <input type="text" id="g-name"    placeholder="Full name" autocomplete="name">
+        <input type="text" id="g-name" placeholder="Full name" autocomplete="name">
         <span class="field-err" id="errName"></span>
 
-        <input type="email" id="g-email"  placeholder="Work email" autocomplete="email">
+        <input type="email" id="g-email" placeholder="Work email" autocomplete="email">
         <span class="field-err" id="errEmail"></span>
 
         <select id="g-country">
@@ -851,7 +851,7 @@ permalink: /special-reports/
         </select>
         <span class="field-err" id="errCountry"></span>
 
-        <div style="font-size:0.78rem;color:#777;font-family:var(--mono);letter-spacing:0.08em;text-transform:uppercase;margin-bottom:0.5rem;">Your primary focus</div>
+        <div style="font-size:0.78rem;color:rgba(255,255,255,0.5);font-family:var(--mono);letter-spacing:0.08em;text-transform:uppercase;margin-bottom:0.5rem;">Your primary focus</div>
         <div class="interest-row">
           <label class="int-chip"><input type="checkbox" value="semiconductors"> Semiconductors</label>
           <label class="int-chip"><input type="checkbox" value="electronics"> Electronics</label>
@@ -869,16 +869,47 @@ permalink: /special-reports/
         <div class="gate-status" id="gateStatus"></div>
 
         <button class="gate-btn" id="gateBtn">
-          <span id="gateBtnText">Download the report →</span>
-          <span id="gateBtnSpinner" hidden>Submitting…</span>
+          <span id="gateBtnText">Send verification code →</span>
+          <span id="gateBtnSpinner" hidden>Sending…</span>
         </button>
-        <div class="gate-note">No spam · No data sold · Unsubscribe anytime</div>
+        <div class="gate-note">We'll email you a 6-digit code to confirm your address</div>
       </div>
 
-      <!-- Post-registration download -->
+      <!-- Step 2: OTP verification -->
+      <div id="otpForm" style="display:none;">
+        <p style="color:rgba(255,255,255,0.7);font-size:0.9rem;margin-bottom:1.25rem;line-height:1.6;">
+          We sent a 6-digit code to <strong id="otpEmailDisplay" style="color:#fff;"></strong>.<br>
+          Check your inbox (and spam folder) — it expires in 10 minutes.
+        </p>
+
+        <input type="text" id="g-otp"
+               placeholder="Enter 6-digit code"
+               maxlength="6"
+               inputmode="numeric"
+               pattern="[0-9]{6}"
+               autocomplete="one-time-code"
+               style="letter-spacing:0.3em;font-size:1.2rem;text-align:center;font-family:var(--mono);">
+        <span class="field-err" id="errOtp"></span>
+
+        <div class="gate-status" id="otpStatus"></div>
+
+        <button class="gate-btn" id="otpBtn">
+          <span id="otpBtnText">Verify &amp; download →</span>
+          <span id="otpBtnSpinner" hidden>Verifying…</span>
+        </button>
+
+        <div style="margin-top:1rem;text-align:center;">
+          <button id="resendBtn" style="background:none;border:none;color:rgba(255,255,255,0.45);font-size:0.8rem;cursor:pointer;font-family:var(--sans);padding:0;" disabled>
+            Resend code (<span id="resendTimer">60</span>s)
+          </button>
+        </div>
+        <div class="gate-note">Wrong email? <button id="backBtn" style="background:none;border:none;color:rgba(255,255,255,0.5);font-size:0.78rem;cursor:pointer;font-family:var(--mono);text-decoration:underline;padding:0;">Go back</button></div>
+      </div>
+
+      <!-- Post-verification download -->
       <div id="downloadConfirm">
         <div class="success-icon">✓</div>
-        <h3>You're registered. Download below.</h3>
+        <h3>Email verified. Download below.</h3>
         <p>The Trillion-Dollar Reset — Asia Tech Feed Semiconductor Outlook H2 2026–2027</p>
         <a href="/assets/reports/Asia-Tech-Feed-Semiconductors-Outlook-H2-2026-2027.pdf"
            class="dl-btn"
@@ -898,74 +929,179 @@ permalink: /special-reports/
 
 <script>
 (function () {
-  // ── Config ─────────────────────────────────────────────────
-  const WORKER_URL = "https://atf-registration-worker.asiatechfeed.workers.dev/register";
-  // Replace with your Worker URL after deployment
+  const BASE_URL = 'https://atf-registration-worker.asiatechfeed.workers.dev';
+  const REPORT   = 'semiconductor-outlook-h2-2026';
 
-  // ── Refs ───────────────────────────────────────────────────
-  const form       = document.getElementById('gateForm');
-  const confirm    = document.getElementById('downloadConfirm');
-  const status     = document.getElementById('gateStatus');
-  const btn        = document.getElementById('gateBtn');
-  const btnText    = document.getElementById('gateBtnText');
-  const btnSpinner = document.getElementById('gateBtnSpinner');
+  // ── Element refs ───────────────────────────────────────────
+  const gateForm    = document.getElementById('gateForm');
+  const otpForm     = document.getElementById('otpForm');
+  const dlConfirm   = document.getElementById('downloadConfirm');
+  const gateStatus  = document.getElementById('gateStatus');
+  const otpStatus   = document.getElementById('otpStatus');
+  const gateBtn     = document.getElementById('gateBtn');
+  const gateBtnText = document.getElementById('gateBtnText');
+  const gateSpin    = document.getElementById('gateBtnSpinner');
+  const otpBtn      = document.getElementById('otpBtn');
+  const otpBtnText  = document.getElementById('otpBtnText');
+  const otpSpin     = document.getElementById('otpBtnSpinner');
+  const resendBtn   = document.getElementById('resendBtn');
+  const resendTimer = document.getElementById('resendTimer');
+  const backBtn     = document.getElementById('backBtn');
+
+  let currentEmail = '';
+  let resendInterval = null;
 
   // ── Helpers ────────────────────────────────────────────────
-  function setErr(id, msg) { document.getElementById(id).textContent = msg; }
-  function clearErr(id)    { document.getElementById(id).textContent = ''; }
-  function setStatus(msg, type) {
-    status.textContent  = msg;
-    status.className    = 'gate-status ' + type;
+  function setErr(id, msg)  { document.getElementById(id).textContent = msg; }
+  function clearErr(id)     { document.getElementById(id).textContent = ''; }
+  function setStatus(el, msg, type) { el.textContent = msg; el.className = 'gate-status ' + type; }
+  function clearStatus(el)  { el.textContent = ''; el.className = 'gate-status'; }
+  function setBtnLoading(btn, textEl, spinEl, v) {
+    btn.disabled = v; textEl.hidden = v; spinEl.hidden = !v;
   }
-  function setLoading(v) {
-    btn.disabled       = v;
-    btnText.hidden     = v;
-    btnSpinner.hidden  = !v;
+  function show(el)  { el.style.display = 'block'; }
+  function hide(el)  { el.style.display = 'none'; }
+
+  // ── Resend countdown ───────────────────────────────────────
+  function startResendCountdown() {
+    let secs = 60;
+    resendBtn.disabled = true;
+    resendTimer.textContent = secs;
+    resendBtn.style.color = 'rgba(255,255,255,0.35)';
+    resendBtn.textContent = `Resend code (${secs}s)`;
+    resendInterval = setInterval(() => {
+      secs--;
+      resendBtn.textContent = `Resend code (${secs}s)`;
+      if (secs <= 0) {
+        clearInterval(resendInterval);
+        resendBtn.disabled = false;
+        resendBtn.textContent = 'Resend code';
+        resendBtn.style.color = 'rgba(255,255,255,0.7)';
+      }
+    }, 1000);
   }
 
-  // ── Submit ─────────────────────────────────────────────────
-  btn.addEventListener('click', async () => {
-    // Clear errors
+  // ── Step 1: Send OTP ───────────────────────────────────────
+  async function sendOTP() {
     ['errName','errEmail','errCountry'].forEach(clearErr);
-    status.className = 'gate-status';
+    clearStatus(gateStatus);
 
-    const name    = document.getElementById('g-name').value.trim();
-    const email   = document.getElementById('g-email').value.trim().toLowerCase();
-    const country = document.getElementById('g-country').value;
-    const hp      = document.getElementById('hp-field').value;
-    const interests = Array.from(
-      document.querySelectorAll('.int-chip input:checked')
-    ).map(cb => cb.value);
+    const name     = document.getElementById('g-name').value.trim();
+    const email    = document.getElementById('g-email').value.trim().toLowerCase();
+    const country  = document.getElementById('g-country').value;
+    const hp       = document.getElementById('hp-field').value;
+    const interests = Array.from(document.querySelectorAll('.int-chip input:checked')).map(c => c.value);
 
-    // Validate
     let ok = true;
-    if (name.length < 2)                           { setErr('errName',    'Please enter your full name.');          ok = false; }
-    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { setErr('errEmail',   'Please enter a valid email address.');   ok = false; }
-    if (!country)                                   { setErr('errCountry', 'Please select your country.');           ok = false; }
+    if (name.length < 2)                            { setErr('errName',    'Please enter your full name.');        ok = false; }
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { setErr('errEmail',   'Please enter a valid email address.'); ok = false; }
+    if (!country)                                   { setErr('errCountry', 'Please select your country.');         ok = false; }
     if (!ok) return;
 
-    setLoading(true);
+    setBtnLoading(gateBtn, gateBtnText, gateSpin, true);
 
     try {
-      const res = await fetch(WORKER_URL, {
+      const res  = await fetch(`${BASE_URL}/send-otp`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ name, email, country, interests, website: hp, report: 'semiconductor-outlook-h2-2026' }),
+        body: JSON.stringify({ name, email, country, interests, website: hp, report: REPORT }),
       });
       const data = await res.json();
 
-      if ((res.ok && data.success) || res.status === 409) {
-        // 409 = already registered — still let them download
-        form.style.display    = 'none';
-        confirm.style.display = 'block';
+      if (res.ok && data.sent) {
+        currentEmail = email;
+        document.getElementById('otpEmailDisplay').textContent = email;
+        hide(gateForm);
+        show(otpForm);
+        clearStatus(otpStatus);
+        document.getElementById('g-otp').focus();
+        startResendCountdown();
       } else {
-        setStatus(data.error || 'Something went wrong. Please try again.', 'error');
+        setStatus(gateStatus, data.error || 'Something went wrong. Please try again.', 'error');
       }
     } catch {
-      setStatus('Network error. Please check your connection.', 'error');
+      setStatus(gateStatus, 'Network error. Please check your connection.', 'error');
     } finally {
-      setLoading(false);
+      setBtnLoading(gateBtn, gateBtnText, gateSpin, false);
+    }
+  }
+
+  // ── Step 2: Verify OTP ─────────────────────────────────────
+  async function verifyOTP() {
+    clearErr('errOtp');
+    clearStatus(otpStatus);
+
+    const code = document.getElementById('g-otp').value.trim();
+    if (!/^\d{6}$/.test(code)) { setErr('errOtp', 'Please enter the 6-digit code from your email.'); return; }
+
+    setBtnLoading(otpBtn, otpBtnText, otpSpin, true);
+
+    try {
+      const res  = await fetch(`${BASE_URL}/verify-otp`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email: currentEmail, code }),
+      });
+      const data = await res.json();
+
+      if (res.ok && data.success) {
+        clearInterval(resendInterval);
+        hide(otpForm);
+        show(dlConfirm);
+      } else {
+        setStatus(otpStatus, data.error || 'Verification failed. Please try again.', 'error');
+      }
+    } catch {
+      setStatus(otpStatus, 'Network error. Please check your connection.', 'error');
+    } finally {
+      setBtnLoading(otpBtn, otpBtnText, otpSpin, false);
+    }
+  }
+
+  // ── Event listeners ────────────────────────────────────────
+  gateBtn.addEventListener('click', sendOTP);
+
+  otpBtn.addEventListener('click', verifyOTP);
+
+  // Allow Enter key in OTP field
+  document.getElementById('g-otp').addEventListener('keydown', e => {
+    if (e.key === 'Enter') verifyOTP();
+  });
+
+  // Resend
+  resendBtn.addEventListener('click', async () => {
+    if (resendBtn.disabled) return;
+    clearStatus(otpStatus);
+    resendBtn.disabled = true;
+    try {
+      const res  = await fetch(`${BASE_URL}/send-otp`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name: '(resend)', email: currentEmail, country: 'resend', report: REPORT }),
+      });
+      const data = await res.json();
+      if (res.ok && data.sent) {
+        setStatus(otpStatus, 'A new code has been sent.', 'success');
+        startResendCountdown();
+      } else {
+        setStatus(otpStatus, data.error || 'Could not resend. Please try again.', 'error');
+        resendBtn.disabled = false;
+      }
+    } catch {
+      setStatus(otpStatus, 'Network error.', 'error');
+      resendBtn.disabled = false;
     }
   });
+
+  // Back to Step 1
+  backBtn.addEventListener('click', () => {
+    clearInterval(resendInterval);
+    clearStatus(otpStatus);
+    clearErr('errOtp');
+    document.getElementById('g-otp').value = '';
+    hide(otpForm);
+    show(gateForm);
+  });
+
 })();
 </script>
