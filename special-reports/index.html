@@ -23,6 +23,40 @@ permalink: /special-reports/
   --sans:      "Segoe UI", system-ui, -apple-system, sans-serif;
 }
 
+/* ── Dark mode — mirrors main site html.dark / OS preference ── */
+html.dark {
+  --ink:        #e2e8f0;
+  --ink-mid:    #a0aec0;
+  --ink-muted:  #94a3b8;
+  --rule:       #243449;
+  --paper:      #0f1923;
+  --paper-alt:  #162031;
+  --accent-dim: rgba(232,69,69,0.15);
+}
+@media (prefers-color-scheme: dark) {
+  html:not(.light) {
+    --ink:        #e2e8f0;
+    --ink-mid:    #a0aec0;
+    --ink-muted:  #94a3b8;
+    --rule:       #243449;
+    --paper:      #0f1923;
+    --paper-alt:  #162031;
+    --accent-dim: rgba(232,69,69,0.15);
+  }
+}
+
+/* Hardcoded colour overrides for dark mode */
+html.dark .bar-track { background: #243449; }
+html.dark .pred-card.locked::after { background: rgba(22,32,49,0.92); }
+html.dark .confidence-tag.high   { background: #14351e; color: #86efac; }
+html.dark .confidence-tag.medium { background: #2d2506; color: #fde047; }
+@media (prefers-color-scheme: dark) {
+  html:not(.light) .bar-track { background: #243449; }
+  html:not(.light) .pred-card.locked::after { background: rgba(22,32,49,0.92); }
+  html:not(.light) .confidence-tag.high   { background: #14351e; color: #86efac; }
+  html:not(.light) .confidence-tag.medium { background: #2d2506; color: #fde047; }
+}
+
 /* ── Reset scoped to this page ──────────────────────────────── */
 .sr-page * { box-sizing: border-box; }
 .sr-page {
