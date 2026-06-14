@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Asia Tech News Digest - June 14, 2026"
-date: 2026-06-14 17:50:24 +0800
+date: 2026-06-14 17:59:43 +0800
 articles_count: 11
 sources_count: 4
 sources: ["DigiTimes", "KED", "NikkeiAsia", "TechAsia"]
