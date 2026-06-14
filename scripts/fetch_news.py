@@ -416,11 +416,22 @@ def summarize_with_claude(articles: list[dict]) -> list[dict]:
     if not ANTHROPIC_API_KEY:
         print("⚠ ANTHROPIC_API_KEY not set — using raw summaries.")
         kw_to_display = {
+            # AI
             " ai ": "AI", "artificial intelligence": "AI",
-            "semiconductor": "Semiconductor", "electronics": "Electronics",
+            # Semiconductor
+            "semiconductor": "Semiconductor", "chip": "Semiconductor",
+            "wafer": "Semiconductor", "fab": "Semiconductor", "foundry": "Semiconductor",
+            # Electronics
+            "electronics": "Electronics", "pcb": "Electronics", "circuit board": "Electronics",
+            # Logistics
             "logistics": "Logistics", "supply chain": "Logistics",
-            "pharmaceutical": "Pharmaceutical", "biotechnology": "Biotechnology",
-            "biotech": "Biotechnology", "machine vision": "Machine Vision",
+            # Pharmaceutical
+            "pharmaceutical": "Pharmaceutical", "drug": "Pharmaceutical", "medtech": "Pharmaceutical",
+            # Biotechnology
+            "biotechnology": "Biotechnology", "biotech": "Biotechnology", "vaccine": "Biotechnology",
+            # Machine Vision
+            "machine vision": "Machine Vision",
+            # Automation
             "automation": "Automation", "robot": "Automation",
         }
         for a in articles:
