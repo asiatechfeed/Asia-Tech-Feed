@@ -61,19 +61,21 @@
 
 <main>
   <style>
-/* ── Tokens ─────────────────────────────────────────────────── */
+/* ── Tokens — aligned with asiatechfeed.com palette ─────────── */
 :root {
-  --ink:       #0d0d0d;
-  --ink-mid:   #3a3a3a;
-  --ink-muted: #6b6b6b;
-  --rule:      #d4d0c8;
-  --paper:     #f7f5f0;
-  --paper-alt: #edeae3;
-  --accent:    #c8392b;          /* ATF red — signal, used sparingly */
-  --accent-dim:#f0e4e2;
+  --ink:       #2d3748;
+  --ink-mid:   #4a5568;
+  --ink-muted: #718096;
+  --rule:      #dde3ec;
+  --paper:     #f5f7fa;
+  --paper-alt: #edf2f7;
+  --accent:    #e84545;
+  --accent-dim:#fff0f0;
+  --primary:   #1a3a5c;
+  --primary-dk:#132d4a;
   --mono:      'IBM Plex Mono', 'Courier New', monospace;
   --serif:     'Georgia', 'Times New Roman', serif;
-  --sans:      -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --sans:      "Segoe UI", system-ui, -apple-system, sans-serif;
 }
 
 /* ── Reset scoped to this page ──────────────────────────────── */
@@ -87,7 +89,7 @@
 
 /* ── Masthead ───────────────────────────────────────────────── */
 .sr-masthead {
-  border-bottom: 2px solid var(--ink);
+  border-bottom: 2px solid var(--primary);
   padding: 1rem 0 0.75rem;
   text-align: center;
 }
@@ -162,8 +164,8 @@
 
 /* ── Forecast disagreement callout (the hook) ───────────────── */
 .sr-hook {
-  background: var(--ink);
-  color: #f7f5f0;
+  background: var(--primary);
+  color: #e2e8f0;
   padding: 2.5rem 1.5rem;
   text-align: center;
 }
@@ -176,7 +178,7 @@
   font-size: 0.65rem;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: #888;
+  color: rgba(255,255,255,0.45);
   margin-bottom: 1.25rem;
 }
 .sr-hook .hook-stat {
@@ -187,12 +189,12 @@
   margin-bottom: 1rem;
 }
 .sr-hook .hook-stat em {
-  color: #e8a09a;
+  color: #f6c90e;
   font-style: normal;
 }
 .sr-hook .hook-body {
   font-size: 0.95rem;
-  color: #aaa;
+  color: rgba(255,255,255,0.65);
   max-width: 560px;
   margin: 0 auto;
   line-height: 1.7;
@@ -269,8 +271,8 @@
 /* ── Free exhibit preview ───────────────────────────────────── */
 .sr-exhibit {
   background: var(--paper-alt);
-  border-top: 2px solid var(--ink);
-  border-bottom: 2px solid var(--ink);
+  border-top: 2px solid var(--primary);
+  border-bottom: 2px solid var(--primary);
   padding: 2.5rem 1.5rem;
 }
 .sr-exhibit-inner {
@@ -320,7 +322,7 @@
 }
 .bar-track {
   flex: 1;
-  background: #ddd8cf;
+  background: #dde3ec;
   height: 32px;
   border-radius: 2px;
   position: relative;
@@ -334,15 +336,15 @@
   padding-left: 0.5rem;
   transition: width 0.8s ease;
 }
-.bar-fill.hist  { background: #4a4a4a; }
+.bar-fill.hist  { background: var(--primary); }
 .bar-fill.fcast { background: var(--accent); }
 .bar-fill.range {
   background: repeating-linear-gradient(
     45deg,
-    rgba(200,57,43,0.25) 0px,
-    rgba(200,57,43,0.25) 4px,
-    rgba(200,57,43,0.08) 4px,
-    rgba(200,57,43,0.08) 8px
+    rgba(232,69,69,0.22) 0px,
+    rgba(232,69,69,0.22) 4px,
+    rgba(232,69,69,0.06) 4px,
+    rgba(232,69,69,0.06) 8px
   );
   border: 1.5px dashed var(--accent);
 }
@@ -425,7 +427,7 @@
   content: 'Register to read';
   position: absolute;
   inset: 0;
-  background: rgba(247,245,240,0.88);
+  background: rgba(237,242,247,0.88);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -463,8 +465,8 @@
 
 /* ── Registration gate ──────────────────────────────────────── */
 .sr-gate {
-  background: var(--ink);
-  color: #f7f5f0;
+  background: var(--primary);
+  color: #e2e8f0;
   padding: 3.5rem 1.5rem;
 }
 .sr-gate-inner {
@@ -481,7 +483,7 @@
 }
 .sr-gate .gate-sub {
   font-size: 0.95rem;
-  color: #999;
+  color: rgba(255,255,255,0.65);
   margin-bottom: 2rem;
   line-height: 1.65;
 }
@@ -495,13 +497,13 @@
   align-items: flex-start;
   gap: 0.65rem;
   font-size: 0.9rem;
-  color: #ccc;
+  color: rgba(255,255,255,0.8);
   padding: 0.4rem 0;
-  border-bottom: 1px solid #2a2a2a;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
 }
 .gate-bullets li:last-child { border-bottom: none; }
 .gate-bullets .bullet-icon {
-  color: var(--accent);
+  color: #f6c90e;
   font-family: var(--mono);
   font-size: 0.75rem;
   margin-top: 0.15rem;
@@ -512,9 +514,9 @@
 #gateForm input,
 #gateForm select {
   width: 100%;
-  background: #1a1a1a;
-  border: 1px solid #333;
-  color: #f7f5f0;
+  background: #fff;
+  border: 1px solid #dde3ec;
+  color: #2d3748;
   padding: 0.7rem 0.85rem;
   font-size: 0.95rem;
   border-radius: 3px;
@@ -522,13 +524,14 @@
   transition: border-color 0.2s;
   margin-bottom: 0.75rem;
 }
-#gateForm input::placeholder { color: #555; }
+#gateForm input::placeholder { color: #a0aec0; }
 #gateForm input:focus,
 #gateForm select:focus {
   outline: none;
-  border-color: #666;
+  border-color: #90cdf4;
+  box-shadow: 0 0 0 2px rgba(26,58,92,0.12);
 }
-#gateForm select option { background: #1a1a1a; }
+#gateForm select option { background: #fff; color: #2d3748; }
 .interest-row {
   display: flex;
   flex-wrap: wrap;
@@ -540,17 +543,18 @@
   align-items: center;
   gap: 0.3rem;
   padding: 0.3rem 0.65rem;
-  border: 1px solid #333;
+  border: 1px solid rgba(255,255,255,0.25);
   border-radius: 2px;
   font-size: 0.8rem;
-  color: #999;
+  color: rgba(255,255,255,0.65);
   cursor: pointer;
-  transition: border-color 0.15s, color 0.15s;
+  transition: border-color 0.15s, color 0.15s, background 0.15s;
   font-family: var(--sans);
 }
 .int-chip:has(input:checked) {
-  border-color: var(--accent);
-  color: #f7f5f0;
+  border-color: #f6c90e;
+  color: #f6c90e;
+  background: rgba(246,201,14,0.1);
 }
 .int-chip input { display: none; }
 .gate-btn {
@@ -567,11 +571,11 @@
   transition: background 0.2s;
   font-family: var(--sans);
 }
-.gate-btn:hover { background: #a82d22; }
-.gate-btn:disabled { background: #555; cursor: not-allowed; }
+.gate-btn:hover { background: #c53030; }
+.gate-btn:disabled { background: rgba(255,255,255,0.25); cursor: not-allowed; }
 .gate-note {
   font-size: 0.78rem;
-  color: #555;
+  color: rgba(255,255,255,0.4);
   text-align: center;
   margin-top: 0.75rem;
   font-family: var(--mono);
@@ -583,11 +587,11 @@
   font-size: 0.9rem;
   display: none;
 }
-.gate-status.success { background: #0d2e16; color: #5fcc7e; display: block; }
-.gate-status.error   { background: #2e0d0d; color: #e88; display: block; }
+.gate-status.success { background: rgba(16,128,60,0.25); color: #6ee7a0; display: block; border: 1px solid rgba(110,231,160,0.3); }
+.gate-status.error   { background: rgba(200,40,40,0.25); color: #fca5a5; display: block; border: 1px solid rgba(252,165,165,0.3); }
 .field-err {
   font-size: 0.78rem;
-  color: #e88;
+  color: #fca5a5;
   margin-top: -0.5rem;
   margin-bottom: 0.5rem;
   display: block;
@@ -611,7 +615,7 @@
   margin-bottom: 0.5rem;
 }
 #downloadConfirm p {
-  color: #999;
+  color: rgba(255,255,255,0.65);
   font-size: 0.9rem;
   margin-bottom: 1.5rem;
 }
@@ -628,7 +632,7 @@
   font-size: 0.95rem;
   transition: background 0.2s;
 }
-.dl-btn:hover { background: #a82d22; }
+.dl-btn:hover { background: #c53030; }
 .dl-btn svg { flex-shrink: 0; }
 
 /* ── Honeypot ───────────────────────────────────────────────── */
