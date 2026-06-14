@@ -1,0 +1,21 @@
+name: Deploy ATF Registration Worker
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'workers/atf-registration-worker/**'
+  workflow_dispatch:   # allow manual trigger from GitHub Actions tab
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    name: Deploy to Cloudflare Workers
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Deploy Worker
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+          workingDirectory: workers/atf-registration-worker

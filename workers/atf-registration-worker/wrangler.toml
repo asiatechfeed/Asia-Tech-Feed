@@ -1,0 +1,12 @@
+name       = "atf-registration-worker"
+main       = "worker.js"
+compatibility_date = "2024-01-01"
+
+# ── D1 binding ──────────────────────────────────────────────────────────────────
+[[d1_databases]]
+binding     = "DB"
+database_name = "atf-registrations"
+database_id   = "de962751-3c14-4295-9e15-ae1f55ee9974"
+
+# ── Optional: set ADMIN_SECRET via `wrangler secret put ADMIN_SECRET` ──────────
+# Or add it in the Cloudflare dashboard → Workers → atf-registration-worker → Settings → Variables
