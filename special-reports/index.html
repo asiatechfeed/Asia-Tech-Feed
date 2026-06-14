@@ -302,6 +302,44 @@ html.dark .confidence-tag.medium { background: #2d2506; color: #fde047; }
   flex-shrink: 0;
 }
 
+/* ── Chapter preview tooltip ─────────────────────────────────── */
+.ch-preview-wrap {
+  position: relative;
+  cursor: default;
+}
+.ch-preview-tip {
+  display: none;
+  position: absolute;
+  right: 0;
+  top: calc(100% + 10px);
+  width: 300px;
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--primary);
+  border-radius: 4px;
+  padding: 1rem 1.1rem;
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  font-weight: normal;
+  color: var(--ink);
+  line-height: 1.65;
+  letter-spacing: 0;
+  text-transform: none;
+  text-align: left;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+  z-index: 50;
+}
+.ch-preview-tip strong {
+  display: block;
+  font-size: 0.7rem;
+  font-family: var(--mono);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  margin-bottom: 0.5rem;
+}
+.ch-preview-wrap:hover .ch-preview-tip { display: block; }
+
 /* ── Free exhibit preview ───────────────────────────────────── */
 .sr-exhibit {
   background: var(--paper-alt);
@@ -730,7 +768,12 @@ html.dark .confidence-tag.medium { background: #2d2506; color: #fde047; }
           <div class="ch-title">The Trillion-Dollar Reset</div>
           <div class="ch-sub">Sizing 2026–27 — and why the two most-watched forecasters are $200B apart</div>
         </div>
-        <span class="ch-open">Preview ↓</span>
+        <span class="ch-open ch-preview-wrap">Preview ↓
+          <div class="ch-preview-tip">
+            <strong>Abstract</strong>
+            The global semiconductor market is on course to cross $1 trillion in 2026 — but Gartner and WSTS disagree on the final number by more than $200 billion. This chapter sizes the 2026–27 opportunity, explains why the forecasting gap exists, and identifies which product categories carry the variance. It sets the baseline all subsequent chapters build on.
+          </div>
+        </span>
       </li>
       <li>
         <span class="ch-num">02</span>
