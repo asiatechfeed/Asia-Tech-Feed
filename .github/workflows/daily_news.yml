@@ -123,3 +123,21 @@ jobs:
           publish_dir: ./_site
           publish_branch: gh-pages
           commit_message: "🚀 Deploy digest ${{ steps.run_scraper.outputs.digest_date }} (${{ steps.run_scraper.outputs.article_count }} articles)"
+
+      # ── 9. Site health check ─────────────────────────────────────────────
+      - name: Verify site is live (HTTP 200)
+        if: steps.run_scraper.outputs.has_articles == 'true'
+        run: |
+          echo "⏳ Waiting 30s for Cloudflare to propagate..."
+          sleep 30
+          TIMESTAMP=$(date -u "+%Y-%m-%d %H:%M:%S UTC")
+          STATUS=$(curl -o /dev/null -s -w "%{http_code}" --max-time 15 https://asiatechfeed.com)
+          echo "🕐 Timestamp : $TIMESTAMP"
+          echo "🌐 URL       : https://asiatechfeed.com"
+          echo "📊 HTTP Status: $STATUS"
+          if [ "$STATUS" = "200" ]; then
+            echo "✅ Site is live and responding normally."
+          else
+            echo "❌ Unexpected status code: $STATUS"
+            exit 1
+          fi
