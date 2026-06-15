@@ -1,38 +1,39 @@
 {
-  "date": "2026-06-14",
-  "count": 11,
+  "date": "2026-06-15",
+  "count": 12,
   "sources": [
+    "CNA",
     "DigiTimes",
     "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-06-14-asia-tech-news-digest.md",
+  "post_file": "2026-06-15-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Amazon to expand warehouse automation in India",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/amazon-plans-33b-cloud-ai-investment-in-southeast-asia"
-    },
-    {
-      "title": "Chinese AI chipmaker MetaX eyes Hong Kong listing",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinese-chipmakers-race-ipos-listing-surge"
-    },
-    {
-      "title": "Anthropic shares fall as US orders AI model suspension",
+      "title": "European Commission reviews impact of Anthropic curbs",
       "source": "TechAsia",
       "url": "https://www.techinasia.com/anthropic-expand-glasswing-150-partners"
     },
     {
-      "title": "Anthropic is complying with a government order to pull its top AI models \u2014 and says the rationale is wrong",
+      "title": "LG Innotek's Vietnam substrate investment plan comes as FC-BGA demand broadens",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260613VL201/government-anthropic.html"
+      "url": "https://www.digitimes.com/news/a20260611VL221/lg-innotek-substrate-demand-fc-bga-equipment.html"
     },
     {
-      "title": "Samsung to review strategy as memory boom pressures devices",
+      "title": "India roundup: Meta-Reliance AI data centers, Anthropic-TCS tie-up, EV expansion, Starlink delay and supply chain shifts",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260612VL213/samsung-business-demand-market-2028.html"
+      "url": "https://www.digitimes.com/news/a20260612VL211/reliance-starlink-anthropic-expansion-meta.html"
+    },
+    {
+      "title": "Fortune Electric sees export-led growth as global AI power demand tightens transformer supply",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260612PD224/fortune-electric-power-components-demand-growth-2026.html"
+    },
+    {
+      "title": "The rise of the AI \u2018token economy\u2019 and China\u2019s big bet on scale",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/ai-tokens-token-economy-china-6159196"
     }
   ]
 }
