@@ -1,36 +1,59 @@
 [
   {
     "date": "2026-06-16",
-    "title": "Microsoft sued by shareholders over expenses, cloud business, AI",
-    "summary": "Microsoft sued by shareholders over expenses, cloud business, AI",
+    "title": "China's cheaper AI tokens a double-edged sword for Asian businesses",
+    "summary": "In the second of a two-part series on AI tokens, CNA explores how lower-cost Chinese models are emerging as an attractive option across businesses in Asia, even as experts warn that price is only one part of the equation.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/microsoft-sued-shareholders-over-expenses-cloud-business-ai-6185056"
+    "url": "https://www.channelnewsasia.com/asia/china-ai-tokens-asia-business-us-models-6176061"
   },
   {
     "date": "2026-06-16",
-    "title": "SAP says human-in-the-loop review is key to moving enterprise AI agents from POC to production",
-    "summary": "SAP reported that enterprise AI agents are shifting from proof of concept to real-world deployment as companies aim to embed generative AI into operational workflows such as finance and supply chain management rather than limiting it to chat and summarization tools. The firm said many AI applications reached about 80% ",
+    "title": "Commentary: Why the US government shut down Anthropic’s latest Claude AI model",
+    "summary": "After realising the power of frontier AI models, the US administration has shifted away from an initial hands-off posture, says this academic.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/anthropic-claude-ai-model-fable5-mythos5-shut-down-6184146"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "Yaskawa eyes physical AI boom with JPY25 billion capex",
+    "summary": "Yaskawa Electric is betting heavily on physical AI, the field that enables robots to operate autonomously, as it positions itself for a boom in AI robots. Since starting work with Nvidia in 2023, the company has completed proof-of-concept tests with more than 100 companies and is now seeking an effective commercial mod",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260615PD230/yaskawa-industrial-ai-robot.html"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "Apple leans on Google Cloud and Nvidia GPUs in a pragmatic AI reset",
+    "summary": "After Apple's WWDC 2026 keynote, online rumors claimed that only premium devices with 12GB of memory could run on-device AI, but DIGITIMES analyst Luke Lin said on a podcast that that was just Apple's messaging. Most on-device AI features only need 8GB of memory; only the Apple-defined advanced on-device AI requires th",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260615PD202/ai-data-finance-production-supply-chain.html"
+    "url": "https://www.digitimes.com/news/a20260615PD233/apple-on-device-ai-gpu-wwdc-2026.html"
   },
   {
     "date": "2026-06-16",
-    "title": "Samsung foundry chief sees 2028 profit path as bonus costs mount",
-    "summary": "Samsung Electronics' foundry division chief told employees on June 12 that a return to profitability in the contract chipmaking business looks difficult next year, with 2028 emerging as a more likely timeline, Yonhap , ZDNet Korea, and Chosun reported.",
+    "title": "Rapidus signs UK chip pact in push for 2nm customers",
+    "summary": "Japan's Rapidus has signed a memorandum of understanding with the UK Semiconductor Centre, a government-backed body established in 2025 to support Britain's semiconductor ecosystem, marking a step toward cooperation on future semiconductor manufacturing and potential customer development in the UK, according to Rapidus",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Electronics"
+      "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260615VL205/samsung-foundry-fab-business-profit-2028.html"
+    "url": "https://www.digitimes.com/news/a20260615VL206/uk-rapidus-mou-production-semiconductors.html"
   },
   {
     "date": "2026-06-16",
@@ -53,17 +76,6 @@
       "AI"
     ],
     "url": "https://www.techinasia.com/israeli-ai-security-startup-nanoclaw-raises-12m-seed"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "Micron CEO turns visa rejection into US$1 trillion milestone",
-    "summary": "Nvidia CEO Jensen Huang's recent trip to South Korea put the spotlight on the rivalry between Samsung Electronics and SK Hynix, while memory giant Micron crossed the US$1 trillion market-cap mark for the first time. That shift has also drawn global attention to Micron CEO Sanjay Mehrotra, whose rise began with a string",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260615PD221/micron-ceo-data-storage.html"
   },
   {
     "date": "2026-06-16",
@@ -100,6 +112,17 @@
   },
   {
     "date": "2026-06-16",
+    "title": "Foxconn, Schneider Electric team up in AI data center equipment",
+    "summary": "Foxconn, Schneider Electric team up in AI data center equipment",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/foxconn-schneider-electric-team-up-in-ai-data-center-equipment"
+  },
+  {
+    "date": "2026-06-16",
     "title": "JX Advanced Metals to raise optical chip wafer capacity for AI data centers",
     "summary": "JX Advanced Metals to raise optical chip wafer capacity for AI data centers",
     "source": "Nikkei Asia",
@@ -119,17 +142,6 @@
       "AI"
     ],
     "url": "https://asia.nikkei.com/business/business-trends/pakistani-gig-workers-exports-to-hit-record-high-but-ai-threats-loom"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "Zhipu soars and Minimax stumbles as China's AI stocks diverge",
-    "summary": "Zhipu soars and Minimax stumbles as China's AI stocks diverge",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/zhipu-soars-and-minimax-stumbles-as-china-s-ai-stocks-diverge"
   },
   {
     "date": "2026-06-16",
