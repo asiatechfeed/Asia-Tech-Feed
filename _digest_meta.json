@@ -1,40 +1,39 @@
 {
-  "date": "2026-06-16",
-  "count": 16,
+  "date": "2026-06-17",
+  "count": 15,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
     "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-06-16-asia-tech-news-digest.md",
+  "post_file": "2026-06-17-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "China's cheaper AI tokens a double-edged sword for Asian businesses",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/china-ai-tokens-asia-business-us-models-6176061"
-    },
-    {
-      "title": "Commentary: Why the US government shut down Anthropic\u2019s latest Claude AI model",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/anthropic-claude-ai-model-fable5-mythos5-shut-down-6184146"
-    },
-    {
-      "title": "Yaskawa eyes physical AI boom with JPY25 billion capex",
+      "title": "Nvidia sells US$25 billion in bonds as investors seek foothold in AI boom",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260615PD230/yaskawa-industrial-ai-robot.html"
+      "url": "https://www.digitimes.com/news/a20260616VL218/nvidia-funding-investment-ai.html"
     },
     {
-      "title": "Apple leans on Google Cloud and Nvidia GPUs in a pragmatic AI reset",
+      "title": "ASML, TSMC, and imec move 2D transistors closer to manufacturing reality",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260615PD233/apple-on-device-ai-gpu-wwdc-2026.html"
+      "url": "https://www.digitimes.com/news/a20260616VL216/tsmc-asml-imec-transistor-manufacturing-materials.html"
     },
     {
-      "title": "Rapidus signs UK chip pact in push for 2nm customers",
+      "title": "Series SEA: Who\u2019s investing in the region\u2019s AI startups?",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/top-sea-investors-ai"
+    },
+    {
+      "title": "AI chip race sends semiconductor equipment sales to record US$36.55 billion",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260615VL206/uk-rapidus-mou-production-semiconductors.html"
+      "url": "https://www.digitimes.com/news/a20260616VL217/ai-chip-semiconductors-equipment-investment-manufacturing-packaging.html"
+    },
+    {
+      "title": "Qualcomm in talks to buy Tenstorrent for up to $10b",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/qualcomm-ceo-predicts-2026-will-be-year-of-ai-agents"
     }
   ]
 }

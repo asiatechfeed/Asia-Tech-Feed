@@ -1,5 +1,170 @@
 [
   {
+    "date": "2026-06-17",
+    "title": "Nvidia sells US$25 billion in bonds as investors seek foothold in AI boom",
+    "summary": "Nvidia launched a sale of US$25 billion worth of high-grade bonds on June 15, ultimately garnering up to US$85 billion in orders, or more than triple the bond's original size. This is one of several debt offerings this year from tech giants, which are responding to investor excitement and a need for cash to capitalize ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260616VL218/nvidia-funding-investment-ai.html"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "ASML, TSMC, and imec move 2D transistors closer to manufacturing reality",
+    "summary": "ASML, TSMC, and imec have demonstrated a major advance in the effort to bring two-dimensional (2D) semiconductor materials from research laboratories into high-volume semiconductor manufacturing. At the 2026 IEEE/JSAP Symposium on VLSI Technology and Circuits, the partners unveiled a 300mm wafer integration flow that p",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260616VL216/tsmc-asml-imec-transistor-manufacturing-materials.html"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Series SEA: Who’s investing in the region’s AI startups?",
+    "summary": "We've compiled a list of investors that are pouring money into Southeast Asia’s AI startups.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/top-sea-investors-ai"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "AI chip race sends semiconductor equipment sales to record US$36.55 billion",
+    "summary": "Global semiconductor manufacturing equipment sales reached a record US$36.55 billion in the first quarter of 2026, driven by AI-related investment in advanced logic, DRAM, and advanced packaging capacity, according to the latest Worldwide Semiconductor Equipment Market Statistics report from SEMI.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260616VL217/ai-chip-semiconductors-equipment-investment-manufacturing-packaging.html"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Qualcomm in talks to buy Tenstorrent for up to $10b",
+    "summary": "Tenstorrent, a US- and Canada-based AI chip startup founded in 2016, is led by Jim Keller.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/qualcomm-ceo-predicts-2026-will-be-year-of-ai-agents"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Cerebras builds gigantic AI chips. Can SEA get its hands on them?",
+    "summary": "Cerebras has built a chip it claims is made for AI but says the path to getting those chips to SEA runs through export rules and, for now, the cloud.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/cerebras-builds-gigantic-ai-chips-sea-hands"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Infineon Highlights USB Advances for AI PCs, Embedded Vision, and Edge Computing",
+    "summary": "USB connectivity innovations address growing bandwidth, latency, and signal integrity demands across AI-driven applications. The post Infineon Highlights USB Advances for AI PCs, Embedded Vision, and Edge Computing appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/infineon-highlights-usb-advances-for-ai-pcs-embedded-vision-and-edge-computing/"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development",
+    "summary": "Expanded multi-year collaboration combines AI-driven design tools and process technology to optimize future semiconductor designs. The post Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/cadence-intel-foundry-expand-partnership-for-intel-14a-process-development/"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Semiconductor Market Surpasses $300B Quarterly Revenue in 1Q 2026",
+    "summary": "Memory supply/demand imbalances continue to be among the leading trends in the semiconductor market, according to Omdia. The post Semiconductor Market Surpasses $300B Quarterly Revenue in 1Q 2026 appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/semiconductor-market-surpasses-300b-quarterly-revenue-in-1q-2026/"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Japan ride-hailing app Go races toward robotaxis after successful IPO",
+    "summary": "Japan ride-hailing app Go races toward robotaxis after successful IPO",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://asia.nikkei.com/business/markets/ipo/japan-ride-hailing-app-go-races-toward-robotaxis-after-successful-ipo"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Foxconn, Schneider Electric team up in AI data center equipment",
+    "summary": "Foxconn, Schneider Electric team up in AI data center equipment",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/foxconn-schneider-electric-team-up-in-ai-data-center-equipment"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "JX Advanced Metals to raise optical chip wafer capacity for AI data centers",
+    "summary": "JX Advanced Metals to raise optical chip wafer capacity for AI data centers",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/spotlight/supply-chain/jx-advanced-metals-to-raise-optical-chip-wafer-capacity-for-ai-data-centers"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
+    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "No career ambition, no ego: AI plays devil's advocate at Audax Private Equity",
+    "summary": "Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/private-equity/newsView/ked202603120002"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate",
+    "summary": "EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "Biotechnology"
+    ],
+    "url": "https://www.kedglobal.com/bio-pharma/newsView/ked202603100001"
+  },
+  {
     "date": "2026-06-16",
     "title": "China's cheaper AI tokens a double-edged sword for Asian businesses",
     "summary": "In the second of a two-part series on AI tokens, CNA explores how lower-cost Chinese models are emerging as an attractive option across businesses in Asia, even as experts warn that price is only one part of the equation.",
