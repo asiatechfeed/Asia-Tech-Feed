@@ -1,4 +1,137 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asia-tech-feed.pages.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asia-tech-feed.pages.dev/" rel="alternate" type="text/html" /><updated>2026-06-16T00:05:19+00:00</updated><id>https://asia-tech-feed.pages.dev/feed.xml</id><title type="html">Asia Tech News Feed</title><subtitle>Daily Asia news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - June 16, 2026</title><link href="https://asia-tech-feed.pages.dev/2026/06/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 16, 2026" /><published>2026-06-16T00:04:10+00:00</published><updated>2026-06-16T00:04:10+00:00</updated><id>https://asia-tech-feed.pages.dev/2026/06/16/asia-tech-news-digest</id><content type="html" xml:base="https://asia-tech-feed.pages.dev/2026/06/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asia-tech-feed.pages.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asia-tech-feed.pages.dev/" rel="alternate" type="text/html" /><updated>2026-06-16T18:21:21+00:00</updated><id>https://asia-tech-feed.pages.dev/feed.xml</id><title type="html">Asia Tech News Feed</title><subtitle>Daily Asia news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - June 17, 2026</title><link href="https://asia-tech-feed.pages.dev/2026/06/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 17, 2026" /><published>2026-06-16T18:19:55+00:00</published><updated>2026-06-16T18:19:55+00:00</updated><id>https://asia-tech-feed.pages.dev/2026/06/16/asia-tech-news-digest</id><content type="html" xml:base="https://asia-tech-feed.pages.dev/2026/06/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Nvidia sells US$25 billion in bonds as investors seek foothold in AI boom</span></td>
+  <td class="col-summary">Nvidia launched a sale of US$25 billion worth of high-grade bonds on June 15, ultimately garnering up to US$85 billion in orders, or more than triple the bond's original size. This is one of several debt offerings this year from tech giants, which are responding to investor excitement and a need for cash to capitalize </td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260616VL218/nvidia-funding-investment-ai.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">ASML, TSMC, and imec move 2D transistors closer to manufacturing reality</span></td>
+  <td class="col-summary">ASML, TSMC, and imec have demonstrated a major advance in the effort to bring two-dimensional (2D) semiconductor materials from research laboratories into high-volume semiconductor manufacturing. At the 2026 IEEE/JSAP Symposium on VLSI Technology and Circuits, the partners unveiled a 300mm wafer integration flow that p</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260616VL216/tsmc-asml-imec-transistor-manufacturing-materials.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Series SEA: Who’s investing in the region’s AI startups?</span></td>
+  <td class="col-summary">We've compiled a list of investors that are pouring money into Southeast Asia’s AI startups.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/top-sea-investors-ai" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">AI chip race sends semiconductor equipment sales to record US$36.55 billion</span></td>
+  <td class="col-summary">Global semiconductor manufacturing equipment sales reached a record US$36.55 billion in the first quarter of 2026, driven by AI-related investment in advanced logic, DRAM, and advanced packaging capacity, according to the latest Worldwide Semiconductor Equipment Market Statistics report from SEMI.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260616VL217/ai-chip-semiconductors-equipment-investment-manufacturing-packaging.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Qualcomm in talks to buy Tenstorrent for up to $10b</span></td>
+  <td class="col-summary">Tenstorrent, a US- and Canada-based AI chip startup founded in 2016, is led by Jim Keller.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/qualcomm-ceo-predicts-2026-will-be-year-of-ai-agents" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Cerebras builds gigantic AI chips. Can SEA get its hands on them?</span></td>
+  <td class="col-summary">Cerebras has built a chip it claims is made for AI but says the path to getting those chips to SEA runs through export rules and, for now, the cloud.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/cerebras-builds-gigantic-ai-chips-sea-hands" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Infineon Highlights USB Advances for AI PCs, Embedded Vision, and Edge Computing</span></td>
+  <td class="col-summary">USB connectivity innovations address growing bandwidth, latency, and signal integrity demands across AI-driven applications. The post Infineon Highlights USB Advances for AI PCs, Embedded Vision, and Edge Computing appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/infineon-highlights-usb-advances-for-ai-pcs-embedded-vision-and-edge-computing/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development</span></td>
+  <td class="col-summary">Expanded multi-year collaboration combines AI-driven design tools and process technology to optimize future semiconductor designs. The post Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/cadence-intel-foundry-expand-partnership-for-intel-14a-process-development/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Semiconductor Market Surpasses $300B Quarterly Revenue in 1Q 2026</span></td>
+  <td class="col-summary">Memory supply/demand imbalances continue to be among the leading trends in the semiconductor market, according to Omdia. The post Semiconductor Market Surpasses $300B Quarterly Revenue in 1Q 2026 appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/semiconductor-market-surpasses-300b-quarterly-revenue-in-1q-2026/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan ride-hailing app Go races toward robotaxis after successful IPO</span></td>
+  <td class="col-summary">Japan ride-hailing app Go races toward robotaxis after successful IPO</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/ipo/japan-ride-hailing-app-go-races-toward-robotaxis-after-successful-ipo" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Foxconn, Schneider Electric team up in AI data center equipment</span></td>
+  <td class="col-summary">Foxconn, Schneider Electric team up in AI data center equipment</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/foxconn-schneider-electric-team-up-in-ai-data-center-equipment" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">JX Advanced Metals to raise optical chip wafer capacity for AI data centers</span></td>
+  <td class="col-summary">JX Advanced Metals to raise optical chip wafer capacity for AI data centers</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/supply-chain/jx-advanced-metals-to-raise-optical-chip-wafer-capacity-for-ai-data-centers" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">13</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">AI trade isn’t just about tech stocks but also power, TCW says</span></td>
+  <td class="col-summary">The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">14</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">No career ambition, no ego: AI plays devil's advocate at Audax Private Equity</span></td>
+  <td class="col-summary">Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">15</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate</span></td>
+  <td class="col-summary">EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease</td>
+  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/bio-pharma/newsView/ked202603100001" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Nvidia sells US$25 billion in bonds as investors seek foothold in AI boom Nvidia launched a sale of US$25 billion worth of high-grade bonds on June 15, ultimately garnering up to US$85 billion in orders, or more than triple the bond's original size. This is one of several debt offerings this year from tech giants, which are responding to investor excitement and a need for cash to capitalize AI Read 2 DigiTimes ASML, TSMC, and imec move 2D transistors closer to manufacturing reality ASML, TSMC, and imec have demonstrated a major advance in the effort to bring two-dimensional (2D) semiconductor materials from research laboratories into high-volume semiconductor manufacturing. At the 2026 IEEE/JSAP Symposium on VLSI Technology and Circuits, the partners unveiled a 300mm wafer integration flow that p Semiconductor Read 3 TechAsia Series SEA: Who’s investing in the region’s AI startups? We've compiled a list of investors that are pouring money into Southeast Asia’s AI startups. AI Read 4 DigiTimes AI chip race sends semiconductor equipment sales to record US$36.55 billion Global semiconductor manufacturing equipment sales reached a record US$36.55 billion in the first quarter of 2026, driven by AI-related investment in advanced logic, DRAM, and advanced packaging capacity, according to the latest Worldwide Semiconductor Equipment Market Statistics report from SEMI. Semiconductor Read 5 TechAsia Qualcomm in talks to buy Tenstorrent for up to $10b Tenstorrent, a US- and Canada-based AI chip startup founded in 2016, is led by Jim Keller. AI Read 6 TechAsia Cerebras builds gigantic AI chips. Can SEA get its hands on them? Cerebras has built a chip it claims is made for AI but says the path to getting those chips to SEA runs through export rules and, for now, the cloud. AI Read 7 EETAsia Infineon Highlights USB Advances for AI PCs, Embedded Vision, and Edge Computing USB connectivity innovations address growing bandwidth, latency, and signal integrity demands across AI-driven applications. The post Infineon Highlights USB Advances for AI PCs, Embedded Vision, and Edge Computing appeared first on EE Times Asia . AI Read 8 EETAsia Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development Expanded multi-year collaboration combines AI-driven design tools and process technology to optimize future semiconductor designs. The post Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development appeared first on EE Times Asia . Semiconductor Read 9 EETAsia Semiconductor Market Surpasses $300B Quarterly Revenue in 1Q 2026 Memory supply/demand imbalances continue to be among the leading trends in the semiconductor market, according to Omdia. The post Semiconductor Market Surpasses $300B Quarterly Revenue in 1Q 2026 appeared first on EE Times Asia . Semiconductor Read 10 NikkeiAsia Japan ride-hailing app Go races toward robotaxis after successful IPO Japan ride-hailing app Go races toward robotaxis after successful IPO Automation Read 11 NikkeiAsia Foxconn, Schneider Electric team up in AI data center equipment Foxconn, Schneider Electric team up in AI data center equipment AI Read 12 NikkeiAsia JX Advanced Metals to raise optical chip wafer capacity for AI data centers JX Advanced Metals to raise optical chip wafer capacity for AI data centers AI Read 13 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun AI Read 14 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass AI Read 15 KED EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease Biotechnology Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - June 16, 2026</title><link href="https://asia-tech-feed.pages.dev/2026/06/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 16, 2026" /><published>2026-06-16T00:04:10+00:00</published><updated>2026-06-16T00:04:10+00:00</updated><id>https://asia-tech-feed.pages.dev/2026/06/16/asia-tech-news-digest</id><content type="html" xml:base="https://asia-tech-feed.pages.dev/2026/06/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -1259,161 +1392,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Amazon, Corning sign multi-billion-dollar deal to boost fiber optics manufacturing in US Amazon, Corning sign multi-billion-dollar deal to boost fiber optics manufacturing in US manufacturing Read 2 CNA Alphabet taps Intel to make three million in-house chips, The Information reports Alphabet taps Intel to make three million in-house chips, The Information reports chip Read 3 CNA UK sets out $1.5 billion AI hardware plan with supercomputer, chip funding UK sets out $1.5 billion AI hardware plan with supercomputer, chip funding ai chip Read 4 EW Nidec debuts highest capacity in-rack cooling prototype At Interop Tokyo 2026, Nidec will introduce a prototype in-rack CDU (coolant distribution unit) with a cooling capacity of up to 300kW. The CDU is designed to manage the thermal ... The post Nidec debuts highest capacity in-rack cooling prototype appeared first on Electronics Weekly . electronics Read 5 TechAsia Naver, Samsung SDS join South Korea’s AI project The deployment will include 2,016 next-generation Vera Rubin units and 7,688 B300 units. ai Read 6 TechAsia Doosan expands Nvidia partnership into AI factories The expanded cooperation will cover AI factory power infrastructure, compact equipment, and semiconductor materials. semiconductor ai Read 7 TechAsia Ares-backed SG chip firm Silicon Box raises $77.5m The Singapore-based semiconductor packaging company also said the facility includes an option to increase financing by another US$75 million. semiconductorchip Read 8 EETAsia Semiconductor Equipment Billings Jump 14% YoY in 1Q 2026 Record quarterly billings were driven by continued AI-related investment, including capacity expansion and technology upgrades supporting leading-edge logic, DRAM, and advanced packaging. The post Semiconductor Equipment Billings Jump 14% YoY in 1Q 2026 appeared first on EE Times Asia . semiconductortechnology Read 9 EETAsia Micron, MetAI Build SimReady Fab Twins on NVIDIA Omniverse for Semiconductor Physical AI Collaboration creates simulation-ready semiconductor fab environments to support digital twins, automation, and AI-driven operations. The post Micron, MetAI Build SimReady Fab Twins on NVIDIA Omniverse for Semiconductor Physical AI appeared first on EE Times Asia . semiconductor ai automation Read 10 EETAsia Longsys Unveils Edge AI Storage Portfolio at COMPUTEX 2026 Longsys introduced edge AI storage technologies designed to improve local LLM performance across devices globally. The post Longsys Unveils Edge AI Storage Portfolio at COMPUTEX 2026 appeared first on EE Times Asia . ai Read 11 DigiTimes Semiconductors Semiconductors semiconductor Read 12 DigiTimes SK Hynix speeds Yongin fab buildout as memory crunch fuels capacity race SK Hynix speeds Yongin fab buildout as memory crunch fuels capacity race fab Read 13 DigiTimes AMD's 2nm defection to Samsung dents TSMC's AI grip AMD's 2nm defection to Samsung dents TSMC's AI grip ai Read 14 NikkeiAsia Lee sets sights beyond chips for South Korea's next growth wave Lee sets sights beyond chips for South Korea's next growth wave chip Read 15 NikkeiAsia Tin demand for AI servers to triple by 2030, analyst says Tin demand for AI servers to triple by 2030, analyst says ai Read 16 NikkeiAsia Frontier AI shock: Japan's analog layer offers a resilience lesson Frontier AI shock: Japan's analog layer offers a resilience lesson ai Read 17 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun technologyartificial intelligencechip Read 18 KED South Korean ETF issuers in space race to ride SpaceX IPO buzz South Korean asset managers are rushing to launch new exchange-traded funds tied to both established and emerging space technology companies, seeking technology Read 19 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass ai Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - June 07, 2026</title><link href="https://asia-tech-feed.pages.dev/2026/06/07/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 07, 2026" /><published>2026-06-07T05:29:33+00:00</published><updated>2026-06-07T05:29:33+00:00</updated><id>https://asia-tech-feed.pages.dev/2026/06/07/asia-tech-news-digest</id><content type="html" xml:base="https://asia-tech-feed.pages.dev/2026/06/07/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">LG Uplus targets $3.2b in AI data center orders</span></td>
-  <td class="col-summary">LG Uplus plans to use modular construction and hybrid cooling for its Paju AI data center.</td>
-    <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/google-in-talks-with-lg-uplus-for-s-korea-data-center-sources" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Huggy robots? Seriously</span></td>
-  <td class="col-summary">In picking this week’s top reads, we look at robots - lots of robots - and the impact of the corruption trials against tech execs in Indonesia.</td>
-    <td class="col-tags"><span class="tag ">robot</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/huggy-robots" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Union minister Goyal launches AI training center in Mumbai</span></td>
-  <td class="col-summary">Six AI training centres are being set up in North Mumbai, alongside a proposed AI Innovation Hub.</td>
-    <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/indias-venture-catalysts-secures-18m-share-sales" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: What if AI retraining is just a comforting lie?</span></td>
-  <td class="col-summary">If upskilling is being touted as the bridge to an AI future, it must lead somewhere, says Catherine Thorbecke for Bloomberg Opinion.</td>
-    <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/ai-layoffs-job-loss-upskill-reskill-tech-sector-6164066" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">SemiEng</span></td>
-  <td class="col-title"><span class="article-title">Accelerating Zero-Knowledge Proof Generation With Reconfigurable Hardware (KAIST)</span></td>
-  <td class="col-summary">Researchers from Korea Advanced Institute of Science and Technology (KAIST) have published “ZK-Flex: A Flexible and Scalable Framework for Accelerating Zero-Knowledge Proofs”. Abstract “Zero-knowledge proofs (ZKP) allows a prover to convince a verifier of computational correctness without revealing private data, ensuri</td>
-    <td class="col-tags"><span class="tag semi">semiconductor</span><span class="tag ">technology</span></td>
-  <td class="col-link"><a class="btn-link" href="https://semiengineering.com/accelerating-zero-knowledge-proof-generation-with-reconfigurable-hardware-kaist/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">SK Hynix to double output in five years</span></td>
-  <td class="col-summary">SK Hynix is to double its production capacity over the next five years, says chairman Chey Tae-won. The company has budgeted $67 billion between 2024 and 2028 to fund expansion. ... The post SK Hynix to double output in five years appeared first on Electronics Weekly .</td>
-    <td class="col-tags"><span class="tag semi">electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/sk-hynix-to-double-output-in-five-years-2026-06/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">HKUST Partners with CalmCar to Establish Physical AI Innovation Center</span></td>
-  <td class="col-summary">The center aims to build a new-generation physical AI technology foundation capable of understanding, predicting, reasoning, and decision-making. The post HKUST Partners with CalmCar to Establish Physical AI Innovation Center appeared first on EE Times Asia .</td>
-    <td class="col-tags"><span class="tag ">technology</span><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/hkust-partners-with-calmcar-to-establish-physical-ai-innovation-center/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">TWSE Highlights AI-driven Capital Growth and Semiconductor Leadership at COMPUTEX 2026</span></td>
-  <td class="col-summary">TWSE highlights AI-driven growth, semiconductor strength, and capital market momentum at COMPUTEX 2026. The post TWSE Highlights AI-driven Capital Growth and Semiconductor Leadership at COMPUTEX 2026 appeared first on EE Times Asia .</td>
-    <td class="col-tags"><span class="tag semi">semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/twse-highlights-ai-driven-capital-growth-and-semiconductor-leadership-at-computex-2026/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">MacDermid Alpha Enables Reliable Ultra-fine Feature Printing at Production Scale</span></td>
-  <td class="col-summary">MacDermid Alpha's ALPHA OM-377 is a no-clean solder paste engineered for ultra-fine feature printing in advanced electronics assemblies. The post MacDermid Alpha Enables Reliable Ultra-fine Feature Printing at Production Scale appeared first on EE Times Asia .</td>
-    <td class="col-tags"><span class="tag semi">electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/macdermid-alpha-enables-reliable-ultra-fine-feature-printing-at-production-scale/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Semiconductors</span></td>
-  <td class="col-summary">Semiconductors</td>
-    <td class="col-tags"><span class="tag semi">semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/topic/semiconductors/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SK Hynix speeds Yongin fab buildout as memory crunch fuels capacity race</span></td>
-  <td class="col-summary">SK Hynix speeds Yongin fab buildout as memory crunch fuels capacity race</td>
-    <td class="col-tags"><span class="tag ">fab</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260518VL210/sk-hynix-fab-capacity-demand-production.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AMD's 2nm defection to Samsung dents TSMC's AI grip</span></td>
-  <td class="col-summary">AMD's 2nm defection to Samsung dents TSMC's AI grip</td>
-    <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260511PD215/samsung-tsmc-amd-2nm-supply-chain.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">13</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Frontier AI shock: Japan's analog layer offers a resilience lesson</span></td>
-  <td class="col-summary">Frontier AI shock: Japan's analog layer offers a resilience lesson</td>
-    <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/opinion/frontier-ai-shock-japan-s-analog-layer-offers-a-resilience-lesson" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">14</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">World Cup tests Lenovo's ambitions to challenge AI champions</span></td>
-  <td class="col-summary">World Cup tests Lenovo's ambitions to challenge AI champions</td>
-    <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/big-in-asia/world-cup-tests-lenovo-s-ambitions-to-challenge-ai-champions" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">15</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Hitachi and Intel team up to optimize chip production with AI</span></td>
-  <td class="col-summary">Hitachi and Intel team up to optimize chip production with AI</td>
-    <td class="col-tags"><span class="tag "> ai </span><span class="tag ">chip</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/hitachi-and-intel-team-up-to-optimize-chip-production-with-ai2" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">16</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">AI trade isn’t just about tech stocks but also power, TCW says</span></td>
-  <td class="col-summary">The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun</td>
-    <td class="col-tags"><span class="tag ">technology</span><span class="tag ai">artificial intelligence</span><span class="tag ">chip</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">17</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">South Korean ETF issuers in space race to ride SpaceX IPO buzz</span></td>
-  <td class="col-summary">South Korean asset managers are rushing to launch new exchange-traded funds tied to both established and emerging space technology companies, seeking</td>
-    <td class="col-tags"><span class="tag ">technology</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/korean-stock-market/newsView/ked202604140004" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">18</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">No career ambition, no ego: AI plays devil's advocate at Audax Private Equity</span></td>
-  <td class="col-summary">Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass</td>
-    <td class="col-tags"><span class="tag "> ai </span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia LG Uplus targets $3.2b in AI data center orders LG Uplus plans to use modular construction and hybrid cooling for its Paju AI data center. ai Read 2 TechAsia Huggy robots? Seriously In picking this week’s top reads, we look at robots - lots of robots - and the impact of the corruption trials against tech execs in Indonesia. robot Read 3 TechAsia Union minister Goyal launches AI training center in Mumbai Six AI training centres are being set up in North Mumbai, alongside a proposed AI Innovation Hub. ai Read 4 CNA Commentary: What if AI retraining is just a comforting lie? If upskilling is being touted as the bridge to an AI future, it must lead somewhere, says Catherine Thorbecke for Bloomberg Opinion. ai Read 5 SemiEng Accelerating Zero-Knowledge Proof Generation With Reconfigurable Hardware (KAIST) Researchers from Korea Advanced Institute of Science and Technology (KAIST) have published “ZK-Flex: A Flexible and Scalable Framework for Accelerating Zero-Knowledge Proofs”. Abstract “Zero-knowledge proofs (ZKP) allows a prover to convince a verifier of computational correctness without revealing private data, ensuri semiconductortechnology Read 6 EW SK Hynix to double output in five years SK Hynix is to double its production capacity over the next five years, says chairman Chey Tae-won. The company has budgeted $67 billion between 2024 and 2028 to fund expansion. ... The post SK Hynix to double output in five years appeared first on Electronics Weekly . electronics Read 7 EETAsia HKUST Partners with CalmCar to Establish Physical AI Innovation Center The center aims to build a new-generation physical AI technology foundation capable of understanding, predicting, reasoning, and decision-making. The post HKUST Partners with CalmCar to Establish Physical AI Innovation Center appeared first on EE Times Asia . technology ai Read 8 EETAsia TWSE Highlights AI-driven Capital Growth and Semiconductor Leadership at COMPUTEX 2026 TWSE highlights AI-driven growth, semiconductor strength, and capital market momentum at COMPUTEX 2026. The post TWSE Highlights AI-driven Capital Growth and Semiconductor Leadership at COMPUTEX 2026 appeared first on EE Times Asia . semiconductor Read 9 EETAsia MacDermid Alpha Enables Reliable Ultra-fine Feature Printing at Production Scale MacDermid Alpha's ALPHA OM-377 is a no-clean solder paste engineered for ultra-fine feature printing in advanced electronics assemblies. The post MacDermid Alpha Enables Reliable Ultra-fine Feature Printing at Production Scale appeared first on EE Times Asia . electronics Read 10 DigiTimes Semiconductors Semiconductors semiconductor Read 11 DigiTimes SK Hynix speeds Yongin fab buildout as memory crunch fuels capacity race SK Hynix speeds Yongin fab buildout as memory crunch fuels capacity race fab Read 12 DigiTimes AMD's 2nm defection to Samsung dents TSMC's AI grip AMD's 2nm defection to Samsung dents TSMC's AI grip ai Read 13 NikkeiAsia Frontier AI shock: Japan's analog layer offers a resilience lesson Frontier AI shock: Japan's analog layer offers a resilience lesson ai Read 14 NikkeiAsia World Cup tests Lenovo's ambitions to challenge AI champions World Cup tests Lenovo's ambitions to challenge AI champions ai Read 15 NikkeiAsia Hitachi and Intel team up to optimize chip production with AI Hitachi and Intel team up to optimize chip production with AI ai chip Read 16 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun technologyartificial intelligencechip Read 17 KED South Korean ETF issuers in space race to ride SpaceX IPO buzz South Korean asset managers are rushing to launch new exchange-traded funds tied to both established and emerging space technology companies, seeking technology Read 18 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass ai Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Amazon, Corning sign multi-billion-dollar deal to boost fiber optics manufacturing in US Amazon, Corning sign multi-billion-dollar deal to boost fiber optics manufacturing in US manufacturing Read 2 CNA Alphabet taps Intel to make three million in-house chips, The Information reports Alphabet taps Intel to make three million in-house chips, The Information reports chip Read 3 CNA UK sets out $1.5 billion AI hardware plan with supercomputer, chip funding UK sets out $1.5 billion AI hardware plan with supercomputer, chip funding ai chip Read 4 EW Nidec debuts highest capacity in-rack cooling prototype At Interop Tokyo 2026, Nidec will introduce a prototype in-rack CDU (coolant distribution unit) with a cooling capacity of up to 300kW. The CDU is designed to manage the thermal ... The post Nidec debuts highest capacity in-rack cooling prototype appeared first on Electronics Weekly . electronics Read 5 TechAsia Naver, Samsung SDS join South Korea’s AI project The deployment will include 2,016 next-generation Vera Rubin units and 7,688 B300 units. ai Read 6 TechAsia Doosan expands Nvidia partnership into AI factories The expanded cooperation will cover AI factory power infrastructure, compact equipment, and semiconductor materials. semiconductor ai Read 7 TechAsia Ares-backed SG chip firm Silicon Box raises $77.5m The Singapore-based semiconductor packaging company also said the facility includes an option to increase financing by another US$75 million. semiconductorchip Read 8 EETAsia Semiconductor Equipment Billings Jump 14% YoY in 1Q 2026 Record quarterly billings were driven by continued AI-related investment, including capacity expansion and technology upgrades supporting leading-edge logic, DRAM, and advanced packaging. The post Semiconductor Equipment Billings Jump 14% YoY in 1Q 2026 appeared first on EE Times Asia . semiconductortechnology Read 9 EETAsia Micron, MetAI Build SimReady Fab Twins on NVIDIA Omniverse for Semiconductor Physical AI Collaboration creates simulation-ready semiconductor fab environments to support digital twins, automation, and AI-driven operations. The post Micron, MetAI Build SimReady Fab Twins on NVIDIA Omniverse for Semiconductor Physical AI appeared first on EE Times Asia . semiconductor ai automation Read 10 EETAsia Longsys Unveils Edge AI Storage Portfolio at COMPUTEX 2026 Longsys introduced edge AI storage technologies designed to improve local LLM performance across devices globally. The post Longsys Unveils Edge AI Storage Portfolio at COMPUTEX 2026 appeared first on EE Times Asia . ai Read 11 DigiTimes Semiconductors Semiconductors semiconductor Read 12 DigiTimes SK Hynix speeds Yongin fab buildout as memory crunch fuels capacity race SK Hynix speeds Yongin fab buildout as memory crunch fuels capacity race fab Read 13 DigiTimes AMD's 2nm defection to Samsung dents TSMC's AI grip AMD's 2nm defection to Samsung dents TSMC's AI grip ai Read 14 NikkeiAsia Lee sets sights beyond chips for South Korea's next growth wave Lee sets sights beyond chips for South Korea's next growth wave chip Read 15 NikkeiAsia Tin demand for AI servers to triple by 2030, analyst says Tin demand for AI servers to triple by 2030, analyst says ai Read 16 NikkeiAsia Frontier AI shock: Japan's analog layer offers a resilience lesson Frontier AI shock: Japan's analog layer offers a resilience lesson ai Read 17 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun technologyartificial intelligencechip Read 18 KED South Korean ETF issuers in space race to ride SpaceX IPO buzz South Korean asset managers are rushing to launch new exchange-traded funds tied to both established and emerging space technology companies, seeking technology Read 19 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass ai Read]]></summary></entry></feed>
