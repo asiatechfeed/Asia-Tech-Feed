@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "count": 15,
+  "count": 16,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -12,29 +12,29 @@
   "post_file": "2026-06-16-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Microsoft sued by shareholders over expenses, cloud business, AI",
+      "title": "China's cheaper AI tokens a double-edged sword for Asian businesses",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/microsoft-sued-shareholders-over-expenses-cloud-business-ai-6185056"
+      "url": "https://www.channelnewsasia.com/asia/china-ai-tokens-asia-business-us-models-6176061"
     },
     {
-      "title": "SAP says human-in-the-loop review is key to moving enterprise AI agents from POC to production",
+      "title": "Commentary: Why the US government shut down Anthropic\u2019s latest Claude AI model",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/anthropic-claude-ai-model-fable5-mythos5-shut-down-6184146"
+    },
+    {
+      "title": "Yaskawa eyes physical AI boom with JPY25 billion capex",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260615PD202/ai-data-finance-production-supply-chain.html"
+      "url": "https://www.digitimes.com/news/a20260615PD230/yaskawa-industrial-ai-robot.html"
     },
     {
-      "title": "Samsung foundry chief sees 2028 profit path as bonus costs mount",
+      "title": "Apple leans on Google Cloud and Nvidia GPUs in a pragmatic AI reset",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260615VL205/samsung-foundry-fab-business-profit-2028.html"
+      "url": "https://www.digitimes.com/news/a20260615PD233/apple-on-device-ai-gpu-wwdc-2026.html"
     },
     {
-      "title": "US cybersecurity company N-able expands in India",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
-    },
-    {
-      "title": "Monday.com launches $200m fund for AI startups",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/israeli-ai-security-startup-nanoclaw-raises-12m-seed"
+      "title": "Rapidus signs UK chip pact in push for 2nm customers",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260615VL206/uk-rapidus-mou-production-semiconductors.html"
     }
   ]
 }
