@@ -1,40 +1,40 @@
 {
   "date": "2026-06-17",
-  "count": 16,
+  "count": 15,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
+    "EW",
     "KED",
-    "NikkeiAsia",
-    "TechAsia"
+    "NikkeiAsia"
   ],
   "post_file": "2026-06-17-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Plaud hits $100m ARR as Singapore becomes key R&D hub",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/plaud-hits-us100m-arr-singapore-key-hub"
-    },
-    {
-      "title": "ChatGPT market share slips below 50%",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/openai-plans-broader-chatgpt-app-redesign"
-    },
-    {
-      "title": "HSBC partners with Google Cloud to expand AI usage",
+      "title": "In US, EU mutual interest for Europe to use best AI models, von der Leyen says",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/hsbc-partners-google-cloud-expand-ai-usage-6188581"
+      "url": "https://www.channelnewsasia.com/business/in-us-eu-mutual-interest-europe-use-best-ai-models-von-der-leyen-says-6190421"
     },
     {
-      "title": "Nvidia sells US$25 billion in bonds as investors seek foothold in AI boom",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260616VL218/nvidia-funding-investment-ai.html"
+      "title": "'Unprecedented' AI buildout drove Singapore's sharpest non-oil exports surge in over two decades: Analysts",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/ai-exports-artificial-intelligence-infrastructure-6190011"
     },
     {
-      "title": "ASML, TSMC, and imec move 2D transistors closer to manufacturing reality",
+      "title": "Commentary: US delays DeepSeek blacklist, exposing AI export-control dilemma",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260616VL216/tsmc-asml-imec-transistor-manufacturing-materials.html"
+      "url": "https://www.digitimes.com/news/a20260617VL216/deepseek-cxmt-entity-list-security-usa.html"
+    },
+    {
+      "title": "US AI export crackdown on Anthropic sparks global push for sovereign AI",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260617VL200/anthropic-usa-ai-regulation-canada-eu.html"
+    },
+    {
+      "title": "Nvidia Vera CPU strains LPDDR supply as AI servers tap phone memory",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260617VL219/nvidia-cpu-apple-capacity-samsung.html"
     }
   ]
 }
