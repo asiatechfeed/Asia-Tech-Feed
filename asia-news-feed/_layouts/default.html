@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en" id="html-root">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <script>
+    // Apply saved preference before paint to avoid flash
+    (function() {
+      var saved = localStorage.getItem('theme');
+      var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (saved === 'dark' || (!saved && prefersDark)) {
+        document.documentElement.classList.add('dark');
+      } else if (saved === 'light') {
+        document.documentElement.classList.add('light');
+      }
+    })();
+  </script>
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5549175788718429" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="site-title" href="{{ '/' | relative_url }}">
+      &#9889; Asia <span>Tech</span> News Feed
+    </a>
+    <div class="header-meta">
+      Asia Tech. Byte-sized.
+    </div>
+    <button class="dark-toggle" id="dark-toggle" onclick="toggleDark()" aria-label="Toggle dark mode">
+      <span id="dark-icon">&#127769;</span> <span id="dark-label">Dark</span>
+    </button>
+  </div>
+</header>
+
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Latest</a>
+    <a href="{{ '/reports/' | relative_url }}" {% if page.url contains 'reports' %}class="active"{% endif %}>Reports</a>
+    <a href="{{ '/archive' | relative_url }}" {% if page.url contains 'archive' %}class="active"{% endif %}>Archive</a>
+    <a href="{{ '/search' | relative_url }}" {% if page.url contains 'search' %}class="active"{% endif %}>Search</a>
+    <a href="{{ '/feed.xml' | relative_url }}">RSS Feed</a>
+    <a href="{{ '/about' | relative_url }}" {% if page.url contains 'about' %}class="active"{% endif %}>About</a>
+    <a href="{{ '/contact' | relative_url }}" {% if page.url contains 'contact' %}class="active"{% endif %}>Contact</a>
+  </div>
+</nav>
+
+<main>
+  {{ content }}
+</main>
+
+<footer>
+  <p>{{ site.title }} &middot; Auto-updated daily via GitHub Actions &middot; Filtered for Asia</p>
+  <p>Keywords: Semiconductor &middot; Electronics &middot; Logistics &middot; Pharmaceutical &middot; Biotechnology &middot; AI &middot; Machine Vision &middot; Automation</p>
+  <p class="visitor-counter">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fasiatechfeed.com&count_bg=%234A90D9&title_bg=%23374151&icon=eye.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true" alt="Visitor counter" loading="lazy">
+  </p>
+</footer>
+
+<script>
+// Dark mode toggle
+function toggleDark() {
+  var html = document.documentElement;
+  var isDark = html.classList.contains('dark');
+  if (isDark) {
+    html.classList.remove('dark');
+    html.classList.add('light');
+    localStorage.setItem('theme', 'light');
+  } else {
+    html.classList.remove('light');
+    html.classList.add('dark');
+    localStorage.setItem('theme', 'dark');
+  }
+  updateToggleLabel();
+}
+
+function updateToggleLabel() {
+  var isDark = document.documentElement.classList.contains('dark');
+  var icon = document.getElementById('dark-icon');
+  var label = document.getElementById('dark-label');
+  if (icon) icon.innerHTML = isDark ? '&#9728;&#xFE0F;' : '&#127769;';
+  if (label) label.textContent = isDark ? 'Light' : 'Dark';
+}
+
+document.addEventListener('DOMContentLoaded', updateToggleLabel);
+
+// Keyword filter
+function filterTable(keyword) {
+  const rows = document.querySelectorAll('.news-table tbody tr');
+  const btns = document.querySelectorAll('.filter-btn');
+  btns.forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+
+  rows.forEach(row => {
+    if (!keyword || keyword === 'all') {
+      row.style.display = '';
+    } else {
+      const text = row.innerText.toLowerCase();
+      row.style.display = text.includes(keyword.toLowerCase()) ? '' : 'none';
+    }
+  });
+}
+
+// CSV download
+function downloadCSV() {
+  const table = document.querySelector('.news-table');
+  if (!table) return;
+  let csv = [];
+  const rows = table.querySelectorAll('tr');
+  rows.forEach(row => {
+    const cols = row.querySelectorAll('th, td');
+    const rowData = Array.from(cols).map(col => {
+      const link = col.querySelector('a');
+      let text = link && col.classList.contains('col-link') ? link.href : col.innerText;
+      return '"' + text.replace(/"/g, '""').replace(/\n/g, ' ') + '"';
+    });
+    csv.push(rowData.join('\t'));
+  });
+  const blob = new Blob([csv.join('\n')], { type: 'text/csv' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'asia-news-' + new Date().toISOString().slice(0,10) + '.csv';
+  a.click();
+}
+</script>
+
+</body>
+</html>
