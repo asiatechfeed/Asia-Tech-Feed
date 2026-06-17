@@ -40,24 +40,14 @@
 <nav class="site-nav">
   <div class="nav-inner">
     <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Latest</a>
+    <a href="{{ '/reports/' | relative_url }}" {% if page.url contains 'reports' %}class="active"{% endif %}>Reports</a>
     <a href="{{ '/archive' | relative_url }}" {% if page.url contains 'archive' %}class="active"{% endif %}>Archive</a>
     <a href="{{ '/search' | relative_url }}" {% if page.url contains 'search' %}class="active"{% endif %}>Search</a>
+    <a href="{{ '/feed.xml' | relative_url }}">RSS Feed</a>
     <a href="{{ '/about' | relative_url }}" {% if page.url contains 'about' %}class="active"{% endif %}>About</a>
     <a href="{{ '/contact' | relative_url }}" {% if page.url contains 'contact' %}class="active"{% endif %}>Contact</a>
   </div>
 </nav>
-
-{% if site.data.stocks.stocks %}
-<div class="ticker-wrap">
-  <div class="ticker-label-box">SEMICON</div>
-  <div class="ticker-scroll-outer">
-    <div class="ticker-track">
-      {% for pass in (1..2) %}{% for s in site.data.stocks.stocks %}<div class="ticker-item"><span class="ticker-sym">{{ s.symbol }}</span><span class="ticker-price">{{ s.price }}</span><span class="ticker-chg {{ s.direction }}"><span class="ticker-dot dot-{{ s.direction }}"></span>{% if s.direction == 'up' %}&#9650;{% else %}&#9660;{% endif %} {{ s.change }}</span></div>{% endfor %}{% endfor %}
-    </div>
-  </div>
-  <div class="ticker-eod"><span class="ticker-pulse"></span>EOD</div>
-</div>
-{% endif %}
 
 <main>
   {{ content }}
@@ -66,6 +56,9 @@
 <footer>
   <p>{{ site.title }} &middot; Auto-updated daily via GitHub Actions &middot; Filtered for Asia</p>
   <p>Keywords: Semiconductor &middot; Electronics &middot; Logistics &middot; Pharmaceutical &middot; Biotechnology &middot; AI &middot; Machine Vision &middot; Automation</p>
+  <p class="visitor-counter">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fasiatechfeed.com&count_bg=%234A90D9&title_bg=%23374151&icon=eye.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true" alt="Visitor counter" loading="lazy">
+  </p>
 </footer>
 
 <script>
