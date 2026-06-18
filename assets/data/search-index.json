@@ -1,49 +1,71 @@
 [
   {
     "date": "2026-06-18",
-    "title": "Singapore launches S$48 million scheme to help media firms create digital content and adopt AI",
-    "summary": "The Digital Content and Capability Development programme, announced by Senior Minister of State for Digital Development and Information Tan Kiat How, will span four years.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "How Coinbase plans to turn crypto into the payment layer for AI",
+    "summary": "Coinbase is betting on tokenized stocks and AI agents to expand crypto adoption.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/singapore/imda-s48-million-scheme-media-digital-content-ai-6191991"
+    "url": "https://www.techinasia.com/how-coinbase-plans-to-turn-crypto-into-the-payment-layer-for-ai"
   },
   {
     "date": "2026-06-18",
-    "title": "Samsung, SK Hynix weigh first chip packaging plants in South Korea's Honam region",
-    "summary": "Samsung Electronics and SK Hynix are each reviewing locations in South Korea's Honam region for new semiconductor packaging plants, according to The Elec and Hankyung , citing industry sources, as the two companies look for ways to add back-end capacity beyond their existing manufacturing hubs.",
+    "title": "Samsung looks to AI to revive consumer business",
+    "summary": "Samsung also began allowing DX employees to use ChatGPT, Gemini, and Claude.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/samsung-sk-hynix-micron-supply-ai-memory-nvidia"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "Smart glasses race pulls Taiwan and China optical suppliers into waveguide battle",
+    "summary": "Smart glasses shipments are rising steadily, making the category one of the most closely watched consumer electronics growth drivers after notebooks and smartphones. Taiwanese optical suppliers entered the field early, while leading Chinese optical makers are also moving to capture the opportunity.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor",
       "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20260617VL226/samsung-sk-hynix-packaging-region-investment.html"
+    "url": "https://www.digitimes.com/news/a20260618PD211/shipments-taiwan-smart-glasses-growth-gseo.html"
   },
   {
     "date": "2026-06-18",
-    "title": "Mirle Automation names CEO as chair",
-    "summary": "Mirle Automation announced that chairman Houng Sun will step down and hand the role to chief executive officer Shih-Tung Lin, as the automation equipment maker moves to strengthen long-term development and leadership succession. Sun will remain on the board and has also been named honorary chairman.",
+    "title": "SiC cuts AI data center costs; 5% efficiency gain saves US$5 billion",
+    "summary": "Power is now compute, and it is becoming a major driver of AI data center build costs. Renesas technical director Mu-Sen Lin said traditional data centers rely on low-voltage AC (LVAC), long wiring runs, and repeated AC-to-DC conversions through uninterruptible power supply (UPS) systems, reducing energy transmission e",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Automation"
-    ],
-    "url": "https://www.digitimes.com/news/a20260618PD214/mirle-automation-chairman-automation-mirle-equipment.html"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "Taiwan chip makers signal durable upcycle as memory prices and AI demand align",
-    "summary": "Taiwan's listed semiconductor manufacturers reported strong May revenue figures, with a sweeping recovery in DRAM prices and rising artificial intelligence infrastructure spending lifting most of the sector's 27 tracked companies to double-digit year-on-year gains.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260617VL225/taiwan-demand-revenue-recovery-growth.html"
+    "url": "https://www.digitimes.com/news/a20260618PD225/renesas-sic-data-center-efficiency-electricity.html"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "Foxconn chairman maps out Taiwan's global AI and manufacturing expansion strategy",
+    "summary": "Taiwan's electronics industry is stepping up its global ambitions as AI, data center infrastructure, and advanced manufacturing reshape supply chains. Speaking at the Chinese National Association of Industry and Commerce (CNAIC) on June 18, 2026, Foxconn chairman and Taiwan Electrical and Electronic Manufacturers' Asso",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260618PD230/taiwan-manufacturing-foxconn-chairman-expansion.html"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "Why the public AI progress wall is completely false to OpenAI",
+    "summary": "Most executives judge AI by daily use, missing how far ahead it is in the lab. OpenAI's Tejal Patwardhan explains why that gap matters for planning.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/the-ai-in-your-office-is-already-smarter-than-you-think"
   },
   {
     "date": "2026-06-18",
