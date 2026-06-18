@@ -1,40 +1,39 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "count": 15,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
-    "EW",
     "KED",
-    "NikkeiAsia"
+    "NikkeiAsia",
+    "TechAsia"
   ],
-  "post_file": "2026-06-17-asia-tech-news-digest.md",
+  "post_file": "2026-06-18-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "In US, EU mutual interest for Europe to use best AI models, von der Leyen says",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/in-us-eu-mutual-interest-europe-use-best-ai-models-von-der-leyen-says-6190421"
-    },
-    {
-      "title": "'Unprecedented' AI buildout drove Singapore's sharpest non-oil exports surge in over two decades: Analysts",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/ai-exports-artificial-intelligence-infrastructure-6190011"
-    },
-    {
-      "title": "Commentary: US delays DeepSeek blacklist, exposing AI export-control dilemma",
+      "title": "Samsung pushes vertical transistor design as chip scaling hits limits",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260617VL216/deepseek-cxmt-entity-list-security-usa.html"
+      "url": "https://www.digitimes.com/news/a20260617VL221/samsung-transistor-3d-chips-materials.html"
     },
     {
-      "title": "US AI export crackdown on Anthropic sparks global push for sovereign AI",
+      "title": "Taiyo Yuden to boost AI server MLCC capacity, resists price hikes",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260617VL200/anthropic-usa-ai-regulation-canada-eu.html"
+      "url": "https://www.digitimes.com/news/a20260617VL218/taiyo-yuden-mlcc-price-ai-server-production.html"
     },
     {
-      "title": "Nvidia Vera CPU strains LPDDR supply as AI servers tap phone memory",
+      "title": "Samsung said to open fab data to suppliers in AI factory push",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260617VL219/nvidia-cpu-apple-capacity-samsung.html"
+      "url": "https://www.digitimes.com/news/a20260617VL212/samsung-data-fab-equipment-manufacturing.html"
+    },
+    {
+      "title": "US AI gaming startup Tryll valued at $6m, launches alpha",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+    },
+    {
+      "title": "Doosan to build Thailand AI materials plant with $110m loan",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/nvidia-signs-ai-data-center-memory-deals-korea"
     }
   ]
 }
