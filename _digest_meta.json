@@ -1,39 +1,39 @@
 {
   "date": "2026-06-18",
-  "count": 13,
+  "count": 15,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
     "KED",
-    "NikkeiAsia"
+    "NikkeiAsia",
+    "TechAsia"
   ],
   "post_file": "2026-06-18-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Singapore launches S$48 million scheme to help media firms create digital content and adopt AI",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/imda-s48-million-scheme-media-digital-content-ai-6191991"
+      "title": "How Coinbase plans to turn crypto into the payment layer for AI",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/how-coinbase-plans-to-turn-crypto-into-the-payment-layer-for-ai"
     },
     {
-      "title": "Samsung, SK Hynix weigh first chip packaging plants in South Korea's Honam region",
+      "title": "Samsung looks to AI to revive consumer business",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/samsung-sk-hynix-micron-supply-ai-memory-nvidia"
+    },
+    {
+      "title": "Smart glasses race pulls Taiwan and China optical suppliers into waveguide battle",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260617VL226/samsung-sk-hynix-packaging-region-investment.html"
+      "url": "https://www.digitimes.com/news/a20260618PD211/shipments-taiwan-smart-glasses-growth-gseo.html"
     },
     {
-      "title": "Mirle Automation names CEO as chair",
+      "title": "SiC cuts AI data center costs; 5% efficiency gain saves US$5 billion",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260618PD214/mirle-automation-chairman-automation-mirle-equipment.html"
+      "url": "https://www.digitimes.com/news/a20260618PD225/renesas-sic-data-center-efficiency-electricity.html"
     },
     {
-      "title": "Taiwan chip makers signal durable upcycle as memory prices and AI demand align",
+      "title": "Foxconn chairman maps out Taiwan's global AI and manufacturing expansion strategy",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260617VL225/taiwan-demand-revenue-recovery-growth.html"
-    },
-    {
-      "title": "CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/"
+      "url": "https://www.digitimes.com/news/a20260618PD230/taiwan-manufacturing-foxconn-chairman-expansion.html"
     }
   ]
 }
