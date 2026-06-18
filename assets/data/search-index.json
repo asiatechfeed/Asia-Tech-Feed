@@ -1,106 +1,93 @@
 [
   {
     "date": "2026-06-18",
-    "title": "Samsung pushes vertical transistor design as chip scaling hits limits",
-    "summary": "Samsung Electronics has demonstrated a 3D stacked transistor structure with a 42-nanometer gate pitch, a research milestone that extends vertical integration, long used in memory chips, into logic semiconductors.",
+    "title": "Singapore launches S$48 million scheme to help media firms create digital content and adopt AI",
+    "summary": "The Digital Content and Capability Development programme, announced by Senior Minister of State for Digital Development and Information Tan Kiat How, will span four years.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/singapore/imda-s48-million-scheme-media-digital-content-ai-6191991"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "Samsung, SK Hynix weigh first chip packaging plants in South Korea's Honam region",
+    "summary": "Samsung Electronics and SK Hynix are each reviewing locations in South Korea's Honam region for new semiconductor packaging plants, according to The Elec and Hankyung , citing industry sources, as the two companies look for ways to add back-end capacity beyond their existing manufacturing hubs.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
       "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20260617VL221/samsung-transistor-3d-chips-materials.html"
+    "url": "https://www.digitimes.com/news/a20260617VL226/samsung-sk-hynix-packaging-region-investment.html"
   },
   {
     "date": "2026-06-18",
-    "title": "Taiyo Yuden to boost AI server MLCC capacity, resists price hikes",
-    "summary": "Taiyo Yuden is preparing to accelerate production of multilayer ceramic capacitors, or MLCCs, as AI servers and hyperscale data centers tighten supply across the global component market. But the Japanese supplier is resisting the kind of broad price increases now spreading through parts of the industry.",
+    "title": "Mirle Automation names CEO as chair",
+    "summary": "Mirle Automation announced that chairman Houng Sun will step down and hand the role to chief executive officer Shih-Tung Lin, as the automation equipment maker moves to strengthen long-term development and leadership succession. Sun will remain on the board and has also been named honorary chairman.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260617VL218/taiyo-yuden-mlcc-price-ai-server-production.html"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "Samsung said to open fab data to suppliers in AI factory push",
-    "summary": "Samsung Electronics is developing and operating a data-sharing platform with semiconductor materials, components and equipment suppliers, according to a report by South Korea's ETNews , which cited industry sources.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "Electronics",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260617VL212/samsung-data-fab-equipment-manufacturing.html"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "US AI gaming startup Tryll valued at $6m, launches alpha",
-    "summary": "The company describes itself as on-device AI middleware for game developers.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "Doosan to build Thailand AI materials plant with $110m loan",
-    "summary": "Construction is due to start this year, and mass production is set to begin in the second half of 2028.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/nvidia-signs-ai-data-center-memory-deals-korea"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "Fujitsu, IBM Japan deepen AI legacy system partnership",
-    "summary": "Fujitsu PROGRESSION is an automated suite for migrating legacy applications and restructuring them for modern platforms.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/sakana-ai-raises-135m-advance-japanfocused-ai-tech"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "Polymatech Opens Singapore Manufacturing Hub for LED Packaging and Memory Module Assembly",
-    "summary": "Polymatech is establishing a regional production base supporting opto-electronics, advanced packaging, and computing applications. The post Polymatech Opens Singapore Manufacturing Hub for LED Packaging and Memory Module Assembly appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.eetasia.com/polymatech-opens-singapore-manufacturing-hub-for-led-packaging-and-memory-module-assembly/"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "How Agentic AI Will Transform IC Design Productivity",
-    "summary": "Cadence outlines how AI-driven automation can help the industry manage unprecedented chip design complexity. The post How Agentic AI Will Transform IC Design Productivity appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI",
       "Automation"
     ],
-    "url": "https://www.eetasia.com/how-agentic-ai-will-transform-ic-design-productivity/"
+    "url": "https://www.digitimes.com/news/a20260618PD214/mirle-automation-chairman-automation-mirle-equipment.html"
   },
   {
     "date": "2026-06-18",
-    "title": "Infineon Highlights USB Advances for AI PCs, Embedded Vision, and Edge Computing",
-    "summary": "USB connectivity innovations address growing bandwidth, latency, and signal integrity demands across AI-driven applications. The post Infineon Highlights USB Advances for AI PCs, Embedded Vision, and Edge Computing appeared first on EE Times Asia .",
+    "title": "Taiwan chip makers signal durable upcycle as memory prices and AI demand align",
+    "summary": "Taiwan's listed semiconductor manufacturers reported strong May revenue figures, with a sweeping recovery in DRAM prices and rising artificial intelligence infrastructure spending lifting most of the sector's 27 tracked companies to double-digit year-on-year gains.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260617VL225/taiwan-demand-revenue-recovery-growth.html"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation",
+    "summary": "The MoU is aimed at establishing a strategic framework to accelerate innovation through simulation-led development and advanced digital engineering methodologies. The post CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "WIN Semiconductors Launches 0.12μm GaN Power Process Qualified for 40V Operation",
+    "summary": "WIN Semiconductors' 0.12μm gate-length GaN-on-SiC technology integrates multiple transistor improvements The post WIN Semiconductors Launches 0.12μm GaN Power Process Qualified for 40V Operation appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/win-semiconductors-launches-0-12%ce%bcm-gan-power-process-qualified-for-40v-operation/"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "POLYN Technology Targets Sensor-level AI Processing for Ultra-low-power Edge Intelligence",
+    "summary": "Application-specific Tiny AI chips enable efficient sensor data processing for emerging edge and industrial systems. The post POLYN Technology Targets Sensor-level AI Processing for Ultra-low-power Edge Intelligence appeared first on EE Times Asia .",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.eetasia.com/infineon-highlights-usb-advances-for-ai-pcs-embedded-vision-and-edge-computing/"
+    "url": "https://www.eetasia.com/polyn-technology-targets-sensor-level-ai-processing-for-ultra-low-power-edge-intelligence/"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "Marvell to use TSMC's next-gen 1.4-nm chip tech to stay in AI data race",
+    "summary": "Marvell to use TSMC's next-gen 1.4-nm chip tech to stay in AI data race",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/marvell-to-use-tsmc-s-next-gen-1.4-nm-chip-tech-to-stay-in-ai-data-race"
   },
   {
     "date": "2026-06-18",
@@ -123,17 +110,6 @@
       "Electronics"
     ],
     "url": "https://asia.nikkei.com/spotlight/supply-chain/chinese-electronics-maker-longcheer-bets-on-us-growth"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "NTT hoped to lead optical data networks. AI and Nvidia changed that",
-    "summary": "NTT hoped to lead optical data networks. AI and Nvidia changed that",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/ntt-hoped-to-lead-optical-data-networks.-ai-and-nvidia-changed-that"
   },
   {
     "date": "2026-06-18",

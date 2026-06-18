@@ -1,39 +1,39 @@
 {
   "date": "2026-06-18",
-  "count": 15,
+  "count": 13,
   "sources": [
+    "CNA",
     "DigiTimes",
     "EETAsia",
     "KED",
-    "NikkeiAsia",
-    "TechAsia"
+    "NikkeiAsia"
   ],
   "post_file": "2026-06-18-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Samsung pushes vertical transistor design as chip scaling hits limits",
+      "title": "Singapore launches S$48 million scheme to help media firms create digital content and adopt AI",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/imda-s48-million-scheme-media-digital-content-ai-6191991"
+    },
+    {
+      "title": "Samsung, SK Hynix weigh first chip packaging plants in South Korea's Honam region",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260617VL221/samsung-transistor-3d-chips-materials.html"
+      "url": "https://www.digitimes.com/news/a20260617VL226/samsung-sk-hynix-packaging-region-investment.html"
     },
     {
-      "title": "Taiyo Yuden to boost AI server MLCC capacity, resists price hikes",
+      "title": "Mirle Automation names CEO as chair",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260617VL218/taiyo-yuden-mlcc-price-ai-server-production.html"
+      "url": "https://www.digitimes.com/news/a20260618PD214/mirle-automation-chairman-automation-mirle-equipment.html"
     },
     {
-      "title": "Samsung said to open fab data to suppliers in AI factory push",
+      "title": "Taiwan chip makers signal durable upcycle as memory prices and AI demand align",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260617VL212/samsung-data-fab-equipment-manufacturing.html"
+      "url": "https://www.digitimes.com/news/a20260617VL225/taiwan-demand-revenue-recovery-growth.html"
     },
     {
-      "title": "US AI gaming startup Tryll valued at $6m, launches alpha",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
-    },
-    {
-      "title": "Doosan to build Thailand AI materials plant with $110m loan",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-signs-ai-data-center-memory-deals-korea"
+      "title": "CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/"
     }
   ]
 }
