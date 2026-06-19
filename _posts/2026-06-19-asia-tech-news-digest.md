@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - June 19, 2026"
-date: 2026-06-19 08:49:24 +0800
+date: 2026-06-19 21:01:05 +0800
 articles_count: 16
 sources_count: 6
 sources: ["CNA", "DigiTimes", "EETAsia", "KED", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-06-19.tsv
-featured_title: "SG automation firm FileAI enters Japan with JRE Ventures backing"
-featured_url: "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
-featured_source: "TechAsia"
-featured_summary: "The companies plan to explore deploying FileAI\u2019s AI platform at JR East Group companies."
-featured_image: ""
+featured_title: "Investors see Micron earnings as pulse check of AI rally momentum"
+featured_url: "https://www.channelnewsasia.com/business/investors-see-micron-earnings-pulse-check-ai-rally-momentum-6195586"
+featured_source: "CNA"
+featured_summary: "Investors see Micron earnings as pulse check of AI rally momentum"
+featured_image: "https://dam.mediacorp.sg/image/upload/s--abdl4CRM--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-19T100223Z_1_LYNXMPEM5I0KM_RTROPTP_3_DONCASTERS-IPO.JPG?itok=lFuC2fMf"
 ---
 
 <table class="news-table">
@@ -27,59 +27,59 @@ featured_image: ""
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SG automation firm FileAI enters Japan with JRE Ventures backing</span></td>
-  <td class="col-summary">The companies plan to explore deploying FileAI’s AI platform at JR East Group companies.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Investors see Micron earnings as pulse check of AI rally momentum</span></td>
+  <td class="col-summary">Investors see Micron earnings as pulse check of AI rally momentum</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/investors-see-micron-earnings-pulse-check-ai-rally-momentum-6195586" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">AI hiring heats up in Singapore</span></td>
-  <td class="col-summary">Today, we look at the AI jobs race in Singapore, an AI music firm aiming to hit the ethical notes, and jail sentences in the TaniHub case.</td>
+  <td class="col-title"><span class="article-title">MediaTek leads HyperLight’s $80m AI infrastructure round</span></td>
+  <td class="col-summary">HyperLight said it will expand manufacturing capacity, speed up customer qualification, scale its TFLN Chiplet platform.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-hiring-heats-singapore" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commonwealth Bank of Australia appoints new CIO, CTO to boost technology, AI strategy</span></td>
-  <td class="col-summary">Commonwealth Bank of Australia appoints new CIO, CTO to boost technology, AI strategy</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Memory chip market could near $1t on AI demand: report</span></td>
+  <td class="col-summary">Counterpoint said server memory products would account for 56% of total memory revenue in 2026, up from 37% in 2025.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/commonwealth-bank-australia-appoints-new-cio-cto-boost-technology-ai-strategy-6194496" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/global-smartphone-shipments-may-decline-2-1-in-2026" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">How Coinbase plans to turn crypto into the payment layer for AI</span></td>
-  <td class="col-summary">Coinbase is betting on tokenized stocks and AI agents to expand crypto adoption.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/how-coinbase-plans-to-turn-crypto-into-the-payment-layer-for-ai" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">SeaX Ventures taps healthcare veteran for biotech push</span></td>
+  <td class="col-summary">SeaX said the appointment would strengthen its healthcare and biotech capabilities as it focused on connecting US deep tech with Southeast Asia.</td>
+  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/melazyme-lands-seaxled-2m" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Smart glasses race pulls Taiwan and China optical suppliers into waveguide battle</span></td>
-  <td class="col-summary">Smart glasses shipments are rising steadily, making the category one of the most closely watched consumer electronics growth drivers after notebooks and smartphones. Taiwanese optical suppliers entered the field early, while leading Chinese optical makers are also moving to capture the opportunity.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260618PD211/shipments-taiwan-smart-glasses-growth-gseo.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">SK Hynix reportedly held U.S. talks on HBM supply and local investment plans</span></td>
+  <td class="col-summary">SK Hynix is reported to have held a private meeting with U.S. Deputy Secretary of State Allison Hooker, with industry sources speculating the discussions covered high-bandwidth memory cooperation with major U.S. technology firms and potential semiconductor investment expansion.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260618PD233/sk-hynix-hbm-investment-shipments-supply-chain.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SiC cuts AI data center costs; 5% efficiency gain saves US$5 billion</span></td>
-  <td class="col-summary">Power is now compute, and it is becoming a major driver of AI data center build costs. Renesas technical director Mu-Sen Lin said traditional data centers rely on low-voltage AC (LVAC), long wiring runs, and repeated AC-to-DC conversions through uninterruptible power supply (UPS) systems, reducing energy transmission e</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260618PD225/renesas-sic-data-center-efficiency-electricity.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">China chip supply chain feels squeeze from AI server MLCCs to 8-bit MCUs</span></td>
+  <td class="col-summary">China's semiconductor supply chain is showing fresh signs of pricing strain, with microcontroller unit (MCU) makers and passive component suppliers facing rising costs, tighter capacity, and surging demand from AI servers.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260618VL202/passive-components-mlcc-mcu-demand-ai-server-supply-chain.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Foxconn chairman maps out Taiwan's global AI and manufacturing expansion strategy</span></td>
-  <td class="col-summary">Taiwan's electronics industry is stepping up its global ambitions as AI, data center infrastructure, and advanced manufacturing reshape supply chains. Speaking at the Chinese National Association of Industry and Commerce (CNAIC) on June 18, 2026, Foxconn chairman and Taiwan Electrical and Electronic Manufacturers' Asso</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260618PD230/taiwan-manufacturing-foxconn-chairman-expansion.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Commentary: G7 AI fight moves to who controls frontier model access</span></td>
+  <td class="col-summary">The G7 debate over AI has moved beyond regulation and safety pledges into a harder fight over frontier model access: who can use the most powerful systems, under what conditions, and whether governments can switch that access off.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260618VL208/regulation-cybersecurity-anthropic.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
@@ -108,26 +108,26 @@ featured_image: ""
 <tr>
   <td class="col-num">11</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">The AI boom is quietly choking people in East Asia</span></td>
+  <td class="col-summary">The AI boom is quietly choking people in East Asia</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/opinion/the-ai-boom-is-quietly-choking-people-in-east-asia" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
   <td class="col-title"><span class="article-title">Alibaba leans on AI to drum up subdued '618' shopping festival</span></td>
   <td class="col-summary">Alibaba leans on AI to drum up subdued '618' shopping festival</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/retail/alibaba-leans-on-ai-to-drum-up-subdued-618-shopping-festival" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">12</td>
+  <td class="col-num">13</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
   <td class="col-title"><span class="article-title">Japan eyes 'continuous' AI legal reforms to counter Mythos-level threats</span></td>
   <td class="col-summary">Japan eyes 'continuous' AI legal reforms to counter Mythos-level threats</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-eyes-continuous-ai-legal-reforms-to-counter-mythos-level-threats" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">13</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Alibaba's cloud arm opens 5th Japan data center, adding new AI services</span></td>
-  <td class="col-summary">Alibaba's cloud arm opens 5th Japan data center, adding new AI services</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-s-cloud-arm-opens-5th-japan-data-center-adding-new-ai-services" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">14</td>
