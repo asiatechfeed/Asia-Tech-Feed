@@ -1,39 +1,40 @@
 {
-  "date": "2026-06-18",
-  "count": 15,
+  "date": "2026-06-19",
+  "count": 16,
   "sources": [
+    "CNA",
     "DigiTimes",
     "EETAsia",
     "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-06-18-asia-tech-news-digest.md",
+  "post_file": "2026-06-19-asia-tech-news-digest.md",
   "articles": [
+    {
+      "title": "SG automation firm FileAI enters Japan with JRE Ventures backing",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+    },
+    {
+      "title": "AI hiring heats up in Singapore",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/ai-hiring-heats-singapore"
+    },
+    {
+      "title": "Commonwealth Bank of Australia appoints new CIO, CTO to boost technology, AI strategy",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/commonwealth-bank-australia-appoints-new-cio-cto-boost-technology-ai-strategy-6194496"
+    },
     {
       "title": "How Coinbase plans to turn crypto into the payment layer for AI",
       "source": "TechAsia",
       "url": "https://www.techinasia.com/how-coinbase-plans-to-turn-crypto-into-the-payment-layer-for-ai"
     },
     {
-      "title": "Samsung looks to AI to revive consumer business",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/samsung-sk-hynix-micron-supply-ai-memory-nvidia"
-    },
-    {
       "title": "Smart glasses race pulls Taiwan and China optical suppliers into waveguide battle",
       "source": "DigiTimes",
       "url": "https://www.digitimes.com/news/a20260618PD211/shipments-taiwan-smart-glasses-growth-gseo.html"
-    },
-    {
-      "title": "SiC cuts AI data center costs; 5% efficiency gain saves US$5 billion",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260618PD225/renesas-sic-data-center-efficiency-electricity.html"
-    },
-    {
-      "title": "Foxconn chairman maps out Taiwan's global AI and manufacturing expansion strategy",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260618PD230/taiwan-manufacturing-foxconn-chairman-expansion.html"
     }
   ]
 }
