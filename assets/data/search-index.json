@@ -1,5 +1,184 @@
 [
   {
+    "date": "2026-06-19",
+    "title": "SG automation firm FileAI enters Japan with JRE Ventures backing",
+    "summary": "The companies plan to explore deploying FileAI’s AI platform at JR East Group companies.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "AI hiring heats up in Singapore",
+    "summary": "Today, we look at the AI jobs race in Singapore, an AI music firm aiming to hit the ethical notes, and jail sentences in the TaniHub case.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/ai-hiring-heats-singapore"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "Commonwealth Bank of Australia appoints new CIO, CTO to boost technology, AI strategy",
+    "summary": "Commonwealth Bank of Australia appoints new CIO, CTO to boost technology, AI strategy",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/commonwealth-bank-australia-appoints-new-cio-cto-boost-technology-ai-strategy-6194496"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "How Coinbase plans to turn crypto into the payment layer for AI",
+    "summary": "Coinbase is betting on tokenized stocks and AI agents to expand crypto adoption.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/how-coinbase-plans-to-turn-crypto-into-the-payment-layer-for-ai"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "Smart glasses race pulls Taiwan and China optical suppliers into waveguide battle",
+    "summary": "Smart glasses shipments are rising steadily, making the category one of the most closely watched consumer electronics growth drivers after notebooks and smartphones. Taiwanese optical suppliers entered the field early, while leading Chinese optical makers are also moving to capture the opportunity.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260618PD211/shipments-taiwan-smart-glasses-growth-gseo.html"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "SiC cuts AI data center costs; 5% efficiency gain saves US$5 billion",
+    "summary": "Power is now compute, and it is becoming a major driver of AI data center build costs. Renesas technical director Mu-Sen Lin said traditional data centers rely on low-voltage AC (LVAC), long wiring runs, and repeated AC-to-DC conversions through uninterruptible power supply (UPS) systems, reducing energy transmission e",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260618PD225/renesas-sic-data-center-efficiency-electricity.html"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "Foxconn chairman maps out Taiwan's global AI and manufacturing expansion strategy",
+    "summary": "Taiwan's electronics industry is stepping up its global ambitions as AI, data center infrastructure, and advanced manufacturing reshape supply chains. Speaking at the Chinese National Association of Industry and Commerce (CNAIC) on June 18, 2026, Foxconn chairman and Taiwan Electrical and Electronic Manufacturers' Asso",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260618PD230/taiwan-manufacturing-foxconn-chairman-expansion.html"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation",
+    "summary": "The MoU is aimed at establishing a strategic framework to accelerate innovation through simulation-led development and advanced digital engineering methodologies. The post CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "WIN Semiconductors Launches 0.12μm GaN Power Process Qualified for 40V Operation",
+    "summary": "WIN Semiconductors' 0.12μm gate-length GaN-on-SiC technology integrates multiple transistor improvements The post WIN Semiconductors Launches 0.12μm GaN Power Process Qualified for 40V Operation appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/win-semiconductors-launches-0-12%ce%bcm-gan-power-process-qualified-for-40v-operation/"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "POLYN Technology Targets Sensor-level AI Processing for Ultra-low-power Edge Intelligence",
+    "summary": "Application-specific Tiny AI chips enable efficient sensor data processing for emerging edge and industrial systems. The post POLYN Technology Targets Sensor-level AI Processing for Ultra-low-power Edge Intelligence appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/polyn-technology-targets-sensor-level-ai-processing-for-ultra-low-power-edge-intelligence/"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "Alibaba leans on AI to drum up subdued '618' shopping festival",
+    "summary": "Alibaba leans on AI to drum up subdued '618' shopping festival",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/retail/alibaba-leans-on-ai-to-drum-up-subdued-618-shopping-festival"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "Japan eyes 'continuous' AI legal reforms to counter Mythos-level threats",
+    "summary": "Japan eyes 'continuous' AI legal reforms to counter Mythos-level threats",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-eyes-continuous-ai-legal-reforms-to-counter-mythos-level-threats"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "Alibaba's cloud arm opens 5th Japan data center, adding new AI services",
+    "summary": "Alibaba's cloud arm opens 5th Japan data center, adding new AI services",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-s-cloud-arm-opens-5th-japan-data-center-adding-new-ai-services"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
+    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "No career ambition, no ego: AI plays devil's advocate at Audax Private Equity",
+    "summary": "Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/private-equity/newsView/ked202603120002"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate",
+    "summary": "EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "Biotechnology"
+    ],
+    "url": "https://www.kedglobal.com/bio-pharma/newsView/ked202603100001"
+  },
+  {
     "date": "2026-06-18",
     "title": "How Coinbase plans to turn crypto into the payment layer for AI",
     "summary": "Coinbase is betting on tokenized stocks and AI agents to expand crypto adoption.",
