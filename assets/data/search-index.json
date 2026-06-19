@@ -1,83 +1,81 @@
 [
   {
     "date": "2026-06-19",
-    "title": "SG automation firm FileAI enters Japan with JRE Ventures backing",
-    "summary": "The companies plan to explore deploying FileAI’s AI platform at JR East Group companies.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI",
-      "Automation"
-    ],
-    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "AI hiring heats up in Singapore",
-    "summary": "Today, we look at the AI jobs race in Singapore, an AI music firm aiming to hit the ethical notes, and jail sentences in the TaniHub case.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/ai-hiring-heats-singapore"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "Commonwealth Bank of Australia appoints new CIO, CTO to boost technology, AI strategy",
-    "summary": "Commonwealth Bank of Australia appoints new CIO, CTO to boost technology, AI strategy",
+    "title": "Investors see Micron earnings as pulse check of AI rally momentum",
+    "summary": "Investors see Micron earnings as pulse check of AI rally momentum",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/commonwealth-bank-australia-appoints-new-cio-cto-boost-technology-ai-strategy-6194496"
+    "url": "https://www.channelnewsasia.com/business/investors-see-micron-earnings-pulse-check-ai-rally-momentum-6195586"
   },
   {
     "date": "2026-06-19",
-    "title": "How Coinbase plans to turn crypto into the payment layer for AI",
-    "summary": "Coinbase is betting on tokenized stocks and AI agents to expand crypto adoption.",
+    "title": "MediaTek leads HyperLight’s $80m AI infrastructure round",
+    "summary": "HyperLight said it will expand manufacturing capacity, speed up customer qualification, scale its TFLN Chiplet platform.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/how-coinbase-plans-to-turn-crypto-into-the-payment-layer-for-ai"
+    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
   },
   {
     "date": "2026-06-19",
-    "title": "Smart glasses race pulls Taiwan and China optical suppliers into waveguide battle",
-    "summary": "Smart glasses shipments are rising steadily, making the category one of the most closely watched consumer electronics growth drivers after notebooks and smartphones. Taiwanese optical suppliers entered the field early, while leading Chinese optical makers are also moving to capture the opportunity.",
+    "title": "Memory chip market could near $1t on AI demand: report",
+    "summary": "Counterpoint said server memory products would account for 56% of total memory revenue in 2026, up from 37% in 2025.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/global-smartphone-shipments-may-decline-2-1-in-2026"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "SeaX Ventures taps healthcare veteran for biotech push",
+    "summary": "SeaX said the appointment would strengthen its healthcare and biotech capabilities as it focused on connecting US deep tech with Southeast Asia.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Biotechnology"
+    ],
+    "url": "https://www.techinasia.com/melazyme-lands-seaxled-2m"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "SK Hynix reportedly held U.S. talks on HBM supply and local investment plans",
+    "summary": "SK Hynix is reported to have held a private meeting with U.S. Deputy Secretary of State Allison Hooker, with industry sources speculating the discussions covered high-bandwidth memory cooperation with major U.S. technology firms and potential semiconductor investment expansion.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Electronics"
+      "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260618PD211/shipments-taiwan-smart-glasses-growth-gseo.html"
+    "url": "https://www.digitimes.com/news/a20260618PD233/sk-hynix-hbm-investment-shipments-supply-chain.html"
   },
   {
     "date": "2026-06-19",
-    "title": "SiC cuts AI data center costs; 5% efficiency gain saves US$5 billion",
-    "summary": "Power is now compute, and it is becoming a major driver of AI data center build costs. Renesas technical director Mu-Sen Lin said traditional data centers rely on low-voltage AC (LVAC), long wiring runs, and repeated AC-to-DC conversions through uninterruptible power supply (UPS) systems, reducing energy transmission e",
+    "title": "China chip supply chain feels squeeze from AI server MLCCs to 8-bit MCUs",
+    "summary": "China's semiconductor supply chain is showing fresh signs of pricing strain, with microcontroller unit (MCU) makers and passive component suppliers facing rising costs, tighter capacity, and surging demand from AI servers.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260618VL202/passive-components-mlcc-mcu-demand-ai-server-supply-chain.html"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "Commentary: G7 AI fight moves to who controls frontier model access",
+    "summary": "The G7 debate over AI has moved beyond regulation and safety pledges into a harder fight over frontier model access: who can use the most powerful systems, under what conditions, and whether governments can switch that access off.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260618PD225/renesas-sic-data-center-efficiency-electricity.html"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "Foxconn chairman maps out Taiwan's global AI and manufacturing expansion strategy",
-    "summary": "Taiwan's electronics industry is stepping up its global ambitions as AI, data center infrastructure, and advanced manufacturing reshape supply chains. Speaking at the Chinese National Association of Industry and Commerce (CNAIC) on June 18, 2026, Foxconn chairman and Taiwan Electrical and Electronic Manufacturers' Asso",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "AI",
-      "Automation"
-    ],
-    "url": "https://www.digitimes.com/news/a20260618PD230/taiwan-manufacturing-foxconn-chairman-expansion.html"
+    "url": "https://www.digitimes.com/news/a20260618VL208/regulation-cybersecurity-anthropic.html"
   },
   {
     "date": "2026-06-19",
@@ -114,6 +112,17 @@
   },
   {
     "date": "2026-06-19",
+    "title": "The AI boom is quietly choking people in East Asia",
+    "summary": "The AI boom is quietly choking people in East Asia",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/opinion/the-ai-boom-is-quietly-choking-people-in-east-asia"
+  },
+  {
+    "date": "2026-06-19",
     "title": "Alibaba leans on AI to drum up subdued '618' shopping festival",
     "summary": "Alibaba leans on AI to drum up subdued '618' shopping festival",
     "source": "Nikkei Asia",
@@ -133,17 +142,6 @@
       "AI"
     ],
     "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-eyes-continuous-ai-legal-reforms-to-counter-mythos-level-threats"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "Alibaba's cloud arm opens 5th Japan data center, adding new AI services",
-    "summary": "Alibaba's cloud arm opens 5th Japan data center, adding new AI services",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-s-cloud-arm-opens-5th-japan-data-center-adding-new-ai-services"
   },
   {
     "date": "2026-06-19",
