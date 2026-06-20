@@ -1,30 +1,55 @@
 [
   {
     "date": "2026-06-20",
-    "title": "True IDC to invest over $183m in Bangkok data center",
-    "summary": "The company said the facility is due to launch in the third quarter of 2027 to meet rising demand for cloud and AI services.",
+    "title": "Japan taxi app Go raises $553m in biggest IPO this year",
+    "summary": "The company said it would use the funds for robotaxi research and development.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "AI"
+      "Automation"
     ],
-    "url": "https://www.techinasia.com/silicon-valley-llm-bubble-ruining-ai-development"
+    "url": "https://www.techinasia.com/goldmanbacked-japan-taxi-app-prices-ipo-top"
   },
   {
     "date": "2026-06-20",
-    "title": "Trump clears Anthropic after foreign access curbs",
-    "summary": "The comments came after the AI company restricted foreign access to its most advanced models.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Samsung weighs Boston Dynamics stake as humanoid AI race heats up",
+    "summary": "Samsung Electronics is reportedly reviewing the possibility of investing in Boston Dynamics, the US robotics company controlled by Hyundai Motor Group.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260618PD217/samsung-boston-dynamics-robotics-hyundai-robot.html"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "Google DeepMind maps four paths from AGI to ASI",
+    "summary": "Over the past decade, advances in artificial intelligence (AI) have repeatedly exceeded market expectations. Artificial general intelligence (AGI), once largely confined to the realms of science fiction, has become an explicit long-term objective for many leading AI organizations.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/anthropic-opposes-limits-on-state-ai-laws-in-us"
+    "url": "https://www.digitimes.com/news/a20260618PD209/agi-deepmind-google-development-data.html"
   },
   {
     "date": "2026-06-20",
-    "title": "MediaTek leads HyperLight’s $80m AI infrastructure round",
-    "summary": "HyperLight said it will expand manufacturing capacity, speed up customer qualification, scale its TFLN Chiplet platform.",
+    "title": "Taiwan LED makers look beyond lighting to AI optical communication",
+    "summary": "Taiwan's LED industry is moving beyond lighting components into AI optical communication, Micro LED, sensing, and high-end optoelectronic semiconductor applications. After years of oversupply, price wars, and restructuring, local LED makers are seeking a new role in the global supply chain as AI data centers accelerate",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260618PD201/taiwan-lighting-technology-supply-chain-ennostar.html"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "US insurance firm UnitedHealth plans $3b AI rollout",
+    "summary": "UnitedHealth said it expected nearly US$1 billion in operating cost reductions this year, largely driven by AI.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
@@ -34,59 +59,15 @@
   },
   {
     "date": "2026-06-20",
-    "title": "SK Hynix reportedly held U.S. talks on HBM supply and local investment plans",
-    "summary": "SK Hynix is reported to have held a private meeting with U.S. Deputy Secretary of State Allison Hooker, with industry sources speculating the discussions covered high-bandwidth memory cooperation with major U.S. technology firms and potential semiconductor investment expansion.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "China launches 17-measure plan to drive AI adoption",
+    "summary": "The plan supports AI phones, smart homes, connected cars, wearables, AI glasses, and care and household robots.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "Semiconductor"
+      "AI",
+      "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20260618PD233/sk-hynix-hbm-investment-shipments-supply-chain.html"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "China chip supply chain feels squeeze from AI server MLCCs to 8-bit MCUs",
-    "summary": "China's semiconductor supply chain is showing fresh signs of pricing strain, with microcontroller unit (MCU) makers and passive component suppliers facing rising costs, tighter capacity, and surging demand from AI servers.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260618VL202/passive-components-mlcc-mcu-demand-ai-server-supply-chain.html"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "Commentary: G7 AI fight moves to who controls frontier model access",
-    "summary": "The G7 debate over AI has moved beyond regulation and safety pledges into a harder fight over frontier model access: who can use the most powerful systems, under what conditions, and whether governments can switch that access off.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260618VL208/regulation-cybersecurity-anthropic.html"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation",
-    "summary": "The MoU is aimed at establishing a strategic framework to accelerate innovation through simulation-led development and advanced digital engineering methodologies. The post CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "WIN Semiconductors Launches 0.12μm GaN Power Process Qualified for 40V Operation",
-    "summary": "WIN Semiconductors' 0.12μm gate-length GaN-on-SiC technology integrates multiple transistor improvements The post WIN Semiconductors Launches 0.12μm GaN Power Process Qualified for 40V Operation appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.eetasia.com/win-semiconductors-launches-0-12%ce%bcm-gan-power-process-qualified-for-40v-operation/"
+    "url": "https://www.techinasia.com/ai-rules-sea-risks-fines"
   },
   {
     "date": "2026-06-20",
