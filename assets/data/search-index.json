@@ -1,5 +1,160 @@
 [
   {
+    "date": "2026-06-20",
+    "title": "True IDC to invest over $183m in Bangkok data center",
+    "summary": "The company said the facility is due to launch in the third quarter of 2027 to meet rising demand for cloud and AI services.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/silicon-valley-llm-bubble-ruining-ai-development"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "Trump clears Anthropic after foreign access curbs",
+    "summary": "The comments came after the AI company restricted foreign access to its most advanced models.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/anthropic-opposes-limits-on-state-ai-laws-in-us"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "MediaTek leads HyperLight’s $80m AI infrastructure round",
+    "summary": "HyperLight said it will expand manufacturing capacity, speed up customer qualification, scale its TFLN Chiplet platform.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "SK Hynix reportedly held U.S. talks on HBM supply and local investment plans",
+    "summary": "SK Hynix is reported to have held a private meeting with U.S. Deputy Secretary of State Allison Hooker, with industry sources speculating the discussions covered high-bandwidth memory cooperation with major U.S. technology firms and potential semiconductor investment expansion.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260618PD233/sk-hynix-hbm-investment-shipments-supply-chain.html"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "China chip supply chain feels squeeze from AI server MLCCs to 8-bit MCUs",
+    "summary": "China's semiconductor supply chain is showing fresh signs of pricing strain, with microcontroller unit (MCU) makers and passive component suppliers facing rising costs, tighter capacity, and surging demand from AI servers.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260618VL202/passive-components-mlcc-mcu-demand-ai-server-supply-chain.html"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "Commentary: G7 AI fight moves to who controls frontier model access",
+    "summary": "The G7 debate over AI has moved beyond regulation and safety pledges into a harder fight over frontier model access: who can use the most powerful systems, under what conditions, and whether governments can switch that access off.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260618VL208/regulation-cybersecurity-anthropic.html"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation",
+    "summary": "The MoU is aimed at establishing a strategic framework to accelerate innovation through simulation-led development and advanced digital engineering methodologies. The post CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "WIN Semiconductors Launches 0.12μm GaN Power Process Qualified for 40V Operation",
+    "summary": "WIN Semiconductors' 0.12μm gate-length GaN-on-SiC technology integrates multiple transistor improvements The post WIN Semiconductors Launches 0.12μm GaN Power Process Qualified for 40V Operation appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/win-semiconductors-launches-0-12%ce%bcm-gan-power-process-qualified-for-40v-operation/"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "Optical cable maker WCFO to add Cambodia capacity amid AI boom",
+    "summary": "Optical cable maker WCFO to add Cambodia capacity amid AI boom",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/optical-cable-maker-wcfo-to-add-cambodia-capacity-amid-ai-boom"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "Japan targets $65bn in public-private physical AI investment by 2040",
+    "summary": "Japan targets $65bn in public-private physical AI investment by 2040",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-targets-65bn-in-public-private-physical-ai-investment-by-2040"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "The AI boom is quietly choking people in East Asia",
+    "summary": "The AI boom is quietly choking people in East Asia",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/opinion/the-ai-boom-is-quietly-choking-people-in-east-asia"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
+    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "No career ambition, no ego: AI plays devil's advocate at Audax Private Equity",
+    "summary": "Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/private-equity/newsView/ked202603120002"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate",
+    "summary": "EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "Biotechnology"
+    ],
+    "url": "https://www.kedglobal.com/bio-pharma/newsView/ked202603100001"
+  },
+  {
     "date": "2026-06-19",
     "title": "Investors see Micron earnings as pulse check of AI rally momentum",
     "summary": "Investors see Micron earnings as pulse check of AI rally momentum",
