@@ -1,20 +1,24 @@
 {
-  "date": "2026-06-19",
-  "count": 16,
+  "date": "2026-06-20",
+  "count": 14,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
     "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-06-19-asia-tech-news-digest.md",
+  "post_file": "2026-06-20-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Investors see Micron earnings as pulse check of AI rally momentum",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/investors-see-micron-earnings-pulse-check-ai-rally-momentum-6195586"
+      "title": "True IDC to invest over $183m in Bangkok data center",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/silicon-valley-llm-bubble-ruining-ai-development"
+    },
+    {
+      "title": "Trump clears Anthropic after foreign access curbs",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/anthropic-opposes-limits-on-state-ai-laws-in-us"
     },
     {
       "title": "MediaTek leads HyperLight\u2019s $80m AI infrastructure round",
@@ -22,19 +26,14 @@
       "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
     },
     {
-      "title": "Memory chip market could near $1t on AI demand: report",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/global-smartphone-shipments-may-decline-2-1-in-2026"
-    },
-    {
-      "title": "SeaX Ventures taps healthcare veteran for biotech push",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/melazyme-lands-seaxled-2m"
-    },
-    {
       "title": "SK Hynix reportedly held U.S. talks on HBM supply and local investment plans",
       "source": "DigiTimes",
       "url": "https://www.digitimes.com/news/a20260618PD233/sk-hynix-hbm-investment-shipments-supply-chain.html"
+    },
+    {
+      "title": "China chip supply chain feels squeeze from AI server MLCCs to 8-bit MCUs",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260618VL202/passive-components-mlcc-mcu-demand-ai-server-supply-chain.html"
     }
   ]
 }
