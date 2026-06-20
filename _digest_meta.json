@@ -1,9 +1,8 @@
 {
   "date": "2026-06-20",
-  "count": 14,
+  "count": 12,
   "sources": [
     "DigiTimes",
-    "EETAsia",
     "KED",
     "NikkeiAsia",
     "TechAsia"
@@ -11,29 +10,29 @@
   "post_file": "2026-06-20-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "True IDC to invest over $183m in Bangkok data center",
+      "title": "Japan taxi app Go raises $553m in biggest IPO this year",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/silicon-valley-llm-bubble-ruining-ai-development"
+      "url": "https://www.techinasia.com/goldmanbacked-japan-taxi-app-prices-ipo-top"
     },
     {
-      "title": "Trump clears Anthropic after foreign access curbs",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-opposes-limits-on-state-ai-laws-in-us"
+      "title": "Samsung weighs Boston Dynamics stake as humanoid AI race heats up",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260618PD217/samsung-boston-dynamics-robotics-hyundai-robot.html"
     },
     {
-      "title": "MediaTek leads HyperLight\u2019s $80m AI infrastructure round",
+      "title": "Google DeepMind maps four paths from AGI to ASI",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260618PD209/agi-deepmind-google-development-data.html"
+    },
+    {
+      "title": "Taiwan LED makers look beyond lighting to AI optical communication",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260618PD201/taiwan-lighting-technology-supply-chain-ennostar.html"
+    },
+    {
+      "title": "US insurance firm UnitedHealth plans $3b AI rollout",
       "source": "TechAsia",
       "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
-    },
-    {
-      "title": "SK Hynix reportedly held U.S. talks on HBM supply and local investment plans",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260618PD233/sk-hynix-hbm-investment-shipments-supply-chain.html"
-    },
-    {
-      "title": "China chip supply chain feels squeeze from AI server MLCCs to 8-bit MCUs",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260618VL202/passive-components-mlcc-mcu-demand-ai-server-supply-chain.html"
     }
   ]
 }
