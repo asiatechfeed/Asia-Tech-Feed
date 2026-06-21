@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "count": 12,
   "sources": [
     "DigiTimes",
@@ -7,8 +7,13 @@
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-06-20-asia-tech-news-digest.md",
+  "post_file": "2026-06-21-asia-tech-news-digest.md",
   "articles": [
+    {
+      "title": "Mapping China\u2019s biotech titans",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/visual-story/mapping-chinas-biotech-titans"
+    },
     {
       "title": "Japan taxi app Go raises $553m in biggest IPO this year",
       "source": "TechAsia",
@@ -28,11 +33,6 @@
       "title": "Taiwan LED makers look beyond lighting to AI optical communication",
       "source": "DigiTimes",
       "url": "https://www.digitimes.com/news/a20260618PD201/taiwan-lighting-technology-supply-chain-ennostar.html"
-    },
-    {
-      "title": "US insurance firm UnitedHealth plans $3b AI rollout",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
     }
   ]
 }
