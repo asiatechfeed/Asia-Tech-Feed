@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asia-tech-feed.pages.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asia-tech-feed.pages.dev/" rel="alternate" type="text/html" /><updated>2026-06-21T00:02:28+00:00</updated><id>https://asia-tech-feed.pages.dev/feed.xml</id><title type="html">Asia Tech News Feed</title><subtitle>Daily Asia news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - June 21, 2026</title><link href="https://asia-tech-feed.pages.dev/2026/06/21/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 21, 2026" /><published>2026-06-21T00:01:47+00:00</published><updated>2026-06-21T00:01:47+00:00</updated><id>https://asia-tech-feed.pages.dev/2026/06/21/asia-tech-news-digest</id><content type="html" xml:base="https://asia-tech-feed.pages.dev/2026/06/21/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asia-tech-feed.pages.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asia-tech-feed.pages.dev/" rel="alternate" type="text/html" /><updated>2026-06-21T11:33:52+00:00</updated><id>https://asia-tech-feed.pages.dev/feed.xml</id><title type="html">Asia Tech News Feed</title><subtitle>Daily Asia news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - June 21, 2026</title><link href="https://asia-tech-feed.pages.dev/2026/06/21/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 21, 2026" /><published>2026-06-21T11:33:09+00:00</published><updated>2026-06-21T11:33:09+00:00</updated><id>https://asia-tech-feed.pages.dev/2026/06/21/asia-tech-news-digest</id><content type="html" xml:base="https://asia-tech-feed.pages.dev/2026/06/21/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -13,21 +13,37 @@
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Mapping China’s biotech titans</span></td>
-  <td class="col-summary">Mapping China’s biotech sector: Key players, top investors, and funding insights in one report.</td>
-  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/mapping-chinas-biotech-titans" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Mapping the dominant players in Israel’s AI field</span></td>
+  <td class="col-summary">Mapping Israel's AI sector: Key players, top investors, and funding insights in one report.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/mapping-dominant-players-israels-ai-field" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan taxi app Go raises $553m in biggest IPO this year</span></td>
-  <td class="col-summary">The company said it would use the funds for robotaxi research and development.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/goldmanbacked-japan-taxi-app-prices-ipo-top" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">LG CNS joins AI push for South Korean manufacturers</span></td>
+  <td class="col-summary">Government and participating large companies covering up to 60%, or 1.8 billion won (US$1.17 million).</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/lg-cns-expands-role-in-robot-ai-training-for-manufacturers" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Meta AI glasses pilot in India faces privacy questions</span></td>
+  <td class="col-summary">Privacy lawyers warn always-on wearable cameras and overseas data processing could raise issues under India’s data law.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-reliance-develop-aienabled-data-center-india" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwan memory chip designers set for 245% revenue jump on AI storage demand</span></td>
+  <td class="col-summary">Taiwan's memory chip designers are heading into a sharply stronger 2026 as rising memory prices and a wave of AI-driven demand push the industry away from consumer electronics and toward higher-value data center and AI applications.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260618PD205/taiwan-memory-chips-nand-revenue-phison-silicon-motion-2026.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
   <td class="col-title"><span class="article-title">Samsung weighs Boston Dynamics stake as humanoid AI race heats up</span></td>
   <td class="col-summary">Samsung Electronics is reportedly reviewing the possibility of investing in Boston Dynamics, the US robotics company controlled by Hyundai Motor Group.</td>
@@ -35,28 +51,12 @@
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260618PD217/samsung-boston-dynamics-robotics-hyundai-robot.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">4</td>
+  <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
   <td class="col-title"><span class="article-title">Google DeepMind maps four paths from AGI to ASI</span></td>
   <td class="col-summary">Over the past decade, advances in artificial intelligence (AI) have repeatedly exceeded market expectations. Artificial general intelligence (AGI), once largely confined to the realms of science fiction, has become an explicit long-term objective for many leading AI organizations.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260618PD209/agi-deepmind-google-development-data.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan LED makers look beyond lighting to AI optical communication</span></td>
-  <td class="col-summary">Taiwan's LED industry is moving beyond lighting components into AI optical communication, Micro LED, sensing, and high-end optoelectronic semiconductor applications. After years of oversupply, price wars, and restructuring, local LED makers are seeking a new role in the global supply chain as AI data centers accelerate</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260618PD201/taiwan-lighting-technology-supply-chain-ennostar.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">US insurance firm UnitedHealth plans $3b AI rollout</span></td>
-  <td class="col-summary">UnitedHealth said it expected nearly US$1 billion in operating cost reductions this year, largely driven by AI.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
@@ -107,7 +107,7 @@
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/bio-pharma/newsView/ked202603100001" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Mapping China’s biotech titans Mapping China’s biotech sector: Key players, top investors, and funding insights in one report. Biotechnology Read 2 TechAsia Japan taxi app Go raises $553m in biggest IPO this year The company said it would use the funds for robotaxi research and development. Automation Read 3 DigiTimes Samsung weighs Boston Dynamics stake as humanoid AI race heats up Samsung Electronics is reportedly reviewing the possibility of investing in Boston Dynamics, the US robotics company controlled by Hyundai Motor Group. ElectronicsAIAutomation Read 4 DigiTimes Google DeepMind maps four paths from AGI to ASI Over the past decade, advances in artificial intelligence (AI) have repeatedly exceeded market expectations. Artificial general intelligence (AGI), once largely confined to the realms of science fiction, has become an explicit long-term objective for many leading AI organizations. AI Read 5 DigiTimes Taiwan LED makers look beyond lighting to AI optical communication Taiwan's LED industry is moving beyond lighting components into AI optical communication, Micro LED, sensing, and high-end optoelectronic semiconductor applications. After years of oversupply, price wars, and restructuring, local LED makers are seeking a new role in the global supply chain as AI data centers accelerate SemiconductorAI Read 6 TechAsia US insurance firm UnitedHealth plans $3b AI rollout UnitedHealth said it expected nearly US$1 billion in operating cost reductions this year, largely driven by AI. AI Read 7 NikkeiAsia Optical cable maker WCFO to add Cambodia capacity amid AI boom Optical cable maker WCFO to add Cambodia capacity amid AI boom AI Read 8 NikkeiAsia Japan targets $65bn in public-private physical AI investment by 2040 Japan targets $65bn in public-private physical AI investment by 2040 AI Read 9 NikkeiAsia The AI boom is quietly choking people in East Asia The AI boom is quietly choking people in East Asia AI Read 10 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun AI Read 11 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass AI Read 12 KED EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease Biotechnology Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - June 20, 2026</title><link href="https://asia-tech-feed.pages.dev/2026/06/20/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 20, 2026" /><published>2026-06-20T10:19:48+00:00</published><updated>2026-06-20T10:19:48+00:00</updated><id>https://asia-tech-feed.pages.dev/2026/06/20/asia-tech-news-digest</id><content type="html" xml:base="https://asia-tech-feed.pages.dev/2026/06/20/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Mapping the dominant players in Israel’s AI field Mapping Israel's AI sector: Key players, top investors, and funding insights in one report. AI Read 2 TechAsia LG CNS joins AI push for South Korean manufacturers Government and participating large companies covering up to 60%, or 1.8 billion won (US$1.17 million). AI Read 3 TechAsia Meta AI glasses pilot in India faces privacy questions Privacy lawyers warn always-on wearable cameras and overseas data processing could raise issues under India’s data law. AI Read 4 DigiTimes Taiwan memory chip designers set for 245% revenue jump on AI storage demand Taiwan's memory chip designers are heading into a sharply stronger 2026 as rising memory prices and a wave of AI-driven demand push the industry away from consumer electronics and toward higher-value data center and AI applications. ElectronicsAI Read 5 DigiTimes Samsung weighs Boston Dynamics stake as humanoid AI race heats up Samsung Electronics is reportedly reviewing the possibility of investing in Boston Dynamics, the US robotics company controlled by Hyundai Motor Group. ElectronicsAIAutomation Read 6 DigiTimes Google DeepMind maps four paths from AGI to ASI Over the past decade, advances in artificial intelligence (AI) have repeatedly exceeded market expectations. Artificial general intelligence (AGI), once largely confined to the realms of science fiction, has become an explicit long-term objective for many leading AI organizations. AI Read 7 NikkeiAsia Optical cable maker WCFO to add Cambodia capacity amid AI boom Optical cable maker WCFO to add Cambodia capacity amid AI boom AI Read 8 NikkeiAsia Japan targets $65bn in public-private physical AI investment by 2040 Japan targets $65bn in public-private physical AI investment by 2040 AI Read 9 NikkeiAsia The AI boom is quietly choking people in East Asia The AI boom is quietly choking people in East Asia AI Read 10 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun AI Read 11 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass AI Read 12 KED EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease Biotechnology Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - June 20, 2026</title><link href="https://asia-tech-feed.pages.dev/2026/06/20/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 20, 2026" /><published>2026-06-20T10:19:48+00:00</published><updated>2026-06-20T10:19:48+00:00</updated><id>https://asia-tech-feed.pages.dev/2026/06/20/asia-tech-news-digest</id><content type="html" xml:base="https://asia-tech-feed.pages.dev/2026/06/20/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
