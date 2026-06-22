@@ -1,38 +1,39 @@
 {
-  "date": "2026-06-21",
-  "count": 12,
+  "date": "2026-06-22",
+  "count": 13,
   "sources": [
+    "CNA",
     "DigiTimes",
     "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-06-21-asia-tech-news-digest.md",
+  "post_file": "2026-06-22-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Mapping the dominant players in Israel\u2019s AI field",
+      "title": "Singapore AI biotech startup ChemT raises $5m",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/visual-story/mapping-dominant-players-israels-ai-field"
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
     },
     {
-      "title": "LG CNS joins AI push for South Korean manufacturers",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/lg-cns-expands-role-in-robot-ai-training-for-manufacturers"
-    },
-    {
-      "title": "Meta AI glasses pilot in India faces privacy questions",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/meta-reliance-develop-aienabled-data-center-india"
-    },
-    {
-      "title": "Taiwan memory chip designers set for 245% revenue jump on AI storage demand",
+      "title": "India roundup: Apple's India manufacturing bet faces reminder of operational risks after Tata probe closure",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260618PD205/taiwan-memory-chips-nand-revenue-phison-silicon-motion-2026.html"
+      "url": "https://www.digitimes.com/news/a20260621VL200/manufacturing-probe-apple-electronics-market.html"
     },
     {
-      "title": "Samsung weighs Boston Dynamics stake as humanoid AI race heats up",
+      "title": "Interview: MetaComp on its KYA framework and the agentic future of finance",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260618PD217/samsung-boston-dynamics-robotics-hyundai-robot.html"
+      "url": "https://www.digitimes.com/news/a20260618VL212/finance-governance-regulation.html"
+    },
+    {
+      "title": "MSScorps expands Taiwan investment again for silicon photonics",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260618PD236/taiwan-investment-msscorps-silicon-photonics.html"
+    },
+    {
+      "title": "Commentary: Anthropic\u2019s call for AI development pause deserves attention. It also raises questions",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/anthropic-pause-ai-development-governance-adoption-6189656"
     }
   ]
 }

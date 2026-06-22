@@ -1,5 +1,151 @@
 [
   {
+    "date": "2026-06-22",
+    "title": "Singapore AI biotech startup ChemT raises $5m",
+    "summary": "The AI biotech startup is building software designed to improve biologics manufacturing.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Biotechnology",
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "India roundup: Apple's India manufacturing bet faces reminder of operational risks after Tata probe closure",
+    "summary": "India is accelerating its electronics manufacturing ambitions through AI infrastructure, semiconductor packaging, rare earth development, and foreign investment, even as regulatory compliance, traceability, and supply chain resilience remain key challenges.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260621VL200/manufacturing-probe-apple-electronics-market.html"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Interview: MetaComp on its KYA framework and the agentic future of finance",
+    "summary": "Agentic AI is entering the financial sector, and a future where agents make purchases and manage wealth on people's behalf is appearing on the horizon – but is the financial system ready for this?",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260618VL212/finance-governance-regulation.html"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "MSScorps expands Taiwan investment again for silicon photonics",
+    "summary": "Taiwan's investment office, InvesTaiwan, under the Ministry of Economic Affairs, has approved expanded Taiwan investment plans from four companies, led by MSScorps, which will invest NT$1.5 billion (US$47.4 million) and is filing for the third time. The company plans to add production lines and adopt AI technology at i",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260618PD236/taiwan-investment-msscorps-silicon-photonics.html"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Commentary: Anthropic’s call for AI development pause deserves attention. It also raises questions",
+    "summary": "Anthropic’s call for a global pause in AI development deserves to be taken seriously but a pause is structurally unlikely, says NUS' Jungpil Hahn.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/anthropic-pause-ai-development-governance-adoption-6189656"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Mapping the dominant players in Israel’s AI field",
+    "summary": "Mapping Israel's AI sector: Key players, top investors, and funding insights in one report.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/visual-story/mapping-dominant-players-israels-ai-field"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "LG CNS joins AI push for South Korean manufacturers",
+    "summary": "Government and participating large companies covering up to 60%, or 1.8 billion won (US$1.17 million).",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/lg-cns-expands-role-in-robot-ai-training-for-manufacturers"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Optical cable maker WCFO to add Cambodia capacity amid AI boom",
+    "summary": "Optical cable maker WCFO to add Cambodia capacity amid AI boom",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/optical-cable-maker-wcfo-to-add-cambodia-capacity-amid-ai-boom"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Japan targets $65bn in public-private physical AI investment by 2040",
+    "summary": "Japan targets $65bn in public-private physical AI investment by 2040",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-targets-65bn-in-public-private-physical-ai-investment-by-2040"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "The AI boom is quietly choking people in East Asia",
+    "summary": "The AI boom is quietly choking people in East Asia",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/opinion/the-ai-boom-is-quietly-choking-people-in-east-asia"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
+    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "No career ambition, no ego: AI plays devil's advocate at Audax Private Equity",
+    "summary": "Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/private-equity/newsView/ked202603120002"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate",
+    "summary": "EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "Biotechnology"
+    ],
+    "url": "https://www.kedglobal.com/bio-pharma/newsView/ked202603100001"
+  },
+  {
     "date": "2026-06-21",
     "title": "Mapping the dominant players in Israel’s AI field",
     "summary": "Mapping Israel's AI sector: Key players, top investors, and funding insights in one report.",
