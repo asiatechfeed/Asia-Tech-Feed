@@ -1,39 +1,40 @@
 {
-  "date": "2026-06-22",
-  "count": 13,
+  "date": "2026-06-23",
+  "count": 14,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
     "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-06-22-asia-tech-news-digest.md",
+  "post_file": "2026-06-23-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Singapore AI biotech startup ChemT raises $5m",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
-    },
-    {
-      "title": "India roundup: Apple's India manufacturing bet faces reminder of operational risks after Tata probe closure",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260621VL200/manufacturing-probe-apple-electronics-market.html"
-    },
-    {
-      "title": "Interview: MetaComp on its KYA framework and the agentic future of finance",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260618VL212/finance-governance-regulation.html"
-    },
-    {
-      "title": "MSScorps expands Taiwan investment again for silicon photonics",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260618PD236/taiwan-investment-msscorps-silicon-photonics.html"
-    },
-    {
-      "title": "Commentary: Anthropic\u2019s call for AI development pause deserves attention. It also raises questions",
+      "title": "US tech megacaps slide as SpaceX extends slump, AI expense concerns grow",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/anthropic-pause-ai-development-governance-adoption-6189656"
+      "url": "https://www.channelnewsasia.com/business/us-tech-megacaps-slide-spacex-extends-slump-ai-expense-concerns-grow-6201566"
+    },
+    {
+      "title": "Singapore AI inspection startup H3 Zoom raises $3.6m",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/singapores-hunt-ai-stars-risks-alienating-small-players"
+    },
+    {
+      "title": "Indonesia to use AI in $15b free meals scheme",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/indonesia-said-to-weigh-sovereign-ai-fund-to-be-regional-hub"
+    },
+    {
+      "title": "AI demolishes traditional tech: how NPUs and AI RAN are rewriting European infrastructure",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260618VL205/infrastructure-hardware-data-software-workstation.html"
+    },
+    {
+      "title": "SK Biopharma taps Insilico for $2.5b AI drug deal",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/sk-group-nvidia-chiefs-talk-ai-in-silicon-valley-sources"
     }
   ]
 }
