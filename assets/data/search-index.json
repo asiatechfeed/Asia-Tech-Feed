@@ -1,82 +1,104 @@
 [
   {
     "date": "2026-06-23",
-    "title": "US tech megacaps slide as SpaceX extends slump, AI expense concerns grow",
-    "summary": "US tech megacaps slide as SpaceX extends slump, AI expense concerns grow",
+    "title": "Chinese robotics company Coowa readies Hong Kong IPO",
+    "summary": "CooWa deployed over 10,000 robots across more than 50 cities and regions globally.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "LG Group execs visit Nvidia to expand physical AI and robotics ties",
+    "summary": "LG Group dispatched senior executives to Nvidia's headquarters in Santa Clara, California, on June 22, 2026, to negotiate expanded cooperation in physical AI and robotics, following a leadership meeting between the two companies in Seoul on June 8, 2026. The delegation comprised more than 30 people from LG affiliates t",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260622PD232/lg-nvidia-robotics-2026-infrastructure.html"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "Japan puts robotics at heart of US$2.3 trillion chip revival",
+    "summary": "Japan is preparing a sweeping public-private investment strategy totaling more than JPY370 trillion (US$2.3 trillion) by fiscal 2040, spanning 17 strategic sectors including AI, semiconductors, aerospace, and energy-related industries.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260622VL215/growth-robotics-investment-demand-government.html"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "Commentary: Google defines AI path to ASI, validates chip boom",
+    "summary": "Google released a 30,000-word AI roadmap on June 14 that, for the first time, clearly defines AI having the capability of 100 million humans as a key milestone on the path to artificial superintelligence (ASI). The plan outlines a three-stage evolution from today's large models to artificial general intelligence (AGI) ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260622PD225/google-ai-infrastructure-alibaba-openai-roadmap.html"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "UBTech unveils Walker C1 service humanoid in Beijing",
+    "summary": "UBTECH's Walker C1 robot stands 165 cm tall and weighs 50 kg with 26 degrees of freedom.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/chinas-ubtech-boost-humanoid-robot-production-10-2026"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "IBM, OpenAI launch AI service for app security",
+    "summary": "IBM's new service uses OpenAI's AI to prioritize code sections likely to contain vulnerabilities.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/ibm-metas-ai-alliance-launches-indonesia"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk",
+    "summary": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/us-tech-megacaps-slide-spacex-extends-slump-ai-expense-concerns-grow-6201566"
+    "url": "https://www.channelnewsasia.com/business/five-eyes-intelligence-alliance-warns-new-ai-models-pose-urgent-cyber-risk-6202181"
   },
   {
     "date": "2026-06-23",
-    "title": "Singapore AI inspection startup H3 Zoom raises $3.6m",
-    "summary": "The round was led by JRE Ventures, with participation from SGInnovate and M7 Holdings.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Commentary: ChatGPT moved my cheese - AI is unsettling the self-help shelf",
+    "summary": "Instant summaries sound the death knell for the bullet-point books that prey on our insecurities, says Emma Jacobs for the Financial Times.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/singapores-hunt-ai-stars-risks-alienating-small-players"
+    "url": "https://www.channelnewsasia.com/commentary/chatgpt-ai-self-help-seven-habits-friends-influence-people-6200336"
   },
   {
     "date": "2026-06-23",
-    "title": "Indonesia to use AI in $15b free meals scheme",
-    "summary": "The meals program targets 83 million children and pregnant women.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Qualcomm nearing deal for AI chip startup Modular, Bloomberg News reports",
+    "summary": "Qualcomm nearing deal for AI chip startup Modular, Bloomberg News reports",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/indonesia-said-to-weigh-sovereign-ai-fund-to-be-regional-hub"
-  },
-  {
-    "date": "2026-06-23",
-    "title": "AI demolishes traditional tech: how NPUs and AI RAN are rewriting European infrastructure",
-    "summary": "AI is no longer a localized software novelty. It is now aggressively wiping out traditional hardware infrastructure across Europe. According to new market intelligence reports from CONTEXT World, there has been an unprecedented displacement of legacy systems. Driven by complex professional workflows, massive public sec",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260618VL205/infrastructure-hardware-data-software-workstation.html"
-  },
-  {
-    "date": "2026-06-23",
-    "title": "SK Biopharma taps Insilico for $2.5b AI drug deal",
-    "summary": "The collaboration builds on SK Biopharmaceuticals’ focus on central nervous system diseases.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Pharmaceutical",
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/sk-group-nvidia-chiefs-talk-ai-in-silicon-valley-sources"
-  },
-  {
-    "date": "2026-06-23",
-    "title": "SK Hynix overtakes Samsung as HBM boom reshapes Korea's chip industry",
-    "summary": "SK Hynix briefly overtook Samsung Electronics on June 22 to claim the top spot by common-share market capitalization on South Korea's KOSPI exchange, a milestone that reflects how high-bandwidth memory (HBM) has redefined the value of Korea's semiconductor industry.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "Electronics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260622VL210/sk-hynix-samsung-hbm-market-capitalization.html"
-  },
-  {
-    "date": "2026-06-23",
-    "title": "TSMC glass substrate rollout unlikely before 2030",
-    "summary": "The race to commercialize glass core substrates in advanced semiconductor packaging is heating up — but the technology is moving faster in headlines than in production lines. DIGITIMES has been tracking the latest developments in TSMC's CoPoS advanced packaging technology, with glass core substrates emerging as the mos",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260622PD214/tsmc-digitimes-glass-substrate-2030-intel.html"
+    "url": "https://www.channelnewsasia.com/business/qualcomm-nearing-deal-ai-chip-startup-modular-bloomberg-news-reports-6202061"
   },
   {
     "date": "2026-06-23",
@@ -89,6 +111,17 @@
       "AI"
     ],
     "url": "https://www.eetasia.com/ee-power-asia-2026-to-spotlight-technologies-driving-the-next-era-of-electrification/"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "Japan's 'Sakana Fugu' multiagent AI scores well against Fable 5, GPT 5.5",
+    "summary": "Japan's 'Sakana Fugu' multiagent AI scores well against Fable 5, GPT 5.5",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-sakana-fugu-multiagent-ai-scores-well-against-fable-5-gpt-5.5"
   },
   {
     "date": "2026-06-23",
@@ -111,17 +144,6 @@
       "AI"
     ],
     "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-seeks-ai-alliances-with-france-india-to-curb-us-china-dominance"
-  },
-  {
-    "date": "2026-06-23",
-    "title": "Japan's Preferred Networks debuts AI priced less than half of OpenAI models",
-    "summary": "Japan's Preferred Networks debuts AI priced less than half of OpenAI models",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-preferred-networks-debuts-ai-priced-less-than-half-of-openai-models"
   },
   {
     "date": "2026-06-23",
