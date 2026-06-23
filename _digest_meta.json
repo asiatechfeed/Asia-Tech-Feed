@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "count": 14,
+  "count": 16,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -12,29 +12,29 @@
   "post_file": "2026-06-23-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "US tech megacaps slide as SpaceX extends slump, AI expense concerns grow",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/us-tech-megacaps-slide-spacex-extends-slump-ai-expense-concerns-grow-6201566"
-    },
-    {
-      "title": "Singapore AI inspection startup H3 Zoom raises $3.6m",
+      "title": "Chinese robotics company Coowa readies Hong Kong IPO",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/singapores-hunt-ai-stars-risks-alienating-small-players"
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
     },
     {
-      "title": "Indonesia to use AI in $15b free meals scheme",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/indonesia-said-to-weigh-sovereign-ai-fund-to-be-regional-hub"
-    },
-    {
-      "title": "AI demolishes traditional tech: how NPUs and AI RAN are rewriting European infrastructure",
+      "title": "LG Group execs visit Nvidia to expand physical AI and robotics ties",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260618VL205/infrastructure-hardware-data-software-workstation.html"
+      "url": "https://www.digitimes.com/news/a20260622PD232/lg-nvidia-robotics-2026-infrastructure.html"
     },
     {
-      "title": "SK Biopharma taps Insilico for $2.5b AI drug deal",
+      "title": "Japan puts robotics at heart of US$2.3 trillion chip revival",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260622VL215/growth-robotics-investment-demand-government.html"
+    },
+    {
+      "title": "Commentary: Google defines AI path to ASI, validates chip boom",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260622PD225/google-ai-infrastructure-alibaba-openai-roadmap.html"
+    },
+    {
+      "title": "UBTech unveils Walker C1 service humanoid in Beijing",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/sk-group-nvidia-chiefs-talk-ai-in-silicon-valley-sources"
+      "url": "https://www.techinasia.com/chinas-ubtech-boost-humanoid-robot-production-10-2026"
     }
   ]
 }
