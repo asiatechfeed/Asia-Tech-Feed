@@ -1,40 +1,39 @@
 {
-  "date": "2026-06-23",
-  "count": 16,
+  "date": "2026-06-24",
+  "count": 15,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
     "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-06-23-asia-tech-news-digest.md",
+  "post_file": "2026-06-24-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "EU approves \u20ac76 million German state aid for cutting edge semiconductor facility",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/eu-approves-eu76-million-german-state-aid-cutting-edge-semiconductor-facility-6203451"
-    },
-    {
-      "title": "Nvidia targets robot safety as humanoids edge toward factory floors",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260623VL216/robot-nvidia-industrial-software-bloomberg.html"
-    },
-    {
-      "title": "AI data center buildout fuels optical interconnect race, but 6-inch InP wafers hit supply wall",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260623PD220/inp-6-inch-demand-substrate-technology.html"
-    },
-    {
-      "title": "Nippon Sanso raises helium prices over 30% on Middle East instability-driven supply crunch",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260623PD200/price-market-medical-price-increase.html"
-    },
-    {
-      "title": "Catching AI fraud with behavioral profiling",
+      "title": "South Korean Smilegate hits $40m initial close for AI fund",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/catching-ai-fraud-behavioral-profiling"
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+    },
+    {
+      "title": "China's chip-equipment push starts to weigh on Japanese suppliers",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260622VL212/equipment-revenue-2026-euv-sales.html"
+    },
+    {
+      "title": "AI server VRM shifts drive power shortages and stretch lead times past 6 months",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260623PD235/ai-server-power-components-management-demand.html"
+    },
+    {
+      "title": "VFT targets semiconductors, foldable display, energy materials",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260622PD233/materials-foldable-technology-demand-equipment.html"
+    },
+    {
+      "title": "Meta pressed to submit AI models for federal review",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/meta-cuts-operational-ties-with-manus-after-deal-reversal"
     }
   ]
 }
