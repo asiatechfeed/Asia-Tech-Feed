@@ -1,5 +1,172 @@
 [
   {
+    "date": "2026-06-24",
+    "title": "South Korean Smilegate hits $40m initial close for AI fund",
+    "summary": "Smilegate Investment, founded in 1999 and managing about 900 billion won (US$585 million).",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "China's chip-equipment push starts to weigh on Japanese suppliers",
+    "summary": "China's push to build a domestic semiconductor equipment industry is beginning to cut into revenue at major Japanese toolmakers, with five major Japanese suppliers posting a combined 12% drop in China sales for the fiscal year ended March 2026, Nikkei reported.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260622VL212/equipment-revenue-2026-euv-sales.html"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "AI server VRM shifts drive power shortages and stretch lead times past 6 months",
+    "summary": "The AI boom is accelerating upgrades in thermal management and power management, and it is also triggering a revolution in voltage regulator module (VRM) architecture, with workloads pushing the industry from doubler-based designs to direct native multi-phase control. Industry insiders say the growing shortage of power",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260623PD235/ai-server-power-components-management-demand.html"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "VFT targets semiconductors, foldable display, energy materials",
+    "summary": "Optical film and nano-coating materials developer Victory For Technology (VFT) is focusing on three key areas — AI and semiconductor processes, foldable displays, and key new-energy materials — as it deepens R&D and product deployment to capture emerging opportunities in the global supply chain.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260622PD233/materials-foldable-technology-demand-equipment.html"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Meta pressed to submit AI models for federal review",
+    "summary": "Meta is the only major US AI developer yet to agree to voluntary federal model review.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/meta-cuts-operational-ties-with-manus-after-deal-reversal"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Blackstone to invest $30b in Japan AI data centers",
+    "summary": "Gray said Blackstone is in talks to develop data center facilities in Japan with capacity of more than 1 gigawatt.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/blackstone-targets-17b-data-center-ipo"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "DigiKey Sponsors AIoT Design Challenge 2026",
+    "summary": "The AIoT Design Challenge 2026 aims to foster innovation at the intersection of AI and the Internet of Things. The post DigiKey Sponsors AIoT Design Challenge 2026 appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/digikey-sponsors-aiot-design-challenge-2026/"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Brewer Science to Acquire Heraeus Epurio’s Semiconductor Chemical Business",
+    "summary": "The acquisition strengthens Brewer Science's ability to support semiconductor customers with highly specialized, ultrapure chemical solutions. The post Brewer Science to Acquire Heraeus Epurio’s Semiconductor Chemical Business appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/brewer-science-to-acquire-heraeus-epurios-semiconductor-chemical-business/"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Why Cadence Sees AI Super Agents as the Next Semiconductor Productivity Engine",
+    "summary": "Cadence believes autonomous AI agents will become essential as semiconductor complexity outpaces engineering workforce growth. The post Why Cadence Sees AI Super Agents as the Next Semiconductor Productivity Engine appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/why-cadence-sees-ai-super-agents-as-the-next-semiconductor-productivity-engine/"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Blackstone to invest $30bn in Japan AI data centers: president",
+    "summary": "Blackstone to invest $30bn in Japan AI data centers: president",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/blackstone-to-invest-30bn-in-japan-ai-data-centers-president"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "SoftBank to build AI servers at old Sharp plant starting in fiscal 2027",
+    "summary": "SoftBank to build AI servers at old Sharp plant starting in fiscal 2027",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Private bank LGT sees AI and inflation as Japan tailwinds",
+    "summary": "Private bank LGT sees AI and inflation as Japan tailwinds",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/private-bank-lgt-sees-ai-and-inflation-as-japan-tailwinds"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
+    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "No career ambition, no ego: AI plays devil's advocate at Audax Private Equity",
+    "summary": "Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/private-equity/newsView/ked202603120002"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate",
+    "summary": "EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "Biotechnology"
+    ],
+    "url": "https://www.kedglobal.com/bio-pharma/newsView/ked202603100001"
+  },
+  {
     "date": "2026-06-23",
     "title": "EU approves €76 million German state aid for cutting edge semiconductor facility",
     "summary": "EU approves €76 million German state aid for cutting edge semiconductor facility",
