@@ -1,7 +1,8 @@
 {
   "date": "2026-06-24",
-  "count": 15,
+  "count": 18,
   "sources": [
+    "CNA",
     "DigiTimes",
     "EETAsia",
     "KED",
@@ -11,29 +12,29 @@
   "post_file": "2026-06-24-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "South Korean Smilegate hits $40m initial close for AI fund",
+      "title": "After gaokao, experts warn against overreliance on AI for university applications",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/china-gaokao-artificial-intelligence-tools-university-applications-warning-inaccuracy-6206561"
+    },
+    {
+      "title": "Zhipu AI considers mega Hong Kong share sale",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+      "url": "https://www.techinasia.com/zhipu-ais-formula-for-surviving-chinas-tech-market"
     },
     {
-      "title": "China's chip-equipment push starts to weigh on Japanese suppliers",
+      "title": "Imoo overtakes Samsung to become No. 4 smartwatch brand",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260622VL212/equipment-revenue-2026-euv-sales.html"
+      "url": "https://www.digitimes.com/news/a20260624PD236/smartwatch-brand-sales.html"
     },
     {
-      "title": "AI server VRM shifts drive power shortages and stretch lead times past 6 months",
+      "title": "SoftBank to build domestic AI server base as Japan pushes for sovereign compute",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260623PD235/ai-server-power-components-management-demand.html"
+      "url": "https://www.digitimes.com/news/a20260624PD230/softbank-ai-server-data-center-infrastructure.html"
     },
     {
-      "title": "VFT targets semiconductors, foldable display, energy materials",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260622PD233/materials-foldable-technology-demand-equipment.html"
-    },
-    {
-      "title": "Meta pressed to submit AI models for federal review",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/meta-cuts-operational-ties-with-manus-after-deal-reversal"
+      "title": "Logistics firms accelerate EV adoption amid high diesel prices, but heavy trucks lag behind",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/logistics-firms-electric-vehicle-fleet-heavy-trucks-6206436"
     }
   ]
 }
