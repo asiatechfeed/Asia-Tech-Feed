@@ -1,70 +1,126 @@
 [
   {
     "date": "2026-06-24",
-    "title": "South Korean Smilegate hits $40m initial close for AI fund",
-    "summary": "Smilegate Investment, founded in 1999 and managing about 900 billion won (US$585 million).",
+    "title": "After gaokao, experts warn against overreliance on AI for university applications",
+    "summary": "Chinese education experts have warned that overreliance on AI bots and tools could lead students to make ill-informed university choices and contribute to a surge in similar applications.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/east-asia/china-gaokao-artificial-intelligence-tools-university-applications-warning-inaccuracy-6206561"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Zhipu AI considers mega Hong Kong share sale",
+    "summary": "The company raised US$558 million in its initial public offering at HK$116.2 (US$15) per share.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+    "url": "https://www.techinasia.com/zhipu-ais-formula-for-surviving-chinas-tech-market"
   },
   {
     "date": "2026-06-24",
-    "title": "China's chip-equipment push starts to weigh on Japanese suppliers",
-    "summary": "China's push to build a domestic semiconductor equipment industry is beginning to cut into revenue at major Japanese toolmakers, with five major Japanese suppliers posting a combined 12% drop in China sales for the fiscal year ended March 2026, Nikkei reported.",
+    "title": "Imoo overtakes Samsung to become No. 4 smartwatch brand",
+    "summary": "Imoo beat Samsung Electronics, Oppo, and Garmin to rank as the world's No. 4 smartwatch brand in global smartwatch sales in the first quarter of 2026. In fact, imoo's global smartwatch shipments have matched Samsung's in recent years, according to Counterpoint.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor"
+      "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20260622VL212/equipment-revenue-2026-euv-sales.html"
+    "url": "https://www.digitimes.com/news/a20260624PD236/smartwatch-brand-sales.html"
   },
   {
     "date": "2026-06-24",
-    "title": "AI server VRM shifts drive power shortages and stretch lead times past 6 months",
-    "summary": "The AI boom is accelerating upgrades in thermal management and power management, and it is also triggering a revolution in voltage regulator module (VRM) architecture, with workloads pushing the industry from doubler-based designs to direct native multi-phase control. Industry insiders say the growing shortage of power",
+    "title": "SoftBank to build domestic AI server base as Japan pushes for sovereign compute",
+    "summary": "SoftBank, the telecom arm of SoftBank Group (SBG), is moving to localize a larger part of Japan's AI infrastructure stack, with plans to begin domestic AI server production in fiscal 2027 at the former Sharp Sakai plant in Osaka.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260623PD235/ai-server-power-components-management-demand.html"
+    "url": "https://www.digitimes.com/news/a20260624PD230/softbank-ai-server-data-center-infrastructure.html"
   },
   {
     "date": "2026-06-24",
-    "title": "VFT targets semiconductors, foldable display, energy materials",
-    "summary": "Optical film and nano-coating materials developer Victory For Technology (VFT) is focusing on three key areas — AI and semiconductor processes, foldable displays, and key new-energy materials — as it deepens R&D and product deployment to capture emerging opportunities in the global supply chain.",
+    "title": "Logistics firms accelerate EV adoption amid high diesel prices, but heavy trucks lag behind",
+    "summary": "Some are holding back on electrifying their heavy fleets due to the limited availability of charging infrastructure designed for larger vehicles.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.channelnewsasia.com/singapore/logistics-firms-electric-vehicle-fleet-heavy-trucks-6206436"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Asia's AI data center boom turns green power into supply chain stress test",
+    "summary": "Asia's AI infrastructure buildout is turning electricity into a new supply chain constraint. As demand for data storage, compute power, high-performance memory, servers, and advanced semiconductor manufacturing accelerates, governments and technology companies are under pressure to secure not only more power, but clean",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260622PD233/materials-foldable-technology-demand-equipment.html"
+    "url": "https://www.digitimes.com/news/a20260623VL210/asia-data-center-power-supply-infrastructure-electricity.html"
   },
   {
     "date": "2026-06-24",
-    "title": "Meta pressed to submit AI models for federal review",
-    "summary": "Meta is the only major US AI developer yet to agree to voluntary federal model review.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Intense AI use still rare among euro zone firms, ECB researchers find",
+    "summary": "Intense AI use still rare among euro zone firms, ECB researchers find",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/meta-cuts-operational-ties-with-manus-after-deal-reversal"
+    "url": "https://www.channelnewsasia.com/business/intense-ai-use-still-rare-among-euro-zone-firms-ecb-researchers-find-6206521"
   },
   {
     "date": "2026-06-24",
-    "title": "Blackstone to invest $30b in Japan AI data centers",
-    "summary": "Gray said Blackstone is in talks to develop data center facilities in Japan with capacity of more than 1 gigawatt.",
+    "title": "SoftBank starts mass production of AI robots",
+    "summary": "The products would be officially released soon, as it pushed deeper into what it calls physical AI.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/softbank-launch-ai-gpu-cloud-october-2026"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Series SEA: Who’s investing in the region’s biotech startups?",
+    "summary": "We've compiled a list of investors that are pouring money into Southeast Asia’s biotech startups.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Biotechnology"
+    ],
+    "url": "https://www.techinasia.com/top-sea-investors-biotech"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "15 Startups Selected for Qualcomm AI Program for Innovators 2026 – APAC",
+    "summary": "Qualcomm has shortlisted 15 startups to advance in the Qualcomm AI Program for Innovators (QAIPI) 2026. The post 15 Startups Selected for Qualcomm AI Program for Innovators 2026 – APAC appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/blackstone-targets-17b-data-center-ipo"
+    "url": "https://www.eetasia.com/15-startups-selected-for-qualcomm-ai-program-for-innovators-2026-apac/"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "MKS Opens Penang Supercenter Factory to Support Growing Semiconductor Equipment Demand",
+    "summary": "New Penang facility expands semiconductor equipment production capacity while supporting supply chain resilience and local employment. The post MKS Opens Penang Supercenter Factory to Support Growing Semiconductor Equipment Demand appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/mks-opens-penang-supercenter-factory-to-support-growing-semiconductor-equipment-demand/"
   },
   {
     "date": "2026-06-24",
@@ -79,26 +135,14 @@
   },
   {
     "date": "2026-06-24",
-    "title": "Brewer Science to Acquire Heraeus Epurio’s Semiconductor Chemical Business",
-    "summary": "The acquisition strengthens Brewer Science's ability to support semiconductor customers with highly specialized, ultrapure chemical solutions. The post Brewer Science to Acquire Heraeus Epurio’s Semiconductor Chemical Business appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "SoftBank's Son says calling AI a bubble is 'blasphemy'",
+    "summary": "SoftBank's Son says calling AI a bubble is 'blasphemy'",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
     "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.eetasia.com/brewer-science-to-acquire-heraeus-epurios-semiconductor-chemical-business/"
-  },
-  {
-    "date": "2026-06-24",
-    "title": "Why Cadence Sees AI Super Agents as the Next Semiconductor Productivity Engine",
-    "summary": "Cadence believes autonomous AI agents will become essential as semiconductor complexity outpaces engineering workforce growth. The post Why Cadence Sees AI Super Agents as the Next Semiconductor Productivity Engine appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Semiconductor",
       "AI"
     ],
-    "url": "https://www.eetasia.com/why-cadence-sees-ai-super-agents-as-the-next-semiconductor-productivity-engine/"
+    "url": "https://asia.nikkei.com/business/softbank/softbank-s-son-says-calling-ai-a-bubble-is-blasphemy"
   },
   {
     "date": "2026-06-24",
@@ -121,17 +165,6 @@
       "AI"
     ],
     "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027"
-  },
-  {
-    "date": "2026-06-24",
-    "title": "Private bank LGT sees AI and inflation as Japan tailwinds",
-    "summary": "Private bank LGT sees AI and inflation as Japan tailwinds",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/editor-s-picks/interview/private-bank-lgt-sees-ai-and-inflation-as-japan-tailwinds"
   },
   {
     "date": "2026-06-24",
