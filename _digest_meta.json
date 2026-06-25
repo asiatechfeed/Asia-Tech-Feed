@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "count": 17,
+  "count": 18,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -12,29 +12,29 @@
   "post_file": "2026-06-25-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "China wafer champion turns to US$1.6b overhaul to stop losses",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260624PD231/nsig-shanghai-12-inch-wafer-silicon-wafer.html"
-    },
-    {
-      "title": "Phison says NAND shortage has no end in sight as orders are booked into 2Q27",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260623PD236/phison-nand-ceo-2026-market.html"
-    },
-    {
-      "title": "Nvidia and AWS deepen push to simplify AI infrastructure at scale",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260624PR201/nvidia-aws-ai-inference-infrastructure.html"
-    },
-    {
-      "title": "Micron and Qualcomm forecasts ignite $400 billion AI chip stock rally",
+      "title": "IBM unveils tech for chip smaller than 1 nanometer in AI computing push",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/micron-and-qualcomm-forecasts-ignite-400-billion-ai-chip-stock-rally-6208296"
+      "url": "https://www.channelnewsasia.com/business/ibm-unveils-tech-chip-smaller-1-nanometer-in-ai-computing-push-6209921"
     },
     {
-      "title": "Commentary: Can WeChat become China\u2019s killer AI app?",
+      "title": "Taiwan electronics production jumps 93% in first five months of 2026 on AI boom",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260625PD200/taiwan-moea-production-electronics-2026.html"
+    },
+    {
+      "title": "IntelliEPI targets record 2026 revenue amid InP substrate shortages",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260624PD240/inp-intelliepi-2026-substrate-wafer.html"
+    },
+    {
+      "title": "Europe's AI infrastructure: the cost gap that policy cannot paper over",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260622VL214/eu-europe-ai-computing-power-cost-2026-infrastructure.html"
+    },
+    {
+      "title": "IndiaMART doubles down on AI to curb fake listings, improve buyer interaction",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/wechat-china-ai-app-assistant-tencent-6206501"
+      "url": "https://www.channelnewsasia.com/business/indiamart-doubles-down-ai-curb-fake-listings-improve-buyer-interaction-6209636"
     }
   ]
 }
