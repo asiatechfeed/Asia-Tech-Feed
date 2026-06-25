@@ -1,25 +1,24 @@
 {
-  "date": "2026-06-24",
-  "count": 18,
+  "date": "2026-06-25",
+  "count": 14,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
     "KED",
-    "NikkeiAsia",
-    "TechAsia"
+    "NikkeiAsia"
   ],
-  "post_file": "2026-06-24-asia-tech-news-digest.md",
+  "post_file": "2026-06-25-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "After gaokao, experts warn against overreliance on AI for university applications",
+      "title": "Micron and Qualcomm forecasts ignite $400 billion AI chip stock rally",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/china-gaokao-artificial-intelligence-tools-university-applications-warning-inaccuracy-6206561"
+      "url": "https://www.channelnewsasia.com/business/micron-and-qualcomm-forecasts-ignite-400-billion-ai-chip-stock-rally-6208296"
     },
     {
-      "title": "Zhipu AI considers mega Hong Kong share sale",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/zhipu-ais-formula-for-surviving-chinas-tech-market"
+      "title": "Commentary: Can WeChat become China\u2019s killer AI app?",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/wechat-china-ai-app-assistant-tencent-6206501"
     },
     {
       "title": "Imoo overtakes Samsung to become No. 4 smartwatch brand",
@@ -32,9 +31,9 @@
       "url": "https://www.digitimes.com/news/a20260624PD230/softbank-ai-server-data-center-infrastructure.html"
     },
     {
-      "title": "Logistics firms accelerate EV adoption amid high diesel prices, but heavy trucks lag behind",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/logistics-firms-electric-vehicle-fleet-heavy-trucks-6206436"
+      "title": "Asia's AI data center boom turns green power into supply chain stress test",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260623VL210/asia-data-center-power-supply-infrastructure-electricity.html"
     }
   ]
 }
