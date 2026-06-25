@@ -1,6 +1,40 @@
 [
   {
     "date": "2026-06-25",
+    "title": "China wafer champion turns to US$1.6b overhaul to stop losses",
+    "summary": "National Silicon Industry Group, China's leading 12-inch silicon wafer maker, has announced a CNY11.45 billion (US$1.6 billion) capital injection into its core subsidiary Shanghai Xinsheng Semiconductor Technology, in a restructuring aimed at easing losses in its wafer business.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260624PD231/nsig-shanghai-12-inch-wafer-silicon-wafer.html"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "Phison says NAND shortage has no end in sight as orders are booked into 2Q27",
+    "summary": "Phison Electronics CEO Khein-seng Pua said the NAND flash market is facing a supply crunch with \"no end in sight,\" as AI continues to crowd out memory capacity and push storage demand higher.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260623PD236/phison-nand-ceo-2026-market.html"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "Nvidia and AWS deepen push to simplify AI infrastructure at scale",
+    "summary": "Nvidia and Amazon Web Services (AWS) are expanding tools that could make it easier for companies worldwide to build and run large-scale AI systems. The changes aim to improve speed, lower costs, and reduce operational complexity across inference, search, and training, which could influence how global enterprises deploy",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260624PR201/nvidia-aws-ai-inference-infrastructure.html"
+  },
+  {
+    "date": "2026-06-25",
     "title": "Micron and Qualcomm forecasts ignite $400 billion AI chip stock rally",
     "summary": "Micron and Qualcomm forecasts ignite $400 billion AI chip stock rally",
     "source": "Channel NewsAsia",
@@ -23,37 +57,37 @@
   },
   {
     "date": "2026-06-25",
-    "title": "Imoo overtakes Samsung to become No. 4 smartwatch brand",
-    "summary": "Imoo beat Samsung Electronics, Oppo, and Garmin to rank as the world's No. 4 smartwatch brand in global smartwatch sales in the first quarter of 2026. In fact, imoo's global smartwatch shipments have matched Samsung's in recent years, according to Counterpoint.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260624PD236/smartwatch-brand-sales.html"
-  },
-  {
-    "date": "2026-06-25",
-    "title": "SoftBank to build domestic AI server base as Japan pushes for sovereign compute",
-    "summary": "SoftBank, the telecom arm of SoftBank Group (SBG), is moving to localize a larger part of Japan's AI infrastructure stack, with plans to begin domestic AI server production in fiscal 2027 at the former Sharp Sakai plant in Osaka.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Mapping the trailblazing startups in Australia’s AI sector",
+    "summary": "Mapping Australia's AI sector: Key players, top investors, and funding insights in one report.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260624PD230/softbank-ai-server-data-center-infrastructure.html"
+    "url": "https://www.techinasia.com/visual-story/mapping-trailblazing-startups-australias-ai-sector"
   },
   {
     "date": "2026-06-25",
-    "title": "Asia's AI data center boom turns green power into supply chain stress test",
-    "summary": "Asia's AI infrastructure buildout is turning electricity into a new supply chain constraint. As demand for data storage, compute power, high-performance memory, servers, and advanced semiconductor manufacturing accelerates, governments and technology companies are under pressure to secure not only more power, but clean",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Zhipu AI considers mega Hong Kong share sale",
+    "summary": "The company raised US$558 million in its initial public offering at HK$116.2 (US$15) per share.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "Semiconductor",
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260623VL210/asia-data-center-power-supply-infrastructure-electricity.html"
+    "url": "https://www.techinasia.com/zhipu-ais-formula-for-surviving-chinas-tech-market"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "SoftBank starts mass production of AI robots",
+    "summary": "The products would be officially released soon, as it pushed deeper into what it calls physical AI.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/softbank-launch-ai-gpu-cloud-october-2026"
   },
   {
     "date": "2026-06-25",

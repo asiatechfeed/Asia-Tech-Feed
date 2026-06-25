@@ -1,15 +1,31 @@
 {
   "date": "2026-06-25",
-  "count": 14,
+  "count": 17,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
     "KED",
-    "NikkeiAsia"
+    "NikkeiAsia",
+    "TechAsia"
   ],
   "post_file": "2026-06-25-asia-tech-news-digest.md",
   "articles": [
+    {
+      "title": "China wafer champion turns to US$1.6b overhaul to stop losses",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260624PD231/nsig-shanghai-12-inch-wafer-silicon-wafer.html"
+    },
+    {
+      "title": "Phison says NAND shortage has no end in sight as orders are booked into 2Q27",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260623PD236/phison-nand-ceo-2026-market.html"
+    },
+    {
+      "title": "Nvidia and AWS deepen push to simplify AI infrastructure at scale",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260624PR201/nvidia-aws-ai-inference-infrastructure.html"
+    },
     {
       "title": "Micron and Qualcomm forecasts ignite $400 billion AI chip stock rally",
       "source": "CNA",
@@ -19,21 +35,6 @@
       "title": "Commentary: Can WeChat become China\u2019s killer AI app?",
       "source": "CNA",
       "url": "https://www.channelnewsasia.com/commentary/wechat-china-ai-app-assistant-tencent-6206501"
-    },
-    {
-      "title": "Imoo overtakes Samsung to become No. 4 smartwatch brand",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260624PD236/smartwatch-brand-sales.html"
-    },
-    {
-      "title": "SoftBank to build domestic AI server base as Japan pushes for sovereign compute",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260624PD230/softbank-ai-server-data-center-infrastructure.html"
-    },
-    {
-      "title": "Asia's AI data center boom turns green power into supply chain stress test",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260623VL210/asia-data-center-power-supply-infrastructure-electricity.html"
     }
   ]
 }
