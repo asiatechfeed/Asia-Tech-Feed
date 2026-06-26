@@ -84,6 +84,9 @@
   </div>
 </nav>
 
+<!-- Stock Ticker -->
+<div id="ticker-wrap" style="background:var(--card-bg,#fff);border-bottom:1px solid var(--border,#dde3ec);overflow:hidden;min-height:46px;"></div>
+
 <main>
   
 
@@ -322,6 +325,46 @@
 </footer>
 
 <script>
+// Stock ticker
+var TICKER_SYMBOLS = [
+  {"proName":"NASDAQ:NVDA","title":"Nvidia"},
+  {"proName":"NASDAQ:MU","title":"Micron"},
+  {"proName":"NYSE:TSM","title":"TSMC"},
+  {"proName":"NASDAQ:ASML","title":"ASML"},
+  {"proName":"NASDAQ:AMD","title":"AMD"},
+  {"proName":"NASDAQ:AVGO","title":"Broadcom"},
+  {"proName":"NASDAQ:QCOM","title":"Qualcomm"},
+  {"proName":"NASDAQ:AMAT","title":"Applied Materials"},
+  {"proName":"NASDAQ:INTC","title":"Intel"},
+  {"proName":"NASDAQ:TXN","title":"Texas Instruments"}
+];
+
+function renderTicker() {
+  var wrap = document.getElementById('ticker-wrap');
+  if (!wrap) return;
+  wrap.innerHTML = '';
+  var isDark = document.documentElement.classList.contains('dark');
+  var container = document.createElement('div');
+  container.className = 'tradingview-widget-container';
+  var inner = document.createElement('div');
+  inner.className = 'tradingview-widget-container__widget';
+  container.appendChild(inner);
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js';
+  script.async = true;
+  script.innerHTML = JSON.stringify({
+    symbols: TICKER_SYMBOLS,
+    showSymbolLogo: true,
+    isTransparent: true,
+    displayMode: "adaptive",
+    colorTheme: isDark ? "dark" : "light",
+    locale: "en"
+  });
+  container.appendChild(script);
+  wrap.appendChild(container);
+}
+
 // Dark mode toggle
 function toggleDark() {
   var html = document.documentElement;
@@ -336,6 +379,7 @@ function toggleDark() {
     localStorage.setItem('theme', 'dark');
   }
   updateToggleLabel();
+  renderTicker();
 }
 
 function updateToggleLabel() {
@@ -346,7 +390,10 @@ function updateToggleLabel() {
   if (label) label.textContent = isDark ? 'Light' : 'Dark';
 }
 
-document.addEventListener('DOMContentLoaded', updateToggleLabel);
+document.addEventListener('DOMContentLoaded', function() {
+  updateToggleLabel();
+  renderTicker();
+});
 
 // Auto-hide "NEW" badge after 30 days
 (function() {
