@@ -1,5 +1,195 @@
 [
   {
+    "date": "2026-06-26",
+    "title": "Onsemi agrees to acquire Synaptics in US$7 billion all-stock deal",
+    "summary": "Onsemi has agreed to buy Synaptics in an all-stock transaction valued at about US$7 billion, a deal that could reshape the edge AI landscape across automotive, industrial, and connected devices. If completed, the merger aims to broaden global access to intelligent systems, software, and wireless technology.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260626PR200/onsemi-synaptics-software-wireless-president.html"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "Alibaba chip unit T-Head triples registered capital amid AI push",
+    "summary": "Alibaba Group's semiconductor design arm T-Head has more than tripled its registered capital, underscoring the Chinese technology giant's growing focus on artificial intelligence infrastructure and domestic chip development.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260624VL205/alibaba-t-head-design-infrastructure-chips.html"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "CXMT listing signals acceleration of China's memory self-sufficiency strategy amid global tech decoupling",
+    "summary": "CXMT's IPO highlights the growing geopolitical fragmentation of the global semiconductor industry, strengthening China's ability to finance domestic DRAM expansion and reduce reliance on foreign capital and technology. As supply chains increasingly split along regional lines, the listing reinforces Beijing's push for m",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260624VL210/cxmt-self-sufficiency-ipo-2026-semiconductor-industry.html"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "EU raises concerns after Anthropic blocks AI access",
+    "summary": "Anthropic said the restriction followed findings that users could \"jailbreak\" Fable 5’s safeguards.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/anthropic-widen-access-claude-fable-5"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "Khosla led $320m round for AI firm General Intuition",
+    "summary": "Khosla Ventures led the round, which will fund more computing capacity and pretraining for the next version of its model.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/work-ai-systems-engineers"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "BHP-backed I-Pulse wins $250 million US CHIPS award for silicon-carbide semiconductors",
+    "summary": "BHP-backed I-Pulse wins $250 million US CHIPS award for silicon-carbide semiconductors",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/bhp-backed-i-pulse-wins-250-million-us-chips-award-silicon-carbide-semiconductors-6211401"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "Commentary: Singapore should not focus only on productivity gains from AI",
+    "summary": "AI is critical, but what is more important for long-term gains is how it is learned and adopted, says Manu Kapur of the Singapore-ETH Centre.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/singapore-ai-council-workplace-adopt-productivity-6209631"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "SPHERE AX and Blaize Partner to Develop Physical AI Solutions",
+    "summary": "Partnership combines AI semiconductor technology and vision AI software to accelerate physical AI product development globally. The post SPHERE AX and Blaize Partner to Develop Physical AI Solutions appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/sphere-ax-and-blaize-partner-to-develop-physical-ai-solutions/"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "IPO-bound AgiBot starts eight-robot tablet QC trial",
+    "summary": "The company aims to complete experimental verification of solutions for seven industries in the first half of 2026.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/chinas-agibot-launches-sales-robot-types-jdcom"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "DigiKey Drops New Season of Sustainable Futures Video Series",
+    "summary": "Season 2 of DigiKey's Sustainable Futures examines how advanced electronics are enabling cleaner energy, smarter systems and more sustainable design. The post DigiKey Drops New Season of Sustainable Futures Video Series appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.eetasia.com/digikey-drops-new-season-of-sustainable-futures-video-series/"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "ST’s Direct ToF 3D LiDAR Module Brings Advanced Spatial Awareness to Compact Edge AI Systems",
+    "summary": "STMicroelectronics' VL53L9 compact direct Time-of-Flight 3D LiDAR all-in-one module sets a new benchmark in high-resolution sensing. The post ST’s Direct ToF 3D LiDAR Module Brings Advanced Spatial Awareness to Compact Edge AI Systems appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/sts-direct-tof-3d-lidar-module-brings-advanced-spatial-awareness-to-compact-edge-ai-systems/"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "Toshiba's lost crown jewels: Kioxia, US nuclear power soar in AI era",
+    "summary": "Toshiba's lost crown jewels: Kioxia, US nuclear power soar in AI era",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/toshiba-s-lost-crown-jewels-kioxia-us-nuclear-power-soar-in-ai-era"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "South Korea plans new chip cluster as AI boom strains capacity",
+    "summary": "South Korea plans new chip cluster as AI boom strains capacity",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-plans-new-chip-cluster-as-ai-boom-strains-capacity"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "Chinese door-to-door logistics networks grow in US to counter trade war",
+    "summary": "Chinese door-to-door logistics networks grow in US to counter trade war",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://asia.nikkei.com/economy/trade-war/chinese-door-to-door-logistics-networks-grow-in-us-to-counter-trade-war"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
+    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "No career ambition, no ego: AI plays devil's advocate at Audax Private Equity",
+    "summary": "Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/private-equity/newsView/ked202603120002"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate",
+    "summary": "EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "Biotechnology"
+    ],
+    "url": "https://www.kedglobal.com/bio-pharma/newsView/ked202603100001"
+  },
+  {
     "date": "2026-06-25",
     "title": "IBM unveils tech for chip smaller than 1 nanometer in AI computing push",
     "summary": "IBM unveils tech for chip smaller than 1 nanometer in AI computing push",

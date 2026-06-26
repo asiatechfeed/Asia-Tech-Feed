@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-25",
-  "count": 18,
+  "date": "2026-06-26",
+  "count": 17,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -9,32 +9,32 @@
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-06-25-asia-tech-news-digest.md",
+  "post_file": "2026-06-26-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "IBM unveils tech for chip smaller than 1 nanometer in AI computing push",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/ibm-unveils-tech-chip-smaller-1-nanometer-in-ai-computing-push-6209921"
-    },
-    {
-      "title": "Taiwan electronics production jumps 93% in first five months of 2026 on AI boom",
+      "title": "Onsemi agrees to acquire Synaptics in US$7 billion all-stock deal",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260625PD200/taiwan-moea-production-electronics-2026.html"
+      "url": "https://www.digitimes.com/news/a20260626PR200/onsemi-synaptics-software-wireless-president.html"
     },
     {
-      "title": "IntelliEPI targets record 2026 revenue amid InP substrate shortages",
+      "title": "Alibaba chip unit T-Head triples registered capital amid AI push",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260624PD240/inp-intelliepi-2026-substrate-wafer.html"
+      "url": "https://www.digitimes.com/news/a20260624VL205/alibaba-t-head-design-infrastructure-chips.html"
     },
     {
-      "title": "Europe's AI infrastructure: the cost gap that policy cannot paper over",
+      "title": "CXMT listing signals acceleration of China's memory self-sufficiency strategy amid global tech decoupling",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260622VL214/eu-europe-ai-computing-power-cost-2026-infrastructure.html"
+      "url": "https://www.digitimes.com/news/a20260624VL210/cxmt-self-sufficiency-ipo-2026-semiconductor-industry.html"
     },
     {
-      "title": "IndiaMART doubles down on AI to curb fake listings, improve buyer interaction",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/indiamart-doubles-down-ai-curb-fake-listings-improve-buyer-interaction-6209636"
+      "title": "EU raises concerns after Anthropic blocks AI access",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/anthropic-widen-access-claude-fable-5"
+    },
+    {
+      "title": "Khosla led $320m round for AI firm General Intuition",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/work-ai-systems-engineers"
     }
   ]
 }
