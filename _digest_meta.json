@@ -1,40 +1,40 @@
 {
   "date": "2026-06-26",
-  "count": 17,
+  "count": 16,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
     "KED",
     "NikkeiAsia",
+    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-06-26-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Onsemi agrees to acquire Synaptics in US$7 billion all-stock deal",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260626PR200/onsemi-synaptics-software-wireless-president.html"
-    },
-    {
-      "title": "Alibaba chip unit T-Head triples registered capital amid AI push",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260624VL205/alibaba-t-head-design-infrastructure-chips.html"
-    },
-    {
-      "title": "CXMT listing signals acceleration of China's memory self-sufficiency strategy amid global tech decoupling",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260624VL210/cxmt-self-sufficiency-ipo-2026-semiconductor-industry.html"
-    },
-    {
-      "title": "EU raises concerns after Anthropic blocks AI access",
+      "title": "S Korea firm Semifive wins $8m AI chip order from Japan",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-widen-access-claude-fable-5"
+      "url": "https://www.techinasia.com/nvidia-rival-rebellions-taps-jpmorgan-south-korea-ipo"
     },
     {
-      "title": "Khosla led $320m round for AI firm General Intuition",
+      "title": "SK Hynix fluorine leaks trigger safety inspections at 25 South Korean chip plants",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260626PD222/sk-hynix-industrial-fire-economy-semiconductor-industry.html"
+    },
+    {
+      "title": "Agibot affiliate invests in Chinese robotics startup Feikuo",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/work-ai-systems-engineers"
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+    },
+    {
+      "title": "Apple price-hike plan hits Asian tech stocks",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/apple-offers-free-ai-model-access-to-smaller-developers"
+    },
+    {
+      "title": "Samsung eyes Gwangju chip site as SK Hynix weighs regional and overseas options",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260626VL208/samsung-investment-sk-hynix-government-industrial.html"
     }
   ]
 }
