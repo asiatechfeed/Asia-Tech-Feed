@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-06-26T09:24:45+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech News Feed</title><subtitle>Daily Asia news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - June 26, 2026</title><link href="https://asiatechfeed.com/2026/06/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 26, 2026" /><published>2026-06-26T00:01:08+00:00</published><updated>2026-06-26T00:01:08+00:00</updated><id>https://asiatechfeed.com/2026/06/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/06/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-06-26T10:41:32+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech News Feed</title><subtitle>Daily Asia news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - June 26, 2026</title><link href="https://asiatechfeed.com/2026/06/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 26, 2026" /><published>2026-06-26T10:40:11+00:00</published><updated>2026-06-26T10:40:11+00:00</updated><id>https://asiatechfeed.com/2026/06/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/06/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,62 +12,78 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Onsemi agrees to acquire Synaptics in US$7 billion all-stock deal</span></td>
-  <td class="col-summary">Onsemi has agreed to buy Synaptics in an all-stock transaction valued at about US$7 billion, a deal that could reshape the edge AI landscape across automotive, industrial, and connected devices. If completed, the merger aims to broaden global access to intelligent systems, software, and wireless technology.</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">S Korea firm Semifive wins $8m AI chip order from Japan</span></td>
+  <td class="col-summary">The order is roughly 10% of Semifive’s 111.8 billion won (US$72.7 million) in consolidated revenue for 2024, based on the company’s disclosed results.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260626PR200/onsemi-synaptics-software-wireless-president.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-rival-rebellions-taps-jpmorgan-south-korea-ipo" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Alibaba chip unit T-Head triples registered capital amid AI push</span></td>
-  <td class="col-summary">Alibaba Group's semiconductor design arm T-Head has more than tripled its registered capital, underscoring the Chinese technology giant's growing focus on artificial intelligence infrastructure and domestic chip development.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260624VL205/alibaba-t-head-design-infrastructure-chips.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">SK Hynix fluorine leaks trigger safety inspections at 25 South Korean chip plants</span></td>
+  <td class="col-summary">South Korea's Ministry of Employment and Labor has launched chemical safety inspections at 25 semiconductor manufacturers, including SK Hynix, after a series of fluorine gas leaks at chip plants raised fresh concerns over industrial accidents.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260626PD222/sk-hynix-industrial-fire-economy-semiconductor-industry.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">CXMT listing signals acceleration of China's memory self-sufficiency strategy amid global tech decoupling</span></td>
-  <td class="col-summary">CXMT's IPO highlights the growing geopolitical fragmentation of the global semiconductor industry, strengthening China's ability to finance domestic DRAM expansion and reduce reliance on foreign capital and technology. As supply chains increasingly split along regional lines, the listing reinforces Beijing's push for m</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260624VL210/cxmt-self-sufficiency-ipo-2026-semiconductor-industry.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Agibot affiliate invests in Chinese robotics startup Feikuo</span></td>
+  <td class="col-summary">The company also increased its registered capital to 1.1 million yuan (US$157,000), according to Qichacha records.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">EU raises concerns after Anthropic blocks AI access</span></td>
-  <td class="col-summary">Anthropic said the restriction followed findings that users could "jailbreak" Fable 5’s safeguards.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropic-widen-access-claude-fable-5" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Apple price-hike plan hits Asian tech stocks</span></td>
+  <td class="col-summary">South Korean memory chipmakers SK hynix and Samsung Electronics each fell more than 8%, while Kioxia Holdings dropped as much as 12%.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/apple-offers-free-ai-model-access-to-smaller-developers" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Khosla led $320m round for AI firm General Intuition</span></td>
-  <td class="col-summary">Khosla Ventures led the round, which will fund more computing capacity and pretraining for the next version of its model.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/work-ai-systems-engineers" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Samsung eyes Gwangju chip site as SK Hynix weighs regional and overseas options</span></td>
+  <td class="col-summary">South Korea's plan to push semiconductor investment beyond the greater Seoul area is taking clearer shape, with Samsung Electronics reportedly moving closer to a new chip hub in Gwangju while SK Hynix continues to weigh a site in South Jeolla Province against overseas investment options.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260626VL208/samsung-investment-sk-hynix-government-industrial.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">BHP-backed I-Pulse wins $250 million US CHIPS award for silicon-carbide semiconductors</span></td>
-  <td class="col-summary">BHP-backed I-Pulse wins $250 million US CHIPS award for silicon-carbide semiconductors</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/bhp-backed-i-pulse-wins-250-million-us-chips-award-silicon-carbide-semiconductors-6211401" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">SemiEng</span></td>
+  <td class="col-title"><span class="article-title">Chip Industry Week In Review</span></td>
+  <td class="col-summary">Onsemi to buy Synaptics; IBM's 7Å chip w/40% more SRAM area; 1nm MoS2 nanotubes; AI pressure points; memory updates; $250M CHIPS Act award; trade secret theft; new advanced packaging site; MEMS capacity; humanoids; earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://semiengineering.com/chip-industry-week-in-review-144/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: Singapore should not focus only on productivity gains from AI</span></td>
-  <td class="col-summary">AI is critical, but what is more important for long-term gains is how it is learned and adopted, says Manu Kapur of the Singapore-ETH Centre.</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Qualcomm HBC takes aim at HBM costs in AI data centers</span></td>
+  <td class="col-summary">Qualcomm has unveiled its latest AI data center platform, Dragonfly, at its annual investor day, highlighting a new technology it calls High Bandwidth Compute, or HBC, as a key weapon in its challenge to Nvidia, AMD and AI chip startups.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/singapore-ai-council-workplace-adopt-productivity-6209631" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260626PD219/qualcomm-hbm-data-data-center-technology.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Arrow Electronics Launches Factory Automation Resource Hub for Developing Next-gen Industrial Systems</span></td>
+  <td class="col-summary">Arrow Electronics has launched a new factory automation resource hub to support the development of next-generation industrial systems. The post Arrow Electronics Launches Factory Automation Resource Hub for Developing Next-gen Industrial Systems appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/arrow-electronics-launches-factory-automation-resource-hub-for-developing-next-gen-industrial-systems/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">AI Factories and the Rise of Token Economics in the Next Phase of Data Center Computing</span></td>
+  <td class="col-summary">Growing AI demand is driving new infrastructure models, architectures, and economics centered on inference workloads. The post AI Factories and the Rise of Token Economics in the Next Phase of Data Center Computing appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ai-factories-and-the-rise-of-token-economics-in-the-next-phase-of-data-center-computing/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
   <td class="col-source"><span class="source-badge">EETAsia</span></td>
   <td class="col-title"><span class="article-title">SPHERE AX and Blaize Partner to Develop Physical AI Solutions</span></td>
   <td class="col-summary">Partnership combines AI semiconductor technology and vision AI software to accelerate physical AI product development globally. The post SPHERE AX and Blaize Partner to Develop Physical AI Solutions appeared first on EE Times Asia .</td>
@@ -75,28 +91,12 @@
   <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/sphere-ax-and-blaize-partner-to-develop-physical-ai-solutions/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">IPO-bound AgiBot starts eight-robot tablet QC trial</span></td>
-  <td class="col-summary">The company aims to complete experimental verification of solutions for seven industries in the first half of 2026.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-agibot-launches-sales-robot-types-jdcom" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">DigiKey Drops New Season of Sustainable Futures Video Series</span></td>
-  <td class="col-summary">Season 2 of DigiKey's Sustainable Futures examines how advanced electronics are enabling cleaner energy, smarter systems and more sustainable design. The post DigiKey Drops New Season of Sustainable Futures Video Series appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/digikey-drops-new-season-of-sustainable-futures-video-series/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
   <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">ST’s Direct ToF 3D LiDAR Module Brings Advanced Spatial Awareness to Compact Edge AI Systems</span></td>
-  <td class="col-summary">STMicroelectronics' VL53L9 compact direct Time-of-Flight 3D LiDAR all-in-one module sets a new benchmark in high-resolution sensing. The post ST’s Direct ToF 3D LiDAR Module Brings Advanced Spatial Awareness to Compact Edge AI Systems appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/sts-direct-tof-3d-lidar-module-brings-advanced-spatial-awareness-to-compact-edge-ai-systems/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">The AI cold war needs a nonalignment movement</span></td>
+  <td class="col-summary">The AI cold war needs a nonalignment movement</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/opinion/the-ai-cold-war-needs-a-nonalignment-movement" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">12</td>
@@ -116,14 +116,6 @@
 </tr>
 <tr>
   <td class="col-num">14</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Chinese door-to-door logistics networks grow in US to counter trade war</span></td>
-  <td class="col-summary">Chinese door-to-door logistics networks grow in US to counter trade war</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/economy/trade-war/chinese-door-to-door-logistics-networks-grow-in-us-to-counter-trade-war" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">15</td>
   <td class="col-source"><span class="source-badge">KED</span></td>
   <td class="col-title"><span class="article-title">AI trade isn’t just about tech stocks but also power, TCW says</span></td>
   <td class="col-summary">The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun</td>
@@ -131,7 +123,7 @@
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">16</td>
+  <td class="col-num">15</td>
   <td class="col-source"><span class="source-badge">KED</span></td>
   <td class="col-title"><span class="article-title">No career ambition, no ego: AI plays devil's advocate at Audax Private Equity</span></td>
   <td class="col-summary">Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass</td>
@@ -139,7 +131,7 @@
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">17</td>
+  <td class="col-num">16</td>
   <td class="col-source"><span class="source-badge">KED</span></td>
   <td class="col-title"><span class="article-title">EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate</span></td>
   <td class="col-summary">EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease</td>
@@ -147,7 +139,7 @@
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/bio-pharma/newsView/ked202603100001" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Onsemi agrees to acquire Synaptics in US$7 billion all-stock deal Onsemi has agreed to buy Synaptics in an all-stock transaction valued at about US$7 billion, a deal that could reshape the edge AI landscape across automotive, industrial, and connected devices. If completed, the merger aims to broaden global access to intelligent systems, software, and wireless technology. AI Read 2 DigiTimes Alibaba chip unit T-Head triples registered capital amid AI push Alibaba Group's semiconductor design arm T-Head has more than tripled its registered capital, underscoring the Chinese technology giant's growing focus on artificial intelligence infrastructure and domestic chip development. SemiconductorAI Read 3 DigiTimes CXMT listing signals acceleration of China's memory self-sufficiency strategy amid global tech decoupling CXMT's IPO highlights the growing geopolitical fragmentation of the global semiconductor industry, strengthening China's ability to finance domestic DRAM expansion and reduce reliance on foreign capital and technology. As supply chains increasingly split along regional lines, the listing reinforces Beijing's push for m Semiconductor Read 4 TechAsia EU raises concerns after Anthropic blocks AI access Anthropic said the restriction followed findings that users could "jailbreak" Fable 5’s safeguards. AI Read 5 TechAsia Khosla led $320m round for AI firm General Intuition Khosla Ventures led the round, which will fund more computing capacity and pretraining for the next version of its model. AI Read 6 CNA BHP-backed I-Pulse wins $250 million US CHIPS award for silicon-carbide semiconductors BHP-backed I-Pulse wins $250 million US CHIPS award for silicon-carbide semiconductors Semiconductor Read 7 CNA Commentary: Singapore should not focus only on productivity gains from AI AI is critical, but what is more important for long-term gains is how it is learned and adopted, says Manu Kapur of the Singapore-ETH Centre. AI Read 8 EETAsia SPHERE AX and Blaize Partner to Develop Physical AI Solutions Partnership combines AI semiconductor technology and vision AI software to accelerate physical AI product development globally. The post SPHERE AX and Blaize Partner to Develop Physical AI Solutions appeared first on EE Times Asia . SemiconductorAI Read 9 TechAsia IPO-bound AgiBot starts eight-robot tablet QC trial The company aims to complete experimental verification of solutions for seven industries in the first half of 2026. Automation Read 10 EETAsia DigiKey Drops New Season of Sustainable Futures Video Series Season 2 of DigiKey's Sustainable Futures examines how advanced electronics are enabling cleaner energy, smarter systems and more sustainable design. The post DigiKey Drops New Season of Sustainable Futures Video Series appeared first on EE Times Asia . Electronics Read 11 EETAsia ST’s Direct ToF 3D LiDAR Module Brings Advanced Spatial Awareness to Compact Edge AI Systems STMicroelectronics' VL53L9 compact direct Time-of-Flight 3D LiDAR all-in-one module sets a new benchmark in high-resolution sensing. The post ST’s Direct ToF 3D LiDAR Module Brings Advanced Spatial Awareness to Compact Edge AI Systems appeared first on EE Times Asia . ElectronicsAI Read 12 NikkeiAsia Toshiba's lost crown jewels: Kioxia, US nuclear power soar in AI era Toshiba's lost crown jewels: Kioxia, US nuclear power soar in AI era AI Read 13 NikkeiAsia South Korea plans new chip cluster as AI boom strains capacity South Korea plans new chip cluster as AI boom strains capacity AI Read 14 NikkeiAsia Chinese door-to-door logistics networks grow in US to counter trade war Chinese door-to-door logistics networks grow in US to counter trade war Logistics Read 15 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun AI Read 16 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass AI Read 17 KED EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease Biotechnology Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - June 25, 2026</title><link href="https://asiatechfeed.com/2026/06/25/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 25, 2026" /><published>2026-06-25T10:29:21+00:00</published><updated>2026-06-25T10:29:21+00:00</updated><id>https://asiatechfeed.com/2026/06/25/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/06/25/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia S Korea firm Semifive wins $8m AI chip order from Japan The order is roughly 10% of Semifive’s 111.8 billion won (US$72.7 million) in consolidated revenue for 2024, based on the company’s disclosed results. AI Read 2 DigiTimes SK Hynix fluorine leaks trigger safety inspections at 25 South Korean chip plants South Korea's Ministry of Employment and Labor has launched chemical safety inspections at 25 semiconductor manufacturers, including SK Hynix, after a series of fluorine gas leaks at chip plants raised fresh concerns over industrial accidents. Semiconductor Read 3 TechAsia Agibot affiliate invests in Chinese robotics startup Feikuo The company also increased its registered capital to 1.1 million yuan (US$157,000), according to Qichacha records. Automation Read 4 TechAsia Apple price-hike plan hits Asian tech stocks South Korean memory chipmakers SK hynix and Samsung Electronics each fell more than 8%, while Kioxia Holdings dropped as much as 12%. Electronics Read 5 DigiTimes Samsung eyes Gwangju chip site as SK Hynix weighs regional and overseas options South Korea's plan to push semiconductor investment beyond the greater Seoul area is taking clearer shape, with Samsung Electronics reportedly moving closer to a new chip hub in Gwangju while SK Hynix continues to weigh a site in South Jeolla Province against overseas investment options. SemiconductorElectronics Read 6 SemiEng Chip Industry Week In Review Onsemi to buy Synaptics; IBM's 7Å chip w/40% more SRAM area; 1nm MoS2 nanotubes; AI pressure points; memory updates; $250M CHIPS Act award; trade secret theft; new advanced packaging site; MEMS capacity; humanoids; earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering . SemiconductorAI Read 7 DigiTimes Qualcomm HBC takes aim at HBM costs in AI data centers Qualcomm has unveiled its latest AI data center platform, Dragonfly, at its annual investor day, highlighting a new technology it calls High Bandwidth Compute, or HBC, as a key weapon in its challenge to Nvidia, AMD and AI chip startups. AI Read 8 EETAsia Arrow Electronics Launches Factory Automation Resource Hub for Developing Next-gen Industrial Systems Arrow Electronics has launched a new factory automation resource hub to support the development of next-generation industrial systems. The post Arrow Electronics Launches Factory Automation Resource Hub for Developing Next-gen Industrial Systems appeared first on EE Times Asia . ElectronicsAutomation Read 9 EETAsia AI Factories and the Rise of Token Economics in the Next Phase of Data Center Computing Growing AI demand is driving new infrastructure models, architectures, and economics centered on inference workloads. The post AI Factories and the Rise of Token Economics in the Next Phase of Data Center Computing appeared first on EE Times Asia . AI Read 10 EETAsia SPHERE AX and Blaize Partner to Develop Physical AI Solutions Partnership combines AI semiconductor technology and vision AI software to accelerate physical AI product development globally. The post SPHERE AX and Blaize Partner to Develop Physical AI Solutions appeared first on EE Times Asia . SemiconductorAI Read 11 NikkeiAsia The AI cold war needs a nonalignment movement The AI cold war needs a nonalignment movement AI Read 12 NikkeiAsia Toshiba's lost crown jewels: Kioxia, US nuclear power soar in AI era Toshiba's lost crown jewels: Kioxia, US nuclear power soar in AI era AI Read 13 NikkeiAsia South Korea plans new chip cluster as AI boom strains capacity South Korea plans new chip cluster as AI boom strains capacity AI Read 14 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun AI Read 15 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass AI Read 16 KED EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease Biotechnology Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - June 25, 2026</title><link href="https://asiatechfeed.com/2026/06/25/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 25, 2026" /><published>2026-06-25T10:29:21+00:00</published><updated>2026-06-25T10:29:21+00:00</updated><id>https://asiatechfeed.com/2026/06/25/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/06/25/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
