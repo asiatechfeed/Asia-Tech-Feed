@@ -1,81 +1,71 @@
 [
   {
     "date": "2026-06-27",
-    "title": "Commentary: Micron’s huge AI windfall is bad news for most of us",
-    "summary": "Besides having to pay more for your next iPad or Nintendo Switch, soaring chip prices potentially come with other big downsides, says Chris Bryant for Bloomberg Opinion.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/commentary/micron-technology-semiconductor-chip-ai-data-centre-demand-supply-6212661"
-  },
-  {
-    "date": "2026-06-27",
-    "title": "Zettabyte urges new standard for quality AI compute as demand surges over two years",
-    "summary": "AI infrastructure firm Zettabyte said AI token generation exploded more than 330-fold over two years and urged that compute be measured by delivered useful work rather than raw hardware specs or hourly price. According to Alphabet's Google, monthly AI token generation grew from about 9.7 trillion to more than 3.2 quadr",
+    "title": "The Tata Electronics leak is overwhelmingly an Apple data set, file index shows",
+    "summary": "Tata Electronics, the Indian contract manufacturer that assembles iPhones and supplies other global technology companies, has confirmed a cybersecurity incident after the extortion group World Leaks published more than 630 gigabytes of data taken from the company's systems. The cache, posted on the group's dark-web lea",
     "source": "DigiTimes",
     "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260624PD237/infrastructure-taiwan-cost-gpu-capacity.html"
-  },
-  {
-    "date": "2026-06-27",
-    "title": "S Korea firm Semifive wins $8m AI chip order from Japan",
-    "summary": "The order is roughly 10% of Semifive’s 111.8 billion won (US$72.7 million) in consolidated revenue for 2024, based on the company’s disclosed results.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/nvidia-rival-rebellions-taps-jpmorgan-south-korea-ipo"
-  },
-  {
-    "date": "2026-06-27",
-    "title": "SK Hynix fluorine leaks trigger safety inspections at 25 South Korean chip plants",
-    "summary": "South Korea's Ministry of Employment and Labor has launched chemical safety inspections at 25 semiconductor manufacturers, including SK Hynix, after a series of fluorine gas leaks at chip plants raised fresh concerns over industrial accidents.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260626PD222/sk-hynix-industrial-fire-economy-semiconductor-industry.html"
-  },
-  {
-    "date": "2026-06-27",
-    "title": "Agibot affiliate invests in Chinese robotics startup Feikuo",
-    "summary": "The company also increased its registered capital to 1.1 million yuan (US$157,000), according to Qichacha records.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Automation"
-    ],
-    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
-  },
-  {
-    "date": "2026-06-27",
-    "title": "Apple price-hike plan hits Asian tech stocks",
-    "summary": "South Korean memory chipmakers SK hynix and Samsung Electronics each fell more than 8%, while Kioxia Holdings dropped as much as 12%.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
     "tags": [
       "Electronics"
     ],
-    "url": "https://www.techinasia.com/apple-offers-free-ai-model-access-to-smaller-developers"
+    "url": "https://www.digitimes.com/news/a20260627VL200/apple-data-component-technology.html"
   },
   {
     "date": "2026-06-27",
-    "title": "Samsung eyes Gwangju chip site as SK Hynix weighs regional and overseas options",
-    "summary": "South Korea's plan to push semiconductor investment beyond the greater Seoul area is taking clearer shape, with Samsung Electronics reportedly moving closer to a new chip hub in Gwangju while SK Hynix continues to weigh a site in South Jeolla Province against overseas investment options.",
+    "title": "JCET's US$1.1bn expansion shows where China's AI chip crunch is moving",
+    "summary": "China's AI chip race is pushing the semiconductor bottleneck into advanced packaging and testing, where HPC, HBM, Chiplets and domestic substitution are driving a new capacity cycle.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
-      "Electronics"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260626VL208/samsung-investment-sk-hynix-government-industrial.html"
+    "url": "https://www.digitimes.com/news/a20260626VL206/ai-chip-packaging-jcet-expansion-testing.html"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "Hanmi targets advanced packaging market with FC Bonder 3.5",
+    "summary": "Hanmi Semiconductor has launched FC Bonder 3.5, a new flip-chip bonding tool for AI system semiconductor packaging, as the South Korean equipment maker looks to broaden its advanced packaging business beyond TC bonders for high-bandwidth memory and supply global foundry and OSAT customers, ETNews and Yonhap reported.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260626VL211/packaging-hanmi-equipment-market-hbm.html"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "The 50 top-funded AI startups in Asia",
+    "summary": "Here are the AI companies in Asia that have attracted tons of investors and have the resources to spend on software, talent, and expansion.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/the-50-top-funded-ai-startups-in-asia"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "Oracle shares sink 19% on AI spending, debt worries",
+    "summary": "Oracle's capital spending more than doubled to US$56 billion in fiscal 2026 amid AI investments.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/oracle-data-center-financing-nears-close-as-debt-terms-shift"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "Chinese AI firm Xiechuang Data plans $1.2b share sale",
+    "summary": "Xiechuang Data plans to invest 4.686 billion yuan in a 12-month intelligent computing center project.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
   },
   {
     "date": "2026-06-27",
@@ -111,18 +101,6 @@
       "AI"
     ],
     "url": "https://www.eetasia.com/ai-factories-and-the-rise-of-token-economics-in-the-next-phase-of-data-center-computing/"
-  },
-  {
-    "date": "2026-06-27",
-    "title": "SPHERE AX and Blaize Partner to Develop Physical AI Solutions",
-    "summary": "Partnership combines AI semiconductor technology and vision AI software to accelerate physical AI product development globally. The post SPHERE AX and Blaize Partner to Develop Physical AI Solutions appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Semiconductor",
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/sphere-ax-and-blaize-partner-to-develop-physical-ai-solutions/"
   },
   {
     "date": "2026-06-27",
