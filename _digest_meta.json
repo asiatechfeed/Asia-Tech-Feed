@@ -1,8 +1,7 @@
 {
   "date": "2026-06-27",
-  "count": 17,
+  "count": 15,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
     "KED",
@@ -13,29 +12,29 @@
   "post_file": "2026-06-27-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Commentary: Micron\u2019s huge AI windfall is bad news for most of us",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/micron-technology-semiconductor-chip-ai-data-centre-demand-supply-6212661"
-    },
-    {
-      "title": "Zettabyte urges new standard for quality AI compute as demand surges over two years",
+      "title": "The Tata Electronics leak is overwhelmingly an Apple data set, file index shows",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260624PD237/infrastructure-taiwan-cost-gpu-capacity.html"
+      "url": "https://www.digitimes.com/news/a20260627VL200/apple-data-component-technology.html"
     },
     {
-      "title": "S Korea firm Semifive wins $8m AI chip order from Japan",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-rival-rebellions-taps-jpmorgan-south-korea-ipo"
-    },
-    {
-      "title": "SK Hynix fluorine leaks trigger safety inspections at 25 South Korean chip plants",
+      "title": "JCET's US$1.1bn expansion shows where China's AI chip crunch is moving",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260626PD222/sk-hynix-industrial-fire-economy-semiconductor-industry.html"
+      "url": "https://www.digitimes.com/news/a20260626VL206/ai-chip-packaging-jcet-expansion-testing.html"
     },
     {
-      "title": "Agibot affiliate invests in Chinese robotics startup Feikuo",
+      "title": "Hanmi targets advanced packaging market with FC Bonder 3.5",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260626VL211/packaging-hanmi-equipment-market-hbm.html"
+    },
+    {
+      "title": "The 50 top-funded AI startups in Asia",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+      "url": "https://www.techinasia.com/the-50-top-funded-ai-startups-in-asia"
+    },
+    {
+      "title": "Oracle shares sink 19% on AI spending, debt worries",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/oracle-data-center-financing-nears-close-as-debt-terms-shift"
     }
   ]
 }
