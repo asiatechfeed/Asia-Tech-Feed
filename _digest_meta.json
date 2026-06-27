@@ -1,7 +1,8 @@
 {
-  "date": "2026-06-26",
-  "count": 16,
+  "date": "2026-06-27",
+  "count": 17,
   "sources": [
+    "CNA",
     "DigiTimes",
     "EETAsia",
     "KED",
@@ -9,8 +10,18 @@
     "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-06-26-asia-tech-news-digest.md",
+  "post_file": "2026-06-27-asia-tech-news-digest.md",
   "articles": [
+    {
+      "title": "Commentary: Micron\u2019s huge AI windfall is bad news for most of us",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/micron-technology-semiconductor-chip-ai-data-centre-demand-supply-6212661"
+    },
+    {
+      "title": "Zettabyte urges new standard for quality AI compute as demand surges over two years",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260624PD237/infrastructure-taiwan-cost-gpu-capacity.html"
+    },
     {
       "title": "S Korea firm Semifive wins $8m AI chip order from Japan",
       "source": "TechAsia",
@@ -25,16 +36,6 @@
       "title": "Agibot affiliate invests in Chinese robotics startup Feikuo",
       "source": "TechAsia",
       "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
-    },
-    {
-      "title": "Apple price-hike plan hits Asian tech stocks",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/apple-offers-free-ai-model-access-to-smaller-developers"
-    },
-    {
-      "title": "Samsung eyes Gwangju chip site as SK Hynix weighs regional and overseas options",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260626VL208/samsung-investment-sk-hynix-government-industrial.html"
     }
   ]
 }
