@@ -1,40 +1,39 @@
 {
   "date": "2026-06-28",
-  "count": 15,
+  "count": 13,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "EETAsia",
     "KED",
     "NikkeiAsia",
-    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-06-28-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "The Tata Electronics leak is overwhelmingly an Apple data set, file index shows",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260627VL200/apple-data-component-technology.html"
-    },
-    {
-      "title": "JCET's US$1.1bn expansion shows where China's AI chip crunch is moving",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260626VL206/ai-chip-packaging-jcet-expansion-testing.html"
-    },
-    {
-      "title": "Hanmi targets advanced packaging market with FC Bonder 3.5",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260626VL211/packaging-hanmi-equipment-market-hbm.html"
-    },
-    {
-      "title": "The 50 top-funded AI startups in Asia",
+      "title": "Google limits Meta\u2019s Gemini AI acces",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/the-50-top-funded-ai-startups-in-asia"
+      "url": "https://www.techinasia.com/meta-agrees-buy-16-gw-ai-capacity-crusoe"
     },
     {
-      "title": "Oracle shares sink 19% on AI spending, debt worries",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/oracle-data-center-financing-nears-close-as-debt-terms-shift"
+      "title": "Google limits Meta\u2019s use of its Gemini AI models, FT reports",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/google-limits-metas-use-its-gemini-ai-models-ft-reports-6216136"
+    },
+    {
+      "title": "LG Chem weighs CCL expansion as AI chip demand strains supply",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260625VL221/lg-chem-ccl-expansion-demand-ai-chip.html"
+    },
+    {
+      "title": "2nm advanced process waste surges 13x, Techzone targets semiconductor ESG waste treatment market",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260624PD211/2nm-market-28nm-3nm.html"
+    },
+    {
+      "title": "Trusval reports record 2025 profit, eyes global growth in 2026",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260624PD215/trusval-profit-revenue-2026.html"
     }
   ]
 }
