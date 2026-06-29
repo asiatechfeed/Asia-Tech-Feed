@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-06-29",
+    "title": "Goertek's 12-inch AR wafer fab could double waveguide output, cut AI glasses costs",
+    "summary": "Goertek has begun mass production at China's first 12-inch AR optical wafer fab, a milestone that could cut waveguide costs, strengthen the domestic AI smart glasses supply chain and speed up mass-market adoption.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260625VL209/ar-goertek-12-inch-fab-wafer.html"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Taiwan electronics sector stays upbeat as AI demand lifts exports",
+    "summary": "Taiwan's electronics-machinery sector is heading into the second half of 2026 with cautious optimism, as global demand for AI infrastructure, high-end semiconductors, and cloud services continues to support trade. The latest survey suggests the benefits are spreading through supply chains, with implications for manufac",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260625PD239/taiwan-demand-high-end-business-growth.html"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "AIC sees double-digit growth as AI infrastructure shifts to rack-level systems",
+    "summary": "AIC said the global shift from single-server AI computing to rack- and system-level integration is driving coordinated storage, compute, and networking design as a key trend in AI infrastructure worldwide. The server rack maker said it will continue deepening technology and global customer ties, while expecting full-ye",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260625PD238/supplier-growth-2026-infrastructure-revenue.html"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "DeepSeek introduces DSpark, speeds AI responses up to 85%",
+    "summary": "DeepSeek's DSpark framework boosts AI response speeds by up to 85% using speculative decoding.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/deepseek-begins-beta-for-chatbot-image-video-features"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Google limits Meta’s Gemini AI acces",
+    "summary": "Meta was asked to use AI tokens more efficiently due to limited Google Gemini AI capacity.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/meta-agrees-buy-16-gw-ai-capacity-crusoe"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Who’s investing in India’s biotech startups?",
+    "summary": "We've compiled a list of investors pouring money into India’s biotech startups.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Biotechnology"
+    ],
+    "url": "https://www.techinasia.com/whos-investing-indias-biotech-startups"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Asia's AI rally winners face a rising leverage problem",
+    "summary": "Asia's AI rally winners face a rising leverage problem",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/markets/trading-asia/asia-s-ai-rally-winners-face-a-rising-leverage-problem"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Honda starts AI data center battery production in US after EV pivot",
+    "summary": "Honda starts AI data center battery production in US after EV pivot",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/honda-starts-ai-data-center-battery-production-in-us-after-ev-pivot"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Japan banks, tech firms join on AI chat tool for retail asset management",
+    "summary": "Japan banks, tech firms join on AI chat tool for retail asset management",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/finance/japan-banks-tech-firms-join-on-ai-chat-tool-for-retail-asset-management"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
+    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "No career ambition, no ego: AI plays devil's advocate at Audax Private Equity",
+    "summary": "Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/private-equity/newsView/ked202603120002"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate",
+    "summary": "EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "Biotechnology"
+    ],
+    "url": "https://www.kedglobal.com/bio-pharma/newsView/ked202603100001"
+  },
+  {
     "date": "2026-06-28",
     "title": "Google limits Meta’s Gemini AI acces",
     "summary": "Meta was asked to use AI tokens more efficiently due to limited Google Gemini AI capacity.",
