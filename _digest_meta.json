@@ -1,8 +1,9 @@
 {
   "date": "2026-06-29",
-  "count": 12,
+  "count": 15,
   "sources": [
     "DigiTimes",
+    "EETAsia",
     "KED",
     "NikkeiAsia",
     "TechAsia"
@@ -10,29 +11,29 @@
   "post_file": "2026-06-29-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Goertek's 12-inch AR wafer fab could double waveguide output, cut AI glasses costs",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260625VL209/ar-goertek-12-inch-fab-wafer.html"
+      "title": "Arrow and ST Collaborating to Accelerate Industrial AMR Development",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/arrow-and-st-collaborating-to-accelerate-industrial-amr-development/"
     },
     {
-      "title": "Taiwan electronics sector stays upbeat as AI demand lifts exports",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260625PD239/taiwan-demand-high-end-business-growth.html"
-    },
-    {
-      "title": "AIC sees double-digit growth as AI infrastructure shifts to rack-level systems",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260625PD238/supplier-growth-2026-infrastructure-revenue.html"
-    },
-    {
-      "title": "DeepSeek introduces DSpark, speeds AI responses up to 85%",
+      "title": "Thailand\u2019s Amity launches Singapore AI hub",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/deepseek-begins-beta-for-chatbot-image-video-features"
+      "url": "https://www.techinasia.com/asian-firms-split-chinese-ai-geopolitics-bite"
     },
     {
-      "title": "Google limits Meta\u2019s Gemini AI acces",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/meta-agrees-buy-16-gw-ai-capacity-crusoe"
+      "title": "Baidu subsidiary Kunlunxin seeks US$50B IPO valuation, asks investors to buy its chips",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260629VL214/chips-baidu-ipo-subsidiary-market.html"
+    },
+    {
+      "title": "Chengxi approved for Taipei Exchange listing as AI reshapes customer service",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260629PD224/taipei-profit-government-2025-revenue.html"
+    },
+    {
+      "title": "Kyocera to invest JPY650 billion in chip equipment and data center components",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260629VL213/kyocera-equipment-data-center-investment-manufacturing.html"
     }
   ]
 }
