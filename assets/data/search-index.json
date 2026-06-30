@@ -1,69 +1,91 @@
 [
   {
     "date": "2026-06-30",
-    "title": "These are Asia’s most active investors in AI",
-    "summary": "We've compiled a list of investors that are pouring money into Asia’s AI startups.",
+    "title": "Chae Lee Appointed CEO of Magnachip",
+    "summary": "Magnachip has appointed semiconductor industry veteran Chae Lee as chief executive officer, effective July 1, 2026. The post Chae Lee Appointed CEO of Magnachip appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/chae-lee-appointed-ceo-of-magnachip/"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "Why mid tier AI models will die to cheap Chinese open systems",
+    "summary": "Jason Lemkin and Rory O'Driscoll explain how cheaper AI, open models, and ROI pressures are reshaping the industry's next phase.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/these-are-asias-most-active-investors-in-ai"
+    "url": "https://www.techinasia.com/cheap-ai-changing-rules-competition"
   },
   {
     "date": "2026-06-30",
-    "title": "Israeli AI testing startup Arato raises $10m seed funding",
-    "summary": "Arato's platform runs thousands of simulated user interactions across text, voice, image, and data.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
-  },
-  {
-    "date": "2026-06-30",
-    "title": "ByteDance targets next-gen AI CPU by early 2027",
-    "summary": "An earlier version of ByteDance's chip has been used internally since late last year.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/bytedance-spend-30b-china-ai-2026"
-  },
-  {
-    "date": "2026-06-30",
-    "title": "China's SiC race shifts from EVs to AI data centers as SICC overtakes Wolfspeed",
-    "summary": "China's silicon carbide (SiC) supply chain is finding a new growth engine as AI strains data-center power systems, extending a market long driven by electric vehicles.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260629VL206/sic-data-sicc-wolfspeed-market.html"
-  },
-  {
-    "date": "2026-06-30",
-    "title": "Halos signals Nvidia's bid to make safety certification the robotics gateway",
-    "summary": "Nvidia does not make robots, but it is becoming a key force behind embodied intelligence companies. At Automate 2026, North America's largest industrial automation show, on June 22, Deepu Talla, vice president of Nvidia's robotics business, said on stage that the company hired 18,600 man-years of engineers to bring the",
+    "title": "Asia Neo Tech and Brooks sign 15-year FOUP deal",
+    "summary": "Asia Neo Tech has announced a 15-year technology licensing agreement with US-based Brooks Automation to cooperate on FOUP (front-opening unified pod) cleaning equipment and expand its reach into global markets. The two companies held a signing ceremony on June 30, 2026.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20260629PD232/nvidia-robotics-certification-cuda-2026.html"
+    "url": "https://www.digitimes.com/news/a20260630PD237/asia-technology-equipment-market-licensing.html"
   },
   {
     "date": "2026-06-30",
-    "title": "Arm says it tops 50% share in hyperscale cloud as x86 grip slips",
-    "summary": "Arm Holdings says its chip architecture has crossed the 50% threshold in the hyperscale cloud market, a milestone in a segment long dominated by Intel and AMD. The SoftBank-backed chip designer is now pushing further into the hardware business itself, even as supply chains strain under the weight of the AI infrastructu",
+    "title": "onsemi Acquiring Synaptics to Expand Edge AI and Physical AI Portfolio",
+    "summary": "The acquisition adds edge AI compute and connectivity capabilities, strengthening onsemi's position in intelligent systems markets. The post onsemi Acquiring Synaptics to Expand Edge AI and Physical AI Portfolio appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/onsemi-acquiring-synaptics-to-expand-edge-ai-and-physical-ai-portfolio/"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "Ability Opto-Electronics targets CPO growth with V-groove and MT lines",
+    "summary": "Ability Opto-Electronics Technology, an optics maker, said on June 29 that its V-groove and mechanical transfer (MT) products for co-packaged optics (CPO) are likely to become its second-largest product line after notebook camera modules, as the company pushes to expand into new growth drivers. Chairman Weiya Gao said ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260630PD224/ability-enterprise-cpo-optics-ability-opto-electronics-technology-growth.html"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "TSMC fast-tracks CoPoS—whole supply chain under gag order",
+    "summary": "TSMC is accelerating CoWoS capacity expansion while also pushing ahead with next-generation panel-level packaging, CoPoS, aiming to use a new \"round-to-square\" architecture to break through cost and capacity bottlenecks in large AI chip packaging and build its next competitive moat.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260626VL215/arm-x86-chips-market-data-center.html"
+    "url": "https://www.digitimes.com/news/a20260630PD239/tsmc-supply-chain-cowos-packaging-equipment.html"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "Chinese robotics startup X Square Robot raises $147m",
+    "summary": "X Square Robot uses synthetic data and its DexVerse engine to train robot models.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "Alibaba consolidates AI business into new Token Hub",
+    "summary": "The restructuring aimed to better connect model research, delivery, and applications.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/alibaba-cloud-expands-ai-capacity-malaysia"
   },
   {
     "date": "2026-06-30",
@@ -76,51 +98,6 @@
       "AI"
     ],
     "url": "https://www.eetasia.com/lattice-receives-2026-ai-breakthrough-award/"
-  },
-  {
-    "date": "2026-06-30",
-    "title": "ST Backs Oversonic as It Expands Humanoid Robotics Development",
-    "summary": "New investors support Oversonic's growth plans, advancing cognitive humanoid robotics for industrial and healthcare applications globally. The post ST Backs Oversonic as It Expands Humanoid Robotics Development appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Automation"
-    ],
-    "url": "https://www.eetasia.com/st-backs-oversonic-as-it-expands-humanoid-robotics-development/"
-  },
-  {
-    "date": "2026-06-30",
-    "title": "Bitcoin miner and AI firm Ionic Digital files for Nasdaq direct listing",
-    "summary": "Bitcoin miner and AI firm Ionic Digital files for Nasdaq direct listing",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/bitcoin-miner-and-ai-firm-ionic-digital-files-nasdaq-direct-listing-6219941"
-  },
-  {
-    "date": "2026-06-30",
-    "title": "Uber, Waymo end robotaxi partnership in Phoenix",
-    "summary": "Uber, Waymo end robotaxi partnership in Phoenix",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Automation"
-    ],
-    "url": "https://www.channelnewsasia.com/business/uber-waymo-end-robotaxi-partnership-in-phoenix-6219906"
-  },
-  {
-    "date": "2026-06-30",
-    "title": "Arrow and ST Collaborating to Accelerate Industrial AMR Development",
-    "summary": "Arrow and STMicroelectronics have developed an industrial AMR reference platform designed to shorten the path from concept to deployment for professional service robots. The post Arrow and ST Collaborating to Accelerate Industrial AMR Development appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Electronics",
-      "Automation"
-    ],
-    "url": "https://www.eetasia.com/arrow-and-st-collaborating-to-accelerate-industrial-amr-development/"
   },
   {
     "date": "2026-06-30",
@@ -143,17 +120,6 @@
       "AI"
     ],
     "url": "https://asia.nikkei.com/business/markets/trading-asia/asia-s-ai-rally-winners-face-a-rising-leverage-problem"
-  },
-  {
-    "date": "2026-06-30",
-    "title": "Honda starts AI data center battery production in US after EV pivot",
-    "summary": "Honda starts AI data center battery production in US after EV pivot",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/honda-starts-ai-data-center-battery-production-in-us-after-ev-pivot"
   },
   {
     "date": "2026-06-30",
