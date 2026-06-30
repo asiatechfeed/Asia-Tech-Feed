@@ -1,39 +1,40 @@
 {
-  "date": "2026-06-29",
-  "count": 15,
+  "date": "2026-06-30",
+  "count": 17,
   "sources": [
+    "CNA",
     "DigiTimes",
     "EETAsia",
     "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-06-29-asia-tech-news-digest.md",
+  "post_file": "2026-06-30-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Arrow and ST Collaborating to Accelerate Industrial AMR Development",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/arrow-and-st-collaborating-to-accelerate-industrial-amr-development/"
-    },
-    {
-      "title": "Thailand\u2019s Amity launches Singapore AI hub",
+      "title": "These are Asia\u2019s most active investors in AI",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/asian-firms-split-chinese-ai-geopolitics-bite"
+      "url": "https://www.techinasia.com/these-are-asias-most-active-investors-in-ai"
     },
     {
-      "title": "Baidu subsidiary Kunlunxin seeks US$50B IPO valuation, asks investors to buy its chips",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260629VL214/chips-baidu-ipo-subsidiary-market.html"
+      "title": "Israeli AI testing startup Arato raises $10m seed funding",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
     },
     {
-      "title": "Chengxi approved for Taipei Exchange listing as AI reshapes customer service",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260629PD224/taipei-profit-government-2025-revenue.html"
+      "title": "ByteDance targets next-gen AI CPU by early 2027",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/bytedance-spend-30b-china-ai-2026"
     },
     {
-      "title": "Kyocera to invest JPY650 billion in chip equipment and data center components",
+      "title": "China's SiC race shifts from EVs to AI data centers as SICC overtakes Wolfspeed",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260629VL213/kyocera-equipment-data-center-investment-manufacturing.html"
+      "url": "https://www.digitimes.com/news/a20260629VL206/sic-data-sicc-wolfspeed-market.html"
+    },
+    {
+      "title": "Halos signals Nvidia's bid to make safety certification the robotics gateway",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260629PD232/nvidia-robotics-certification-cuda-2026.html"
     }
   ]
 }
