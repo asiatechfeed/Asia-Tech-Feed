@@ -75,7 +75,7 @@ header.site-header {
   justify-content: space-between;
 }
 .site-title { text-decoration: none; display: flex; align-items: center; }
-.site-logo { height: 42px; width: auto; display: block; }
+.site-logo { height: 84px; width: auto; display: block; }
 .site-logo-dark { display: none; }
 html.dark .site-logo-light { display: none; }
 html.dark .site-logo-dark { display: block; }
@@ -549,7 +549,7 @@ html.dark .featured-hero,
     gap: 4px;
     padding: 12px 16px;
   }
-  .site-logo { height: 34px; }
+  .site-logo { height: 68px; }
   .header-meta { font-size: 0.9rem; }
 
   /* Nav: recalculate sticky offset; make links fill row */
@@ -678,7 +678,7 @@ html.dark .featured-hero,
 
 /* ── Small mobile (≤480px) ── */
 @media (max-width: 480px) {
-  .site-logo { height: 28px; }
+  .site-logo { height: 56px; }
   .summary-bar { grid-template-columns: 1fr 1fr; gap: 8px; }
   .stat-card .num { font-size: 1.2rem; }
   .stat-card .lbl { font-size: 0.72rem; }
