@@ -5,10 +5,10 @@ title: Archive
 
 <h2 style="margin-bottom:20px; color:#1a3a5c;">📁 All News Digests</h2>
 
-{% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% assign postsByYear = site.posts | group_by_exp: "post", "post.archive_date | default: post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 
-{% assign postsByMonth = year.items | group_by_exp: "post", "post.date | date: '%B %Y'" %}
+{% assign postsByMonth = year.items | group_by_exp: "post", "post.archive_date | default: post.date | date: '%B %Y'" %}
 {% for month in postsByMonth %}
 <details class="archive-folder" {% if forloop.first and forloop.parentloop.first %}open{% endif %}>
   <summary class="archive-folder-title">
@@ -20,7 +20,10 @@ title: Archive
     {% for post in month.items %}
     <div class="archive-row">
       <a href="{{ post.url | relative_url }}" class="archive-link">{{ post.title }}</a>
-      <span class="archive-meta">{{ post.date | date: "%d %b" }} &middot; {{ post.articles_count | default: 0 }} articles</span>
+      <span class="archive-meta">
+        {{ post.date | date: "%d %b" }}
+        {% if post.layout == "editorial" %}&middot; Editor's Review{% else %}&middot; {{ post.articles_count | default: 0 }} articles{% endif %}
+      </span>
     </div>
     {% endfor %}
   </div>

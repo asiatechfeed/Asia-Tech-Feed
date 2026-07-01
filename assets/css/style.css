@@ -348,6 +348,67 @@ html.dark .top-story-source { background: #2d3748; color: #7eb8f7; }
 }
 .top-story-digest-link:hover { text-decoration: underline; }
 
+/* EDITOR'S REVIEW TEASER (homepage) */
+.editorial-teaser {
+  display: block;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: 10px;
+  padding: 18px 22px;
+  margin-bottom: 22px;
+  text-decoration: none;
+  color: inherit;
+}
+.editorial-teaser-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+.editorial-teaser-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--primary);
+  margin: 0 0 8px;
+  line-height: 1.35;
+}
+.editorial-teaser-summary {
+  font-size: 0.88rem;
+  color: var(--muted);
+  line-height: 1.6;
+  margin: 0 0 10px;
+}
+.editorial-teaser-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+.editorial-teaser-cta { color: #2b6cb0; font-weight: 600; }
+.editorial-teaser:hover .editorial-teaser-title { text-decoration: underline; }
+
+/* EDITORIAL POST PAGE */
+.editorial-page { max-width: 760px; margin: 0 auto; }
+.editorial-badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #fff;
+  background: var(--accent);
+  padding: 4px 10px;
+  border-radius: 4px;
+  margin-bottom: 12px;
+}
+.editorial-content { font-size: 1rem; line-height: 1.8; color: var(--text); }
+.editorial-content p { margin-bottom: 18px; }
+.editorial-content p:last-child { font-style: italic; color: var(--muted); margin-bottom: 0; }
+
 /* PAGINATION */
 .pagination { display: flex; justify-content: center; gap: 8px; margin-top: 28px; }
 .pagination a, .pagination span {

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="post-body editorial-page">
+
+  <div class="post-header">
+    <span class="editorial-badge">&#9997;&#65039; Editor's Review</span>
+    <h1>{{ page.title }}</h1>
+    <div class="post-meta">
+      <span>&#128197; {{ page.date | date: "%B %d, %Y" }}</span>
+      {% if page.author %}<span>&#128100; {{ page.author }}</span>{% endif %}
+    </div>
+  </div>
+
+  <div class="editorial-content">
+    {{ content }}
+  </div>
+
+</div>

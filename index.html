@@ -3,7 +3,11 @@ layout: default
 title: Latest News
 ---
 
-{% assign latest = site.posts.first %}
+{% assign digest_posts = site.posts | where_exp: "p", "p.layout != 'editorial'" %}
+{% assign editorial_posts = site.posts | where: "layout", "editorial" %}
+{% assign latest_editorial = editorial_posts.first %}
+
+{% assign latest = digest_posts.first %}
 {% if latest.featured_title %}
 <div class="top-story-card">
   {% unless latest.featured_image == blank %}
@@ -27,14 +31,28 @@ title: Latest News
 </div>
 {% endif %}
 
-{% if site.posts.size == 0 %}
+{% if latest_editorial %}
+<a href="{{ latest_editorial.url | relative_url }}" class="editorial-teaser">
+  <div class="editorial-teaser-label">&#9997;&#65039; Editor's Review</div>
+  <h2 class="editorial-teaser-title">{{ latest_editorial.title }}</h2>
+  {% if latest_editorial.excerpt %}
+  <p class="editorial-teaser-summary">{{ latest_editorial.excerpt | strip_html }}</p>
+  {% endif %}
+  <div class="editorial-teaser-meta">
+    <span>{{ latest_editorial.date | date: "%B %d, %Y" }}</span>
+    <span class="editorial-teaser-cta">Read the review &rarr;</span>
+  </div>
+</a>
+{% endif %}
+
+{% if digest_posts.size == 0 %}
 <div style="background:#fff; border-radius:10px; padding:40px; text-align:center; border:1px solid #dde3ec;">
   <h2 style="color:#1a3a5c; margin-bottom:10px;">No digests published yet</h2>
   <p style="color:#718096;">The first digest will appear here after the GitHub Actions workflow runs.</p>
 </div>
 {% else %}
 
-{% assign latest = site.posts.first %}
+{% assign latest = digest_posts.first %}
 <div style="background:#fff; border:1px solid #dde3ec; border-radius:10px; padding:20px 24px; margin-bottom:24px;">
   <div style="font-size:0.78rem; color:#718096; margin-bottom:6px;">LATEST DIGEST</div>
   <h2 style="color:#1a3a5c; margin-bottom:8px;">
@@ -50,7 +68,7 @@ title: Latest News
 
 <h3 style="margin-bottom:14px; font-size:1rem; color:#2d3748;">Recent Digests</h3>
 <div style="background:#fff; border-radius:10px; overflow:hidden; border:1px solid #dde3ec;">
-{% for post in site.posts limit:3 %}
+{% for post in digest_posts limit:3 %}
 <div class="digest-item" style="padding:14px 20px; border-bottom:1px solid #dde3ec; display:flex; justify-content:space-between; align-items:center; {% if forloop.last %}border-bottom:none;{% endif %}">
   <div>
     <a href="{{ post.url | relative_url }}" style="font-weight:600; color:#1a3a5c; text-decoration:none;">
@@ -65,9 +83,10 @@ title: Latest News
 {% endfor %}
 </div>
 
-{% if site.posts.size > 3 %}
+{% if digest_posts.size > 3 %}
 <div style="margin-top:14px; text-align:right;">
   <a href="{{ '/archive' | relative_url }}" style="font-size:0.85rem; color:#2b6cb0; text-decoration:none; font-weight:600;">View all archives &rarr;</a>
 </div>
 {% endif %}
+
 {% endif %}
