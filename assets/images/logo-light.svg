@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 140" width="540" height="140">
+  <g transform="translate(14,22) scale(0.8)">
+    <g fill="#171b22">
+      <rect x="36" y="4" width="8" height="16" rx="2"></rect><rect x="56" y="4" width="8" height="16" rx="2"></rect><rect x="76" y="4" width="8" height="16" rx="2"></rect>
+      <rect x="36" y="100" width="8" height="16" rx="2"></rect><rect x="56" y="100" width="8" height="16" rx="2"></rect><rect x="76" y="100" width="8" height="16" rx="2"></rect>
+      <rect x="4" y="36" width="16" height="8" rx="2"></rect><rect x="4" y="56" width="16" height="8" rx="2"></rect><rect x="4" y="76" width="16" height="8" rx="2"></rect>
+      <rect x="100" y="36" width="16" height="8" rx="2"></rect><rect x="100" y="56" width="16" height="8" rx="2"></rect><rect x="100" y="76" width="16" height="8" rx="2"></rect>
+    </g>
+    <rect x="18" y="18" width="84" height="84" rx="16" fill="#171b22"></rect>
+    <rect x="33" y="41" width="54" height="9" rx="4.5" fill="#0a66c2"></rect>
+    <rect x="33" y="57" width="54" height="9" rx="4.5" fill="#e8801a"></rect>
+    <rect x="33" y="73" width="40" height="9" rx="4.5" fill="#ffffff" opacity="0.55"></rect>
+  </g>
+  <text x="138" y="74" font-family="Archivo, &#39;Helvetica Neue&#39;, Arial, sans-serif" font-weight="800" font-size="44" letter-spacing="-0.6" xml:space="preserve"><tspan fill="#0a66c2">Asia</tspan><tspan fill="#171b22"> Tech </tspan><tspan fill="#e8801a">Feed</tspan></text>
+  <text x="140" y="104" font-family="Archivo, &#39;Helvetica Neue&#39;, Arial, sans-serif" font-style="italic" font-weight="500" font-size="18" fill="#5b6470">Asia Tech. Byte-sized.</text>
+</svg>
