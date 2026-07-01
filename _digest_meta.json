@@ -1,39 +1,40 @@
 {
-  "date": "2026-06-30",
-  "count": 14,
+  "date": "2026-07-01",
+  "count": 16,
   "sources": [
+    "CNA",
     "DigiTimes",
     "EETAsia",
     "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-06-30-asia-tech-news-digest.md",
+  "post_file": "2026-07-01-asia-tech-news-digest.md",
   "articles": [
+    {
+      "title": "Nvidia recruits for humanoid robotics roles in China",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/nvidia-amazon-back-neuras-1-4b-funding-round"
+    },
+    {
+      "title": "Ping An Bank, UnionPay unveil AI computing card",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/sea-japan-korea-market-reforms"
+    },
+    {
+      "title": "UBTech launches consumer humanoid robot series",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/chinas-ubtech-boost-humanoid-robot-production-10-2026"
+    },
+    {
+      "title": "US lifts export controls on Anthropic's Fable, Mythos AI models",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/us-lifts-export-controls-anthropics-fable-mythos-ai-models-6223031"
+    },
     {
       "title": "Chae Lee Appointed CEO of Magnachip",
       "source": "EETAsia",
       "url": "https://www.eetasia.com/chae-lee-appointed-ceo-of-magnachip/"
-    },
-    {
-      "title": "Why mid tier AI models will die to cheap Chinese open systems",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/cheap-ai-changing-rules-competition"
-    },
-    {
-      "title": "Asia Neo Tech and Brooks sign 15-year FOUP deal",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260630PD237/asia-technology-equipment-market-licensing.html"
-    },
-    {
-      "title": "onsemi Acquiring Synaptics to Expand Edge AI and Physical AI Portfolio",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/onsemi-acquiring-synaptics-to-expand-edge-ai-and-physical-ai-portfolio/"
-    },
-    {
-      "title": "Ability Opto-Electronics targets CPO growth with V-groove and MT lines",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260630PD224/ability-enterprise-cpo-optics-ability-opto-electronics-technology-growth.html"
     }
   ]
 }
