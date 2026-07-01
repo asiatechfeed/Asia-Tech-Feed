@@ -1,5 +1,5 @@
 /* =============================================
-   Asia Tech News Feed Ã¢ÂÂ Jekyll Theme
+   Asia Tech News Feed — Jekyll Theme
    ============================================= */
 
 :root {
@@ -16,7 +16,7 @@
   --font: "Segoe UI", system-ui, -apple-system, sans-serif;
 }
 
-/* Dark mode Ã¢ÂÂ manual toggle (.dark on <html>) */
+/* Dark mode — manual toggle (.dark on <html>) */
 html.dark {
   --primary: #2a5298;
   --accent: #e84545;
@@ -30,7 +30,7 @@ html.dark {
   --row-hover: #1c2e45;
 }
 
-/* Dark mode Ã¢ÂÂ respect OS preference when no manual toggle */
+/* Dark mode — respect OS preference when no manual toggle */
 @media (prefers-color-scheme: dark) {
   html:not(.light) {
     --primary: #2a5298;
@@ -74,9 +74,15 @@ header.site-header {
   align-items: center;
   justify-content: space-between;
 }
-.site-title { font-size: 1.3rem; font-weight: 700; letter-spacing: -0.3px; text-decoration: none; color: #fff; }
-.site-title span { color: #f6c90e; }
-.header-meta { font-size: 1.05rem; color: rgba(255,255,255,0.8); font-style: italic; letter-spacing: 0.2px; }
+.site-title { text-decoration: none; display: flex; align-items: center; }
+.site-logo { height: 42px; width: auto; display: block; }
+.site-logo-dark { display: none; }
+html.dark .site-logo-light { display: none; }
+html.dark .site-logo-dark { display: block; }
+@media (prefers-color-scheme: dark) {
+  html:not(.light) .site-logo-light { display: none; }
+  html:not(.light) .site-logo-dark { display: block; }
+}
 
 /* DARK MODE TOGGLE */
 .dark-toggle {
@@ -95,7 +101,7 @@ header.site-header {
 }
 .dark-toggle:hover { background: rgba(255,255,255,0.22); }
 
-/* NAV Ã¢ÂÂ sticky beneath header */
+/* NAV — sticky beneath header */
 nav.site-nav { background: #132d4a; position: sticky; top: 49px; z-index: 99; box-shadow: 0 2px 6px rgba(0,0,0,0.12); }
 .nav-inner { max-width: 1280px; margin: 0 auto; padding: 0 24px; display: flex; gap: 0; }
 nav a { color: rgba(255,255,255,0.75); text-decoration: none; font-size: 0.87rem; padding: 10px 16px; display: inline-block; transition: all .2s; }
@@ -528,12 +534,12 @@ html.dark .featured-hero,
    MOBILE & RESPONSIVE STYLES
    ============================================= */
 
-/* Ã¢ÂÂÃ¢ÂÂ Tablet (Ã¢ÂÂ¤900px) Ã¢ÂÂÃ¢ÂÂ */
+/* ── Tablet (≤900px) ── */
 @media (max-width: 900px) {
   .col-tags { display: none; }
 }
 
-/* Ã¢ÂÂÃ¢ÂÂ Mobile (Ã¢ÂÂ¤768px) Ã¢ÂÂÃ¢ÂÂ */
+/* ── Mobile (≤768px) ── */
 @media (max-width: 768px) {
 
   /* Header: stack title + meta vertically */
@@ -543,7 +549,7 @@ html.dark .featured-hero,
     gap: 4px;
     padding: 12px 16px;
   }
-  .site-title { font-size: 1.1rem; }
+  .site-logo { height: 34px; }
   .header-meta { font-size: 0.9rem; }
 
   /* Nav: recalculate sticky offset; make links fill row */
@@ -559,7 +565,7 @@ html.dark .featured-hero,
   .top-story-body { padding: 14px 16px 16px; }
   .top-story-title { font-size: 1.1rem; }
 
-  /* Keyword stats bar in post: horizontal scroll (8 cards Ã¢ÂÂ don't use grid) */
+  /* Keyword stats bar in post: horizontal scroll (8 cards → don't use grid) */
   .keyword-bar {
     display: flex !important;
     flex-wrap: nowrap !important;
@@ -589,7 +595,7 @@ html.dark .featured-hero,
   .actions-bar { justify-content: stretch; }
   .btn-download { width: 100%; justify-content: center; padding: 11px 18px; font-size: 0.88rem; min-height: 44px; }
 
-  /* Ã¢ÂÂÃ¢ÂÂ Article table Ã¢ÂÂ card layout Ã¢ÂÂÃ¢ÂÂ */
+  /* ── Article table → card layout ── */
   .news-table-wrapper { overflow-x: unset; }
 
   .news-table,
@@ -670,16 +676,15 @@ html.dark .featured-hero,
   footer p { margin-bottom: 6px; }
 }
 
-/* Ã¢ÂÂÃ¢ÂÂ Small mobile (Ã¢ÂÂ¤480px) Ã¢ÂÂÃ¢ÂÂ */
+/* ── Small mobile (≤480px) ── */
 @media (max-width: 480px) {
-  .site-title { font-size: 1rem; }
+  .site-logo { height: 28px; }
   .summary-bar { grid-template-columns: 1fr 1fr; gap: 8px; }
   .stat-card .num { font-size: 1.2rem; }
   .stat-card .lbl { font-size: 0.72rem; }
   .article-title { font-size: 0.9rem; }
   .col-summary { font-size: 0.82rem; }
 }
-
 
 /* =====================================================
    STOCK TICKER
