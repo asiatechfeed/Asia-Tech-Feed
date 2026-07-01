@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "count": 16,
+  "count": 17,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -12,29 +12,29 @@
   "post_file": "2026-07-01-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Nvidia recruits for humanoid robotics roles in China",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-amazon-back-neuras-1-4b-funding-round"
-    },
-    {
-      "title": "Ping An Bank, UnionPay unveil AI computing card",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/sea-japan-korea-market-reforms"
-    },
-    {
-      "title": "UBTech launches consumer humanoid robot series",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinas-ubtech-boost-humanoid-robot-production-10-2026"
-    },
-    {
-      "title": "US lifts export controls on Anthropic's Fable, Mythos AI models",
+      "title": "Unchecked AI progress may pose catastrophic risks, UN panel warns",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/us-lifts-export-controls-anthropics-fable-mythos-ai-models-6223031"
+      "url": "https://www.channelnewsasia.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-6224606"
     },
     {
-      "title": "Chae Lee Appointed CEO of Magnachip",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/chae-lee-appointed-ceo-of-magnachip/"
+      "title": "Wayve courts automakers with AI driving system that learns like humans",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/wayve-courts-automakers-ai-driving-system-learns-humans-6224546"
+    },
+    {
+      "title": "Why Salesforce warns against AI pilots driven by corporate FOMO",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/salesforce-india-ai-agents"
+    },
+    {
+      "title": "UAE investment firm MGX raises massive $49b AI fund",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/openai-nears-10b-funding-led-by-mgx-thrive-capital-sources"
+    },
+    {
+      "title": "Nvidia GPU-network ecosystem tops data center Ethernet switches",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260701PD224/nvidia-data-center-ethernet-idc.html"
     }
   ]
 }

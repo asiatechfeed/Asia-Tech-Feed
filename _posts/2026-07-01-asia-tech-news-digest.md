@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - July 01, 2026"
-date: 2026-07-01 08:01:29 +0800
-articles_count: 16
+date: 2026-07-01 19:40:35 +0800
+articles_count: 17
 sources_count: 6
 sources: ["CNA", "DigiTimes", "EETAsia", "KED", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-07-01.tsv
-featured_title: "Nvidia recruits for humanoid robotics roles in China"
-featured_url: "https://www.techinasia.com/nvidia-amazon-back-neuras-1-4b-funding-round"
-featured_source: "TechAsia"
-featured_summary: "Nvidia's job openings include work on Project GR00T, a humanoid robot foundation model."
-featured_image: ""
+featured_title: "Unchecked AI progress may pose catastrophic risks, UN panel warns"
+featured_url: "https://www.channelnewsasia.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-6224606"
+featured_source: "CNA"
+featured_summary: "Unchecked AI progress may pose catastrophic risks, UN panel warns"
+featured_image: "https://dam.mediacorp.sg/image/upload/s--G8ddc227--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-01T101854Z_2_LYNXMPEM602H7_RTROPTP_3_AI-UN.JPG?itok=T0-lk4z1"
 ---
 
 <table class="news-table">
@@ -27,110 +27,118 @@ featured_image: ""
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Nvidia recruits for humanoid robotics roles in China</span></td>
-  <td class="col-summary">Nvidia's job openings include work on Project GR00T, a humanoid robot foundation model.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-amazon-back-neuras-1-4b-funding-round" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Unchecked AI progress may pose catastrophic risks, UN panel warns</span></td>
+  <td class="col-summary">Unchecked AI progress may pose catastrophic risks, UN panel warns</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-6224606" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Ping An Bank, UnionPay unveil AI computing card</span></td>
-  <td class="col-summary">Cardholders can earn computing power points through spending or meeting asset-tier standards.</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Wayve courts automakers with AI driving system that learns like humans</span></td>
+  <td class="col-summary">Wayve courts automakers with AI driving system that learns like humans</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sea-japan-korea-market-reforms" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/wayve-courts-automakers-ai-driving-system-learns-humans-6224546" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">UBTech launches consumer humanoid robot series</span></td>
-  <td class="col-summary">UBTECH's You World U1 humanoid robots are priced from 119,800 yuan (US$18,000) to 990,000 yuan (US$146,000).</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-ubtech-boost-humanoid-robot-production-10-2026" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Why Salesforce warns against AI pilots driven by corporate FOMO</span></td>
+  <td class="col-summary">Salesforce India CEO Arundhati Bhattacharya shares a practical framework for building AI agents that businesses can trust, scale, and measure.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/salesforce-india-ai-agents" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">US lifts export controls on Anthropic's Fable, Mythos AI models</span></td>
-  <td class="col-summary">US lifts export controls on Anthropic's Fable, Mythos AI models</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">UAE investment firm MGX raises massive $49b AI fund</span></td>
+  <td class="col-summary">The firm has invested in OpenAI and xAI, and has also backed global projects with BlackRock and Microsoft.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/us-lifts-export-controls-anthropics-fable-mythos-ai-models-6223031" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-nears-10b-funding-led-by-mgx-thrive-capital-sources" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Chae Lee Appointed CEO of Magnachip</span></td>
-  <td class="col-summary">Magnachip has appointed semiconductor industry veteran Chae Lee as chief executive officer, effective July 1, 2026. The post Chae Lee Appointed CEO of Magnachip appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/chae-lee-appointed-ceo-of-magnachip/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Nvidia GPU-network ecosystem tops data center Ethernet switches</span></td>
+  <td class="col-summary">According to IDC's latest data, Nvidia's networking business has surged to the top, with the company becoming the revenue leader in the global data center Ethernet switch market for the first time in the first quarter of 2026. This is an arena traditionally contested by network equipment vendors such as Arista Networks</td>
+  <td class="col-tags"></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260701PD224/nvidia-data-center-ethernet-idc.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Asia Neo Tech and Brooks sign 15-year FOUP deal</span></td>
-  <td class="col-summary">Asia Neo Tech has announced a 15-year technology licensing agreement with US-based Brooks Automation to cooperate on FOUP (front-opening unified pod) cleaning equipment and expand its reach into global markets. The two companies held a signing ceremony on June 30, 2026.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260630PD237/asia-technology-equipment-market-licensing.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Analysis: Apple isn't a victim of memory price surge; it's the biggest winner</span></td>
+  <td class="col-summary">Every major consumer electronics company has raised prices this year. The reason, in almost every case, is the same: memory costs have surged, driven by AI data center demand that has overwhelmed global DRAM and NAND supply. Apple raised prices on its MacBook and iPad lines, too. However, to group Apple's move with eve</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260701VL218/apple-memory-chips-price-electronics-iphone-macbook.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">onsemi Acquiring Synaptics to Expand Edge AI and Physical AI Portfolio</span></td>
-  <td class="col-summary">The acquisition adds edge AI compute and connectivity capabilities, strengthening onsemi's position in intelligent systems markets. The post onsemi Acquiring Synaptics to Expand Edge AI and Physical AI Portfolio appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/onsemi-acquiring-synaptics-to-expand-edge-ai-and-physical-ai-portfolio/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Yageo chairman takes control of Anpec board</span></td>
+  <td class="col-summary">After Yageo confirmed its stake in Taiwanese power management IC maker Anpec, attention has turned to whether the group will deepen its involvement in Anpec's operations as part of a broader consolidation strategy. Anpec previously said that, based on the current understanding between the two companies, Yageo invested </td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260701PD222/yageo-anpec-ic-management.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Ability Opto-Electronics targets CPO growth with V-groove and MT lines</span></td>
-  <td class="col-summary">Ability Opto-Electronics Technology, an optics maker, said on June 29 that its V-groove and mechanical transfer (MT) products for co-packaged optics (CPO) are likely to become its second-largest product line after notebook camera modules, as the company pushes to expand into new growth drivers. Chairman Weiya Gao said </td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260630PD224/ability-enterprise-cpo-optics-ability-opto-electronics-technology-growth.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Taiwan chip material firm raises prices 30% for AI servers</span></td>
+  <td class="col-summary">In AI servers, demand is rising for advanced material grades with lower loss and low thermal expansion.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TSMC fast-tracks CoPoS—whole supply chain under gag order</span></td>
-  <td class="col-summary">TSMC is accelerating CoWoS capacity expansion while also pushing ahead with next-generation panel-level packaging, CoPoS, aiming to use a new "round-to-square" architecture to break through cost and capacity bottlenecks in large AI chip packaging and build its next competitive moat.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260630PD239/tsmc-supply-chain-cowos-packaging-equipment.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Applied Materials Expands Singapore Operations with New Manufacturing and R&D Campus</span></td>
+  <td class="col-summary">Applied's new Singapore facility boosts semiconductor equipment production capacity to support growing global AI infrastructure demand. The post Applied Materials Expands Singapore Operations with New Manufacturing and R&D Campus appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/applied-materials-expands-singapore-operations-with-new-manufacturing-and-rd-campus/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
   <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Lattice Receives 2026 AI Breakthrough Award</span></td>
-  <td class="col-summary">Lattice Semiconductor's Lattice sensAI solution stack was named AI Edge Solution of the Year by the 2026 AI Breakthrough Awards. The post Lattice Receives 2026 AI Breakthrough Award appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/lattice-receives-2026-ai-breakthrough-award/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">MIDA Backs GreatAsic-Xenith Partnership to Advance Malaysia’s IC Design Capabilities</span></td>
+  <td class="col-summary">The collaboration demonstrates growing confidence in Malaysian engineering talent and the ability of local technology companies to participate in higher-value segments of the global semiconductor industry. The post MIDA Backs GreatAsic-Xenith Partnership to Advance Malaysia’s IC Design Capabilities appeared first on EE</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/mida-backs-greatasic-xenith-partnership-to-advance-malaysias-ic-design-capabilities/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">China's UBTech launches lifelike humanoid robots for consumers</span></td>
-  <td class="col-summary">China's UBTech launches lifelike humanoid robots for consumers</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/companies/china-s-ubtech-launches-lifelike-humanoid-robots-for-consumers" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">5 Ways Advanced Surface Modification Prevents PCB Potting Failures</span></td>
+  <td class="col-summary">PCB potting adhesion solutions are increasingly being evaluated not only at the material level but also at the surface-engineering level. The post 5 Ways Advanced Surface Modification Prevents PCB Potting Failures appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/5-ways-advanced-surface-modification-prevents-pcb-potting-failures/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">12</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan backs SoftBank-led AI models with up to $6.2bn in chasing US, China</span></td>
-  <td class="col-summary">Japan backs SoftBank-led AI models with up to $6.2bn in chasing US, China</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Singapore seizes $42m home in Nvidia chip smuggling case</span></td>
+  <td class="col-summary">Singapore seizes $42m home in Nvidia chip smuggling case</td>
+  <td class="col-tags"></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/society/crime/singapore-seizes-42m-home-in-nvidia-chip-smuggling-case" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">13</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">'I've applied for 8,000 jobs': Tech grads at top US schools feel shut out by AI</span></td>
-  <td class="col-summary">'I've applied for 8,000 jobs': Tech grads at top US schools feel shut out by AI</td>
+  <td class="col-title"><span class="article-title">Indian IT firms ramp up acquisitions as AI reshapes growth</span></td>
+  <td class="col-summary">Indian IT firms ramp up acquisitions as AI reshapes growth</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/i-ve-applied-for-8-000-jobs-tech-grads-at-top-us-schools-feel-shut-out-by-ai" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/indian-it-firms-ramp-up-acquisitions-as-ai-reshapes-growth" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">14</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">South Korean exports in June soar past $100bn for first time on chip demand</span></td>
+  <td class="col-summary">South Korean exports in June soar past $100bn for first time on chip demand</td>
+  <td class="col-tags"></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/economy/south-korean-exports-in-june-soar-past-100bn-for-first-time-on-chip-demand" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">15</td>
   <td class="col-source"><span class="source-badge">KED</span></td>
   <td class="col-title"><span class="article-title">AI trade isn’t just about tech stocks but also power, TCW says</span></td>
   <td class="col-summary">The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun</td>
@@ -138,7 +146,7 @@ featured_image: ""
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">15</td>
+  <td class="col-num">16</td>
   <td class="col-source"><span class="source-badge">KED</span></td>
   <td class="col-title"><span class="article-title">No career ambition, no ego: AI plays devil's advocate at Audax Private Equity</span></td>
   <td class="col-summary">Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass</td>
@@ -146,7 +154,7 @@ featured_image: ""
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
-  <td class="col-num">16</td>
+  <td class="col-num">17</td>
   <td class="col-source"><span class="source-badge">KED</span></td>
   <td class="col-title"><span class="article-title">EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate</span></td>
   <td class="col-summary">EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease</td>
