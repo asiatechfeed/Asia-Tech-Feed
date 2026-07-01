@@ -36,7 +36,9 @@ ASSETS_DIR.mkdir(parents=True, exist_ok=True)
 
 MAX_ARTICLES = 30
 MAX_PER_DOMAIN = 3
-LOOKBACK_DAYS = 2
+LOOKBACK_DAYS = 3
+SEEN_URLS_FILE = Path(__file__).parent.parent / "_data" / "seen_urls.json"
+SEEN_URLS_KEEP_DAYS = 7   # drop URLs older than this to keep the file lean
 SGT = pytz.timezone("Asia/Singapore")
 
 # Domains that are inherently Asia-focused — no additional Asia term required
@@ -49,9 +51,11 @@ ASIA_FOCUSED_DOMAINS = {
 }
 
 KEYWORDS = [
-    "Semiconductor", "Electronics", "Logistics", "Pharmaceutical",
-    "Biotechnology", "biotech", "Artificial Intelligence",
-    " AI ", "Machine Vision", "Automation", "Robot"
+    "semiconductor", "electronics", "logistics", "pharmaceutical",
+    "biotechnology", "biotech", "artificial intelligence",
+    " ai ", "machine vision", "automation",
+    "chip", "wafer", "fab", "foundry", "pcb", "circuit board",
+    "supply chain", "medtech", "drug", "vaccine", "robot",
 ]
 
 # Only these 8 topics are allowed as tags — maps lowercase input → display label
@@ -435,7 +439,7 @@ def summarize_with_claude(articles: list[dict]) -> list[dict]:
         }
         for a in articles:
             a["summary"] = (a["summary_raw"] or a["title"])[:320]
-            seen = []
+            seen: list[str] = []
             for kw in a.get("matched_keywords", []):
                 tag = kw_to_display.get(kw.lower().strip())
                 if tag and tag not in seen:
@@ -482,13 +486,13 @@ Return ONLY the JSON. No markdown, no explanation."""
             raw = re.sub(r"\s*```$", "", raw)
             data = json.loads(raw)
             article["summary"] = data.get("summary", article["title"])[:400]
-            # Keep only approved tags
+            # Keep only approved tags, normalize to display form
             raw_tags = data.get("tags", [])[:4]
             article["tags"] = [APPROVED_TAGS[t.lower()] for t in raw_tags if t.lower() in APPROVED_TAGS]
         except Exception as e:
             print(f"    ⚠ Claude error: {e}")
             article["summary"] = (article.get("summary_raw") or article["title"])[:320]
-            # Fallback: map matched keywords to approved tags only
+            # Fallback: map matched keywords to approved display labels only
             kw_to_tag = {
                 "semiconductor": "semiconductor", "electronics": "electronics",
                 "logistics": "logistics", "supply chain": "logistics",
@@ -554,6 +558,22 @@ Return ONLY a single integer. No explanation."""
 # ─────────────────────────────────────────────────────────────────────────────
 # DEDUPLICATION
 # ─────────────────────────────────────────────────────────────────────────────
+
+def load_seen_urls() -> dict[str, str]:
+    """Load {url_key: date_str} of URLs already published in past digests."""
+    if not SEEN_URLS_FILE.exists():
+        return {}
+    try:
+        return json.loads(SEEN_URLS_FILE.read_text())
+    except Exception:
+        return {}
+
+def save_seen_urls(seen: dict[str, str]) -> None:
+    """Persist seen URLs, pruning entries older than SEEN_URLS_KEEP_DAYS."""
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=SEEN_URLS_KEEP_DAYS)).strftime("%Y-%m-%d")
+    pruned = {k: v for k, v in seen.items() if v >= cutoff}
+    SEEN_URLS_FILE.parent.mkdir(parents=True, exist_ok=True)
+    SEEN_URLS_FILE.write_text(json.dumps(pruned, indent=2))
 
 def deduplicate(articles: list[dict]) -> list[dict]:
     """Remove near-duplicate articles by URL and title similarity."""
@@ -809,6 +829,12 @@ def main():
     all_articles = deduplicate(all_articles)
     print(f"📊 {len(all_articles)} after deduplication")
 
+    # Cross-day deduplication: skip URLs already published in a past digest
+    seen_urls = load_seen_urls()
+    before_cross = len(all_articles)
+    all_articles = [a for a in all_articles if article_id(a["url"]) not in seen_urls]
+    print(f"📊 {len(all_articles)} after cross-day dedup (removed {before_cross - len(all_articles)} already-published)")
+
     # Sort by date descending
     all_articles.sort(key=lambda x: x.get("date") or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
 
@@ -855,6 +881,13 @@ def main():
     print("\n📝 Writing outputs...")
     post_path = write_jekyll_post(all_articles, run_date, featured=featured)
     update_search_index(all_articles, run_date)
+
+    # Persist published URLs so they won't repeat in future runs
+    today_str = run_date.strftime("%Y-%m-%d")
+    for a in all_articles:
+        seen_urls[article_id(a["url"])] = today_str
+    save_seen_urls(seen_urls)
+    print(f"💾 Saved {len(all_articles)} URLs to seen_urls.json")
 
     email_html = build_email_html(all_articles, run_date)
     email_path = write_email_file(email_html, run_date)
