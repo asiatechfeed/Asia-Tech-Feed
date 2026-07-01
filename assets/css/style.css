@@ -76,13 +76,8 @@ header.site-header {
 }
 .site-title { text-decoration: none; display: flex; align-items: center; }
 .site-logo { height: 84px; width: auto; display: block; }
-.site-logo-dark { display: none; }
-html.dark .site-logo-light { display: none; }
-html.dark .site-logo-dark { display: block; }
-@media (prefers-color-scheme: dark) {
-  html:not(.light) .site-logo-light { display: none; }
-  html:not(.light) .site-logo-dark { display: block; }
-}
+.site-logo-light { display: none; }
+.site-logo-dark { display: block; }
 
 /* DARK MODE TOGGLE */
 .dark-toggle {
