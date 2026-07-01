@@ -29,6 +29,9 @@ exclude:
 collections:
   drafts:
     output: false
+  explainers:
+    output: true
+    permalink: /explainers/:title/
 
 # Defaults
 defaults:
@@ -37,6 +40,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "explainers"
+    values:
+      layout: "explainer"
 
 markdown: kramdown
 highlighter: rouge

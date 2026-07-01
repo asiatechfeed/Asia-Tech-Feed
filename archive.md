@@ -5,6 +5,28 @@ title: Archive
 
 <h2 style="margin-bottom:20px; color:#1a3a5c;">📁 All News Digests</h2>
 
+{% assign explainer_items = site.explainers | sort: "date" | reverse %}
+{% if explainer_items.size > 0 %}
+<details class="archive-folder">
+  <summary class="archive-folder-title">
+    <span class="folder-icon">📖</span>
+    <span class="folder-name">Explainers</span>
+    <span class="folder-count">{{ explainer_items.size }} explainer{% if explainer_items.size != 1 %}s{% endif %}</span>
+  </summary>
+  <div class="archive-folder-body">
+    {% for item in explainer_items %}
+    <div class="archive-row">
+      <a href="{{ item.url | relative_url }}" class="archive-link">{{ item.title }}</a>
+      <span class="archive-meta">
+        {{ item.date | date: "%d %b %Y" }}
+        {% if item.tags and item.tags.size > 0 %}&middot; {{ item.tags | join: ", " }}{% endif %}
+      </span>
+    </div>
+    {% endfor %}
+  </div>
+</details>
+{% endif %}
+
 {% assign postsByYear = site.posts | group_by_exp: "post", "post.archive_date | default: post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 

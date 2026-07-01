@@ -45,6 +45,26 @@ title: Latest News
 </a>
 {% endif %}
 
+{% assign latest_explainer = site.explainers | sort: "date" | reverse | first %}
+{% if latest_explainer %}
+<a href="{{ latest_explainer.url | relative_url }}" class="explainer-teaser">
+  <div class="explainer-teaser-label">&#128218; Explainer</div>
+  <h2 class="explainer-teaser-title">{{ latest_explainer.title }}</h2>
+  {% if latest_explainer.excerpt %}
+  <p class="explainer-teaser-summary">{{ latest_explainer.excerpt | strip_html }}</p>
+  {% endif %}
+  <div class="explainer-teaser-meta">
+    <span>{{ latest_explainer.date | date: "%B %d, %Y" }}</span>
+    <span class="explainer-teaser-cta">Read the explainer &rarr;</span>
+  </div>
+  {% if latest_explainer.tags and latest_explainer.tags.size > 0 %}
+  <div class="explainer-teaser-tags">
+    {% for tag in latest_explainer.tags %}<span class="explainer-teaser-tag">{{ tag }}</span>{% endfor %}
+  </div>
+  {% endif %}
+</a>
+{% endif %}
+
 {% if digest_posts.size == 0 %}
 <div style="background:#fff; border-radius:10px; padding:40px; text-align:center; border:1px solid #dde3ec;">
   <h2 style="color:#1a3a5c; margin-bottom:10px;">No digests published yet</h2>
