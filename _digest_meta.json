@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "count": 14,
+  "count": 15,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -11,29 +11,29 @@
   "post_file": "2026-07-02-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Commentary: The true cost of AI scams isn\u2019t financial - it's human",
+      "title": "UK's Currys warns memory chip shortage will push up prices",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/ai-deepfake-iswaran-interview-scam-cost-6224366"
+      "url": "https://www.channelnewsasia.com/business/uks-currys-warns-memory-chip-shortage-will-push-up-prices-6227471"
     },
     {
-      "title": "CNA Explains: Why AI stocks are whipsawing markets from Wall Street to Seoul",
+      "title": "Nvidia introduces revenue-share model for AI clouds",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/nvidia-opens-vera-chip-orders-for-chinese-customers-sources"
+    },
+    {
+      "title": "OpenAI's 5% stake pitch pulls AI deeper into Washington",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260702VL215/openai-government-anthropic-google-meta.html"
+    },
+    {
+      "title": "A decade since Duterte's deadly drug war, victims' families continue fight for justice as ICC trial nears",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/ai-stocks-sell-tech-bubble-wall-street-kospi-6224231"
+      "url": "https://www.channelnewsasia.com/asia/philippines-drug-war-president-duterte-icc-trial-families-6226996"
     },
     {
-      "title": "Yageo to raise capacitor prices, extending AI cost pressure to EMS and OEM customers",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260701PD226/yageo-passive-components-capacitor-oem-supplier.html"
-    },
-    {
-      "title": "OpenAI engineers claim to discover way to cut inference costs in half",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260701VL216/openai-ai-inference-efficiency-cost-chatgpt.html"
-    },
-    {
-      "title": "Samsung, SK Hynix southwest fab plans put Gwangju's silicon photonics ambitions in focus",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260701PD218/samsung-sk-hynix-siph-fab-region.html"
+      "title": "Kunlun says Tiangong AI ARR tops $800m in Q2",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/baidu-chipdesign-unit-wins-139m-ai-chip-deal-china-mobile"
     }
   ]
 }

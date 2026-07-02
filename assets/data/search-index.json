@@ -1,159 +1,156 @@
 [
   {
     "date": "2026-07-02",
-    "title": "Commentary: The true cost of AI scams isn’t financial - it's human",
-    "summary": "Governments and international organisations need to be more actively involved in how AI technology develops and to what purpose, says veteran newspaper editor Han Fook Kwang.",
+    "title": "UK's Currys warns memory chip shortage will push up prices",
+    "summary": "UK's Currys warns memory chip shortage will push up prices",
     "source": "Channel NewsAsia",
     "short": "CNA",
+    "tags": [],
+    "url": "https://www.channelnewsasia.com/business/uks-currys-warns-memory-chip-shortage-will-push-up-prices-6227471"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "Nvidia introduces revenue-share model for AI clouds",
+    "summary": "It gives Nvidia standard product revenue and a recurring share of revenue from the supported capacity.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/commentary/ai-deepfake-iswaran-interview-scam-cost-6224366"
+    "url": "https://www.techinasia.com/nvidia-opens-vera-chip-orders-for-chinese-customers-sources"
   },
   {
     "date": "2026-07-02",
-    "title": "CNA Explains: Why AI stocks are whipsawing markets from Wall Street to Seoul",
-    "summary": "Are recent tech sell-offs a cause for concern, and is an AI bubble forming?",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/singapore/ai-stocks-sell-tech-bubble-wall-street-kospi-6224231"
-  },
-  {
-    "date": "2026-07-02",
-    "title": "Yageo to raise capacitor prices, extending AI cost pressure to EMS and OEM customers",
-    "summary": "Leading passive components supplier Yageo is reportedly set to raise capacitor prices across the board from July 1, according to supply chain sources. The price hikes will cover tantalum capacitors, multilayer ceramic capacitors (MLCCs), film capacitors, aluminum electrolytic capacitors, and solid capacitors, with aver",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260701PD226/yageo-passive-components-capacitor-oem-supplier.html"
-  },
-  {
-    "date": "2026-07-02",
-    "title": "OpenAI engineers claim to discover way to cut inference costs in half",
-    "summary": "OpenAI engineers claim to have figured out a way to halve the costs of inference using its models, according to The Information . The development comes as AI model developers are seeking to raise their models' token efficiency during a time when enterprise users are being saddled with enormous AI-usage bills.",
+    "title": "OpenAI's 5% stake pitch pulls AI deeper into Washington",
+    "summary": "OpenAI has discussed giving the US government a 5% stake in the company, according to the Financial Times , as the AI developer seeks to ease political pressure over model risks and whether Americans should share in the industry's profits. Reuters said it could not independently verify the report.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260701VL216/openai-ai-inference-efficiency-cost-chatgpt.html"
+    "url": "https://www.digitimes.com/news/a20260702VL215/openai-government-anthropic-google-meta.html"
   },
   {
     "date": "2026-07-02",
-    "title": "Samsung, SK Hynix southwest fab plans put Gwangju's silicon photonics ambitions in focus",
-    "summary": "Samsung Electronics' and SK Hynix's planned memory investments in South Korea's southwest have mostly been viewed as a push to balance regional development and tap into local renewable energy.",
+    "title": "A decade since Duterte's deadly drug war, victims' families continue fight for justice as ICC trial nears",
+    "summary": "Human rights groups believe the true death toll could be in the tens of thousands, arguing that many killings went undocumented.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [],
+    "url": "https://www.channelnewsasia.com/asia/philippines-drug-war-president-duterte-icc-trial-families-6226996"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "Kunlun says Tiangong AI ARR tops $800m in Q2",
+    "summary": "DramaWave reached 53 million cumulative downloads by April 2025, with 10 million monthly users.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/baidu-chipdesign-unit-wins-139m-ai-chip-deal-china-mobile"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "Why cheaper AI can’t buy Standard Form hospital trust",
+    "summary": "Standard Form's co-founder and CTO explains why AI cuts the cost of building healthcare software but does nothing to shorten the hard road to earning hospital trust.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/standard-form-building-ai-for-healthcare"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "AUO pushes AI-era transformation with executive reshuffle, launch of innovation institute",
+    "summary": "Taiwanese optoelectronics specialist AUO announced organizational adjustments and senior executive appointments on July 1 as it continues to advance its business transformation. The company is aiming for balanced development across its businesses and accelerating its transition into a key solutions provider centered on",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20260701PD218/samsung-sk-hynix-siph-fab-region.html"
+    "url": "https://www.digitimes.com/news/a20260701PD238/auo-optoelectronics-business-development-display.html"
   },
   {
     "date": "2026-07-02",
-    "title": "Modernizing AML screening for global financial institutions",
-    "summary": "Backed by Y Combinator, Flagright uses AI agents to reduce false positives by up to 93% for over 100 global financial institutions.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Singapore files additional fraud and money laundering charges in Nvidia-linked server case",
+    "summary": "Singapore authorities have filed additional fraud and money laundering charges against four individuals and brought fresh charges against four companies, as part of an investigation linked to the movement of servers that may have contained Nvidia artificial intelligence chips subject to US export controls. The case has",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/modernizing-aml-screening-global-financial-institutions"
+    "url": "https://www.digitimes.com/news/a20260702VL213/chips-investigation-nvidia-supermicro.html"
   },
   {
     "date": "2026-07-02",
-    "title": "Pony.ai sets up $4.4m Chongqing unit for robotaxi push",
-    "summary": "Its business scope focuses on online ride-hailing services and sales of AI hardware and electronic equipment.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI",
-      "Automation"
-    ],
-    "url": "https://www.techinasia.com/ponyai-eyes-robotaxi-launch-hong-kong"
-  },
-  {
-    "date": "2026-07-02",
-    "title": "Wayve launches $85m employee share sale at $8.5b valuation",
-    "summary": "Wayve said its software was end-to-end AI and that it had driven in more than 500 cities without bespoke high-definition maps.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Chinese actor now sells vegetables in his hometown after AI takes over China's short dramas",
+    "summary": "Xu Peng went from filming 15 hours a day to having no acting jobs and has now returned to his hometown in rural Shandong to work at a market.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/amd-backs-uk-self-driving-startup-wayve-in-60m-add-on"
+    "url": "https://www.channelnewsasia.com/entertainment/chinese-actor-xu-peng-sells-vegetables-ai-6226771"
   },
   {
     "date": "2026-07-02",
-    "title": "SEMI: 300mm Memory Equipment Investment to Top $50B in 2026",
-    "summary": "The growth reflects continued AI-driven demand for advanced memory, supported by rising investment in AI infrastructure and next-gen computing systems. The post SEMI: 300mm Memory Equipment Investment to Top $50B in 2026 appeared first on EE Times Asia .",
+    "title": "EdgeCortix Successfully Demonstrates Edge AI Platform in USAF Flight Exercise",
+    "summary": "EdgeCortix has demonstrated its SAKURA-II edge AI platform in U.S. Air Force flight operations, earning DIU recognition. The post EdgeCortix Successfully Demonstrates Edge AI Platform in USAF Flight Exercise appeared first on EE Times Asia .",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.eetasia.com/semi-300mm-memory-equipment-investment-to-top-50b-in-2026/"
+    "url": "https://www.eetasia.com/edgecortix-successfully-demonstrates-edge-ai-platform-in-usaf-flight-exercise/"
   },
   {
     "date": "2026-07-02",
-    "title": "Chae Lee Appointed CEO of Magnachip",
-    "summary": "Magnachip has appointed semiconductor industry veteran Chae Lee as chief executive officer, effective July 1, 2026. The post Chae Lee Appointed CEO of Magnachip appeared first on EE Times Asia .",
+    "title": "NTU Singapore Launches Industry-aligned IC Design Program",
+    "summary": "NTU Singapore has launched a new industry-backed IC design program to help meet growing semiconductor talent demand. The post NTU Singapore Launches Industry-aligned IC Design Program appeared first on EE Times Asia .",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/chae-lee-appointed-ceo-of-magnachip/"
+    "url": "https://www.eetasia.com/ntu-singapore-launches-industry-aligned-ic-design-program/"
   },
   {
     "date": "2026-07-02",
-    "title": "onsemi Acquiring Synaptics to Expand Edge AI and Physical AI Portfolio",
-    "summary": "The acquisition adds edge AI compute and connectivity capabilities, strengthening onsemi's position in intelligent systems markets. The post onsemi Acquiring Synaptics to Expand Edge AI and Physical AI Portfolio appeared first on EE Times Asia .",
+    "title": "Keysight and WIN Collaborate on MMIC Design Workflow",
+    "summary": "New GaN MMIC design workflow developed by Keysight and WIN reduces fabrication risk for 5G, satellite and defense applications. The post Keysight and WIN Collaborate on MMIC Design Workflow appeared first on EE Times Asia .",
     "source": "EE Times Asia",
     "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/onsemi-acquiring-synaptics-to-expand-edge-ai-and-physical-ai-portfolio/"
+    "tags": [],
+    "url": "https://www.eetasia.com/keysight-and-win-collaborate-on-mmic-design-workflow/"
   },
   {
     "date": "2026-07-02",
-    "title": "Japan state lender JBIC's US financing soars as supply chain role grows",
-    "summary": "Japan state lender JBIC's US financing soars as supply chain role grows",
+    "title": "Takeda and Insilico strike AI-led drug discovery deal worth up to $600m",
+    "summary": "Takeda and Insilico strike AI-led drug discovery deal worth up to $600m",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
-    "tags": [
-      "Logistics"
-    ],
-    "url": "https://asia.nikkei.com/business/finance/japan-state-lender-jbic-s-us-financing-soars-as-supply-chain-role-grows"
+    "tags": [],
+    "url": "https://asia.nikkei.com/business/pharmaceuticals/takeda-and-insilico-strike-ai-led-drug-discovery-deal-worth-up-to-600m"
   },
   {
     "date": "2026-07-02",
-    "title": "Kawasaki Heavy to raise over $1bn via new shares, bonds for AI investment",
-    "summary": "Kawasaki Heavy to raise over $1bn via new shares, bonds for AI investment",
+    "title": "Kyocera vies with Toto in ceramic parts for chipmaking, data centers",
+    "summary": "Kyocera vies with Toto in ceramic parts for chipmaking, data centers",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/kawasaki-heavy-to-raise-over-1bn-via-new-shares-bonds-for-ai-investment"
+    "tags": [],
+    "url": "https://asia.nikkei.com/spotlight/supply-chain/kyocera-vies-with-toto-in-ceramic-parts-for-chipmaking-data-centers"
   },
   {
     "date": "2026-07-02",
-    "title": "Qualcomm challenges Nvidia's AI grip with chip that ditches HBM",
-    "summary": "Qualcomm challenges Nvidia's AI grip with chip that ditches HBM",
+    "title": "China chip material makers battle Japan rivals for $73bn market",
+    "summary": "China chip material makers battle Japan rivals for $73bn market",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/qualcomm-challenges-nvidia-s-ai-grip-with-chip-that-ditches-hbm"
+    "tags": [],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/china-chip-material-makers-battle-japan-rivals-for-73bn-market"
   },
   {
     "date": "2026-07-01",
