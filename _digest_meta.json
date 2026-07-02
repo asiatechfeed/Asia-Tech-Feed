@@ -1,40 +1,39 @@
 {
-  "date": "2026-07-01",
-  "count": 17,
+  "date": "2026-07-02",
+  "count": 14,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-01-asia-tech-news-digest.md",
+  "post_file": "2026-07-02-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Unchecked AI progress may pose catastrophic risks, UN panel warns",
+      "title": "Commentary: The true cost of AI scams isn\u2019t financial - it's human",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-6224606"
+      "url": "https://www.channelnewsasia.com/commentary/ai-deepfake-iswaran-interview-scam-cost-6224366"
     },
     {
-      "title": "Wayve courts automakers with AI driving system that learns like humans",
+      "title": "CNA Explains: Why AI stocks are whipsawing markets from Wall Street to Seoul",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/wayve-courts-automakers-ai-driving-system-learns-humans-6224546"
+      "url": "https://www.channelnewsasia.com/singapore/ai-stocks-sell-tech-bubble-wall-street-kospi-6224231"
     },
     {
-      "title": "Why Salesforce warns against AI pilots driven by corporate FOMO",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/salesforce-india-ai-agents"
-    },
-    {
-      "title": "UAE investment firm MGX raises massive $49b AI fund",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/openai-nears-10b-funding-led-by-mgx-thrive-capital-sources"
-    },
-    {
-      "title": "Nvidia GPU-network ecosystem tops data center Ethernet switches",
+      "title": "Yageo to raise capacitor prices, extending AI cost pressure to EMS and OEM customers",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260701PD224/nvidia-data-center-ethernet-idc.html"
+      "url": "https://www.digitimes.com/news/a20260701PD226/yageo-passive-components-capacitor-oem-supplier.html"
+    },
+    {
+      "title": "OpenAI engineers claim to discover way to cut inference costs in half",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260701VL216/openai-ai-inference-efficiency-cost-chatgpt.html"
+    },
+    {
+      "title": "Samsung, SK Hynix southwest fab plans put Gwangju's silicon photonics ambitions in focus",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260701PD218/samsung-sk-hynix-siph-fab-region.html"
     }
   ]
 }
