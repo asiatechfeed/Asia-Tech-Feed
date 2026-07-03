@@ -1,36 +1,37 @@
 {
   "date": "2026-07-03",
-  "count": 6,
+  "count": 7,
   "sources": [
     "DigiTimes",
+    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-07-03-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Meta AI cloud plans weigh on CoreWeave, Nebius bonds",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/coreweave-meta-sign-ai-infrastructure-deal-worth-up-to-14-2b"
-    },
-    {
-      "title": "Microsoft to Invest $2.5b in AI services unit",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/microsoft-unveils-mai-models-challenge-openai"
-    },
-    {
-      "title": "TSMC wins approval for US$20 billion Arizona expansion",
+      "title": "Infineon China pushes back after GaN products removed at Shanghai electronics show",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260702PD234/taiwan-tsmc-investment-arizona-subsidiary.html"
+      "url": "https://www.digitimes.com/news/a20260703PD231/infineon-legal-shanghai-gan-2026.html"
     },
     {
-      "title": "SoftBank to form US AI chip rental venture",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/softbank-launch-ai-gpu-cloud-october-2026"
-    },
-    {
-      "title": "Sinbon lifts revenue to record levels as humanoid robot work advances",
+      "title": "Ubtech's U1 companion robots test whether China is ready for AI intimacy",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260702PD233/sinbon-revenue-robot-2026-industrial.html"
+      "url": "https://www.digitimes.com/news/a20260702VL211/china-humanoid-robot-industrial-testing.html"
+    },
+    {
+      "title": "Megawatt AI Racks: Infrastructure Evolution & Wide-Bandgap Power Semiconductor Opportunities by 2030",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260626RS400/2030-data-center-efficiency-server-rack-infrastructure.html?chid=2"
+    },
+    {
+      "title": "Chip Industry Week In Review",
+      "source": "SemiEng",
+      "url": "https://semiengineering.com/chip-industry-week-in-review-145/"
+    },
+    {
+      "title": "This startup uses vision-language AI to spot workplace hazards",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/this-startup-uses-vision-language-ai-to-spot-workplace-hazards"
     }
   ]
 }

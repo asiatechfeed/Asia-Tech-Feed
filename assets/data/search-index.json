@@ -1,70 +1,83 @@
 [
   {
     "date": "2026-07-03",
-    "title": "Meta AI cloud plans weigh on CoreWeave, Nebius bonds",
-    "summary": "CoreWeave said it continues to see “incredibly strong demand” across a growing and increasingly diverse customer base, including Meta.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/coreweave-meta-sign-ai-infrastructure-deal-worth-up-to-14-2b"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "Microsoft to Invest $2.5b in AI services unit",
-    "summary": "Microsoft has spent tens of billions of dollars on data centers for generative AI, but some of its AI products have seen uneven traction.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/microsoft-unveils-mai-models-challenge-openai"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "TSMC wins approval for US$20 billion Arizona expansion",
-    "summary": "Taiwan's Department of Investment Review (DIR) under the Ministry of Economic Affairs (MOEA) has approved Taiwan Semiconductor Manufacturing Company's (TSMC) US$20 billion capital injection into its US subsidiary TSMC Arizona.",
+    "title": "Infineon China pushes back after GaN products removed at Shanghai electronics show",
+    "summary": "Infineon China said on July 3 that it is pursuing legal remedies after several gallium nitride (GaN) products became the subject of a removal dispute at electronica Shanghai 2026, saying public accounts of the incident did not fully reflect the case's background or specific circumstances.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor"
+      "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20260702PD234/taiwan-tsmc-investment-arizona-subsidiary.html"
+    "url": "https://www.digitimes.com/news/a20260703PD231/infineon-legal-shanghai-gan-2026.html"
   },
   {
     "date": "2026-07-03",
-    "title": "SoftBank to form US AI chip rental venture",
-    "summary": "SoftBank Corp. president and CEO Junichi Miyakawa said SB Neo aims to supply about 10 gigawatts of data center capacity.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/softbank-launch-ai-gpu-cloud-october-2026"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "Sinbon lifts revenue to record levels as humanoid robot work advances",
-    "summary": "Sinbon reported record monthly revenue in June 2026 and new highs for the second quarter and the first half of 2026, driven by stronger demand in green energy and industrial applications. The connector and cable assembler said AI and humanoid robot programs are moving from development validation into pilot production, ",
+    "title": "Ubtech's U1 companion robots test whether China is ready for AI intimacy",
+    "summary": "Ubtech has launched the U1 series, its first mass-produced full-size bionic humanoid robot line, under the U World sub-brand, testing China's market for AI companion robots beyond industrial and service uses.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI",
       "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20260702PD233/sinbon-revenue-robot-2026-industrial.html"
+    "url": "https://www.digitimes.com/news/a20260702VL211/china-humanoid-robot-industrial-testing.html"
   },
   {
     "date": "2026-07-03",
-    "title": "Turvo shifts North America production as robot revenue target rises before 2029",
-    "summary": "Turvo International said it has expanded its manufacturing footprint across Taiwan, China and the US to reduce exposure to tariffs and geopolitical risk, while preparing for a bigger push into robotics. The company also said it is moving a planned Mexico plant into North America and expects site selection to be complet",
+    "title": "Megawatt AI Racks: Infrastructure Evolution & Wide-Bandgap Power Semiconductor Opportunities by 2030",
+    "summary": "Megawatt AI Racks: Infrastructure Evolution & Wide-Bandgap Power Semiconductor Opportunities by 2030",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Automation"
+      "Semiconductor",
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260703PD201/manufacturing-turvo-international-north-america-robot-revenue.html"
+    "url": "https://www.digitimes.com/news/a20260626RS400/2030-data-center-efficiency-server-rack-infrastructure.html?chid=2"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "Chip Industry Week In Review",
+    "summary": "S. Korea goes All In on AI; new Dresden power fab; Intel expansion; GM secures memory supply; AI power management funding; mature-node foundry capacity; 300mm fab equipment; McKinsey's map of strategic IC supply; security threats; AI burnout. The post Chip Industry Week In Review appeared first on Semiconductor Enginee",
+    "source": "Semiconductor Engineering",
+    "short": "SemiEng",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://semiengineering.com/chip-industry-week-in-review-145/"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "This startup uses vision-language AI to spot workplace hazards",
+    "summary": "Ailytics relies on vision-language models to process existing camera feeds, allowing users to search real-time worksite events with natural language.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/this-startup-uses-vision-language-ai-to-spot-workplace-hazards"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "Anchanto eyes full-year EBITDA profit, charts US entry",
+    "summary": "We dive into what drove the software firm’s EBITDA profit milestone in Q4 2025 despite the challenges facing firms in the ecommerce and logistics sectors.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.techinasia.com/anchanto-eyes-fullyear-ebitda-profit-charts-entry"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "OpenAI’s Brockman lays out five forces shaping the AI agent race",
+    "summary": "OpenAI president Greg Brockman breaks down the practical forces shaping AI agents, from app access and permissions to compute and expertise.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/openai-ai-race-compute-agents"
   },
   {
     "date": "2026-07-02",
