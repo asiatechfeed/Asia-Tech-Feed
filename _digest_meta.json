@@ -1,39 +1,36 @@
 {
   "date": "2026-07-03",
-  "count": 11,
+  "count": 6,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-03-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Eight arrested in UK probe into men drugging, raping partners",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/eight-arrested-in-uk-probe-men-drugging-raping-partners-6229196"
-    },
-    {
-      "title": "Kioxia readies next-gen memory mass production as AI boom fuels dramatic comeback",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/kioxia-readies-next-gen-memory-mass-production-ai-boom-fuels-dramatic-comeback-6229061"
-    },
-    {
-      "title": "Mouser Discusses Distribution Strategies for AI-Driven Electronics Supply Chains",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/mouser-discusses-distribution-strategies-for-ai-driven-electronics-supply-chains/"
-    },
-    {
-      "title": "Nvidia and nuclear energy startup Valar test microreactor to power AI data center",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260702VL212/nvidia-data-center-nuclear-startup.html"
-    },
-    {
-      "title": "Lowering customer acquisition cost through AI simulation",
+      "title": "Meta AI cloud plans weigh on CoreWeave, Nebius bonds",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/lowering-customer-acquisition-cost-ai-simulation"
+      "url": "https://www.techinasia.com/coreweave-meta-sign-ai-infrastructure-deal-worth-up-to-14-2b"
+    },
+    {
+      "title": "Microsoft to Invest $2.5b in AI services unit",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/microsoft-unveils-mai-models-challenge-openai"
+    },
+    {
+      "title": "TSMC wins approval for US$20 billion Arizona expansion",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260702PD234/taiwan-tsmc-investment-arizona-subsidiary.html"
+    },
+    {
+      "title": "SoftBank to form US AI chip rental venture",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/softbank-launch-ai-gpu-cloud-october-2026"
+    },
+    {
+      "title": "Sinbon lifts revenue to record levels as humanoid robot work advances",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260702PD233/sinbon-revenue-robot-2026-industrial.html"
     }
   ]
 }
