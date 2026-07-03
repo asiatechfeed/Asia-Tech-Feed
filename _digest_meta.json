@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-02",
-  "count": 15,
+  "date": "2026-07-03",
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -8,32 +8,32 @@
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-02-asia-tech-news-digest.md",
+  "post_file": "2026-07-03-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "UK's Currys warns memory chip shortage will push up prices",
+      "title": "Eight arrested in UK probe into men drugging, raping partners",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/uks-currys-warns-memory-chip-shortage-will-push-up-prices-6227471"
+      "url": "https://www.channelnewsasia.com/world/eight-arrested-in-uk-probe-men-drugging-raping-partners-6229196"
     },
     {
-      "title": "Nvidia introduces revenue-share model for AI clouds",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-opens-vera-chip-orders-for-chinese-customers-sources"
+      "title": "Kioxia readies next-gen memory mass production as AI boom fuels dramatic comeback",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/kioxia-readies-next-gen-memory-mass-production-ai-boom-fuels-dramatic-comeback-6229061"
     },
     {
-      "title": "OpenAI's 5% stake pitch pulls AI deeper into Washington",
+      "title": "Mouser Discusses Distribution Strategies for AI-Driven Electronics Supply Chains",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/mouser-discusses-distribution-strategies-for-ai-driven-electronics-supply-chains/"
+    },
+    {
+      "title": "Nvidia and nuclear energy startup Valar test microreactor to power AI data center",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260702VL215/openai-government-anthropic-google-meta.html"
+      "url": "https://www.digitimes.com/news/a20260702VL212/nvidia-data-center-nuclear-startup.html"
     },
     {
-      "title": "A decade since Duterte's deadly drug war, victims' families continue fight for justice as ICC trial nears",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/philippines-drug-war-president-duterte-icc-trial-families-6226996"
-    },
-    {
-      "title": "Kunlun says Tiangong AI ARR tops $800m in Q2",
+      "title": "Lowering customer acquisition cost through AI simulation",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/baidu-chipdesign-unit-wins-139m-ai-chip-deal-china-mobile"
+      "url": "https://www.techinasia.com/lowering-customer-acquisition-cost-ai-simulation"
     }
   ]
 }
