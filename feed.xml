@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-02T10:20:31+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 02, 2026</title><link href="https://asiatechfeed.com/2026/07/02/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 02, 2026" /><published>2026-07-02T10:19:10+00:00</published><updated>2026-07-02T10:19:10+00:00</updated><id>https://asiatechfeed.com/2026/07/02/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/02/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-03T00:01:28+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 03, 2026</title><link href="https://asiatechfeed.com/2026/07/03/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 03, 2026" /><published>2026-07-03T00:00:35+00:00</published><updated>2026-07-03T00:00:35+00:00</updated><id>https://asiatechfeed.com/2026/07/03/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/03/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Eight arrested in UK probe into men drugging, raping partners</span></td>
+  <td class="col-summary">Since the 2025 conviction of Dominique Pelicot for drugging and orchestrating the rape of his then-wife, Gisele Pelicot, similar cases have surfaced across Europe.</td>
+  <td class="col-tags"></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/eight-arrested-in-uk-probe-men-drugging-raping-partners-6229196" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Kioxia readies next-gen memory mass production as AI boom fuels dramatic comeback</span></td>
+  <td class="col-summary">Kioxia readies next-gen memory mass production as AI boom fuels dramatic comeback</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/kioxia-readies-next-gen-memory-mass-production-ai-boom-fuels-dramatic-comeback-6229061" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Mouser Discusses Distribution Strategies for AI-Driven Electronics Supply Chains</span></td>
+  <td class="col-summary">Mouser Electronics outlines evolving distribution strategies supporting AI demand, regional manufacturing shifts, and engineering development across Asia. The post Mouser Discusses Distribution Strategies for AI-Driven Electronics Supply Chains appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/mouser-discusses-distribution-strategies-for-ai-driven-electronics-supply-chains/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Nvidia and nuclear energy startup Valar test microreactor to power AI data center</span></td>
+  <td class="col-summary">Nuclear energy startup Valar Atomics said on July 1 it is partnering with Nvidia to develop a small data center in Utah, an effort the companies say will demonstrate how computing facilities needed for artificial intelligence can conserve water.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260702VL212/nvidia-data-center-nuclear-startup.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Lowering customer acquisition cost through AI simulation</span></td>
+  <td class="col-summary">AIPath links product, engineering, sales, and marketing into one connected causal model to rank growth options before execution.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/lowering-customer-acquisition-cost-ai-simulation" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Passive component suppliers regain momentum on AI server and auto demand</span></td>
+  <td class="col-summary">Taiwan's passive component suppliers are entering the second half of 2026 with stronger order momentum, as demand from AI data centers, networking equipment, power systems, and automotive electronics helps offset earlier pressure from volatile metal prices and weaker consumer electronics planning.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260702PD220/component-demand-passive-taiwan-2026.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Analysis: How long can memory's AI-driven boom last?</span></td>
+  <td class="col-summary">The global memory market is enjoying one of its most profitable cycles in years. AI data center demand has driven DRAM and NAND prices sharply higher, and the three companies that dominate global supply — Micron, Samsung, and SK Hynix — are posting results that would have seemed unlikely two years ago.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260701VL221/memory-chips-dram-demand-micron-sk-hynix-samsung.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">SK hynix plans $64b Cheongju chip expansion</span></td>
+  <td class="col-summary">SK hynix said the packaging plant will focus on advanced packaging that combines chips into a single high-density unit.</td>
+  <td class="col-tags"></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-hynix-seeks-listing-early-august-sources" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">SG robotics accelerator cohort sees $125m raise, exit</span></td>
+  <td class="col-summary">Launched in 2025, RoboNexus is an accelerator program for Singapore robotics startups and small and medium-sized enterprises.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/capital-hsbc-helps-seas-startups-scale" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan eyes AI-powered comeback in factory robot race with China, Europe</span></td>
+  <td class="col-summary">Japan eyes AI-powered comeback in factory robot race with China, Europe</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-eyes-ai-powered-comeback-in-factory-robot-race-with-china-europe" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Asahi Kasei to build Taiwan processing plant for AI chip material</span></td>
+  <td class="col-summary">Asahi Kasei to build Taiwan processing plant for AI chip material</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/asahi-kasei-to-build-taiwan-processing-plant-for-ai-chip-material" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Eight arrested in UK probe into men drugging, raping partners Since the 2025 conviction of Dominique Pelicot for drugging and orchestrating the rape of his then-wife, Gisele Pelicot, similar cases have surfaced across Europe. Read 2 CNA Kioxia readies next-gen memory mass production as AI boom fuels dramatic comeback Kioxia readies next-gen memory mass production as AI boom fuels dramatic comeback AI Read 3 EETAsia Mouser Discusses Distribution Strategies for AI-Driven Electronics Supply Chains Mouser Electronics outlines evolving distribution strategies supporting AI demand, regional manufacturing shifts, and engineering development across Asia. The post Mouser Discusses Distribution Strategies for AI-Driven Electronics Supply Chains appeared first on EE Times Asia . ElectronicsAILogistics Read 4 DigiTimes Nvidia and nuclear energy startup Valar test microreactor to power AI data center Nuclear energy startup Valar Atomics said on July 1 it is partnering with Nvidia to develop a small data center in Utah, an effort the companies say will demonstrate how computing facilities needed for artificial intelligence can conserve water. AI Read 5 TechAsia Lowering customer acquisition cost through AI simulation AIPath links product, engineering, sales, and marketing into one connected causal model to rank growth options before execution. AI Read 6 DigiTimes Passive component suppliers regain momentum on AI server and auto demand Taiwan's passive component suppliers are entering the second half of 2026 with stronger order momentum, as demand from AI data centers, networking equipment, power systems, and automotive electronics helps offset earlier pressure from volatile metal prices and weaker consumer electronics planning. ElectronicsAI Read 7 DigiTimes Analysis: How long can memory's AI-driven boom last? The global memory market is enjoying one of its most profitable cycles in years. AI data center demand has driven DRAM and NAND prices sharply higher, and the three companies that dominate global supply — Micron, Samsung, and SK Hynix — are posting results that would have seemed unlikely two years ago. AI Read 8 TechAsia SK hynix plans $64b Cheongju chip expansion SK hynix said the packaging plant will focus on advanced packaging that combines chips into a single high-density unit. Read 9 TechAsia SG robotics accelerator cohort sees $125m raise, exit Launched in 2025, RoboNexus is an accelerator program for Singapore robotics startups and small and medium-sized enterprises. Automation Read 10 NikkeiAsia Japan eyes AI-powered comeback in factory robot race with China, Europe Japan eyes AI-powered comeback in factory robot race with China, Europe Automation Read 11 NikkeiAsia Asahi Kasei to build Taiwan processing plant for AI chip material Asahi Kasei to build Taiwan processing plant for AI chip material AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 02, 2026</title><link href="https://asiatechfeed.com/2026/07/02/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 02, 2026" /><published>2026-07-02T10:19:10+00:00</published><updated>2026-07-02T10:19:10+00:00</updated><id>https://asiatechfeed.com/2026/07/02/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/02/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -1100,161 +1201,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/bio-pharma/newsView/ked202603100001" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA IBM unveils tech for chip smaller than 1 nanometer in AI computing push IBM unveils tech for chip smaller than 1 nanometer in AI computing push AI Read 2 DigiTimes Taiwan electronics production jumps 93% in first five months of 2026 on AI boom Taiwan's Ministry of Economic Affairs (MOEA) released industrial production statistics for May 2026 on June 24, reporting that Taiwan's computer, electronic products, and optical products sector—led by servers, switches, semiconductor testing equipment and components, and solid-state drives—saw production increase 36.6 SemiconductorElectronicsAI Read 3 DigiTimes IntelliEPI targets record 2026 revenue amid InP substrate shortages Compound semiconductor epitaxial wafer maker IntelliEPI said AI-driven high-speed transmission demand continues to lift the indium phosphide (InP) market, and it expects revenue to keep rising in 2026 and set another record. The company's biggest challenge remains a shortage of InP substrates, prompting it to rely main Semiconductor Read 4 DigiTimes Europe's AI infrastructure: the cost gap that policy cannot paper over The EU currently hosts roughly 5% of the world's AI compute capacity. The US holds close to 75%. McKinsey projects European data center demand will grow from 10 GW of IT load in 2024 to 35 GW by 2030 — a tripling driven almost entirely by AI. The infrastructure to close that gap does not yet exist, and building it in E AI Read 5 CNA IndiaMART doubles down on AI to curb fake listings, improve buyer interaction IndiaMART doubles down on AI to curb fake listings, improve buyer interaction AI Read 6 CNA Amazon to invest additional $13 billion in India cloud, AI Amazon to invest additional $13 billion in India cloud, AI AI Read 7 EETAsia SPHERE AX and Blaize Partner to Develop Physical AI Solutions Partnership combines AI semiconductor technology and vision AI software to accelerate physical AI product development globally. The post SPHERE AX and Blaize Partner to Develop Physical AI Solutions appeared first on EE Times Asia . SemiconductorAI Read 8 TechAsia IPO-bound AgiBot starts eight-robot tablet QC trial The company aims to complete experimental verification of solutions for seven industries in the first half of 2026. Automation Read 9 TechAsia Turning building inspections from weeks to days with AI With aging infrastructure posing global safety risks, H3 Zoom is helping developers spot hidden defects faster. AI Read 10 TechAsia US robot firm Agility plans to go public at $2.5b valuation In April 2025, Agility was reportedly seeking funding at a pre-investment valuation of US$1.75 billion. Automation Read 11 EETAsia DigiKey Drops New Season of Sustainable Futures Video Series Season 2 of DigiKey's Sustainable Futures examines how advanced electronics are enabling cleaner energy, smarter systems and more sustainable design. The post DigiKey Drops New Season of Sustainable Futures Video Series appeared first on EE Times Asia . Electronics Read 12 EETAsia ST’s Direct ToF 3D LiDAR Module Brings Advanced Spatial Awareness to Compact Edge AI Systems STMicroelectronics' VL53L9 compact direct Time-of-Flight 3D LiDAR all-in-one module sets a new benchmark in high-resolution sensing. The post ST’s Direct ToF 3D LiDAR Module Brings Advanced Spatial Awareness to Compact Edge AI Systems appeared first on EE Times Asia . ElectronicsAI Read 13 NikkeiAsia South Korea plans new chip cluster as AI boom strains capacity South Korea plans new chip cluster as AI boom strains capacity AI Read 14 NikkeiAsia Chinese door-to-door logistics networks grow in US to counter trade war Chinese door-to-door logistics networks grow in US to counter trade war Logistics Read 15 NikkeiAsia SoftBank chipmaker Arm hits 50% share in top AI data centers: exec SoftBank chipmaker Arm hits 50% share in top AI data centers: exec AI Read 16 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun AI Read 17 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass AI Read 18 KED EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease Biotechnology Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - June 24, 2026</title><link href="https://asiatechfeed.com/2026/06/24/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - June 24, 2026" /><published>2026-06-24T10:36:24+00:00</published><updated>2026-06-24T10:36:24+00:00</updated><id>https://asiatechfeed.com/2026/06/24/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/06/24/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">After gaokao, experts warn against overreliance on AI for university applications</span></td>
-  <td class="col-summary">Chinese education experts have warned that overreliance on AI bots and tools could lead students to make ill-informed university choices and contribute to a surge in similar applications.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/china-gaokao-artificial-intelligence-tools-university-applications-warning-inaccuracy-6206561" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Zhipu AI considers mega Hong Kong share sale</span></td>
-  <td class="col-summary">The company raised US$558 million in its initial public offering at HK$116.2 (US$15) per share.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/zhipu-ais-formula-for-surviving-chinas-tech-market" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Imoo overtakes Samsung to become No. 4 smartwatch brand</span></td>
-  <td class="col-summary">Imoo beat Samsung Electronics, Oppo, and Garmin to rank as the world's No. 4 smartwatch brand in global smartwatch sales in the first quarter of 2026. In fact, imoo's global smartwatch shipments have matched Samsung's in recent years, according to Counterpoint.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260624PD236/smartwatch-brand-sales.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SoftBank to build domestic AI server base as Japan pushes for sovereign compute</span></td>
-  <td class="col-summary">SoftBank, the telecom arm of SoftBank Group (SBG), is moving to localize a larger part of Japan's AI infrastructure stack, with plans to begin domestic AI server production in fiscal 2027 at the former Sharp Sakai plant in Osaka.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260624PD230/softbank-ai-server-data-center-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Logistics firms accelerate EV adoption amid high diesel prices, but heavy trucks lag behind</span></td>
-  <td class="col-summary">Some are holding back on electrifying their heavy fleets due to the limited availability of charging infrastructure designed for larger vehicles.</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/logistics-firms-electric-vehicle-fleet-heavy-trucks-6206436" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Asia's AI data center boom turns green power into supply chain stress test</span></td>
-  <td class="col-summary">Asia's AI infrastructure buildout is turning electricity into a new supply chain constraint. As demand for data storage, compute power, high-performance memory, servers, and advanced semiconductor manufacturing accelerates, governments and technology companies are under pressure to secure not only more power, but clean</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260623VL210/asia-data-center-power-supply-infrastructure-electricity.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Intense AI use still rare among euro zone firms, ECB researchers find</span></td>
-  <td class="col-summary">Intense AI use still rare among euro zone firms, ECB researchers find</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/intense-ai-use-still-rare-among-euro-zone-firms-ecb-researchers-find-6206521" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SoftBank starts mass production of AI robots</span></td>
-  <td class="col-summary">The products would be officially released soon, as it pushed deeper into what it calls physical AI.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/softbank-launch-ai-gpu-cloud-october-2026" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Series SEA: Who’s investing in the region’s biotech startups?</span></td>
-  <td class="col-summary">We've compiled a list of investors that are pouring money into Southeast Asia’s biotech startups.</td>
-  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/top-sea-investors-biotech" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">15 Startups Selected for Qualcomm AI Program for Innovators 2026 – APAC</span></td>
-  <td class="col-summary">Qualcomm has shortlisted 15 startups to advance in the Qualcomm AI Program for Innovators (QAIPI) 2026. The post 15 Startups Selected for Qualcomm AI Program for Innovators 2026 – APAC appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/15-startups-selected-for-qualcomm-ai-program-for-innovators-2026-apac/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">MKS Opens Penang Supercenter Factory to Support Growing Semiconductor Equipment Demand</span></td>
-  <td class="col-summary">New Penang facility expands semiconductor equipment production capacity while supporting supply chain resilience and local employment. The post MKS Opens Penang Supercenter Factory to Support Growing Semiconductor Equipment Demand appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/mks-opens-penang-supercenter-factory-to-support-growing-semiconductor-equipment-demand/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">DigiKey Sponsors AIoT Design Challenge 2026</span></td>
-  <td class="col-summary">The AIoT Design Challenge 2026 aims to foster innovation at the intersection of AI and the Internet of Things. The post DigiKey Sponsors AIoT Design Challenge 2026 appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/digikey-sponsors-aiot-design-challenge-2026/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">13</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">SoftBank's Son says calling AI a bubble is 'blasphemy'</span></td>
-  <td class="col-summary">SoftBank's Son says calling AI a bubble is 'blasphemy'</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/softbank/softbank-s-son-says-calling-ai-a-bubble-is-blasphemy" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">14</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Blackstone to invest $30bn in Japan AI data centers: president</span></td>
-  <td class="col-summary">Blackstone to invest $30bn in Japan AI data centers: president</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/editor-s-picks/interview/blackstone-to-invest-30bn-in-japan-ai-data-centers-president" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">15</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">SoftBank to build AI servers at old Sharp plant starting in fiscal 2027</span></td>
-  <td class="col-summary">SoftBank to build AI servers at old Sharp plant starting in fiscal 2027</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">16</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">AI trade isn’t just about tech stocks but also power, TCW says</span></td>
-  <td class="col-summary">The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">17</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">No career ambition, no ego: AI plays devil's advocate at Audax Private Equity</span></td>
-  <td class="col-summary">Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">18</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate</span></td>
-  <td class="col-summary">EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease</td>
-  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/bio-pharma/newsView/ked202603100001" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA After gaokao, experts warn against overreliance on AI for university applications Chinese education experts have warned that overreliance on AI bots and tools could lead students to make ill-informed university choices and contribute to a surge in similar applications. AI Read 2 TechAsia Zhipu AI considers mega Hong Kong share sale The company raised US$558 million in its initial public offering at HK$116.2 (US$15) per share. AI Read 3 DigiTimes Imoo overtakes Samsung to become No. 4 smartwatch brand Imoo beat Samsung Electronics, Oppo, and Garmin to rank as the world's No. 4 smartwatch brand in global smartwatch sales in the first quarter of 2026. In fact, imoo's global smartwatch shipments have matched Samsung's in recent years, according to Counterpoint. Electronics Read 4 DigiTimes SoftBank to build domestic AI server base as Japan pushes for sovereign compute SoftBank, the telecom arm of SoftBank Group (SBG), is moving to localize a larger part of Japan's AI infrastructure stack, with plans to begin domestic AI server production in fiscal 2027 at the former Sharp Sakai plant in Osaka. AI Read 5 CNA Logistics firms accelerate EV adoption amid high diesel prices, but heavy trucks lag behind Some are holding back on electrifying their heavy fleets due to the limited availability of charging infrastructure designed for larger vehicles. Logistics Read 6 DigiTimes Asia's AI data center boom turns green power into supply chain stress test Asia's AI infrastructure buildout is turning electricity into a new supply chain constraint. As demand for data storage, compute power, high-performance memory, servers, and advanced semiconductor manufacturing accelerates, governments and technology companies are under pressure to secure not only more power, but clean SemiconductorAI Read 7 CNA Intense AI use still rare among euro zone firms, ECB researchers find Intense AI use still rare among euro zone firms, ECB researchers find AI Read 8 TechAsia SoftBank starts mass production of AI robots The products would be officially released soon, as it pushed deeper into what it calls physical AI. AIAutomation Read 9 TechAsia Series SEA: Who’s investing in the region’s biotech startups? We've compiled a list of investors that are pouring money into Southeast Asia’s biotech startups. Biotechnology Read 10 EETAsia 15 Startups Selected for Qualcomm AI Program for Innovators 2026 – APAC Qualcomm has shortlisted 15 startups to advance in the Qualcomm AI Program for Innovators (QAIPI) 2026. The post 15 Startups Selected for Qualcomm AI Program for Innovators 2026 – APAC appeared first on EE Times Asia . AI Read 11 EETAsia MKS Opens Penang Supercenter Factory to Support Growing Semiconductor Equipment Demand New Penang facility expands semiconductor equipment production capacity while supporting supply chain resilience and local employment. The post MKS Opens Penang Supercenter Factory to Support Growing Semiconductor Equipment Demand appeared first on EE Times Asia . Semiconductor Read 12 EETAsia DigiKey Sponsors AIoT Design Challenge 2026 The AIoT Design Challenge 2026 aims to foster innovation at the intersection of AI and the Internet of Things. The post DigiKey Sponsors AIoT Design Challenge 2026 appeared first on EE Times Asia . AI Read 13 NikkeiAsia SoftBank's Son says calling AI a bubble is 'blasphemy' SoftBank's Son says calling AI a bubble is 'blasphemy' AI Read 14 NikkeiAsia Blackstone to invest $30bn in Japan AI data centers: president Blackstone to invest $30bn in Japan AI data centers: president AI Read 15 NikkeiAsia SoftBank to build AI servers at old Sharp plant starting in fiscal 2027 SoftBank to build AI servers at old Sharp plant starting in fiscal 2027 AI Read 16 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun AI Read 17 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass AI Read 18 KED EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease Biotechnology Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA IBM unveils tech for chip smaller than 1 nanometer in AI computing push IBM unveils tech for chip smaller than 1 nanometer in AI computing push AI Read 2 DigiTimes Taiwan electronics production jumps 93% in first five months of 2026 on AI boom Taiwan's Ministry of Economic Affairs (MOEA) released industrial production statistics for May 2026 on June 24, reporting that Taiwan's computer, electronic products, and optical products sector—led by servers, switches, semiconductor testing equipment and components, and solid-state drives—saw production increase 36.6 SemiconductorElectronicsAI Read 3 DigiTimes IntelliEPI targets record 2026 revenue amid InP substrate shortages Compound semiconductor epitaxial wafer maker IntelliEPI said AI-driven high-speed transmission demand continues to lift the indium phosphide (InP) market, and it expects revenue to keep rising in 2026 and set another record. The company's biggest challenge remains a shortage of InP substrates, prompting it to rely main Semiconductor Read 4 DigiTimes Europe's AI infrastructure: the cost gap that policy cannot paper over The EU currently hosts roughly 5% of the world's AI compute capacity. The US holds close to 75%. McKinsey projects European data center demand will grow from 10 GW of IT load in 2024 to 35 GW by 2030 — a tripling driven almost entirely by AI. The infrastructure to close that gap does not yet exist, and building it in E AI Read 5 CNA IndiaMART doubles down on AI to curb fake listings, improve buyer interaction IndiaMART doubles down on AI to curb fake listings, improve buyer interaction AI Read 6 CNA Amazon to invest additional $13 billion in India cloud, AI Amazon to invest additional $13 billion in India cloud, AI AI Read 7 EETAsia SPHERE AX and Blaize Partner to Develop Physical AI Solutions Partnership combines AI semiconductor technology and vision AI software to accelerate physical AI product development globally. The post SPHERE AX and Blaize Partner to Develop Physical AI Solutions appeared first on EE Times Asia . SemiconductorAI Read 8 TechAsia IPO-bound AgiBot starts eight-robot tablet QC trial The company aims to complete experimental verification of solutions for seven industries in the first half of 2026. Automation Read 9 TechAsia Turning building inspections from weeks to days with AI With aging infrastructure posing global safety risks, H3 Zoom is helping developers spot hidden defects faster. AI Read 10 TechAsia US robot firm Agility plans to go public at $2.5b valuation In April 2025, Agility was reportedly seeking funding at a pre-investment valuation of US$1.75 billion. Automation Read 11 EETAsia DigiKey Drops New Season of Sustainable Futures Video Series Season 2 of DigiKey's Sustainable Futures examines how advanced electronics are enabling cleaner energy, smarter systems and more sustainable design. The post DigiKey Drops New Season of Sustainable Futures Video Series appeared first on EE Times Asia . Electronics Read 12 EETAsia ST’s Direct ToF 3D LiDAR Module Brings Advanced Spatial Awareness to Compact Edge AI Systems STMicroelectronics' VL53L9 compact direct Time-of-Flight 3D LiDAR all-in-one module sets a new benchmark in high-resolution sensing. The post ST’s Direct ToF 3D LiDAR Module Brings Advanced Spatial Awareness to Compact Edge AI Systems appeared first on EE Times Asia . ElectronicsAI Read 13 NikkeiAsia South Korea plans new chip cluster as AI boom strains capacity South Korea plans new chip cluster as AI boom strains capacity AI Read 14 NikkeiAsia Chinese door-to-door logistics networks grow in US to counter trade war Chinese door-to-door logistics networks grow in US to counter trade war Logistics Read 15 NikkeiAsia SoftBank chipmaker Arm hits 50% share in top AI data centers: exec SoftBank chipmaker Arm hits 50% share in top AI data centers: exec AI Read 16 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun AI Read 17 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass AI Read 18 KED EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease Biotechnology Read]]></summary></entry></feed>
