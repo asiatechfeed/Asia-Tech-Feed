@@ -1,37 +1,218 @@
 {
   "date": "2026-07-04",
-  "count": 7,
+  "count": 6,
   "sources": [
     "DigiTimes",
-    "EW",
     "TechAsia"
   ],
   "post_file": "2026-07-04-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Sponsored Content: Power System Reliability in Extreme Cold with -65\u00b0C Aluminum Electrolytic Capacitors",
-      "source": "EW",
-      "url": "https://www.electronicsweekly.com/news/sponsored-content-power-system-reliability-in-extreme-cold-how-65c-aluminum-electrolytic-capacitors-support-mission-critical-electronics-2026-07/"
-    },
-    {
-      "title": "Chinese NOR Flash supplier Giantec raises prices 25% as memory market risks persist",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260702PD228/flash-supplier-price-market-production.html"
-    },
-    {
-      "title": "China's polarizer makers seek price hikes as material bottlenecks bite",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260703VL211/polarizer-price-lcd-materials-production.html"
-    },
-    {
-      "title": "Taiwan's Turvo confirms full management authority, reaffirms robotics expansion plans",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260702PD230/management-expansion-turvo-international-robot-earnings.html"
-    },
-    {
-      "title": "Kuaishou\u2019s Kling AI seeks $3b in debut funding round",
+      "title": "Japanese chipmaker Kioxia ships NAND for AI data centers",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/kuaishous-kling-ai-video-tool-drives-84-surge-shares"
+      "url": "https://www.techinasia.com/us-patent-probe-puts-sk-hynix-kioxia-chip-imports-at-risk"
+    },
+    {
+      "title": "Thailand BOI secures $4.1b in EV supply chain investment",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/ev-battery-market-grows-with-new-types-options"
+    },
+    {
+      "title": "Robots are getting busier",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/robots-busier"
+    },
+    {
+      "title": "Machvision's June revenue hits another record due to AI demand",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260702PD231/machvision-pcb-ic-inspection-ai-server-revenue-2026.html"
+    },
+    {
+      "title": "TSMC's median pay trails four smaller IC design houses, filings show",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260703VL221/taiwan-ic-design-salary-data-tsmc.html"
+    }
+  ],
+  "source_stats": [
+    {
+      "source": "IC-PCB",
+      "name": "IC-PCB",
+      "fetched": 0,
+      "relevant": 0,
+      "sponsored_skipped": 0,
+      "published": 0,
+      "error": null
+    },
+    {
+      "source": "CNA",
+      "name": "Channel NewsAsia",
+      "fetched": 20,
+      "relevant": 0,
+      "sponsored_skipped": 0,
+      "published": 0,
+      "error": null
+    },
+    {
+      "source": "BT",
+      "name": "Business Times SG",
+      "fetched": 0,
+      "relevant": 0,
+      "sponsored_skipped": 0,
+      "published": 0,
+      "error": null
+    },
+    {
+      "source": "Star",
+      "name": "The Star MY",
+      "fetched": 0,
+      "relevant": 0,
+      "sponsored_skipped": 0,
+      "published": 0,
+      "error": null
+    },
+    {
+      "source": "ST",
+      "name": "Straits Times",
+      "fetched": 0,
+      "relevant": 0,
+      "sponsored_skipped": 0,
+      "published": 0,
+      "error": null
+    },
+    {
+      "source": "AMR",
+      "name": "Asia Manufacturing Review",
+      "fetched": 0,
+      "relevant": 0,
+      "sponsored_skipped": 0,
+      "published": 0,
+      "error": null
+    },
+    {
+      "source": "EDB",
+      "name": "EDB Corporate News",
+      "fetched": 0,
+      "relevant": 0,
+      "sponsored_skipped": 0,
+      "published": 0,
+      "error": null
+    },
+    {
+      "source": "EDB-I",
+      "name": "EDB Industry News",
+      "fetched": 0,
+      "relevant": 0,
+      "sponsored_skipped": 0,
+      "published": 0,
+      "error": null
+    },
+    {
+      "source": "EECO",
+      "name": "EECO Thailand",
+      "fetched": 0,
+      "relevant": 0,
+      "sponsored_skipped": 0,
+      "published": 0,
+      "error": null
+    },
+    {
+      "source": "TrendForce",
+      "name": "TrendForce",
+      "fetched": 0,
+      "relevant": 0,
+      "sponsored_skipped": 0,
+      "published": 0,
+      "error": null
+    },
+    {
+      "source": "EW",
+      "name": "Electronics Weekly",
+      "fetched": 10,
+      "relevant": 0,
+      "sponsored_skipped": 1,
+      "published": 0,
+      "error": null
+    },
+    {
+      "source": "VSD",
+      "name": "Vision Systems Design",
+      "fetched": 0,
+      "relevant": 0,
+      "sponsored_skipped": 0,
+      "published": 0,
+      "error": null
+    },
+    {
+      "source": "EETAsia",
+      "name": "EE Times Asia",
+      "fetched": 10,
+      "relevant": 5,
+      "sponsored_skipped": 0,
+      "published": 0,
+      "error": null
+    },
+    {
+      "source": "DigiTimes",
+      "name": "DigiTimes",
+      "fetched": 35,
+      "relevant": 28,
+      "sponsored_skipped": 0,
+      "published": 3,
+      "error": null
+    },
+    {
+      "source": "NikkeiAsia",
+      "name": "Nikkei Asia",
+      "fetched": 50,
+      "relevant": 2,
+      "sponsored_skipped": 0,
+      "published": 0,
+      "error": null
+    },
+    {
+      "source": "KED",
+      "name": "KED Global",
+      "fetched": 20,
+      "relevant": 3,
+      "sponsored_skipped": 0,
+      "published": 0,
+      "error": null
+    },
+    {
+      "source": "FocusTW",
+      "name": "Focus Taiwan",
+      "fetched": 0,
+      "relevant": 0,
+      "sponsored_skipped": 0,
+      "published": 0,
+      "error": null
+    },
+    {
+      "source": "TechAsia",
+      "name": "Tech in Asia",
+      "fetched": 36,
+      "relevant": 12,
+      "sponsored_skipped": 0,
+      "published": 3,
+      "error": null
+    },
+    {
+      "source": "Automate",
+      "name": "Automation.com",
+      "fetched": 0,
+      "relevant": 0,
+      "sponsored_skipped": 0,
+      "published": 0,
+      "error": null
+    },
+    {
+      "source": "SemiEng",
+      "name": "Semiconductor Engineering",
+      "fetched": 10,
+      "relevant": 1,
+      "sponsored_skipped": 0,
+      "published": 0,
+      "error": null
     }
   ]
 }
