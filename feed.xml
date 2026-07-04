@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-04T02:44:35+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 04, 2026</title><link href="https://asiatechfeed.com/2026/07/04/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 04, 2026" /><published>2026-07-04T00:00:43+00:00</published><updated>2026-07-04T00:00:43+00:00</updated><id>https://asiatechfeed.com/2026/07/04/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/04/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-04T02:45:39+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 04, 2026</title><link href="https://asiatechfeed.com/2026/07/04/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 04, 2026" /><published>2026-07-04T02:45:01+00:00</published><updated>2026-07-04T02:45:01+00:00</updated><id>https://asiatechfeed.com/2026/07/04/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/04/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,62 +12,54 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">Sponsored Content: Power System Reliability in Extreme Cold with -65°C Aluminum Electrolytic Capacitors</span></td>
-  <td class="col-summary">Extreme cold environments place unprecedented demands on power systems, making the low-temperature performance of aluminum electrolytic capacitors a critical factor in overall system reliability. I. In extreme cold environments, power ... The post Sponsored Content: Power System Reliability in Extreme Cold with -65°C A</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/sponsored-content-power-system-reliability-in-extreme-cold-how-65c-aluminum-electrolytic-capacitors-support-mission-critical-electronics-2026-07/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Japanese chipmaker Kioxia ships NAND for AI data centers</span></td>
+  <td class="col-summary">Kioxia's new chip is produced at its Kitakami plant, which started operating in September 2025.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/us-patent-probe-puts-sk-hynix-kioxia-chip-imports-at-risk" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Chinese NOR Flash supplier Giantec raises prices 25% as memory market risks persist</span></td>
-  <td class="col-summary">China's memory price rally continues to gather momentum. Giantec Semiconductor Corporation, a Chinese NOR flash supplier, recently notified its distribution partners that prices for its entire NOR flash memory product portfolio will increase by 25% beginning July 6, 2026. The new pricing will apply to both newly signed</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260702PD228/flash-supplier-price-market-production.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Thailand BOI secures $4.1b in EV supply chain investment</span></td>
+  <td class="col-summary">Electrified vehicles made up over 40% of new vehicle registrations in Thailand in 2025.</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ev-battery-market-grows-with-new-types-options" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">China's polarizer makers seek price hikes as material bottlenecks bite</span></td>
-  <td class="col-summary">Chinese polarizer film suppliers are seeking higher prices from panel makers after raw-material and logistics costs rose in the second quarter, exposing a weak point in China's display-material supply chain.</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260703VL211/polarizer-price-lcd-materials-production.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Robots are getting busier</span></td>
+  <td class="col-summary">Cred, Dexforce, CarbonSix, and more raised funds this week.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/robots-busier" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan's Turvo confirms full management authority, reaffirms robotics expansion plans</span></td>
-  <td class="col-summary">Following recent reports of significant management changes at Turvo International Co., Ltd, President Steven Tsai addressed investors ahead of the company's earnings conference on July 2. He said representatives of the company's major shareholder, ZENG HSING Industrial Co., Ltd, were not present, and therefore he could</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260702PD230/management-expansion-turvo-international-robot-earnings.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Machvision's June revenue hits another record due to AI demand</span></td>
+  <td class="col-summary">Machvision posted another record monthly revenue in June 2026, as surging demand for AI servers, high-performance computing (HPC), and advanced packaging continued to lift orders for the semiconductor and PCB inspection equipment maker. The company said the biggest challenge has now shifted from winning orders to manag</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260702PD231/machvision-pcb-ic-inspection-ai-server-revenue-2026.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Kuaishou’s Kling AI seeks $3b in debut funding round</span></td>
-  <td class="col-summary">Kuaishou described Kling AI, launched in June 2024, as an independent AI product for video generation.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/kuaishous-kling-ai-video-tool-drives-84-surge-shares" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">TSMC's median pay trails four smaller IC design houses, filings show</span></td>
+  <td class="col-summary">Fabless chip designers dominate the upper ranks of Taiwan's newly disclosed non-managerial employee pay data for fiscal year 2025, with only two capital-intensive manufacturers — TSMC and memory-testing equipment maker Phison — breaking into the top tier typically reserved for asset-light IC design houses.</td>
+  <td class="col-tags"></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260703VL221/taiwan-ic-design-salary-data-tsmc.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Grab’s merchant AI tool logs 1 million messages in Indonesia</span></td>
-  <td class="col-summary">Grab said it had a 96.1% satisfaction rate, repeat usage of 89.9% among long-tail merchants, and 97.2% among mid-market merchants.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/grab-indonesia-shuts-driver-subscription-program" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">US AI data center firm Crusoe seeks $3b at $30b valuation</span></td>
-  <td class="col-summary">According to sources familiar with the matter, the round could value the company at around US$300 billion.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/us-wyoming-ai-hub-outpowers-state" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">China's CR Micro raises power chip prices as Chinese suppliers push fresh hikes</span></td>
+  <td class="col-summary">China Resources Microelectronics (CR Micro), a Chinese power semiconductor integrated device manufacturer, has notified customers and partners that it will raise prices across its entire product lineup starting July 1, with increases beginning at 15%.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260703PD233/cr-micro-china-resources-price-materials-cost.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 EW Sponsored Content: Power System Reliability in Extreme Cold with -65°C Aluminum Electrolytic Capacitors Extreme cold environments place unprecedented demands on power systems, making the low-temperature performance of aluminum electrolytic capacitors a critical factor in overall system reliability. I. In extreme cold environments, power ... The post Sponsored Content: Power System Reliability in Extreme Cold with -65°C A Electronics Read 2 DigiTimes Chinese NOR Flash supplier Giantec raises prices 25% as memory market risks persist China's memory price rally continues to gather momentum. Giantec Semiconductor Corporation, a Chinese NOR flash supplier, recently notified its distribution partners that prices for its entire NOR flash memory product portfolio will increase by 25% beginning July 6, 2026. The new pricing will apply to both newly signed Semiconductor Read 3 DigiTimes China's polarizer makers seek price hikes as material bottlenecks bite Chinese polarizer film suppliers are seeking higher prices from panel makers after raw-material and logistics costs rose in the second quarter, exposing a weak point in China's display-material supply chain. Logistics Read 4 DigiTimes Taiwan's Turvo confirms full management authority, reaffirms robotics expansion plans Following recent reports of significant management changes at Turvo International Co., Ltd, President Steven Tsai addressed investors ahead of the company's earnings conference on July 2. He said representatives of the company's major shareholder, ZENG HSING Industrial Co., Ltd, were not present, and therefore he could Automation Read 5 TechAsia Kuaishou’s Kling AI seeks $3b in debut funding round Kuaishou described Kling AI, launched in June 2024, as an independent AI product for video generation. AI Read 6 TechAsia Grab’s merchant AI tool logs 1 million messages in Indonesia Grab said it had a 96.1% satisfaction rate, repeat usage of 89.9% among long-tail merchants, and 97.2% among mid-market merchants. AI Read 7 TechAsia US AI data center firm Crusoe seeks $3b at $30b valuation According to sources familiar with the matter, the round could value the company at around US$300 billion. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 03, 2026</title><link href="https://asiatechfeed.com/2026/07/03/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 03, 2026" /><published>2026-07-03T10:15:16+00:00</published><updated>2026-07-03T10:15:16+00:00</updated><id>https://asiatechfeed.com/2026/07/03/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/03/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Japanese chipmaker Kioxia ships NAND for AI data centers Kioxia's new chip is produced at its Kitakami plant, which started operating in September 2025. AI Read 2 TechAsia Thailand BOI secures $4.1b in EV supply chain investment Electrified vehicles made up over 40% of new vehicle registrations in Thailand in 2025. Logistics Read 3 TechAsia Robots are getting busier Cred, Dexforce, CarbonSix, and more raised funds this week. Automation Read 4 DigiTimes Machvision's June revenue hits another record due to AI demand Machvision posted another record monthly revenue in June 2026, as surging demand for AI servers, high-performance computing (HPC), and advanced packaging continued to lift orders for the semiconductor and PCB inspection equipment maker. The company said the biggest challenge has now shifted from winning orders to manag SemiconductorAIElectronics Read 5 DigiTimes TSMC's median pay trails four smaller IC design houses, filings show Fabless chip designers dominate the upper ranks of Taiwan's newly disclosed non-managerial employee pay data for fiscal year 2025, with only two capital-intensive manufacturers — TSMC and memory-testing equipment maker Phison — breaking into the top tier typically reserved for asset-light IC design houses. Read 6 DigiTimes China's CR Micro raises power chip prices as Chinese suppliers push fresh hikes China Resources Microelectronics (CR Micro), a Chinese power semiconductor integrated device manufacturer, has notified customers and partners that it will raise prices across its entire product lineup starting July 1, with increases beginning at 15%. SemiconductorElectronics Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 03, 2026</title><link href="https://asiatechfeed.com/2026/07/03/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 03, 2026" /><published>2026-07-03T10:15:16+00:00</published><updated>2026-07-03T10:15:16+00:00</updated><id>https://asiatechfeed.com/2026/07/03/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/03/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
