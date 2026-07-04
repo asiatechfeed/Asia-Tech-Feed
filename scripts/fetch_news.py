@@ -283,6 +283,31 @@ def is_relevant(text: str) -> tuple[bool, list[str]]:
     return bool(matched_kw), matched_kw
 
 
+SPONSORED_MARKERS = [
+    "sponsored content", "sponsored post", "sponsored:",
+    "[sponsored]", "advertisement", "promoted content", "paid content",
+]
+
+
+def is_sponsored(title: str) -> bool:
+    """Return True if the title marks this as sponsored/ad content, not editorial news."""
+    t = (title or "").lower()
+    return any(marker in t for marker in SPONSORED_MARKERS)
+
+
+def print_source_breakdown(source_stats: dict, published_counts: dict | None = None) -> None:
+    """Print a per-source diagnostic table so a low article-count day can be
+    explained from the Action log alone, without reverse-engineering it later."""
+    published_counts = published_counts or {}
+    print("\n📊 Per-source breakdown:")
+    print(f"  {'Source':<12}{'Fetched':>9}{'Relevant':>10}{'Sponsored':>11}{'Published':>11}  Error")
+    for short, stats in source_stats.items():
+        print(
+            f"  {short:<12}{stats['fetched']:>9}{stats['relevant']:>10}"
+            f"{stats['sponsored_skipped']:>11}{published_counts.get(short, 0):>11}  {stats['error'] or ''}"
+        )
+
+
 def clean_text(html_or_text: str) -> str:
     """Strip HTML tags and clean whitespace."""
     soup = BeautifulSoup(html_or_text, "lxml")
@@ -795,6 +820,7 @@ def main():
     print("=" * 60)
 
     all_articles = []
+    source_stats: dict[str, dict] = {}
 
     for source in SOURCES:
         print(f"\n📰 [{source['short']}] {source['name']}")
@@ -804,11 +830,22 @@ def main():
             else:
                 raw = fetch_scrape(source)
             print(f"  → {len(raw)} items fetched")
+            source_stats[source["short"]] = {
+                "name": source["name"], "fetched": len(raw),
+                "relevant": 0, "sponsored_skipped": 0, "error": None,
+            }
         except Exception as e:
             print(f"  ✖ Error: {e}")
+            source_stats[source["short"]] = {
+                "name": source["name"], "fetched": 0,
+                "relevant": 0, "sponsored_skipped": 0, "error": str(e),
+            }
             continue
 
         for article in raw:
+            if is_sponsored(article.get("title", "")):
+                source_stats[source["short"]]["sponsored_skipped"] += 1
+                continue
             if not is_recent(article.get("date")):
                 continue
             combined = f"{article['title']} {article.get('summary_raw','')}"
@@ -824,6 +861,7 @@ def main():
                     continue
             article["matched_keywords"] = kws
             all_articles.append(article)
+            source_stats[source["short"]]["relevant"] += 1
 
     print(f"\n📊 {len(all_articles)} relevant articles found before dedup")
     all_articles = deduplicate(all_articles)
@@ -855,6 +893,7 @@ def main():
 
     if not all_articles:
         print("\n⚠ No articles matched. Exiting without creating post.")
+        print_source_breakdown(source_stats)
         # Write a signal file for GitHub Actions
         Path("/tmp/no_articles.flag").touch()
         sys.exit(0)
@@ -868,6 +907,12 @@ def main():
     # Summarize
     print("\n🤖 Summarizing with Claude...")
     all_articles = summarize_with_claude(all_articles)
+
+    # Tally final per-source published counts and print the diagnostic breakdown
+    published_counts: dict[str, int] = {}
+    for a in all_articles:
+        published_counts[a["short"]] = published_counts.get(a["short"], 0) + 1
+    print_source_breakdown(source_stats, published_counts)
 
     # Select featured article and fetch its OG image
     print("\n⭐ Selecting featured article...")
@@ -901,6 +946,18 @@ def main():
         "articles": [
             {"title": a["title"], "source": a["short"], "url": a["url"]}
             for a in all_articles[:5]  # first 5 for PR description
+        ],
+        "source_stats": [
+            {
+                "source": short,
+                "name": stats["name"],
+                "fetched": stats["fetched"],
+                "relevant": stats["relevant"],
+                "sponsored_skipped": stats["sponsored_skipped"],
+                "published": published_counts.get(short, 0),
+                "error": stats["error"],
+            }
+            for short, stats in source_stats.items()
         ],
     }
     json_path = Path(__file__).parent.parent / "_digest_meta.json"
