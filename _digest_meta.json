@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "count": 6,
+  "count": 4,
   "sources": [
     "DigiTimes",
     "TechAsia"
@@ -8,29 +8,24 @@
   "post_file": "2026-07-04-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Japanese chipmaker Kioxia ships NAND for AI data centers",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/us-patent-probe-puts-sk-hynix-kioxia-chip-imports-at-risk"
-    },
-    {
-      "title": "Thailand BOI secures $4.1b in EV supply chain investment",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/ev-battery-market-grows-with-new-types-options"
-    },
-    {
-      "title": "Robots are getting busier",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/robots-busier"
-    },
-    {
-      "title": "Machvision's June revenue hits another record due to AI demand",
+      "title": "Infineon wins fourth German patent ruling against Innoscience, as GaN fight flares in Shanghai",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260702PD231/machvision-pcb-ic-inspection-ai-server-revenue-2026.html"
+      "url": "https://www.digitimes.com/news/a20260704VL200.html"
     },
     {
-      "title": "TSMC's median pay trails four smaller IC design houses, filings show",
+      "title": "SoftBank targets AI cloud market with 10GW US rental plan",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260703VL221/taiwan-ic-design-salary-data-tsmc.html"
+      "url": "https://www.digitimes.com/news/a20260703PD227/market-telecom-data-center-subsidiary-capacity.html"
+    },
+    {
+      "title": "Samsung and SK Hynix seek substrate price cuts for the second half of 2026",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260703PD232/samsung-sk-hynix-substrate-2026-copper.html"
+    },
+    {
+      "title": "Korea\u2019s DeepX partners with Koshida for Japan AI push",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/hyundai-motor-unveils-on-device-ai-chip-for-robots"
     }
   ],
   "source_stats": [
@@ -146,7 +141,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 4,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -191,9 +186,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
