@@ -1,37 +1,37 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "count": 7,
   "sources": [
     "DigiTimes",
-    "SemiEng",
+    "EW",
     "TechAsia"
   ],
-  "post_file": "2026-07-03-asia-tech-news-digest.md",
+  "post_file": "2026-07-04-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Infineon China pushes back after GaN products removed at Shanghai electronics show",
+      "title": "Sponsored Content: Power System Reliability in Extreme Cold with -65\u00b0C Aluminum Electrolytic Capacitors",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/news/sponsored-content-power-system-reliability-in-extreme-cold-how-65c-aluminum-electrolytic-capacitors-support-mission-critical-electronics-2026-07/"
+    },
+    {
+      "title": "Chinese NOR Flash supplier Giantec raises prices 25% as memory market risks persist",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260703PD231/infineon-legal-shanghai-gan-2026.html"
+      "url": "https://www.digitimes.com/news/a20260702PD228/flash-supplier-price-market-production.html"
     },
     {
-      "title": "Ubtech's U1 companion robots test whether China is ready for AI intimacy",
+      "title": "China's polarizer makers seek price hikes as material bottlenecks bite",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260702VL211/china-humanoid-robot-industrial-testing.html"
+      "url": "https://www.digitimes.com/news/a20260703VL211/polarizer-price-lcd-materials-production.html"
     },
     {
-      "title": "Megawatt AI Racks: Infrastructure Evolution & Wide-Bandgap Power Semiconductor Opportunities by 2030",
+      "title": "Taiwan's Turvo confirms full management authority, reaffirms robotics expansion plans",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260626RS400/2030-data-center-efficiency-server-rack-infrastructure.html?chid=2"
+      "url": "https://www.digitimes.com/news/a20260702PD230/management-expansion-turvo-international-robot-earnings.html"
     },
     {
-      "title": "Chip Industry Week In Review",
-      "source": "SemiEng",
-      "url": "https://semiengineering.com/chip-industry-week-in-review-145/"
-    },
-    {
-      "title": "This startup uses vision-language AI to spot workplace hazards",
+      "title": "Kuaishou\u2019s Kling AI seeks $3b in debut funding round",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/this-startup-uses-vision-language-ai-to-spot-workplace-hazards"
+      "url": "https://www.techinasia.com/kuaishous-kling-ai-video-tool-drives-84-surge-shares"
     }
   ]
 }
