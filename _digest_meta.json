@@ -1,31 +1,38 @@
 {
-  "date": "2026-07-04",
-  "count": 4,
+  "date": "2026-07-05",
+  "count": 6,
   "sources": [
+    "CNA",
     "DigiTimes",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-04-asia-tech-news-digest.md",
+  "post_file": "2026-07-05-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Infineon wins fourth German patent ruling against Innoscience, as GaN fight flares in Shanghai",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260704VL200.html"
-    },
-    {
-      "title": "SoftBank targets AI cloud market with 10GW US rental plan",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260703PD227/market-telecom-data-center-subsidiary-capacity.html"
-    },
-    {
-      "title": "Samsung and SK Hynix seek substrate price cuts for the second half of 2026",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260703PD232/samsung-sk-hynix-substrate-2026-copper.html"
-    },
-    {
-      "title": "Korea\u2019s DeepX partners with Koshida for Japan AI push",
+      "title": "Tesla to cap AI tool spending, exempt Grok",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/hyundai-motor-unveils-on-device-ai-chip-for-robots"
+      "url": "https://www.techinasia.com/tesla-spacex-merger-discussed-nasdaq-listing-nears"
+    },
+    {
+      "title": "Commentary: AI can be a personal trainer in your pocket - but is it safe?",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/ai-personal-trainer-fitness-programme-health-6230166"
+    },
+    {
+      "title": "Anthropic tightens controls as Chinese firms route around Claude restrictions",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260703PD230/anthropic-claude-bytedance-ant-group.html"
+    },
+    {
+      "title": "Commentary: Korea's KRW800tn chip bet risks US fab pressure while Apple profits from memory shock",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260703PD224/apple-samsung-sk-hynix-memory-chips-price-fab.html"
+    },
+    {
+      "title": "Turn Cloud shifts to AI infrastructure",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260703PD213/cloud-infrastructure-revenue-2026-growth.html"
     }
   ],
   "source_stats": [
@@ -42,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -159,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 2,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -186,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 11,
+      "relevant": 10,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null

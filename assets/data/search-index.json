@@ -1,5 +1,72 @@
 [
   {
+    "date": "2026-07-05",
+    "title": "Tesla to cap AI tool spending, exempt Grok",
+    "summary": "Tesla employees prefer Anthropic's Claude over Elon Musk's Grok AI chatbot.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/tesla-spacex-merger-discussed-nasdaq-listing-nears"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "Commentary: AI can be a personal trainer in your pocket - but is it safe?",
+    "summary": "AI feels like the future of fitness coaching, but it has limitations, says this academic.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/ai-personal-trainer-fitness-programme-health-6230166"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "Anthropic tightens controls as Chinese firms route around Claude restrictions",
+    "summary": "Anthropic is stepping up efforts to block unauthorized access to Claude after reports that Chinese companies, including Ant Group and ByteDance, have used overseas entities, cloud services, and VPNs to work around its restrictions. Financial Times reported that the company has increased detection measures as it tries t",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260703PD230/anthropic-claude-bytedance-ant-group.html"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "Commentary: Korea's KRW800tn chip bet risks US fab pressure while Apple profits from memory shock",
+    "summary": "South Korean President Lee Jae-myung, Samsung Electronics, and SK Hynix have announced the country's largest-ever semiconductor expansion plan, while soaring memory prices have opened a separate fight between Micron and Apple.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260703PD224/apple-samsung-sk-hynix-memory-chips-price-fab.html"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "Turn Cloud shifts to AI infrastructure",
+    "summary": "Turn Cloud Technology is accelerating its transformation from a solution as a service (SolaaS) provider into an AI infrastructure provider for physical spaces, as demand for digital transformation across real-world venues continues to rise. The company says its new Tomorrow Space (TSpace) architecture will anchor its n",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260703PD213/cloud-infrastructure-revenue-2026-growth.html"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "Japan's MinebeaMitsumi to boost bearings output for AI data centers",
+    "summary": "Japan's MinebeaMitsumi to boost bearings output for AI data centers",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/electronics/japan-s-minebeamitsumi-to-boost-bearings-output-for-ai-data-centers"
+  },
+  {
     "date": "2026-07-04",
     "title": "Infineon wins fourth German patent ruling against Innoscience, as GaN fight flares in Shanghai",
     "summary": "Germany's District Court Munich I ruled on July 3 that Innoscience infringed Infineon Technologies' gallium nitride (GaN) patents, barring the Chinese chipmaker from importing, selling, or marketing the affected products in Germany and ordering it to pay damages.",
