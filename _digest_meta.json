@@ -4,35 +4,34 @@
   "sources": [
     "CNA",
     "DigiTimes",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-05-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Tesla to cap AI tool spending, exempt Grok",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/tesla-spacex-merger-discussed-nasdaq-listing-nears"
-    },
-    {
-      "title": "Commentary: AI can be a personal trainer in your pocket - but is it safe?",
+      "title": "South Korea to create future fund from chip windfall to spur growth, tackle inequality",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/ai-personal-trainer-fitness-programme-health-6230166"
+      "url": "https://www.channelnewsasia.com/east-asia/south-korea-future-fund-chip-windfall-6233061"
     },
     {
-      "title": "Anthropic tightens controls as Chinese firms route around Claude restrictions",
+      "title": "From Bloomberg to DIGITIMES: building a media model for the AI era",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260703PD230/anthropic-claude-bytedance-ant-group.html"
+      "url": "https://www.digitimes.com/news/a20260701PD212/colley-hwang-ai-bloomberg-digitimes.html?chid=12"
     },
     {
-      "title": "Commentary: Korea's KRW800tn chip bet risks US fab pressure while Apple profits from memory shock",
+      "title": "AI PCs, AR glasses, and robots reshape display tech",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260703PD224/apple-samsung-sk-hynix-memory-chips-price-fab.html"
+      "url": "https://www.digitimes.com/news/a20260701PD229/display-ar-glasses-expansion-technology-ai-applications.html"
     },
     {
-      "title": "Turn Cloud shifts to AI infrastructure",
+      "title": "Applied Materials unveils integrated tools for HBM, chiplet, and 3D packaging scale-up",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260703PD213/cloud-infrastructure-revenue-2026-growth.html"
+      "url": "https://www.digitimes.com/news/a20260701PD231/applied-materials-hbm-equipment-production-bandwidth.html"
+    },
+    {
+      "title": "SK Telecom plans up to 15GW of AI data centers in Korea",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/sk-telecom-to-build-1-gw-hyperscale-ai-data-centers"
     }
   ],
   "source_stats": [
@@ -148,7 +147,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 4,
+      "relevant": 1,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -157,7 +156,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 28,
+      "relevant": 30,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 3,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -193,9 +192,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 10,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
