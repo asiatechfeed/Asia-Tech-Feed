@@ -1,7 +1,8 @@
 {
   "date": "2026-07-06",
-  "count": 7,
+  "count": 11,
   "sources": [
+    "CNA",
     "DigiTimes",
     "EETAsia",
     "NikkeiAsia",
@@ -10,29 +11,29 @@
   "post_file": "2026-07-06-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Infineon Opens World\u2019s Largest Smart Power Semiconductor Fab in Dresden",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/infineon-opens-worlds-largest-smart-power-semiconductor-fab-in-dresden/"
+      "title": "Hedge funds dumped chip stocks for a fourth week as AI shares sold off",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/hedge-funds-dumped-chip-stocks-fourth-week-ai-shares-sold-6235316"
     },
     {
-      "title": "Samsung set to report $56b Q2 profit",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/samsung-leads-global-memory-sales-as-sk-hynix-tops-ai-chips"
+      "title": "Britain should consider regulating AI models, FCA official says",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/britain-should-consider-regulating-ai-models-fca-official-says-6235266"
     },
     {
-      "title": "Open-weight AI is turning China\u2019s distributors into its rivals",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/openweight-ai-turning-chinas-distributors-rivals"
+      "title": "Sri Lanka prison riot kills 25, wounds more than 100",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/sri-lanka-prison-riot-deaths-6235206"
     },
     {
-      "title": "Foldable phone market braces for second-half launch wave",
+      "title": "UMC posts record first-half revenue and plans selective price hikes in second half",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260706PD204/foldable-apple-samsung-huawei-market.html"
+      "url": "https://www.digitimes.com/news/a20260706PD240/umc-revenue-price-demand-2026.html"
     },
     {
-      "title": "Meta's AI cloud idea underscores a search for returns, not an AI retreat",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260706PD211/meta-demand-tsmc-nvidia-business.html"
+      "title": "Alibaba Cloud holds 40.1% of China\u2019s AI cloud market",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/alibaba-cloud-cuts-nvidia-gpu-use-by-82-with-aegaeon-system"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -129,9 +130,9 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
-      "sponsored_skipped": 0,
+      "sponsored_skipped": 1,
       "published": 0,
       "error": null
     },
@@ -148,7 +149,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -156,8 +157,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 29,
+      "fetched": 56,
+      "relevant": 46,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -193,9 +194,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 18,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -211,7 +212,7 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
