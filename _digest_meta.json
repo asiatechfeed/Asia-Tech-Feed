@@ -1,37 +1,37 @@
 {
-  "date": "2026-07-05",
-  "count": 6,
+  "date": "2026-07-06",
+  "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
     "TechAsia"
   ],
-  "post_file": "2026-07-05-asia-tech-news-digest.md",
+  "post_file": "2026-07-06-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "South Korea to create future fund from chip windfall to spur growth, tackle inequality",
+      "title": "South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/south-korea-future-fund-chip-windfall-6233061"
+      "url": "https://www.channelnewsasia.com/business/south-koreas-sk-hynix-launch-28-billion-us-listing-ride-global-ai-wave-6233881"
     },
     {
-      "title": "From Bloomberg to DIGITIMES: building a media model for the AI era",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260701PD212/colley-hwang-ai-bloomberg-digitimes.html?chid=12"
+      "title": "Atlas, the humanoid robot, delivers match ball at World Cup",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/sport/atlas-humanoid-robot-delivers-match-ball-world-cup-6233866"
     },
     {
-      "title": "AI PCs, AR glasses, and robots reshape display tech",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260701PD229/display-ar-glasses-expansion-technology-ai-applications.html"
-    },
-    {
-      "title": "Applied Materials unveils integrated tools for HBM, chiplet, and 3D packaging scale-up",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260701PD231/applied-materials-hbm-equipment-production-bandwidth.html"
-    },
-    {
-      "title": "SK Telecom plans up to 15GW of AI data centers in Korea",
+      "title": "Foxconn Q2 revenue jumps 39.8% on AI demand",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/sk-telecom-to-build-1-gw-hyperscale-ai-data-centers"
+      "url": "https://www.techinasia.com/hon-hai-april-revenue-jumps-297-ai-demand"
+    },
+    {
+      "title": "China TPU chipmaker Zhonghao Xinying launches Xuyu AI processor to challenge GPU-based computing",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260702VL206/tpu-processor-chips.html"
+    },
+    {
+      "title": "AI supercycle could drive semiconductor market beyond US$2 trillion by 2030",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260703VL220/market-2030-growth-revenue-dram.html"
     }
   ],
   "source_stats": [
@@ -48,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -130,7 +130,7 @@
       "name": "Electronics Weekly",
       "fetched": 10,
       "relevant": 0,
-      "sponsored_skipped": 1,
+      "sponsored_skipped": 2,
       "published": 0,
       "error": null
     },
@@ -147,7 +147,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -156,7 +156,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 30,
+      "relevant": 31,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -192,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 9,
+      "relevant": 11,
       "sponsored_skipped": 0,
       "published": 2,
       "error": null
