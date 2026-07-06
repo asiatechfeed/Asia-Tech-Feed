@@ -1,128 +1,93 @@
 [
   {
     "date": "2026-07-06",
-    "title": "Hedge funds dumped chip stocks for a fourth week as AI shares sold off",
-    "summary": "Hedge funds dumped chip stocks for a fourth week as AI shares sold off",
+    "title": "Broadcom, Apple extend chip supply deal through 2031",
+    "summary": "Broadcom, Apple extend chip supply deal through 2031",
     "source": "Channel NewsAsia",
     "short": "CNA",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/broadcom-apple-extend-chip-supply-deal-through-2031-6235391"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "Indian IT firms face muted Q1 as AI shift, weak demand weigh",
+    "summary": "Indian IT firms face muted Q1 as AI shift, weak demand weigh",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/indian-it-firms-face-muted-q1-ai-shift-weak-demand-weigh-6235131"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "Anthropic's reported chip plans with Samsung could ease inference costs, not chase top-end performance",
+    "summary": "Anthropic's reported move into in-house chip development could matter well beyond Silicon Valley if it helps lower the cost of running AI services worldwide. By prioritizing cheaper inference rather than elite performance, the startup may be signaling a more pragmatic path that could influence how global AI systems are",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.channelnewsasia.com/business/hedge-funds-dumped-chip-stocks-fourth-week-ai-shares-sold-6235316"
+    "url": "https://www.digitimes.com/news/a20260706PD212/anthropic-ai-inference-samsung-chips-performance.html"
   },
   {
     "date": "2026-07-06",
-    "title": "Britain should consider regulating AI models, FCA official says",
-    "summary": "Britain should consider regulating AI models, FCA official says",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/britain-should-consider-regulating-ai-models-fca-official-says-6235266"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "Sri Lanka prison riot kills 25, wounds more than 100",
-    "summary": "The wounded were rushed to the Negombo hospital, about 35km north of the capital Colombo, following overnight clashes between inmates from two drug gangs at the area's main prison, police said.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Pharmaceutical"
-    ],
-    "url": "https://www.channelnewsasia.com/asia/sri-lanka-prison-riot-deaths-6235206"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "UMC posts record first-half revenue and plans selective price hikes in second half",
-    "summary": "United Microelectronics Corp. (UMC) reported its strongest quarterly run in years as mature-process demand and factory utilization improved. June consolidated revenue reached NT$23.12 billion, up 0.8% from May and 22.85% year-on-year — a 44-month high. Second-quarter revenue climbed to NT$68.73 billion, up 12.61% seque",
+    "title": "Jim Keller startup Fab2 targets small-fab mass production",
+    "summary": "Atomic Semi, the semiconductor equipment startup founded by chip architect Jim Keller, has rebranded as Fab2 and moved its headquarters to Austin, Texas, with a vision of mass-producing small fabs. According to Tom's Hardware , Fab2's core idea is a \"fab fab\": it designs and builds all of its own equipment, from pumps,",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260706PD240/umc-revenue-price-demand-2026.html"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "Alibaba Cloud holds 40.1% of China’s AI cloud market",
-    "summary": "Alibaba Cloud generated 23.9 billion yuan (US$3.52 billion) in those segments, for a 40.1% market share.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/alibaba-cloud-cuts-nvidia-gpu-use-by-82-with-aegaeon-system"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "Samsung Foundry comeback builds as Meta, Anthropic weigh chip deals",
-    "summary": "Samsung Electronics is trying to turn its foundry business into a bigger supplier of custom chips, with Meta Platforms and Anthropic reportedly considering Samsung for processors after its Tesla win, according to Seoul Economic Daily . The potential orders could push Samsung Foundry toward profitability sooner than exp",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260706VL211/samsung-foundry-anthropic-meta-business.html"
+    "url": "https://www.digitimes.com/news/a20260706PD232/equipment-startup-jim-keller-production-fab.html"
   },
   {
     "date": "2026-07-06",
-    "title": "Samsung, SK Hynix and Micron face HBM4 race as custom chip demand grows",
-    "summary": "The global high-bandwidth memory market is expected to pivot from HBM3E to HBM4 in the second half of 2026, setting up a sharper contest for market share among Samsung Electronics, SK Hynix, and Micron Technology.",
+    "title": "Taiwan drone makers gain as Europe focuses on trust and supply chain resilience",
+    "summary": "Global drone demand continues to heat up, and Taiwanese manufacturers are aggressively expanding overseas. Industry players say the market's most urgent focus has shifted from price and delivery time to competition among trusted supply chains.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Electronics",
-      "Semiconductor"
+      "Logistics"
     ],
-    "url": "https://www.digitimes.com/news/a20260706VL210/hbm4-sk-hynix-samsung-demand-market.html"
+    "url": "https://www.digitimes.com/news/a20260703PD228/taiwan-drone-supply-chain-demand-price.html"
   },
   {
     "date": "2026-07-06",
-    "title": "Meituan open-sources LongCat-2.0 AI model",
-    "summary": "Meituan has deployed LongCat-based models in its app to support customer service and multi-agent interaction systems.",
+    "title": "Salesforce broadens Agentforce AI rollout",
+    "summary": "Salesforce said integrations with ChatGPT, Google Search, including AI Mode, and the Gemini app will be available in the coming months.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/meituan-set-loss-2022-delivery-price-war-heats"
+    "url": "https://www.techinasia.com/salesforce-hire-1000-graduates-interns-ai"
   },
   {
     "date": "2026-07-06",
-    "title": "Replacing 100 AI subscriptions with one",
-    "summary": "i10X AI integrates over 100 tools into a single workspace to eliminate the hassle of copy-pasting between different applications.",
+    "title": "Chinese AI chipmaker Biren eyes $892m share sale",
+    "summary": "Biren's BR106 and BR166 chips are already in volume production and shipped at scale.",
     "source": "Tech in Asia",
     "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/replacing-100-ai-subscriptions"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "AI Component Capacity Squeeze, Foundry Output Cuts to Extend Mature-node Price Increases in 2027",
-    "summary": "The growing demand for AI-related products has significantly altered the supply-and-demand balance for mature process nodes. The post AI Component Capacity Squeeze, Foundry Output Cuts to Extend Mature-node Price Increases in 2027 appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/ai-component-capacity-squeeze-foundry-output-cuts-to-extend-mature-node-price-increases-in-2027/"
+    "url": "https://www.techinasia.com/shanghai-ai-chipmaker-iluvatar-corex-400m-hong-kong-ipo"
   },
   {
     "date": "2026-07-06",
-    "title": "China's leading chatbots to ditch AI personas as Beijing tightens rules",
-    "summary": "China's leading chatbots to ditch AI personas as Beijing tightens rules",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "Why open-weights don’t fix AI’s cost problem",
+    "summary": "Sierra co-founder Clay Bavor argues that open models will handle routine work, but chip and energy limits set a floor on the cost of frontier intelligence.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "AI"
+      "Semiconductor"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-leading-chatbots-to-ditch-ai-personas-as-beijing-tightens-rules"
+    "url": "https://www.techinasia.com/open-models-dont-fix-ai-cost"
   },
   {
     "date": "2026-07-05",

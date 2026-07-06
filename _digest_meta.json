@@ -1,39 +1,37 @@
 {
   "date": "2026-07-06",
-  "count": 11,
+  "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-06-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Hedge funds dumped chip stocks for a fourth week as AI shares sold off",
+      "title": "Broadcom, Apple extend chip supply deal through 2031",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/hedge-funds-dumped-chip-stocks-fourth-week-ai-shares-sold-6235316"
+      "url": "https://www.channelnewsasia.com/business/broadcom-apple-extend-chip-supply-deal-through-2031-6235391"
     },
     {
-      "title": "Britain should consider regulating AI models, FCA official says",
+      "title": "Indian IT firms face muted Q1 as AI shift, weak demand weigh",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/britain-should-consider-regulating-ai-models-fca-official-says-6235266"
+      "url": "https://www.channelnewsasia.com/business/indian-it-firms-face-muted-q1-ai-shift-weak-demand-weigh-6235131"
     },
     {
-      "title": "Sri Lanka prison riot kills 25, wounds more than 100",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/sri-lanka-prison-riot-deaths-6235206"
-    },
-    {
-      "title": "UMC posts record first-half revenue and plans selective price hikes in second half",
+      "title": "Anthropic's reported chip plans with Samsung could ease inference costs, not chase top-end performance",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260706PD240/umc-revenue-price-demand-2026.html"
+      "url": "https://www.digitimes.com/news/a20260706PD212/anthropic-ai-inference-samsung-chips-performance.html"
     },
     {
-      "title": "Alibaba Cloud holds 40.1% of China\u2019s AI cloud market",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/alibaba-cloud-cuts-nvidia-gpu-use-by-82-with-aegaeon-system"
+      "title": "Jim Keller startup Fab2 targets small-fab mass production",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260706PD232/equipment-startup-jim-keller-production-fab.html"
+    },
+    {
+      "title": "Taiwan drone makers gain as Europe focuses on trust and supply chain resilience",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260703PD228/taiwan-drone-supply-chain-demand-price.html"
     }
   ],
   "source_stats": [
@@ -50,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 4,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -151,7 +149,7 @@
       "fetched": 10,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -169,7 +167,7 @@
       "fetched": 50,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
