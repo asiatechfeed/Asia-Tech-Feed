@@ -1,37 +1,38 @@
 {
   "date": "2026-07-06",
-  "count": 8,
+  "count": 7,
   "sources": [
-    "CNA",
     "DigiTimes",
+    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-06-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/south-koreas-sk-hynix-launch-28-billion-us-listing-ride-global-ai-wave-6233881"
+      "title": "Infineon Opens World\u2019s Largest Smart Power Semiconductor Fab in Dresden",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/infineon-opens-worlds-largest-smart-power-semiconductor-fab-in-dresden/"
     },
     {
-      "title": "Atlas, the humanoid robot, delivers match ball at World Cup",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/sport/atlas-humanoid-robot-delivers-match-ball-world-cup-6233866"
-    },
-    {
-      "title": "Foxconn Q2 revenue jumps 39.8% on AI demand",
+      "title": "Samsung set to report $56b Q2 profit",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/hon-hai-april-revenue-jumps-297-ai-demand"
+      "url": "https://www.techinasia.com/samsung-leads-global-memory-sales-as-sk-hynix-tops-ai-chips"
     },
     {
-      "title": "China TPU chipmaker Zhonghao Xinying launches Xuyu AI processor to challenge GPU-based computing",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260702VL206/tpu-processor-chips.html"
+      "title": "Open-weight AI is turning China\u2019s distributors into its rivals",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/openweight-ai-turning-chinas-distributors-rivals"
     },
     {
-      "title": "AI supercycle could drive semiconductor market beyond US$2 trillion by 2030",
+      "title": "Foldable phone market braces for second-half launch wave",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260703VL220/market-2030-growth-revenue-dram.html"
+      "url": "https://www.digitimes.com/news/a20260706PD204/foldable-apple-samsung-huawei-market.html"
+    },
+    {
+      "title": "Meta's AI cloud idea underscores a search for returns, not an AI retreat",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260706PD211/meta-demand-tsmc-nvidia-business.html"
     }
   ],
   "source_stats": [
@@ -50,7 +51,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -128,9 +129,9 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
-      "sponsored_skipped": 2,
+      "sponsored_skipped": 0,
       "published": 0,
       "error": null
     },
@@ -147,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 31,
+      "relevant": 29,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 2,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -192,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 11,
+      "relevant": 12,
       "sponsored_skipped": 0,
       "published": 2,
       "error": null

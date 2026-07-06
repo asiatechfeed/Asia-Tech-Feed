@@ -1,92 +1,80 @@
 [
   {
     "date": "2026-07-06",
-    "title": "South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave",
-    "summary": "South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "Infineon Opens World’s Largest Smart Power Semiconductor Fab in Dresden",
+    "summary": "Infineon has opened its largest semiconductor manufacturing facility, expanding production for AI, automotive, industrial, and renewable energy markets. The post Infineon Opens World’s Largest Smart Power Semiconductor Fab in Dresden appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
-      "AI"
+      "Semiconductor"
     ],
-    "url": "https://www.channelnewsasia.com/business/south-koreas-sk-hynix-launch-28-billion-us-listing-ride-global-ai-wave-6233881"
+    "url": "https://www.eetasia.com/infineon-opens-worlds-largest-smart-power-semiconductor-fab-in-dresden/"
   },
   {
     "date": "2026-07-06",
-    "title": "Atlas, the humanoid robot, delivers match ball at World Cup",
-    "summary": "Atlas, the humanoid robot, delivers match ball at World Cup",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "Samsung set to report $56b Q2 profit",
+    "summary": "The outlook follows a first quarter in which Samsung’s semiconductor division generated 53.7 trillion won (US$35.13 billion) in operating profit.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "Automation"
+      "Semiconductor"
     ],
-    "url": "https://www.channelnewsasia.com/sport/atlas-humanoid-robot-delivers-match-ball-world-cup-6233866"
+    "url": "https://www.techinasia.com/samsung-leads-global-memory-sales-as-sk-hynix-tops-ai-chips"
   },
   {
     "date": "2026-07-06",
-    "title": "Foxconn Q2 revenue jumps 39.8% on AI demand",
-    "summary": "June revenue hit a record T$821.8 billion, up 52.1% year on year.",
+    "title": "Open-weight AI is turning China’s distributors into its rivals",
+    "summary": "Chinese AI labs gained reach by making their models open-source. Our analysis shows how that could become a margin problem and what options are available.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/hon-hai-april-revenue-jumps-297-ai-demand"
+    "url": "https://www.techinasia.com/openweight-ai-turning-chinas-distributors-rivals"
   },
   {
     "date": "2026-07-06",
-    "title": "China TPU chipmaker Zhonghao Xinying launches Xuyu AI processor to challenge GPU-based computing",
-    "summary": "Zhonghao Xinying (Hangzhou) Technology has launched its new self-developed high-performance TPU AI processor, Xuyu, alongside Taize 2.0, a software-hardware integrated AI computing platform built around the chip.",
+    "title": "Foldable phone market braces for second-half launch wave",
+    "summary": "The foldable phone market is set for a busy second half as Samsung, Huawei, Apple, and Chinese rivals line up new models. Wider launches, higher prices, and fresh designs could lift shipments in 2026, affecting consumer choices, app development, and supply chains across global markets.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260706PD204/foldable-apple-samsung-huawei-market.html"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "Meta's AI cloud idea underscores a search for returns, not an AI retreat",
+    "summary": "Meta is reportedly exploring a new AI cloud infrastructure business that would let enterprises use its AI models and some unused GPU capacity, a move that could lift hardware utilization and create a new revenue stream from its heavy artificial intelligence spending. The proposal has revived talk of an AI bubble, but k",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260702VL206/tpu-processor-chips.html"
+    "url": "https://www.digitimes.com/news/a20260706PD211/meta-demand-tsmc-nvidia-business.html"
   },
   {
     "date": "2026-07-06",
-    "title": "AI supercycle could drive semiconductor market beyond US$2 trillion by 2030",
-    "summary": "The global semiconductor market is entering a historically significant growth phase. According to WSTS's latest June forecast, global semiconductor revenue is projected to grow by nearly 90% in 2026, reaching approximately US$1.5 trillion. Growth is expected to remain exceptionally strong in 2027, with year-on-year exp",
+    "title": "India launches third semiconductor plant as CG Semi begins commercial production in Gujarat",
+    "summary": "India Prime Minister Narendra Modi inaugurated CG Semi's Outsourced Semiconductor Assembly and Test (OSAT) facility in Sanand, Gujarat, marking the start of commercial production at what the government described as the country's third semiconductor plant to become operational in 2026. The project forms part of New Delh",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260703VL220/market-2030-growth-revenue-dram.html"
+    "url": "https://www.digitimes.com/news/a20260706VL202/production-plant-commercial-manufacturing-osat.html"
   },
   {
     "date": "2026-07-06",
-    "title": "Asahi Kasei to expand Taiwan photoresist film capacity for AI chip packaging",
-    "summary": "Asahi Kasei, one of the notable suppliers of Sunfort dry film photoresist in Japan, has initiated a fab expansion project in Taiwan. The newly established plant is expected to further elevate capacity performance in cutting and processing semiconductor packaging substrates.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260703VL218/asahi-kasei-photoresist-packaging-taiwan-plant.html"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "SK Hynix plans $29b US listing",
-    "summary": "SK Hynix holds about 60% share of the high-bandwidth memory market used in AI servers.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Japan AI chip startup taps Malaysia's Oppstar to gear up for production",
+    "summary": "Japan AI chip startup taps Malaysia's Oppstar to gear up for production",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/sk-hynix-ships-hbm4e-samples-to-customers"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "Samsung likely to post 18-fold jump in profit on surging AI demand for memory",
-    "summary": "Samsung likely to post 18-fold jump in profit on surging AI demand for memory",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/samsung-likely-post-18-fold-jump-in-profit-surging-ai-demand-memory-6233746"
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-ai-chip-startup-taps-malaysia-s-oppstar-to-gear-up-for-production"
   },
   {
     "date": "2026-07-05",
