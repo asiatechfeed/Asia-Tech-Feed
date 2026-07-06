@@ -70,6 +70,38 @@ APPROVED_TAGS = {
     "automation": "Automation",
 }
 
+# Maps every entry in KEYWORDS to an APPROVED_TAGS key. Used as a guaranteed
+# fallback whenever Claude's tagging (or an API failure's fallback tagging)
+# comes back empty, so an article that already matched our relevance
+# criteria is never silently dropped over a tagging technicality.
+KEYWORD_TO_TAG = {
+    "semiconductor": "semiconductor",
+    "chip": "semiconductor", "wafer": "semiconductor",
+    "fab": "semiconductor", "foundry": "semiconductor",
+    "electronics": "electronics", "pcb": "electronics", "circuit board": "electronics",
+    "logistics": "logistics", "supply chain": "logistics",
+    "pharmaceutical": "pharmaceutical", "drug": "pharmaceutical",
+    "medtech": "pharmaceutical",
+    "biotechnology": "biotechnology", "biotech": "biotechnology", "vaccine": "biotechnology",
+    "artificial intelligence": "ai", "ai": "ai",
+    "machine vision": "machine vision",
+    "automation": "automation", "robot": "automation",
+}
+
+
+def tags_from_keywords(matched_keywords: list[str]) -> list[str]:
+    """Best-effort tag assignment straight from matched KEYWORDS entries.
+    Guarantees that anything which passed is_relevant() can always resolve
+    to at least one approved tag, rather than being dropped."""
+    tags: list[str] = []
+    for kw in matched_keywords or []:
+        mapped = KEYWORD_TO_TAG.get(kw.strip().lower())
+        if mapped:
+            display = APPROVED_TAGS[mapped]
+            if display not in tags:
+                tags.append(display)
+    return tags[:3]
+
 SE_ASIA_TERMS = [
     "singapore", "malaysia", "thailand", "vietnam", "indonesia",
     "philippines", "myanmar", "cambodia", "laos", "brunei",
@@ -444,32 +476,9 @@ def summarize_with_claude(articles: list[dict]) -> list[dict]:
     """Batch summarize articles via Claude API."""
     if not ANTHROPIC_API_KEY:
         print("⚠ ANTHROPIC_API_KEY not set — using raw summaries.")
-        kw_to_display = {
-            # AI
-            "ai": "AI", "artificial intelligence": "AI",
-            # Semiconductor
-            "semiconductor": "Semiconductor",
-            # Electronics
-            "electronics": "Electronics", "pcb": "Electronics", "circuit board": "Electronics",
-            # Logistics
-            "logistics": "Logistics", "supply chain": "Logistics",
-            # Pharmaceutical
-            "pharmaceutical": "Pharmaceutical", "medtech": "Pharmaceutical",
-            # Biotechnology
-            "biotechnology": "Biotechnology", "biotech": "Biotechnology", "vaccine": "Biotechnology",
-            # Machine Vision
-            "machine vision": "Machine Vision",
-            # Automation
-            "automation": "Automation", "robot": "Automation",
-        }
         for a in articles:
             a["summary"] = (a["summary_raw"] or a["title"])[:320]
-            seen: list[str] = []
-            for kw in a.get("matched_keywords", []):
-                tag = kw_to_display.get(kw.lower().strip())
-                if tag and tag not in seen:
-                    seen.append(tag)
-            a["tags"] = seen[:3]
+            a["tags"] = tags_from_keywords(a.get("matched_keywords", []))
         return articles
 
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
@@ -517,25 +526,17 @@ Return ONLY the JSON. No markdown, no explanation."""
         except Exception as e:
             print(f"    ⚠ Claude error: {e}")
             article["summary"] = (article.get("summary_raw") or article["title"])[:320]
-            # Fallback: map matched keywords to approved display labels only
-            kw_to_tag = {
-                "semiconductor": "semiconductor", "electronics": "electronics",
-                "logistics": "logistics", "supply chain": "logistics",
-                "pharmaceutical": "pharmaceutical", "drug": "pharmaceutical",
-                "vaccine": "pharmaceutical", "medtech": "pharmaceutical",
-                "biotechnology": "biotechnology", "biotech": "biotechnology",
-                "artificial intelligence": "ai", "ai": "ai",
-                "machine vision": "machine vision", "robot": "automation",
-                "automation": "automation",
-            }
-            fallback_tags = []
-            for kw in article.get("matched_keywords", []):
-                mapped = kw_to_tag.get(kw.lower())
-                if mapped and mapped in APPROVED_TAGS and APPROVED_TAGS[mapped] not in fallback_tags:
-                    fallback_tags.append(APPROVED_TAGS[mapped])
-            article["tags"] = fallback_tags[:3]
+            article["tags"] = tags_from_keywords(article.get("matched_keywords", []))
 
-        # Skip articles that don't map to any approved topic
+        # Last-resort safety net: even after a *successful* Claude call, it's
+        # possible to get an empty tags array back for an article that still
+        # genuinely matched our relevance keywords. Don't drop it over that —
+        # fall back to a keyword-derived tag before deciding there's nothing
+        # to publish.
+        if not article["tags"]:
+            article["tags"] = tags_from_keywords(article.get("matched_keywords", []))
+
+        # Skip only if truly nothing (keyword-based fallback also came up empty)
         if not article["tags"]:
             print(f"    ⏭ Skipping (no approved topic): {article['title'][:60]}")
             continue
