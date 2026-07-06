@@ -1,80 +1,128 @@
 [
   {
     "date": "2026-07-06",
-    "title": "Infineon Opens World’s Largest Smart Power Semiconductor Fab in Dresden",
-    "summary": "Infineon has opened its largest semiconductor manufacturing facility, expanding production for AI, automotive, industrial, and renewable energy markets. The post Infineon Opens World’s Largest Smart Power Semiconductor Fab in Dresden appeared first on EE Times Asia .",
+    "title": "Hedge funds dumped chip stocks for a fourth week as AI shares sold off",
+    "summary": "Hedge funds dumped chip stocks for a fourth week as AI shares sold off",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/hedge-funds-dumped-chip-stocks-fourth-week-ai-shares-sold-6235316"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "Britain should consider regulating AI models, FCA official says",
+    "summary": "Britain should consider regulating AI models, FCA official says",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/britain-should-consider-regulating-ai-models-fca-official-says-6235266"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "Sri Lanka prison riot kills 25, wounds more than 100",
+    "summary": "The wounded were rushed to the Negombo hospital, about 35km north of the capital Colombo, following overnight clashes between inmates from two drug gangs at the area's main prison, police said.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Pharmaceutical"
+    ],
+    "url": "https://www.channelnewsasia.com/asia/sri-lanka-prison-riot-deaths-6235206"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "UMC posts record first-half revenue and plans selective price hikes in second half",
+    "summary": "United Microelectronics Corp. (UMC) reported its strongest quarterly run in years as mature-process demand and factory utilization improved. June consolidated revenue reached NT$23.12 billion, up 0.8% from May and 22.85% year-on-year — a 44-month high. Second-quarter revenue climbed to NT$68.73 billion, up 12.61% seque",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260706PD240/umc-revenue-price-demand-2026.html"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "Alibaba Cloud holds 40.1% of China’s AI cloud market",
+    "summary": "Alibaba Cloud generated 23.9 billion yuan (US$3.52 billion) in those segments, for a 40.1% market share.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/alibaba-cloud-cuts-nvidia-gpu-use-by-82-with-aegaeon-system"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "Samsung Foundry comeback builds as Meta, Anthropic weigh chip deals",
+    "summary": "Samsung Electronics is trying to turn its foundry business into a bigger supplier of custom chips, with Meta Platforms and Anthropic reportedly considering Samsung for processors after its Tesla win, according to Seoul Economic Daily . The potential orders could push Samsung Foundry toward profitability sooner than exp",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260706VL211/samsung-foundry-anthropic-meta-business.html"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "Samsung, SK Hynix and Micron face HBM4 race as custom chip demand grows",
+    "summary": "The global high-bandwidth memory market is expected to pivot from HBM3E to HBM4 in the second half of 2026, setting up a sharper contest for market share among Samsung Electronics, SK Hynix, and Micron Technology.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260706VL210/hbm4-sk-hynix-samsung-demand-market.html"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "Meituan open-sources LongCat-2.0 AI model",
+    "summary": "Meituan has deployed LongCat-based models in its app to support customer service and multi-agent interaction systems.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/meituan-set-loss-2022-delivery-price-war-heats"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "Replacing 100 AI subscriptions with one",
+    "summary": "i10X AI integrates over 100 tools into a single workspace to eliminate the hassle of copy-pasting between different applications.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/replacing-100-ai-subscriptions"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "AI Component Capacity Squeeze, Foundry Output Cuts to Extend Mature-node Price Increases in 2027",
+    "summary": "The growing demand for AI-related products has significantly altered the supply-and-demand balance for mature process nodes. The post AI Component Capacity Squeeze, Foundry Output Cuts to Extend Mature-node Price Increases in 2027 appeared first on EE Times Asia .",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
+      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/infineon-opens-worlds-largest-smart-power-semiconductor-fab-in-dresden/"
+    "url": "https://www.eetasia.com/ai-component-capacity-squeeze-foundry-output-cuts-to-extend-mature-node-price-increases-in-2027/"
   },
   {
     "date": "2026-07-06",
-    "title": "Samsung set to report $56b Q2 profit",
-    "summary": "The outlook follows a first quarter in which Samsung’s semiconductor division generated 53.7 trillion won (US$35.13 billion) in operating profit.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/samsung-leads-global-memory-sales-as-sk-hynix-tops-ai-chips"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "Open-weight AI is turning China’s distributors into its rivals",
-    "summary": "Chinese AI labs gained reach by making their models open-source. Our analysis shows how that could become a margin problem and what options are available.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/openweight-ai-turning-chinas-distributors-rivals"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "Foldable phone market braces for second-half launch wave",
-    "summary": "The foldable phone market is set for a busy second half as Samsung, Huawei, Apple, and Chinese rivals line up new models. Wider launches, higher prices, and fresh designs could lift shipments in 2026, affecting consumer choices, app development, and supply chains across global markets.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260706PD204/foldable-apple-samsung-huawei-market.html"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "Meta's AI cloud idea underscores a search for returns, not an AI retreat",
-    "summary": "Meta is reportedly exploring a new AI cloud infrastructure business that would let enterprises use its AI models and some unused GPU capacity, a move that could lift hardware utilization and create a new revenue stream from its heavy artificial intelligence spending. The proposal has revived talk of an AI bubble, but k",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260706PD211/meta-demand-tsmc-nvidia-business.html"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "India launches third semiconductor plant as CG Semi begins commercial production in Gujarat",
-    "summary": "India Prime Minister Narendra Modi inaugurated CG Semi's Outsourced Semiconductor Assembly and Test (OSAT) facility in Sanand, Gujarat, marking the start of commercial production at what the government described as the country's third semiconductor plant to become operational in 2026. The project forms part of New Delh",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260706VL202/production-plant-commercial-manufacturing-osat.html"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "Japan AI chip startup taps Malaysia's Oppstar to gear up for production",
-    "summary": "Japan AI chip startup taps Malaysia's Oppstar to gear up for production",
+    "title": "China's leading chatbots to ditch AI personas as Beijing tightens rules",
+    "summary": "China's leading chatbots to ditch AI personas as Beijing tightens rules",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-ai-chip-startup-taps-malaysia-s-oppstar-to-gear-up-for-production"
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-leading-chatbots-to-ditch-ai-personas-as-beijing-tightens-rules"
   },
   {
     "date": "2026-07-05",
