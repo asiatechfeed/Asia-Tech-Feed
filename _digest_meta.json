@@ -1,38 +1,36 @@
 {
   "date": "2026-07-07",
-  "count": 10,
+  "count": 6,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-07-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Exclusive: Geckos bets on AI materials beyond nano copper powders and CPO waveguides",
+      "title": "Unimicron prices US$1.355 billion overseas depositary receipt offering",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260707PD222/copper-nanomaterial-cpo-hpc-growth.html"
+      "url": "https://www.digitimes.com/news/a20260707PR203/unimicron-financing-electronics-taiwan-supply-chain.html"
     },
     {
-      "title": "Chinese firms see domestic AI chip budgets at 46%: survey",
+      "title": "World models can lift South Korea in self-driving tech",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260707PD210/south-korea-autonomous-driving-technology-competition-automotive.html"
+    },
+    {
+      "title": "Solstice Advanced Materials to buy Element Solutions in US$14.5 billion deal",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260707PR202/electronics-acquisition-materials-supplier-manufacturing.html"
+    },
+    {
+      "title": "Taiwan chip supplier Unimicron seeks up to $1.4b offering",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/huawei-expects-2026-ai-chip-revenue-hit-12b"
+      "url": "https://www.techinasia.com/taiwans-ase-expand-chip-assembly-testing-ai-demand"
     },
     {
-      "title": "Synopsys to cut chip fab manufacturing control software in shift to AI design, sources say",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/synopsys-cut-chip-fab-manufacturing-control-software-in-shift-ai-design-sources-say-6237371"
-    },
-    {
-      "title": "How Taiwan's whisky industry is challenging Scotland and Japan on the global stage",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/taiwan-whisky-production-climate-kavalan-semiconductors-6235341"
-    },
-    {
-      "title": "Microsoft AI data center faces Wisconsin lawsuit over noise and light pollution",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260707PD225/microsoft-data-center-lawsuit-wisconsin-pollution.html"
+      "title": "Israeli cybersecurity firm Cyera eyes $1b Oasis deal",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/blackstonebacked-data-security-firm-cyera-valued-9b"
     }
   ],
   "source_stats": [
@@ -51,7 +49,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -129,7 +127,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -150,7 +148,7 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -193,7 +191,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
