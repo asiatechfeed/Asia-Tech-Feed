@@ -1,37 +1,38 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-06-asia-tech-news-digest.md",
+  "post_file": "2026-07-07-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Broadcom, Apple extend chip supply deal through 2031",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/broadcom-apple-extend-chip-supply-deal-through-2031-6235391"
+      "title": "Reddit uses AI to curb posts influencing chatbots",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/reddit-google-talks-ai-contentsharing-deal"
     },
     {
-      "title": "Indian IT firms face muted Q1 as AI shift, weak demand weigh",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/indian-it-firms-face-muted-q1-ai-shift-weak-demand-weigh-6235131"
-    },
-    {
-      "title": "Anthropic's reported chip plans with Samsung could ease inference costs, not chase top-end performance",
+      "title": "BBU demand lifts Taiwanese battery module makers as AI server adoption expands",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260706PD212/anthropic-ai-inference-samsung-chips-performance.html"
+      "url": "https://www.digitimes.com/news/a20260706PD241/ai-server-battery-demand-revenue.html"
     },
     {
-      "title": "Jim Keller startup Fab2 targets small-fab mass production",
+      "title": "Fulltech's Thailand plant targets AI and satellite demand",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260706PD232/equipment-startup-jim-keller-production-fab.html"
+      "url": "https://www.digitimes.com/news/a20260706PD239/fulltech-thailand-plant-ai-satellite-production-2026.html"
     },
     {
-      "title": "Taiwan drone makers gain as Europe focuses on trust and supply chain resilience",
+      "title": "Chicony Electronics reports June revenue gain as AI PC demand builds",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260703PD228/taiwan-drone-supply-chain-demand-price.html"
+      "url": "https://www.digitimes.com/news/a20260706PD237/chicony-ai-pc-revenue-demand-2026.html"
+    },
+    {
+      "title": "Micron, Ford sign long-term memory supply deal",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/micron-to-buy-taiwan-chip-plant-for-1-8b-boost-dram-output"
     }
   ],
   "source_stats": [
@@ -48,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 5,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -130,7 +131,7 @@
       "name": "Electronics Weekly",
       "fetched": 10,
       "relevant": 0,
-      "sponsored_skipped": 1,
+      "sponsored_skipped": 0,
       "published": 0,
       "error": null
     },
@@ -155,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 56,
-      "relevant": 46,
+      "fetched": 35,
+      "relevant": 28,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 3,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -192,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 20,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
