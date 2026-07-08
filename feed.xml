@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-08T00:03:53+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 08, 2026</title><link href="https://asiatechfeed.com/2026/07/08/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 08, 2026" /><published>2026-07-08T00:03:02+00:00</published><updated>2026-07-08T00:03:02+00:00</updated><id>https://asiatechfeed.com/2026/07/08/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/08/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-08T03:32:27+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 08, 2026</title><link href="https://asiatechfeed.com/2026/07/08/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 08, 2026" /><published>2026-07-08T03:31:26+00:00</published><updated>2026-07-08T03:31:26+00:00</updated><id>https://asiatechfeed.com/2026/07/08/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/08/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,86 +12,70 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Foxsemicon June, 1H26 revenue hits record on AI orders</span></td>
-  <td class="col-summary">Foxsemicon Integrated Technology (FITI) posted record consolidated revenue of NT$2.451 billion (US$76.3 million) in June 2026, up 24.22% from May and 39.75% year-over-year. First-half 2026 consolidated revenue reached NT$11.855 billion, up 17.7% year-over-year and also a record for the period, underscoring steady growt</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Samsung Commences Mass Production of PCIe 6.0-based eSSD</span></td>
+  <td class="col-summary">Samsung's latest eSSD features 9th-generation V-NAND, 4nm controller and liquid-cooling optimization to support demanding AI workloads. The post Samsung Commences Mass Production of PCIe 6.0-based eSSD appeared first on EE Times Asia .</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260707PD233/foxsemicon-equipment-revenue-thailand-2026.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/samsung-commences-mass-production-of-pcie-6-0-based-essd/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Foxconn pivots to strategic investing, says timing and team trump tech</span></td>
-  <td class="col-summary">Speaking at the Taiwan Venture Capital and Private Equity Annual Conference on July 7, Foxconn Chairman Young Liu outlined the company's evolving investment strategy amid the restructuring of global technology supply chains.</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260707PD232/foxconn-technology-taiwan-investment-market.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Chinese equipment maker wins first large-format PLP lithography order for AI packaging equipment</span></td>
+  <td class="col-summary">Circuit Fabology Microelectronics Equipment (CFMEE) has secured China's first commercial order for a large-format panel-level packaging lithography tool, marking the company's entry into the AI advanced packaging equipment market.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260708PD214/china-ai-packaging-equipment-demand.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Foxconn chair: Two of four AI customer groups yet to reach full-scale demand</span></td>
-  <td class="col-summary">Speaking at the Taiwan Venture Capital and Private Equity Annual Conference on July 7, Foxconn Chairman Young Liu said demand for AI computing power has entered a phase of structural growth.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260707PD231/taiwan-foxconn-young-liu-demand-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Msscorps posts record 2Q revenue on AI and chip testing demand</span></td>
+  <td class="col-summary">Msscorps reported record consolidated revenue in June, and for the first half of 2026, as demand from AI and semiconductor customers continued to expand. The Taiwan-based semiconductor inspection and analysis company also said on July 6 that its board had approved a cash capital increase to support expansion of its AI </td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260706PD245/revenue-ai-chip-testing-demand-silicon.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">ChipApex Strengthens Component Sourcing Services to Address Chip Supply Challenges</span></td>
-  <td class="col-summary">ChipApex expands its procurement services to help manufacturers by accelerating access to critical semiconductor components. The post ChipApex Strengthens Component Sourcing Services to Address Chip Supply Challenges appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/chipapex-strengthens-component-sourcing-services-to-address-chip-supply-challenges/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Ant acquires 28% Boohee stake for AI health services</span></td>
+  <td class="col-summary">Founded in 2008, Boohee said it has served more than 200 million registered users and over 30 million annual active users.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ant-group-profit-estimated-to-rise-10-to-1-2b" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">DeepSeek is developing its own inference chip</span></td>
-  <td class="col-summary">DeepSeek adapted its V4 model for Huawei’s Ascend chips amid US export restrictions.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-deepseek-eyes-10b-funding-at-45b-valuation" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Enterprise SSD shortage lifts DDR4 8Gb 3Q26 contract prices</span></td>
+  <td class="col-summary">Memory prices are rising faster than expected as global AI demand strains DRAM and flash supply, with knock-on effects for PCs, data centers, networking gear, and industrial devices worldwide. Supply-chain sources say third-quarter 2026 contract talks reflect a tighter market, with older chips becoming more expensive.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260708PD215/ddr4-ssd-market-demand-dram.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Amazon plans $25b bond sale for AI expansion</span></td>
-  <td class="col-summary">Amazon's long-term debt rose to US$119.1 billion by March 31, 2026, up from US$65.6 billion at end of 2025.</td>
+  <td class="col-title"><span class="article-title">This startup is getting enterprise data ready for the AI agent era</span></td>
+  <td class="col-summary">VeloDB helps enterprises unify real-time multimodal data, search, and AI retrieval in one platform.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/amazon-secures-17-5b-loan-as-ai-spending-rises" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/startup-enterprise-data-ready-ai-agent-era" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Meta rolls out Muse Image AI model</span></td>
-  <td class="col-summary">Muse Image outputs will carry an invisible watermark and safeguards against harmful content.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-launches-small-business-ai-academy-apac" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Huawei Cloud signs robot pact for commercial use</span></td>
+  <td class="col-summary">Yijiahe, a China-based robotics company, will provide application capabilities, product design, and manufacturing.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/huawei-unveils-new-open-source-ai-model-openpangu" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: How will SAF prepare for the age of AI-enabled warfare?</span></td>
-  <td class="col-summary">As artificial intelligence shapes warfare development around the world, the SAF must enhance relations between man and machine, says defence consultancy managing director Nicholas Fang.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/saf-day-ai-defence-war-drone-military-6237926" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Why CPUs are now at the center of the AI race</span></td>
-  <td class="col-summary">Why CPUs are now at the center of the AI race</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/tech-asia/why-cpus-are-now-at-the-center-of-the-ai-race" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan's Shimizu bets on humanoid robots to tackle construction labor crunch</span></td>
-  <td class="col-summary">Japan's Shimizu bets on humanoid robots to tackle construction labor crunch</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-shimizu-bets-on-humanoid-robots-to-tackle-construction-labor-crunch" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Korean chip stocks rebound after overnight US selloff, as chip supply remains tight</span></td>
+  <td class="col-summary">Korean chip stocks rebound after overnight US selloff, as chip supply remains tight</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/korean-chip-stocks-rebound-after-overnight-us-selloff-chip-supply-remains-tight-6239766" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Foxsemicon June, 1H26 revenue hits record on AI orders Foxsemicon Integrated Technology (FITI) posted record consolidated revenue of NT$2.451 billion (US$76.3 million) in June 2026, up 24.22% from May and 39.75% year-over-year. First-half 2026 consolidated revenue reached NT$11.855 billion, up 17.7% year-over-year and also a record for the period, underscoring steady growt AI Read 2 DigiTimes Foxconn pivots to strategic investing, says timing and team trump tech Speaking at the Taiwan Venture Capital and Private Equity Annual Conference on July 7, Foxconn Chairman Young Liu outlined the company's evolving investment strategy amid the restructuring of global technology supply chains. Logistics Read 3 DigiTimes Foxconn chair: Two of four AI customer groups yet to reach full-scale demand Speaking at the Taiwan Venture Capital and Private Equity Annual Conference on July 7, Foxconn Chairman Young Liu said demand for AI computing power has entered a phase of structural growth. AI Read 4 EETAsia ChipApex Strengthens Component Sourcing Services to Address Chip Supply Challenges ChipApex expands its procurement services to help manufacturers by accelerating access to critical semiconductor components. The post ChipApex Strengthens Component Sourcing Services to Address Chip Supply Challenges appeared first on EE Times Asia . Semiconductor Read 5 TechAsia DeepSeek is developing its own inference chip DeepSeek adapted its V4 model for Huawei’s Ascend chips amid US export restrictions. Semiconductor Read 6 TechAsia Amazon plans $25b bond sale for AI expansion Amazon's long-term debt rose to US$119.1 billion by March 31, 2026, up from US$65.6 billion at end of 2025. AI Read 7 TechAsia Meta rolls out Muse Image AI model Muse Image outputs will carry an invisible watermark and safeguards against harmful content. AI Read 8 CNA Commentary: How will SAF prepare for the age of AI-enabled warfare? As artificial intelligence shapes warfare development around the world, the SAF must enhance relations between man and machine, says defence consultancy managing director Nicholas Fang. AI Read 9 NikkeiAsia Why CPUs are now at the center of the AI race Why CPUs are now at the center of the AI race AI Read 10 NikkeiAsia Japan's Shimizu bets on humanoid robots to tackle construction labor crunch Japan's Shimizu bets on humanoid robots to tackle construction labor crunch Automation Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 07, 2026</title><link href="https://asiatechfeed.com/2026/07/07/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 07, 2026" /><published>2026-07-07T08:01:10+00:00</published><updated>2026-07-07T08:01:10+00:00</updated><id>https://asiatechfeed.com/2026/07/07/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/07/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 EETAsia Samsung Commences Mass Production of PCIe 6.0-based eSSD Samsung's latest eSSD features 9th-generation V-NAND, 4nm controller and liquid-cooling optimization to support demanding AI workloads. The post Samsung Commences Mass Production of PCIe 6.0-based eSSD appeared first on EE Times Asia . AI Read 2 DigiTimes Chinese equipment maker wins first large-format PLP lithography order for AI packaging equipment Circuit Fabology Microelectronics Equipment (CFMEE) has secured China's first commercial order for a large-format panel-level packaging lithography tool, marking the company's entry into the AI advanced packaging equipment market. ElectronicsAISemiconductor Read 3 DigiTimes Msscorps posts record 2Q revenue on AI and chip testing demand Msscorps reported record consolidated revenue in June, and for the first half of 2026, as demand from AI and semiconductor customers continued to expand. The Taiwan-based semiconductor inspection and analysis company also said on July 6 that its board had approved a cash capital increase to support expansion of its AI SemiconductorAI Read 4 TechAsia Ant acquires 28% Boohee stake for AI health services Founded in 2008, Boohee said it has served more than 200 million registered users and over 30 million annual active users. AI Read 5 DigiTimes Enterprise SSD shortage lifts DDR4 8Gb 3Q26 contract prices Memory prices are rising faster than expected as global AI demand strains DRAM and flash supply, with knock-on effects for PCs, data centers, networking gear, and industrial devices worldwide. Supply-chain sources say third-quarter 2026 contract talks reflect a tighter market, with older chips becoming more expensive. AISemiconductor Read 6 TechAsia This startup is getting enterprise data ready for the AI agent era VeloDB helps enterprises unify real-time multimodal data, search, and AI retrieval in one platform. AI Read 7 TechAsia Huawei Cloud signs robot pact for commercial use Yijiahe, a China-based robotics company, will provide application capabilities, product design, and manufacturing. Automation Read 8 CNA Korean chip stocks rebound after overnight US selloff, as chip supply remains tight Korean chip stocks rebound after overnight US selloff, as chip supply remains tight Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 07, 2026</title><link href="https://asiatechfeed.com/2026/07/07/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 07, 2026" /><published>2026-07-07T08:01:10+00:00</published><updated>2026-07-07T08:01:10+00:00</updated><id>https://asiatechfeed.com/2026/07/07/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/07/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>

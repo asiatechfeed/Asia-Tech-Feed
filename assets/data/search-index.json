@@ -1,113 +1,95 @@
 [
   {
     "date": "2026-07-08",
-    "title": "Foxsemicon June, 1H26 revenue hits record on AI orders",
-    "summary": "Foxsemicon Integrated Technology (FITI) posted record consolidated revenue of NT$2.451 billion (US$76.3 million) in June 2026, up 24.22% from May and 39.75% year-over-year. First-half 2026 consolidated revenue reached NT$11.855 billion, up 17.7% year-over-year and also a record for the period, underscoring steady growt",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260707PD233/foxsemicon-equipment-revenue-thailand-2026.html"
-  },
-  {
-    "date": "2026-07-08",
-    "title": "Foxconn pivots to strategic investing, says timing and team trump tech",
-    "summary": "Speaking at the Taiwan Venture Capital and Private Equity Annual Conference on July 7, Foxconn Chairman Young Liu outlined the company's evolving investment strategy amid the restructuring of global technology supply chains.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260707PD232/foxconn-technology-taiwan-investment-market.html"
-  },
-  {
-    "date": "2026-07-08",
-    "title": "Foxconn chair: Two of four AI customer groups yet to reach full-scale demand",
-    "summary": "Speaking at the Taiwan Venture Capital and Private Equity Annual Conference on July 7, Foxconn Chairman Young Liu said demand for AI computing power has entered a phase of structural growth.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260707PD231/taiwan-foxconn-young-liu-demand-infrastructure.html"
-  },
-  {
-    "date": "2026-07-08",
-    "title": "ChipApex Strengthens Component Sourcing Services to Address Chip Supply Challenges",
-    "summary": "ChipApex expands its procurement services to help manufacturers by accelerating access to critical semiconductor components. The post ChipApex Strengthens Component Sourcing Services to Address Chip Supply Challenges appeared first on EE Times Asia .",
+    "title": "Samsung Commences Mass Production of PCIe 6.0-based eSSD",
+    "summary": "Samsung's latest eSSD features 9th-generation V-NAND, 4nm controller and liquid-cooling optimization to support demanding AI workloads. The post Samsung Commences Mass Production of PCIe 6.0-based eSSD appeared first on EE Times Asia .",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/samsung-commences-mass-production-of-pcie-6-0-based-essd/"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "Chinese equipment maker wins first large-format PLP lithography order for AI packaging equipment",
+    "summary": "Circuit Fabology Microelectronics Equipment (CFMEE) has secured China's first commercial order for a large-format panel-level packaging lithography tool, marking the company's entry into the AI advanced packaging equipment market.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/chipapex-strengthens-component-sourcing-services-to-address-chip-supply-challenges/"
+    "url": "https://www.digitimes.com/news/a20260708PD214/china-ai-packaging-equipment-demand.html"
   },
   {
     "date": "2026-07-08",
-    "title": "DeepSeek is developing its own inference chip",
-    "summary": "DeepSeek adapted its V4 model for Huawei’s Ascend chips amid US export restrictions.",
+    "title": "Msscorps posts record 2Q revenue on AI and chip testing demand",
+    "summary": "Msscorps reported record consolidated revenue in June, and for the first half of 2026, as demand from AI and semiconductor customers continued to expand. The Taiwan-based semiconductor inspection and analysis company also said on July 6 that its board had approved a cash capital increase to support expansion of its AI ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260706PD245/revenue-ai-chip-testing-demand-silicon.html"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "Ant acquires 28% Boohee stake for AI health services",
+    "summary": "Founded in 2008, Boohee said it has served more than 200 million registered users and over 30 million annual active users.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/ant-group-profit-estimated-to-rise-10-to-1-2b"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "Enterprise SSD shortage lifts DDR4 8Gb 3Q26 contract prices",
+    "summary": "Memory prices are rising faster than expected as global AI demand strains DRAM and flash supply, with knock-on effects for PCs, data centers, networking gear, and industrial devices worldwide. Supply-chain sources say third-quarter 2026 contract talks reflect a tighter market, with older chips becoming more expensive.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/chinas-deepseek-eyes-10b-funding-at-45b-valuation"
+    "url": "https://www.digitimes.com/news/a20260708PD215/ddr4-ssd-market-demand-dram.html"
   },
   {
     "date": "2026-07-08",
-    "title": "Amazon plans $25b bond sale for AI expansion",
-    "summary": "Amazon's long-term debt rose to US$119.1 billion by March 31, 2026, up from US$65.6 billion at end of 2025.",
+    "title": "This startup is getting enterprise data ready for the AI agent era",
+    "summary": "VeloDB helps enterprises unify real-time multimodal data, search, and AI retrieval in one platform.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/amazon-secures-17-5b-loan-as-ai-spending-rises"
+    "url": "https://www.techinasia.com/startup-enterprise-data-ready-ai-agent-era"
   },
   {
     "date": "2026-07-08",
-    "title": "Meta rolls out Muse Image AI model",
-    "summary": "Muse Image outputs will carry an invisible watermark and safeguards against harmful content.",
+    "title": "Huawei Cloud signs robot pact for commercial use",
+    "summary": "Yijiahe, a China-based robotics company, will provide application capabilities, product design, and manufacturing.",
     "source": "Tech in Asia",
     "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/meta-launches-small-business-ai-academy-apac"
-  },
-  {
-    "date": "2026-07-08",
-    "title": "Commentary: How will SAF prepare for the age of AI-enabled warfare?",
-    "summary": "As artificial intelligence shapes warfare development around the world, the SAF must enhance relations between man and machine, says defence consultancy managing director Nicholas Fang.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/commentary/saf-day-ai-defence-war-drone-military-6237926"
-  },
-  {
-    "date": "2026-07-08",
-    "title": "Why CPUs are now at the center of the AI race",
-    "summary": "Why CPUs are now at the center of the AI race",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/tech-asia/why-cpus-are-now-at-the-center-of-the-ai-race"
-  },
-  {
-    "date": "2026-07-08",
-    "title": "Japan's Shimizu bets on humanoid robots to tackle construction labor crunch",
-    "summary": "Japan's Shimizu bets on humanoid robots to tackle construction labor crunch",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
     "tags": [
       "Automation"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-shimizu-bets-on-humanoid-robots-to-tackle-construction-labor-crunch"
+    "url": "https://www.techinasia.com/huawei-unveils-new-open-source-ai-model-openpangu"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "Korean chip stocks rebound after overnight US selloff, as chip supply remains tight",
+    "summary": "Korean chip stocks rebound after overnight US selloff, as chip supply remains tight",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/korean-chip-stocks-rebound-after-overnight-us-selloff-chip-supply-remains-tight-6239766"
   },
   {
     "date": "2026-07-07",
