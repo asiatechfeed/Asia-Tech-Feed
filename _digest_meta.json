@@ -1,39 +1,38 @@
 {
   "date": "2026-07-08",
-  "count": 10,
+  "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-08-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Foxsemicon June, 1H26 revenue hits record on AI orders",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260707PD233/foxsemicon-equipment-revenue-thailand-2026.html"
-    },
-    {
-      "title": "Foxconn pivots to strategic investing, says timing and team trump tech",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260707PD232/foxconn-technology-taiwan-investment-market.html"
-    },
-    {
-      "title": "Foxconn chair: Two of four AI customer groups yet to reach full-scale demand",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260707PD231/taiwan-foxconn-young-liu-demand-infrastructure.html"
-    },
-    {
-      "title": "ChipApex Strengthens Component Sourcing Services to Address Chip Supply Challenges",
+      "title": "Samsung Commences Mass Production of PCIe 6.0-based eSSD",
       "source": "EETAsia",
-      "url": "https://www.eetasia.com/chipapex-strengthens-component-sourcing-services-to-address-chip-supply-challenges/"
+      "url": "https://www.eetasia.com/samsung-commences-mass-production-of-pcie-6-0-based-essd/"
     },
     {
-      "title": "DeepSeek is developing its own inference chip",
+      "title": "Chinese equipment maker wins first large-format PLP lithography order for AI packaging equipment",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260708PD214/china-ai-packaging-equipment-demand.html"
+    },
+    {
+      "title": "Msscorps posts record 2Q revenue on AI and chip testing demand",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260706PD245/revenue-ai-chip-testing-demand-silicon.html"
+    },
+    {
+      "title": "Ant acquires 28% Boohee stake for AI health services",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinas-deepseek-eyes-10b-funding-at-45b-valuation"
+      "url": "https://www.techinasia.com/ant-group-profit-estimated-to-rise-10-to-1-2b"
+    },
+    {
+      "title": "Enterprise SSD shortage lifts DDR4 8Gb 3Q26 contract prices",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260708PD215/ddr4-ssd-market-demand-dram.html"
     }
   ],
   "source_stats": [
@@ -158,7 +157,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 25,
+      "relevant": 22,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +168,7 @@
       "fetched": 50,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
