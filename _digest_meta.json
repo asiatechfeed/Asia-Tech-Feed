@@ -1,38 +1,38 @@
 {
   "date": "2026-07-08",
-  "count": 8,
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-08-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Samsung Commences Mass Production of PCIe 6.0-based eSSD",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/samsung-commences-mass-production-of-pcie-6-0-based-essd/"
-    },
-    {
-      "title": "Chinese equipment maker wins first large-format PLP lithography order for AI packaging equipment",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260708PD214/china-ai-packaging-equipment-demand.html"
-    },
-    {
-      "title": "Msscorps posts record 2Q revenue on AI and chip testing demand",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260706PD245/revenue-ai-chip-testing-demand-silicon.html"
-    },
-    {
-      "title": "Ant acquires 28% Boohee stake for AI health services",
+      "title": "Alipay brings AI agent tools to offline merchants",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/ant-group-profit-estimated-to-rise-10-to-1-2b"
+      "url": "https://www.techinasia.com/alipay-launches-ai-commerce-protocol-with-qwen-in-chat-orders"
     },
     {
-      "title": "Enterprise SSD shortage lifts DDR4 8Gb 3Q26 contract prices",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260708PD215/ddr4-ssd-market-demand-dram.html"
+      "title": "Taiwan's premium chocolate makers earn global recognition but climate change threatens growth",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/taiwan-premium-chocolate-makers-earn-recognition-6238031"
+    },
+    {
+      "title": "Why basic ESG reporting won\u2019t lower Asian emissions, by Google",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/the-real-reason-apac-growth-doesnt-mean-more-emissions"
+    },
+    {
+      "title": "Ant Group\u2019s Robbyant open-sources robotics AI models",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/ant-groups-robbyant-open-sources-universal-robot-ai-model"
+    },
+    {
+      "title": "Temasek aims to more than double AI investment portfolio share to as much as 15% by 2031",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/temasek-ai-portfolio-investments-private-credit-infrastructure-6240171"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -150,14 +150,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 22,
+      "fetched": 47,
+      "relevant": 32,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
