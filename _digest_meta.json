@@ -1,38 +1,37 @@
 {
-  "date": "2026-07-08",
-  "count": 10,
+  "date": "2026-07-09",
+  "count": 7,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "NikkeiAsia",
+    "EETAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-08-asia-tech-news-digest.md",
+  "post_file": "2026-07-09-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Alipay brings AI agent tools to offline merchants",
+      "title": "TurtleTree bags new capital to scale lactoferrin output",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/alipay-launches-ai-commerce-protocol-with-qwen-in-chat-orders"
+      "url": "https://www.techinasia.com/turtletree-new-capital-scale-lactoferrin-output"
     },
     {
-      "title": "Taiwan's premium chocolate makers earn global recognition but climate change threatens growth",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/taiwan-premium-chocolate-makers-earn-recognition-6238031"
-    },
-    {
-      "title": "Why basic ESG reporting won\u2019t lower Asian emissions, by Google",
+      "title": "No data, no defense: How AI startups survive the tech giants",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/the-real-reason-apac-growth-doesnt-mean-more-emissions"
+      "url": "https://www.techinasia.com/why-lobby-capital-bets-on-ai-that-empowers-workers"
     },
     {
-      "title": "Ant Group\u2019s Robbyant open-sources robotics AI models",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/ant-groups-robbyant-open-sources-universal-robot-ai-model"
+      "title": "Asia VC leaders call for deeper cross-border tech investment at inaugural regional summit",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260708VL223/taiwan-venture-capital-asia-investment-taipei.html"
     },
     {
-      "title": "Temasek aims to more than double AI investment portfolio share to as much as 15% by 2031",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/temasek-ai-portfolio-investments-private-credit-infrastructure-6240171"
+      "title": "Novatek beats second-quarter revenue guidance on strong customer stockpiling",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260707PD242/revenue-novatek-display-forecast-performance.html"
+    },
+    {
+      "title": "ELAN revenue hit the top of forecast as notebook and AI products gained traction",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260707PD241/revenue-2026-forecast-production-business.html"
     }
   ],
   "source_stats": [
@@ -49,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -150,14 +149,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 47,
-      "relevant": 32,
+      "fetched": 64,
+      "relevant": 46,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -193,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
