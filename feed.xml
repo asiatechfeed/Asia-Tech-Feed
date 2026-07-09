@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-09T04:01:19+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 09, 2026</title><link href="https://asiatechfeed.com/2026/07/09/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 09, 2026" /><published>2026-07-09T03:59:55+00:00</published><updated>2026-07-09T03:59:55+00:00</updated><id>https://asiatechfeed.com/2026/07/09/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/09/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-09T08:06:54+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 09, 2026</title><link href="https://asiatechfeed.com/2026/07/09/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 09, 2026" /><published>2026-07-09T08:06:11+00:00</published><updated>2026-07-09T08:06:11+00:00</updated><id>https://asiatechfeed.com/2026/07/09/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/09/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -13,109 +13,69 @@
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Nvidia, Intel join AI startup Prime Intellect’s $130m round</span></td>
-  <td class="col-summary">Prime Intellect reached a US$100 million annualized revenue run rate shortly after its Series A funding.</td>
+  <td class="col-title"><span class="article-title">Hong Kong AI startup GIM raises $20m series A</span></td>
+  <td class="col-summary">The round was co-led by Hony Capital and an unnamed US venture capital firm, with participation from IDG Capital and existing investor Monolith Capital.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/amazon-to-use-ai-to-boost-film-tv-production" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">TrendForce: MLCC Book-to-Bill Ratios Reaching Post-pandemic Highs</span></td>
-  <td class="col-summary">Accelerating AI server platform upgrades have significantly boosted demand for high-end MLCCs, according to TrendForce. The post TrendForce: MLCC Book-to-Bill Ratios Reaching Post-pandemic Highs appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/trendforce-mlcc-book-to-bill-ratios-reaching-post-pandemic-highs/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">CXMT IPO leaves HBM off the funding list, tempering China AI memory hype</span></td>
+  <td class="col-summary">CXMT's STAR Market IPO suggests China's largest DRAM maker is prioritizing commodity memory over an aggressive near-term push into high-bandwidth memory (HBM). This eases concerns that Chinese suppliers are about to challenge the dominance of Samsung Electronics, SK Hynix, and Micron in AI memory.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260709VL216/cxmt-hbm-ipo-dram-funding.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Mistral AI introduces navigation model for robots</span></td>
-  <td class="col-summary">Robostral Navigate uses a single camera and RGB images to guide various types of robots.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/mistral-ai-raises-2b-series-c-at-13-8b-valuation" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Chinese Rockchip expects 1H26 revenue and profit to rise on AIoT demand</span></td>
+  <td class="col-summary">Rockchip Electronics has forecast strong growth in revenue and profit for the first half of 2026, citing sustained demand for its AIoT chip platforms despite supply chain pressures affecting the broader electronics industry.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260708VL203/profit-revenue-demand-rockchip-forecast.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">MIPS Discusses RISC-V Shift</span></td>
-  <td class="col-summary">MIPS bets RISC-V and ARC AI will power physical AI in cars and factory robots. Find out more in this interview. The post MIPS Discusses RISC-V Shift appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/mips-discusses-risc-v-shift/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Apple's Broadcom deal extension shows wireless independence remains a distant dream</span></td>
+  <td class="col-summary">Apple's decision to extend its wireless transmission and RF chip supply agreement with Broadcom through 2031 signals that its shift to fully in-house connectivity is a project measured in years, not quarters. For global consumers, the move suggests Apple will likely continue mixing its own chips with those from outside</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260708PD224/apple-wireless-broadcom-chips-transmission.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Meta to build $9b AI data center in Canada</span></td>
-  <td class="col-summary">The project will take two to three years to complete and support Meta’s expansion of infrastructure for AI services.</td>
+  <td class="col-title"><span class="article-title">Behind the biggest consumer AI adoption trap with Meta’s CTO</span></td>
+  <td class="col-summary">Andrew Bosworth explains how Meta fell behind on Llama 4, and why AI strategy now dictates model routing, hardware bets, and workplace trust.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-microsoft-leases-push-cloud-tally-past-850b" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/metas-cto-says-ai-races-are-lost-before-they-even-start" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">What China's rumored limited reopening to Nvidia's H200 implies for US-China chip contest and Beijing's drive for self-reliance</span></td>
-  <td class="col-summary">China's rumored tentative plan to allow a handful of its largest artificial intelligence (AI) companies to purchase a small number of Nvidia H200 chips has implications that extend well beyond a single procurement decision. The plan is possibly, though not only, for the shifting balance between US export leverage and B</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260709VL201/beijing-chips-nvidia-training.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Taiwan bets on premium coffee, with Alishan’s beans commanding some of the world's highest prices</span></td>
+  <td class="col-summary">In the final instalment of a three-part series on Taiwan beyond semiconductors, CNA looks at how the island is building a reputation for small-batch specialty coffee.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/taiwan-premium-coffee-beans-alishan-6240876" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Analog Devices acquires Empower Semiconductor and enters AI power market</span></td>
-  <td class="col-summary">Analog Devices (ADI) announced that it has completed its acquisition of Empower Semiconductor, a move it said is designed to bolster the company's role as a comprehensive power partner spanning the entire AI ecosystem, from grid infrastructure to core computing systems.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260709VL208/analog-devices-market-acquisition-infrastructure-technology.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Crypto VC firm Paradigm raises $1.2b for AI, robotics fund</span></td>
+  <td class="col-summary">True Anomaly, backed by Paradigm, secured a $30M US Space Force contract for a space mission.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sequoia-capital-joins-harmonic-ais-100m-funding" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Analysis: Sovereign AI is chipmaking's next growth driver — but not everyone gets a seat</span></td>
-  <td class="col-summary">Where will cloud AI's next wave of growth come from? Increasingly, the market is answering with two words: sovereign AI.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260709PD213/growth-cloud-ai-chips-market-demand.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Wolfspeed Suing Navitas Over Alleged WBG Semiconductor Patent Infringement</span></td>
-  <td class="col-summary">Wolfspeed has filed a U.S. patent infringement lawsuit alleging Navitas products violate multiple wide bandgap semiconductor patents. The post Wolfspeed Suing Navitas Over Alleged WBG Semiconductor Patent Infringement appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/wolfspeed-suing-navitas-over-alleged-wbg-semiconductor-patent-infringement/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">LG's $1bn move shows Vietnam climbing semiconductor value chain</span></td>
-  <td class="col-summary">LG's $1bn move shows Vietnam climbing semiconductor value chain</td>
+  <td class="col-title"><span class="article-title">Chipmakers are preparing for years of expansion: Applied Materials CEO</span></td>
+  <td class="col-summary">Chipmakers are preparing for years of expansion: Applied Materials CEO</td>
   <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/lg-s-1bn-move-shows-vietnam-climbing-semiconductor-value-chain" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">AI trade isn’t just about tech stocks but also power, TCW says</span></td>
-  <td class="col-summary">The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">No career ambition, no ego: AI plays devil's advocate at Audax Private Equity</span></td>
-  <td class="col-summary">Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">13</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate</span></td>
-  <td class="col-summary">EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease</td>
-  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/bio-pharma/newsView/ked202603100001" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/editor-s-picks/interview/chipmakers-are-preparing-for-years-of-expansion-applied-materials-ceo" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Nvidia, Intel join AI startup Prime Intellect’s $130m round Prime Intellect reached a US$100 million annualized revenue run rate shortly after its Series A funding. AI Read 2 EETAsia TrendForce: MLCC Book-to-Bill Ratios Reaching Post-pandemic Highs Accelerating AI server platform upgrades have significantly boosted demand for high-end MLCCs, according to TrendForce. The post TrendForce: MLCC Book-to-Bill Ratios Reaching Post-pandemic Highs appeared first on EE Times Asia . AI Read 3 TechAsia Mistral AI introduces navigation model for robots Robostral Navigate uses a single camera and RGB images to guide various types of robots. AIAutomation Read 4 EETAsia MIPS Discusses RISC-V Shift MIPS bets RISC-V and ARC AI will power physical AI in cars and factory robots. Find out more in this interview. The post MIPS Discusses RISC-V Shift appeared first on EE Times Asia . AIAutomation Read 5 TechAsia Meta to build $9b AI data center in Canada The project will take two to three years to complete and support Meta’s expansion of infrastructure for AI services. AI Read 6 DigiTimes What China's rumored limited reopening to Nvidia's H200 implies for US-China chip contest and Beijing's drive for self-reliance China's rumored tentative plan to allow a handful of its largest artificial intelligence (AI) companies to purchase a small number of Nvidia H200 chips has implications that extend well beyond a single procurement decision. The plan is possibly, though not only, for the shifting balance between US export leverage and B AISemiconductor Read 7 DigiTimes Analog Devices acquires Empower Semiconductor and enters AI power market Analog Devices (ADI) announced that it has completed its acquisition of Empower Semiconductor, a move it said is designed to bolster the company's role as a comprehensive power partner spanning the entire AI ecosystem, from grid infrastructure to core computing systems. SemiconductorAI Read 8 DigiTimes Analysis: Sovereign AI is chipmaking's next growth driver — but not everyone gets a seat Where will cloud AI's next wave of growth come from? Increasingly, the market is answering with two words: sovereign AI. AISemiconductor Read 9 EETAsia Wolfspeed Suing Navitas Over Alleged WBG Semiconductor Patent Infringement Wolfspeed has filed a U.S. patent infringement lawsuit alleging Navitas products violate multiple wide bandgap semiconductor patents. The post Wolfspeed Suing Navitas Over Alleged WBG Semiconductor Patent Infringement appeared first on EE Times Asia . Semiconductor Read 10 NikkeiAsia LG's $1bn move shows Vietnam climbing semiconductor value chain LG's $1bn move shows Vietnam climbing semiconductor value chain Semiconductor Read 11 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun AISemiconductor Read 12 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass AI Read 13 KED EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease Biotechnology Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 08, 2026</title><link href="https://asiatechfeed.com/2026/07/08/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 08, 2026" /><published>2026-07-08T08:01:02+00:00</published><updated>2026-07-08T08:01:02+00:00</updated><id>https://asiatechfeed.com/2026/07/08/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/08/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Hong Kong AI startup GIM raises $20m series A The round was co-led by Hony Capital and an unnamed US venture capital firm, with participation from IDG Capital and existing investor Monolith Capital. AI Read 2 DigiTimes CXMT IPO leaves HBM off the funding list, tempering China AI memory hype CXMT's STAR Market IPO suggests China's largest DRAM maker is prioritizing commodity memory over an aggressive near-term push into high-bandwidth memory (HBM). This eases concerns that Chinese suppliers are about to challenge the dominance of Samsung Electronics, SK Hynix, and Micron in AI memory. ElectronicsAI Read 3 DigiTimes Chinese Rockchip expects 1H26 revenue and profit to rise on AIoT demand Rockchip Electronics has forecast strong growth in revenue and profit for the first half of 2026, citing sustained demand for its AIoT chip platforms despite supply chain pressures affecting the broader electronics industry. ElectronicsSemiconductorLogistics Read 4 DigiTimes Apple's Broadcom deal extension shows wireless independence remains a distant dream Apple's decision to extend its wireless transmission and RF chip supply agreement with Broadcom through 2031 signals that its shift to fully in-house connectivity is a project measured in years, not quarters. For global consumers, the move suggests Apple will likely continue mixing its own chips with those from outside Semiconductor Read 5 TechAsia Behind the biggest consumer AI adoption trap with Meta’s CTO Andrew Bosworth explains how Meta fell behind on Llama 4, and why AI strategy now dictates model routing, hardware bets, and workplace trust. AI Read 6 CNA Taiwan bets on premium coffee, with Alishan’s beans commanding some of the world's highest prices In the final instalment of a three-part series on Taiwan beyond semiconductors, CNA looks at how the island is building a reputation for small-batch specialty coffee. Semiconductor Read 7 TechAsia Crypto VC firm Paradigm raises $1.2b for AI, robotics fund True Anomaly, backed by Paradigm, secured a $30M US Space Force contract for a space mission. Automation Read 8 NikkeiAsia Chipmakers are preparing for years of expansion: Applied Materials CEO Chipmakers are preparing for years of expansion: Applied Materials CEO Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 08, 2026</title><link href="https://asiatechfeed.com/2026/07/08/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 08, 2026" /><published>2026-07-08T08:01:02+00:00</published><updated>2026-07-08T08:01:02+00:00</updated><id>https://asiatechfeed.com/2026/07/08/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/08/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>

@@ -1,152 +1,94 @@
 [
   {
     "date": "2026-07-09",
-    "title": "Nvidia, Intel join AI startup Prime Intellect’s $130m round",
-    "summary": "Prime Intellect reached a US$100 million annualized revenue run rate shortly after its Series A funding.",
+    "title": "Hong Kong AI startup GIM raises $20m series A",
+    "summary": "The round was co-led by Hony Capital and an unnamed US venture capital firm, with participation from IDG Capital and existing investor Monolith Capital.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/amazon-to-use-ai-to-boost-film-tv-production"
+    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
   },
   {
     "date": "2026-07-09",
-    "title": "TrendForce: MLCC Book-to-Bill Ratios Reaching Post-pandemic Highs",
-    "summary": "Accelerating AI server platform upgrades have significantly boosted demand for high-end MLCCs, according to TrendForce. The post TrendForce: MLCC Book-to-Bill Ratios Reaching Post-pandemic Highs appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/trendforce-mlcc-book-to-bill-ratios-reaching-post-pandemic-highs/"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "Mistral AI introduces navigation model for robots",
-    "summary": "Robostral Navigate uses a single camera and RGB images to guide various types of robots.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI",
-      "Automation"
-    ],
-    "url": "https://www.techinasia.com/mistral-ai-raises-2b-series-c-at-13-8b-valuation"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "MIPS Discusses RISC-V Shift",
-    "summary": "MIPS bets RISC-V and ARC AI will power physical AI in cars and factory robots. Find out more in this interview. The post MIPS Discusses RISC-V Shift appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI",
-      "Automation"
-    ],
-    "url": "https://www.eetasia.com/mips-discusses-risc-v-shift/"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "Meta to build $9b AI data center in Canada",
-    "summary": "The project will take two to three years to complete and support Meta’s expansion of infrastructure for AI services.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/meta-microsoft-leases-push-cloud-tally-past-850b"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "What China's rumored limited reopening to Nvidia's H200 implies for US-China chip contest and Beijing's drive for self-reliance",
-    "summary": "China's rumored tentative plan to allow a handful of its largest artificial intelligence (AI) companies to purchase a small number of Nvidia H200 chips has implications that extend well beyond a single procurement decision. The plan is possibly, though not only, for the shifting balance between US export leverage and B",
+    "title": "CXMT IPO leaves HBM off the funding list, tempering China AI memory hype",
+    "summary": "CXMT's STAR Market IPO suggests China's largest DRAM maker is prioritizing commodity memory over an aggressive near-term push into high-bandwidth memory (HBM). This eases concerns that Chinese suppliers are about to challenge the dominance of Samsung Electronics, SK Hynix, and Micron in AI memory.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI",
-      "Semiconductor"
+      "Electronics",
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260709VL201/beijing-chips-nvidia-training.html"
+    "url": "https://www.digitimes.com/news/a20260709VL216/cxmt-hbm-ipo-dram-funding.html"
   },
   {
     "date": "2026-07-09",
-    "title": "Analog Devices acquires Empower Semiconductor and enters AI power market",
-    "summary": "Analog Devices (ADI) announced that it has completed its acquisition of Empower Semiconductor, a move it said is designed to bolster the company's role as a comprehensive power partner spanning the entire AI ecosystem, from grid infrastructure to core computing systems.",
+    "title": "Chinese Rockchip expects 1H26 revenue and profit to rise on AIoT demand",
+    "summary": "Rockchip Electronics has forecast strong growth in revenue and profit for the first half of 2026, citing sustained demand for its AIoT chip platforms despite supply chain pressures affecting the broader electronics industry.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
+      "Electronics",
       "Semiconductor",
-      "AI"
+      "Logistics"
     ],
-    "url": "https://www.digitimes.com/news/a20260709VL208/analog-devices-market-acquisition-infrastructure-technology.html"
+    "url": "https://www.digitimes.com/news/a20260708VL203/profit-revenue-demand-rockchip-forecast.html"
   },
   {
     "date": "2026-07-09",
-    "title": "Analysis: Sovereign AI is chipmaking's next growth driver — but not everyone gets a seat",
-    "summary": "Where will cloud AI's next wave of growth come from? Increasingly, the market is answering with two words: sovereign AI.",
+    "title": "Apple's Broadcom deal extension shows wireless independence remains a distant dream",
+    "summary": "Apple's decision to extend its wireless transmission and RF chip supply agreement with Broadcom through 2031 signals that its shift to fully in-house connectivity is a project measured in years, not quarters. For global consumers, the move suggests Apple will likely continue mixing its own chips with those from outside",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260709PD213/growth-cloud-ai-chips-market-demand.html"
+    "url": "https://www.digitimes.com/news/a20260708PD224/apple-wireless-broadcom-chips-transmission.html"
   },
   {
     "date": "2026-07-09",
-    "title": "Wolfspeed Suing Navitas Over Alleged WBG Semiconductor Patent Infringement",
-    "summary": "Wolfspeed has filed a U.S. patent infringement lawsuit alleging Navitas products violate multiple wide bandgap semiconductor patents. The post Wolfspeed Suing Navitas Over Alleged WBG Semiconductor Patent Infringement appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "Behind the biggest consumer AI adoption trap with Meta’s CTO",
+    "summary": "Andrew Bosworth explains how Meta fell behind on Llama 4, and why AI strategy now dictates model routing, hardware bets, and workplace trust.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/metas-cto-says-ai-races-are-lost-before-they-even-start"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "Taiwan bets on premium coffee, with Alishan’s beans commanding some of the world's highest prices",
+    "summary": "In the final instalment of a three-part series on Taiwan beyond semiconductors, CNA looks at how the island is building a reputation for small-batch specialty coffee.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/wolfspeed-suing-navitas-over-alleged-wbg-semiconductor-patent-infringement/"
+    "url": "https://www.channelnewsasia.com/east-asia/taiwan-premium-coffee-beans-alishan-6240876"
   },
   {
     "date": "2026-07-09",
-    "title": "LG's $1bn move shows Vietnam climbing semiconductor value chain",
-    "summary": "LG's $1bn move shows Vietnam climbing semiconductor value chain",
+    "title": "Crypto VC firm Paradigm raises $1.2b for AI, robotics fund",
+    "summary": "True Anomaly, backed by Paradigm, secured a $30M US Space Force contract for a space mission.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/sequoia-capital-joins-harmonic-ais-100m-funding"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "Chipmakers are preparing for years of expansion: Applied Materials CEO",
+    "summary": "Chipmakers are preparing for years of expansion: Applied Materials CEO",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/lg-s-1bn-move-shows-vietnam-climbing-semiconductor-value-chain"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
-    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
-    "source": "KED Global",
-    "short": "KED",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "No career ambition, no ego: AI plays devil's advocate at Audax Private Equity",
-    "summary": "Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass",
-    "source": "KED Global",
-    "short": "KED",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.kedglobal.com/private-equity/newsView/ked202603120002"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate",
-    "summary": "EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease",
-    "source": "KED Global",
-    "short": "KED",
-    "tags": [
-      "Biotechnology"
-    ],
-    "url": "https://www.kedglobal.com/bio-pharma/newsView/ked202603100001"
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/chipmakers-are-preparing-for-years-of-expansion-applied-materials-ceo"
   },
   {
     "date": "2026-07-08",
