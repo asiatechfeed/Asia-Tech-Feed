@@ -1,39 +1,38 @@
 {
   "date": "2026-07-09",
-  "count": 13,
+  "count": 8,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "EETAsia",
-    "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-09-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Nvidia, Intel join AI startup Prime Intellect\u2019s $130m round",
+      "title": "Hong Kong AI startup GIM raises $20m series A",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/amazon-to-use-ai-to-boost-film-tv-production"
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
     },
     {
-      "title": "TrendForce: MLCC Book-to-Bill Ratios Reaching Post-pandemic Highs",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/trendforce-mlcc-book-to-bill-ratios-reaching-post-pandemic-highs/"
+      "title": "CXMT IPO leaves HBM off the funding list, tempering China AI memory hype",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260709VL216/cxmt-hbm-ipo-dram-funding.html"
     },
     {
-      "title": "Mistral AI introduces navigation model for robots",
+      "title": "Chinese Rockchip expects 1H26 revenue and profit to rise on AIoT demand",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260708VL203/profit-revenue-demand-rockchip-forecast.html"
+    },
+    {
+      "title": "Apple's Broadcom deal extension shows wireless independence remains a distant dream",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260708PD224/apple-wireless-broadcom-chips-transmission.html"
+    },
+    {
+      "title": "Behind the biggest consumer AI adoption trap with Meta\u2019s CTO",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/mistral-ai-raises-2b-series-c-at-13-8b-valuation"
-    },
-    {
-      "title": "MIPS Discusses RISC-V Shift",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/mips-discusses-risc-v-shift/"
-    },
-    {
-      "title": "Meta to build $9b AI data center in Canada",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/meta-microsoft-leases-push-cloud-tally-past-850b"
+      "url": "https://www.techinasia.com/metas-cto-says-ai-races-are-lost-before-they-even-start"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -151,14 +150,14 @@
       "fetched": 10,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 52,
-      "relevant": 36,
+      "fetched": 75,
+      "relevant": 54,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +166,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 6,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -178,7 +177,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 25,
+      "relevant": 20,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
