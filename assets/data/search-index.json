@@ -1,114 +1,97 @@
 [
   {
     "date": "2026-07-10",
-    "title": "Taiwan just built its own robot dog — its first mission: fighting fires",
-    "summary": "It walks, it climbs, it reads gauges — and it's 100% homegrown. Taiwan's first domestically developed quadruped robot dog platform officially debuted on July 8, after the Industrial Technology Research Institute (ITRI) spent more than a year working with local academia and industry to complete two prototype models.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Tencent in talks to become Manus’ biggest shareholder",
+    "summary": "The move comes as Manus' investors seek alternatives after Beijing ordered Meta to unwind its acquisition of the AI startup.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "Automation"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260709PD216/taiwan-robot-robotics-inspection-development.html"
+    "url": "https://www.techinasia.com/tencentbacked-enflame-wins-approval-888m-shanghai-ipo"
   },
   {
     "date": "2026-07-10",
-    "title": "Commentary: China can ban AI boyfriends. It can’t make men listen",
-    "summary": "China is set to become the first country to impose rules aimed at curbing the harms of anthropomorphic AI. Bloomberg Opinion's Catherine Thorbecke explains why Beijing is right to do so.",
+    "title": "Samsung readies AI PC chip for Lenovo, HP testing",
+    "summary": "AI PCs are emerging as a new battleground in semiconductors after data centers.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/samsung-eyes-ai-server-packaging-expansion"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "Tencent in talks to become AI start-up Manus' largest shareholder, FT reports",
+    "summary": "Tencent in talks to become AI start-up Manus' largest shareholder, FT reports",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/commentary/china-ai-companions-rules-anthropomorphic-ai-6243236"
+    "url": "https://www.channelnewsasia.com/business/tencent-in-talks-become-ai-start-up-manus-largest-shareholder-ft-reports-6245476"
   },
   {
     "date": "2026-07-10",
-    "title": "TSMC, ASML, and Imec target 2D chip mass production in Taiwan within five years",
-    "summary": "ASML, Imec and TSMC are collaborating in southern Taiwan to develop manufacturing equipment for two-dimensional (2D) semiconductor materials, marking a significant step toward commercializing technologies widely viewed as essential for extending Moore's Law beyond the limits of conventional silicon scaling.",
+    "title": "GlobalWafers-Micron deal pushes US semiconductor localization beyond chip fabs",
+    "summary": "GlobalWafers and Micron have signed a 10-year supply agreement, alongside US$500 million in strategic financial support, in a move that underscores how artificial intelligence (AI), high-performance computing (HPC), data centers, and advanced memory demand are reshaping semiconductor sourcing. The deal extends US suppl",
     "source": "DigiTimes",
     "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260710PD206/globalwafers-micron-semiconductors-localization-capacity-equipment.html"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "India scraps duties on electronics and battery components to boost local manufacturing",
+    "summary": "India has scrapped import duties on a targeted set of components and factory machinery used to build smartphones, displays, and lithium-ion cells, a move that deepens New Delhi's drive to pull more of the global electronics supply chain onto Indian soil and away from China and Vietnam.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260710VL202/electronics-manufacturing-production-display.html"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "CHPT chief: AI demand is set to strain capacity and reshape Taiwan's industrial priorities",
+    "summary": "Chunghwa Precision Test Tech president Scott Huang said on July 7 that the company's biggest challenge over the next five years will be capacity as artificial intelligence demand surges across the semiconductor supply chain. He also urged Taiwan to increase investment in quantum technology and nuclear fusion, saying bo",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260708PD225/taiwan-demand-chpt-capacity-president.html"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "The AI health tracker getting women heard by their doctors",
+    "summary": "Ovum AI acts as a longitudinal memory system, generating appointment-ready questions so female patients stop getting dismissed by doctors.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/ai-health-tracker-women-heard-doctors"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "SK Hynix: South Korean memory chip titan raises $26.5bn in the US",
+    "summary": "SK Hynix: South Korean memory chip titan raises $26.5bn in the US",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260708PD233/asml-tsmc-taiwan-production-materials.html"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "Z.ai widens lead over MiniMax: China's AI model race shifts from scale to staying power",
-    "summary": "China's AI model race is moving beyond parameter size, benchmark rankings and user buzz. Investors are now asking which companies can turn model spending into durable revenue, pricing power and enterprise workflows.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260709VL210/z.ai-revenue-market.html"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "HSBC survey: 76% of Singapore investors use AI",
-    "summary": "It added that 8% named AI as the most influential source in their last large investment decision, below the 12% global figure.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/hsbc-partners-mistral-genai-tools-bank"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "Tencent inks first carbon removal deal outside China",
-    "summary": "Tencent said it is targeting carbon neutrality across its operations and supply chain by 2030.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Logistics"
-    ],
-    "url": "https://www.techinasia.com/tencent-cloud-taps-hong-kong-as-global-expansion-hub"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "Victory Giant, WUS ramp up AI PCB investment",
-    "summary": "Victory Giant Technology, a PCB manufacturer in Guangdong province in southern China, raised first-quarter capital expenditure to 3.6 billion yuan (US$530 million).",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI",
-      "Electronics"
-    ],
-    "url": "https://www.techinasia.com/chinese-ai-hardware-firm-victory-giant-eyes-2-2b-hong-kong-ipo"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "Japan's Taisei, Fanuc develop AI warehouse that doubles space efficiency",
-    "summary": "Japan's Taisei, Fanuc develop AI warehouse that doubles space efficiency",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-taisei-fanuc-develop-ai-warehouse-that-doubles-space-efficiency"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "Mitsubishi Motors to make humanoid robots for its own auto factories",
-    "summary": "Mitsubishi Motors to make humanoid robots for its own auto factories",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Automation"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/mitsubishi-motors-to-make-humanoid-robots-for-its-own-auto-factories"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "Hong Kong's Mideast pivot and China's AI persona woes",
-    "summary": "Hong Kong's Mideast pivot and China's AI persona woes",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/techasia/hong-kong-s-mideast-pivot-and-china-s-ai-persona-woes"
+    "url": "https://asia.nikkei.com/business/markets/ipo/sk-hynix-south-korean-memory-chip-titan-raises-26.5bn-in-the-us"
   },
   {
     "date": "2026-07-09",

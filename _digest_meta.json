@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "count": 10,
+  "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -10,29 +10,29 @@
   "post_file": "2026-07-10-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Taiwan just built its own robot dog \u2014 its first mission: fighting fires",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260709PD216/taiwan-robot-robotics-inspection-development.html"
-    },
-    {
-      "title": "Commentary: China can ban AI boyfriends. It can\u2019t make men listen",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/china-ai-companions-rules-anthropomorphic-ai-6243236"
-    },
-    {
-      "title": "TSMC, ASML, and Imec target 2D chip mass production in Taiwan within five years",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260708PD233/asml-tsmc-taiwan-production-materials.html"
-    },
-    {
-      "title": "Z.ai widens lead over MiniMax: China's AI model race shifts from scale to staying power",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260709VL210/z.ai-revenue-market.html"
-    },
-    {
-      "title": "HSBC survey: 76% of Singapore investors use AI",
+      "title": "Tencent in talks to become Manus\u2019 biggest shareholder",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/hsbc-partners-mistral-genai-tools-bank"
+      "url": "https://www.techinasia.com/tencentbacked-enflame-wins-approval-888m-shanghai-ipo"
+    },
+    {
+      "title": "Samsung readies AI PC chip for Lenovo, HP testing",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/samsung-eyes-ai-server-packaging-expansion"
+    },
+    {
+      "title": "Tencent in talks to become AI start-up Manus' largest shareholder, FT reports",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/tencent-in-talks-become-ai-start-up-manus-largest-shareholder-ft-reports-6245476"
+    },
+    {
+      "title": "GlobalWafers-Micron deal pushes US semiconductor localization beyond chip fabs",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260710PD206/globalwafers-micron-semiconductors-localization-capacity-equipment.html"
+    },
+    {
+      "title": "India scraps duties on electronics and battery components to boost local manufacturing",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260710VL202/electronics-manufacturing-production-display.html"
     }
   ],
   "source_stats": [
@@ -156,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 28,
+      "fetched": 53,
+      "relevant": 41,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +168,7 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
