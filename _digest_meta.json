@@ -1,38 +1,38 @@
 {
   "date": "2026-07-10",
-  "count": 8,
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
-    "NikkeiAsia",
+    "EETAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-10-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Tencent in talks to become Manus\u2019 biggest shareholder",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/tencentbacked-enflame-wins-approval-888m-shanghai-ipo"
-    },
-    {
-      "title": "Samsung readies AI PC chip for Lenovo, HP testing",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/samsung-eyes-ai-server-packaging-expansion"
-    },
-    {
-      "title": "Tencent in talks to become AI start-up Manus' largest shareholder, FT reports",
+      "title": "SK Hynix set for marquee US debut in test for AI appetite",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/tencent-in-talks-become-ai-start-up-manus-largest-shareholder-ft-reports-6245476"
+      "url": "https://www.channelnewsasia.com/business/sk-hynix-set-marquee-us-debut-in-test-ai-appetite-6245846"
     },
     {
-      "title": "GlobalWafers-Micron deal pushes US semiconductor localization beyond chip fabs",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260710PD206/globalwafers-micron-semiconductors-localization-capacity-equipment.html"
+      "title": "MiniMax seeks $2b for AI expansion",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/ai-stocks-zhipu-minimax-face-11-5b-lock-up-expiry"
     },
     {
-      "title": "India scraps duties on electronics and battery components to boost local manufacturing",
+      "title": "Apple's US$30 billion Broadcom deal puts its server-chip plans back in focus",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260710VL202/electronics-manufacturing-production-display.html"
+      "url": "https://www.digitimes.com/news/a20260710VL217/apple-broadcom-silicon-partnership-asic.html"
+    },
+    {
+      "title": "Taiwan firms race ahead on AI agents, raising governance stakes",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260710PD209/google-cloud-ai-agent-governance-business-taiwan.html"
+    },
+    {
+      "title": "South Korean chip titan SK hynix raises US$26.5 billion in blockbuster US listing",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/sk-hynix-us-listing-ai-chips-stocks-6245691"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -148,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 53,
-      "relevant": 41,
+      "fetched": 68,
+      "relevant": 53,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +168,7 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 16,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
