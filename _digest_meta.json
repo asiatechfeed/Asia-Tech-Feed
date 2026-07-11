@@ -1,38 +1,37 @@
 {
   "date": "2026-07-11",
-  "count": 12,
+  "count": 7,
   "sources": [
     "CNA",
     "DigiTimes",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-11-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Meta discontinues AI image feature days after launch",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/meta-discontinues-ai-image-feature-days-after-launch-6247581"
+      "title": "Intel spinout Altera eyes IPO, sees 20% annual growth",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/intels-foundry-strategy-focus-earnings"
     },
     {
-      "title": "Apple sues OpenAI as its own suppliers Foxconn and Luxshare line up behind a rival device",
+      "title": "US eases export curbs on UAE for AI chips",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/us-approves-advanced-chip-sales-to-abu-dhabis-g42"
+    },
+    {
+      "title": "Meta drops AI image feature after rollout",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/meta-eyes-ai-cloud-sell-compute-hosted-models"
+    },
+    {
+      "title": "Meta scraps AI image feature days after launch following privacy backlash",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash-6247581"
+    },
+    {
+      "title": "SK Hynix breaks Alibaba's US listing record \u2014 but HBM customers will wait until 2028 for the capacity it funds",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260711VL200/apple-openai-foxconn-luxshare-hardware.html"
-    },
-    {
-      "title": "SK hynix: From near collapse to AI chip powerhouse behind record US listing",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/sk-hynix-story-record-us-listing-ai-chips-6245921"
-    },
-    {
-      "title": "South Korean chip giant SK hynix surges on first day of trading on Wall Street",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/south-korean-chip-giant-sk-hynix-surges-first-day-trading-wall-street-6247311"
-    },
-    {
-      "title": "China's temporary helium export ban signals fears of a prolonged Middle East supply squeeze",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260710VL223/ban-qatar-2026-beijing-medical.html"
+      "url": "https://www.digitimes.com/news/a20260710VL221/sk-hynix-expansion-equipment-nasdaq-packaging.html"
     }
   ],
   "source_stats": [
@@ -49,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -148,7 +147,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 6,
+      "relevant": 5,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -168,7 +167,7 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
