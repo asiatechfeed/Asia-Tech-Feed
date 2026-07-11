@@ -1,82 +1,71 @@
 [
   {
     "date": "2026-07-11",
-    "title": "Intel spinout Altera eyes IPO, sees 20% annual growth",
-    "summary": "Altera has cut Intel transition service agreements from 125 to 15 as it develops new chip technologies.",
+    "title": "Mapping the startups setting the pace in Korea’s AI sector",
+    "summary": "Mapping Korea's AI sector: Key players, top investors, and funding insights in one report.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.techinasia.com/intels-foundry-strategy-focus-earnings"
+    "url": "https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups"
   },
   {
     "date": "2026-07-11",
-    "title": "US eases export curbs on UAE for AI chips",
-    "summary": "G42 plans a 5-gigawatt UAE-US AI campus supported by US-approved advanced AI chip exports.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Song Chuan hits record June revenue on AI power and storage demand",
+    "summary": "Relay supplier Song Chuan Precision reported record June 2026 revenue as customer orders rose and its acquisition of solenoid valve maker Tai Hsing Electronics was folded into its books. The company said the second half should stay supported by demand in new energy and AI power applications.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260709PD237/revenue-demand-supplier-2026-acquisition.html"
+  },
+  {
+    "date": "2026-07-11",
+    "title": "Lianyou Metals posts record second-quarter revenue as tungsten supply tightens",
+    "summary": "Lianyou Metals, a rare metals recycler focused on tungsten and cobalt, said its June consolidated revenue reached NT$750 million (US$23.36 million), up 22% from May and 555% from a year earlier. The Taiwan-based company also reported second-quarter consolidated revenue of NT$1.9 billion, rising 92% from the first quart",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260709PD240/revenue-plant-demand-growth-production.html"
+  },
+  {
+    "date": "2026-07-11",
+    "title": "WITS posts record first-half revenue as AI and chip design drive growth",
+    "summary": "WITS reported consolidated revenue of NT$1.233 billion (US$38.41 million) in June, up 7.3% from May and 37.1% from a year earlier. The Taiwan-based IT services provider also said second-quarter revenue reached NT$3.623 billion, a quarterly increase of 6.6% and a yearly gain of 33.1%, while first-half revenue climbed 30",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/us-approves-advanced-chip-sales-to-abu-dhabis-g42"
+    "url": "https://www.digitimes.com/news/a20260709PD241/wistron-revenue-growth-finance-semiconductors.html"
   },
   {
     "date": "2026-07-11",
-    "title": "Meta drops AI image feature after rollout",
-    "summary": "Meta removed the AI image generation tool just days after its rollout due to user feedback.",
+    "title": "Kraken plans app relaunch with AI trading agents",
+    "summary": "Kraken's app will use AI to learn user preferences and draft crypto portfolios for approval.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/meta-eyes-ai-cloud-sell-compute-hosted-models"
+    "url": "https://www.techinasia.com/kraken-confidentially-files-ipo-sources"
   },
   {
     "date": "2026-07-11",
-    "title": "Meta scraps AI image feature days after launch following privacy backlash",
-    "summary": "Meta scraps AI image feature days after launch following privacy backlash",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "Big ideas, bigger bills",
+    "summary": "Robotera, Alta, Adage Automation, and more raised funds this week.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "AI"
+      "Automation"
     ],
-    "url": "https://www.channelnewsasia.com/business/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash-6247581"
-  },
-  {
-    "date": "2026-07-11",
-    "title": "SK Hynix breaks Alibaba's US listing record — but HBM customers will wait until 2028 for the capacity it funds",
-    "summary": "SK Hynix has priced a US$26.5 billion Nasdaq offering, giving the world's leading supplier of high-bandwidth memory fresh capital to expand DRAM wafer production, advanced packaging and leading-edge manufacturing equipment at the same time.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260710VL221/sk-hynix-expansion-equipment-nasdaq-packaging.html"
-  },
-  {
-    "date": "2026-07-11",
-    "title": "ASE Holdings posts record 2Q26 revenue, bets US$40M on South Korea as AI packaging demand surges",
-    "summary": "ASE Holdings posted record second-quarter and first-half 2026 revenue, driven by strong demand for advanced semiconductor packaging and testing, conventional backend services and AI-related applications. June revenue reached its second-highest monthly level on record, while quarterly growth exceeded the company's previ",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260710PD249/revenue-ase-packaging-capacity-2026.html"
-  },
-  {
-    "date": "2026-07-11",
-    "title": "Nanya Technology posts record profit as gross margin nears 80%",
-    "summary": "Nanya Technology posted record quarterly profit after a more than 60% rise in average DRAM selling prices lifted its gross margin to 79.5%, with the Taiwanese memory chipmaker expecting prices and margins to improve further in the second half.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260710PD248/nanya-technology-profit-gross-margin-dram-2026.html"
+    "url": "https://www.techinasia.com/big-ideas-bigger-bills"
   },
   {
     "date": "2026-07-10",

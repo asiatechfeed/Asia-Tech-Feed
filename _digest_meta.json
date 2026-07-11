@@ -1,37 +1,36 @@
 {
   "date": "2026-07-11",
-  "count": 7,
+  "count": 6,
   "sources": [
-    "CNA",
     "DigiTimes",
     "TechAsia"
   ],
   "post_file": "2026-07-11-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Intel spinout Altera eyes IPO, sees 20% annual growth",
+      "title": "Mapping the startups setting the pace in Korea\u2019s AI sector",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/intels-foundry-strategy-focus-earnings"
+      "url": "https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups"
     },
     {
-      "title": "US eases export curbs on UAE for AI chips",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/us-approves-advanced-chip-sales-to-abu-dhabis-g42"
-    },
-    {
-      "title": "Meta drops AI image feature after rollout",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/meta-eyes-ai-cloud-sell-compute-hosted-models"
-    },
-    {
-      "title": "Meta scraps AI image feature days after launch following privacy backlash",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash-6247581"
-    },
-    {
-      "title": "SK Hynix breaks Alibaba's US listing record \u2014 but HBM customers will wait until 2028 for the capacity it funds",
+      "title": "Song Chuan hits record June revenue on AI power and storage demand",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260710VL221/sk-hynix-expansion-equipment-nasdaq-packaging.html"
+      "url": "https://www.digitimes.com/news/a20260709PD237/revenue-demand-supplier-2026-acquisition.html"
+    },
+    {
+      "title": "Lianyou Metals posts record second-quarter revenue as tungsten supply tightens",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260709PD240/revenue-plant-demand-growth-production.html"
+    },
+    {
+      "title": "WITS posts record first-half revenue as AI and chip design drive growth",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260709PD241/wistron-revenue-growth-finance-semiconductors.html"
+    },
+    {
+      "title": "Kraken plans app relaunch with AI trading agents",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/kraken-confidentially-files-ipo-sources"
     }
   ],
   "source_stats": [
@@ -50,7 +49,7 @@
       "fetched": 20,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -128,7 +127,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -156,7 +155,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 26,
+      "relevant": 23,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,7 +164,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 5,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -192,7 +191,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null

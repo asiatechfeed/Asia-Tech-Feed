@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Asia Tech News Digest - July 11, 2026"
-date: 2026-07-11 11:27:04 +0800
-articles_count: 7
-sources_count: 3
-sources: ["CNA", "DigiTimes", "TechAsia"]
+date: 2026-07-11 16:00:54 +0800
+articles_count: 6
+sources_count: 2
+sources: ["DigiTimes", "TechAsia"]
 csv_file: /assets/data/news-2026-07-11.tsv
-featured_title: "Intel spinout Altera eyes IPO, sees 20% annual growth"
-featured_url: "https://www.techinasia.com/intels-foundry-strategy-focus-earnings"
+featured_title: "Mapping the startups setting the pace in Korea\u2019s AI sector"
+featured_url: "https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups"
 featured_source: "TechAsia"
-featured_summary: "Altera has cut Intel transition service agreements from 125 to 15 as it develops new chip technologies."
+featured_summary: "Mapping Korea's AI sector: Key players, top investors, and funding insights in one report."
 featured_image: ""
 ---
 
@@ -28,58 +28,50 @@ featured_image: ""
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Intel spinout Altera eyes IPO, sees 20% annual growth</span></td>
-  <td class="col-summary">Altera has cut Intel transition service agreements from 125 to 15 as it develops new chip technologies.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/intels-foundry-strategy-focus-earnings" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Mapping the startups setting the pace in Korea’s AI sector</span></td>
+  <td class="col-summary">Mapping Korea's AI sector: Key players, top investors, and funding insights in one report.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">US eases export curbs on UAE for AI chips</span></td>
-  <td class="col-summary">G42 plans a 5-gigawatt UAE-US AI campus supported by US-approved advanced AI chip exports.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/us-approves-advanced-chip-sales-to-abu-dhabis-g42" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Song Chuan hits record June revenue on AI power and storage demand</span></td>
+  <td class="col-summary">Relay supplier Song Chuan Precision reported record June 2026 revenue as customer orders rose and its acquisition of solenoid valve maker Tai Hsing Electronics was folded into its books. The company said the second half should stay supported by demand in new energy and AI power applications.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260709PD237/revenue-demand-supplier-2026-acquisition.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Meta drops AI image feature after rollout</span></td>
-  <td class="col-summary">Meta removed the AI image generation tool just days after its rollout due to user feedback.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-eyes-ai-cloud-sell-compute-hosted-models" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Lianyou Metals posts record second-quarter revenue as tungsten supply tightens</span></td>
+  <td class="col-summary">Lianyou Metals, a rare metals recycler focused on tungsten and cobalt, said its June consolidated revenue reached NT$750 million (US$23.36 million), up 22% from May and 555% from a year earlier. The Taiwan-based company also reported second-quarter consolidated revenue of NT$1.9 billion, rising 92% from the first quart</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260709PD240/revenue-plant-demand-growth-production.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Meta scraps AI image feature days after launch following privacy backlash</span></td>
-  <td class="col-summary">Meta scraps AI image feature days after launch following privacy backlash</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash-6247581" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">WITS posts record first-half revenue as AI and chip design drive growth</span></td>
+  <td class="col-summary">WITS reported consolidated revenue of NT$1.233 billion (US$38.41 million) in June, up 7.3% from May and 37.1% from a year earlier. The Taiwan-based IT services provider also said second-quarter revenue reached NT$3.623 billion, a quarterly increase of 6.6% and a yearly gain of 33.1%, while first-half revenue climbed 30</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260709PD241/wistron-revenue-growth-finance-semiconductors.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SK Hynix breaks Alibaba's US listing record — but HBM customers will wait until 2028 for the capacity it funds</span></td>
-  <td class="col-summary">SK Hynix has priced a US$26.5 billion Nasdaq offering, giving the world's leading supplier of high-bandwidth memory fresh capital to expand DRAM wafer production, advanced packaging and leading-edge manufacturing equipment at the same time.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260710VL221/sk-hynix-expansion-equipment-nasdaq-packaging.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Kraken plans app relaunch with AI trading agents</span></td>
+  <td class="col-summary">Kraken's app will use AI to learn user preferences and draft crypto portfolios for approval.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/kraken-confidentially-files-ipo-sources" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">ASE Holdings posts record 2Q26 revenue, bets US$40M on South Korea as AI packaging demand surges</span></td>
-  <td class="col-summary">ASE Holdings posted record second-quarter and first-half 2026 revenue, driven by strong demand for advanced semiconductor packaging and testing, conventional backend services and AI-related applications. June revenue reached its second-highest monthly level on record, while quarterly growth exceeded the company's previ</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260710PD249/revenue-ase-packaging-capacity-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Nanya Technology posts record profit as gross margin nears 80%</span></td>
-  <td class="col-summary">Nanya Technology posted record quarterly profit after a more than 60% rise in average DRAM selling prices lifted its gross margin to 79.5%, with the Taiwanese memory chipmaker expecting prices and margins to improve further in the second half.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260710PD248/nanya-technology-profit-gross-margin-dram-2026.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Big ideas, bigger bills</span></td>
+  <td class="col-summary">Robotera, Alta, Adage Automation, and more raised funds this week.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/big-ideas-bigger-bills" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
