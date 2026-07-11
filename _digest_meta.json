@@ -1,38 +1,38 @@
 {
-  "date": "2026-07-10",
-  "count": 11,
+  "date": "2026-07-11",
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-10-asia-tech-news-digest.md",
+  "post_file": "2026-07-11-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "SK Hynix set for marquee US debut in test for AI appetite",
+      "title": "Meta discontinues AI image feature days after launch",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/sk-hynix-set-marquee-us-debut-in-test-ai-appetite-6245846"
+      "url": "https://www.channelnewsasia.com/business/meta-discontinues-ai-image-feature-days-after-launch-6247581"
     },
     {
-      "title": "MiniMax seeks $2b for AI expansion",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/ai-stocks-zhipu-minimax-face-11-5b-lock-up-expiry"
-    },
-    {
-      "title": "Apple's US$30 billion Broadcom deal puts its server-chip plans back in focus",
+      "title": "Apple sues OpenAI as its own suppliers Foxconn and Luxshare line up behind a rival device",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260710VL217/apple-broadcom-silicon-partnership-asic.html"
+      "url": "https://www.digitimes.com/news/a20260711VL200/apple-openai-foxconn-luxshare-hardware.html"
     },
     {
-      "title": "Taiwan firms race ahead on AI agents, raising governance stakes",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260710PD209/google-cloud-ai-agent-governance-business-taiwan.html"
-    },
-    {
-      "title": "South Korean chip titan SK hynix raises US$26.5 billion in blockbuster US listing",
+      "title": "SK hynix: From near collapse to AI chip powerhouse behind record US listing",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/sk-hynix-us-listing-ai-chips-stocks-6245691"
+      "url": "https://www.channelnewsasia.com/east-asia/sk-hynix-story-record-us-listing-ai-chips-6245921"
+    },
+    {
+      "title": "South Korean chip giant SK hynix surges on first day of trading on Wall Street",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/south-korean-chip-giant-sk-hynix-surges-first-day-trading-wall-street-6247311"
+    },
+    {
+      "title": "China's temporary helium export ban signals fears of a prolonged Middle East supply squeeze",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260710VL223/ban-qatar-2026-beijing-medical.html"
     }
   ],
   "source_stats": [
@@ -49,7 +49,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 5,
+      "relevant": 3,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -150,14 +150,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 68,
-      "relevant": 53,
+      "fetched": 35,
+      "relevant": 26,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +168,7 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
