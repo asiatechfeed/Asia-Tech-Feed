@@ -1,36 +1,37 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "count": 6,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "TechAsia"
+    "NikkeiAsia"
   ],
-  "post_file": "2026-07-11-asia-tech-news-digest.md",
+  "post_file": "2026-07-12-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Mapping the startups setting the pace in Korea\u2019s AI sector",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups"
+      "title": "Are Ozempic and other weight loss drugs also longevity drugs? Here's what early research suggests",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/wellness/glp1-drugs-ozempic-longevity-6225001"
     },
     {
-      "title": "Song Chuan hits record June revenue on AI power and storage demand",
+      "title": "Commentary: Micron\u2019s massive profits are a guarantee of trouble",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/micron-sk-hynix-samsung-profits-chip-shortage-rising-prices-6245961"
+    },
+    {
+      "title": "Record chip profits mask a widening divide inside Samsung",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260709PD237/revenue-demand-supplier-2026-acquisition.html"
+      "url": "https://www.digitimes.com/news/a20260709PD247/samsung-business-electronics-2026-operating-profit.html"
     },
     {
-      "title": "Lianyou Metals posts record second-quarter revenue as tungsten supply tightens",
+      "title": "Interview: Why Geckos bets materials, not chips, will decide the next AI performance leap",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260709PD240/revenue-plant-demand-growth-production.html"
+      "url": "https://www.digitimes.com/news/a20260708PD229/materials-ai-chip-growth-copper-demand.html"
     },
     {
-      "title": "WITS posts record first-half revenue as AI and chip design drive growth",
+      "title": "Cisco says agentic AI will triple enterprise network traffic within three years",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260709PD241/wistron-revenue-growth-finance-semiconductors.html"
-    },
-    {
-      "title": "Kraken plans app relaunch with AI trading agents",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/kraken-confidentially-files-ipo-sources"
+      "url": "https://www.digitimes.com/news/a20260708PD241/cisco-taiwan-cybersecurity-infrastructure-security.html"
     }
   ],
   "source_stats": [
@@ -47,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -146,7 +147,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 4,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -164,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -191,9 +192,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 14,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
