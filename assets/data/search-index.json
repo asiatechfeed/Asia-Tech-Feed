@@ -1,83 +1,70 @@
 [
   {
     "date": "2026-07-12",
-    "title": "Infinitix signs Sarawak AI pact to expand Southeast Asia cloud services",
-    "summary": "Taiwan-based AI infrastructure software provider Infinitix signed a memorandum of understanding with Sarawak Information Systems Sdn. Bhd. (SAINS) to jointly promote AI infrastructure, GPU private cloud and AI cloud services in Malaysia and across Southeast Asia. The agreement was announced as both sides outlined plans",
+    "title": "Chinese AI company launches city forecasting model",
+    "summary": "The model was trained on over 20,000 categories of multimodal data from Zhangjiang AI Innovation Town.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/google-cloud-ai-startup-lovable-expand-multiyear-partnership-sources"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "Palo Alto Networks says AI agents are driving demand for identity security",
+    "summary": "AI agents are changing enterprise operations and raising new cybersecurity risks, with identity authentication emerging as a key concern for IT teams. According to Palo Alto Networks, 99% of companies are now using autonomous, conversational and generative AI tools, while machine identities in corporate networks have a",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260710PD221/infrastructure-asia-government-software-gpu.html"
+    "url": "https://www.digitimes.com/news/a20260710PD204/palo-alto-networks-cybersecurity-security-expansion-software.html"
   },
   {
     "date": "2026-07-12",
-    "title": "Coretronic's second quarter revenue topped NT$10 billion as display weakness persisted",
-    "summary": "Coretronic's latest sales update signals a mixed picture for the global electronics market, with demand improving in energy-saving products but lingering weakness in imaging. For international readers, the results highlight how tariffs, exchange-rate swings, and geopolitical risks continue to shape supply chains and cu",
+    "title": "SmartSens targets 2027 commercialization of Micro LED optical interconnects for AI infrastructure",
+    "summary": "The rapid expansion of AI servers and large language models (LLMs) is driving unprecedented demand for data center computing, making high-speed interconnect technologies one of the next major battlegrounds in AI infrastructure.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Electronics",
-      "Logistics"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260710PD220/revenue-coretronic-shipments-electronics-monitor.html"
+    "url": "https://www.digitimes.com/news/a20260709PD217/expansion-language-data-center-photonics-demand.html"
   },
   {
     "date": "2026-07-12",
-    "title": "Column: Compute is no longer the AI bottleneck. Memory is — and suppliers know it",
-    "summary": "After the semiconductor index nearly doubled in the first half of 2026 before a sharp pullback, the central question is whether the industry's AI-driven growth cycle has already peaked. This analysis examines the sustainability of the AI semiconductor boom, the outlook for memory and ASICs, and the geopolitical risks r",
+    "title": "Taiwan PCB leaders launch fundraising wave for AI data centers",
+    "summary": "Taiwan's PCB industry is entering a new expansion cycle as investment in AI data centers and other emerging applications accelerates. Since 2025, several board makers and upstream material suppliers have launched large-scale fundraising plans at home and overseas, including three bellwethers: Zhen Ding Tech, Unimicron,",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor",
       "AI",
-      "Logistics"
+      "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20260710PD213/market-2026-capacity-demand-growth.html"
+    "url": "https://www.digitimes.com/news/a20260709PD222/pcb-taiwan-data-fundraising-expansion.html"
   },
   {
     "date": "2026-07-12",
-    "title": "Anthropic talks with Karnataka on AI for citizen services",
-    "summary": "Anthropic is opening its first India office in Bengaluru, its second-largest market globally.",
+    "title": "Who isn’t drinking the AI Kool-Aid?",
+    "summary": "VCs are under just as much pressure to move fast with AI. The question is if adopting the tech makes them better investors.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/anthropic-opens-seoul-office-as-korea-adoption-grows"
+    "url": "https://www.techinasia.com/isnt-drinking-ai-koolaid"
   },
   {
     "date": "2026-07-12",
-    "title": "JD.com breaks ground on first RoboBase in Guangzhou",
-    "summary": "JD.com's RoboBase project aims to create a closed-loop robotics ecosystem in Guangzhou's Huangpu district.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Automation"
-    ],
-    "url": "https://www.techinasia.com/jd-com-controlled-deppon-logistics-to-delist-from-shanghai-exchange"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "A lost AirPod, AI fakes and the secret garden: How fans experienced Taylor Swift's private wedding",
-    "summary": "Fans bought trash from outside the private celebration as souvenirs.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "World AI Conference, South Korea monetary policy, China economic data",
+    "summary": "World AI Conference, South Korea monetary policy, China economic data",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/entertainment/taylor-swift-wedding-6248686"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "Nasdaq-listed Empery sells bitcoin for AI center stake",
-    "summary": "Empery Digital sold 1,400 bitcoin at an average price of US$62,200 to fund an AI data centre stake.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/usbased-ev-firm-volcon-raises-500m-bitcoin-treasury-strategy"
+    "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/world-ai-conference-south-korea-monetary-policy-china-economic-data"
   },
   {
     "date": "2026-07-11",
