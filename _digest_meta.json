@@ -1,37 +1,37 @@
 {
   "date": "2026-07-12",
-  "count": 6,
+  "count": 7,
   "sources": [
     "CNA",
     "DigiTimes",
-    "NikkeiAsia"
+    "TechAsia"
   ],
   "post_file": "2026-07-12-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Are Ozempic and other weight loss drugs also longevity drugs? Here's what early research suggests",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/wellness/glp1-drugs-ozempic-longevity-6225001"
-    },
-    {
-      "title": "Commentary: Micron\u2019s massive profits are a guarantee of trouble",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/micron-sk-hynix-samsung-profits-chip-shortage-rising-prices-6245961"
-    },
-    {
-      "title": "Record chip profits mask a widening divide inside Samsung",
+      "title": "Infinitix signs Sarawak AI pact to expand Southeast Asia cloud services",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260709PD247/samsung-business-electronics-2026-operating-profit.html"
+      "url": "https://www.digitimes.com/news/a20260710PD221/infrastructure-asia-government-software-gpu.html"
     },
     {
-      "title": "Interview: Why Geckos bets materials, not chips, will decide the next AI performance leap",
+      "title": "Coretronic's second quarter revenue topped NT$10 billion as display weakness persisted",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260708PD229/materials-ai-chip-growth-copper-demand.html"
+      "url": "https://www.digitimes.com/news/a20260710PD220/revenue-coretronic-shipments-electronics-monitor.html"
     },
     {
-      "title": "Cisco says agentic AI will triple enterprise network traffic within three years",
+      "title": "Column: Compute is no longer the AI bottleneck. Memory is \u2014 and suppliers know it",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260708PD241/cisco-taiwan-cybersecurity-infrastructure-security.html"
+      "url": "https://www.digitimes.com/news/a20260710PD213/market-2026-capacity-demand-growth.html"
+    },
+    {
+      "title": "Anthropic talks with Karnataka on AI for citizen services",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/anthropic-opens-seoul-office-as-korea-adoption-grows"
+    },
+    {
+      "title": "JD.com breaks ground on first RoboBase in Guangzhou",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/jd-com-controlled-deppon-logistics-to-delist-from-shanghai-exchange"
     }
   ],
   "source_stats": [
@@ -50,7 +50,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -128,7 +128,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -147,7 +147,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 4,
+      "relevant": 3,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -156,7 +156,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 23,
+      "relevant": 24,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +167,7 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -192,9 +192,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 17,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {

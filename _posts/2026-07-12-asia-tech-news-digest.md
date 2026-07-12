@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - July 12, 2026"
-date: 2026-07-12 08:02:11 +0800
-articles_count: 6
+date: 2026-07-12 11:38:38 +0800
+articles_count: 7
 sources_count: 3
-sources: ["CNA", "DigiTimes", "NikkeiAsia"]
+sources: ["CNA", "DigiTimes", "TechAsia"]
 csv_file: /assets/data/news-2026-07-12.tsv
-featured_title: "Are Ozempic and other weight loss drugs also longevity drugs? Here's what early research suggests"
-featured_url: "https://www.channelnewsasia.com/wellness/glp1-drugs-ozempic-longevity-6225001"
-featured_source: "CNA"
-featured_summary: "Experts are intrigued by the theory. Here\u2019s what early research suggests."
-featured_image: "https://dam.mediacorp.sg/image/upload/s--PbAYrEFl--/c_crop,h_897,w_1595,x_5,y_1/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/06/sci_weight_drugs_longevity-0.jpg?itok=gHnPkHFb"
+featured_title: "Infinitix signs Sarawak AI pact to expand Southeast Asia cloud services"
+featured_url: "https://www.digitimes.com/news/a20260710PD221/infrastructure-asia-government-software-gpu.html"
+featured_source: "DigiTimes"
+featured_summary: "Taiwan-based AI infrastructure software provider Infinitix signed a memorandum of understanding with Sarawak Information Systems Sdn. Bhd. (SAINS) to jointly promote AI infrastructure, GPU private cloud and AI cloud services in Malaysia and across Southeast Asia. The agreement was announced as both sides outlined plans"
+featured_image: "https://img.digitimes.com/newsshow/20260710pd221_files/3_b.jpg"
 ---
 
 <table class="news-table">
@@ -27,51 +27,59 @@ featured_image: "https://dam.mediacorp.sg/image/upload/s--PbAYrEFl--/c_crop,h_89
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Are Ozempic and other weight loss drugs also longevity drugs? Here's what early research suggests</span></td>
-  <td class="col-summary">Experts are intrigued by the theory. Here’s what early research suggests.</td>
-  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/wellness/glp1-drugs-ozempic-longevity-6225001" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Infinitix signs Sarawak AI pact to expand Southeast Asia cloud services</span></td>
+  <td class="col-summary">Taiwan-based AI infrastructure software provider Infinitix signed a memorandum of understanding with Sarawak Information Systems Sdn. Bhd. (SAINS) to jointly promote AI infrastructure, GPU private cloud and AI cloud services in Malaysia and across Southeast Asia. The agreement was announced as both sides outlined plans</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260710PD221/infrastructure-asia-government-software-gpu.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: Micron’s massive profits are a guarantee of trouble</span></td>
-  <td class="col-summary">Chip scarcity is forcing up memory prices and making the likes of Micron and SK Hynix astonishingly profitable. That's a guarantee of trouble, says Chris Bryant for Bloomberg Opinion.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/micron-sk-hynix-samsung-profits-chip-shortage-rising-prices-6245961" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Coretronic's second quarter revenue topped NT$10 billion as display weakness persisted</span></td>
+  <td class="col-summary">Coretronic's latest sales update signals a mixed picture for the global electronics market, with demand improving in energy-saving products but lingering weakness in imaging. For international readers, the results highlight how tariffs, exchange-rate swings, and geopolitical risks continue to shape supply chains and cu</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260710PD220/revenue-coretronic-shipments-electronics-monitor.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Record chip profits mask a widening divide inside Samsung</span></td>
-  <td class="col-summary">Samsung Electronics' preliminary results for the second quarter of 2026 again underscore a striking split inside the company: surging semiconductor profits driven by AI server demand are lifting overall earnings, while TVs, home appliances, and other end-device businesses remain under pressure.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260709PD247/samsung-business-electronics-2026-operating-profit.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Column: Compute is no longer the AI bottleneck. Memory is — and suppliers know it</span></td>
+  <td class="col-summary">After the semiconductor index nearly doubled in the first half of 2026 before a sharp pullback, the central question is whether the industry's AI-driven growth cycle has already peaked. This analysis examines the sustainability of the AI semiconductor boom, the outlook for memory and ASICs, and the geopolitical risks r</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260710PD213/market-2026-capacity-demand-growth.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Interview: Why Geckos bets materials, not chips, will decide the next AI performance leap</span></td>
-  <td class="col-summary">As generative AI fuels rapid growth in demand for high-performance computing (HPC), the semiconductor industry is shifting from a process race to a materials race. Geckos chairman Shen Tsung-huan says that as chip manufacturing moves to 2nm and even more advanced nodes, gains in AI computing power are no longer just a </td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260708PD229/materials-ai-chip-growth-copper-demand.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Anthropic talks with Karnataka on AI for citizen services</span></td>
+  <td class="col-summary">Anthropic is opening its first India office in Bengaluru, its second-largest market globally.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropic-opens-seoul-office-as-korea-adoption-grows" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Cisco says agentic AI will triple enterprise network traffic within three years</span></td>
-  <td class="col-summary">Agentic AI is putting new pressure on enterprise networks and cybersecurity infrastructure as companies accelerate internal deployment, with Cisco and Foundry warning that more than 70% of enterprises see their current networks as unprepared for future AI demand.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260708PD241/cisco-taiwan-cybersecurity-infrastructure-security.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">JD.com breaks ground on first RoboBase in Guangzhou</span></td>
+  <td class="col-summary">JD.com's RoboBase project aims to create a closed-loop robotics ecosystem in Guangzhou's Huangpu district.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/jd-com-controlled-deppon-logistics-to-delist-from-shanghai-exchange" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Honda, other Japan companies in pay workers to spearhead AI use</span></td>
-  <td class="col-summary">Honda, other Japan companies in pay workers to spearhead AI use</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">A lost AirPod, AI fakes and the secret garden: How fans experienced Taylor Swift's private wedding</span></td>
+  <td class="col-summary">Fans bought trash from outside the private celebration as souvenirs.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/honda-other-japan-companies-in-pay-workers-to-spearhead-ai-use" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/entertainment/taylor-swift-wedding-6248686" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Nasdaq-listed Empery sells bitcoin for AI center stake</span></td>
+  <td class="col-summary">Empery Digital sold 1,400 bitcoin at an average price of US$62,200 to fund an AI data centre stake.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/usbased-ev-firm-volcon-raises-500m-bitcoin-treasury-strategy" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
