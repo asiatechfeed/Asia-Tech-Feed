@@ -1,73 +1,83 @@
 [
   {
     "date": "2026-07-12",
-    "title": "Are Ozempic and other weight loss drugs also longevity drugs? Here's what early research suggests",
-    "summary": "Experts are intrigued by the theory. Here’s what early research suggests.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Pharmaceutical"
-    ],
-    "url": "https://www.channelnewsasia.com/wellness/glp1-drugs-ozempic-longevity-6225001"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "Commentary: Micron’s massive profits are a guarantee of trouble",
-    "summary": "Chip scarcity is forcing up memory prices and making the likes of Micron and SK Hynix astonishingly profitable. That's a guarantee of trouble, says Chris Bryant for Bloomberg Opinion.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/commentary/micron-sk-hynix-samsung-profits-chip-shortage-rising-prices-6245961"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "Record chip profits mask a widening divide inside Samsung",
-    "summary": "Samsung Electronics' preliminary results for the second quarter of 2026 again underscore a striking split inside the company: surging semiconductor profits driven by AI server demand are lifting overall earnings, while TVs, home appliances, and other end-device businesses remain under pressure.",
+    "title": "Infinitix signs Sarawak AI pact to expand Southeast Asia cloud services",
+    "summary": "Taiwan-based AI infrastructure software provider Infinitix signed a memorandum of understanding with Sarawak Information Systems Sdn. Bhd. (SAINS) to jointly promote AI infrastructure, GPU private cloud and AI cloud services in Malaysia and across Southeast Asia. The agreement was announced as both sides outlined plans",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260710PD221/infrastructure-asia-government-software-gpu.html"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "Coretronic's second quarter revenue topped NT$10 billion as display weakness persisted",
+    "summary": "Coretronic's latest sales update signals a mixed picture for the global electronics market, with demand improving in energy-saving products but lingering weakness in imaging. For international readers, the results highlight how tariffs, exchange-rate swings, and geopolitical risks continue to shape supply chains and cu",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
       "Electronics",
-      "AI"
+      "Logistics"
     ],
-    "url": "https://www.digitimes.com/news/a20260709PD247/samsung-business-electronics-2026-operating-profit.html"
+    "url": "https://www.digitimes.com/news/a20260710PD220/revenue-coretronic-shipments-electronics-monitor.html"
   },
   {
     "date": "2026-07-12",
-    "title": "Interview: Why Geckos bets materials, not chips, will decide the next AI performance leap",
-    "summary": "As generative AI fuels rapid growth in demand for high-performance computing (HPC), the semiconductor industry is shifting from a process race to a materials race. Geckos chairman Shen Tsung-huan says that as chip manufacturing moves to 2nm and even more advanced nodes, gains in AI computing power are no longer just a ",
+    "title": "Column: Compute is no longer the AI bottleneck. Memory is — and suppliers know it",
+    "summary": "After the semiconductor index nearly doubled in the first half of 2026 before a sharp pullback, the central question is whether the industry's AI-driven growth cycle has already peaked. This analysis examines the sustainability of the AI semiconductor boom, the outlook for memory and ASICs, and the geopolitical risks r",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260708PD229/materials-ai-chip-growth-copper-demand.html"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "Cisco says agentic AI will triple enterprise network traffic within three years",
-    "summary": "Agentic AI is putting new pressure on enterprise networks and cybersecurity infrastructure as companies accelerate internal deployment, with Cisco and Foundry warning that more than 70% of enterprises see their current networks as unprepared for future AI demand.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
       "AI",
-      "Semiconductor"
+      "Logistics"
     ],
-    "url": "https://www.digitimes.com/news/a20260708PD241/cisco-taiwan-cybersecurity-infrastructure-security.html"
+    "url": "https://www.digitimes.com/news/a20260710PD213/market-2026-capacity-demand-growth.html"
   },
   {
     "date": "2026-07-12",
-    "title": "Honda, other Japan companies in pay workers to spearhead AI use",
-    "summary": "Honda, other Japan companies in pay workers to spearhead AI use",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "Anthropic talks with Karnataka on AI for citizen services",
+    "summary": "Anthropic is opening its first India office in Bengaluru, its second-largest market globally.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/honda-other-japan-companies-in-pay-workers-to-spearhead-ai-use"
+    "url": "https://www.techinasia.com/anthropic-opens-seoul-office-as-korea-adoption-grows"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "JD.com breaks ground on first RoboBase in Guangzhou",
+    "summary": "JD.com's RoboBase project aims to create a closed-loop robotics ecosystem in Guangzhou's Huangpu district.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/jd-com-controlled-deppon-logistics-to-delist-from-shanghai-exchange"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "A lost AirPod, AI fakes and the secret garden: How fans experienced Taylor Swift's private wedding",
+    "summary": "Fans bought trash from outside the private celebration as souvenirs.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/entertainment/taylor-swift-wedding-6248686"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "Nasdaq-listed Empery sells bitcoin for AI center stake",
+    "summary": "Empery Digital sold 1,400 bitcoin at an average price of US$62,200 to fund an AI data centre stake.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/usbased-ev-firm-volcon-raises-500m-bitcoin-treasury-strategy"
   },
   {
     "date": "2026-07-11",
