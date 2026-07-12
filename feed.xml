@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-11T08:01:32+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 11, 2026</title><link href="https://asiatechfeed.com/2026/07/11/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 11, 2026" /><published>2026-07-11T08:00:54+00:00</published><updated>2026-07-11T08:00:54+00:00</updated><id>https://asiatechfeed.com/2026/07/11/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/11/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-12T00:02:45+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 12, 2026</title><link href="https://asiatechfeed.com/2026/07/12/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 12, 2026" /><published>2026-07-12T00:02:11+00:00</published><updated>2026-07-12T00:02:11+00:00</updated><id>https://asiatechfeed.com/2026/07/12/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/12/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Are Ozempic and other weight loss drugs also longevity drugs? Here's what early research suggests</span></td>
+  <td class="col-summary">Experts are intrigued by the theory. Here’s what early research suggests.</td>
+  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/wellness/glp1-drugs-ozempic-longevity-6225001" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: Micron’s massive profits are a guarantee of trouble</span></td>
+  <td class="col-summary">Chip scarcity is forcing up memory prices and making the likes of Micron and SK Hynix astonishingly profitable. That's a guarantee of trouble, says Chris Bryant for Bloomberg Opinion.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/micron-sk-hynix-samsung-profits-chip-shortage-rising-prices-6245961" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Record chip profits mask a widening divide inside Samsung</span></td>
+  <td class="col-summary">Samsung Electronics' preliminary results for the second quarter of 2026 again underscore a striking split inside the company: surging semiconductor profits driven by AI server demand are lifting overall earnings, while TVs, home appliances, and other end-device businesses remain under pressure.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260709PD247/samsung-business-electronics-2026-operating-profit.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Interview: Why Geckos bets materials, not chips, will decide the next AI performance leap</span></td>
+  <td class="col-summary">As generative AI fuels rapid growth in demand for high-performance computing (HPC), the semiconductor industry is shifting from a process race to a materials race. Geckos chairman Shen Tsung-huan says that as chip manufacturing moves to 2nm and even more advanced nodes, gains in AI computing power are no longer just a </td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260708PD229/materials-ai-chip-growth-copper-demand.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Cisco says agentic AI will triple enterprise network traffic within three years</span></td>
+  <td class="col-summary">Agentic AI is putting new pressure on enterprise networks and cybersecurity infrastructure as companies accelerate internal deployment, with Cisco and Foundry warning that more than 70% of enterprises see their current networks as unprepared for future AI demand.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260708PD241/cisco-taiwan-cybersecurity-infrastructure-security.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Honda, other Japan companies in pay workers to spearhead AI use</span></td>
+  <td class="col-summary">Honda, other Japan companies in pay workers to spearhead AI use</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/honda-other-japan-companies-in-pay-workers-to-spearhead-ai-use" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Are Ozempic and other weight loss drugs also longevity drugs? Here's what early research suggests Experts are intrigued by the theory. Here’s what early research suggests. Pharmaceutical Read 2 CNA Commentary: Micron’s massive profits are a guarantee of trouble Chip scarcity is forcing up memory prices and making the likes of Micron and SK Hynix astonishingly profitable. That's a guarantee of trouble, says Chris Bryant for Bloomberg Opinion. Semiconductor Read 3 DigiTimes Record chip profits mask a widening divide inside Samsung Samsung Electronics' preliminary results for the second quarter of 2026 again underscore a striking split inside the company: surging semiconductor profits driven by AI server demand are lifting overall earnings, while TVs, home appliances, and other end-device businesses remain under pressure. SemiconductorElectronicsAI Read 4 DigiTimes Interview: Why Geckos bets materials, not chips, will decide the next AI performance leap As generative AI fuels rapid growth in demand for high-performance computing (HPC), the semiconductor industry is shifting from a process race to a materials race. Geckos chairman Shen Tsung-huan says that as chip manufacturing moves to 2nm and even more advanced nodes, gains in AI computing power are no longer just a SemiconductorAI Read 5 DigiTimes Cisco says agentic AI will triple enterprise network traffic within three years Agentic AI is putting new pressure on enterprise networks and cybersecurity infrastructure as companies accelerate internal deployment, with Cisco and Foundry warning that more than 70% of enterprises see their current networks as unprepared for future AI demand. AISemiconductor Read 6 NikkeiAsia Honda, other Japan companies in pay workers to spearhead AI use Honda, other Japan companies in pay workers to spearhead AI use AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 11, 2026</title><link href="https://asiatechfeed.com/2026/07/11/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 11, 2026" /><published>2026-07-11T08:00:54+00:00</published><updated>2026-07-11T08:00:54+00:00</updated><id>https://asiatechfeed.com/2026/07/11/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/11/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -643,137 +704,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-ai-race-compute-agents" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Infineon China pushes back after GaN products removed at Shanghai electronics show Infineon China said on July 3 that it is pursuing legal remedies after several gallium nitride (GaN) products became the subject of a removal dispute at electronica Shanghai 2026, saying public accounts of the incident did not fully reflect the case's background or specific circumstances. Electronics Read 2 DigiTimes Ubtech's U1 companion robots test whether China is ready for AI intimacy Ubtech has launched the U1 series, its first mass-produced full-size bionic humanoid robot line, under the U World sub-brand, testing China's market for AI companion robots beyond industrial and service uses. AIAutomation Read 3 DigiTimes Megawatt AI Racks: Infrastructure Evolution &amp; Wide-Bandgap Power Semiconductor Opportunities by 2030 Megawatt AI Racks: Infrastructure Evolution &amp; Wide-Bandgap Power Semiconductor Opportunities by 2030 SemiconductorAI Read 4 SemiEng Chip Industry Week In Review S. Korea goes All In on AI; new Dresden power fab; Intel expansion; GM secures memory supply; AI power management funding; mature-node foundry capacity; 300mm fab equipment; McKinsey's map of strategic IC supply; security threats; AI burnout. The post Chip Industry Week In Review appeared first on Semiconductor Enginee SemiconductorAI Read 5 TechAsia This startup uses vision-language AI to spot workplace hazards Ailytics relies on vision-language models to process existing camera feeds, allowing users to search real-time worksite events with natural language. AI Read 6 TechAsia Anchanto eyes full-year EBITDA profit, charts US entry We dive into what drove the software firm’s EBITDA profit milestone in Q4 2025 despite the challenges facing firms in the ecommerce and logistics sectors. Logistics Read 7 TechAsia OpenAI’s Brockman lays out five forces shaping the AI agent race OpenAI president Greg Brockman breaks down the practical forces shaping AI agents, from app access and permissions to compute and expertise. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 02, 2026</title><link href="https://asiatechfeed.com/2026/07/02/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 02, 2026" /><published>2026-07-02T10:19:10+00:00</published><updated>2026-07-02T10:19:10+00:00</updated><id>https://asiatechfeed.com/2026/07/02/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/02/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">UK's Currys warns memory chip shortage will push up prices</span></td>
-  <td class="col-summary">UK's Currys warns memory chip shortage will push up prices</td>
-  <td class="col-tags"></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/uks-currys-warns-memory-chip-shortage-will-push-up-prices-6227471" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Nvidia introduces revenue-share model for AI clouds</span></td>
-  <td class="col-summary">It gives Nvidia standard product revenue and a recurring share of revenue from the supported capacity.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-opens-vera-chip-orders-for-chinese-customers-sources" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">OpenAI's 5% stake pitch pulls AI deeper into Washington</span></td>
-  <td class="col-summary">OpenAI has discussed giving the US government a 5% stake in the company, according to the Financial Times , as the AI developer seeks to ease political pressure over model risks and whether Americans should share in the industry's profits. Reuters said it could not independently verify the report.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260702VL215/openai-government-anthropic-google-meta.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">A decade since Duterte's deadly drug war, victims' families continue fight for justice as ICC trial nears</span></td>
-  <td class="col-summary">Human rights groups believe the true death toll could be in the tens of thousands, arguing that many killings went undocumented.</td>
-  <td class="col-tags"></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/philippines-drug-war-president-duterte-icc-trial-families-6226996" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Kunlun says Tiangong AI ARR tops $800m in Q2</span></td>
-  <td class="col-summary">DramaWave reached 53 million cumulative downloads by April 2025, with 10 million monthly users.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/baidu-chipdesign-unit-wins-139m-ai-chip-deal-china-mobile" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Why cheaper AI can’t buy Standard Form hospital trust</span></td>
-  <td class="col-summary">Standard Form's co-founder and CTO explains why AI cuts the cost of building healthcare software but does nothing to shorten the hard road to earning hospital trust.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/standard-form-building-ai-for-healthcare" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AUO pushes AI-era transformation with executive reshuffle, launch of innovation institute</span></td>
-  <td class="col-summary">Taiwanese optoelectronics specialist AUO announced organizational adjustments and senior executive appointments on July 1 as it continues to advance its business transformation. The company is aiming for balanced development across its businesses and accelerating its transition into a key solutions provider centered on</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260701PD238/auo-optoelectronics-business-development-display.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Singapore files additional fraud and money laundering charges in Nvidia-linked server case</span></td>
-  <td class="col-summary">Singapore authorities have filed additional fraud and money laundering charges against four individuals and brought fresh charges against four companies, as part of an investigation linked to the movement of servers that may have contained Nvidia artificial intelligence chips subject to US export controls. The case has</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260702VL213/chips-investigation-nvidia-supermicro.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Chinese actor now sells vegetables in his hometown after AI takes over China's short dramas</span></td>
-  <td class="col-summary">Xu Peng went from filming 15 hours a day to having no acting jobs and has now returned to his hometown in rural Shandong to work at a market.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/entertainment/chinese-actor-xu-peng-sells-vegetables-ai-6226771" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">EdgeCortix Successfully Demonstrates Edge AI Platform in USAF Flight Exercise</span></td>
-  <td class="col-summary">EdgeCortix has demonstrated its SAKURA-II edge AI platform in U.S. Air Force flight operations, earning DIU recognition. The post EdgeCortix Successfully Demonstrates Edge AI Platform in USAF Flight Exercise appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/edgecortix-successfully-demonstrates-edge-ai-platform-in-usaf-flight-exercise/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">NTU Singapore Launches Industry-aligned IC Design Program</span></td>
-  <td class="col-summary">NTU Singapore has launched a new industry-backed IC design program to help meet growing semiconductor talent demand. The post NTU Singapore Launches Industry-aligned IC Design Program appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ntu-singapore-launches-industry-aligned-ic-design-program/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Keysight and WIN Collaborate on MMIC Design Workflow</span></td>
-  <td class="col-summary">New GaN MMIC design workflow developed by Keysight and WIN reduces fabrication risk for 5G, satellite and defense applications. The post Keysight and WIN Collaborate on MMIC Design Workflow appeared first on EE Times Asia .</td>
-  <td class="col-tags"></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/keysight-and-win-collaborate-on-mmic-design-workflow/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">13</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Takeda and Insilico strike AI-led drug discovery deal worth up to $600m</span></td>
-  <td class="col-summary">Takeda and Insilico strike AI-led drug discovery deal worth up to $600m</td>
-  <td class="col-tags"></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/pharmaceuticals/takeda-and-insilico-strike-ai-led-drug-discovery-deal-worth-up-to-600m" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">14</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Kyocera vies with Toto in ceramic parts for chipmaking, data centers</span></td>
-  <td class="col-summary">Kyocera vies with Toto in ceramic parts for chipmaking, data centers</td>
-  <td class="col-tags"></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/supply-chain/kyocera-vies-with-toto-in-ceramic-parts-for-chipmaking-data-centers" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">15</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">China chip material makers battle Japan rivals for $73bn market</span></td>
-  <td class="col-summary">China chip material makers battle Japan rivals for $73bn market</td>
-  <td class="col-tags"></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/china-chip-material-makers-battle-japan-rivals-for-73bn-market" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA UK's Currys warns memory chip shortage will push up prices UK's Currys warns memory chip shortage will push up prices Read 2 TechAsia Nvidia introduces revenue-share model for AI clouds It gives Nvidia standard product revenue and a recurring share of revenue from the supported capacity. AI Read 3 DigiTimes OpenAI's 5% stake pitch pulls AI deeper into Washington OpenAI has discussed giving the US government a 5% stake in the company, according to the Financial Times , as the AI developer seeks to ease political pressure over model risks and whether Americans should share in the industry's profits. Reuters said it could not independently verify the report. AI Read 4 CNA A decade since Duterte's deadly drug war, victims' families continue fight for justice as ICC trial nears Human rights groups believe the true death toll could be in the tens of thousands, arguing that many killings went undocumented. Read 5 TechAsia Kunlun says Tiangong AI ARR tops $800m in Q2 DramaWave reached 53 million cumulative downloads by April 2025, with 10 million monthly users. AI Read 6 TechAsia Why cheaper AI can’t buy Standard Form hospital trust Standard Form's co-founder and CTO explains why AI cuts the cost of building healthcare software but does nothing to shorten the hard road to earning hospital trust. AI Read 7 DigiTimes AUO pushes AI-era transformation with executive reshuffle, launch of innovation institute Taiwanese optoelectronics specialist AUO announced organizational adjustments and senior executive appointments on July 1 as it continues to advance its business transformation. The company is aiming for balanced development across its businesses and accelerating its transition into a key solutions provider centered on Electronics Read 8 DigiTimes Singapore files additional fraud and money laundering charges in Nvidia-linked server case Singapore authorities have filed additional fraud and money laundering charges against four individuals and brought fresh charges against four companies, as part of an investigation linked to the movement of servers that may have contained Nvidia artificial intelligence chips subject to US export controls. The case has AI Read 9 CNA Chinese actor now sells vegetables in his hometown after AI takes over China's short dramas Xu Peng went from filming 15 hours a day to having no acting jobs and has now returned to his hometown in rural Shandong to work at a market. AI Read 10 EETAsia EdgeCortix Successfully Demonstrates Edge AI Platform in USAF Flight Exercise EdgeCortix has demonstrated its SAKURA-II edge AI platform in U.S. Air Force flight operations, earning DIU recognition. The post EdgeCortix Successfully Demonstrates Edge AI Platform in USAF Flight Exercise appeared first on EE Times Asia . AI Read 11 EETAsia NTU Singapore Launches Industry-aligned IC Design Program NTU Singapore has launched a new industry-backed IC design program to help meet growing semiconductor talent demand. The post NTU Singapore Launches Industry-aligned IC Design Program appeared first on EE Times Asia . Semiconductor Read 12 EETAsia Keysight and WIN Collaborate on MMIC Design Workflow New GaN MMIC design workflow developed by Keysight and WIN reduces fabrication risk for 5G, satellite and defense applications. The post Keysight and WIN Collaborate on MMIC Design Workflow appeared first on EE Times Asia . Read 13 NikkeiAsia Takeda and Insilico strike AI-led drug discovery deal worth up to $600m Takeda and Insilico strike AI-led drug discovery deal worth up to $600m Read 14 NikkeiAsia Kyocera vies with Toto in ceramic parts for chipmaking, data centers Kyocera vies with Toto in ceramic parts for chipmaking, data centers Read 15 NikkeiAsia China chip material makers battle Japan rivals for $73bn market China chip material makers battle Japan rivals for $73bn market Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Infineon China pushes back after GaN products removed at Shanghai electronics show Infineon China said on July 3 that it is pursuing legal remedies after several gallium nitride (GaN) products became the subject of a removal dispute at electronica Shanghai 2026, saying public accounts of the incident did not fully reflect the case's background or specific circumstances. Electronics Read 2 DigiTimes Ubtech's U1 companion robots test whether China is ready for AI intimacy Ubtech has launched the U1 series, its first mass-produced full-size bionic humanoid robot line, under the U World sub-brand, testing China's market for AI companion robots beyond industrial and service uses. AIAutomation Read 3 DigiTimes Megawatt AI Racks: Infrastructure Evolution &amp; Wide-Bandgap Power Semiconductor Opportunities by 2030 Megawatt AI Racks: Infrastructure Evolution &amp; Wide-Bandgap Power Semiconductor Opportunities by 2030 SemiconductorAI Read 4 SemiEng Chip Industry Week In Review S. Korea goes All In on AI; new Dresden power fab; Intel expansion; GM secures memory supply; AI power management funding; mature-node foundry capacity; 300mm fab equipment; McKinsey's map of strategic IC supply; security threats; AI burnout. The post Chip Industry Week In Review appeared first on Semiconductor Enginee SemiconductorAI Read 5 TechAsia This startup uses vision-language AI to spot workplace hazards Ailytics relies on vision-language models to process existing camera feeds, allowing users to search real-time worksite events with natural language. AI Read 6 TechAsia Anchanto eyes full-year EBITDA profit, charts US entry We dive into what drove the software firm’s EBITDA profit milestone in Q4 2025 despite the challenges facing firms in the ecommerce and logistics sectors. Logistics Read 7 TechAsia OpenAI’s Brockman lays out five forces shaping the AI agent race OpenAI president Greg Brockman breaks down the practical forces shaping AI agents, from app access and permissions to compute and expertise. AI Read]]></summary></entry></feed>
