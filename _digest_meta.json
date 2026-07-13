@@ -1,38 +1,39 @@
 {
   "date": "2026-07-13",
-  "count": 7,
+  "count": 13,
   "sources": [
+    "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
-    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-07-13-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "India roundup: India's chip strategy tests its ability to build a competitive ecosystem",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260710VL215/india-roundup-semiconductors-electronics-funding-investment-plant.html"
-    },
-    {
-      "title": "SuperAlloy revenue climbs on recycled aluminum and semiconductor certification progress",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260710PD225/revenue-superalloy-aluminum-certification-2026.html"
-    },
-    {
-      "title": "Sitronix sees zero-capacitance TDDI and automotive DDI drive growth",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260710PD251/sitronix-tddi-automotive-ddi-growth-revenue.html"
-    },
-    {
-      "title": "Samsung plans 2029 start for first Yongin chip plant",
+      "title": "OpenAI tightens access to advanced AI models",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/samsung-plans-90b-chungcheong-2040"
+      "url": "https://www.techinasia.com/openai-broadcom-unveil-inference-chip"
     },
     {
-      "title": "India\u2019s TCS plans up to 8,900 AI engineers",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/indias-tcs-reports-largest-ever-quarterly-job-cuts-over-ai-shift"
+      "title": "Apple reportedly accelerates AI chip roadmap as next-gen Macs prioritize neural processing",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260713VL206/apple-ai-chip-roadmap-development.html"
+    },
+    {
+      "title": "Weekly news roundup: TSMC widens AI chip lead as HBM and CoWoS bottlenecks reshape supply chains",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260713VL204/tsmc-cowos-capacity-hbm-weekly-news-roundup.html"
+    },
+    {
+      "title": "China's Nvidia H200 pivot reveals why CUDA still rules AI",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260713VL205/nvidia-beijing-market-software-chips.html"
+    },
+    {
+      "title": "Rigaku Strengthens Global Semiconductor Metrology Service Support with New Osaka Training Center",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/rigaku-strengthens-global-semiconductor-metrology-service-support-with-new-osaka-training-center/"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -148,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 2,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 27,
+      "relevant": 30,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +167,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 6,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -193,9 +194,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 18,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -213,7 +214,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     }
   ]
