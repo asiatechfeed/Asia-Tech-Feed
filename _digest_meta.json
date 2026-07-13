@@ -1,37 +1,38 @@
 {
-  "date": "2026-07-12",
-  "count": 6,
+  "date": "2026-07-13",
+  "count": 7,
   "sources": [
     "DigiTimes",
     "NikkeiAsia",
+    "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-07-12-asia-tech-news-digest.md",
+  "post_file": "2026-07-13-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Chinese AI company launches city forecasting model",
+      "title": "India roundup: India's chip strategy tests its ability to build a competitive ecosystem",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260710VL215/india-roundup-semiconductors-electronics-funding-investment-plant.html"
+    },
+    {
+      "title": "SuperAlloy revenue climbs on recycled aluminum and semiconductor certification progress",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260710PD225/revenue-superalloy-aluminum-certification-2026.html"
+    },
+    {
+      "title": "Sitronix sees zero-capacitance TDDI and automotive DDI drive growth",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260710PD251/sitronix-tddi-automotive-ddi-growth-revenue.html"
+    },
+    {
+      "title": "Samsung plans 2029 start for first Yongin chip plant",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/google-cloud-ai-startup-lovable-expand-multiyear-partnership-sources"
+      "url": "https://www.techinasia.com/samsung-plans-90b-chungcheong-2040"
     },
     {
-      "title": "Palo Alto Networks says AI agents are driving demand for identity security",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260710PD204/palo-alto-networks-cybersecurity-security-expansion-software.html"
-    },
-    {
-      "title": "SmartSens targets 2027 commercialization of Micro LED optical interconnects for AI infrastructure",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260709PD217/expansion-language-data-center-photonics-demand.html"
-    },
-    {
-      "title": "Taiwan PCB leaders launch fundraising wave for AI data centers",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260709PD222/pcb-taiwan-data-fundraising-expansion.html"
-    },
-    {
-      "title": "Who isn\u2019t drinking the AI Kool-Aid?",
+      "title": "India\u2019s TCS plans up to 8,900 AI engineers",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/isnt-drinking-ai-koolaid"
+      "url": "https://www.techinasia.com/indias-tcs-reports-largest-ever-quarterly-job-cuts-over-ai-shift"
     }
   ],
   "source_stats": [
@@ -156,7 +157,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 24,
+      "relevant": 27,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,7 +166,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 5,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -192,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 16,
       "sponsored_skipped": 0,
       "published": 2,
       "error": null
@@ -210,9 +211,9 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     }
   ]

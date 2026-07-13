@@ -1,5 +1,83 @@
 [
   {
+    "date": "2026-07-13",
+    "title": "India roundup: India's chip strategy tests its ability to build a competitive ecosystem",
+    "summary": "India is moving from semiconductor planning to execution, using funding, tariff changes, foreign investment approvals, and regional development efforts to build a broader electronics ecosystem beyond assembly.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260710VL215/india-roundup-semiconductors-electronics-funding-investment-plant.html"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "SuperAlloy revenue climbs on recycled aluminum and semiconductor certification progress",
+    "summary": "SuperAlloy Industrial posted June consolidated revenue of NT$749 million (US$23.36 million), up 17.93% from May and 21.46% from a year earlier. The Taiwan-based materials maker said the increase helped lift second-quarter 2026 revenue to NT$1.98 billion, a 15.45% rise from a year earlier, while first-half 2026 revenue ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260710PD225/revenue-superalloy-aluminum-certification-2026.html"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "Sitronix sees zero-capacitance TDDI and automotive DDI drive growth",
+    "summary": "Sitronix Technology said this week that zero-capacitance touch with display driver integration (TDDI) and automotive display drive IC (DDI) will drive its growth in 2026, as the chipmaker reported strong June and second-quarter revenue and said demand should remain positive into the second half of the year.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260710PD251/sitronix-tddi-automotive-ddi-growth-revenue.html"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "Samsung plans 2029 start for first Yongin chip plant",
+    "summary": "The Yongin cluster will require 15 to 16 gigawatts of electricity at full operation.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/samsung-plans-90b-chungcheong-2040"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "India’s TCS plans up to 8,900 AI engineers",
+    "summary": "TCS plans a team of 5,900 to 8,900 engineers to embed AI with clients and tailor tools.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/indias-tcs-reports-largest-ever-quarterly-job-cuts-over-ai-shift"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "Room-temperature, CMOS-compatible Photonic Quantum Processor (NUS et al.)",
+    "summary": "Researchers from Rotonium, Centre for Quantum Technologies at National University of Singapore, Inveriant, Politecnico di Milano, and CNIT published a technical paper titled “Design and Benchmarking of a Quantum Photonic Chip.” Abstract Excerpt: The paper presents a quantum photonic processor based on “standard CMOS-co",
+    "source": "Semiconductor Engineering",
+    "short": "SemiEng",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://semiengineering.com/room-temperature-cmos-compatible-photonic-quantum-processor-nus-et-al/"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "Honda, other Japan companies pay workers to spearhead AI use",
+    "summary": "Honda, other Japan companies pay workers to spearhead AI use",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/honda-other-japan-companies-pay-workers-to-spearhead-ai-use"
+  },
+  {
     "date": "2026-07-12",
     "title": "Chinese AI company launches city forecasting model",
     "summary": "The model was trained on over 20,000 categories of multimodal data from Zhangjiang AI Innovation Town.",
