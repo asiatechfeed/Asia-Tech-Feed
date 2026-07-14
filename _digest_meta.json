@@ -1,37 +1,40 @@
 {
-  "date": "2026-07-13",
-  "count": 8,
+  "date": "2026-07-14",
+  "count": 14,
   "sources": [
+    "CNA",
     "DigiTimes",
     "EETAsia",
+    "EW",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-13-asia-tech-news-digest.md",
+  "post_file": "2026-07-14-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "The AI agent helping B2B companies master chatbot search",
+      "title": "50 rising AI startups in Asia",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/ai-agent-helping-b2b-companies-master-chatbot-search"
+      "url": "https://www.techinasia.com/50-rising-ai-startups-in-asia"
     },
     {
-      "title": "Pegatron June revenue rose 15.9% on server shipments and AI expansion",
+      "title": "RECOM Expands Beyond Power Modules as AI Reshapes Power Management Design",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/recom-expands-beyond-power-modules-as-ai-reshapes-power-management-design/"
+    },
+    {
+      "title": "TASC reshuffles management as PASC targets 2027 Taiwan Innovation Board listing",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260713PD224/pegatron-revenue-server-shipments-business-demand.html"
+      "url": "https://www.digitimes.com/news/a20260713PD233/taiwan-asia-semiconductor-management-taiwan-proasia-semiconductor-2027.html"
     },
     {
-      "title": "Intel eyes dual-side power in 1.4nm push against TSMC",
+      "title": "China quantum research wins UNESCO, IEEE honors",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260713PD220/intel-1.4nm-tsmc-samsung-technology.html"
+      "url": "https://www.digitimes.com/news/a20260713PD234/quantum-computing-academia-ieee-award.html"
     },
     {
-      "title": "TSMC June 2026 revenue surges 68% as AI demand continues to fuel growth",
+      "title": "Analysis: Why Meta's AI strategy sparked a market misread",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260713VL213/tsmc-revenue-growth-demand-2026.html"
-    },
-    {
-      "title": "Samsung completes Tesla AI5 chip design",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/samsung-electronics-start-tesla-chip-production-late-2027"
+      "url": "https://www.digitimes.com/news/a20260713PD235/meta-market-capacity-infrastructure-business.html"
     }
   ],
   "source_stats": [
@@ -48,9 +51,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -129,9 +132,9 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -147,16 +150,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 51,
-      "relevant": 43,
+      "fetched": 35,
+      "relevant": 27,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +168,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -192,7 +195,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
