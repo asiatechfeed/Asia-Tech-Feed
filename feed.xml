@@ -1,4 +1,129 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-13T11:25:38+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 13, 2026</title><link href="https://asiatechfeed.com/2026/07/13/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 13, 2026" /><published>2026-07-13T08:00:56+00:00</published><updated>2026-07-13T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/07/13/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/13/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-14T00:01:39+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 14, 2026</title><link href="https://asiatechfeed.com/2026/07/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 14, 2026" /><published>2026-07-14T00:00:44+00:00</published><updated>2026-07-14T00:00:44+00:00</updated><id>https://asiatechfeed.com/2026/07/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">50 rising AI startups in Asia</span></td>
+  <td class="col-summary">These AI startups have a shot at becoming the next big thing.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/50-rising-ai-startups-in-asia" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">RECOM Expands Beyond Power Modules as AI Reshapes Power Management Design</span></td>
+  <td class="col-summary">AI-driven power density demands are pushing RECOM to broaden its portfolio from modules to complete power management design solutions worldwide. The post RECOM Expands Beyond Power Modules as AI Reshapes Power Management Design appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/recom-expands-beyond-power-modules-as-ai-reshapes-power-management-design/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">TASC reshuffles management as PASC targets 2027 Taiwan Innovation Board listing</span></td>
+  <td class="col-summary">Taiwan-Asia Semiconductor (TASC) has announced senior management changes at its group companies as ProAsia Semiconductor (PASC) prepares for a Taiwan Innovation Board listing, now expected in the first or second quarter of 2027. The overhaul is aimed at meeting listing requirements on corporate governance, independence</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260713PD233/taiwan-asia-semiconductor-management-taiwan-proasia-semiconductor-2027.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">China quantum research wins UNESCO, IEEE honors</span></td>
+  <td class="col-summary">China's quantum technology research has drawn renewed international academic recognition. The University of Science and Technology of China (USTC) said Chinese Academy of Sciences academician Jianwei Pan has received the third UNESCO-Russia Mendeleev International Prize and later shared the 2026 IEEE Photonics Society </td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260713PD234/quantum-computing-academia-ieee-award.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Analysis: Why Meta's AI strategy sparked a market misread</span></td>
+  <td class="col-summary">Reports that Meta is considering leasing out idle AI computing capacity have rattled investors. But treating Meta's predicament as a warning sign for the entire AI industry is a classic case of overgeneralization.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260713PD235/meta-market-capacity-infrastructure-business.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: AI has changed the way my students write and that worries me</span></td>
+  <td class="col-summary">The problem is when students begin to believe that having access to well-phrased answers is the same as developing genuine knowledge, says university lecturer Kennedy Albar.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/chatgpt-ai-change-way-students-write-concerns-6237431" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: SK Hynix is a golden goose. It has to lay more eggs</span></td>
+  <td class="col-summary">The chipmaker’s blockbuster US listing signals South Korea’s arrival on the global economic stage, but retail investors should tread carefully, says Shuli Ren for Bloomberg Opinion.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/sk-hynix-shares-stock-market-south-korea-chips-6250521" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">EW</span></td>
+  <td class="col-title"><span class="article-title">Intel puts $5.7bn into Leixlip</span></td>
+  <td class="col-summary">Intel today announced a $5.7 billion capital investment in Fab 34 at Leixlip, Ireland, to retrofit the fab for the Intel 3 process. Intel is scaling capacity in Ireland to ... The post Intel puts $5.7bn into Leixlip appeared first on Electronics Weekly .</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/intel-puts-5-7bn-into-leixlip-2026-07/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">EW</span></td>
+  <td class="col-title"><span class="article-title">China’s Massive Battery Build Capacity</span></td>
+  <td class="col-summary">China’s grid-scale battery energy storage capacity surged from just 2.4 gigawatts in 2020 to more than 140 gigawatts in 2025 – far ahead of the United States, which reached roughly 57 ... The post China’s Massive Battery Build Capacity appeared first on Electronics Weekly .</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/blogs/mannerisms/manuf/chinas-massive-battery-build-capacity-2026-07/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Zhipu AI shifts focus to AGI research</span></td>
+  <td class="col-summary">Co-founder Tang Jie said Zhipu would spend the next two years on AGI-related research, including autonomous AI agents and AI safety.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/zhipu-ai-didi-partner-agi-chinas-mobility-sector" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">South Korea to prioritize chips, AI in record 2027 budget</span></td>
+  <td class="col-summary">Budget Minister Park Hong-keun said the plan would be financed through higher tax receipts and spending cuts.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-boom-drives-taiwan-exports-403-june" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">AI-driven 'chipflation' puts chill on electronics purchases</span></td>
+  <td class="col-summary">AI-driven 'chipflation' puts chill on electronics purchases</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/ai-driven-chipflation-puts-chill-on-electronics-purchases" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">13</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan voice actor fights clones with AI of his own</span></td>
+  <td class="col-summary">Japan voice actor fights clones with AI of his own</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-voice-actor-fights-clones-with-ai-of-his-own" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">14</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan's soaring AI stocks push smaller firms out of Topix index</span></td>
+  <td class="col-summary">Japan's soaring AI stocks push smaller firms out of Topix index</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/equities/japan-s-soaring-ai-stocks-push-smaller-firms-out-of-topix-index" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia 50 rising AI startups in Asia These AI startups have a shot at becoming the next big thing. AI Read 2 EETAsia RECOM Expands Beyond Power Modules as AI Reshapes Power Management Design AI-driven power density demands are pushing RECOM to broaden its portfolio from modules to complete power management design solutions worldwide. The post RECOM Expands Beyond Power Modules as AI Reshapes Power Management Design appeared first on EE Times Asia . AI Read 3 DigiTimes TASC reshuffles management as PASC targets 2027 Taiwan Innovation Board listing Taiwan-Asia Semiconductor (TASC) has announced senior management changes at its group companies as ProAsia Semiconductor (PASC) prepares for a Taiwan Innovation Board listing, now expected in the first or second quarter of 2027. The overhaul is aimed at meeting listing requirements on corporate governance, independence Semiconductor Read 4 DigiTimes China quantum research wins UNESCO, IEEE honors China's quantum technology research has drawn renewed international academic recognition. The University of Science and Technology of China (USTC) said Chinese Academy of Sciences academician Jianwei Pan has received the third UNESCO-Russia Mendeleev International Prize and later shared the 2026 IEEE Photonics Society Electronics Read 5 DigiTimes Analysis: Why Meta's AI strategy sparked a market misread Reports that Meta is considering leasing out idle AI computing capacity have rattled investors. But treating Meta's predicament as a warning sign for the entire AI industry is a classic case of overgeneralization. AI Read 6 CNA Commentary: AI has changed the way my students write and that worries me The problem is when students begin to believe that having access to well-phrased answers is the same as developing genuine knowledge, says university lecturer Kennedy Albar. AI Read 7 CNA Commentary: SK Hynix is a golden goose. It has to lay more eggs The chipmaker’s blockbuster US listing signals South Korea’s arrival on the global economic stage, but retail investors should tread carefully, says Shuli Ren for Bloomberg Opinion. Semiconductor Read 8 EW Intel puts $5.7bn into Leixlip Intel today announced a $5.7 billion capital investment in Fab 34 at Leixlip, Ireland, to retrofit the fab for the Intel 3 process. Intel is scaling capacity in Ireland to ... The post Intel puts $5.7bn into Leixlip appeared first on Electronics Weekly . ElectronicsSemiconductor Read 9 EW China’s Massive Battery Build Capacity China’s grid-scale battery energy storage capacity surged from just 2.4 gigawatts in 2020 to more than 140 gigawatts in 2025 – far ahead of the United States, which reached roughly 57 ... The post China’s Massive Battery Build Capacity appeared first on Electronics Weekly . Electronics Read 10 TechAsia Zhipu AI shifts focus to AGI research Co-founder Tang Jie said Zhipu would spend the next two years on AGI-related research, including autonomous AI agents and AI safety. AI Read 11 TechAsia South Korea to prioritize chips, AI in record 2027 budget Budget Minister Park Hong-keun said the plan would be financed through higher tax receipts and spending cuts. AISemiconductor Read 12 NikkeiAsia AI-driven 'chipflation' puts chill on electronics purchases AI-driven 'chipflation' puts chill on electronics purchases ElectronicsSemiconductor Read 13 NikkeiAsia Japan voice actor fights clones with AI of his own Japan voice actor fights clones with AI of his own AI Read 14 NikkeiAsia Japan's soaring AI stocks push smaller firms out of Topix index Japan's soaring AI stocks push smaller firms out of Topix index AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 13, 2026</title><link href="https://asiatechfeed.com/2026/07/13/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 13, 2026" /><published>2026-07-13T08:00:56+00:00</published><updated>2026-07-13T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/07/13/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/13/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -667,49 +792,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/china-telecom-giants-invest-ar-glasses-maker-rayneo" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA South Korea to create future fund from chip windfall to spur growth, tackle inequality A top official says the government will use the "Future Response Fund" to help finance major national investment projects and strengthen the country's long-term competitiveness. Read 2 DigiTimes From Bloomberg to DIGITIMES: building a media model for the AI era Manhattan is where financial giants gather. By the weekend, the crowds become so dense that near Times Square, even moving through the streets can be difficult. At moments like this, a walk through Central Park becomes the best choice. With its forests, streams, and seemingly natural ecology, and with plane trees, pine AI Read 3 DigiTimes AI PCs, AR glasses, and robots reshape display tech The rapid expansion of AI applications is redefining what device makers need from display technology. AIAutomation Read 4 DigiTimes Applied Materials unveils integrated tools for HBM, chiplet, and 3D packaging scale-up Applied Materials announced a new equipment platform aimed at addressing the memory bandwidth and energy-efficiency bottleneck confronting AI computing, unveiling tools across DRAM, advanced packaging, and process control to help chipmakers boost yields and accelerate mass production. The company said the platform comb AI Read 5 TechAsia SK Telecom plans up to 15GW of AI data centers in Korea SK Telecom's planned 15GW AI data center capacity far exceeds South Korea's current 591MW base. AI Read 6 TechAsia China Mobile launches AI-eSIM industry committee The committee includes over 40 companies from telecom, chip design, AI, and security sectors. Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 04, 2026</title><link href="https://asiatechfeed.com/2026/07/04/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 04, 2026" /><published>2026-07-04T09:09:02+00:00</published><updated>2026-07-04T09:09:02+00:00</updated><id>https://asiatechfeed.com/2026/07/04/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/04/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Infineon wins fourth German patent ruling against Innoscience, as GaN fight flares in Shanghai</span></td>
-  <td class="col-summary">Germany's District Court Munich I ruled on July 3 that Innoscience infringed Infineon Technologies' gallium nitride (GaN) patents, barring the Chinese chipmaker from importing, selling, or marketing the affected products in Germany and ordering it to pay damages.</td>
-  <td class="col-tags"></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260704VL200.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SoftBank targets AI cloud market with 10GW US rental plan</span></td>
-  <td class="col-summary">SoftBank Group (SBG) and telecom subsidiary SoftBank said they will set up a new company in the US in July 2026 to rent out AI computing resources, aiming to challenge CoreWeave and Nebius in the fast-growing AI cloud market. The new unit, SB Neo, is scheduled to begin operations in fiscal 2027 (April 2027 to March 202</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260703PD227/market-telecom-data-center-subsidiary-capacity.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung and SK Hynix seek substrate price cuts for the second half of 2026</span></td>
-  <td class="col-summary">Samsung Electronics and SK Hynix are reportedly pressing South Korean semiconductor substrate suppliers to lower prices for the second half of 2026, even as memory demand remains in a Super Cycle. According to ET News , the talks have intensified pressure across the supply chain as raw material costs stay high and subs</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260703PD232/samsung-sk-hynix-substrate-2026-copper.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Korea’s DeepX partners with Koshida for Japan AI push</span></td>
-  <td class="col-summary">The alliance aims to penetrate Japan's edge AI market, specifically targeting manufacturing, robotics, automotive, and industrial automation.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/hyundai-motor-unveils-on-device-ai-chip-for-robots" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Infineon wins fourth German patent ruling against Innoscience, as GaN fight flares in Shanghai Germany's District Court Munich I ruled on July 3 that Innoscience infringed Infineon Technologies' gallium nitride (GaN) patents, barring the Chinese chipmaker from importing, selling, or marketing the affected products in Germany and ordering it to pay damages. Read 2 DigiTimes SoftBank targets AI cloud market with 10GW US rental plan SoftBank Group (SBG) and telecom subsidiary SoftBank said they will set up a new company in the US in July 2026 to rent out AI computing resources, aiming to challenge CoreWeave and Nebius in the fast-growing AI cloud market. The new unit, SB Neo, is scheduled to begin operations in fiscal 2027 (April 2027 to March 202 AI Read 3 DigiTimes Samsung and SK Hynix seek substrate price cuts for the second half of 2026 Samsung Electronics and SK Hynix are reportedly pressing South Korean semiconductor substrate suppliers to lower prices for the second half of 2026, even as memory demand remains in a Super Cycle. According to ET News , the talks have intensified pressure across the supply chain as raw material costs stay high and subs SemiconductorElectronicsLogistics Read 4 TechAsia Korea’s DeepX partners with Koshida for Japan AI push The alliance aims to penetrate Japan's edge AI market, specifically targeting manufacturing, robotics, automotive, and industrial automation. AIAutomation Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA South Korea to create future fund from chip windfall to spur growth, tackle inequality A top official says the government will use the "Future Response Fund" to help finance major national investment projects and strengthen the country's long-term competitiveness. Read 2 DigiTimes From Bloomberg to DIGITIMES: building a media model for the AI era Manhattan is where financial giants gather. By the weekend, the crowds become so dense that near Times Square, even moving through the streets can be difficult. At moments like this, a walk through Central Park becomes the best choice. With its forests, streams, and seemingly natural ecology, and with plane trees, pine AI Read 3 DigiTimes AI PCs, AR glasses, and robots reshape display tech The rapid expansion of AI applications is redefining what device makers need from display technology. AIAutomation Read 4 DigiTimes Applied Materials unveils integrated tools for HBM, chiplet, and 3D packaging scale-up Applied Materials announced a new equipment platform aimed at addressing the memory bandwidth and energy-efficiency bottleneck confronting AI computing, unveiling tools across DRAM, advanced packaging, and process control to help chipmakers boost yields and accelerate mass production. The company said the platform comb AI Read 5 TechAsia SK Telecom plans up to 15GW of AI data centers in Korea SK Telecom's planned 15GW AI data center capacity far exceeds South Korea's current 591MW base. AI Read 6 TechAsia China Mobile launches AI-eSIM industry committee The committee includes over 40 companies from telecom, chip design, AI, and security sectors. Read]]></summary></entry></feed>
