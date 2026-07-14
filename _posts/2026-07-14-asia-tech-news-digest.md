@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Asia Tech News Digest - July 14, 2026"
-date: 2026-07-14 11:15:56 +0800
-articles_count: 12
-sources_count: 5
-sources: ["DigiTimes", "EETAsia", "NikkeiAsia", "SemiEng", "TechAsia"]
+date: 2026-07-14 16:00:57 +0800
+articles_count: 11
+sources_count: 4
+sources: ["CNA", "DigiTimes", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-07-14.tsv
-featured_title: "SoftBank, OpenAI launch Japan cyber service for 3,000 firms"
-featured_url: "https://www.techinasia.com/softbanks-6b-openaibacked-loan-talks-stall"
+featured_title: "SK Telecom to lead South Korea\u2019s AI network project"
+featured_url: "https://www.techinasia.com/sk-telecom-builds-ai-factory-software-with-nvidia"
 featured_source: "TechAsia"
-featured_summary: "SB OAI Japan, SoftBank and OpenAI\u2019s Japan enterprise AI joint venture, is owned 50-50 by the two companies."
+featured_summary: "SK Telecom will compare equipment from Samsung Electronics, HFR, Ericsson, and Nokia."
 featured_image: ""
 ---
 
@@ -28,98 +28,90 @@ featured_image: ""
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SoftBank, OpenAI launch Japan cyber service for 3,000 firms</span></td>
-  <td class="col-summary">SB OAI Japan, SoftBank and OpenAI’s Japan enterprise AI joint venture, is owned 50-50 by the two companies.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/softbanks-6b-openaibacked-loan-talks-stall" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">SK Telecom to lead South Korea’s AI network project</span></td>
+  <td class="col-summary">SK Telecom will compare equipment from Samsung Electronics, HFR, Ericsson, and Nokia.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-telecom-builds-ai-factory-software-with-nvidia" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Intel challenges HBM leaders with XBM and ZAM in a bid to reshape AI memory</span></td>
-  <td class="col-summary">Intel is developing a new memory architecture aimed at challenging the dominance of high-bandwidth memory (HBM), with commercialization targeted for around 2030. Although the path is fraught with ecosystem barriers and compatibility hurdles, Intel's parallel development of Z-angle memory (ZAM) and cross-batch memory (X</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">India's AI training boom draws professionals seeking an edge, but questions remain over quality</span></td>
+  <td class="col-summary">In the first of a two-part series on how India is preparing for an AI-powered future, CNA examines the growing business of artificial intelligence upskilling and the questions surrounding the value of these programmes.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260713PD227/intel-hbm-dram-2030-patent.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/india-artificial-intelligence-upskilling-boom-working-professionals-6252671" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">The AI agent startup bringing shared memory to real estate sales</span></td>
-  <td class="col-summary">This article is a part of Startup Spotlight, a series that features young, up-and-coming startups. Himanshu Geed was helping a friend buy a home in Dubai. They contacted three developers, but experienced slow replies and disjointed communication across channels. Geed decided to pivoted from the hiring startup he had co</td>
+  <td class="col-title"><span class="article-title">Automating the enterprise with AI workforce layers</span></td>
+  <td class="col-summary">With 14,000 global users, Diaflow replaces rigid enterprise software with AI workers that can execute multi-step logic pipelines automatically.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-agent-startup-bringing-shared-memory-real-estate-sales" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/automating-enterprise-ai-workforce-layers" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AI demand pushes global ABF substrate market into shortage, with pressure seen through 2028</span></td>
-  <td class="col-summary">The AI boom is tightening an important but often overlooked part of the chip supply chain, with global readers likely to feel the effects through higher costs, delayed capacity, and uneven access to advanced processors. As demand for CPUs, GPUs, and ASICs rises, ABF substrate supply is tightening, and the squeeze is ex</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260714PD214/demand-abf-substrate-2028-market-chip-supply.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Rambus unveils DDR5 9600 chipset for next-generation AI servers</span></td>
+  <td class="col-summary">Rambus has introduced a new DDR5 9600 server RDIMM chipset aimed at faster, denser data center memory systems. The move matters beyond one supplier because higher bandwidth and better power efficiency are becoming essential for AI inference, cloud computing, and HPC platforms used by businesses and consumers worldwide.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260714PR204/rambus-ddr5-chipset-ai-server-data-center.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Commentary: Huawei builds NPO alliance to shape CPO-era optical interconnect standards</span></td>
-  <td class="col-summary">The AI race is expanding from computing power to data transmission, making optical interconnects a critical battleground for next-generation AI infrastructure.</td>
+  <td class="col-title"><span class="article-title">Commentary: AI computing power map reshapes ASEAN, with Singapore still central</span></td>
+  <td class="col-summary">In the second quarter of 2025, DIGITIMES visited the rapidly expanding Johor-Singapore Special Economic Zone (JS-SEZ) and Wiwynn's massive AI server system integration (SI) factory. Microsoft also granted a media interview, using the occasion to discuss Singapore's role as the hub of the broader ASEAN AI ecosystem.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260713PD210/huawei-data-cpo-equipment-transmission.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260714PD224/digitimes-asean-ai-singapore-2025.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Electronic System Design Industry Revenue Up 13% in 1Q 2026</span></td>
-  <td class="col-summary">The electronic design automation industry continued to report strong year-over-year revenue growth in 1Q 2026. The post Electronic System Design Industry Revenue Up 13% in 1Q 2026 appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/electronic-system-design-industry-revenue-up-13-in-1q-2026/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">India's LTM expects AI revenue to outpace traditional services, CEO says</span></td>
+  <td class="col-summary">India's LTM expects AI revenue to outpace traditional services, CEO says</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/indias-ltm-expects-ai-revenue-outpace-traditional-services-ceo-says-6252781" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">DEEPX Strengthens Presence in APAC Through Partnership with Avnet</span></td>
-  <td class="col-summary">DEEPX broadens its APAC distribution through Avnet to accelerate adoption of ultra-low-power edge AI solutions across key regional markets. The post DEEPX Strengthens Presence in APAC Through Partnership with Avnet appeared first on EE Times Asia .</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">HubSpot’s CRO treats early AI revenue as a hidden trap</span></td>
+  <td class="col-summary">Mark Roberge warns AI founders that early sales do not justify scaling. Startups must prove consistent product value before adding headcount.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/deepx-strengthens-presence-in-apac-through-partnership-with-avnet/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-startup-trap-early-sales" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">SemiEng</span></td>
-  <td class="col-title"><span class="article-title">EDA Revenue Up 12.7%; APAC Roars Back</span></td>
-  <td class="col-summary">Market strength remains in double digits for most categories. The post EDA Revenue Up 12.7%; APAC Roars Back appeared first on Semiconductor Engineering .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://semiengineering.com/eda-revenue-up-12-7-apac-roars-back/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">SoftBank's Son says AI will need $5 trillion per year by 2040, dismisses bubble talk</span></td>
+  <td class="col-summary">SoftBank's Son says AI will need $5 trillion per year by 2040, dismisses bubble talk</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/softbanks-son-says-ai-will-need-5-trillion-year-2040-dismisses-bubble-talk-6252696" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Data walls: protection or trap?</span></td>
-  <td class="col-summary">We dive into the costs of strict data sovereignty mandates in Southeast Asia and get a snapshot of Japan’s thriving AI ecosystem.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/data-walls-protection-or-trap" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Ingenic's first-half profit set to jump more than 400% as memory super-cycle lifts chip prices</span></td>
+  <td class="col-summary">Chinese chip designer Ingenic Semiconductor expects its net profit for the first half of 2026 to surge between 431% and 531% year-over-year, to a range of CNY1.079 billion (approx. US$159.14 million) to CNY1.282 billion, as a memory-market super-cycle drives up prices for its DRAM and Flash products, according to a pre</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260714PR202/dram-profit-chips-earnings-2026.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">China's trade expands on AI boom, offsetting weak sectors</span></td>
-  <td class="col-summary">China's trade expands on AI boom, offsetting weak sectors</td>
+  <td class="col-title"><span class="article-title">SoftBank's Son says AI boom will require $5tn in annual investment</span></td>
+  <td class="col-summary">SoftBank's Son says AI boom will require $5tn in annual investment</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/economy/china-s-trade-expands-on-ai-boom-offsetting-weak-sectors" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/softbank/softbank-s-son-says-ai-boom-will-require-5tn-in-annual-investment" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">11</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Taiwan's No. 2 chipmaker UMC starts photonic chip production in Singapore</span></td>
-  <td class="col-summary">Taiwan's No. 2 chipmaker UMC starts photonic chip production in Singapore</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-no.-2-chipmaker-umc-starts-photonic-chip-production-in-singapore" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Chinese robot startup LimX Dynamics raises $200m to improve autonomy</span></td>
-  <td class="col-summary">Chinese robot startup LimX Dynamics raises $200m to improve autonomy</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/chinese-robot-startup-limx-dynamics-raises-200m-to-improve-autonomy" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Japan enacts social media law requiring flagging of AI content in elections</span></td>
+  <td class="col-summary">Japan enacts social media law requiring flagging of AI content in elections</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/politics/japan-enacts-social-media-law-requiring-flagging-of-ai-content-in-elections" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>

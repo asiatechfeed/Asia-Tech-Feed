@@ -1,39 +1,38 @@
 {
   "date": "2026-07-14",
-  "count": 12,
+  "count": 11,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
-    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-07-14-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "SoftBank, OpenAI launch Japan cyber service for 3,000 firms",
+      "title": "SK Telecom to lead South Korea\u2019s AI network project",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/softbanks-6b-openaibacked-loan-talks-stall"
+      "url": "https://www.techinasia.com/sk-telecom-builds-ai-factory-software-with-nvidia"
     },
     {
-      "title": "Intel challenges HBM leaders with XBM and ZAM in a bid to reshape AI memory",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260713PD227/intel-hbm-dram-2030-patent.html"
+      "title": "India's AI training boom draws professionals seeking an edge, but questions remain over quality",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/india-artificial-intelligence-upskilling-boom-working-professionals-6252671"
     },
     {
-      "title": "The AI agent startup bringing shared memory to real estate sales",
+      "title": "Automating the enterprise with AI workforce layers",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/ai-agent-startup-bringing-shared-memory-real-estate-sales"
+      "url": "https://www.techinasia.com/automating-enterprise-ai-workforce-layers"
     },
     {
-      "title": "AI demand pushes global ABF substrate market into shortage, with pressure seen through 2028",
+      "title": "Rambus unveils DDR5 9600 chipset for next-generation AI servers",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260714PD214/demand-abf-substrate-2028-market-chip-supply.html"
+      "url": "https://www.digitimes.com/news/a20260714PR204/rambus-ddr5-chipset-ai-server-data-center.html"
     },
     {
-      "title": "Commentary: Huawei builds NPO alliance to shape CPO-era optical interconnect standards",
+      "title": "Commentary: AI computing power map reshapes ASEAN, with Singapore still central",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260713PD210/huawei-data-cpo-equipment-transmission.html"
+      "url": "https://www.digitimes.com/news/a20260714PD224/digitimes-asean-ai-singapore-2025.html"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -130,8 +129,8 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
-      "relevant": 0,
+      "fetched": 10,
+      "relevant": 2,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -151,14 +150,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 40,
-      "relevant": 31,
+      "fetched": 54,
+      "relevant": 41,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 10,
+      "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -214,7 +213,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     }
   ]
