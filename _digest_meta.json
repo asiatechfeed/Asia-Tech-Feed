@@ -1,38 +1,39 @@
 {
   "date": "2026-07-15",
-  "count": 11,
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-15-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "DeepSeek in talks to raise $1.5b at $71b valuation",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/deepseek-plans-74b-raise-tencent-catl"
+      "title": "DEEPX Expands Physical AI Platform Through Global Developer Ecosystem Collaborations",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/deepx-expands-physical-ai-platform-through-global-developer-ecosystem-collaborations/"
     },
     {
-      "title": "Google sued over Gemini AI training data",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/google-limits-metas-gemini-ai-acces"
+      "title": "TYLSemi exits stealth with US$43M to accelerate open chiplet platform for custom AI chips",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260715VL213/startup-chips-qualcomm-development-acquisition.html"
     },
     {
-      "title": "Exclusive-AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/exclusive-ai-cloud-company-coreweave-explores-wall-street-playbook-hedge-memory-chip-price-risk-6254781"
+      "title": "Google pushes India from AI demos to daily deployment, focusing on startups, skilling, and agent safety",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260715VL209/google-2026-education-security-startup.html"
     },
     {
-      "title": "OpenAI eyes 2027 launch for AI home device",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/openai-ai-race-compute-agents"
+      "title": "SLC NAND Prices Projected to Increase by Up to 170% in 2H 2026",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/slc-nand-prices-projected-to-increase-by-up-to-170-in-2h-2026/"
     },
     {
-      "title": "Japan manufacturers stay upbeat on chip demand, services hit by costs",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/japan-manufacturers-stay-upbeat-chip-demand-services-hit-costs-6254711"
+      "title": "Mistral AI urges France to reserve cheap power for European AI firms",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260715PD200/france-mistral-ai-electricity-demand.html"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -148,9 +149,9 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -166,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 14,
+      "relevant": 13,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -193,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
