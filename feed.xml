@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-15T00:05:00+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 15, 2026</title><link href="https://asiatechfeed.com/2026/07/15/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 15, 2026" /><published>2026-07-15T00:04:18+00:00</published><updated>2026-07-15T00:04:18+00:00</updated><id>https://asiatechfeed.com/2026/07/15/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/15/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-15T03:16:59+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 15, 2026</title><link href="https://asiatechfeed.com/2026/07/15/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 15, 2026" /><published>2026-07-15T03:15:32+00:00</published><updated>2026-07-15T03:15:32+00:00</updated><id>https://asiatechfeed.com/2026/07/15/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/15/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,94 +12,102 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">DeepSeek in talks to raise $1.5b at $71b valuation</span></td>
-  <td class="col-summary">DeepSeek's cloud service reportedly runs on chips made by Huawei Technologies.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/deepseek-plans-74b-raise-tencent-catl" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">DEEPX Expands Physical AI Platform Through Global Developer Ecosystem Collaborations</span></td>
+  <td class="col-summary">DEEPX is broadening its Physical AI platform through developer ecosystem collaborations spanning AI models, frameworks and hardware. The post DEEPX Expands Physical AI Platform Through Global Developer Ecosystem Collaborations appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/deepx-expands-physical-ai-platform-through-global-developer-ecosystem-collaborations/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Google sued over Gemini AI training data</span></td>
-  <td class="col-summary">Plaintiffs include major publishers like Hachette and author Scott Turow.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/google-limits-metas-gemini-ai-acces" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">TYLSemi exits stealth with US$43M to accelerate open chiplet platform for custom AI chips</span></td>
+  <td class="col-summary">TYLSemi, a semiconductor startup founded by former executives of AlphaWave, the connectivity chip specialist acquired by Qualcomm, has emerged from stealth with US$43 million in early-stage funding to help companies develop custom AI chips through an open, chiplet-based approach.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260715VL213/startup-chips-qualcomm-development-acquisition.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Exclusive-AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk</span></td>
-  <td class="col-summary">Exclusive-AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/exclusive-ai-cloud-company-coreweave-explores-wall-street-playbook-hedge-memory-chip-price-risk-6254781" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Google pushes India from AI demos to daily deployment, focusing on startups, skilling, and agent safety</span></td>
+  <td class="col-summary">Google used its I/O Connect India 2026 developer event in Bengaluru on July 14 to reframe its India strategy around getting artificial intelligence into everyday use, unveiling a bundle of education, startup, enterprise, and security initiatives aimed at helping the country build AI "for India, with India." The announc</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260715VL209/google-2026-education-security-startup.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">OpenAI eyes 2027 launch for AI home device</span></td>
-  <td class="col-summary">OpenAI's new smart speaker will feature a rechargeable battery, camera, and advanced GPT-Live voice mode.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-ai-race-compute-agents" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">SLC NAND Prices Projected to Increase by Up to 170% in 2H 2026</span></td>
+  <td class="col-summary">Demand for SLC NAND continues to grow in AI edge computing, data centers, and automotive electronics. The post SLC NAND Prices Projected to Increase by Up to 170% in 2H 2026 appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/slc-nand-prices-projected-to-increase-by-up-to-170-in-2h-2026/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Japan manufacturers stay upbeat on chip demand, services hit by costs</span></td>
-  <td class="col-summary">Japan manufacturers stay upbeat on chip demand, services hit by costs</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/japan-manufacturers-stay-upbeat-chip-demand-services-hit-costs-6254711" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Mistral AI urges France to reserve cheap power for European AI firms</span></td>
+  <td class="col-summary">Arthur Mensch, CEO of French AI startup Mistral AI, said France should prioritize low-cost nuclear electricity for domestic and European AI companies as US technology groups expand their demand for power. The warning came during the G7 summit, where the startup argued that Europe could lose its energy advantage within </td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260715PD200/france-mistral-ai-electricity-demand.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Column: Digital AI and Physical AI follow the same growth logic</span></td>
-  <td class="col-summary">At a humanoid robotics summit in Tokyo in May 2026, I saw a consulting firm's global labor automation map for Physical AI. After returning, I recreated the same map using the firm's research on Digital AI job functions. Placing the two side by side revealed something unexpected.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260714PD215/ai-automation-growth-labor-robotics-2026.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Asahi Kasei Enhances Taiwan Facility Capabilities to Meet Growing Demand for Advanced Packaging</span></td>
+  <td class="col-summary">Asahi Kasei expands SUNFORT dry film photoresist capacity in Taiwan to support growing advanced semiconductor packaging demand. The post Asahi Kasei Enhances Taiwan Facility Capabilities to Meet Growing Demand for Advanced Packaging appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/asahi-kasei-enhances-taiwan-facility-capabilities-to-meet-growing-demand-for-advanced-packaging/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Treading the market slowdown: IT panel demand cools as Taiwan display makers pivot to AI</span></td>
-  <td class="col-summary">As early inventory stocking by brand customers winds down, China's 618 Shopping Festival delivers weaker-than-expected sales, and LCD TV panel prices begin to retreat, demand for monitor and notebook (NB) panels is cooling in the third quarter. Despite the slowdown, panel makers remain reluctant to cut prices amid elev</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Keeping AI agents running in the business chat</span></td>
+  <td class="col-summary">As SMBs run more of their operations through WhatsApp and Telegram, Hostinger’s infrastructure helps keep AI agents accessible, connected, and always</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260713PD219/display-demand-panel-inventory-market.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/keeping-ai-agents-running-business-chat" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">South Korea exports top US$100B in a month, stoking chip dependence fears</span></td>
-  <td class="col-summary">South Korea's exports surpassed US$100 billion in a single month for the first time in June 2026, raising expectations that the country could exceed US$1 trillion in annual exports this year. While the milestone underscores the strength of South Korea's export sector, it has also renewed debate over the economy's growi</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260713PD206/exports-2026-semiconductors-growth-data.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia-backed AI startup Reflection inks $1b Nebius deal</span></td>
+  <td class="col-summary">Reflection AI was founded in 2024 by two former Google DeepMind researchers.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/pentagon-awards-scale-ai-500m-military-contract" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Taiwan companies use AI to make AI servers</span></td>
-  <td class="col-summary">Taiwan companies use AI to make AI servers</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba, Honor to expand AI OS partnership, sources say</span></td>
+  <td class="col-summary">Shenzhen-based Honor, spun off from Huawei in 2020, described Agentic OS as an operating system for devices centered on user intent.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/taiwan-companies-use-ai-to-make-ai-servers" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-cloud-opens-france-region-to-expand-europe-push" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">From TVs to AI: Japan's old electronics giants tune into digital world</span></td>
-  <td class="col-summary">From TVs to AI: Japan's old electronics giants tune into digital world</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/business-asia/from-tvs-to-ai-japan-s-old-electronics-giants-tune-into-digital-world" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">SK Hynix shares surge 13% on AI hopes as US tech stocks resume their climb</span></td>
+  <td class="col-summary">SK Hynix shares surge 13% on AI hopes as US tech stocks resume their climb</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/sk-hynix-shares-surge-13-ai-hopes-us-tech-stocks-resume-their-climb-6254871" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">11</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan ruling party weighs lifting US potato ban as trade bargaining chip</span></td>
-  <td class="col-summary">Japan ruling party weighs lifting US potato ban as trade bargaining chip</td>
+  <td class="col-title"><span class="article-title">CXMT to raise $8.5bn in largest Chinese chip IPO</span></td>
+  <td class="col-summary">CXMT to raise $8.5bn in largest Chinese chip IPO</td>
   <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/economy/trade/japan-ruling-party-weighs-lifting-us-potato-ban-as-trade-bargaining-chip" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/cxmt-to-raise-8.5bn-in-largest-chinese-chip-ipo" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia, Mitsubishi Heavy eye cooperation on AI data center cooling and power</span></td>
+  <td class="col-summary">Nvidia, Mitsubishi Heavy eye cooperation on AI data center cooling and power</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-mitsubishi-heavy-eye-cooperation-on-ai-data-center-cooling-and-power" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia DeepSeek in talks to raise $1.5b at $71b valuation DeepSeek's cloud service reportedly runs on chips made by Huawei Technologies. Semiconductor Read 2 TechAsia Google sued over Gemini AI training data Plaintiffs include major publishers like Hachette and author Scott Turow. AI Read 3 CNA Exclusive-AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk Exclusive-AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk Semiconductor Read 4 TechAsia OpenAI eyes 2027 launch for AI home device OpenAI's new smart speaker will feature a rechargeable battery, camera, and advanced GPT-Live voice mode. AI Read 5 CNA Japan manufacturers stay upbeat on chip demand, services hit by costs Japan manufacturers stay upbeat on chip demand, services hit by costs Semiconductor Read 6 DigiTimes Column: Digital AI and Physical AI follow the same growth logic At a humanoid robotics summit in Tokyo in May 2026, I saw a consulting firm's global labor automation map for Physical AI. After returning, I recreated the same map using the firm's research on Digital AI job functions. Placing the two side by side revealed something unexpected. AIAutomation Read 7 DigiTimes Treading the market slowdown: IT panel demand cools as Taiwan display makers pivot to AI As early inventory stocking by brand customers winds down, China's 618 Shopping Festival delivers weaker-than-expected sales, and LCD TV panel prices begin to retreat, demand for monitor and notebook (NB) panels is cooling in the third quarter. Despite the slowdown, panel makers remain reluctant to cut prices amid elev AI Read 8 DigiTimes South Korea exports top US$100B in a month, stoking chip dependence fears South Korea's exports surpassed US$100 billion in a single month for the first time in June 2026, raising expectations that the country could exceed US$1 trillion in annual exports this year. While the milestone underscores the strength of South Korea's export sector, it has also renewed debate over the economy's growi Semiconductor Read 9 NikkeiAsia Taiwan companies use AI to make AI servers Taiwan companies use AI to make AI servers AI Read 10 NikkeiAsia From TVs to AI: Japan's old electronics giants tune into digital world From TVs to AI: Japan's old electronics giants tune into digital world Electronics Read 11 NikkeiAsia Japan ruling party weighs lifting US potato ban as trade bargaining chip Japan ruling party weighs lifting US potato ban as trade bargaining chip Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 14, 2026</title><link href="https://asiatechfeed.com/2026/07/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 14, 2026" /><published>2026-07-14T08:00:57+00:00</published><updated>2026-07-14T08:00:57+00:00</updated><id>https://asiatechfeed.com/2026/07/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 EETAsia DEEPX Expands Physical AI Platform Through Global Developer Ecosystem Collaborations DEEPX is broadening its Physical AI platform through developer ecosystem collaborations spanning AI models, frameworks and hardware. The post DEEPX Expands Physical AI Platform Through Global Developer Ecosystem Collaborations appeared first on EE Times Asia . AI Read 2 DigiTimes TYLSemi exits stealth with US$43M to accelerate open chiplet platform for custom AI chips TYLSemi, a semiconductor startup founded by former executives of AlphaWave, the connectivity chip specialist acquired by Qualcomm, has emerged from stealth with US$43 million in early-stage funding to help companies develop custom AI chips through an open, chiplet-based approach. SemiconductorAI Read 3 DigiTimes Google pushes India from AI demos to daily deployment, focusing on startups, skilling, and agent safety Google used its I/O Connect India 2026 developer event in Bengaluru on July 14 to reframe its India strategy around getting artificial intelligence into everyday use, unveiling a bundle of education, startup, enterprise, and security initiatives aimed at helping the country build AI "for India, with India." The announc AI Read 4 EETAsia SLC NAND Prices Projected to Increase by Up to 170% in 2H 2026 Demand for SLC NAND continues to grow in AI edge computing, data centers, and automotive electronics. The post SLC NAND Prices Projected to Increase by Up to 170% in 2H 2026 appeared first on EE Times Asia . ElectronicsAI Read 5 DigiTimes Mistral AI urges France to reserve cheap power for European AI firms Arthur Mensch, CEO of French AI startup Mistral AI, said France should prioritize low-cost nuclear electricity for domestic and European AI companies as US technology groups expand their demand for power. The warning came during the G7 summit, where the startup argued that Europe could lose its energy advantage within AI Read 6 EETAsia Asahi Kasei Enhances Taiwan Facility Capabilities to Meet Growing Demand for Advanced Packaging Asahi Kasei expands SUNFORT dry film photoresist capacity in Taiwan to support growing advanced semiconductor packaging demand. The post Asahi Kasei Enhances Taiwan Facility Capabilities to Meet Growing Demand for Advanced Packaging appeared first on EE Times Asia . Semiconductor Read 7 TechAsia Keeping AI agents running in the business chat As SMBs run more of their operations through WhatsApp and Telegram, Hostinger’s infrastructure helps keep AI agents accessible, connected, and always AI Read 8 TechAsia Nvidia-backed AI startup Reflection inks $1b Nebius deal Reflection AI was founded in 2024 by two former Google DeepMind researchers. AI Read 9 TechAsia Alibaba, Honor to expand AI OS partnership, sources say Shenzhen-based Honor, spun off from Huawei in 2020, described Agentic OS as an operating system for devices centered on user intent. AI Read 10 CNA SK Hynix shares surge 13% on AI hopes as US tech stocks resume their climb SK Hynix shares surge 13% on AI hopes as US tech stocks resume their climb AI Read 11 NikkeiAsia CXMT to raise $8.5bn in largest Chinese chip IPO CXMT to raise $8.5bn in largest Chinese chip IPO Semiconductor Read 12 NikkeiAsia Nvidia, Mitsubishi Heavy eye cooperation on AI data center cooling and power Nvidia, Mitsubishi Heavy eye cooperation on AI data center cooling and power AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 14, 2026</title><link href="https://asiatechfeed.com/2026/07/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 14, 2026" /><published>2026-07-14T08:00:57+00:00</published><updated>2026-07-14T08:00:57+00:00</updated><id>https://asiatechfeed.com/2026/07/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
