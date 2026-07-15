@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "count": 11,
   "sources": [
     "CNA",
@@ -7,32 +7,32 @@
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-14-asia-tech-news-digest.md",
+  "post_file": "2026-07-15-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "SK Telecom to lead South Korea\u2019s AI network project",
+      "title": "DeepSeek in talks to raise $1.5b at $71b valuation",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/sk-telecom-builds-ai-factory-software-with-nvidia"
+      "url": "https://www.techinasia.com/deepseek-plans-74b-raise-tencent-catl"
     },
     {
-      "title": "India's AI training boom draws professionals seeking an edge, but questions remain over quality",
+      "title": "Google sued over Gemini AI training data",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/google-limits-metas-gemini-ai-acces"
+    },
+    {
+      "title": "Exclusive-AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/india-artificial-intelligence-upskilling-boom-working-professionals-6252671"
+      "url": "https://www.channelnewsasia.com/business/exclusive-ai-cloud-company-coreweave-explores-wall-street-playbook-hedge-memory-chip-price-risk-6254781"
     },
     {
-      "title": "Automating the enterprise with AI workforce layers",
+      "title": "OpenAI eyes 2027 launch for AI home device",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/automating-enterprise-ai-workforce-layers"
+      "url": "https://www.techinasia.com/openai-ai-race-compute-agents"
     },
     {
-      "title": "Rambus unveils DDR5 9600 chipset for next-generation AI servers",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260714PR204/rambus-ddr5-chipset-ai-server-data-center.html"
-    },
-    {
-      "title": "Commentary: AI computing power map reshapes ASEAN, with Singapore still central",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260714PD224/digitimes-asean-ai-singapore-2025.html"
+      "title": "Japan manufacturers stay upbeat on chip demand, services hit by costs",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/japan-manufacturers-stay-upbeat-chip-demand-services-hit-costs-6254711"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -130,7 +130,7 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 2,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -156,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 54,
-      "relevant": 41,
+      "fetched": 35,
+      "relevant": 27,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 11,
+      "relevant": 14,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
