@@ -1,4 +1,89 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-15T08:02:07+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 15, 2026</title><link href="https://asiatechfeed.com/2026/07/15/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 15, 2026" /><published>2026-07-15T08:00:57+00:00</published><updated>2026-07-15T08:00:57+00:00</updated><id>https://asiatechfeed.com/2026/07/15/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/15/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-16T00:04:18+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 16, 2026</title><link href="https://asiatechfeed.com/2026/07/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 16, 2026" /><published>2026-07-16T00:03:36+00:00</published><updated>2026-07-16T00:03:36+00:00</updated><id>https://asiatechfeed.com/2026/07/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">China's top seller of AI compute has emerged without owning the GPUs</span></td>
+  <td class="col-summary">Beijing Approach AI Technology Co., or Approaching.AI, raised more than CNY1 billion within six months by selling AI tokens generated largely on computing infrastructure it does not own.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260715VL223/beijing-capacity-infrastructure-hardware.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Samsung's Honam semiconductor investment faces union pushback as 80% oppose project</span></td>
+  <td class="col-summary">As Samsung Electronics pushes ahead with a major semiconductor investment project in South Korea's Honam region, including Gwangju and South Jeolla Province, labor-management relations have once again emerged as a source of uncertainty.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260714PD237/samsung-ic-manufacturing-government-investment-labor-management.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Column: From K-Semiconductor to AI superpower —How South Korea is taking its next chip leap</span></td>
+  <td class="col-summary">South Korean President Lee Jae-myung unveiled the country's Three Mega Projects for AI and Semiconductors in late June 2026, an ambitious national strategy designed to strengthen South Korea's global leadership in artificial intelligence and semiconductors. The initiative centers on three pillars—semiconductors, physic</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260714PD226/policy-data-manufacturing-investment-packaging.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Latest AI unicorn sees users, revenue spike 4x in only six months</span></td>
+  <td class="col-summary">Emergent becomes a unicorn after raising US$130 million. Exclusive figures reveal how repeat users, hosting, and lower AI costs support its growth.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/latest-ai-unicorn-sees-users-revenue-spike-4x-months" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Samsung plans 100,000-wafer DRAM fab, sources say</span></td>
+  <td class="col-summary">Samsung shares rose more than 6% on July 15 after the report.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/samsung-massproduces-ssd-upcoming-vera-rubin" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">ASML lifts 2026 outlook again on AI chip demand</span></td>
+  <td class="col-summary">The stronger outlook reflects continued demand for ASML’s extreme ultraviolet (EUV) lithography machines.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/asml-euv-tech-raise-chip-production-50-2030" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia partners with Toyota's Woven City on physical AI tech</span></td>
+  <td class="col-summary">Nvidia partners with Toyota's Woven City on physical AI tech</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-partners-with-toyota-s-woven-city-on-physical-ai-tech" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Nikkei APAC forum kicks off in Bangkok to discuss energy, mobility, AI</span></td>
+  <td class="col-summary">Nikkei APAC forum kicks off in Bangkok to discuss energy, mobility, AI</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/nikkei-asia-forum/nikkei-asia-forum-apac-2026/nikkei-apac-forum-kicks-off-in-bangkok-to-discuss-energy-mobility-ai" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Taiwan eyes local AI as digital 'bulwark' against Chinese influence</span></td>
+  <td class="col-summary">Taiwan eyes local AI as digital 'bulwark' against Chinese influence</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/taiwan-eyes-local-ai-as-digital-bulwark-against-chinese-influence" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes China's top seller of AI compute has emerged without owning the GPUs Beijing Approach AI Technology Co., or Approaching.AI, raised more than CNY1 billion within six months by selling AI tokens generated largely on computing infrastructure it does not own. AI Read 2 DigiTimes Samsung's Honam semiconductor investment faces union pushback as 80% oppose project As Samsung Electronics pushes ahead with a major semiconductor investment project in South Korea's Honam region, including Gwangju and South Jeolla Province, labor-management relations have once again emerged as a source of uncertainty. SemiconductorElectronics Read 3 DigiTimes Column: From K-Semiconductor to AI superpower —How South Korea is taking its next chip leap South Korean President Lee Jae-myung unveiled the country's Three Mega Projects for AI and Semiconductors in late June 2026, an ambitious national strategy designed to strengthen South Korea's global leadership in artificial intelligence and semiconductors. The initiative centers on three pillars—semiconductors, physic SemiconductorAI Read 4 TechAsia Latest AI unicorn sees users, revenue spike 4x in only six months Emergent becomes a unicorn after raising US$130 million. Exclusive figures reveal how repeat users, hosting, and lower AI costs support its growth. AI Read 5 TechAsia Samsung plans 100,000-wafer DRAM fab, sources say Samsung shares rose more than 6% on July 15 after the report. Semiconductor Read 6 TechAsia ASML lifts 2026 outlook again on AI chip demand The stronger outlook reflects continued demand for ASML’s extreme ultraviolet (EUV) lithography machines. AISemiconductor Read 7 NikkeiAsia Nvidia partners with Toyota's Woven City on physical AI tech Nvidia partners with Toyota's Woven City on physical AI tech AI Read 8 NikkeiAsia Nikkei APAC forum kicks off in Bangkok to discuss energy, mobility, AI Nikkei APAC forum kicks off in Bangkok to discuss energy, mobility, AI AI Read 9 NikkeiAsia Taiwan eyes local AI as digital 'bulwark' against Chinese influence Taiwan eyes local AI as digital 'bulwark' against Chinese influence AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 15, 2026</title><link href="https://asiatechfeed.com/2026/07/15/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 15, 2026" /><published>2026-07-15T08:00:57+00:00</published><updated>2026-07-15T08:00:57+00:00</updated><id>https://asiatechfeed.com/2026/07/15/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/15/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -747,81 +832,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/samsung-sk-hynix-eye-4-korea-fabs-ai-chip-push" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Unimicron prices US$1.355 billion overseas depositary receipt offering Unimicron Technology has priced a large overseas depositary receipt sale that could affect global investors monitoring Taiwan's electronics supply chain and semiconductor-related financing trends. The deal, which will fund foreign-currency purchases, is expected to reduce interest costs and strengthen the company's bal SemiconductorElectronicsLogistics Read 2 DigiTimes World models can lift South Korea in self-driving tech The global autonomous-driving industry is locked in fierce competition around end-to-end (E2E) self-driving technology, but a world model that can reason through unknown scenarios is the real key to physical AI autonomy, according to an automotive tech researcher in South Korea. AI Read 3 DigiTimes Solstice Advanced Materials to buy Element Solutions in US$14.5 billion deal The planned acquisition of Element Solutions by Solstice Advanced Materials would create a larger supplier serving electronics, data center cooling, and other industrial markets closely watched by customers and investors worldwide. The deal may reshape competition in advanced materials, where demand is rising alongside SemiconductorElectronicsAI Read 4 TechAsia Taiwan chip supplier Unimicron seeks up to $1.4b offering Unimicron's share sale includes a 90-day lock-up for insiders and large shareholders. Semiconductor Read 5 TechAsia Israeli cybersecurity firm Cyera eyes $1b Oasis deal Oasis Security raised US$120 million in Series B funding in March 2026, focusing on AI agent security. AI Read 6 TechAsia Samsung Q2 profit seen up 19x on AI memory demand For now, Samsung said AI-driven demand kept memory chip prices high, helping lift earnings. AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 06, 2026</title><link href="https://asiatechfeed.com/2026/07/06/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 06, 2026" /><published>2026-07-06T12:29:05+00:00</published><updated>2026-07-06T12:29:05+00:00</updated><id>https://asiatechfeed.com/2026/07/06/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/06/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Broadcom, Apple extend chip supply deal through 2031</span></td>
-  <td class="col-summary">Broadcom, Apple extend chip supply deal through 2031</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/broadcom-apple-extend-chip-supply-deal-through-2031-6235391" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Indian IT firms face muted Q1 as AI shift, weak demand weigh</span></td>
-  <td class="col-summary">Indian IT firms face muted Q1 as AI shift, weak demand weigh</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/indian-it-firms-face-muted-q1-ai-shift-weak-demand-weigh-6235131" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Anthropic's reported chip plans with Samsung could ease inference costs, not chase top-end performance</span></td>
-  <td class="col-summary">Anthropic's reported move into in-house chip development could matter well beyond Silicon Valley if it helps lower the cost of running AI services worldwide. By prioritizing cheaper inference rather than elite performance, the startup may be signaling a more pragmatic path that could influence how global AI systems are</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260706PD212/anthropic-ai-inference-samsung-chips-performance.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Jim Keller startup Fab2 targets small-fab mass production</span></td>
-  <td class="col-summary">Atomic Semi, the semiconductor equipment startup founded by chip architect Jim Keller, has rebranded as Fab2 and moved its headquarters to Austin, Texas, with a vision of mass-producing small fabs. According to Tom's Hardware , Fab2's core idea is a "fab fab": it designs and builds all of its own equipment, from pumps,</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260706PD232/equipment-startup-jim-keller-production-fab.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan drone makers gain as Europe focuses on trust and supply chain resilience</span></td>
-  <td class="col-summary">Global drone demand continues to heat up, and Taiwanese manufacturers are aggressively expanding overseas. Industry players say the market's most urgent focus has shifted from price and delivery time to competition among trusted supply chains.</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260703PD228/taiwan-drone-supply-chain-demand-price.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Salesforce broadens Agentforce AI rollout</span></td>
-  <td class="col-summary">Salesforce said integrations with ChatGPT, Google Search, including AI Mode, and the Gemini app will be available in the coming months.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/salesforce-hire-1000-graduates-interns-ai" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Chinese AI chipmaker Biren eyes $892m share sale</span></td>
-  <td class="col-summary">Biren's BR106 and BR166 chips are already in volume production and shipped at scale.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/shanghai-ai-chipmaker-iluvatar-corex-400m-hong-kong-ipo" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Why open-weights don’t fix AI’s cost problem</span></td>
-  <td class="col-summary">Sierra co-founder Clay Bavor argues that open models will handle routine work, but chip and energy limits set a floor on the cost of frontier intelligence.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/open-models-dont-fix-ai-cost" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Broadcom, Apple extend chip supply deal through 2031 Broadcom, Apple extend chip supply deal through 2031 Semiconductor Read 2 CNA Indian IT firms face muted Q1 as AI shift, weak demand weigh Indian IT firms face muted Q1 as AI shift, weak demand weigh AI Read 3 DigiTimes Anthropic's reported chip plans with Samsung could ease inference costs, not chase top-end performance Anthropic's reported move into in-house chip development could matter well beyond Silicon Valley if it helps lower the cost of running AI services worldwide. By prioritizing cheaper inference rather than elite performance, the startup may be signaling a more pragmatic path that could influence how global AI systems are AISemiconductor Read 4 DigiTimes Jim Keller startup Fab2 targets small-fab mass production Atomic Semi, the semiconductor equipment startup founded by chip architect Jim Keller, has rebranded as Fab2 and moved its headquarters to Austin, Texas, with a vision of mass-producing small fabs. According to Tom's Hardware , Fab2's core idea is a "fab fab": it designs and builds all of its own equipment, from pumps, Semiconductor Read 5 DigiTimes Taiwan drone makers gain as Europe focuses on trust and supply chain resilience Global drone demand continues to heat up, and Taiwanese manufacturers are aggressively expanding overseas. Industry players say the market's most urgent focus has shifted from price and delivery time to competition among trusted supply chains. Logistics Read 6 TechAsia Salesforce broadens Agentforce AI rollout Salesforce said integrations with ChatGPT, Google Search, including AI Mode, and the Gemini app will be available in the coming months. AI Read 7 TechAsia Chinese AI chipmaker Biren eyes $892m share sale Biren's BR106 and BR166 chips are already in volume production and shipped at scale. AISemiconductor Read 8 TechAsia Why open-weights don’t fix AI’s cost problem Sierra co-founder Clay Bavor argues that open models will handle routine work, but chip and energy limits set a floor on the cost of frontier intelligence. Semiconductor Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Unimicron prices US$1.355 billion overseas depositary receipt offering Unimicron Technology has priced a large overseas depositary receipt sale that could affect global investors monitoring Taiwan's electronics supply chain and semiconductor-related financing trends. The deal, which will fund foreign-currency purchases, is expected to reduce interest costs and strengthen the company's bal SemiconductorElectronicsLogistics Read 2 DigiTimes World models can lift South Korea in self-driving tech The global autonomous-driving industry is locked in fierce competition around end-to-end (E2E) self-driving technology, but a world model that can reason through unknown scenarios is the real key to physical AI autonomy, according to an automotive tech researcher in South Korea. AI Read 3 DigiTimes Solstice Advanced Materials to buy Element Solutions in US$14.5 billion deal The planned acquisition of Element Solutions by Solstice Advanced Materials would create a larger supplier serving electronics, data center cooling, and other industrial markets closely watched by customers and investors worldwide. The deal may reshape competition in advanced materials, where demand is rising alongside SemiconductorElectronicsAI Read 4 TechAsia Taiwan chip supplier Unimicron seeks up to $1.4b offering Unimicron's share sale includes a 90-day lock-up for insiders and large shareholders. Semiconductor Read 5 TechAsia Israeli cybersecurity firm Cyera eyes $1b Oasis deal Oasis Security raised US$120 million in Series B funding in March 2026, focusing on AI agent security. AI Read 6 TechAsia Samsung Q2 profit seen up 19x on AI memory demand For now, Samsung said AI-driven demand kept memory chip prices high, helping lift earnings. AISemiconductor Read]]></summary></entry></feed>
