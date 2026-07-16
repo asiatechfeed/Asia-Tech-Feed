@@ -1,105 +1,151 @@
 [
   {
     "date": "2026-07-16",
-    "title": "China's top seller of AI compute has emerged without owning the GPUs",
-    "summary": "Beijing Approach AI Technology Co., or Approaching.AI, raised more than CNY1 billion within six months by selling AI tokens generated largely on computing infrastructure it does not own.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260715VL223/beijing-capacity-infrastructure-hardware.html"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "Samsung's Honam semiconductor investment faces union pushback as 80% oppose project",
-    "summary": "As Samsung Electronics pushes ahead with a major semiconductor investment project in South Korea's Honam region, including Gwangju and South Jeolla Province, labor-management relations have once again emerged as a source of uncertainty.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "Electronics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260714PD237/samsung-ic-manufacturing-government-investment-labor-management.html"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "Column: From K-Semiconductor to AI superpower —How South Korea is taking its next chip leap",
-    "summary": "South Korean President Lee Jae-myung unveiled the country's Three Mega Projects for AI and Semiconductors in late June 2026, an ambitious national strategy designed to strengthen South Korea's global leadership in artificial intelligence and semiconductors. The initiative centers on three pillars—semiconductors, physic",
+    "title": "Apple reportedly explores AI chip acquisitions as it races to strengthen its infrastructure",
+    "summary": "Apple is exploring acquisitions of semiconductor companies to accelerate development of AI server chips, reflecting mounting pressure to improve the computing infrastructure behind its AI ambitions, according to The Information.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260714PD226/policy-data-manufacturing-investment-packaging.html"
+    "url": "https://www.digitimes.com/news/a20260716VL210/apple-ai-chip-ai-server-acquisition-infrastructure-nvidia.html"
   },
   {
     "date": "2026-07-16",
-    "title": "Latest AI unicorn sees users, revenue spike 4x in only six months",
-    "summary": "Emergent becomes a unicorn after raising US$130 million. Exclusive figures reveal how repeat users, hosting, and lower AI costs support its growth.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Nvidia doubles down on the land of the rising GPU, wiring Blackwell into Japan's science, banks, factories and cars",
+    "summary": "Nvidia has laid out a sweeping expansion of its Japanese footprint. The company is moving beyond one-off supercomputer wins to embed its Blackwell-generation chips and software across the country's research labs, banks, hospitals, factories, and automakers. The breadth signals that Japan is being positioned as a full \"",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/latest-ai-unicorn-sees-users-revenue-spike-4x-months"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "Samsung plans 100,000-wafer DRAM fab, sources say",
-    "summary": "Samsung shares rose more than 6% on July 15 after the report.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
+      "Automation",
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/samsung-massproduces-ssd-upcoming-vera-rubin"
+    "url": "https://www.digitimes.com/news/a20260716VL209/nvidia-blackwell-expansion-supercomputer-software.html"
   },
   {
     "date": "2026-07-16",
-    "title": "ASML lifts 2026 outlook again on AI chip demand",
-    "summary": "The stronger outlook reflects continued demand for ASML’s extreme ultraviolet (EUV) lithography machines.",
+    "title": "Japan's enterprises and startups adopt Nvidia open models for specialized AI",
+    "summary": "Japan's companies and research institutions are turning to Nvidia's Nemotron open models to build AI tailored to local language, industry, and public-sector needs. The move highlights how open, customizable systems may shape national AI strategies far beyond Japan, affecting productivity, service delivery, and data con",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260716PR203/nvidia-language-data-technology-software.html"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "This startup brings consumption billing to AI",
+    "summary": "Subscriptions don't work for AI products. Flexprice automates complex usage metering so engineers can focus on building instead of billing.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/startup-brings-consumption-billing-ai"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "Edge AI Hits 25% of Smartwatch Shipments in 1Q 2026",
+    "summary": "Global Edge AI-capable smartwatch shipments grew by 70% YoY in 1Q 2026, reaching a market penetration of 25%, according to Counterpoint. The post Edge AI Hits 25% of Smartwatch Shipments in 1Q 2026 appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/edge-ai-hits-25-of-smartwatch-shipments-in-1q-2026/"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "Singapore residents set to spend S$1 billion more a year in JB after RTS Link opens: Study",
+    "summary": "Groceries, drug stores and dining are expected to draw the biggest share of Singapore consumers' spending across the border.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Pharmaceutical"
+    ],
+    "url": "https://www.channelnewsasia.com/singapore/singapore-spend-more-jb-rts-link-opens-6257241"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "SILITH, UMC Reach Silicon Photonics Mass Production Milestone for AI Optical Interconnects",
+    "summary": "SILITH and UMC have achieved mass production of silicon photonics wafers for next-generation AI networking applications. The post SILITH, UMC Reach Silicon Photonics Mass Production Milestone for AI Optical Interconnects appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/silith-umc-reach-silicon-photonics-mass-production-milestone-for-ai-optical-interconnects/"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "Infineon, LS ELECTRIC Partner on DC Power Infrastructure for AI Data Centers",
+    "summary": "Infineon and LS ELECTRIC will develop high-efficiency DC power solutions for AI data centers and future power grids. The post Infineon, LS ELECTRIC Partner on DC Power Infrastructure for AI Data Centers appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/infineon-ls-electric-partner-on-dc-power-infrastructure-for-ai-data-centers/"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "Xpeng to launch humanoid robots globally next year",
+    "summary": "The company aims to raise output to 1,000 units a month by the end of that year.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/xpengs-humanoid-robot-falls-in-debut-mall-demo"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "Apple explores AI chip startup acquisitions, sources say",
+    "summary": "The company said its Private Cloud Compute runs on custom server hardware built on Apple silicon to support large language model inference.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/asml-euv-tech-raise-chip-production-50-2030"
+    "url": "https://www.techinasia.com/apple-seeks-clearance-buy-cxmt-memory-chips"
   },
   {
     "date": "2026-07-16",
-    "title": "Nvidia partners with Toyota's Woven City on physical AI tech",
-    "summary": "Nvidia partners with Toyota's Woven City on physical AI tech",
+    "title": "Nikkei Asia Forum kicks off in Bangkok to discuss energy, mobility, AI",
+    "summary": "Nikkei Asia Forum kicks off in Bangkok to discuss energy, mobility, AI",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-partners-with-toyota-s-woven-city-on-physical-ai-tech"
+    "url": "https://asia.nikkei.com/spotlight/nikkei-asia-forum/nikkei-asia-forum-apac-2026/nikkei-asia-forum-kicks-off-in-bangkok-to-discuss-energy-mobility-ai"
   },
   {
     "date": "2026-07-16",
-    "title": "Nikkei APAC forum kicks off in Bangkok to discuss energy, mobility, AI",
-    "summary": "Nikkei APAC forum kicks off in Bangkok to discuss energy, mobility, AI",
+    "title": "Nvidia, Kawasaki Heavy to build robot-equipped AI shipyard in Japan",
+    "summary": "Nvidia, Kawasaki Heavy to build robot-equipped AI shipyard in Japan",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-kawasaki-heavy-to-build-robot-equipped-ai-shipyard-in-japan"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "Affordable alternatives to Nvidia servers crop up for Japan AI players",
+    "summary": "Affordable alternatives to Nvidia servers crop up for Japan AI players",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/spotlight/nikkei-asia-forum/nikkei-asia-forum-apac-2026/nikkei-apac-forum-kicks-off-in-bangkok-to-discuss-energy-mobility-ai"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "Taiwan eyes local AI as digital 'bulwark' against Chinese influence",
-    "summary": "Taiwan eyes local AI as digital 'bulwark' against Chinese influence",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/taiwan-eyes-local-ai-as-digital-bulwark-against-chinese-influence"
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/affordable-alternatives-to-nvidia-servers-crop-up-for-japan-ai-players"
   },
   {
     "date": "2026-07-15",

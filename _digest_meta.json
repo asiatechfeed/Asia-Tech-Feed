@@ -1,37 +1,39 @@
 {
   "date": "2026-07-16",
-  "count": 9,
+  "count": 13,
   "sources": [
+    "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-16-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "China's top seller of AI compute has emerged without owning the GPUs",
+      "title": "Apple reportedly explores AI chip acquisitions as it races to strengthen its infrastructure",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260715VL223/beijing-capacity-infrastructure-hardware.html"
+      "url": "https://www.digitimes.com/news/a20260716VL210/apple-ai-chip-ai-server-acquisition-infrastructure-nvidia.html"
     },
     {
-      "title": "Samsung's Honam semiconductor investment faces union pushback as 80% oppose project",
+      "title": "Nvidia doubles down on the land of the rising GPU, wiring Blackwell into Japan's science, banks, factories and cars",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260714PD237/samsung-ic-manufacturing-government-investment-labor-management.html"
+      "url": "https://www.digitimes.com/news/a20260716VL209/nvidia-blackwell-expansion-supercomputer-software.html"
     },
     {
-      "title": "Column: From K-Semiconductor to AI superpower \u2014How South Korea is taking its next chip leap",
+      "title": "Japan's enterprises and startups adopt Nvidia open models for specialized AI",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260714PD226/policy-data-manufacturing-investment-packaging.html"
+      "url": "https://www.digitimes.com/news/a20260716PR203/nvidia-language-data-technology-software.html"
     },
     {
-      "title": "Latest AI unicorn sees users, revenue spike 4x in only six months",
+      "title": "This startup brings consumption billing to AI",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/latest-ai-unicorn-sees-users-revenue-spike-4x-months"
+      "url": "https://www.techinasia.com/startup-brings-consumption-billing-ai"
     },
     {
-      "title": "Samsung plans 100,000-wafer DRAM fab, sources say",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/samsung-massproduces-ssd-upcoming-vera-rubin"
+      "title": "Edge AI Hits 25% of Smartwatch Shipments in 1Q 2026",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/edge-ai-hits-25-of-smartwatch-shipments-in-1q-2026/"
     }
   ],
   "source_stats": [
@@ -48,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -147,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 24,
+      "relevant": 28,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,7 +167,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 13,
+      "relevant": 12,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -192,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
