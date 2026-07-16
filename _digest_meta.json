@@ -1,39 +1,39 @@
 {
   "date": "2026-07-16",
-  "count": 13,
+  "count": 11,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
+    "EW",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-16-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Apple reportedly explores AI chip acquisitions as it races to strengthen its infrastructure",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260716VL210/apple-ai-chip-ai-server-acquisition-infrastructure-nvidia.html"
-    },
-    {
-      "title": "Nvidia doubles down on the land of the rising GPU, wiring Blackwell into Japan's science, banks, factories and cars",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260716VL209/nvidia-blackwell-expansion-supercomputer-software.html"
-    },
-    {
-      "title": "Japan's enterprises and startups adopt Nvidia open models for specialized AI",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260716PR203/nvidia-language-data-technology-software.html"
-    },
-    {
-      "title": "This startup brings consumption billing to AI",
+      "title": "Indian software startup Reo.Dev raises $11.3m in series A",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/startup-brings-consumption-billing-ai"
+      "url": "https://www.techinasia.com/developer-software-platform-reo-dev-secures-4m-to-open-us-office"
     },
     {
-      "title": "Edge AI Hits 25% of Smartwatch Shipments in 1Q 2026",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/edge-ai-hits-25-of-smartwatch-shipments-in-1q-2026/"
+      "title": "Beyond AI: Resilient consumer demand widens semiconductor supply crunch",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260716PD221/demand-market-capacity-supply-chain-cloud-ai.html"
+    },
+    {
+      "title": "Securing aging ocean infrastructure with AI drones",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/securing-aging-ocean-infrastructure-with-ai-drones"
+    },
+    {
+      "title": "As Trump pushes chips onshore, Netlist's ITC memory bid could keep Samsung, Nvidia offshore",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260716VL222/samsung-itc-chips-nvidia-investigation.html"
+    },
+    {
+      "title": "TSMC 2Q26 profit surges 77% to a record on AI demand, first 2nm revenue",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260716VL223/tsmc-revenue-profit-demand-2nm.html"
     }
   ],
   "source_stats": [
@@ -50,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -133,7 +133,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -151,14 +151,14 @@
       "fetched": 10,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 28,
+      "fetched": 58,
+      "relevant": 46,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -194,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -212,7 +212,7 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null

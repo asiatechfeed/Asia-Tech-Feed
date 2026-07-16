@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - July 16, 2026"
-date: 2026-07-16 11:22:26 +0800
-articles_count: 13
+date: 2026-07-16 16:00:56 +0800
+articles_count: 11
 sources_count: 5
-sources: ["CNA", "DigiTimes", "EETAsia", "NikkeiAsia", "TechAsia"]
+sources: ["DigiTimes", "EETAsia", "EW", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-07-16.tsv
-featured_title: "Apple reportedly explores AI chip acquisitions as it races to strengthen its infrastructure"
-featured_url: "https://www.digitimes.com/news/a20260716VL210/apple-ai-chip-ai-server-acquisition-infrastructure-nvidia.html"
-featured_source: "DigiTimes"
-featured_summary: "Apple is exploring acquisitions of semiconductor companies to accelerate development of AI server chips, reflecting mounting pressure to improve the computing infrastructure behind its AI ambitions, according to The Information."
-featured_image: "https://img.digitimes.com/newsshow/20260716vl210_files/2_b.jpg"
+featured_title: "Indian software startup Reo.Dev raises $11.3m in series A"
+featured_url: "https://www.techinasia.com/developer-software-platform-reo-dev-secures-4m-to-open-us-office"
+featured_source: "TechAsia"
+featured_summary: "Reo.Dev said it will use the capital to improve its AI capabilities, speed up work on its AI agents, and expand its platform."
+featured_image: ""
 ---
 
 <table class="news-table">
@@ -27,107 +27,91 @@ featured_image: "https://img.digitimes.com/newsshow/20260716vl210_files/2_b.jpg"
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Apple reportedly explores AI chip acquisitions as it races to strengthen its infrastructure</span></td>
-  <td class="col-summary">Apple is exploring acquisitions of semiconductor companies to accelerate development of AI server chips, reflecting mounting pressure to improve the computing infrastructure behind its AI ambitions, according to The Information.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260716VL210/apple-ai-chip-ai-server-acquisition-infrastructure-nvidia.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Indian software startup Reo.Dev raises $11.3m in series A</span></td>
+  <td class="col-summary">Reo.Dev said it will use the capital to improve its AI capabilities, speed up work on its AI agents, and expand its platform.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/developer-software-platform-reo-dev-secures-4m-to-open-us-office" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Nvidia doubles down on the land of the rising GPU, wiring Blackwell into Japan's science, banks, factories and cars</span></td>
-  <td class="col-summary">Nvidia has laid out a sweeping expansion of its Japanese footprint. The company is moving beyond one-off supercomputer wins to embed its Blackwell-generation chips and software across the country's research labs, banks, hospitals, factories, and automakers. The breadth signals that Japan is being positioned as a full "</td>
-  <td class="col-tags"><span class="tag auto">Automation</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260716VL209/nvidia-blackwell-expansion-supercomputer-software.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Beyond AI: Resilient consumer demand widens semiconductor supply crunch</span></td>
+  <td class="col-summary">Reports of lengthening semiconductor lead times have become increasingly common in recent months, highlighting that the imbalance between chip supply and demand has not eased but is instead spreading across a broader range of end markets. Taiwanese IC design companies believe that while booming cloud AI investment rema</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260716PD221/demand-market-capacity-supply-chain-cloud-ai.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Japan's enterprises and startups adopt Nvidia open models for specialized AI</span></td>
-  <td class="col-summary">Japan's companies and research institutions are turning to Nvidia's Nemotron open models to build AI tailored to local language, industry, and public-sector needs. The move highlights how open, customizable systems may shape national AI strategies far beyond Japan, affecting productivity, service delivery, and data con</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Securing aging ocean infrastructure with AI drones</span></td>
+  <td class="col-summary">BeeX Autonomous Systems cuts underwater inspection costs by 50% using intelligent drones, securing major clients like Petronas.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260716PR203/nvidia-language-data-technology-software.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/securing-aging-ocean-infrastructure-with-ai-drones" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">This startup brings consumption billing to AI</span></td>
-  <td class="col-summary">Subscriptions don't work for AI products. Flexprice automates complex usage metering so engineers can focus on building instead of billing.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/startup-brings-consumption-billing-ai" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">As Trump pushes chips onshore, Netlist's ITC memory bid could keep Samsung, Nvidia offshore</span></td>
+  <td class="col-summary">A US trade agency has opened an investigation that could block imports of the DDR5 server memory and high-bandwidth memory (HBM) feeding the AI data center boom, handing a small California patent holder a border lever that runs parallel to President Donald Trump's campaign to force chip production back onto US soil.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260716VL222/samsung-itc-chips-nvidia-investigation.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Edge AI Hits 25% of Smartwatch Shipments in 1Q 2026</span></td>
-  <td class="col-summary">Global Edge AI-capable smartwatch shipments grew by 70% YoY in 1Q 2026, reaching a market penetration of 25%, according to Counterpoint. The post Edge AI Hits 25% of Smartwatch Shipments in 1Q 2026 appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/edge-ai-hits-25-of-smartwatch-shipments-in-1q-2026/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">TSMC 2Q26 profit surges 77% to a record on AI demand, first 2nm revenue</span></td>
+  <td class="col-summary">TSMC reported record second-quarter 2026 results on July 16, with revenue, profit, and earnings per share all surpassing market expectations, underscoring sustained demand for AI and high-performance computing (HPC) chips.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260716VL223/tsmc-revenue-profit-demand-2nm.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Singapore residents set to spend S$1 billion more a year in JB after RTS Link opens: Study</span></td>
-  <td class="col-summary">Groceries, drug stores and dining are expected to draw the biggest share of Singapore consumers' spending across the border.</td>
-  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/singapore-spend-more-jb-rts-link-opens-6257241" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Fujitsu, Fanuc to team with Nvidia on AI robots</span></td>
+  <td class="col-summary">The four Japanese companies will also join Nvidia’s Cosmos Coalition.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-recruits-humanoid-robotics-roles-china" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">SILITH, UMC Reach Silicon Photonics Mass Production Milestone for AI Optical Interconnects</span></td>
-  <td class="col-summary">SILITH and UMC have achieved mass production of silicon photonics wafers for next-generation AI networking applications. The post SILITH, UMC Reach Silicon Photonics Mass Production Milestone for AI Optical Interconnects appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/silith-umc-reach-silicon-photonics-mass-production-milestone-for-ai-optical-interconnects/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EW</span></td>
+  <td class="col-title"><span class="article-title">Tower’s $3bn expansion in Japan</span></td>
+  <td class="col-summary">Tower Semiconductor, the Israeli foundry, is to spend $3 billion on expanding SiPho, SiGe and packaging capacity in Japan with $1 billion of that coming from the Japanese government. The ... The post Tower’s $3bn expansion in Japan appeared first on Electronics Weekly .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/towers-3bn-expansion-in-japan-2026-07/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
   <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Infineon, LS ELECTRIC Partner on DC Power Infrastructure for AI Data Centers</span></td>
-  <td class="col-summary">Infineon and LS ELECTRIC will develop high-efficiency DC power solutions for AI data centers and future power grids. The post Infineon, LS ELECTRIC Partner on DC Power Infrastructure for AI Data Centers appeared first on EE Times Asia .</td>
+  <td class="col-title"><span class="article-title">AI’s Next Bottleneck is Power, Not Compute</span></td>
+  <td class="col-summary">As AI infrastructure expands across Asia Pacific, power efficiency is emerging as the defining constraint on scalable intelligence. The post AI’s Next Bottleneck is Power, Not Compute appeared first on EE Times Asia .</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/infineon-ls-electric-partner-on-dc-power-infrastructure-for-ai-data-centers/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ais-next-bottleneck-is-power-not-compute/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Xpeng to launch humanoid robots globally next year</span></td>
-  <td class="col-summary">The company aims to raise output to 1,000 units a month by the end of that year.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/xpengs-humanoid-robot-falls-in-debut-mall-demo" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">TSMC plans further $100bn US investment to feed AI demand</span></td>
+  <td class="col-summary">TSMC plans further $100bn US investment to feed AI demand</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/tsmc-plans-further-100bn-us-investment-to-feed-ai-demand" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Apple explores AI chip startup acquisitions, sources say</span></td>
-  <td class="col-summary">The company said its Private Cloud Compute runs on custom server hardware built on Apple silicon to support large language model inference.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/apple-seeks-clearance-buy-cxmt-memory-chips" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">As the AI rally loses steam, how resilient are Japanese stocks?</span></td>
+  <td class="col-summary">As the AI rally loses steam, how resilient are Japanese stocks?</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/as-the-ai-rally-loses-steam-how-resilient-are-japanese-stocks" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">11</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Nikkei Asia Forum kicks off in Bangkok to discuss energy, mobility, AI</span></td>
-  <td class="col-summary">Nikkei Asia Forum kicks off in Bangkok to discuss energy, mobility, AI</td>
+  <td class="col-title"><span class="article-title">Japan power companies to build or bolster 30 substations to meet AI demand</span></td>
+  <td class="col-summary">Japan power companies to build or bolster 30 substations to meet AI demand</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/nikkei-asia-forum/nikkei-asia-forum-apac-2026/nikkei-asia-forum-kicks-off-in-bangkok-to-discuss-energy-mobility-ai" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Nvidia, Kawasaki Heavy to build robot-equipped AI shipyard in Japan</span></td>
-  <td class="col-summary">Nvidia, Kawasaki Heavy to build robot-equipped AI shipyard in Japan</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-kawasaki-heavy-to-build-robot-equipped-ai-shipyard-in-japan" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">13</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Affordable alternatives to Nvidia servers crop up for Japan AI players</span></td>
-  <td class="col-summary">Affordable alternatives to Nvidia servers crop up for Japan AI players</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/affordable-alternatives-to-nvidia-servers-crop-up-for-japan-ai-players" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-power-companies-to-build-or-bolster-30-substations-to-meet-ai-demand" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
