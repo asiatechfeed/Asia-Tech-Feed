@@ -1,40 +1,37 @@
 {
-  "date": "2026-07-15",
-  "count": 13,
+  "date": "2026-07-16",
+  "count": 9,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
-    "EW",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-15-asia-tech-news-digest.md",
+  "post_file": "2026-07-16-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Where authorities are restricting data centres amid AI boom",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/where-authorities-are-restricting-data-centres-amid-ai-boom-6253646"
+      "title": "China's top seller of AI compute has emerged without owning the GPUs",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260715VL223/beijing-capacity-infrastructure-hardware.html"
     },
     {
-      "title": "Anthropic explains the strict token budgets required to scale",
+      "title": "Samsung's Honam semiconductor investment faces union pushback as 80% oppose project",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260714PD237/samsung-ic-manufacturing-government-investment-labor-management.html"
+    },
+    {
+      "title": "Column: From K-Semiconductor to AI superpower \u2014How South Korea is taking its next chip leap",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260714PD226/policy-data-manufacturing-investment-packaging.html"
+    },
+    {
+      "title": "Latest AI unicorn sees users, revenue spike 4x in only six months",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-ai-agent-platform-stack"
+      "url": "https://www.techinasia.com/latest-ai-unicorn-sees-users-revenue-spike-4x-months"
     },
     {
-      "title": "India turns to AI to improve healthcare access",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/artificial-intelligence-eye-diseases-medical-scans-india-6255286"
-    },
-    {
-      "title": "NTT Docomo spinout Robots raises seed funding",
+      "title": "Samsung plans 100,000-wafer DRAM fab, sources say",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/google-deepmind-agile-robots-partner-on-industrial-robotics"
-    },
-    {
-      "title": "Intel deploys ASML High-NA for Panther Lake chips",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/intel-jumps-14-report-apple-chip-talks"
+      "url": "https://www.techinasia.com/samsung-massproduces-ssd-upcoming-vera-rubin"
     }
   ],
   "source_stats": [
@@ -51,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -134,7 +131,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -152,14 +149,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 53,
-      "relevant": 38,
+      "fetched": 35,
+      "relevant": 24,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 14,
+      "relevant": 13,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -195,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 20,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
