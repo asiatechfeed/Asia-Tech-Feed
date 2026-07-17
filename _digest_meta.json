@@ -1,39 +1,38 @@
 {
-  "date": "2026-07-16",
-  "count": 11,
+  "date": "2026-07-17",
+  "count": 9,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "EETAsia",
-    "EW",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-16-asia-tech-news-digest.md",
+  "post_file": "2026-07-17-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Indian software startup Reo.Dev raises $11.3m in series A",
+      "title": "Xpeng L03: New electric SUV puts AI and Google Maps at the centre",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/obsessions/xpeng-l03-electric-suv-ai-google-maps-6259681"
+    },
+    {
+      "title": "Commentary: Gen Z is pushing back against AI - a reminder that the future isn\u2019t written",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/gen-z-pushback-against-ai-6258016"
+    },
+    {
+      "title": "Why this Barclays engineer says AI speed is a trap",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/developer-software-platform-reo-dev-secures-4m-to-open-us-office"
+      "url": "https://www.techinasia.com/why-this-barclays-engineer-says-ai-speed-is-a-trap"
     },
     {
-      "title": "Beyond AI: Resilient consumer demand widens semiconductor supply crunch",
+      "title": "AI hardware boom lifts Taiwan's rail and CCL suppliers; optical module tells messier story",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260716PD221/demand-market-capacity-supply-chain-cloud-ai.html"
+      "url": "https://www.digitimes.com/news/a20260715VL222/taiwan-monthly-tracker-ai-server-supply-chain-ccl-growth.html"
     },
     {
-      "title": "Securing aging ocean infrastructure with AI drones",
+      "title": "Series SEA: Who\u2019s investing in the region\u2019s AI startups?",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/securing-aging-ocean-infrastructure-with-ai-drones"
-    },
-    {
-      "title": "As Trump pushes chips onshore, Netlist's ITC memory bid could keep Samsung, Nvidia offshore",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260716VL222/samsung-itc-chips-nvidia-investigation.html"
-    },
-    {
-      "title": "TSMC 2Q26 profit surges 77% to a record on AI demand, first 2nm revenue",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260716VL223/tsmc-revenue-profit-demand-2nm.html"
+      "url": "https://www.techinasia.com/top-sea-investors-ai"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -133,7 +132,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -151,14 +150,14 @@
       "fetched": 10,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 58,
-      "relevant": 46,
+      "fetched": 71,
+      "relevant": 56,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 12,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -194,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 16,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
