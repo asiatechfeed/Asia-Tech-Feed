@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-17T00:02:00+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 17, 2026</title><link href="https://asiatechfeed.com/2026/07/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 17, 2026" /><published>2026-07-17T00:01:21+00:00</published><updated>2026-07-17T00:01:21+00:00</updated><id>https://asiatechfeed.com/2026/07/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-17T03:25:47+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 17, 2026</title><link href="https://asiatechfeed.com/2026/07/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 17, 2026" /><published>2026-07-17T03:25:08+00:00</published><updated>2026-07-17T03:25:08+00:00</updated><id>https://asiatechfeed.com/2026/07/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -13,77 +13,101 @@
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Xpeng L03: New electric SUV puts AI and Google Maps at the centre</span></td>
-  <td class="col-summary">The coupe SUV combines up to 520km of claimed range with advanced driver assistance, built-in Google Maps technology and a cabin aimed at everyday family use.</td>
+  <td class="col-title"><span class="article-title">China's Xi says AI should not be dominated by one country</span></td>
+  <td class="col-summary">China's Xi says AI should not be dominated by one country</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/obsessions/xpeng-l03-electric-suv-ai-google-maps-6259681" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/china-ai-not-dominated-one-country-xi-6260096" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: Gen Z is pushing back against AI - a reminder that the future isn’t written</span></td>
-  <td class="col-summary">Gen Z's vocal backlash reflects a growing generational divide when it comes to AI adoption, says this writer.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/gen-z-pushback-against-ai-6258016" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Moonshot debuts 2.8 trillion-parameter Kimi K3</span></td>
+  <td class="col-summary">Moonshot said Kimi K3 supports a 1 million-token context window and performed competitively with Anthropic’s Fable 5.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-moonshot-ai-explores-hk-ipo-eyes-1b-funding" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Why this Barclays engineer says AI speed is a trap</span></td>
-  <td class="col-summary">Barclays' principal AI engineer Andy McMahon explains why internal testing, strict oversight, and measurable results matter more than writing code faster alone.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/why-this-barclays-engineer-says-ai-speed-is-a-trap" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">South Korea-US team unveils robotic technology that dresses the wearer</span></td>
+  <td class="col-summary">South Korea-US team unveils robotic technology that dresses the wearer</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/south-korea-us-team-unveils-robotic-technology-dresses-wearer-6260091" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AI hardware boom lifts Taiwan's rail and CCL suppliers; optical module tells messier story</span></td>
-  <td class="col-summary">Taiwan's technology supply chain delivered another month of strong year-over-year revenue growth in June 2026, led by suppliers tied directly to AI server infrastructure, even as the optical module segment showed the sharpest slowdown of any sector tracked and revealed a widening gap between winners and laggards within</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260715VL222/taiwan-monthly-tracker-ai-server-supply-chain-ccl-growth.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">TSMC's US$100 billion bet: AI growth, US pressure and the cost of staying ahead</span></td>
+  <td class="col-summary">Taiwan Semiconductor Manufacturing Company (TSMC) posted record second-quarter earnings for 2026, issued third-quarter revenue guidance above market expectations, and raised its full-year US dollar revenue growth forecast to more than 40%. The company also increased its 2026 capital expenditure guidance to US$60-64 bil</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260717PD210/tsmc-manufacturing-ai-usa-cost-growth.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Series SEA: Who’s investing in the region’s AI startups?</span></td>
-  <td class="col-summary">We've compiled a list of investors that are pouring money into Southeast Asia’s AI startups.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/top-sea-investors-ai" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Micron signs auto chip deals with Qualcomm, Hyundai Mobis</span></td>
+  <td class="col-summary">The agreements are understood to lock in supply volumes and prices for three to five years, instead of annual renewals.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/micron-to-invest-24b-in-sg-to-expand-chip-output" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">US data center firm Csquare raises $1b in IPO</span></td>
-  <td class="col-summary">The deal comes as AI infrastructure listings draw investor attention, with CoreWeave pricing at US$40 in its March 2025 IPO.</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">EU orders Google to open Android AI features, share Search data with rivals under DMA</span></td>
+  <td class="col-summary">The European Commission has issued binding measures requiring Alphabet's Google to open key Android features to competing AI assistants and share parts of its Google Search data with rival search engines, marking one of the bloc's most significant efforts yet to curb the market power of Big Tech under the Digital Marke</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/brookfieldbacked-csquare-targets-418b-ipo" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260717VL204/google-android-ai-data-european-commission.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TSMC says 2nm has four times as many tape-outs as 3nm at the same stage</span></td>
-  <td class="col-summary">Customer tape-outs for TSMC's N2 process have reached four times the number recorded by its 3nm technology at the same stage, showing faster design activity as the foundry ramps production of its first 2nm process.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260716VL228/tsmc-3nm-2nm-production-design.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Microsoft reportedly readies AI-powered security tool to automate bug hunting and remediation</span></td>
+  <td class="col-summary">Microsoft is reportedly preparing to launch a new AI cybersecurity product designed to identify software vulnerabilities and automatically fix them, as the company expands its push into AI-driven enterprise security.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260717VL206/microsoft-ai-cybersecurity-software-anthropic.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan AI server tracker: Rail kits and chassis post fastest revenue growth in June</span></td>
-  <td class="col-summary">Taiwan suppliers linked to the AI server market posted broad revenue growth in June, with rail-kit and server-chassis makers recording the fastest year-over-year gains as demand for rack-scale systems continued to lift mechanical components.</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">EU orders Google to give rivals wider Android access</span></td>
+  <td class="col-summary">The Commission said rival AI assistants are currently blocked from functions Gemini can use.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260715VL230/taiwan-monthly-tracker-ai-server-chassis-revenue-growth.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/google-loses-final-eu-appeal-over-4-6b-android-fine" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">SoftBank, Sony, Honda spearhead work on Japan AI with Nvidia chips</span></td>
-  <td class="col-summary">SoftBank, Sony, Honda spearhead work on Japan AI with Nvidia chips</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Singapore's June non-oil exports rise 20.7% as AI demand stays robust</span></td>
+  <td class="col-summary">Electronic NODX surged by 105.1 per cent in June.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/nodx-june-exports-growth-ai-demand-6259826" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">AI trade isn’t just about tech stocks but also power, TCW says</span></td>
+  <td class="col-summary">The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun</td>
   <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-sony-honda-spearhead-work-on-japan-ai-with-nvidia-chips" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">No career ambition, no ego: AI plays devil's advocate at Audax Private Equity</span></td>
+  <td class="col-summary">Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate</span></td>
+  <td class="col-summary">EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease</td>
+  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/bio-pharma/newsView/ked202603100001" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Xpeng L03: New electric SUV puts AI and Google Maps at the centre The coupe SUV combines up to 520km of claimed range with advanced driver assistance, built-in Google Maps technology and a cabin aimed at everyday family use. AI Read 2 CNA Commentary: Gen Z is pushing back against AI - a reminder that the future isn’t written Gen Z's vocal backlash reflects a growing generational divide when it comes to AI adoption, says this writer. AI Read 3 TechAsia Why this Barclays engineer says AI speed is a trap Barclays' principal AI engineer Andy McMahon explains why internal testing, strict oversight, and measurable results matter more than writing code faster alone. AI Read 4 DigiTimes AI hardware boom lifts Taiwan's rail and CCL suppliers; optical module tells messier story Taiwan's technology supply chain delivered another month of strong year-over-year revenue growth in June 2026, led by suppliers tied directly to AI server infrastructure, even as the optical module segment showed the sharpest slowdown of any sector tracked and revealed a widening gap between winners and laggards within AILogistics Read 5 TechAsia Series SEA: Who’s investing in the region’s AI startups? We've compiled a list of investors that are pouring money into Southeast Asia’s AI startups. AI Read 6 TechAsia US data center firm Csquare raises $1b in IPO The deal comes as AI infrastructure listings draw investor attention, with CoreWeave pricing at US$40 in its March 2025 IPO. AI Read 7 DigiTimes TSMC says 2nm has four times as many tape-outs as 3nm at the same stage Customer tape-outs for TSMC's N2 process have reached four times the number recorded by its 3nm technology at the same stage, showing faster design activity as the foundry ramps production of its first 2nm process. Semiconductor Read 8 DigiTimes Taiwan AI server tracker: Rail kits and chassis post fastest revenue growth in June Taiwan suppliers linked to the AI server market posted broad revenue growth in June, with rail-kit and server-chassis makers recording the fastest year-over-year gains as demand for rack-scale systems continued to lift mechanical components. AI Read 9 NikkeiAsia SoftBank, Sony, Honda spearhead work on Japan AI with Nvidia chips SoftBank, Sony, Honda spearhead work on Japan AI with Nvidia chips AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 16, 2026</title><link href="https://asiatechfeed.com/2026/07/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 16, 2026" /><published>2026-07-16T08:00:56+00:00</published><updated>2026-07-16T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/07/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA China's Xi says AI should not be dominated by one country China's Xi says AI should not be dominated by one country AI Read 2 TechAsia Moonshot debuts 2.8 trillion-parameter Kimi K3 Moonshot said Kimi K3 supports a 1 million-token context window and performed competitively with Anthropic’s Fable 5. Semiconductor Read 3 CNA South Korea-US team unveils robotic technology that dresses the wearer South Korea-US team unveils robotic technology that dresses the wearer Automation Read 4 DigiTimes TSMC's US$100 billion bet: AI growth, US pressure and the cost of staying ahead Taiwan Semiconductor Manufacturing Company (TSMC) posted record second-quarter earnings for 2026, issued third-quarter revenue guidance above market expectations, and raised its full-year US dollar revenue growth forecast to more than 40%. The company also increased its 2026 capital expenditure guidance to US$60-64 bil SemiconductorAI Read 5 TechAsia Micron signs auto chip deals with Qualcomm, Hyundai Mobis The agreements are understood to lock in supply volumes and prices for three to five years, instead of annual renewals. Semiconductor Read 6 DigiTimes EU orders Google to open Android AI features, share Search data with rivals under DMA The European Commission has issued binding measures requiring Alphabet's Google to open key Android features to competing AI assistants and share parts of its Google Search data with rival search engines, marking one of the bloc's most significant efforts yet to curb the market power of Big Tech under the Digital Marke AI Read 7 DigiTimes Microsoft reportedly readies AI-powered security tool to automate bug hunting and remediation Microsoft is reportedly preparing to launch a new AI cybersecurity product designed to identify software vulnerabilities and automatically fix them, as the company expands its push into AI-driven enterprise security. AI Read 8 TechAsia EU orders Google to give rivals wider Android access The Commission said rival AI assistants are currently blocked from functions Gemini can use. AI Read 9 CNA Singapore's June non-oil exports rise 20.7% as AI demand stays robust Electronic NODX surged by 105.1 per cent in June. AI Read 10 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun AISemiconductor Read 11 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass AI Read 12 KED EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease Biotechnology Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 16, 2026</title><link href="https://asiatechfeed.com/2026/07/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 16, 2026" /><published>2026-07-16T08:00:56+00:00</published><updated>2026-07-16T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/07/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
