@@ -1,5 +1,106 @@
 [
   {
+    "date": "2026-07-17",
+    "title": "Xpeng L03: New electric SUV puts AI and Google Maps at the centre",
+    "summary": "The coupe SUV combines up to 520km of claimed range with advanced driver assistance, built-in Google Maps technology and a cabin aimed at everyday family use.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/obsessions/xpeng-l03-electric-suv-ai-google-maps-6259681"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "Commentary: Gen Z is pushing back against AI - a reminder that the future isn’t written",
+    "summary": "Gen Z's vocal backlash reflects a growing generational divide when it comes to AI adoption, says this writer.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/gen-z-pushback-against-ai-6258016"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "Why this Barclays engineer says AI speed is a trap",
+    "summary": "Barclays' principal AI engineer Andy McMahon explains why internal testing, strict oversight, and measurable results matter more than writing code faster alone.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/why-this-barclays-engineer-says-ai-speed-is-a-trap"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "AI hardware boom lifts Taiwan's rail and CCL suppliers; optical module tells messier story",
+    "summary": "Taiwan's technology supply chain delivered another month of strong year-over-year revenue growth in June 2026, led by suppliers tied directly to AI server infrastructure, even as the optical module segment showed the sharpest slowdown of any sector tracked and revealed a widening gap between winners and laggards within",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260715VL222/taiwan-monthly-tracker-ai-server-supply-chain-ccl-growth.html"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "Series SEA: Who’s investing in the region’s AI startups?",
+    "summary": "We've compiled a list of investors that are pouring money into Southeast Asia’s AI startups.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/top-sea-investors-ai"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "US data center firm Csquare raises $1b in IPO",
+    "summary": "The deal comes as AI infrastructure listings draw investor attention, with CoreWeave pricing at US$40 in its March 2025 IPO.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/brookfieldbacked-csquare-targets-418b-ipo"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "TSMC says 2nm has four times as many tape-outs as 3nm at the same stage",
+    "summary": "Customer tape-outs for TSMC's N2 process have reached four times the number recorded by its 3nm technology at the same stage, showing faster design activity as the foundry ramps production of its first 2nm process.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260716VL228/tsmc-3nm-2nm-production-design.html"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "Taiwan AI server tracker: Rail kits and chassis post fastest revenue growth in June",
+    "summary": "Taiwan suppliers linked to the AI server market posted broad revenue growth in June, with rail-kit and server-chassis makers recording the fastest year-over-year gains as demand for rack-scale systems continued to lift mechanical components.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260715VL230/taiwan-monthly-tracker-ai-server-chassis-revenue-growth.html"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "SoftBank, Sony, Honda spearhead work on Japan AI with Nvidia chips",
+    "summary": "SoftBank, Sony, Honda spearhead work on Japan AI with Nvidia chips",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-sony-honda-spearhead-work-on-japan-ai-with-nvidia-chips"
+  },
+  {
     "date": "2026-07-16",
     "title": "Indian software startup Reo.Dev raises $11.3m in series A",
     "summary": "Reo.Dev said it will use the capital to improve its AI capabilities, speed up work on its AI agents, and expand its platform.",

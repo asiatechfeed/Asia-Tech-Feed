@@ -1,4 +1,89 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-16T08:01:54+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 16, 2026</title><link href="https://asiatechfeed.com/2026/07/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 16, 2026" /><published>2026-07-16T08:00:56+00:00</published><updated>2026-07-16T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/07/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-17T00:02:00+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 17, 2026</title><link href="https://asiatechfeed.com/2026/07/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 17, 2026" /><published>2026-07-17T00:01:21+00:00</published><updated>2026-07-17T00:01:21+00:00</updated><id>https://asiatechfeed.com/2026/07/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Xpeng L03: New electric SUV puts AI and Google Maps at the centre</span></td>
+  <td class="col-summary">The coupe SUV combines up to 520km of claimed range with advanced driver assistance, built-in Google Maps technology and a cabin aimed at everyday family use.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/obsessions/xpeng-l03-electric-suv-ai-google-maps-6259681" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: Gen Z is pushing back against AI - a reminder that the future isn’t written</span></td>
+  <td class="col-summary">Gen Z's vocal backlash reflects a growing generational divide when it comes to AI adoption, says this writer.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/gen-z-pushback-against-ai-6258016" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Why this Barclays engineer says AI speed is a trap</span></td>
+  <td class="col-summary">Barclays' principal AI engineer Andy McMahon explains why internal testing, strict oversight, and measurable results matter more than writing code faster alone.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/why-this-barclays-engineer-says-ai-speed-is-a-trap" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">AI hardware boom lifts Taiwan's rail and CCL suppliers; optical module tells messier story</span></td>
+  <td class="col-summary">Taiwan's technology supply chain delivered another month of strong year-over-year revenue growth in June 2026, led by suppliers tied directly to AI server infrastructure, even as the optical module segment showed the sharpest slowdown of any sector tracked and revealed a widening gap between winners and laggards within</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260715VL222/taiwan-monthly-tracker-ai-server-supply-chain-ccl-growth.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Series SEA: Who’s investing in the region’s AI startups?</span></td>
+  <td class="col-summary">We've compiled a list of investors that are pouring money into Southeast Asia’s AI startups.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/top-sea-investors-ai" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">US data center firm Csquare raises $1b in IPO</span></td>
+  <td class="col-summary">The deal comes as AI infrastructure listings draw investor attention, with CoreWeave pricing at US$40 in its March 2025 IPO.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/brookfieldbacked-csquare-targets-418b-ipo" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">TSMC says 2nm has four times as many tape-outs as 3nm at the same stage</span></td>
+  <td class="col-summary">Customer tape-outs for TSMC's N2 process have reached four times the number recorded by its 3nm technology at the same stage, showing faster design activity as the foundry ramps production of its first 2nm process.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260716VL228/tsmc-3nm-2nm-production-design.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwan AI server tracker: Rail kits and chassis post fastest revenue growth in June</span></td>
+  <td class="col-summary">Taiwan suppliers linked to the AI server market posted broad revenue growth in June, with rail-kit and server-chassis makers recording the fastest year-over-year gains as demand for rack-scale systems continued to lift mechanical components.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260715VL230/taiwan-monthly-tracker-ai-server-chassis-revenue-growth.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">SoftBank, Sony, Honda spearhead work on Japan AI with Nvidia chips</span></td>
+  <td class="col-summary">SoftBank, Sony, Honda spearhead work on Japan AI with Nvidia chips</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-sony-honda-spearhead-work-on-japan-ai-with-nvidia-chips" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Xpeng L03: New electric SUV puts AI and Google Maps at the centre The coupe SUV combines up to 520km of claimed range with advanced driver assistance, built-in Google Maps technology and a cabin aimed at everyday family use. AI Read 2 CNA Commentary: Gen Z is pushing back against AI - a reminder that the future isn’t written Gen Z's vocal backlash reflects a growing generational divide when it comes to AI adoption, says this writer. AI Read 3 TechAsia Why this Barclays engineer says AI speed is a trap Barclays' principal AI engineer Andy McMahon explains why internal testing, strict oversight, and measurable results matter more than writing code faster alone. AI Read 4 DigiTimes AI hardware boom lifts Taiwan's rail and CCL suppliers; optical module tells messier story Taiwan's technology supply chain delivered another month of strong year-over-year revenue growth in June 2026, led by suppliers tied directly to AI server infrastructure, even as the optical module segment showed the sharpest slowdown of any sector tracked and revealed a widening gap between winners and laggards within AILogistics Read 5 TechAsia Series SEA: Who’s investing in the region’s AI startups? We've compiled a list of investors that are pouring money into Southeast Asia’s AI startups. AI Read 6 TechAsia US data center firm Csquare raises $1b in IPO The deal comes as AI infrastructure listings draw investor attention, with CoreWeave pricing at US$40 in its March 2025 IPO. AI Read 7 DigiTimes TSMC says 2nm has four times as many tape-outs as 3nm at the same stage Customer tape-outs for TSMC's N2 process have reached four times the number recorded by its 3nm technology at the same stage, showing faster design activity as the foundry ramps production of its first 2nm process. Semiconductor Read 8 DigiTimes Taiwan AI server tracker: Rail kits and chassis post fastest revenue growth in June Taiwan suppliers linked to the AI server market posted broad revenue growth in June, with rail-kit and server-chassis makers recording the fastest year-over-year gains as demand for rack-scale systems continued to lift mechanical components. AI Read 9 NikkeiAsia SoftBank, Sony, Honda spearhead work on Japan AI with Nvidia chips SoftBank, Sony, Honda spearhead work on Japan AI with Nvidia chips AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 16, 2026</title><link href="https://asiatechfeed.com/2026/07/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 16, 2026" /><published>2026-07-16T08:00:56+00:00</published><updated>2026-07-16T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/07/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -787,65 +872,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/south-korea-s-chip-hub-plans-face-tough-questions-over-timing-demand" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Alipay brings AI agent tools to offline merchants The company said Alipay Tap!, launched two years ago, has served 400 million users, millions of merchants, and 30 million devices. AI Read 2 CNA Taiwan's premium chocolate makers earn global recognition but climate change threatens growth In the second of a three-part series on Taiwan beyond semiconductors, CNA explores how the island’s emerging premium chocolate industry is balancing global success with growing climate pressures. Semiconductor Read 3 TechAsia Why basic ESG reporting won’t lower Asian emissions, by Google Google's Spencer Low on why sustainability plans need clean data, region-specific priorities, and AI pointed at operations, not just better reporting. AI Read 4 TechAsia Ant Group’s Robbyant open-sources robotics AI models Robbyant said LingBot-VLA 2.0 is undergoing commercial pilot testing in retail sorting, logistics, and industrial automation. LogisticsAIAutomation Read 5 CNA Temasek aims to more than double AI investment portfolio share to as much as 15% by 2031 The state investor sees the rapid advancement of artificial intelligence as a “pivotal phase” that will create vast opportunities. AI Read 6 DigiTimes Winning the AI Glasses Race: Why Myopia Users and Optical Retailers Hold the Key to Mass Adoption AI glasses are emerging as a key gateway, offering a 'see what you see, hear what you hear' experience. DIGITIMES expects global annual shipments to approach 100 million units by 2030. Meta, Google, and Apple are already investing in the market, while Chi AI Read 7 DigiTimes Samsung's HBM4 comeback hinges on one chip-level advantage Samsung Electronics is using HBM4 to test whether its memory, logic, foundry, and advanced packaging businesses can finally work as one AI semiconductor platform, turning a broad portfolio into a clearer competitive weapon. SemiconductorElectronicsAI Read 8 DigiTimes Apple tests CXMT DRAM, thrusting China's memory champion into AI spotlight China's CXMT has moved from a little-known state-backed DRAM maker to one of the most closely watched companies in the global memory chip race, with Apple testing its chips for China-market devices and Beijing counting on the company to anchor a domestic AI supply chain. AISemiconductorLogistics Read 9 NikkeiAsia Singapore's Temasek to raise AI exposure 2.5-fold over 5 years Singapore's Temasek to raise AI exposure 2.5-fold over 5 years AI Read 10 NikkeiAsia South Korea's chip hub plans face tough questions over timing, demand South Korea's chip hub plans face tough questions over timing, demand Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 07, 2026</title><link href="https://asiatechfeed.com/2026/07/07/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 07, 2026" /><published>2026-07-07T08:01:10+00:00</published><updated>2026-07-07T08:01:10+00:00</updated><id>https://asiatechfeed.com/2026/07/07/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/07/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Unimicron prices US$1.355 billion overseas depositary receipt offering</span></td>
-  <td class="col-summary">Unimicron Technology has priced a large overseas depositary receipt sale that could affect global investors monitoring Taiwan's electronics supply chain and semiconductor-related financing trends. The deal, which will fund foreign-currency purchases, is expected to reduce interest costs and strengthen the company's bal</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260707PR203/unimicron-financing-electronics-taiwan-supply-chain.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">World models can lift South Korea in self-driving tech</span></td>
-  <td class="col-summary">The global autonomous-driving industry is locked in fierce competition around end-to-end (E2E) self-driving technology, but a world model that can reason through unknown scenarios is the real key to physical AI autonomy, according to an automotive tech researcher in South Korea.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260707PD210/south-korea-autonomous-driving-technology-competition-automotive.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Solstice Advanced Materials to buy Element Solutions in US$14.5 billion deal</span></td>
-  <td class="col-summary">The planned acquisition of Element Solutions by Solstice Advanced Materials would create a larger supplier serving electronics, data center cooling, and other industrial markets closely watched by customers and investors worldwide. The deal may reshape competition in advanced materials, where demand is rising alongside</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260707PR202/electronics-acquisition-materials-supplier-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Taiwan chip supplier Unimicron seeks up to $1.4b offering</span></td>
-  <td class="col-summary">Unimicron's share sale includes a 90-day lock-up for insiders and large shareholders.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/taiwans-ase-expand-chip-assembly-testing-ai-demand" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Israeli cybersecurity firm Cyera eyes $1b Oasis deal</span></td>
-  <td class="col-summary">Oasis Security raised US$120 million in Series B funding in March 2026, focusing on AI agent security.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/blackstonebacked-data-security-firm-cyera-valued-9b" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Samsung Q2 profit seen up 19x on AI memory demand</span></td>
-  <td class="col-summary">For now, Samsung said AI-driven demand kept memory chip prices high, helping lift earnings.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/samsung-sk-hynix-eye-4-korea-fabs-ai-chip-push" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Unimicron prices US$1.355 billion overseas depositary receipt offering Unimicron Technology has priced a large overseas depositary receipt sale that could affect global investors monitoring Taiwan's electronics supply chain and semiconductor-related financing trends. The deal, which will fund foreign-currency purchases, is expected to reduce interest costs and strengthen the company's bal SemiconductorElectronicsLogistics Read 2 DigiTimes World models can lift South Korea in self-driving tech The global autonomous-driving industry is locked in fierce competition around end-to-end (E2E) self-driving technology, but a world model that can reason through unknown scenarios is the real key to physical AI autonomy, according to an automotive tech researcher in South Korea. AI Read 3 DigiTimes Solstice Advanced Materials to buy Element Solutions in US$14.5 billion deal The planned acquisition of Element Solutions by Solstice Advanced Materials would create a larger supplier serving electronics, data center cooling, and other industrial markets closely watched by customers and investors worldwide. The deal may reshape competition in advanced materials, where demand is rising alongside SemiconductorElectronicsAI Read 4 TechAsia Taiwan chip supplier Unimicron seeks up to $1.4b offering Unimicron's share sale includes a 90-day lock-up for insiders and large shareholders. Semiconductor Read 5 TechAsia Israeli cybersecurity firm Cyera eyes $1b Oasis deal Oasis Security raised US$120 million in Series B funding in March 2026, focusing on AI agent security. AI Read 6 TechAsia Samsung Q2 profit seen up 19x on AI memory demand For now, Samsung said AI-driven demand kept memory chip prices high, helping lift earnings. AISemiconductor Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Alipay brings AI agent tools to offline merchants The company said Alipay Tap!, launched two years ago, has served 400 million users, millions of merchants, and 30 million devices. AI Read 2 CNA Taiwan's premium chocolate makers earn global recognition but climate change threatens growth In the second of a three-part series on Taiwan beyond semiconductors, CNA explores how the island’s emerging premium chocolate industry is balancing global success with growing climate pressures. Semiconductor Read 3 TechAsia Why basic ESG reporting won’t lower Asian emissions, by Google Google's Spencer Low on why sustainability plans need clean data, region-specific priorities, and AI pointed at operations, not just better reporting. AI Read 4 TechAsia Ant Group’s Robbyant open-sources robotics AI models Robbyant said LingBot-VLA 2.0 is undergoing commercial pilot testing in retail sorting, logistics, and industrial automation. LogisticsAIAutomation Read 5 CNA Temasek aims to more than double AI investment portfolio share to as much as 15% by 2031 The state investor sees the rapid advancement of artificial intelligence as a “pivotal phase” that will create vast opportunities. AI Read 6 DigiTimes Winning the AI Glasses Race: Why Myopia Users and Optical Retailers Hold the Key to Mass Adoption AI glasses are emerging as a key gateway, offering a 'see what you see, hear what you hear' experience. DIGITIMES expects global annual shipments to approach 100 million units by 2030. Meta, Google, and Apple are already investing in the market, while Chi AI Read 7 DigiTimes Samsung's HBM4 comeback hinges on one chip-level advantage Samsung Electronics is using HBM4 to test whether its memory, logic, foundry, and advanced packaging businesses can finally work as one AI semiconductor platform, turning a broad portfolio into a clearer competitive weapon. SemiconductorElectronicsAI Read 8 DigiTimes Apple tests CXMT DRAM, thrusting China's memory champion into AI spotlight China's CXMT has moved from a little-known state-backed DRAM maker to one of the most closely watched companies in the global memory chip race, with Apple testing its chips for China-market devices and Beijing counting on the company to anchor a domestic AI supply chain. AISemiconductorLogistics Read 9 NikkeiAsia Singapore's Temasek to raise AI exposure 2.5-fold over 5 years Singapore's Temasek to raise AI exposure 2.5-fold over 5 years AI Read 10 NikkeiAsia South Korea's chip hub plans face tough questions over timing, demand South Korea's chip hub plans face tough questions over timing, demand Semiconductor Read]]></summary></entry></feed>
