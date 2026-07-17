@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-17T03:25:47+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 17, 2026</title><link href="https://asiatechfeed.com/2026/07/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 17, 2026" /><published>2026-07-17T03:25:08+00:00</published><updated>2026-07-17T03:25:08+00:00</updated><id>https://asiatechfeed.com/2026/07/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-17T08:02:02+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 17, 2026</title><link href="https://asiatechfeed.com/2026/07/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 17, 2026" /><published>2026-07-17T08:00:45+00:00</published><updated>2026-07-17T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/07/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -13,101 +13,117 @@
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">China's Xi says AI should not be dominated by one country</span></td>
-  <td class="col-summary">China's Xi says AI should not be dominated by one country</td>
+  <td class="col-title"><span class="article-title">China's Moonshot AI chases 'DeepSeek moment' with much-hyped model</span></td>
+  <td class="col-summary">Kimi K3 drew excitement from industry insiders, with some evoking a 2025 release from China's DeepSeek that shook assumptions of US dominance in AI.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/china-ai-not-dominated-one-country-xi-6260096" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/china-moonshot-ai-kimi-k3-6260536" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Moonshot debuts 2.8 trillion-parameter Kimi K3</span></td>
-  <td class="col-summary">Moonshot said Kimi K3 supports a 1 million-token context window and performed competitively with Anthropic’s Fable 5.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-moonshot-ai-explores-hk-ipo-eyes-1b-funding" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Moore Threads forecasts sharp first-half revenue growth on AI demand</span></td>
+  <td class="col-summary">Moore Threads, a Chinese GPU maker, said its first-half revenue likely more than doubled as demand for artificial intelligence (AI) chips and large-scale computing clusters accelerated. The forecast matters beyond China, as global investors are closely watching how domestic chip firms are competing in the fast-growing </td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260717PR203/moore-threads-gpu-revenue-demand-growth.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">South Korea-US team unveils robotic technology that dresses the wearer</span></td>
-  <td class="col-summary">South Korea-US team unveils robotic technology that dresses the wearer</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/south-korea-us-team-unveils-robotic-technology-dresses-wearer-6260091" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Meta adds teen safety alerts to Instagram AI chats</span></td>
+  <td class="col-summary">The company said it used signals developed with experts and manually reviewed flagged chats before sending alerts.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-faces-1-4t-penalty-in-us-youth-safety-case" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TSMC's US$100 billion bet: AI growth, US pressure and the cost of staying ahead</span></td>
-  <td class="col-summary">Taiwan Semiconductor Manufacturing Company (TSMC) posted record second-quarter earnings for 2026, issued third-quarter revenue guidance above market expectations, and raised its full-year US dollar revenue growth forecast to more than 40%. The company also increased its 2026 capital expenditure guidance to US$60-64 bil</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260717PD210/tsmc-manufacturing-ai-usa-cost-growth.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Google's Gemini 3.5 Pro delay deepens doubts over its standing in AI coding race</span></td>
+  <td class="col-summary">Google's months-long delay in shipping Gemini 3.5 Pro is hardening a view among investors and its own researchers that the company is slipping behind Anthropic and OpenAI in the contest that increasingly defines frontier AI: writing software. The setback has renewed questions about whether the search giant's sprawling </td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260717VL211/google-gemini-ai-shipping-anthropic-openai.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Micron signs auto chip deals with Qualcomm, Hyundai Mobis</span></td>
-  <td class="col-summary">The agreements are understood to lock in supply volumes and prices for three to five years, instead of annual renewals.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/micron-to-invest-24b-in-sg-to-expand-chip-output" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">China moves to institutionalize its vision for global AI governance as Xi launches cooperation body</span></td>
+  <td class="col-summary">China used the opening of the 2026 World Artificial Intelligence Conference (WAIC) in Shanghai to institutionalize its bid to shape global governance of artificial intelligence (AI), with President Xi Jinping unveiling a package of measures aimed at the developing world and endorsing a new Shanghai-based intergovernmen</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260717VL212/china-ai-governance-shanghai-2026.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">EU orders Google to open Android AI features, share Search data with rivals under DMA</span></td>
-  <td class="col-summary">The European Commission has issued binding measures requiring Alphabet's Google to open key Android features to competing AI assistants and share parts of its Google Search data with rival search engines, marking one of the bloc's most significant efforts yet to curb the market power of Big Tech under the Digital Marke</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260717VL204/google-android-ai-data-european-commission.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Hanyang University Develops Solvent-based Method for Controlled Organic Semiconductor Doping</span></td>
+  <td class="col-summary">Researchers demonstrate solvent-controlled doping strategy that improves stability and performance of organic semiconductors for flexible electronic devices. The post Hanyang University Develops Solvent-based Method for Controlled Organic Semiconductor Doping appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/hanyang-university-develops-solvent-based-method-for-controlled-organic-semiconductor-doping/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Microsoft reportedly readies AI-powered security tool to automate bug hunting and remediation</span></td>
-  <td class="col-summary">Microsoft is reportedly preparing to launch a new AI cybersecurity product designed to identify software vulnerabilities and automatically fix them, as the company expands its push into AI-driven enterprise security.</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Tourist guides adapt as AI and social media reshape how visitors explore Singapore</span></td>
+  <td class="col-summary">As more travellers take charge of their own itineraries, tourist guides are shifting away from traditional coach tours towards personalised experiences.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260717VL206/microsoft-ai-cybersecurity-software-anthropic.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/tourist-guides-adapt-artificial-intelligence-social-media-6260336" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">EU orders Google to give rivals wider Android access</span></td>
-  <td class="col-summary">The Commission said rival AI assistants are currently blocked from functions Gemini can use.</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">TetraMem, SK hynix Highlight Memristor-Based AI Computing SoC Collaboration</span></td>
+  <td class="col-summary">Joint research demonstrates analog in-memory computing SoC designed to improve AI inference efficiency by reducing data movement. The post TetraMem, SK hynix Highlight Memristor-Based AI Computing SoC Collaboration appeared first on EE Times Asia .</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/google-loses-final-eu-appeal-over-4-6b-android-fine" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/tetramem-sk-hynix-highlight-memristor-based-ai-computing-soc-collaboration/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Singapore's June non-oil exports rise 20.7% as AI demand stays robust</span></td>
-  <td class="col-summary">Electronic NODX surged by 105.1 per cent in June.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/nodx-june-exports-growth-ai-demand-6259826" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Meituan leads $73.9m round for Chinese robotics firm</span></td>
+  <td class="col-summary">This was Xynova’s third funding round in 2026, following pre-A and series A rounds in March and May.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">AI trade isn’t just about tech stocks but also power, TCW says</span></td>
-  <td class="col-summary">The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Analysis:Among AI crowd, some investors position for slower hyperscaler spending growth</span></td>
+  <td class="col-summary">Analysis:Among AI crowd, some investors position for slower hyperscaler spending growth</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/analysisamong-ai-crowd-some-investors-position-slower-hyperscaler-spending-growth-6260341" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">No career ambition, no ego: AI plays devil's advocate at Audax Private Equity</span></td>
-  <td class="col-summary">Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Japanese chipmaker Kioxia drops 16% as AI rally fades</span></td>
+  <td class="col-summary">Kioxia is the world’s third-largest NAND maker, with a 14% shipment share in 2024.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/japanese-chipmaker-kioxia-shares-fall-as-bain-backed-fund-sells-stake" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate</span></td>
-  <td class="col-summary">EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease</td>
-  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/bio-pharma/newsView/ked202603100001" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">SEMI Forecasts Global Chip Equipment Sales to Reach Record $229B in 2028</span></td>
+  <td class="col-summary">Growth momentum is expected to continue through 2028, marking five consecutive years of growth, according to SEMI. The post SEMI Forecasts Global Chip Equipment Sales to Reach Record $229B in 2028 appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-reach-record-229b-in-2028/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">13</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan's Olympus envisions robot-assisted future for endoscopy</span></td>
+  <td class="col-summary">Japan's Olympus envisions robot-assisted future for endoscopy</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/health-care/japan-s-olympus-envisions-robot-assisted-future-for-endoscopy" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">14</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Kioxia dives 16% as AI stocks face deleveraging</span></td>
+  <td class="col-summary">Kioxia dives 16% as AI stocks face deleveraging</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/kioxia-dives-16-as-ai-stocks-face-deleveraging" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA China's Xi says AI should not be dominated by one country China's Xi says AI should not be dominated by one country AI Read 2 TechAsia Moonshot debuts 2.8 trillion-parameter Kimi K3 Moonshot said Kimi K3 supports a 1 million-token context window and performed competitively with Anthropic’s Fable 5. Semiconductor Read 3 CNA South Korea-US team unveils robotic technology that dresses the wearer South Korea-US team unveils robotic technology that dresses the wearer Automation Read 4 DigiTimes TSMC's US$100 billion bet: AI growth, US pressure and the cost of staying ahead Taiwan Semiconductor Manufacturing Company (TSMC) posted record second-quarter earnings for 2026, issued third-quarter revenue guidance above market expectations, and raised its full-year US dollar revenue growth forecast to more than 40%. The company also increased its 2026 capital expenditure guidance to US$60-64 bil SemiconductorAI Read 5 TechAsia Micron signs auto chip deals with Qualcomm, Hyundai Mobis The agreements are understood to lock in supply volumes and prices for three to five years, instead of annual renewals. Semiconductor Read 6 DigiTimes EU orders Google to open Android AI features, share Search data with rivals under DMA The European Commission has issued binding measures requiring Alphabet's Google to open key Android features to competing AI assistants and share parts of its Google Search data with rival search engines, marking one of the bloc's most significant efforts yet to curb the market power of Big Tech under the Digital Marke AI Read 7 DigiTimes Microsoft reportedly readies AI-powered security tool to automate bug hunting and remediation Microsoft is reportedly preparing to launch a new AI cybersecurity product designed to identify software vulnerabilities and automatically fix them, as the company expands its push into AI-driven enterprise security. AI Read 8 TechAsia EU orders Google to give rivals wider Android access The Commission said rival AI assistants are currently blocked from functions Gemini can use. AI Read 9 CNA Singapore's June non-oil exports rise 20.7% as AI demand stays robust Electronic NODX surged by 105.1 per cent in June. AI Read 10 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun AISemiconductor Read 11 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass AI Read 12 KED EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease Biotechnology Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 16, 2026</title><link href="https://asiatechfeed.com/2026/07/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 16, 2026" /><published>2026-07-16T08:00:56+00:00</published><updated>2026-07-16T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/07/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA China's Moonshot AI chases 'DeepSeek moment' with much-hyped model Kimi K3 drew excitement from industry insiders, with some evoking a 2025 release from China's DeepSeek that shook assumptions of US dominance in AI. AI Read 2 DigiTimes Moore Threads forecasts sharp first-half revenue growth on AI demand Moore Threads, a Chinese GPU maker, said its first-half revenue likely more than doubled as demand for artificial intelligence (AI) chips and large-scale computing clusters accelerated. The forecast matters beyond China, as global investors are closely watching how domestic chip firms are competing in the fast-growing AISemiconductor Read 3 TechAsia Meta adds teen safety alerts to Instagram AI chats The company said it used signals developed with experts and manually reviewed flagged chats before sending alerts. AI Read 4 DigiTimes Google's Gemini 3.5 Pro delay deepens doubts over its standing in AI coding race Google's months-long delay in shipping Gemini 3.5 Pro is hardening a view among investors and its own researchers that the company is slipping behind Anthropic and OpenAI in the contest that increasingly defines frontier AI: writing software. The setback has renewed questions about whether the search giant's sprawling AI Read 5 DigiTimes China moves to institutionalize its vision for global AI governance as Xi launches cooperation body China used the opening of the 2026 World Artificial Intelligence Conference (WAIC) in Shanghai to institutionalize its bid to shape global governance of artificial intelligence (AI), with President Xi Jinping unveiling a package of measures aimed at the developing world and endorsing a new Shanghai-based intergovernmen AI Read 6 EETAsia Hanyang University Develops Solvent-based Method for Controlled Organic Semiconductor Doping Researchers demonstrate solvent-controlled doping strategy that improves stability and performance of organic semiconductors for flexible electronic devices. The post Hanyang University Develops Solvent-based Method for Controlled Organic Semiconductor Doping appeared first on EE Times Asia . Semiconductor Read 7 CNA Tourist guides adapt as AI and social media reshape how visitors explore Singapore As more travellers take charge of their own itineraries, tourist guides are shifting away from traditional coach tours towards personalised experiences. AI Read 8 EETAsia TetraMem, SK hynix Highlight Memristor-Based AI Computing SoC Collaboration Joint research demonstrates analog in-memory computing SoC designed to improve AI inference efficiency by reducing data movement. The post TetraMem, SK hynix Highlight Memristor-Based AI Computing SoC Collaboration appeared first on EE Times Asia . AI Read 9 TechAsia Meituan leads $73.9m round for Chinese robotics firm This was Xynova’s third funding round in 2026, following pre-A and series A rounds in March and May. Automation Read 10 CNA Analysis:Among AI crowd, some investors position for slower hyperscaler spending growth Analysis:Among AI crowd, some investors position for slower hyperscaler spending growth AI Read 11 TechAsia Japanese chipmaker Kioxia drops 16% as AI rally fades Kioxia is the world’s third-largest NAND maker, with a 14% shipment share in 2024. AISemiconductor Read 12 EETAsia SEMI Forecasts Global Chip Equipment Sales to Reach Record $229B in 2028 Growth momentum is expected to continue through 2028, marking five consecutive years of growth, according to SEMI. The post SEMI Forecasts Global Chip Equipment Sales to Reach Record $229B in 2028 appeared first on EE Times Asia . Semiconductor Read 13 NikkeiAsia Japan's Olympus envisions robot-assisted future for endoscopy Japan's Olympus envisions robot-assisted future for endoscopy Automation Read 14 NikkeiAsia Kioxia dives 16% as AI stocks face deleveraging Kioxia dives 16% as AI stocks face deleveraging AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 16, 2026</title><link href="https://asiatechfeed.com/2026/07/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 16, 2026" /><published>2026-07-16T08:00:56+00:00</published><updated>2026-07-16T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/07/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
