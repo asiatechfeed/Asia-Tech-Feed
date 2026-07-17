@@ -1,38 +1,38 @@
 {
   "date": "2026-07-17",
-  "count": 9,
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
-    "NikkeiAsia",
+    "KED",
     "TechAsia"
   ],
   "post_file": "2026-07-17-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Xpeng L03: New electric SUV puts AI and Google Maps at the centre",
+      "title": "China's Xi says AI should not be dominated by one country",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/obsessions/xpeng-l03-electric-suv-ai-google-maps-6259681"
+      "url": "https://www.channelnewsasia.com/east-asia/china-ai-not-dominated-one-country-xi-6260096"
     },
     {
-      "title": "Commentary: Gen Z is pushing back against AI - a reminder that the future isn\u2019t written",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/gen-z-pushback-against-ai-6258016"
-    },
-    {
-      "title": "Why this Barclays engineer says AI speed is a trap",
+      "title": "Moonshot debuts 2.8 trillion-parameter Kimi K3",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/why-this-barclays-engineer-says-ai-speed-is-a-trap"
+      "url": "https://www.techinasia.com/chinas-moonshot-ai-explores-hk-ipo-eyes-1b-funding"
     },
     {
-      "title": "AI hardware boom lifts Taiwan's rail and CCL suppliers; optical module tells messier story",
+      "title": "South Korea-US team unveils robotic technology that dresses the wearer",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/south-korea-us-team-unveils-robotic-technology-dresses-wearer-6260091"
+    },
+    {
+      "title": "TSMC's US$100 billion bet: AI growth, US pressure and the cost of staying ahead",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260715VL222/taiwan-monthly-tracker-ai-server-supply-chain-ccl-growth.html"
+      "url": "https://www.digitimes.com/news/a20260717PD210/tsmc-manufacturing-ai-usa-cost-growth.html"
     },
     {
-      "title": "Series SEA: Who\u2019s investing in the region\u2019s AI startups?",
+      "title": "Micron signs auto chip deals with Qualcomm, Hyundai Mobis",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/top-sea-investors-ai"
+      "url": "https://www.techinasia.com/micron-to-invest-24b-in-sg-to-expand-chip-output"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -156,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 71,
-      "relevant": 56,
+      "fetched": 35,
+      "relevant": 26,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -177,7 +177,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null

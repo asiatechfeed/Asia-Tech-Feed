@@ -1,104 +1,137 @@
 [
   {
     "date": "2026-07-17",
-    "title": "Xpeng L03: New electric SUV puts AI and Google Maps at the centre",
-    "summary": "The coupe SUV combines up to 520km of claimed range with advanced driver assistance, built-in Google Maps technology and a cabin aimed at everyday family use.",
+    "title": "China's Xi says AI should not be dominated by one country",
+    "summary": "China's Xi says AI should not be dominated by one country",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/obsessions/xpeng-l03-electric-suv-ai-google-maps-6259681"
+    "url": "https://www.channelnewsasia.com/east-asia/china-ai-not-dominated-one-country-xi-6260096"
   },
   {
     "date": "2026-07-17",
-    "title": "Commentary: Gen Z is pushing back against AI - a reminder that the future isn’t written",
-    "summary": "Gen Z's vocal backlash reflects a growing generational divide when it comes to AI adoption, says this writer.",
+    "title": "Moonshot debuts 2.8 trillion-parameter Kimi K3",
+    "summary": "Moonshot said Kimi K3 supports a 1 million-token context window and performed competitively with Anthropic’s Fable 5.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/chinas-moonshot-ai-explores-hk-ipo-eyes-1b-funding"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "South Korea-US team unveils robotic technology that dresses the wearer",
+    "summary": "South Korea-US team unveils robotic technology that dresses the wearer",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.channelnewsasia.com/business/south-korea-us-team-unveils-robotic-technology-dresses-wearer-6260091"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "TSMC's US$100 billion bet: AI growth, US pressure and the cost of staying ahead",
+    "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) posted record second-quarter earnings for 2026, issued third-quarter revenue guidance above market expectations, and raised its full-year US dollar revenue growth forecast to more than 40%. The company also increased its 2026 capital expenditure guidance to US$60-64 bil",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260717PD210/tsmc-manufacturing-ai-usa-cost-growth.html"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "Micron signs auto chip deals with Qualcomm, Hyundai Mobis",
+    "summary": "The agreements are understood to lock in supply volumes and prices for three to five years, instead of annual renewals.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/micron-to-invest-24b-in-sg-to-expand-chip-output"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "EU orders Google to open Android AI features, share Search data with rivals under DMA",
+    "summary": "The European Commission has issued binding measures requiring Alphabet's Google to open key Android features to competing AI assistants and share parts of its Google Search data with rival search engines, marking one of the bloc's most significant efforts yet to curb the market power of Big Tech under the Digital Marke",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260717VL204/google-android-ai-data-european-commission.html"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "Microsoft reportedly readies AI-powered security tool to automate bug hunting and remediation",
+    "summary": "Microsoft is reportedly preparing to launch a new AI cybersecurity product designed to identify software vulnerabilities and automatically fix them, as the company expands its push into AI-driven enterprise security.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260717VL206/microsoft-ai-cybersecurity-software-anthropic.html"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "EU orders Google to give rivals wider Android access",
+    "summary": "The Commission said rival AI assistants are currently blocked from functions Gemini can use.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/google-loses-final-eu-appeal-over-4-6b-android-fine"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "Singapore's June non-oil exports rise 20.7% as AI demand stays robust",
+    "summary": "Electronic NODX surged by 105.1 per cent in June.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/commentary/gen-z-pushback-against-ai-6258016"
+    "url": "https://www.channelnewsasia.com/singapore/nodx-june-exports-growth-ai-demand-6259826"
   },
   {
     "date": "2026-07-17",
-    "title": "Why this Barclays engineer says AI speed is a trap",
-    "summary": "Barclays' principal AI engineer Andy McMahon explains why internal testing, strict oversight, and measurable results matter more than writing code faster alone.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/why-this-barclays-engineer-says-ai-speed-is-a-trap"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "AI hardware boom lifts Taiwan's rail and CCL suppliers; optical module tells messier story",
-    "summary": "Taiwan's technology supply chain delivered another month of strong year-over-year revenue growth in June 2026, led by suppliers tied directly to AI server infrastructure, even as the optical module segment showed the sharpest slowdown of any sector tracked and revealed a widening gap between winners and laggards within",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260715VL222/taiwan-monthly-tracker-ai-server-supply-chain-ccl-growth.html"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "Series SEA: Who’s investing in the region’s AI startups?",
-    "summary": "We've compiled a list of investors that are pouring money into Southeast Asia’s AI startups.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/top-sea-investors-ai"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "US data center firm Csquare raises $1b in IPO",
-    "summary": "The deal comes as AI infrastructure listings draw investor attention, with CoreWeave pricing at US$40 in its March 2025 IPO.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/brookfieldbacked-csquare-targets-418b-ipo"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "TSMC says 2nm has four times as many tape-outs as 3nm at the same stage",
-    "summary": "Customer tape-outs for TSMC's N2 process have reached four times the number recorded by its 3nm technology at the same stage, showing faster design activity as the foundry ramps production of its first 2nm process.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260716VL228/tsmc-3nm-2nm-production-design.html"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "Taiwan AI server tracker: Rail kits and chassis post fastest revenue growth in June",
-    "summary": "Taiwan suppliers linked to the AI server market posted broad revenue growth in June, with rail-kit and server-chassis makers recording the fastest year-over-year gains as demand for rack-scale systems continued to lift mechanical components.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260715VL230/taiwan-monthly-tracker-ai-server-chassis-revenue-growth.html"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "SoftBank, Sony, Honda spearhead work on Japan AI with Nvidia chips",
-    "summary": "SoftBank, Sony, Honda spearhead work on Japan AI with Nvidia chips",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
+    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
+    "source": "KED Global",
+    "short": "KED",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-sony-honda-spearhead-work-on-japan-ai-with-nvidia-chips"
+    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "No career ambition, no ego: AI plays devil's advocate at Audax Private Equity",
+    "summary": "Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/private-equity/newsView/ked202603120002"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate",
+    "summary": "EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "Biotechnology"
+    ],
+    "url": "https://www.kedglobal.com/bio-pharma/newsView/ked202603100001"
   },
   {
     "date": "2026-07-16",
