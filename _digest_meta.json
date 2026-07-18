@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-17",
-  "count": 14,
+  "date": "2026-07-18",
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -8,32 +8,32 @@
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-17-asia-tech-news-digest.md",
+  "post_file": "2026-07-18-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "China's Moonshot AI chases 'DeepSeek moment' with much-hyped model",
+      "title": "Wall Street ends lower for the day and week as chip selloff broadens",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/china-moonshot-ai-kimi-k3-6260536"
+      "url": "https://www.channelnewsasia.com/world/us-stocks-wall-street-chip-market-6262051"
     },
     {
-      "title": "Moore Threads forecasts sharp first-half revenue growth on AI demand",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260717PR203/moore-threads-gpu-revenue-demand-growth.html"
+      "title": "Chip stock pullback sparks worries about AI rally strength, leveraged trades",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/chip-stock-pullback-sparks-worries-about-ai-rally-strength-leveraged-trades-6261476"
     },
     {
-      "title": "Meta adds teen safety alerts to Instagram AI chats",
+      "title": "Alipay, StepFun form partnership for AI agent services",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/meta-faces-1-4t-penalty-in-us-youth-safety-case"
+      "url": "https://www.techinasia.com/chinese-ai-firms-form-alliances-to-strengthen-domestic-ecosystem"
     },
     {
-      "title": "Google's Gemini 3.5 Pro delay deepens doubts over its standing in AI coding race",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260717VL211/google-gemini-ai-shipping-anthropic-openai.html"
+      "title": "China\u2019s Eoptolink eyes $5b Hong Kong listing",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/chinese-chip-cloud-stocks-soar-on-ai-boom"
     },
     {
-      "title": "China moves to institutionalize its vision for global AI governance as Xi launches cooperation body",
+      "title": "Exclusive: SiPearl turns to Taiwan ODMs to bring Rhea-based servers to market",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260717VL212/china-ai-governance-shanghai-2026.html"
+      "url": "https://www.digitimes.com/news/a20260717VL217/cpu-reference-design-software-taiwan-france.html"
     }
   ],
   "source_stats": [
@@ -50,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -130,7 +130,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -151,14 +151,14 @@
       "fetched": 10,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 44,
-      "relevant": 34,
+      "fetched": 65,
+      "relevant": 51,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
