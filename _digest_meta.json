@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "count": 9,
+  "count": 8,
   "sources": [
     "DigiTimes",
     "NikkeiAsia",
@@ -9,29 +9,29 @@
   "post_file": "2026-07-18-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "China's AI sector pivots to system-level \"super-nodes\" as chip curbs bite at WAIC 2026",
+      "title": "China positions AI weather-warning system MAZU as a public good for the Global South, targeting 30 countries in five years",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260718VL200/2026-shanghai-chips.html"
+      "url": "https://www.digitimes.com/news/a20260718VL201/2026-shanghai-weather-data.html"
     },
     {
-      "title": "SpaceX in talks with US DoD on potential AI deal",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/spacex-ipo-reaches-857b-greenshoe"
-    },
-    {
-      "title": "Apple, DOJ hold early talks to settle antitrust case",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/apple-starts-restoring-card-payments-indias-app-store"
-    },
-    {
-      "title": "Amazon\u2019s Zoox recalls robotaxi software after smoke incident",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/waymo-to-expand-robotaxi-into-minneapolis-new-orleans"
-    },
-    {
-      "title": "Japan's ACSL eyes Taiwan drone supply chain expansion, commits to TADTE 2027",
+      "title": "LG bets on India as its biggest AC base, as its third plant runs ahead of schedule",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260717PD218/taiwan-drone-supply-chain-industrial-2027-technology.html"
+      "url": "https://www.digitimes.com/news/a20260717VL201/lg-electronics-home-appliance-india-plant-production.html"
+    },
+    {
+      "title": "Commentary: Samsung, SK Hynix in Washington's crosshairs over memory fabs",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260717PD229/samsung-sk-hynix-intel-digitimes-capacity.html"
+    },
+    {
+      "title": "TSMC plans A14 chip production in 2028",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/tsmc-sees-strong-growth-as-ai-demand-drives-chip-sales"
+    },
+    {
+      "title": "SoftBank tumbles in Asian AI stock selloff",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/tsmc-revenue-jumps-30-ai-demand-stays-strong"
     }
   ],
   "source_stats": [
@@ -156,7 +156,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 30,
+      "relevant": 31,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +167,7 @@
       "fetched": 50,
       "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
