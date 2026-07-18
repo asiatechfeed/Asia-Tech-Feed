@@ -1,39 +1,37 @@
 {
   "date": "2026-07-18",
-  "count": 12,
+  "count": 9,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-18-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Wall Street ends lower for the day and week as chip selloff broadens",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/us-stocks-wall-street-chip-market-6262051"
-    },
-    {
-      "title": "Chip stock pullback sparks worries about AI rally strength, leveraged trades",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/chip-stock-pullback-sparks-worries-about-ai-rally-strength-leveraged-trades-6261476"
-    },
-    {
-      "title": "Alipay, StepFun form partnership for AI agent services",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinese-ai-firms-form-alliances-to-strengthen-domestic-ecosystem"
-    },
-    {
-      "title": "China\u2019s Eoptolink eyes $5b Hong Kong listing",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinese-chip-cloud-stocks-soar-on-ai-boom"
-    },
-    {
-      "title": "Exclusive: SiPearl turns to Taiwan ODMs to bring Rhea-based servers to market",
+      "title": "China's AI sector pivots to system-level \"super-nodes\" as chip curbs bite at WAIC 2026",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260717VL217/cpu-reference-design-software-taiwan-france.html"
+      "url": "https://www.digitimes.com/news/a20260718VL200/2026-shanghai-chips.html"
+    },
+    {
+      "title": "SpaceX in talks with US DoD on potential AI deal",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/spacex-ipo-reaches-857b-greenshoe"
+    },
+    {
+      "title": "Apple, DOJ hold early talks to settle antitrust case",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/apple-starts-restoring-card-payments-indias-app-store"
+    },
+    {
+      "title": "Amazon\u2019s Zoox recalls robotaxi software after smoke incident",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/waymo-to-expand-robotaxi-into-minneapolis-new-orleans"
+    },
+    {
+      "title": "Japan's ACSL eyes Taiwan drone supply chain expansion, commits to TADTE 2027",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260717PD218/taiwan-drone-supply-chain-industrial-2027-technology.html"
     }
   ],
   "source_stats": [
@@ -50,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -149,16 +147,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 9,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 65,
-      "relevant": 51,
+      "fetched": 35,
+      "relevant": 30,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +165,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 11,
+      "relevant": 10,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -194,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
