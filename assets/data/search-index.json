@@ -1,74 +1,59 @@
 [
   {
     "date": "2026-07-19",
-    "title": "ZTE unveils AI supernode amid Nvidia curbs",
-    "summary": "ZTE's OEX supernode features a 'three-zero cable' design and supports multi-chip GPU combinations.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/clears-zte-unit-buy-nvidia-amd-chips"
-  },
-  {
-    "date": "2026-07-19",
-    "title": "Anthropic adds Claude Fable 5 to premium plans",
-    "summary": "Anthropic will provide a one-time US$100 credit to affected Pro and Team Standard users.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/anthropic-releases-claude-sonnet-5-free-pro-users"
-  },
-  {
-    "date": "2026-07-19",
-    "title": "Chinese AI chipmaker Biren unveils optical supernodes",
-    "summary": "Biren Technology was founded in 2019 and markets BR100 and BR104 AI GPUs.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/chinese-tech-listings-gain-hk-domestic-tech-support"
-  },
-  {
-    "date": "2026-07-19",
-    "title": "Interview: The pragmatic playbook behind Agility Robotics' rise",
-    "summary": "Humanoid robots are very hyped these days. They are performing ever more impressive feats, from pulling off coordinated dance performances to running half-marathons. Yet one investor believes that the robots ultimately winning the commercial race will be the \"boring\" ones with solid, real-world market potential.",
+    "title": "The AI investment race is building its own bust, BIS paper warns",
+    "summary": "The competitive race to dominate artificial intelligence is driving technology giants to over-build computing capacity by roughly half again more than is economically efficient — and the same contest, financed with debt and circular equity ties, is quietly manufacturing the conditions for a sector-wide bust. That is th",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Automation"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260717VL216/industrial-tdk-president-robot-robotics.html"
+    "url": "https://www.digitimes.com/news/a20260715VL215/technology-investment-capacity-2026.html"
   },
   {
     "date": "2026-07-19",
-    "title": "Three-tier humanoid robot architecture shift opens edge AI opportunities",
-    "summary": "The humanoid robot industry is converging on a \"big brain, small brain\" architecture, with AI compute shifting from the cloud to the edge, and even to hands, feet, and other endpoints. DIGITIMES Intelligence predicts that Nvidia's CUDA will keep it dominant in the robot \"big brain\" layer for now, but automotive chipmak",
+    "title": "ASML supplier Trumpf says South Korea EUV demand is growing faster than Taiwan's",
+    "summary": "High-NA EUV lithography is becoming the semiconductor equipment industry's next major battleground as demand rises for more advanced chips used in artificial intelligence, high-performance computing, and mobile devices. Trumpf, a key supplier to ASML, says higher laser power, faster tool output, and closer coordination",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI",
       "Semiconductor",
-      "Automation"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260715PD219/humanoid-robot-fpga-hardware-nvidia.html"
+    "url": "https://www.digitimes.com/news/a20260717PD224/asml-high-na-euv-equipment-demand-taiwan.html"
   },
   {
     "date": "2026-07-19",
-    "title": "Memory must adopt foundry model to fix AI inference bottleneck, says Korean scholar",
-    "summary": "AI development is driving larger data transfers and higher GPU efficiency demands, pushing memory toward customization and prompting South Korean industry watchers to call for a shift to a \"memory foundry\" model. Sungkyunkwan University professor Seokjoon Kwon said at the Nano Korea 2026 forum that memory makers must m",
+    "title": "Alibaba launches Meoo Team for enterprise AI",
+    "summary": "Meoo Team helps manage identities, procurement, permissions, and shared team assets for enterprises.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/alibaba-consolidates-ai-business-into-new-token-hub"
+  },
+  {
+    "date": "2026-07-19",
+    "title": "Oracle credit risk climbs as AI spending grows",
+    "summary": "Oracle plans about US$50 billion in capital spending on data centres in fiscal 2026.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/oracle-data-center-financing-nears-close-as-debt-terms-shift"
+  },
+  {
+    "date": "2026-07-19",
+    "title": "Dutch report frames Chinese interference in chips, ports and aerospace as a systemic threat",
+    "summary": "Chinese foreign interference in the Netherlands' strategic industries should be treated as a systemic, long-term threat rather than a series of isolated incidents, according to \"Beyond Borders,\" a report published under the China Knowledge Network (CKN) and written by analysts at the Hague Centre for Strategic Studies ",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260715PD228/data-development-gpu-chips-efficiency.html"
+    "url": "https://www.digitimes.com/news/a20260715VL226/netherlands-china-geopolitics-security-asml-materials.html"
   },
   {
     "date": "2026-07-18",

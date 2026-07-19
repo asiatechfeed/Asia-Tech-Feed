@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "count": 6,
+  "count": 5,
   "sources": [
     "DigiTimes",
     "TechAsia"
@@ -8,29 +8,29 @@
   "post_file": "2026-07-19-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "ZTE unveils AI supernode amid Nvidia curbs",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/clears-zte-unit-buy-nvidia-amd-chips"
-    },
-    {
-      "title": "Anthropic adds Claude Fable 5 to premium plans",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-releases-claude-sonnet-5-free-pro-users"
-    },
-    {
-      "title": "Chinese AI chipmaker Biren unveils optical supernodes",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinese-tech-listings-gain-hk-domestic-tech-support"
-    },
-    {
-      "title": "Interview: The pragmatic playbook behind Agility Robotics' rise",
+      "title": "The AI investment race is building its own bust, BIS paper warns",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260717VL216/industrial-tdk-president-robot-robotics.html"
+      "url": "https://www.digitimes.com/news/a20260715VL215/technology-investment-capacity-2026.html"
     },
     {
-      "title": "Three-tier humanoid robot architecture shift opens edge AI opportunities",
+      "title": "ASML supplier Trumpf says South Korea EUV demand is growing faster than Taiwan's",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260715PD219/humanoid-robot-fpga-hardware-nvidia.html"
+      "url": "https://www.digitimes.com/news/a20260717PD224/asml-high-na-euv-equipment-demand-taiwan.html"
+    },
+    {
+      "title": "Alibaba launches Meoo Team for enterprise AI",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/alibaba-consolidates-ai-business-into-new-token-hub"
+    },
+    {
+      "title": "Oracle credit risk climbs as AI spending grows",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/oracle-data-center-financing-nears-close-as-debt-terms-shift"
+    },
+    {
+      "title": "Dutch report frames Chinese interference in chips, ports and aerospace as a systemic threat",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260715VL226/netherlands-china-geopolitics-security-asml-materials.html"
     }
   ],
   "source_stats": [
@@ -47,7 +47,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -127,7 +127,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -193,7 +193,7 @@
       "fetched": 36,
       "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
