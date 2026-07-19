@@ -1,73 +1,74 @@
 [
   {
     "date": "2026-07-19",
-    "title": "Commentary: These World Cup tweets show how AI will unite us all",
-    "summary": "By allowing fans to see what others are saying about football in their own words, AI has removed the language barrier and democratised the conversation, says Gearoid Reidy for Bloomberg Opinion.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "ZTE unveils AI supernode amid Nvidia curbs",
+    "summary": "ZTE's OEX supernode features a 'three-zero cable' design and supports multi-chip GPU combinations.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "AI"
+      "AI",
+      "Semiconductor"
     ],
-    "url": "https://www.channelnewsasia.com/commentary/world-cup-2026-ai-social-media-tweets-6255621"
+    "url": "https://www.techinasia.com/clears-zte-unit-buy-nvidia-amd-chips"
   },
   {
     "date": "2026-07-19",
-    "title": "Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says",
-    "summary": "Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.channelnewsasia.com/business/samsung-electronics-america-reduce-workforce-739-in-new-jersey-warn-notice-says-6263221"
-  },
-  {
-    "date": "2026-07-19",
-    "title": "Leather jacket worn by Nvidia CEO Jensen Huang auctions for nearly US$1 million",
-    "summary": "As head of Jensen Nvidia, he has seen the chipmaker grow to become the highest-valued publicly traded company in the world.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "Anthropic adds Claude Fable 5 to premium plans",
+    "summary": "Anthropic will provide a one-time US$100 credit to affected Pro and Team Standard users.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.channelnewsasia.com/world/nvidia-ceo-jensen-huang-leather-jacket-auction-us-1-million-6263151"
+    "url": "https://www.techinasia.com/anthropic-releases-claude-sonnet-5-free-pro-users"
   },
   {
     "date": "2026-07-19",
-    "title": "EU clears €659 million in German subsidies for four chip plants",
-    "summary": "The European Commission has approved EUR659 million in German state aid for four semiconductor facilities, a move that could affect supply chains used in cars, industrial equipment, and electronics worldwide. The backing is intended to widen European chip-making capacity, reduce dependencies, and support more resilient",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Chinese AI chipmaker Biren unveils optical supernodes",
+    "summary": "Biren Technology was founded in 2019 and markets BR100 and BR104 AI GPUs.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "Semiconductor",
-      "Electronics",
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260716PR200/european-commission-industrial-equipment-eu-2024.html"
-  },
-  {
-    "date": "2026-07-19",
-    "title": "Column: South Korea's semiconductor strategy faces foresight and structural gaps",
-    "summary": "South Korea's technology policies—including the two semiconductor strategies discussed previously and the broader K-Moonshot initiative introduced more recently—have been drafted by different government bodies, including the Ministry of Trade, Industry and Energy (MOTIE), the Presidential Office, and the Ministry of Sc",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
+      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260715PD216/technology-government.html"
+    "url": "https://www.techinasia.com/chinese-tech-listings-gain-hk-domestic-tech-support"
   },
   {
     "date": "2026-07-19",
-    "title": "As AI expands nanotech, Samsung fortifies ecosystem and LG pivots to chip equipment",
-    "summary": "Nanotechnology is increasingly seen as a key enabler in the AI era, with competition broadening from semiconductors, manufacturing to home appliances. At Nano Korea 2026 held in Goyang, South Korea, Samsung Electronics again highlighted its integrated semiconductor solutions, while the LG Group moved beyond home applia",
+    "title": "Interview: The pragmatic playbook behind Agility Robotics' rise",
+    "summary": "Humanoid robots are very hyped these days. They are performing ever more impressive feats, from pulling off coordinated dance performances to running half-marathons. Yet one investor believes that the robots ultimately winning the commercial race will be the \"boring\" ones with solid, real-world market potential.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor",
-      "Electronics",
-      "AI"
+      "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20260714PD217/equipment-lg-samsung-packaging-competition.html"
+    "url": "https://www.digitimes.com/news/a20260717VL216/industrial-tdk-president-robot-robotics.html"
+  },
+  {
+    "date": "2026-07-19",
+    "title": "Three-tier humanoid robot architecture shift opens edge AI opportunities",
+    "summary": "The humanoid robot industry is converging on a \"big brain, small brain\" architecture, with AI compute shifting from the cloud to the edge, and even to hands, feet, and other endpoints. DIGITIMES Intelligence predicts that Nvidia's CUDA will keep it dominant in the robot \"big brain\" layer for now, but automotive chipmak",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260715PD219/humanoid-robot-fpga-hardware-nvidia.html"
+  },
+  {
+    "date": "2026-07-19",
+    "title": "Memory must adopt foundry model to fix AI inference bottleneck, says Korean scholar",
+    "summary": "AI development is driving larger data transfers and higher GPU efficiency demands, pushing memory toward customization and prompting South Korean industry watchers to call for a shift to a \"memory foundry\" model. Sungkyunkwan University professor Seokjoon Kwon said at the Nano Korea 2026 forum that memory makers must m",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260715PD228/data-development-gpu-chips-efficiency.html"
   },
   {
     "date": "2026-07-18",
