@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-18T08:01:27+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 18, 2026</title><link href="https://asiatechfeed.com/2026/07/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 18, 2026" /><published>2026-07-18T08:00:44+00:00</published><updated>2026-07-18T08:00:44+00:00</updated><id>https://asiatechfeed.com/2026/07/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-19T00:10:58+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 19, 2026</title><link href="https://asiatechfeed.com/2026/07/19/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 19, 2026" /><published>2026-07-19T00:10:26+00:00</published><updated>2026-07-19T00:10:26+00:00</updated><id>https://asiatechfeed.com/2026/07/19/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/19/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: These World Cup tweets show how AI will unite us all</span></td>
+  <td class="col-summary">By allowing fans to see what others are saying about football in their own words, AI has removed the language barrier and democratised the conversation, says Gearoid Reidy for Bloomberg Opinion.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/world-cup-2026-ai-social-media-tweets-6255621" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says</span></td>
+  <td class="col-summary">Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/samsung-electronics-america-reduce-workforce-739-in-new-jersey-warn-notice-says-6263221" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Leather jacket worn by Nvidia CEO Jensen Huang auctions for nearly US$1 million</span></td>
+  <td class="col-summary">As head of Jensen Nvidia, he has seen the chipmaker grow to become the highest-valued publicly traded company in the world.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/nvidia-ceo-jensen-huang-leather-jacket-auction-us-1-million-6263151" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">EU clears €659 million in German subsidies for four chip plants</span></td>
+  <td class="col-summary">The European Commission has approved EUR659 million in German state aid for four semiconductor facilities, a move that could affect supply chains used in cars, industrial equipment, and electronics worldwide. The backing is intended to widen European chip-making capacity, reduce dependencies, and support more resilient</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260716PR200/european-commission-industrial-equipment-eu-2024.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Column: South Korea's semiconductor strategy faces foresight and structural gaps</span></td>
+  <td class="col-summary">South Korea's technology policies—including the two semiconductor strategies discussed previously and the broader K-Moonshot initiative introduced more recently—have been drafted by different government bodies, including the Ministry of Trade, Industry and Energy (MOTIE), the Presidential Office, and the Ministry of Sc</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260715PD216/technology-government.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">As AI expands nanotech, Samsung fortifies ecosystem and LG pivots to chip equipment</span></td>
+  <td class="col-summary">Nanotechnology is increasingly seen as a key enabler in the AI era, with competition broadening from semiconductors, manufacturing to home appliances. At Nano Korea 2026 held in Goyang, South Korea, Samsung Electronics again highlighted its integrated semiconductor solutions, while the LG Group moved beyond home applia</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260714PD217/equipment-lg-samsung-packaging-competition.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Commentary: These World Cup tweets show how AI will unite us all By allowing fans to see what others are saying about football in their own words, AI has removed the language barrier and democratised the conversation, says Gearoid Reidy for Bloomberg Opinion. AI Read 2 CNA Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says Electronics Read 3 CNA Leather jacket worn by Nvidia CEO Jensen Huang auctions for nearly US$1 million As head of Jensen Nvidia, he has seen the chipmaker grow to become the highest-valued publicly traded company in the world. Semiconductor Read 4 DigiTimes EU clears €659 million in German subsidies for four chip plants The European Commission has approved EUR659 million in German state aid for four semiconductor facilities, a move that could affect supply chains used in cars, industrial equipment, and electronics worldwide. The backing is intended to widen European chip-making capacity, reduce dependencies, and support more resilient SemiconductorElectronicsLogistics Read 5 DigiTimes Column: South Korea's semiconductor strategy faces foresight and structural gaps South Korea's technology policies—including the two semiconductor strategies discussed previously and the broader K-Moonshot initiative introduced more recently—have been drafted by different government bodies, including the Ministry of Trade, Industry and Energy (MOTIE), the Presidential Office, and the Ministry of Sc Semiconductor Read 6 DigiTimes As AI expands nanotech, Samsung fortifies ecosystem and LG pivots to chip equipment Nanotechnology is increasingly seen as a key enabler in the AI era, with competition broadening from semiconductors, manufacturing to home appliances. At Nano Korea 2026 held in Goyang, South Korea, Samsung Electronics again highlighted its integrated semiconductor solutions, while the LG Group moved beyond home applia SemiconductorElectronicsAI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 18, 2026</title><link href="https://asiatechfeed.com/2026/07/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 18, 2026" /><published>2026-07-18T08:00:44+00:00</published><updated>2026-07-18T08:00:44+00:00</updated><id>https://asiatechfeed.com/2026/07/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -819,81 +880,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/weekly-startup-funding" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA SK Hynix set for marquee US debut in test for AI appetite SK Hynix set for marquee US debut in test for AI appetite AI Read 2 TechAsia MiniMax seeks $2b for AI expansion Founder Yan Junjie said he would stop taking a salary until the company reaches artificial general intelligence. AI Read 3 DigiTimes Apple's US$30 billion Broadcom deal puts its server-chip plans back in focus Apple and Broadcom have extended their custom-chip partnership through 2031 under agreements expected to exceed US$30 billion, reinforcing Broadcom's position as a critical Apple chip supplier. Semiconductor Read 4 DigiTimes Taiwan firms race ahead on AI agents, raising governance stakes Taiwanese companies are adopting AI agents faster than expected, according to a new IDC survey that found 57% have already deployed them, well above the 36% Asia-Pacific average. For global readers, the pace signals how quickly agentic AI may reshape business operations, governance, and competition worldwide. AI Read 5 CNA South Korean chip titan SK hynix raises US$26.5 billion in blockbuster US listing The South Korean chip giant's debut would be the largest US listing by a foreign firm. Semiconductor Read 6 DigiTimes Google Cloud says Taiwan's AI shift to production could shape global enterprise use Taiwan's move from AI trials to production systems signals a broader shift that could affect how companies worldwide adopt automation, data governance, and digital security. As more firms deploy AI agents at scale, the challenge is shifting from experimentation to control, reliability, and measurable returns. AIAutomation Read 7 CNA Special delivery: Italy's postman joins the AI infrastructure race Special delivery: Italy's postman joins the AI infrastructure race AI Read 8 EETAsia Ebttikar, MemryX Partner to Deploy Computer Vision Edge AI in Saudi Arabia Ebttikar and MemryX partnered to accelerate production-ready computer vision edge AI deployments across Saudi Arabia's industrial sectors. The post Ebttikar, MemryX Partner to Deploy Computer Vision Edge AI in Saudi Arabia appeared first on EE Times Asia . AI Read 9 EETAsia Zettabyte Advocates Quality-based AI Compute Metrics at ITRI Seminar Zettabyte urged Taiwan to adopt quality-based AI compute standards to improve infrastructure efficiency and support sovereign AI initiatives. The post Zettabyte Advocates Quality-based AI Compute Metrics at ITRI Seminar appeared first on EE Times Asia . AI Read 10 TechAsia Google adds AI labels to Search, YouTube ads Google previously required synthetic-content disclosures for certain election ads, while minor edits were excluded. AI Read 11 TechAsia Weekly funding: China’s Robot Era banks $148m Keep track of all the startup investment activities in Asia through our weekly funding list. Automation Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 09, 2026</title><link href="https://asiatechfeed.com/2026/07/09/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 09, 2026" /><published>2026-07-09T08:06:11+00:00</published><updated>2026-07-09T08:06:11+00:00</updated><id>https://asiatechfeed.com/2026/07/09/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/09/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Hong Kong AI startup GIM raises $20m series A</span></td>
-  <td class="col-summary">The round was co-led by Hony Capital and an unnamed US venture capital firm, with participation from IDG Capital and existing investor Monolith Capital.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">CXMT IPO leaves HBM off the funding list, tempering China AI memory hype</span></td>
-  <td class="col-summary">CXMT's STAR Market IPO suggests China's largest DRAM maker is prioritizing commodity memory over an aggressive near-term push into high-bandwidth memory (HBM). This eases concerns that Chinese suppliers are about to challenge the dominance of Samsung Electronics, SK Hynix, and Micron in AI memory.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260709VL216/cxmt-hbm-ipo-dram-funding.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Chinese Rockchip expects 1H26 revenue and profit to rise on AIoT demand</span></td>
-  <td class="col-summary">Rockchip Electronics has forecast strong growth in revenue and profit for the first half of 2026, citing sustained demand for its AIoT chip platforms despite supply chain pressures affecting the broader electronics industry.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260708VL203/profit-revenue-demand-rockchip-forecast.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Apple's Broadcom deal extension shows wireless independence remains a distant dream</span></td>
-  <td class="col-summary">Apple's decision to extend its wireless transmission and RF chip supply agreement with Broadcom through 2031 signals that its shift to fully in-house connectivity is a project measured in years, not quarters. For global consumers, the move suggests Apple will likely continue mixing its own chips with those from outside</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260708PD224/apple-wireless-broadcom-chips-transmission.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Behind the biggest consumer AI adoption trap with Meta’s CTO</span></td>
-  <td class="col-summary">Andrew Bosworth explains how Meta fell behind on Llama 4, and why AI strategy now dictates model routing, hardware bets, and workplace trust.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/metas-cto-says-ai-races-are-lost-before-they-even-start" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Taiwan bets on premium coffee, with Alishan’s beans commanding some of the world's highest prices</span></td>
-  <td class="col-summary">In the final instalment of a three-part series on Taiwan beyond semiconductors, CNA looks at how the island is building a reputation for small-batch specialty coffee.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/taiwan-premium-coffee-beans-alishan-6240876" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Crypto VC firm Paradigm raises $1.2b for AI, robotics fund</span></td>
-  <td class="col-summary">True Anomaly, backed by Paradigm, secured a $30M US Space Force contract for a space mission.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sequoia-capital-joins-harmonic-ais-100m-funding" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Chipmakers are preparing for years of expansion: Applied Materials CEO</span></td>
-  <td class="col-summary">Chipmakers are preparing for years of expansion: Applied Materials CEO</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/editor-s-picks/interview/chipmakers-are-preparing-for-years-of-expansion-applied-materials-ceo" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Hong Kong AI startup GIM raises $20m series A The round was co-led by Hony Capital and an unnamed US venture capital firm, with participation from IDG Capital and existing investor Monolith Capital. AI Read 2 DigiTimes CXMT IPO leaves HBM off the funding list, tempering China AI memory hype CXMT's STAR Market IPO suggests China's largest DRAM maker is prioritizing commodity memory over an aggressive near-term push into high-bandwidth memory (HBM). This eases concerns that Chinese suppliers are about to challenge the dominance of Samsung Electronics, SK Hynix, and Micron in AI memory. ElectronicsAI Read 3 DigiTimes Chinese Rockchip expects 1H26 revenue and profit to rise on AIoT demand Rockchip Electronics has forecast strong growth in revenue and profit for the first half of 2026, citing sustained demand for its AIoT chip platforms despite supply chain pressures affecting the broader electronics industry. ElectronicsSemiconductorLogistics Read 4 DigiTimes Apple's Broadcom deal extension shows wireless independence remains a distant dream Apple's decision to extend its wireless transmission and RF chip supply agreement with Broadcom through 2031 signals that its shift to fully in-house connectivity is a project measured in years, not quarters. For global consumers, the move suggests Apple will likely continue mixing its own chips with those from outside Semiconductor Read 5 TechAsia Behind the biggest consumer AI adoption trap with Meta’s CTO Andrew Bosworth explains how Meta fell behind on Llama 4, and why AI strategy now dictates model routing, hardware bets, and workplace trust. AI Read 6 CNA Taiwan bets on premium coffee, with Alishan’s beans commanding some of the world's highest prices In the final instalment of a three-part series on Taiwan beyond semiconductors, CNA looks at how the island is building a reputation for small-batch specialty coffee. Semiconductor Read 7 TechAsia Crypto VC firm Paradigm raises $1.2b for AI, robotics fund True Anomaly, backed by Paradigm, secured a $30M US Space Force contract for a space mission. Automation Read 8 NikkeiAsia Chipmakers are preparing for years of expansion: Applied Materials CEO Chipmakers are preparing for years of expansion: Applied Materials CEO Semiconductor Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA SK Hynix set for marquee US debut in test for AI appetite SK Hynix set for marquee US debut in test for AI appetite AI Read 2 TechAsia MiniMax seeks $2b for AI expansion Founder Yan Junjie said he would stop taking a salary until the company reaches artificial general intelligence. AI Read 3 DigiTimes Apple's US$30 billion Broadcom deal puts its server-chip plans back in focus Apple and Broadcom have extended their custom-chip partnership through 2031 under agreements expected to exceed US$30 billion, reinforcing Broadcom's position as a critical Apple chip supplier. Semiconductor Read 4 DigiTimes Taiwan firms race ahead on AI agents, raising governance stakes Taiwanese companies are adopting AI agents faster than expected, according to a new IDC survey that found 57% have already deployed them, well above the 36% Asia-Pacific average. For global readers, the pace signals how quickly agentic AI may reshape business operations, governance, and competition worldwide. AI Read 5 CNA South Korean chip titan SK hynix raises US$26.5 billion in blockbuster US listing The South Korean chip giant's debut would be the largest US listing by a foreign firm. Semiconductor Read 6 DigiTimes Google Cloud says Taiwan's AI shift to production could shape global enterprise use Taiwan's move from AI trials to production systems signals a broader shift that could affect how companies worldwide adopt automation, data governance, and digital security. As more firms deploy AI agents at scale, the challenge is shifting from experimentation to control, reliability, and measurable returns. AIAutomation Read 7 CNA Special delivery: Italy's postman joins the AI infrastructure race Special delivery: Italy's postman joins the AI infrastructure race AI Read 8 EETAsia Ebttikar, MemryX Partner to Deploy Computer Vision Edge AI in Saudi Arabia Ebttikar and MemryX partnered to accelerate production-ready computer vision edge AI deployments across Saudi Arabia's industrial sectors. The post Ebttikar, MemryX Partner to Deploy Computer Vision Edge AI in Saudi Arabia appeared first on EE Times Asia . AI Read 9 EETAsia Zettabyte Advocates Quality-based AI Compute Metrics at ITRI Seminar Zettabyte urged Taiwan to adopt quality-based AI compute standards to improve infrastructure efficiency and support sovereign AI initiatives. The post Zettabyte Advocates Quality-based AI Compute Metrics at ITRI Seminar appeared first on EE Times Asia . AI Read 10 TechAsia Google adds AI labels to Search, YouTube ads Google previously required synthetic-content disclosures for certain election ads, while minor edits were excluded. AI Read 11 TechAsia Weekly funding: China’s Robot Era banks $148m Keep track of all the startup investment activities in Asia through our weekly funding list. Automation Read]]></summary></entry></feed>
