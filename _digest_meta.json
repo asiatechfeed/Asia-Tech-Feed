@@ -2,35 +2,35 @@
   "date": "2026-07-19",
   "count": 6,
   "sources": [
-    "CNA",
-    "DigiTimes"
+    "DigiTimes",
+    "TechAsia"
   ],
   "post_file": "2026-07-19-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Commentary: These World Cup tweets show how AI will unite us all",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/world-cup-2026-ai-social-media-tweets-6255621"
+      "title": "ZTE unveils AI supernode amid Nvidia curbs",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/clears-zte-unit-buy-nvidia-amd-chips"
     },
     {
-      "title": "Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/samsung-electronics-america-reduce-workforce-739-in-new-jersey-warn-notice-says-6263221"
+      "title": "Anthropic adds Claude Fable 5 to premium plans",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/anthropic-releases-claude-sonnet-5-free-pro-users"
     },
     {
-      "title": "Leather jacket worn by Nvidia CEO Jensen Huang auctions for nearly US$1 million",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/nvidia-ceo-jensen-huang-leather-jacket-auction-us-1-million-6263151"
+      "title": "Chinese AI chipmaker Biren unveils optical supernodes",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/chinese-tech-listings-gain-hk-domestic-tech-support"
     },
     {
-      "title": "EU clears \u20ac659 million in German subsidies for four chip plants",
+      "title": "Interview: The pragmatic playbook behind Agility Robotics' rise",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260716PR200/european-commission-industrial-equipment-eu-2024.html"
+      "url": "https://www.digitimes.com/news/a20260717VL216/industrial-tdk-president-robot-robotics.html"
     },
     {
-      "title": "Column: South Korea's semiconductor strategy faces foresight and structural gaps",
+      "title": "Three-tier humanoid robot architecture shift opens edge AI opportunities",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260715PD216/technology-government.html"
+      "url": "https://www.digitimes.com/news/a20260715PD219/humanoid-robot-fpga-hardware-nvidia.html"
     }
   ],
   "source_stats": [
@@ -47,9 +47,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -146,7 +146,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 4,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -155,7 +155,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 31,
+      "relevant": 30,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -191,9 +191,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
