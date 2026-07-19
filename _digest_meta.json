@@ -1,37 +1,36 @@
 {
-  "date": "2026-07-18",
-  "count": 8,
+  "date": "2026-07-19",
+  "count": 6,
   "sources": [
-    "DigiTimes",
-    "NikkeiAsia",
-    "TechAsia"
+    "CNA",
+    "DigiTimes"
   ],
-  "post_file": "2026-07-18-asia-tech-news-digest.md",
+  "post_file": "2026-07-19-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "China positions AI weather-warning system MAZU as a public good for the Global South, targeting 30 countries in five years",
+      "title": "Commentary: These World Cup tweets show how AI will unite us all",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/world-cup-2026-ai-social-media-tweets-6255621"
+    },
+    {
+      "title": "Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/samsung-electronics-america-reduce-workforce-739-in-new-jersey-warn-notice-says-6263221"
+    },
+    {
+      "title": "Leather jacket worn by Nvidia CEO Jensen Huang auctions for nearly US$1 million",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/nvidia-ceo-jensen-huang-leather-jacket-auction-us-1-million-6263151"
+    },
+    {
+      "title": "EU clears \u20ac659 million in German subsidies for four chip plants",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260718VL201/2026-shanghai-weather-data.html"
+      "url": "https://www.digitimes.com/news/a20260716PR200/european-commission-industrial-equipment-eu-2024.html"
     },
     {
-      "title": "LG bets on India as its biggest AC base, as its third plant runs ahead of schedule",
+      "title": "Column: South Korea's semiconductor strategy faces foresight and structural gaps",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260717VL201/lg-electronics-home-appliance-india-plant-production.html"
-    },
-    {
-      "title": "Commentary: Samsung, SK Hynix in Washington's crosshairs over memory fabs",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260717PD229/samsung-sk-hynix-intel-digitimes-capacity.html"
-    },
-    {
-      "title": "TSMC plans A14 chip production in 2028",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/tsmc-sees-strong-growth-as-ai-demand-drives-chip-sales"
-    },
-    {
-      "title": "SoftBank tumbles in Asian AI stock selloff",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/tsmc-revenue-jumps-30-ai-demand-stays-strong"
+      "url": "https://www.digitimes.com/news/a20260715PD216/technology-government.html"
     }
   ],
   "source_stats": [
@@ -48,9 +47,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -128,7 +127,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -167,7 +166,7 @@
       "fetched": 50,
       "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -192,9 +191,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 13,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
