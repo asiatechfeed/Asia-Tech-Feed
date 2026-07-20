@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-20T00:02:50+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 20, 2026</title><link href="https://asiatechfeed.com/2026/07/20/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 20, 2026" /><published>2026-07-20T00:02:10+00:00</published><updated>2026-07-20T00:02:10+00:00</updated><id>https://asiatechfeed.com/2026/07/20/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/20/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-20T03:54:57+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 20, 2026</title><link href="https://asiatechfeed.com/2026/07/20/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 20, 2026" /><published>2026-07-20T03:53:46+00:00</published><updated>2026-07-20T03:53:46+00:00</updated><id>https://asiatechfeed.com/2026/07/20/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/20/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -13,61 +13,77 @@
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">DeepSeek nears full V4 AI model launch</span></td>
-  <td class="col-summary">DeepSeek's V4 model features a 1 million-token context window and new peak/off-peak pricing.</td>
+  <td class="col-title"><span class="article-title">EPAA launches AI payments group with HSBC</span></td>
+  <td class="col-summary">EPAA said it works with regulators, and counts Commonwealth Bank, Mastercard, PayPal, and Swift among its members.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/deepseek-75-v4pro-price-cut-permanent" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/hsbc-partners-mistral-genai-tools-bank" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">China’s Moonshot AI seeks Hong Kong IPO</span></td>
-  <td class="col-summary">Moonshot AI's Kimi K3 model features a 1 million-token context window and 3-trillion-scale open weights.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-moonshot-ai-releases-upgraded-kimi-model" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Jensen Huang's week in Tokyo: what Nvidia's Japan trip reveals about future partners</span></td>
+  <td class="col-summary">Nvidia founder and CEO Jensen Huang spent last week in Tokyo meeting government officials, robotics makers and dozens of supply chain executives, as the company deepens its push into Japan's manufacturing and AI ecosystem, according to a blog post published on Nvidia's website and its official newsroom release.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260720VL205/jensen-huang-japan-government-robotics-supply-chain.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">UK chief financial officers turn more hopeful about AI</span></td>
-  <td class="col-summary">UK chief financial officers turn more hopeful about AI</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">China pushes AI agent interoperability and space computing at WAIC 2026</span></td>
+  <td class="col-summary">China unveiled two major AI initiatives at the 2026 World AI Conference (WAIC) in Shanghai, highlighting efforts to standardize AI agent collaboration while laying the groundwork for space-based computing infrastructure.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/uk-chief-financial-officers-turn-more-hopeful-about-ai-6264256" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260720VL208/china-ai-agent-cloud-development-infrastructure-2026.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TCL starts OLED monitor panel production ahead of Guangzhou fab opening</span></td>
-  <td class="col-summary">TCL CSOT has started producing a 27-inch inkjet-printed OLED monitor panel at its Gen 5.5 line in Wuhan, giving the Chinese display maker an early foothold in consumer OLED monitors before its larger Guangzhou factory comes online, according to ETNews .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260714VL220/tcl-production-csot-monitor-panel-panel.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Networking demand remains resilient, but component shortages threaten shipment schedules</span></td>
+  <td class="col-summary">AI data center expansion and high-speed network upgrades continue to support demand for networking equipment. However, as the industry enters the second half of 2026, supplies of key components—including memory, printed circuit boards (PCBs) and passive components—remain tight, with lead times extending significantly.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260716PD224/demand-component-data-center-expansion-ddr.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">JNTC-TOPPAN glass substrate push signals AI packaging supply-chain shift</span></td>
-  <td class="col-summary">As AI accelerators and high-bandwidth memory (HBM) packages grow larger and more complex, substrate technology is becoming a new constraint in advanced packaging. Organic substrates remain widely used, but rising demand for high-density interconnects, lower signal loss, and better dimensional stability is pushing glass</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260714VL219/packaging-glass-substrate-hbm-production-jntc.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Samsung Texas relocation to affect 739 New Jersey roles</span></td>
+  <td class="col-summary">Samsung's Texas presence includes a $17 billion semiconductor project in Taylor.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/samsung-completes-tesla-ai5-chip-design" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SK Siltron begins liquidating US SiC unit amid Doosan sale talks</span></td>
-  <td class="col-summary">SK Siltron has reportedly started liquidating its US silicon carbide wafer subsidiary, SK Siltron CSS, as part of a restructuring plan discussed during earlier sale negotiations with Doosan Group. According to The Elec and The Tracker , the process is expected to be completed in 2026.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260717PD225/sk-siltron-sic-wafer-silicon-business.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Rapidus and Cadence Collaborate on Agentic AI for Advanced-Node SoC Design</span></td>
+  <td class="col-summary">Rapidus integrates Cadence's AI Super Agent into its design platform to accelerate advanced-node SoC development workflows. The post Rapidus and Cadence Collaborate on Agentic AI for Advanced-Node SoC Design appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/rapidus-and-cadence-collaborate-on-agentic-ai-for-advanced-node-soc-design/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan logistics provider for Amazon to use JPYC stablecoin in operations</span></td>
-  <td class="col-summary">Japan logistics provider for Amazon to use JPYC stablecoin in operations</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/cryptocurrencies/japan-logistics-provider-for-amazon-to-use-jpyc-stablecoin-in-operations" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">AGI is moving faster than we are</span></td>
+  <td class="col-summary">DeepMind’s Demis Hassabis says AGI is near, but Asia’s latest AI developments show there’s work left. Plus, SenseTime’s own AGI vision.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/agi-moving-faster" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Melaka Strengthens Semiconductor Strategy Through Government-Industry Dialogue</span></td>
+  <td class="col-summary">Stakeholders align on investment, talent, and ecosystem development to advance Melaka's semiconductor and advanced manufacturing ambitions. The post Melaka Strengthens Semiconductor Strategy Through Government-Industry Dialogue appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/melaka-strengthens-semiconductor-strategy-through-government-industry-dialogue/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Thermal Imaging as Infrastructure for Physical AI</span></td>
+  <td class="col-summary">Physical AI requires machines to understand real-world physical states, making thermal sensing a critical addition to edge intelligence. The post Thermal Imaging as Infrastructure for Physical AI appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/thermal-imaging-as-infrastructure-for-physical-ai/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia DeepSeek nears full V4 AI model launch DeepSeek's V4 model features a 1 million-token context window and new peak/off-peak pricing. AI Read 2 TechAsia China’s Moonshot AI seeks Hong Kong IPO Moonshot AI's Kimi K3 model features a 1 million-token context window and 3-trillion-scale open weights. AI Read 3 CNA UK chief financial officers turn more hopeful about AI UK chief financial officers turn more hopeful about AI AI Read 4 DigiTimes TCL starts OLED monitor panel production ahead of Guangzhou fab opening TCL CSOT has started producing a 27-inch inkjet-printed OLED monitor panel at its Gen 5.5 line in Wuhan, giving the Chinese display maker an early foothold in consumer OLED monitors before its larger Guangzhou factory comes online, according to ETNews . Semiconductor Read 5 DigiTimes JNTC-TOPPAN glass substrate push signals AI packaging supply-chain shift As AI accelerators and high-bandwidth memory (HBM) packages grow larger and more complex, substrate technology is becoming a new constraint in advanced packaging. Organic substrates remain widely used, but rising demand for high-density interconnects, lower signal loss, and better dimensional stability is pushing glass AI Read 6 DigiTimes SK Siltron begins liquidating US SiC unit amid Doosan sale talks SK Siltron has reportedly started liquidating its US silicon carbide wafer subsidiary, SK Siltron CSS, as part of a restructuring plan discussed during earlier sale negotiations with Doosan Group. According to The Elec and The Tracker , the process is expected to be completed in 2026. Semiconductor Read 7 NikkeiAsia Japan logistics provider for Amazon to use JPYC stablecoin in operations Japan logistics provider for Amazon to use JPYC stablecoin in operations Logistics Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 19, 2026</title><link href="https://asiatechfeed.com/2026/07/19/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 19, 2026" /><published>2026-07-19T08:00:46+00:00</published><updated>2026-07-19T08:00:46+00:00</updated><id>https://asiatechfeed.com/2026/07/19/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/19/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia EPAA launches AI payments group with HSBC EPAA said it works with regulators, and counts Commonwealth Bank, Mastercard, PayPal, and Swift among its members. AI Read 2 DigiTimes Jensen Huang's week in Tokyo: what Nvidia's Japan trip reveals about future partners Nvidia founder and CEO Jensen Huang spent last week in Tokyo meeting government officials, robotics makers and dozens of supply chain executives, as the company deepens its push into Japan's manufacturing and AI ecosystem, according to a blog post published on Nvidia's website and its official newsroom release. AILogisticsAutomation Read 3 DigiTimes China pushes AI agent interoperability and space computing at WAIC 2026 China unveiled two major AI initiatives at the 2026 World AI Conference (WAIC) in Shanghai, highlighting efforts to standardize AI agent collaboration while laying the groundwork for space-based computing infrastructure. AI Read 4 DigiTimes Networking demand remains resilient, but component shortages threaten shipment schedules AI data center expansion and high-speed network upgrades continue to support demand for networking equipment. However, as the industry enters the second half of 2026, supplies of key components—including memory, printed circuit boards (PCBs) and passive components—remain tight, with lead times extending significantly. AIElectronics Read 5 TechAsia Samsung Texas relocation to affect 739 New Jersey roles Samsung's Texas presence includes a $17 billion semiconductor project in Taylor. Semiconductor Read 6 EETAsia Rapidus and Cadence Collaborate on Agentic AI for Advanced-Node SoC Design Rapidus integrates Cadence's AI Super Agent into its design platform to accelerate advanced-node SoC development workflows. The post Rapidus and Cadence Collaborate on Agentic AI for Advanced-Node SoC Design appeared first on EE Times Asia . AI Read 7 TechAsia AGI is moving faster than we are DeepMind’s Demis Hassabis says AGI is near, but Asia’s latest AI developments show there’s work left. Plus, SenseTime’s own AGI vision. AI Read 8 EETAsia Melaka Strengthens Semiconductor Strategy Through Government-Industry Dialogue Stakeholders align on investment, talent, and ecosystem development to advance Melaka's semiconductor and advanced manufacturing ambitions. The post Melaka Strengthens Semiconductor Strategy Through Government-Industry Dialogue appeared first on EE Times Asia . Semiconductor Read 9 EETAsia Thermal Imaging as Infrastructure for Physical AI Physical AI requires machines to understand real-world physical states, making thermal sensing a critical addition to edge intelligence. The post Thermal Imaging as Infrastructure for Physical AI appeared first on EE Times Asia . AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 19, 2026</title><link href="https://asiatechfeed.com/2026/07/19/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 19, 2026" /><published>2026-07-19T08:00:46+00:00</published><updated>2026-07-19T08:00:46+00:00</updated><id>https://asiatechfeed.com/2026/07/19/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/19/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
