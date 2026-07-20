@@ -1,36 +1,38 @@
 {
-  "date": "2026-07-19",
-  "count": 5,
+  "date": "2026-07-20",
+  "count": 7,
   "sources": [
+    "CNA",
     "DigiTimes",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-19-asia-tech-news-digest.md",
+  "post_file": "2026-07-20-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "The AI investment race is building its own bust, BIS paper warns",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260715VL215/technology-investment-capacity-2026.html"
-    },
-    {
-      "title": "ASML supplier Trumpf says South Korea EUV demand is growing faster than Taiwan's",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260717PD224/asml-high-na-euv-equipment-demand-taiwan.html"
-    },
-    {
-      "title": "Alibaba launches Meoo Team for enterprise AI",
+      "title": "DeepSeek nears full V4 AI model launch",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/alibaba-consolidates-ai-business-into-new-token-hub"
+      "url": "https://www.techinasia.com/deepseek-75-v4pro-price-cut-permanent"
     },
     {
-      "title": "Oracle credit risk climbs as AI spending grows",
+      "title": "China\u2019s Moonshot AI seeks Hong Kong IPO",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/oracle-data-center-financing-nears-close-as-debt-terms-shift"
+      "url": "https://www.techinasia.com/chinas-moonshot-ai-releases-upgraded-kimi-model"
     },
     {
-      "title": "Dutch report frames Chinese interference in chips, ports and aerospace as a systemic threat",
+      "title": "UK chief financial officers turn more hopeful about AI",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/uk-chief-financial-officers-turn-more-hopeful-about-ai-6264256"
+    },
+    {
+      "title": "TCL starts OLED monitor panel production ahead of Guangzhou fab opening",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260715VL226/netherlands-china-geopolitics-security-asml-materials.html"
+      "url": "https://www.digitimes.com/news/a20260714VL220/tcl-production-csot-monitor-panel-panel.html"
+    },
+    {
+      "title": "JNTC-TOPPAN glass substrate push signals AI packaging supply-chain shift",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260714VL219/packaging-glass-substrate-hbm-production-jntc.html"
     }
   ],
   "source_stats": [
@@ -47,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -166,7 +168,7 @@
       "fetched": 50,
       "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
