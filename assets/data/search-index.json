@@ -1,105 +1,95 @@
 [
   {
     "date": "2026-07-20",
-    "title": "EPAA launches AI payments group with HSBC",
-    "summary": "EPAA said it works with regulators, and counts Commonwealth Bank, Mastercard, PayPal, and Swift among its members.",
+    "title": "Simulating human-robot decision making for embodied AI",
+    "summary": "Synthium operates human-in-the-loop simulations to generate motion, voice, and reasoning data for humanoid AI models.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/hsbc-partners-mistral-genai-tools-bank"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "Jensen Huang's week in Tokyo: what Nvidia's Japan trip reveals about future partners",
-    "summary": "Nvidia founder and CEO Jensen Huang spent last week in Tokyo meeting government officials, robotics makers and dozens of supply chain executives, as the company deepens its push into Japan's manufacturing and AI ecosystem, according to a blog post published on Nvidia's website and its official newsroom release.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
       "AI",
-      "Logistics",
       "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20260720VL205/jensen-huang-japan-government-robotics-supply-chain.html"
+    "url": "https://www.techinasia.com/simulating-humanrobot-decision-making-embodied-ai"
   },
   {
     "date": "2026-07-20",
-    "title": "China pushes AI agent interoperability and space computing at WAIC 2026",
-    "summary": "China unveiled two major AI initiatives at the 2026 World AI Conference (WAIC) in Shanghai, highlighting efforts to standardize AI agent collaboration while laying the groundwork for space-based computing infrastructure.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Tencent expands AI push with global ADP 4.0 launch",
+    "summary": "Tencent said ADP 4.0 supports integrations with Line, Telegram, and Google Workspace.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260720VL208/china-ai-agent-cloud-development-infrastructure-2026.html"
+    "url": "https://www.techinasia.com/tencent-cloud-completes-xl-smart-migration"
   },
   {
     "date": "2026-07-20",
-    "title": "Networking demand remains resilient, but component shortages threaten shipment schedules",
-    "summary": "AI data center expansion and high-speed network upgrades continue to support demand for networking equipment. However, as the industry enters the second half of 2026, supplies of key components—including memory, printed circuit boards (PCBs) and passive components—remain tight, with lead times extending significantly.",
+    "title": "Rapidus taps Cadence AI agents to speed 2nm chip design",
+    "summary": "Japanese foundry Rapidus is integrating Cadence's AI-agent technology into its chip design platform as it seeks to shorten development cycles and attract customers for its planned 2nm manufacturing service.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI",
-      "Electronics"
+      "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260716PD224/demand-component-data-center-expansion-ddr.html"
+    "url": "https://www.digitimes.com/news/a20260720VL211/rapidus-cadence-2nm-design-technology.html"
   },
   {
     "date": "2026-07-20",
-    "title": "Samsung Texas relocation to affect 739 New Jersey roles",
-    "summary": "Samsung's Texas presence includes a $17 billion semiconductor project in Taylor.",
+    "title": "Samsung, SK hynix push CXL memory for AI servers",
+    "summary": "SK hynix, a South Korean memory chipmaker, showed a 256GB second-generation CMM-DDR5 sample at HPE Discover in Las Vegas in June.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
+      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/samsung-completes-tesla-ai5-chip-design"
+    "url": "https://www.techinasia.com/samsung-readies-ai-pc-chip-for-lenovo-hp-testing"
   },
   {
     "date": "2026-07-20",
-    "title": "Rapidus and Cadence Collaborate on Agentic AI for Advanced-Node SoC Design",
-    "summary": "Rapidus integrates Cadence's AI Super Agent into its design platform to accelerate advanced-node SoC development workflows. The post Rapidus and Cadence Collaborate on Agentic AI for Advanced-Node SoC Design appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "US and Chinese AI labs are quietly building on each other's models, even as distillation fight rages",
+    "summary": "The distillation dispute between US and Chinese AI labs has been framed as a one-way street: American firms accuse Chinese rivals of copying their models. However, a run of recent launches shows the borrowing goes both ways, with prominent US developers now building products on top of Chinese open models.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.eetasia.com/rapidus-and-cadence-collaborate-on-agentic-ai-for-advanced-node-soc-design/"
+    "url": "https://www.digitimes.com/news/a20260720VL216/china-usa-ai-training-competition-moonshot-openai.html"
   },
   {
     "date": "2026-07-20",
-    "title": "AGI is moving faster than we are",
-    "summary": "DeepMind’s Demis Hassabis says AGI is near, but Asia’s latest AI developments show there’s work left. Plus, SenseTime’s own AGI vision.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Smart glasses race enters new phase as AI ecosystems eclipse hardware specs",
+    "summary": "The global smart glasses market is entering a decisive new stage in the second half of 2026, with competition expanding well beyond Meta's early dominance. Industry attention is rapidly shifting from hardware specifications to AI capabilities, ecosystem integration and everyday usability, while mounting pricing pressur",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/agi-moving-faster"
+    "url": "https://www.digitimes.com/news/a20260720PD206/smart-glasses-ai-hardware-meta-bytedance-2026.html"
   },
   {
     "date": "2026-07-20",
-    "title": "Melaka Strengthens Semiconductor Strategy Through Government-Industry Dialogue",
-    "summary": "Stakeholders align on investment, talent, and ecosystem development to advance Melaka's semiconductor and advanced manufacturing ambitions. The post Melaka Strengthens Semiconductor Strategy Through Government-Industry Dialogue appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "Blackstone invests in South Korean robotics supplier Futronic",
+    "summary": "Blackstone invests in South Korean robotics supplier Futronic",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
+      "Automation"
+    ],
+    "url": "https://www.channelnewsasia.com/business/blackstone-invests-in-south-korean-robotics-supplier-futronic-6265061"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "Analysis:Could AI chip boom make ASML Europe's first trillion-dollar firm?",
+    "summary": "Analysis:Could AI chip boom make ASML Europe's first trillion-dollar firm?",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/melaka-strengthens-semiconductor-strategy-through-government-industry-dialogue/"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "Thermal Imaging as Infrastructure for Physical AI",
-    "summary": "Physical AI requires machines to understand real-world physical states, making thermal sensing a critical addition to edge intelligence. The post Thermal Imaging as Infrastructure for Physical AI appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/thermal-imaging-as-infrastructure-for-physical-ai/"
+    "url": "https://www.channelnewsasia.com/business/analysiscould-ai-chip-boom-make-asml-europes-first-trillion-dollar-firm-6264946"
   },
   {
     "date": "2026-07-19",
