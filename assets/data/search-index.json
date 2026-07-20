@@ -1,80 +1,105 @@
 [
   {
     "date": "2026-07-20",
-    "title": "DeepSeek nears full V4 AI model launch",
-    "summary": "DeepSeek's V4 model features a 1 million-token context window and new peak/off-peak pricing.",
+    "title": "EPAA launches AI payments group with HSBC",
+    "summary": "EPAA said it works with regulators, and counts Commonwealth Bank, Mastercard, PayPal, and Swift among its members.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/deepseek-75-v4pro-price-cut-permanent"
+    "url": "https://www.techinasia.com/hsbc-partners-mistral-genai-tools-bank"
   },
   {
     "date": "2026-07-20",
-    "title": "China’s Moonshot AI seeks Hong Kong IPO",
-    "summary": "Moonshot AI's Kimi K3 model features a 1 million-token context window and 3-trillion-scale open weights.",
+    "title": "Jensen Huang's week in Tokyo: what Nvidia's Japan trip reveals about future partners",
+    "summary": "Nvidia founder and CEO Jensen Huang spent last week in Tokyo meeting government officials, robotics makers and dozens of supply chain executives, as the company deepens its push into Japan's manufacturing and AI ecosystem, according to a blog post published on Nvidia's website and its official newsroom release.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Logistics",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260720VL205/jensen-huang-japan-government-robotics-supply-chain.html"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "China pushes AI agent interoperability and space computing at WAIC 2026",
+    "summary": "China unveiled two major AI initiatives at the 2026 World AI Conference (WAIC) in Shanghai, highlighting efforts to standardize AI agent collaboration while laying the groundwork for space-based computing infrastructure.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260720VL208/china-ai-agent-cloud-development-infrastructure-2026.html"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "Networking demand remains resilient, but component shortages threaten shipment schedules",
+    "summary": "AI data center expansion and high-speed network upgrades continue to support demand for networking equipment. However, as the industry enters the second half of 2026, supplies of key components—including memory, printed circuit boards (PCBs) and passive components—remain tight, with lead times extending significantly.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260716PD224/demand-component-data-center-expansion-ddr.html"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "Samsung Texas relocation to affect 739 New Jersey roles",
+    "summary": "Samsung's Texas presence includes a $17 billion semiconductor project in Taylor.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/samsung-completes-tesla-ai5-chip-design"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "Rapidus and Cadence Collaborate on Agentic AI for Advanced-Node SoC Design",
+    "summary": "Rapidus integrates Cadence's AI Super Agent into its design platform to accelerate advanced-node SoC development workflows. The post Rapidus and Cadence Collaborate on Agentic AI for Advanced-Node SoC Design appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/rapidus-and-cadence-collaborate-on-agentic-ai-for-advanced-node-soc-design/"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "AGI is moving faster than we are",
+    "summary": "DeepMind’s Demis Hassabis says AGI is near, but Asia’s latest AI developments show there’s work left. Plus, SenseTime’s own AGI vision.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/chinas-moonshot-ai-releases-upgraded-kimi-model"
+    "url": "https://www.techinasia.com/agi-moving-faster"
   },
   {
     "date": "2026-07-20",
-    "title": "UK chief financial officers turn more hopeful about AI",
-    "summary": "UK chief financial officers turn more hopeful about AI",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/uk-chief-financial-officers-turn-more-hopeful-about-ai-6264256"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "TCL starts OLED monitor panel production ahead of Guangzhou fab opening",
-    "summary": "TCL CSOT has started producing a 27-inch inkjet-printed OLED monitor panel at its Gen 5.5 line in Wuhan, giving the Chinese display maker an early foothold in consumer OLED monitors before its larger Guangzhou factory comes online, according to ETNews .",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Melaka Strengthens Semiconductor Strategy Through Government-Industry Dialogue",
+    "summary": "Stakeholders align on investment, talent, and ecosystem development to advance Melaka's semiconductor and advanced manufacturing ambitions. The post Melaka Strengthens Semiconductor Strategy Through Government-Industry Dialogue appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260714VL220/tcl-production-csot-monitor-panel-panel.html"
+    "url": "https://www.eetasia.com/melaka-strengthens-semiconductor-strategy-through-government-industry-dialogue/"
   },
   {
     "date": "2026-07-20",
-    "title": "JNTC-TOPPAN glass substrate push signals AI packaging supply-chain shift",
-    "summary": "As AI accelerators and high-bandwidth memory (HBM) packages grow larger and more complex, substrate technology is becoming a new constraint in advanced packaging. Organic substrates remain widely used, but rising demand for high-density interconnects, lower signal loss, and better dimensional stability is pushing glass",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Thermal Imaging as Infrastructure for Physical AI",
+    "summary": "Physical AI requires machines to understand real-world physical states, making thermal sensing a critical addition to edge intelligence. The post Thermal Imaging as Infrastructure for Physical AI appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260714VL219/packaging-glass-substrate-hbm-production-jntc.html"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "SK Siltron begins liquidating US SiC unit amid Doosan sale talks",
-    "summary": "SK Siltron has reportedly started liquidating its US silicon carbide wafer subsidiary, SK Siltron CSS, as part of a restructuring plan discussed during earlier sale negotiations with Doosan Group. According to The Elec and The Tracker , the process is expected to be completed in 2026.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260717PD225/sk-siltron-sic-wafer-silicon-business.html"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "Japan logistics provider for Amazon to use JPYC stablecoin in operations",
-    "summary": "Japan logistics provider for Amazon to use JPYC stablecoin in operations",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Logistics"
-    ],
-    "url": "https://asia.nikkei.com/spotlight/cryptocurrencies/japan-logistics-provider-for-amazon-to-use-jpyc-stablecoin-in-operations"
+    "url": "https://www.eetasia.com/thermal-imaging-as-infrastructure-for-physical-ai/"
   },
   {
     "date": "2026-07-19",
