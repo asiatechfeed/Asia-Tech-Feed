@@ -1,5 +1,82 @@
 [
   {
+    "date": "2026-07-20",
+    "title": "DeepSeek nears full V4 AI model launch",
+    "summary": "DeepSeek's V4 model features a 1 million-token context window and new peak/off-peak pricing.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/deepseek-75-v4pro-price-cut-permanent"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "China’s Moonshot AI seeks Hong Kong IPO",
+    "summary": "Moonshot AI's Kimi K3 model features a 1 million-token context window and 3-trillion-scale open weights.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/chinas-moonshot-ai-releases-upgraded-kimi-model"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "UK chief financial officers turn more hopeful about AI",
+    "summary": "UK chief financial officers turn more hopeful about AI",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/uk-chief-financial-officers-turn-more-hopeful-about-ai-6264256"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "TCL starts OLED monitor panel production ahead of Guangzhou fab opening",
+    "summary": "TCL CSOT has started producing a 27-inch inkjet-printed OLED monitor panel at its Gen 5.5 line in Wuhan, giving the Chinese display maker an early foothold in consumer OLED monitors before its larger Guangzhou factory comes online, according to ETNews .",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260714VL220/tcl-production-csot-monitor-panel-panel.html"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "JNTC-TOPPAN glass substrate push signals AI packaging supply-chain shift",
+    "summary": "As AI accelerators and high-bandwidth memory (HBM) packages grow larger and more complex, substrate technology is becoming a new constraint in advanced packaging. Organic substrates remain widely used, but rising demand for high-density interconnects, lower signal loss, and better dimensional stability is pushing glass",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260714VL219/packaging-glass-substrate-hbm-production-jntc.html"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "SK Siltron begins liquidating US SiC unit amid Doosan sale talks",
+    "summary": "SK Siltron has reportedly started liquidating its US silicon carbide wafer subsidiary, SK Siltron CSS, as part of a restructuring plan discussed during earlier sale negotiations with Doosan Group. According to The Elec and The Tracker , the process is expected to be completed in 2026.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260717PD225/sk-siltron-sic-wafer-silicon-business.html"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "Japan logistics provider for Amazon to use JPYC stablecoin in operations",
+    "summary": "Japan logistics provider for Amazon to use JPYC stablecoin in operations",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://asia.nikkei.com/spotlight/cryptocurrencies/japan-logistics-provider-for-amazon-to-use-jpyc-stablecoin-in-operations"
+  },
+  {
     "date": "2026-07-19",
     "title": "The AI investment race is building its own bust, BIS paper warns",
     "summary": "The competitive race to dominate artificial intelligence is driving technology giants to over-build computing capacity by roughly half again more than is economically efficient — and the same contest, financed with debt and circular equity ties, is quietly manufacturing the conditions for a sector-wide bust. That is th",
