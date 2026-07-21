@@ -1,41 +1,39 @@
 {
   "date": "2026-07-21",
-  "count": 14,
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "KED",
     "NikkeiAsia",
-    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-07-21-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "TSMC sees structural AI growth, expands Arizona capex",
+      "title": "Samsung consolidates robot teams and weighs standalone HX division",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260720PD224/tsmc-arizona-growth-capex-investment.html"
+      "url": "https://www.digitimes.com/news/a20260720PD217/samsung-robot-reorganization-technology-production.html"
     },
     {
-      "title": "Samsung, SK Hynix prioritize DDR5 as margins near HBM levels",
+      "title": "China's AI supernode race seeks systems edge through optics, packaging, and cloud scale",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260720VL213/samsung-hbm-sk-hynix-ddr5-dram.html"
+      "url": "https://www.digitimes.com/news/a20260720VL218/china-ai-chips-hardware-optics-packaging.html"
     },
     {
-      "title": "Elite Material, TUC race ahead in AI CCL push",
+      "title": "BOE expands into glass-core packaging, solar cells and optical interconnects",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260720PD222/ccl-ai-server-tuc-elite-material-demand.html"
+      "url": "https://www.digitimes.com/news/a20260721PD220/boe-packaging-solar-display-substrate.html"
     },
     {
-      "title": "US AI payments startup Natural raises $30m in series A",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/google-finance-returns-to-mobile-with-new-ai-tools"
+      "title": "LG Chem Enters Semiconductor Stripper Market with First Mass-production Supply to Amkor",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/lg-chem-enters-semiconductor-stripper-market-with-first-mass-production-supply-to-amkor/"
     },
     {
-      "title": "Google develops more efficient AI chip for Gemini",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/alphabet-seeks-105b-bonds-ai-data-centers"
+      "title": "JEDEC\u2019s SPHBM4 Standard Brings HBM4-class Performance to Organic Substrate-based AI Systems",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/jedecs-sphbm4-standard-brings-hbm4-class-performance-to-organic-substrate-based-ai-systems/"
     }
   ],
   "source_stats": [
@@ -54,7 +52,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -151,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 4,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 32,
+      "relevant": 28,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -180,7 +178,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -196,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 19,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -216,7 +214,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     }
   ]
