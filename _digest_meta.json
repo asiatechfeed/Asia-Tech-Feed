@@ -1,37 +1,41 @@
 {
-  "date": "2026-07-20",
-  "count": 8,
+  "date": "2026-07-21",
+  "count": 14,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
+    "KED",
+    "NikkeiAsia",
+    "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-07-20-asia-tech-news-digest.md",
+  "post_file": "2026-07-21-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Simulating human-robot decision making for embodied AI",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/simulating-humanrobot-decision-making-embodied-ai"
-    },
-    {
-      "title": "Tencent expands AI push with global ADP 4.0 launch",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/tencent-cloud-completes-xl-smart-migration"
-    },
-    {
-      "title": "Rapidus taps Cadence AI agents to speed 2nm chip design",
+      "title": "TSMC sees structural AI growth, expands Arizona capex",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260720VL211/rapidus-cadence-2nm-design-technology.html"
+      "url": "https://www.digitimes.com/news/a20260720PD224/tsmc-arizona-growth-capex-investment.html"
     },
     {
-      "title": "Samsung, SK hynix push CXL memory for AI servers",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/samsung-readies-ai-pc-chip-for-lenovo-hp-testing"
-    },
-    {
-      "title": "US and Chinese AI labs are quietly building on each other's models, even as distillation fight rages",
+      "title": "Samsung, SK Hynix prioritize DDR5 as margins near HBM levels",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260720VL216/china-usa-ai-training-competition-moonshot-openai.html"
+      "url": "https://www.digitimes.com/news/a20260720VL213/samsung-hbm-sk-hynix-ddr5-dram.html"
+    },
+    {
+      "title": "Elite Material, TUC race ahead in AI CCL push",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260720PD222/ccl-ai-server-tuc-elite-material-demand.html"
+    },
+    {
+      "title": "US AI payments startup Natural raises $30m in series A",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/google-finance-returns-to-mobile-with-new-ai-tools"
+    },
+    {
+      "title": "Google develops more efficient AI chip for Gemini",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/alphabet-seeks-105b-bonds-ai-data-centers"
     }
   ],
   "source_stats": [
@@ -149,14 +153,14 @@
       "fetched": 10,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 44,
-      "relevant": 40,
+      "fetched": 35,
+      "relevant": 32,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,18 +169,18 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 10,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "KED",
       "name": "KED Global",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -192,7 +196,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 19,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -210,9 +214,9 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     }
   ]
