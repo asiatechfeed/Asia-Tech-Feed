@@ -1,162 +1,139 @@
 [
   {
     "date": "2026-07-21",
-    "title": "TSMC sees structural AI growth, expands Arizona capex",
-    "summary": "TSMC Chief Financial Officer Wendell Huang said the company expects AI chip demand to remain strong for years, prompting it to keep expanding investment in its Arizona site. After previously announcing an additional US$100 billion investment, TSMC has raised its total planned investment there to US$265 billion.",
+    "title": "Samsung consolidates robot teams and weighs standalone HX division",
+    "summary": "Samsung Electronics has started a broad reorganization of its robot operations, bringing scattered teams under one structure as humanoid robot competition shifts toward artificial intelligence-based autonomous control. The move was reported by JoongAng Daily , which cited industry sources and said Samsung is aiming to ",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
+      "Electronics",
       "AI",
-      "Semiconductor"
+      "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20260720PD224/tsmc-arizona-growth-capex-investment.html"
+    "url": "https://www.digitimes.com/news/a20260720PD217/samsung-robot-reorganization-technology-production.html"
   },
   {
     "date": "2026-07-21",
-    "title": "Samsung, SK Hynix prioritize DDR5 as margins near HBM levels",
-    "summary": "Samsung Electronics and SK Hynix are reportedly allocating additional or flexible DRAM production capacity to server DDR5 and other conventional memory products while maintaining high-bandwidth memory (HBM) volumes already committed to customers.",
+    "title": "China's AI supernode race seeks systems edge through optics, packaging, and cloud scale",
+    "summary": "China's AI hardware race is shifting from individual accelerators to supernodes, optical interconnects, advanced packaging and cloud-scale systems.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260720VL218/china-ai-chips-hardware-optics-packaging.html"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "BOE expands into glass-core packaging, solar cells and optical interconnects",
+    "summary": "BOE Technology Group said on July 20 that it is pushing beyond display panels into glass-core substrate packaging, perovskite solar cells and Micro LED optical interconnects. The Chinese display maker outlined the three areas as strategic priorities as it moves toward advanced packaging, optoelectronics and new energy ",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20260720VL213/samsung-hbm-sk-hynix-ddr5-dram.html"
+    "url": "https://www.digitimes.com/news/a20260721PD220/boe-packaging-solar-display-substrate.html"
   },
   {
     "date": "2026-07-21",
-    "title": "Elite Material, TUC race ahead in AI CCL push",
-    "summary": "As AI server products accelerate their generational shift and demand higher-frequency, higher-speed transmission, the upgrade cycle for copper-clad laminate (CCL) materials in the PCB upstream supply chain has become firmly established. M7 and M8 specs are now mainstream, while M9 and M10 materials remain in the testin",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Electronics",
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260720PD222/ccl-ai-server-tuc-elite-material-demand.html"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "US AI payments startup Natural raises $30m in series A",
-    "summary": "Natural's beta product supports autonomous invoice payments and agent-to-agent micropayments.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/google-finance-returns-to-mobile-with-new-ai-tools"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "Google develops more efficient AI chip for Gemini",
-    "summary": "Alphabet plans a server chip for Gemini, aiming for 6x to 10x better power efficiency by 2028.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/alphabet-seeks-105b-bonds-ai-data-centers"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "US seeks to limit key materials from China, others in defence supply chains",
-    "summary": "China is the world's biggest producer and refiner of rare earths, which are critical for high-tech products ranging from electric vehicles to missile guidance systems.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Logistics"
-    ],
-    "url": "https://www.channelnewsasia.com/world/us-china-rare-earths-defence-contractors-6266686"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "Mexican drug kingpin Ismael 'El Mayo' Zambada sentenced in US to life in prison",
-    "summary": "Ismael Zambada was sentenced to life in prison in the US after pleading guilty to decades of drug trafficking.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Pharmaceutical"
-    ],
-    "url": "https://www.channelnewsasia.com/world/mexican-drug-kingpin-ismael-el-mayo-zambada-sentenced-in-us-life-in-prison-6266291"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "Inference Accelerator that Integrates Compute-in-Interconnect and Memory to Mitigate the Memory Wall (NUS)",
-    "summary": "Researchers at the National University of Singapore published a technical paper titled “CIMERA: Compute-in-Interconnect and Memory with Reconfigurable Precision for LLM Inference.” Abstract Excerpt: “This paper presents CIMERA, a reconfigurable-precision LLM inference accelerator that integrates compute-in-interconnect",
-    "source": "Semiconductor Engineering",
-    "short": "SemiEng",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://semiengineering.com/inference-accelerator-that-integrates-compute-in-interconnect-and-memory-to-mitigate-the-memory-wall-nus/"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "Mapping China’s biotech titans",
-    "summary": "Mapping China’s biotech sector: Key players, top investors, and funding insights in one report.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Biotechnology"
-    ],
-    "url": "https://www.techinasia.com/visual-story/mapping-chinas-biotech-titans"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "SEIPI, Government Step Up Efforts to Clear NAIA Cargo Backlog Affecting Electronics Production",
-    "summary": "SEIPI coordinates with government agencies to accelerate critical cargo releases as NAIA congestion disrupts semiconductor manufacturing operations. The post SEIPI, Government Step Up Efforts to Clear NAIA Cargo Backlog Affecting Electronics Production appeared first on EE Times Asia .",
+    "title": "LG Chem Enters Semiconductor Stripper Market with First Mass-production Supply to Amkor",
+    "summary": "LG Chem begins supplying semiconductor strippers to Amkor, expanding its advanced packaging materials portfolio amid rising AI demand. The post LG Chem Enters Semiconductor Stripper Market with First Mass-production Supply to Amkor appeared first on EE Times Asia .",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
       "Semiconductor",
-      "Electronics"
+      "AI"
     ],
-    "url": "https://www.eetasia.com/seipi-government-step-up-efforts-to-clear-naia-cargo-backlog-affecting-electronics-production/"
+    "url": "https://www.eetasia.com/lg-chem-enters-semiconductor-stripper-market-with-first-mass-production-supply-to-amkor/"
   },
   {
     "date": "2026-07-21",
-    "title": "Five US tech giants' hidden debts soar to $1.65tn on opaque AI funding",
-    "summary": "Five US tech giants' hidden debts soar to $1.65tn on opaque AI funding",
+    "title": "JEDEC’s SPHBM4 Standard Brings HBM4-class Performance to Organic Substrate-based AI Systems",
+    "summary": "JEDEC introduces SPHBM4, enabling HBM4-class bandwidth on organic substrates for more scalable and cost-effective AI memory architectures. The post JEDEC’s SPHBM4 Standard Brings HBM4-class Performance to Organic Substrate-based AI Systems appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/jedecs-sphbm4-standard-brings-hbm4-class-performance-to-organic-substrate-based-ai-systems/"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "Precision Under Pressure: Ensuring Quality in a Globalized and Miniaturized Semiconductor Industry",
+    "summary": "Here is why distributed semiconductor manufacturing and miniaturization demand next-generation sensors solutions. The post Precision Under Pressure: Ensuring Quality in a Globalized and Miniaturized Semiconductor Industry appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/precision-under-pressure-ensuring-quality-in-a-globalized-and-miniaturized-semiconductor-industry/"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "LG Uplus, Ericsson to develop network voice AI",
+    "summary": "Ixi-O is a consumer AI calling app that summarizes and answers calls on users' behalf.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/google-in-talks-with-lg-uplus-for-s-korea-data-center-sources"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "Samsung Electronics creates robotics division as key part of growth strategy",
+    "summary": "Samsung Electronics creates robotics division as key part of growth strategy",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Electronics",
+      "Automation"
+    ],
+    "url": "https://www.channelnewsasia.com/business/samsung-electronics-creates-robotics-division-key-part-growth-strategy-6266856"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "Someone has to make AI work",
+    "summary": "Learn what forward-deployed engineers really do, why Zetrix AI is courting governments, and how Chinese AI labs are challenging the frontier.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/someone-has-to-make-ai-work"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "US AI startup Infinity raises $15m to cut Nvidia reliance",
+    "summary": "Infinity charges based on performance gains and cost savings, not upfront license fees.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/israeli-tech-companies-keep-hiring-talent-despite-war"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "China's Moonshot AI plans Hong Kong IPO as Kimi K3 shocks Silicon Valley",
+    "summary": "China's Moonshot AI plans Hong Kong IPO as Kimi K3 shocks Silicon Valley",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding"
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-moonshot-ai-plans-hong-kong-ipo-as-kimi-k3-shocks-silicon-valley"
   },
   {
     "date": "2026-07-21",
-    "title": "Japan to make new push to set global standards as it trails in AI, chips",
-    "summary": "Japan to make new push to set global standards as it trails in AI, chips",
+    "title": "Taiwan alleges ex-TSMC staff stole chip secrets to sell to China",
+    "summary": "Taiwan alleges ex-TSMC staff stole chip secrets to sell to China",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://asia.nikkei.com/business/technology/japan-to-make-new-push-to-set-global-standards-as-it-trails-in-ai-chips"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "China's Moonshot AI halts subscriptions for Kimi K3 after users surge",
-    "summary": "China's Moonshot AI halts subscriptions for Kimi K3 after users surge",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-moonshot-ai-halts-subscriptions-for-kimi-k3-after-users-surge"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
-    "summary": "Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio",
-    "source": "KED Global",
-    "short": "KED",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001"
+    "url": "https://asia.nikkei.com/business/technology/taiwan-alleges-ex-tsmc-staff-stole-chip-secrets-to-sell-to-china"
   },
   {
     "date": "2026-07-20",
