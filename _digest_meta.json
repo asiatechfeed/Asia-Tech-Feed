@@ -1,39 +1,37 @@
 {
   "date": "2026-07-21",
-  "count": 12,
+  "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-21-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Samsung consolidates robot teams and weighs standalone HX division",
+      "title": "Zhipu begins building 1GW AI data center on domestic chips",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/zhipu-ai-stock-slides-as-compute-shortages-stall-global-expansion"
+    },
+    {
+      "title": "Inside the AI bankruptcy trap (and how open weight models help)",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/fireworks-ai-ceo-says-private-data-is-ais-next-edge"
+    },
+    {
+      "title": "The agentic AI lowering data center cooling costs",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/agentic-ai-lowering-data-center-cooling-costs"
+    },
+    {
+      "title": "Chipmaker IQE raises annual sales growth forecast on AI, data centre demand",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/chipmaker-iqe-raises-annual-sales-growth-forecast-ai-data-centre-demand-6267501"
+    },
+    {
+      "title": "Power and water constraints cast doubt on South Korea's Honam memory cluster, experts say",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260720PD217/samsung-robot-reorganization-technology-production.html"
-    },
-    {
-      "title": "China's AI supernode race seeks systems edge through optics, packaging, and cloud scale",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260720VL218/china-ai-chips-hardware-optics-packaging.html"
-    },
-    {
-      "title": "BOE expands into glass-core packaging, solar cells and optical interconnects",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260721PD220/boe-packaging-solar-display-substrate.html"
-    },
-    {
-      "title": "LG Chem Enters Semiconductor Stripper Market with First Mass-production Supply to Amkor",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/lg-chem-enters-semiconductor-stripper-market-with-first-mass-production-supply-to-amkor/"
-    },
-    {
-      "title": "JEDEC\u2019s SPHBM4 Standard Brings HBM4-class Performance to Organic Substrate-based AI Systems",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/jedecs-sphbm4-standard-brings-hbm4-class-performance-to-organic-substrate-based-ai-systems/"
+      "url": "https://www.digitimes.com/news/a20260721PD221/water-electricity-region-industrial-demand.html"
     }
   ],
   "source_stats": [
@@ -52,7 +50,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -151,14 +149,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 28,
+      "fetched": 52,
+      "relevant": 38,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 10,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
