@@ -1,37 +1,39 @@
 {
-  "date": "2026-07-21",
-  "count": 8,
+  "date": "2026-07-22",
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
+    "NikkeiAsia",
+    "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-07-21-asia-tech-news-digest.md",
+  "post_file": "2026-07-22-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Zhipu begins building 1GW AI data center on domestic chips",
+      "title": "Tesla expands robotaxi service ahead of earnings",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/zhipu-ai-stock-slides-as-compute-shortages-stall-global-expansion"
+      "url": "https://www.techinasia.com/tesla-chinamade-ev-sales-rise-394"
     },
     {
-      "title": "Inside the AI bankruptcy trap (and how open weight models help)",
+      "title": "Intel, Fortinet partner on next-gen security chip",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/fireworks-ai-ceo-says-private-data-is-ais-next-edge"
+      "url": "https://www.techinasia.com/palo-alto-acquires-israeli-cybersecurity-firm-cyberark"
     },
     {
-      "title": "The agentic AI lowering data center cooling costs",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/agentic-ai-lowering-data-center-cooling-costs"
-    },
-    {
-      "title": "Chipmaker IQE raises annual sales growth forecast on AI, data centre demand",
+      "title": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/chipmaker-iqe-raises-annual-sales-growth-forecast-ai-data-centre-demand-6267501"
+      "url": "https://www.channelnewsasia.com/business/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-startup-6269186"
     },
     {
-      "title": "Power and water constraints cast doubt on South Korea's Honam memory cluster, experts say",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260721PD221/water-electricity-region-industrial-demand.html"
+      "title": "Can AI replace Expedia? Its CEO says travel is more complicated than that",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/experiences/expedia-ceo-ai-travel-booking-ariane-gorin-6265106"
+    },
+    {
+      "title": "HW-based Methods to Dynamically Throttle AI Performance (Princeton University)",
+      "source": "SemiEng",
+      "url": "https://semiengineering.com/hw-based-methods-to-dynamically-throttle-ai-performance-princeton-university/"
     }
   ],
   "source_stats": [
@@ -155,8 +157,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 52,
-      "relevant": 38,
+      "fetched": 59,
+      "relevant": 44,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -192,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 16,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -210,9 +212,9 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     }
   ]
