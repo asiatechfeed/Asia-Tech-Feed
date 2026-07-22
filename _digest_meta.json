@@ -1,38 +1,38 @@
 {
   "date": "2026-07-22",
-  "count": 10,
+  "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-22-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "TSMC raises 2027 chip prices, giving Intel fresh pricing room",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260722VL211/tsmc-2027-intel-price-wafer.html"
-    },
-    {
-      "title": "'Don't panic about Kimi K3': Jensen Huang claims everyone got the logic backwards",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260722PD218/jensen-huang-data-data-center-infrastructure-outlook.html"
-    },
-    {
-      "title": "Nvidia details AI rack strategy with Vera Rubin NVL72 and custom Vera CPU",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260722VL206/nvidia-rubin-cpu.html"
-    },
-    {
-      "title": "Cadence Launches AuraStack AI Super Agent for PCB Design, Advanced Packaging",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/cadence-launches-aurastack-ai-super-agent-for-pcb-design-advanced-packaging/"
-    },
-    {
-      "title": "Fortinet expands FortiEndpoint security with AI controls",
+      "title": "Volkswagen, Horizon Robotics team up on AI driving in China",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/york-aipowered-cybersecurity-startup-nets-35m"
+      "url": "https://www.techinasia.com/volkswagen-ramps-chinadesigned-strategy-catch-local-ev-rivals"
+    },
+    {
+      "title": "Connecting disconnected industrial systems with AI agents",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/connecting-disconnected-industrial-systems-ai-agents"
+    },
+    {
+      "title": "US-China AI rivalry, part 2: Beijing weighs controls on model weights, training data, chip designs",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260722VL215/beijing-ai-competition-data-development-training.html"
+    },
+    {
+      "title": "US-China AI rivalry, part 1: September talks to confront frontier models, IP theft, open-source risks",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260722VL214/china-usa-ai-policy-development-industrial.html"
+    },
+    {
+      "title": "From laundry rooms to convenience stores: Humanoids at China's World AI Conference",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/robots-shine-china-world-ai-conference-6265701"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -129,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -150,14 +150,14 @@
       "fetched": 10,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 42,
-      "relevant": 32,
+      "fetched": 56,
+      "relevant": 42,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -211,7 +211,7 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
