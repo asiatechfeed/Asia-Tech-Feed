@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-07-22",
+    "title": "Tesla expands robotaxi service ahead of earnings",
+    "summary": "Tesla's Austin robotaxi service appears to be invite-only rather than open to the public.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/tesla-chinamade-ev-sales-rise-394"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "Intel, Fortinet partner on next-gen security chip",
+    "summary": "Fortinet's SP5 chip offers 17x faster firewall performance and 88% lower power use than standard CPUs.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/palo-alto-acquires-israeli-cybersecurity-firm-cyberark"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup",
+    "summary": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-startup-6269186"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "Can AI replace Expedia? Its CEO says travel is more complicated than that",
+    "summary": "Generative AI is reshaping travel, but Expedia chief executive Ariane Gorin says travellers will continue to value trusted booking platforms.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/experiences/expedia-ceo-ai-travel-booking-ariane-gorin-6265106"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "HW-based Methods to Dynamically Throttle AI Performance (Princeton University)",
+    "summary": "Researchers from Princeton University published a technical paper titled “Hardware Mechanisms to Dynamically Throttle AI Performance.” Abstract Excerpt: “In this paper, we introduce a set of microarchitecture knobs which dynamically control the available hardware resources to limit AI performance at runtime. We evaluat",
+    "source": "Semiconductor Engineering",
+    "short": "SemiEng",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://semiengineering.com/hw-based-methods-to-dynamically-throttle-ai-performance-princeton-university/"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "Mapping the dominant players in Israel’s AI field",
+    "summary": "Mapping Israel's AI sector: Key players, top investors, and funding insights in one report.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/visual-story/mapping-dominant-players-israels-ai-field"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "Google developing 'frozen' chip that embeds Gemini models for efficiency gains",
+    "summary": "Google is reportedly developing a new chip that embeds information from its Gemini AI models directly onto the silicon to boost efficiency. If the anticipated performance gains materialize, this new design would mark a deeper integration of the tech giant's hardware and AI capabilities.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260721VL213/google-gemini-efficiency-chips-nvidia.html"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "Goldkey secures NT$3.6 billion loan to expand AI server memory business",
+    "summary": "Goldkey Technology has completed and signed a three-year syndicated loan worth NT$3.6 billion (US$111.3 million) to support inventory growth and working capital needs tied to AI servers and other high-demand markets. The Taiwan memory module maker said the financing will also back materials purchases as it prepares to ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260721PD228/loan-business-equipment-inventory-financing.html"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "Huawei Kirin 9030 shows SMIC's 7nm gains and ongoing efficiency gap",
+    "summary": "A teardown of Huawei's Kirin 9030 flagship processor — built on SMIC's 7nm-class N+3 process — reveals continued density progress from China's leading chipmaker, but a significant efficiency gap against global peers remains.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260721PD236/huawei-kirin-efficiency-7nm-smic.html"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "Nvidia and Wistron to build Blackwell AI servers in Texas",
+    "summary": "Nvidia and Wistron to build Blackwell AI servers in Texas",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/spotlight/supply-chain/nvidia-and-wistron-to-build-blackwell-ai-servers-in-texas"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "India approves its first dengue vaccine, from Japan's Takeda",
+    "summary": "India approves its first dengue vaccine, from Japan's Takeda",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Biotechnology"
+    ],
+    "url": "https://asia.nikkei.com/business/pharmaceuticals/india-approves-its-first-dengue-vaccine-from-japan-s-takeda"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "Exclusive: TSMC to raise chipmaking prices by up to 10% from 2027",
+    "summary": "Exclusive: TSMC to raise chipmaking prices by up to 10% from 2027",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/exclusive-tsmc-to-raise-chipmaking-prices-by-up-to-10-from-2027"
+  },
+  {
     "date": "2026-07-21",
     "title": "Zhipu begins building 1GW AI data center on domestic chips",
     "summary": "The all-domestic chip plan also aligns with a broader push for local AI hardware after Zhipu was added to a US Commerce Department list.",
