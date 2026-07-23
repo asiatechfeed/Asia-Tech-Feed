@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-23T03:34:09+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 23, 2026</title><link href="https://asiatechfeed.com/2026/07/23/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 23, 2026" /><published>2026-07-23T03:32:51+00:00</published><updated>2026-07-23T03:32:51+00:00</updated><id>https://asiatechfeed.com/2026/07/23/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/23/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-23T08:01:59+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 23, 2026</title><link href="https://asiatechfeed.com/2026/07/23/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 23, 2026" /><published>2026-07-23T08:00:51+00:00</published><updated>2026-07-23T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/07/23/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/23/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -13,117 +13,93 @@
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Wall Street banks trade $35b AI financing package</span></td>
-  <td class="col-summary">The borrower is a special-purpose vehicle that buys chips developed by Google and Broadcom and leases them to Anthropic.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropic-signs-20year-lease-bitcoin-miner-terawulf" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Samsung Electro-Mechanics signs $204m AI server deal</span></td>
+  <td class="col-summary">According to Samsung Electro-Mechanics, a single AI server rack can use up to 600,000 MLCCs, more than 10x the number used in a conventional server rack.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/samsung-electro-mechanics-eyes-ai-chip-packaging-expansion" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Micro-transfer Printing Advances Heterogeneous Integration for Next-gen Silicon Photonics</span></td>
-  <td class="col-summary">IEEE study highlights micro-transfer printing as a scalable route to enhance silicon photonics for AI and high-speed communications. The post Micro-transfer Printing Advances Heterogeneous Integration for Next-gen Silicon Photonics appeared first on EE Times Asia .</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">The platform turning AI search into a measurable ROI</span></td>
+  <td class="col-summary">Inflect helps B2B and consumer brands measure their share of voice across tools like ChatGPT, Perplexity, and Gemini.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/micro-transfer-printing-advances-heterogeneous-integration-for-next-gen-silicon-photonics/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/platform-turning-ai-search-measurable-roi" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">GaN Moves to Center of AI Data Center Power Architectures</span></td>
-  <td class="col-summary">Rising AI power demands are pushing data center designers toward GaN-based power conversion for higher efficiency and density. The post GaN Moves to Center of AI Data Center Power Architectures appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/gan-moves-to-center-of-ai-data-center-power-architectures/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Samsung weighs Besi's Korean rivals for 50-bonder hybrid bonding line as pricing talks drag on</span></td>
+  <td class="col-summary">Samsung Electronics is preparing a die-to-wafer hybrid bonding production line with about 50 bonders at its Pyeongtaek campus for next-generation high-bandwidth memory and logic chips, according to The Elec .</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260723VL227/samsung-equipment-production-hbm-hanwha.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Philippines’ ASEAN Chairship Elevates PSECE 2026 with Stronger Regional Semiconductor Collaboration</span></td>
-  <td class="col-summary">PSECE 2026 will spotlight ASEAN collaboration, resilient supply chains, innovation and workforce development during the Philippines' Chairship. The post Philippines’ ASEAN Chairship Elevates PSECE 2026 with Stronger Regional Semiconductor Collaboration appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/philippines-asean-chairship-elevates-psece-2026-with-stronger-regional-semiconductor-collaboration/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Mitsubishi Electric and Sony Semiconductor Solutions form AI factory automation venture</span></td>
+  <td class="col-summary">Mitsubishi Electric and Sony Group subsidiary Sony Semiconductor Solutions announced on July 22, 2026, that they have signed a partnership agreement to launch a joint venture focused on using image sensors to automate manufacturing sites and develop physical AI technology. The new company will be 60% funded by Mitsubis</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260723PD231/mitsubishi-electric-sony-joint-venture-automation.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Wistron executives say AI demand is still far from a bubble</span></td>
-  <td class="col-summary">Artificial intelligence (AI) may worry investors in global markets, but Wistron executives said the technology's rapid adoption suggests the opposite. They argued that strong enterprise demand, expanding use cases, and supply constraints are still driving growth, with implications for businesses and consumers worldwide</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260723PD218/wistron-ai-adoption-demand.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Intel 18A adopts High-NA EUV in dual-certification push</span></td>
+  <td class="col-summary">Intel Foundry has moved high numerical aperture (High-NA) EUV lithography into production on its Intel 18A process, with ASML confirming in a recent press release that Intel is using the expensive next-generation tool on selected layers of its latest notebook processors, including Panther Lake and the Core Ultra Series</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260723PD230/intel-foundry-high-na-euv-asml-production.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">01.AI targets Hong Kong IPO in 2027 with enterprise AI pivot</span></td>
-  <td class="col-summary">01.AI, the Chinese startup founded by former Google Greater China chief Lee Kai-fu, said it is aiming for a Hong Kong initial public offering in 2027 after restructuring its offshore holding structure. The company has repositioned itself around enterprise decision-making AI tools rather than frontier model development.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260723PD200/01.ai-2027-startup-google-greater-china.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">This founder built AI hardware investors ignored</span></td>
+  <td class="col-summary">Samantha Johnson, founder and CEO of Tatum Robotics, says investors dismissed her market as too small until DeafBlind users proved otherwise.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/this-founder-built-ai-hardware-investors-ignored" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">In-depth: Alibaba builds three-layer AI empire across chips, memory and models</span></td>
-  <td class="col-summary">Competition in China's AI industry is moving beyond large language models into chips, memory and computing infrastructure. CXMT's planned IPO on Shanghai's STAR Market has put renewed attention on Alibaba, the Chinese DRAM maker's largest industry investor.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260723PD202/alibaba-chips-cxmt-investment-ai-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Besi orders more than double as AI and hybrid bonding tech drive demand</span></td>
+  <td class="col-summary">Besi orders more than double as AI and hybrid bonding tech drive demand</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/besi-orders-more-double-ai-and-hybrid-bonding-tech-drive-demand-6272716" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">ServiceNow backs India’s BusinessNext at $700m valuation</span></td>
-  <td class="col-summary">The companies said the partnership will help ServiceNow’s AI Control Tower monitor BusinessNext’s AI agents.</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Dassault Systèmes confirms 2026 outlook, bets on AI with $1.8 billion ArisGlobal deal</span></td>
+  <td class="col-summary">Dassault Systèmes confirms 2026 outlook, bets on AI with $1.8 billion ArisGlobal deal</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/firm-servicenow-acquire-data-startup-pyramid-analytics" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/dassault-systemes-confirms-2026-outlook-bets-ai-18-billion-arisglobal-deal-6272701" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Pichai pushes back on claims Google is losing ground in AI race</span></td>
-  <td class="col-summary">Pichai pushes back on claims Google is losing ground in AI race</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Global corporate bond sales hit $3.7tn in first half on AI funding race</span></td>
+  <td class="col-summary">Global corporate bond sales hit $3.7tn in first half on AI funding race</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/pichai-pushes-back-claims-google-losing-ground-in-ai-race-6272271" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/bonds/global-corporate-bond-sales-hit-3.7tn-in-first-half-on-ai-funding-race" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Monday.com cuts 20% of staff to fund AI push</span></td>
-  <td class="col-summary">Monday.com reported Q1 2026 revenue of US$351.3 million, up 24% year on year, and GAAP net income of US$28 million.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/israeli-software-firm-monday-com-rebuilds-platform-for-ai-agents" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Trump's generic drugs tariff threatens Indian pharma's top market</span></td>
+  <td class="col-summary">Trump's generic drugs tariff threatens Indian pharma's top market</td>
+  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/pharmaceuticals/trump-s-generic-drugs-tariff-threatens-indian-pharma-s-top-market" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">South Korea's Q2 GDP beats estimates on chip export boom</span></td>
-  <td class="col-summary">South Korea's Q2 GDP beats estimates on chip export boom</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/south-koreas-q2-gdp-beats-estimates-chip-export-boom-6272141" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">US officials threaten to sanction Chinese AI startups after Moonshot release</span></td>
-  <td class="col-summary">US officials threaten to sanction Chinese AI startups after Moonshot release</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/us-officials-threaten-to-sanction-chinese-ai-startups-after-moonshot-release" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">13</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">How fentanyl-linked crypto fraud ties back to a Chinese drug kingpin</span></td>
-  <td class="col-summary">How fentanyl-linked crypto fraud ties back to a Chinese drug kingpin</td>
-  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/economy/trade-war/fentanyl-s-hidden-routes/how-fentanyl-linked-crypto-fraud-ties-back-to-a-chinese-drug-kingpin" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">14</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Elon Musk touts Tesla's AI6 as the world's best edge AI chip</span></td>
-  <td class="col-summary">Elon Musk touts Tesla's AI6 as the world's best edge AI chip</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/automobiles/elon-musk-touts-tesla-s-ai6-as-the-world-s-best-edge-ai-chip" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Taiwan to push advanced robotics on distinct path from China: tech czar</span></td>
+  <td class="col-summary">Taiwan to push advanced robotics on distinct path from China: tech czar</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/taiwan-to-push-advanced-robotics-on-distinct-path-from-china-tech-czar" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Wall Street banks trade $35b AI financing package The borrower is a special-purpose vehicle that buys chips developed by Google and Broadcom and leases them to Anthropic. AISemiconductor Read 2 EETAsia Micro-transfer Printing Advances Heterogeneous Integration for Next-gen Silicon Photonics IEEE study highlights micro-transfer printing as a scalable route to enhance silicon photonics for AI and high-speed communications. The post Micro-transfer Printing Advances Heterogeneous Integration for Next-gen Silicon Photonics appeared first on EE Times Asia . AI Read 3 EETAsia GaN Moves to Center of AI Data Center Power Architectures Rising AI power demands are pushing data center designers toward GaN-based power conversion for higher efficiency and density. The post GaN Moves to Center of AI Data Center Power Architectures appeared first on EE Times Asia . AI Read 4 EETAsia Philippines’ ASEAN Chairship Elevates PSECE 2026 with Stronger Regional Semiconductor Collaboration PSECE 2026 will spotlight ASEAN collaboration, resilient supply chains, innovation and workforce development during the Philippines' Chairship. The post Philippines’ ASEAN Chairship Elevates PSECE 2026 with Stronger Regional Semiconductor Collaboration appeared first on EE Times Asia . SemiconductorLogistics Read 5 DigiTimes Wistron executives say AI demand is still far from a bubble Artificial intelligence (AI) may worry investors in global markets, but Wistron executives said the technology's rapid adoption suggests the opposite. They argued that strong enterprise demand, expanding use cases, and supply constraints are still driving growth, with implications for businesses and consumers worldwide AI Read 6 DigiTimes 01.AI targets Hong Kong IPO in 2027 with enterprise AI pivot 01.AI, the Chinese startup founded by former Google Greater China chief Lee Kai-fu, said it is aiming for a Hong Kong initial public offering in 2027 after restructuring its offshore holding structure. The company has repositioned itself around enterprise decision-making AI tools rather than frontier model development. AI Read 7 DigiTimes In-depth: Alibaba builds three-layer AI empire across chips, memory and models Competition in China's AI industry is moving beyond large language models into chips, memory and computing infrastructure. CXMT's planned IPO on Shanghai's STAR Market has put renewed attention on Alibaba, the Chinese DRAM maker's largest industry investor. AISemiconductor Read 8 TechAsia ServiceNow backs India’s BusinessNext at $700m valuation The companies said the partnership will help ServiceNow’s AI Control Tower monitor BusinessNext’s AI agents. AI Read 9 CNA Pichai pushes back on claims Google is losing ground in AI race Pichai pushes back on claims Google is losing ground in AI race AI Read 10 TechAsia Monday.com cuts 20% of staff to fund AI push Monday.com reported Q1 2026 revenue of US$351.3 million, up 24% year on year, and GAAP net income of US$28 million. AI Read 11 CNA South Korea's Q2 GDP beats estimates on chip export boom South Korea's Q2 GDP beats estimates on chip export boom Semiconductor Read 12 NikkeiAsia US officials threaten to sanction Chinese AI startups after Moonshot release US officials threaten to sanction Chinese AI startups after Moonshot release AI Read 13 NikkeiAsia How fentanyl-linked crypto fraud ties back to a Chinese drug kingpin How fentanyl-linked crypto fraud ties back to a Chinese drug kingpin Pharmaceutical Read 14 NikkeiAsia Elon Musk touts Tesla's AI6 as the world's best edge AI chip Elon Musk touts Tesla's AI6 as the world's best edge AI chip AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 22, 2026</title><link href="https://asiatechfeed.com/2026/07/22/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 22, 2026" /><published>2026-07-22T08:00:50+00:00</published><updated>2026-07-22T08:00:50+00:00</updated><id>https://asiatechfeed.com/2026/07/22/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/22/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Samsung Electro-Mechanics signs $204m AI server deal According to Samsung Electro-Mechanics, a single AI server rack can use up to 600,000 MLCCs, more than 10x the number used in a conventional server rack. AI Read 2 TechAsia The platform turning AI search into a measurable ROI Inflect helps B2B and consumer brands measure their share of voice across tools like ChatGPT, Perplexity, and Gemini. AI Read 3 DigiTimes Samsung weighs Besi's Korean rivals for 50-bonder hybrid bonding line as pricing talks drag on Samsung Electronics is preparing a die-to-wafer hybrid bonding production line with about 50 bonders at its Pyeongtaek campus for next-generation high-bandwidth memory and logic chips, according to The Elec . ElectronicsSemiconductor Read 4 DigiTimes Mitsubishi Electric and Sony Semiconductor Solutions form AI factory automation venture Mitsubishi Electric and Sony Group subsidiary Sony Semiconductor Solutions announced on July 22, 2026, that they have signed a partnership agreement to launch a joint venture focused on using image sensors to automate manufacturing sites and develop physical AI technology. The new company will be 60% funded by Mitsubis SemiconductorAIAutomation Read 5 DigiTimes Intel 18A adopts High-NA EUV in dual-certification push Intel Foundry has moved high numerical aperture (High-NA) EUV lithography into production on its Intel 18A process, with ASML confirming in a recent press release that Intel is using the expensive next-generation tool on selected layers of its latest notebook processors, including Panther Lake and the Core Ultra Series Semiconductor Read 6 TechAsia This founder built AI hardware investors ignored Samantha Johnson, founder and CEO of Tatum Robotics, says investors dismissed her market as too small until DeafBlind users proved otherwise. AIAutomation Read 7 CNA Besi orders more than double as AI and hybrid bonding tech drive demand Besi orders more than double as AI and hybrid bonding tech drive demand AI Read 8 CNA Dassault Systèmes confirms 2026 outlook, bets on AI with $1.8 billion ArisGlobal deal Dassault Systèmes confirms 2026 outlook, bets on AI with $1.8 billion ArisGlobal deal AI Read 9 NikkeiAsia Global corporate bond sales hit $3.7tn in first half on AI funding race Global corporate bond sales hit $3.7tn in first half on AI funding race AI Read 10 NikkeiAsia Trump's generic drugs tariff threatens Indian pharma's top market Trump's generic drugs tariff threatens Indian pharma's top market Pharmaceutical Read 11 NikkeiAsia Taiwan to push advanced robotics on distinct path from China: tech czar Taiwan to push advanced robotics on distinct path from China: tech czar Automation Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 22, 2026</title><link href="https://asiatechfeed.com/2026/07/22/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 22, 2026" /><published>2026-07-22T08:00:50+00:00</published><updated>2026-07-22T08:00:50+00:00</updated><id>https://asiatechfeed.com/2026/07/22/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/22/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
