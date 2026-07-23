@@ -1,39 +1,38 @@
 {
   "date": "2026-07-23",
-  "count": 14,
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-23-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Wall Street banks trade $35b AI financing package",
+      "title": "Samsung Electro-Mechanics signs $204m AI server deal",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-signs-20year-lease-bitcoin-miner-terawulf"
+      "url": "https://www.techinasia.com/samsung-electro-mechanics-eyes-ai-chip-packaging-expansion"
     },
     {
-      "title": "Micro-transfer Printing Advances Heterogeneous Integration for Next-gen Silicon Photonics",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/micro-transfer-printing-advances-heterogeneous-integration-for-next-gen-silicon-photonics/"
+      "title": "The platform turning AI search into a measurable ROI",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/platform-turning-ai-search-measurable-roi"
     },
     {
-      "title": "GaN Moves to Center of AI Data Center Power Architectures",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/gan-moves-to-center-of-ai-data-center-power-architectures/"
-    },
-    {
-      "title": "Philippines\u2019 ASEAN Chairship Elevates PSECE 2026 with Stronger Regional Semiconductor Collaboration",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/philippines-asean-chairship-elevates-psece-2026-with-stronger-regional-semiconductor-collaboration/"
-    },
-    {
-      "title": "Wistron executives say AI demand is still far from a bubble",
+      "title": "Samsung weighs Besi's Korean rivals for 50-bonder hybrid bonding line as pricing talks drag on",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260723PD218/wistron-ai-adoption-demand.html"
+      "url": "https://www.digitimes.com/news/a20260723VL227/samsung-equipment-production-hbm-hanwha.html"
+    },
+    {
+      "title": "Mitsubishi Electric and Sony Semiconductor Solutions form AI factory automation venture",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260723PD231/mitsubishi-electric-sony-joint-venture-automation.html"
+    },
+    {
+      "title": "Intel 18A adopts High-NA EUV in dual-certification push",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260723PD230/intel-foundry-high-na-euv-asml-production.html"
     }
   ],
   "source_stats": [
@@ -131,7 +130,7 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -151,14 +150,14 @@
       "fetched": 10,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 29,
+      "fetched": 60,
+      "relevant": 49,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -194,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -212,7 +211,7 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
