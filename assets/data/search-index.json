@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-07-23",
+    "title": "IBM cuts annual revenue growth forecast as customers prioritize AI infrastructure spending",
+    "summary": "IBM cuts annual revenue growth forecast as customers prioritize AI infrastructure spending",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/ibm-cuts-annual-revenue-growth-forecast-customers-prioritize-ai-infrastructure-spending-6271871"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "Texas Instruments forecasts upbeat revenue on analog chip demand",
+    "summary": "Texas Instruments forecasts upbeat revenue on analog chip demand",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/texas-instruments-forecasts-upbeat-revenue-analog-chip-demand-6271846"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "Zomato’s parent company breaks out enterprise AI business",
+    "summary": "Nugget was initially built for Eternal's own businesses before expanding globally.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/blinkit-68m-parent-eternal-expansion"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "Raspberry Pi goes big with 10-inch Touch Display 2",
+    "summary": "Raspberry Pi has expanded its range of multi-touch capacitive touch panes with a 10-inch Touch Display 2. You attach a Raspberry Pi to the rear of the display, via four […] The post Raspberry Pi goes big with 10-inch Touch Display 2 appeared first on Electronics Weekly .",
+    "source": "Electronics Weekly",
+    "short": "EW",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.electronicsweekly.com/news/products/raspberry-pi-development/raspberry-pi-goes-big-screen-with-10-inch-touch-display-2-2026-07/"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "Samsung sounds out suppliers on four new fabs by 2030, report says",
+    "summary": "Samsung Electronics is sounding out major suppliers about whether they can support four proposed new semiconductor fabrication plants through 2030, as South Korea's chipmakers prepare for a concentrated cycle of factory construction.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260722VL225/samsung-fab-2030-sk-hynix-investment.html"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "China ends decade-old battery tax break, signaling a coordinated squeeze on clean-energy overcapacity",
+    "summary": "China is dismantling the tax shelter that helped build the world's largest battery industry, and the move looks less like a one-off revenue measure than the opening of a broad campaign to force consolidation across its clean-energy supply chains — with consequences that reach from Chinese carmakers to global energy-sto",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260722VL218/overcapacity-revenue-automakers.html"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "AI and satellite demand drive quartz components toward lower noise, jitter and higher precision",
+    "summary": "The rapid growth of AI data traffic is pushing quartz timing components toward three key technical upgrades: lower phase noise, reduced jitter and greater frequency accuracy. At the same time, SpaceX's continuing satellite deployment plans are creating fresh demand for frequency-control components such as filters, part",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260722PD219/quartz-components-demand-data-growth-quartz.html"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "Taiwan’s Wistron opens $700m Texas plant for Nvidia",
+    "summary": "Wistron said it would also make the next-generation Vera Rubin Superchip, which follows Grace Blackwell in Nvidia’s roadmap.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/tsmc-foxconn-adopt-nvidia-rtx-pro-servers-for-ai"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "China’s Moonshot AI targets $50b valuation",
+    "summary": "Moonshot AI is best known for Kimi, which ranked third among Chinese AI chatbots by monthly active users in August 2024.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/chinas-moonshot-ai-raises-2b-20b-valuation"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "South Korea logs modest growth even as AI chip boom powers exports",
+    "summary": "South Korea logs modest growth even as AI chip boom powers exports",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/economy/south-korea-logs-modest-growth-even-as-ai-chip-boom-powers-exports"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "Philippines protests South China Sea AI video to China's Wang Yi",
+    "summary": "Philippines protests South China Sea AI video to China's Wang Yi",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/politics/international-relations/south-china-sea/philippines-protests-south-china-sea-ai-video-to-china-s-wang-yi"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "Tech group NEC CEO pushes back on AI threat as company shares drop 20%",
+    "summary": "Tech group NEC CEO pushes back on AI threat as company shares drop 20%",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/companies/tech-group-nec-ceo-pushes-back-on-ai-threat-as-company-shares-drop-20"
+  },
+  {
     "date": "2026-07-22",
     "title": "Volkswagen, Horizon Robotics team up on AI driving in China",
     "summary": "Under the agreement, CARIZON will use a white-box licensing model to develop the system independently.",

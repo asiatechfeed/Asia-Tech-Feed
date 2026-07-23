@@ -1,38 +1,39 @@
 {
-  "date": "2026-07-22",
-  "count": 8,
+  "date": "2026-07-23",
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EW",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-22-asia-tech-news-digest.md",
+  "post_file": "2026-07-23-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Volkswagen, Horizon Robotics team up on AI driving in China",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/volkswagen-ramps-chinadesigned-strategy-catch-local-ev-rivals"
-    },
-    {
-      "title": "Connecting disconnected industrial systems with AI agents",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/connecting-disconnected-industrial-systems-ai-agents"
-    },
-    {
-      "title": "US-China AI rivalry, part 2: Beijing weighs controls on model weights, training data, chip designs",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260722VL215/beijing-ai-competition-data-development-training.html"
-    },
-    {
-      "title": "US-China AI rivalry, part 1: September talks to confront frontier models, IP theft, open-source risks",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260722VL214/china-usa-ai-policy-development-industrial.html"
-    },
-    {
-      "title": "From laundry rooms to convenience stores: Humanoids at China's World AI Conference",
+      "title": "IBM cuts annual revenue growth forecast as customers prioritize AI infrastructure spending",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/robots-shine-china-world-ai-conference-6265701"
+      "url": "https://www.channelnewsasia.com/business/ibm-cuts-annual-revenue-growth-forecast-customers-prioritize-ai-infrastructure-spending-6271871"
+    },
+    {
+      "title": "Texas Instruments forecasts upbeat revenue on analog chip demand",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/texas-instruments-forecasts-upbeat-revenue-analog-chip-demand-6271846"
+    },
+    {
+      "title": "Zomato\u2019s parent company breaks out enterprise AI business",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/blinkit-68m-parent-eternal-expansion"
+    },
+    {
+      "title": "Raspberry Pi goes big with 10-inch Touch Display 2",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/news/products/raspberry-pi-development/raspberry-pi-goes-big-screen-with-10-inch-touch-display-2-2026-07/"
+    },
+    {
+      "title": "Samsung sounds out suppliers on four new fabs by 2030, report says",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260722VL225/samsung-fab-2030-sk-hynix-investment.html"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -129,10 +130,10 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
-      "relevant": 0,
+      "fetched": 10,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -156,8 +157,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 56,
-      "relevant": 42,
+      "fetched": 67,
+      "relevant": 50,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -193,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 11,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
