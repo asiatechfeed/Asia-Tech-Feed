@@ -1,38 +1,38 @@
 {
-  "date": "2026-07-23",
-  "count": 11,
+  "date": "2026-07-24",
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-23-asia-tech-news-digest.md",
+  "post_file": "2026-07-24-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Samsung Electro-Mechanics signs $204m AI server deal",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/samsung-electro-mechanics-eyes-ai-chip-packaging-expansion"
-    },
-    {
-      "title": "The platform turning AI search into a measurable ROI",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/platform-turning-ai-search-measurable-roi"
-    },
-    {
-      "title": "Samsung weighs Besi's Korean rivals for 50-bonder hybrid bonding line as pricing talks drag on",
+      "title": "Wistron says growth is strong, but transformation remains incomplete",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260723VL227/samsung-equipment-production-hbm-hanwha.html"
+      "url": "https://www.digitimes.com/news/a20260723PD219/wistron-growth-revenue-manufacturing-profit.html"
     },
     {
-      "title": "Mitsubishi Electric and Sony Semiconductor Solutions form AI factory automation venture",
+      "title": "Nvidia 800V HVDC enters production in 1Q27, Delta set for 2Q ramp",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260723PD231/mitsubishi-electric-sony-joint-venture-automation.html"
+      "url": "https://www.digitimes.com/news/a20260723PD209/nvidia-production-forecast-2027-market.html"
     },
     {
-      "title": "Intel 18A adopts High-NA EUV in dual-certification push",
+      "title": "Chinese AI labs close gap with Anthropic after Claude Code leak",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260723PD230/intel-foundry-high-na-euv-asml-production.html"
+      "url": "https://www.digitimes.com/news/a20260723VL209/claude-anthropic-moonshot-kimi-k3-alibaba.html"
+    },
+    {
+      "title": "Six IPOs this year, most trading below issue price: What this means for Singapore's market reforms",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/sgx-ipo-price-stocks-justco-foundation-healthcare-6270171"
+    },
+    {
+      "title": "Commentary: Why the US is losing Chinese AI stars",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/us-losing-chinese-ai-founders-moonshotai-6272996"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -156,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 60,
-      "relevant": 49,
+      "fetched": 35,
+      "relevant": 23,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null

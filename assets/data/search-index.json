@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-07-24",
+    "title": "Wistron says growth is strong, but transformation remains incomplete",
+    "summary": "Wistron said its revenue and profit continue to rise, and its global manufacturing platform is opening new growth avenues for readers watching the electronics, AI, and industrial supply chains. The Taiwan-based company is pushing into higher-margin businesses while demand remains strong across key markets worldwide.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260723PD219/wistron-growth-revenue-manufacturing-profit.html"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "Nvidia 800V HVDC enters production in 1Q27, Delta set for 2Q ramp",
+    "summary": "SemiAnalysis recently forecast that large-scale deployment of Nvidia's native single-ended 800V high-voltage direct current power architecture could slip from the market's previous expectation of 2027 to beyond 2028, raising concerns over growth prospects for the AI power supply chain.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260723PD209/nvidia-production-forecast-2027-market.html"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "Chinese AI labs close gap with Anthropic after Claude Code leak",
+    "summary": "A springtime source-code exposure reframed the AI race around \"harness\" and memory engineering rather than raw model scale — and a wave of Chinese models built around exactly those ideas has since arrived within striking distance of Anthropic's flagship.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260723VL209/claude-anthropic-moonshot-kimi-k3-alibaba.html"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "Six IPOs this year, most trading below issue price: What this means for Singapore's market reforms",
+    "summary": "Analysts say the underwhelming showing reflects thin liquidity and a global tilt towards AI stocks more than a failure of Singapore's push to revive its equity market.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/singapore/sgx-ipo-price-stocks-justco-foundation-healthcare-6270171"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "Commentary: Why the US is losing Chinese AI stars",
+    "summary": "More entrepreneurs from China believe there are now greater opportunities at home than in Silicon Valley, says this Financial Times writer.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/us-losing-chinese-ai-founders-moonshotai-6272996"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns",
+    "summary": "SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/sap-cfo-says-ai-must-move-beyond-chatbot-low-hanging-fruit-seeing-returns-6274751"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "Wiz.ai’s Jennifer Zhang exits president role to build new AI startup",
+    "summary": "Zhang is moving to the US to build AchieveGo, an AI startup developing evaluation infrastructure for AI agents.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/wiz-ais-jennifer-zhang-exits-president-role-to-build-us-ai-startup"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "SK Telecom to set up AI data center subsidiary",
+    "summary": "SK Telecom also appointed Chung Suk-geun as CEO of SK Hyper, the new AI data center subsidiary.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/sk-telecoms-ai-data-center-revenue-jumps-89"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "OpenAI launches Presence for enterprise AI agents",
+    "summary": "Presence is available through OpenAI’s Forward Deployed Engineers and select global systems integrators, rather than as a self-service offering.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/openai-built-gptred-test-prompt-injection"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "Singapore's GIC eyes more investments in companies leveraging AI",
+    "summary": "Singapore's GIC eyes more investments in companies leveraging AI",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/markets/singapore-s-gic-eyes-more-investments-in-companies-leveraging-ai"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "Infosys taps veteran insider Ashiss Kumar Dash as next CEO amid AI threat",
+    "summary": "Infosys taps veteran insider Ashiss Kumar Dash as next CEO amid AI threat",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/infosys-taps-veteran-insider-ashiss-kumar-dash-as-next-ceo-amid-ai-threat"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "Hyundai profit falls 21% on US tariffs, supply chain disruption",
+    "summary": "Hyundai profit falls 21% on US tariffs, supply chain disruption",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://asia.nikkei.com/business/automobiles/hyundai-profit-falls-21-on-us-tariffs-supply-chain-disruption"
+  },
+  {
     "date": "2026-07-23",
     "title": "Samsung Electro-Mechanics signs $204m AI server deal",
     "summary": "According to Samsung Electro-Mechanics, a single AI server rack can use up to 600,000 MLCCs, more than 10x the number used in a conventional server rack.",
