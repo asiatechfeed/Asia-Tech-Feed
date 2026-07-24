@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "count": 9,
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -10,29 +10,29 @@
   "post_file": "2026-07-24-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Intel reportedly considers SK Hynix for Ohio fab partnership",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260724VL209/intel-sk-hynix-partnership-acquisition.html"
-    },
-    {
-      "title": "India approves two electronics manufacturing clusters in Tamil Nadu",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260724VL206/electronics-manufacturing-government-exports-semicon.html"
-    },
-    {
-      "title": "Commentary: Wistron's Texas AI factory shows why US manufacturing still needs Taiwan",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260724PD219/wistron-texas-electronics-manufacturing-taiwan-usa.html"
-    },
-    {
-      "title": "Japan's Nikkei falls more than 2% on AI spending worries",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/japans-nikkei-falls-more-2-ai-spending-worries-6275061"
-    },
-    {
-      "title": "New Zealand medtech firm Wellumio raises $9.8m",
+      "title": "Series SEA: Who\u2019s investing in the region\u2019s biotech startups?",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/new-zealand-medtech-startup-wellumio-nets-7-3m-pre-series-a"
+      "url": "https://www.techinasia.com/top-sea-investors-biotech"
+    },
+    {
+      "title": "India's HCLTech to set up $1.48 billion AI data center along with domestic startup",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/indias-hcltech-set-up-148-billion-ai-data-center-along-domestic-startup-6275501"
+    },
+    {
+      "title": "Samsung, LG showcase AI-era displays for humanoid robots",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260724PD229/sdc-lg-display-robot-automotive-display.html"
+    },
+    {
+      "title": "Samsung Electro-Mechanics wins US$200 million AI server capacitor order",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260724VL215/semco-capacitor-ai-server-mlcc-silicon.html"
+    },
+    {
+      "title": "India's chip plants face harder test: finding repeat customers.",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260724VL212/india-ic-manufacturing-fab-automotive-electronics-demand.html"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -156,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 48,
-      "relevant": 35,
+      "fetched": 65,
+      "relevant": 50,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +166,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 12,
+      "relevant": 8,
       "sponsored_skipped": 0,
       "published": 2,
       "error": null
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null

@@ -1,103 +1,127 @@
 [
   {
     "date": "2026-07-24",
-    "title": "Intel reportedly considers SK Hynix for Ohio fab partnership",
-    "summary": "Intel is considering SK Hynix as a potential partner to help operate its delayed Ohio semiconductor project, Semafor reported, after the South Korean memory maker formally denied pursuing an acquisition of the site.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Series SEA: Who’s investing in the region’s biotech startups?",
+    "summary": "We've compiled a list of investors that are pouring money into Southeast Asia’s biotech startups.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "Semiconductor"
+      "Biotechnology"
     ],
-    "url": "https://www.digitimes.com/news/a20260724VL209/intel-sk-hynix-partnership-acquisition.html"
+    "url": "https://www.techinasia.com/top-sea-investors-biotech"
   },
   {
     "date": "2026-07-24",
-    "title": "India approves two electronics manufacturing clusters in Tamil Nadu",
-    "summary": "India's central government has approved two Electronics Manufacturing Clusters (EMCs) in Tamil Nadu, at Manallur and Pillapaikkam, with a combined project cost of INR10.12 billion (US$104.75 million), in a move aimed at strengthening the state's electronics ecosystem and advancing the country's self-reliance drive. Uni",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260724VL206/electronics-manufacturing-government-exports-semicon.html"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "Commentary: Wistron's Texas AI factory shows why US manufacturing still needs Taiwan",
-    "summary": "Wistron's opening of its D1 AI smart factory in Fort Worth , Texas, marks a new milestone for Taiwan's downstream electronics manufacturers. The plant will support the first US mass production of Nvidia GB300 compute boards, a development with far-reaching implications for Taiwan, the US and the global AI industry.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260724PD219/wistron-texas-electronics-manufacturing-taiwan-usa.html"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "Japan's Nikkei falls more than 2% on AI spending worries",
-    "summary": "Japan's Nikkei falls more than 2% on AI spending worries",
+    "title": "India's HCLTech to set up $1.48 billion AI data center along with domestic startup",
+    "summary": "India's HCLTech to set up $1.48 billion AI data center along with domestic startup",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/japans-nikkei-falls-more-2-ai-spending-worries-6275061"
+    "url": "https://www.channelnewsasia.com/business/indias-hcltech-set-up-148-billion-ai-data-center-along-domestic-startup-6275501"
   },
   {
     "date": "2026-07-24",
-    "title": "New Zealand medtech firm Wellumio raises $9.8m",
-    "summary": "Founded in 2019, Wellumio raised NZ$4.25 million (US$2.47 million) in seed funding in 2023.",
+    "title": "Samsung, LG showcase AI-era displays for humanoid robots",
+    "summary": "Samsung Display (SDC) and LG Display (LGD) have unveiled a range of display concepts for next-generation AI applications at the 2026 Korea Display Exhibition (K-Display) in Seoul, ranging from face displays for humanoid robots and AI smart glasses to hidden or retractable in-car screens, building upon the companies' fo",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260724PD229/sdc-lg-display-robot-automotive-display.html"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "Samsung Electro-Mechanics wins US$200 million AI server capacitor order",
+    "summary": "Samsung Electro-Mechanics disclosed on July 23 that it signed a KRW295.12 billion (US$200 million) supply contract with a major global company for multilayer ceramic capacitors used in artificial intelligence servers and data center systems.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260724VL215/semco-capacitor-ai-server-mlcc-silicon.html"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "India's chip plants face harder test: finding repeat customers.",
+    "summary": "India's first major semiconductor customers are likely to come through existing global supply chains rather than domestic electronics brands immediately replacing imported components, according to analysts.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Electronics",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260724VL212/india-ic-manufacturing-fab-automotive-electronics-demand.html"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "Trump under pressure from all sides over Chinese AI surge",
+    "summary": "Trump under pressure from all sides over Chinese AI surge",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/world/trump-us-china-ai-surge-open-source-models-kimi-k3-6275411"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "India's Coforge secures over $230 million AI transformation contract with European client",
+    "summary": "India's Coforge secures over $230 million AI transformation contract with European client",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/indias-coforge-secures-over-230-million-ai-transformation-contract-european-client-6275396"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "B Capital names new chief AI officer",
+    "summary": "The hire adds an AI lead at B Capital, which invests from seed to early- and late-stage venture growth across technology, healthcare, and resilience tech.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "Pharmaceutical"
+      "AI"
     ],
-    "url": "https://www.techinasia.com/new-zealand-medtech-startup-wellumio-nets-7-3m-pre-series-a"
+    "url": "https://www.techinasia.com/us-ai-platform-palebluedot-valued-at-1b-in-b-capital-led-round"
   },
   {
     "date": "2026-07-24",
-    "title": "Nvidia signs $1.5b Amkor US chip-packaging deal",
-    "summary": "It also follows Amkor’s 10-year partnership with TSMC to expand US advanced packaging capacity, including in Arizona.",
+    "title": "Nvidia, KAIST to invest $300m in AI research center",
+    "summary": "The center will develop Korean-language and industry-specific AI systems over an initial five-year period.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.techinasia.com/taiwans-ase-forecasts-its-advanced-chip-packaging-to-hit-3-2b"
+    "url": "https://www.techinasia.com/nvidia-intel-join-ai-startup-prime-intellects-130m"
   },
   {
     "date": "2026-07-24",
-    "title": "Alibaba Cloud deploys Qwen3.8 on Zhenwu chip",
-    "summary": "Alibaba said this makes it the first supernode in China to run a large model with more than 2 trillion parameters.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/alibaba-cloud-holds-401-chinas-ai-cloud-market"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "Thailand's new investment jumps 37% in Jan-June on AI boom",
-    "summary": "Thailand's new investment jumps 37% in Jan-June on AI boom",
+    "title": "Vietnam tech giant FPT aims to tap Thai demand for AI",
+    "summary": "Vietnam tech giant FPT aims to tap Thai demand for AI",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/thailand-s-new-investment-jumps-37-in-jan-june-on-ai-boom"
+    "url": "https://asia.nikkei.com/business/technology/vietnam-tech-giant-fpt-aims-to-tap-thai-demand-for-ai"
   },
   {
     "date": "2026-07-24",
-    "title": "Japan's AI play and Taiwan's space ambitions",
-    "summary": "Japan's AI play and Taiwan's space ambitions",
+    "title": "Thailand's investment applications jump 37% in Jan-June on AI boom",
+    "summary": "Thailand's investment applications jump 37% in Jan-June on AI boom",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/techasia/japan-s-ai-play-and-taiwan-s-space-ambitions"
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/thailand-s-investment-applications-jump-37-in-jan-june-on-ai-boom"
   },
   {
     "date": "2026-07-23",
