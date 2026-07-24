@@ -1,4 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-23T08:01:59+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 23, 2026</title><link href="https://asiatechfeed.com/2026/07/23/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 23, 2026" /><published>2026-07-23T08:00:51+00:00</published><updated>2026-07-23T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/07/23/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/23/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-24T00:04:45+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 24, 2026</title><link href="https://asiatechfeed.com/2026/07/24/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 24, 2026" /><published>2026-07-24T00:03:22+00:00</published><updated>2026-07-24T00:03:22+00:00</updated><id>https://asiatechfeed.com/2026/07/24/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/24/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Wistron says growth is strong, but transformation remains incomplete</span></td>
+  <td class="col-summary">Wistron said its revenue and profit continue to rise, and its global manufacturing platform is opening new growth avenues for readers watching the electronics, AI, and industrial supply chains. The Taiwan-based company is pushing into higher-margin businesses while demand remains strong across key markets worldwide.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260723PD219/wistron-growth-revenue-manufacturing-profit.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Nvidia 800V HVDC enters production in 1Q27, Delta set for 2Q ramp</span></td>
+  <td class="col-summary">SemiAnalysis recently forecast that large-scale deployment of Nvidia's native single-ended 800V high-voltage direct current power architecture could slip from the market's previous expectation of 2027 to beyond 2028, raising concerns over growth prospects for the AI power supply chain.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260723PD209/nvidia-production-forecast-2027-market.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Chinese AI labs close gap with Anthropic after Claude Code leak</span></td>
+  <td class="col-summary">A springtime source-code exposure reframed the AI race around "harness" and memory engineering rather than raw model scale — and a wave of Chinese models built around exactly those ideas has since arrived within striking distance of Anthropic's flagship.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260723VL209/claude-anthropic-moonshot-kimi-k3-alibaba.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Six IPOs this year, most trading below issue price: What this means for Singapore's market reforms</span></td>
+  <td class="col-summary">Analysts say the underwhelming showing reflects thin liquidity and a global tilt towards AI stocks more than a failure of Singapore's push to revive its equity market.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/sgx-ipo-price-stocks-justco-foundation-healthcare-6270171" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: Why the US is losing Chinese AI stars</span></td>
+  <td class="col-summary">More entrepreneurs from China believe there are now greater opportunities at home than in Silicon Valley, says this Financial Times writer.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/us-losing-chinese-ai-founders-moonshotai-6272996" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns</span></td>
+  <td class="col-summary">SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/sap-cfo-says-ai-must-move-beyond-chatbot-low-hanging-fruit-seeing-returns-6274751" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Wiz.ai’s Jennifer Zhang exits president role to build new AI startup</span></td>
+  <td class="col-summary">Zhang is moving to the US to build AchieveGo, an AI startup developing evaluation infrastructure for AI agents.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/wiz-ais-jennifer-zhang-exits-president-role-to-build-us-ai-startup" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">SK Telecom to set up AI data center subsidiary</span></td>
+  <td class="col-summary">SK Telecom also appointed Chung Suk-geun as CEO of SK Hyper, the new AI data center subsidiary.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-telecoms-ai-data-center-revenue-jumps-89" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">OpenAI launches Presence for enterprise AI agents</span></td>
+  <td class="col-summary">Presence is available through OpenAI’s Forward Deployed Engineers and select global systems integrators, rather than as a self-service offering.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-built-gptred-test-prompt-injection" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Singapore's GIC eyes more investments in companies leveraging AI</span></td>
+  <td class="col-summary">Singapore's GIC eyes more investments in companies leveraging AI</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/singapore-s-gic-eyes-more-investments-in-companies-leveraging-ai" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Infosys taps veteran insider Ashiss Kumar Dash as next CEO amid AI threat</span></td>
+  <td class="col-summary">Infosys taps veteran insider Ashiss Kumar Dash as next CEO amid AI threat</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/infosys-taps-veteran-insider-ashiss-kumar-dash-as-next-ceo-amid-ai-threat" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Hyundai profit falls 21% on US tariffs, supply chain disruption</span></td>
+  <td class="col-summary">Hyundai profit falls 21% on US tariffs, supply chain disruption</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/automobiles/hyundai-profit-falls-21-on-us-tariffs-supply-chain-disruption" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Wistron says growth is strong, but transformation remains incomplete Wistron said its revenue and profit continue to rise, and its global manufacturing platform is opening new growth avenues for readers watching the electronics, AI, and industrial supply chains. The Taiwan-based company is pushing into higher-margin businesses while demand remains strong across key markets worldwide. ElectronicsLogistics Read 2 DigiTimes Nvidia 800V HVDC enters production in 1Q27, Delta set for 2Q ramp SemiAnalysis recently forecast that large-scale deployment of Nvidia's native single-ended 800V high-voltage direct current power architecture could slip from the market's previous expectation of 2027 to beyond 2028, raising concerns over growth prospects for the AI power supply chain. AILogistics Read 3 DigiTimes Chinese AI labs close gap with Anthropic after Claude Code leak A springtime source-code exposure reframed the AI race around "harness" and memory engineering rather than raw model scale — and a wave of Chinese models built around exactly those ideas has since arrived within striking distance of Anthropic's flagship. AI Read 4 CNA Six IPOs this year, most trading below issue price: What this means for Singapore's market reforms Analysts say the underwhelming showing reflects thin liquidity and a global tilt towards AI stocks more than a failure of Singapore's push to revive its equity market. AI Read 5 CNA Commentary: Why the US is losing Chinese AI stars More entrepreneurs from China believe there are now greater opportunities at home than in Silicon Valley, says this Financial Times writer. AI Read 6 CNA SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns AI Read 7 TechAsia Wiz.ai’s Jennifer Zhang exits president role to build new AI startup Zhang is moving to the US to build AchieveGo, an AI startup developing evaluation infrastructure for AI agents. AI Read 8 TechAsia SK Telecom to set up AI data center subsidiary SK Telecom also appointed Chung Suk-geun as CEO of SK Hyper, the new AI data center subsidiary. AI Read 9 TechAsia OpenAI launches Presence for enterprise AI agents Presence is available through OpenAI’s Forward Deployed Engineers and select global systems integrators, rather than as a self-service offering. AI Read 10 NikkeiAsia Singapore's GIC eyes more investments in companies leveraging AI Singapore's GIC eyes more investments in companies leveraging AI AI Read 11 NikkeiAsia Infosys taps veteran insider Ashiss Kumar Dash as next CEO amid AI threat Infosys taps veteran insider Ashiss Kumar Dash as next CEO amid AI threat AI Read 12 NikkeiAsia Hyundai profit falls 21% on US tariffs, supply chain disruption Hyundai profit falls 21% on US tariffs, supply chain disruption Logistics Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 23, 2026</title><link href="https://asiatechfeed.com/2026/07/23/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 23, 2026" /><published>2026-07-23T08:00:51+00:00</published><updated>2026-07-23T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/07/23/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/23/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -803,105 +912,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/australia-unveils-ai-standards-to-shape-roll-out-of-technology" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Where authorities are restricting data centres amid AI boom Where authorities are restricting data centres amid AI boom AI Read 2 TechAsia Anthropic explains the strict token budgets required to scale Angela Jiang and Katelyn Lesse explain why enterprise AI depends on layered architecture, token strategy, and reliable execution, not just better models. AI Read 3 CNA India turns to AI to improve healthcare access In the second part of a series on India's artificial intelligence push, CNA looks at how hospitals are using AI to detect eye diseases and analyse medical scans, while doctors stress the technology remains a tool, not a replacement. AI Read 4 TechAsia NTT Docomo spinout Robots raises seed funding The company will use the funds to develop its robot integrated control platform and physical AI, with security sites as its first target market. Automation Read 5 TechAsia Intel deploys ASML High-NA for Panther Lake chips ASML says the EXE:5000 can print more than 185 wafers an hour and is aimed at high-volume manufacturing in 2025 and 2026. Semiconductor Read 6 DigiTimes PSMC lifts DRAM foundry prices 45% as 3D AI Foundry targets 20% revenue share Major cloud service providers (CSPs) have front-loaded purchases of future DRAM capacity, and the global memory supply-demand gap is expected to last through 2027. Powerchip Semiconductor Manufacturing (PSMC) said on a July 14, 2026, online earnings call that it raised DRAM wafer start prices in July by about 45% from SemiconductorAI Read 7 DigiTimes Wingtech Technology warns of first-half 2026 loss amid control limits at Nexperia Wingtech Technology said its first-half 2026 results are likely to swing to a loss, reflecting the impact of restricted control over its Nexperia unit in Europe. The outlook matters for global electronics supply chains, where any prolonged disruption at a major semiconductor supplier could affect customers, investors, SemiconductorElectronicsLogistics Read 8 DigiTimes ASML raises 2026 sales outlook as AI-fueled logic and memory demand accelerates Dutch lithography giant ASML reported total net sales of EUR9.3 billion for the second quarter of 2026, exceeding its own guidance, as customers accelerated capacity expansion plans amid continued AI-driven demand for advanced logic and memory chips. Semiconductor Read 9 EW UMC shipping Sipho wafers SILITH Technology, a silicon photonics fabless company, and UMC have announced the first mass-production wafer delivery of photonic ICs from UMC’s Singapore fab. The collaboration combines SILITH’s silicon photonics innovation ... The post UMC shipping Sipho wafers appeared first on Electronics Weekly . ElectronicsSemiconductor Read 10 CNA Intel turns to next-generation ASML tool to help make its laptop chips Intel turns to next-generation ASML tool to help make its laptop chips Semiconductor Read 11 EETAsia INFINITIX, SAINS Partner to Strengthen Malaysia’s Sovereign AI Infrastructure INFINITIX and SAINS will develop sovereign AI infrastructure and private GPU cloud services to accelerate Malaysia's AI ecosystem. The post INFINITIX, SAINS Partner to Strengthen Malaysia’s Sovereign AI Infrastructure appeared first on EE Times Asia . AI Read 12 EETAsia Alif Semiconductor Bets on Edge AI Leadership with Next-gen AI MCUs At COMPUTEX 2026, Alif Semiconductor highlighted how AI-enabled MCUs are bringing generative AI to battery-powered edge devices. The post Alif Semiconductor Bets on Edge AI Leadership with Next-gen AI MCUs appeared first on EE Times Asia . SemiconductorAI Read 13 NikkeiAsia Australia unveils AI standards to shape roll out of technology Australia unveils AI standards to shape roll out of technology AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 14, 2026</title><link href="https://asiatechfeed.com/2026/07/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 14, 2026" /><published>2026-07-14T08:00:57+00:00</published><updated>2026-07-14T08:00:57+00:00</updated><id>https://asiatechfeed.com/2026/07/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SK Telecom to lead South Korea’s AI network project</span></td>
-  <td class="col-summary">SK Telecom will compare equipment from Samsung Electronics, HFR, Ericsson, and Nokia.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-telecom-builds-ai-factory-software-with-nvidia" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">India's AI training boom draws professionals seeking an edge, but questions remain over quality</span></td>
-  <td class="col-summary">In the first of a two-part series on how India is preparing for an AI-powered future, CNA examines the growing business of artificial intelligence upskilling and the questions surrounding the value of these programmes.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/india-artificial-intelligence-upskilling-boom-working-professionals-6252671" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Automating the enterprise with AI workforce layers</span></td>
-  <td class="col-summary">With 14,000 global users, Diaflow replaces rigid enterprise software with AI workers that can execute multi-step logic pipelines automatically.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/automating-enterprise-ai-workforce-layers" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Rambus unveils DDR5 9600 chipset for next-generation AI servers</span></td>
-  <td class="col-summary">Rambus has introduced a new DDR5 9600 server RDIMM chipset aimed at faster, denser data center memory systems. The move matters beyond one supplier because higher bandwidth and better power efficiency are becoming essential for AI inference, cloud computing, and HPC platforms used by businesses and consumers worldwide.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260714PR204/rambus-ddr5-chipset-ai-server-data-center.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Commentary: AI computing power map reshapes ASEAN, with Singapore still central</span></td>
-  <td class="col-summary">In the second quarter of 2025, DIGITIMES visited the rapidly expanding Johor-Singapore Special Economic Zone (JS-SEZ) and Wiwynn's massive AI server system integration (SI) factory. Microsoft also granted a media interview, using the occasion to discuss Singapore's role as the hub of the broader ASEAN AI ecosystem.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260714PD224/digitimes-asean-ai-singapore-2025.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">India's LTM expects AI revenue to outpace traditional services, CEO says</span></td>
-  <td class="col-summary">India's LTM expects AI revenue to outpace traditional services, CEO says</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/indias-ltm-expects-ai-revenue-outpace-traditional-services-ceo-says-6252781" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">HubSpot’s CRO treats early AI revenue as a hidden trap</span></td>
-  <td class="col-summary">Mark Roberge warns AI founders that early sales do not justify scaling. Startups must prove consistent product value before adding headcount.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-startup-trap-early-sales" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">SoftBank's Son says AI will need $5 trillion per year by 2040, dismisses bubble talk</span></td>
-  <td class="col-summary">SoftBank's Son says AI will need $5 trillion per year by 2040, dismisses bubble talk</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/softbanks-son-says-ai-will-need-5-trillion-year-2040-dismisses-bubble-talk-6252696" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Ingenic's first-half profit set to jump more than 400% as memory super-cycle lifts chip prices</span></td>
-  <td class="col-summary">Chinese chip designer Ingenic Semiconductor expects its net profit for the first half of 2026 to surge between 431% and 531% year-over-year, to a range of CNY1.079 billion (approx. US$159.14 million) to CNY1.282 billion, as a memory-market super-cycle drives up prices for its DRAM and Flash products, according to a pre</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260714PR202/dram-profit-chips-earnings-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">SoftBank's Son says AI boom will require $5tn in annual investment</span></td>
-  <td class="col-summary">SoftBank's Son says AI boom will require $5tn in annual investment</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/softbank/softbank-s-son-says-ai-boom-will-require-5tn-in-annual-investment" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan enacts social media law requiring flagging of AI content in elections</span></td>
-  <td class="col-summary">Japan enacts social media law requiring flagging of AI content in elections</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/politics/japan-enacts-social-media-law-requiring-flagging-of-ai-content-in-elections" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia SK Telecom to lead South Korea’s AI network project SK Telecom will compare equipment from Samsung Electronics, HFR, Ericsson, and Nokia. ElectronicsAI Read 2 CNA India's AI training boom draws professionals seeking an edge, but questions remain over quality In the first of a two-part series on how India is preparing for an AI-powered future, CNA examines the growing business of artificial intelligence upskilling and the questions surrounding the value of these programmes. AI Read 3 TechAsia Automating the enterprise with AI workforce layers With 14,000 global users, Diaflow replaces rigid enterprise software with AI workers that can execute multi-step logic pipelines automatically. AI Read 4 DigiTimes Rambus unveils DDR5 9600 chipset for next-generation AI servers Rambus has introduced a new DDR5 9600 server RDIMM chipset aimed at faster, denser data center memory systems. The move matters beyond one supplier because higher bandwidth and better power efficiency are becoming essential for AI inference, cloud computing, and HPC platforms used by businesses and consumers worldwide. AISemiconductor Read 5 DigiTimes Commentary: AI computing power map reshapes ASEAN, with Singapore still central In the second quarter of 2025, DIGITIMES visited the rapidly expanding Johor-Singapore Special Economic Zone (JS-SEZ) and Wiwynn's massive AI server system integration (SI) factory. Microsoft also granted a media interview, using the occasion to discuss Singapore's role as the hub of the broader ASEAN AI ecosystem. AI Read 6 CNA India's LTM expects AI revenue to outpace traditional services, CEO says India's LTM expects AI revenue to outpace traditional services, CEO says AI Read 7 TechAsia HubSpot’s CRO treats early AI revenue as a hidden trap Mark Roberge warns AI founders that early sales do not justify scaling. Startups must prove consistent product value before adding headcount. AI Read 8 CNA SoftBank's Son says AI will need $5 trillion per year by 2040, dismisses bubble talk SoftBank's Son says AI will need $5 trillion per year by 2040, dismisses bubble talk AI Read 9 DigiTimes Ingenic's first-half profit set to jump more than 400% as memory super-cycle lifts chip prices Chinese chip designer Ingenic Semiconductor expects its net profit for the first half of 2026 to surge between 431% and 531% year-over-year, to a range of CNY1.079 billion (approx. US$159.14 million) to CNY1.282 billion, as a memory-market super-cycle drives up prices for its DRAM and Flash products, according to a pre Semiconductor Read 10 NikkeiAsia SoftBank's Son says AI boom will require $5tn in annual investment SoftBank's Son says AI boom will require $5tn in annual investment AI Read 11 NikkeiAsia Japan enacts social media law requiring flagging of AI content in elections Japan enacts social media law requiring flagging of AI content in elections AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Where authorities are restricting data centres amid AI boom Where authorities are restricting data centres amid AI boom AI Read 2 TechAsia Anthropic explains the strict token budgets required to scale Angela Jiang and Katelyn Lesse explain why enterprise AI depends on layered architecture, token strategy, and reliable execution, not just better models. AI Read 3 CNA India turns to AI to improve healthcare access In the second part of a series on India's artificial intelligence push, CNA looks at how hospitals are using AI to detect eye diseases and analyse medical scans, while doctors stress the technology remains a tool, not a replacement. AI Read 4 TechAsia NTT Docomo spinout Robots raises seed funding The company will use the funds to develop its robot integrated control platform and physical AI, with security sites as its first target market. Automation Read 5 TechAsia Intel deploys ASML High-NA for Panther Lake chips ASML says the EXE:5000 can print more than 185 wafers an hour and is aimed at high-volume manufacturing in 2025 and 2026. Semiconductor Read 6 DigiTimes PSMC lifts DRAM foundry prices 45% as 3D AI Foundry targets 20% revenue share Major cloud service providers (CSPs) have front-loaded purchases of future DRAM capacity, and the global memory supply-demand gap is expected to last through 2027. Powerchip Semiconductor Manufacturing (PSMC) said on a July 14, 2026, online earnings call that it raised DRAM wafer start prices in July by about 45% from SemiconductorAI Read 7 DigiTimes Wingtech Technology warns of first-half 2026 loss amid control limits at Nexperia Wingtech Technology said its first-half 2026 results are likely to swing to a loss, reflecting the impact of restricted control over its Nexperia unit in Europe. The outlook matters for global electronics supply chains, where any prolonged disruption at a major semiconductor supplier could affect customers, investors, SemiconductorElectronicsLogistics Read 8 DigiTimes ASML raises 2026 sales outlook as AI-fueled logic and memory demand accelerates Dutch lithography giant ASML reported total net sales of EUR9.3 billion for the second quarter of 2026, exceeding its own guidance, as customers accelerated capacity expansion plans amid continued AI-driven demand for advanced logic and memory chips. Semiconductor Read 9 EW UMC shipping Sipho wafers SILITH Technology, a silicon photonics fabless company, and UMC have announced the first mass-production wafer delivery of photonic ICs from UMC’s Singapore fab. The collaboration combines SILITH’s silicon photonics innovation ... The post UMC shipping Sipho wafers appeared first on Electronics Weekly . ElectronicsSemiconductor Read 10 CNA Intel turns to next-generation ASML tool to help make its laptop chips Intel turns to next-generation ASML tool to help make its laptop chips Semiconductor Read 11 EETAsia INFINITIX, SAINS Partner to Strengthen Malaysia’s Sovereign AI Infrastructure INFINITIX and SAINS will develop sovereign AI infrastructure and private GPU cloud services to accelerate Malaysia's AI ecosystem. The post INFINITIX, SAINS Partner to Strengthen Malaysia’s Sovereign AI Infrastructure appeared first on EE Times Asia . AI Read 12 EETAsia Alif Semiconductor Bets on Edge AI Leadership with Next-gen AI MCUs At COMPUTEX 2026, Alif Semiconductor highlighted how AI-enabled MCUs are bringing generative AI to battery-powered edge devices. The post Alif Semiconductor Bets on Edge AI Leadership with Next-gen AI MCUs appeared first on EE Times Asia . SemiconductorAI Read 13 NikkeiAsia Australia unveils AI standards to shape roll out of technology Australia unveils AI standards to shape roll out of technology AI Read]]></summary></entry></feed>
