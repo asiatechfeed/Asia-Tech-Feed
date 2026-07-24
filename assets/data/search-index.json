@@ -1,137 +1,103 @@
 [
   {
     "date": "2026-07-24",
-    "title": "Wistron says growth is strong, but transformation remains incomplete",
-    "summary": "Wistron said its revenue and profit continue to rise, and its global manufacturing platform is opening new growth avenues for readers watching the electronics, AI, and industrial supply chains. The Taiwan-based company is pushing into higher-margin businesses while demand remains strong across key markets worldwide.",
+    "title": "Intel reportedly considers SK Hynix for Ohio fab partnership",
+    "summary": "Intel is considering SK Hynix as a potential partner to help operate its delayed Ohio semiconductor project, Semafor reported, after the South Korean memory maker formally denied pursuing an acquisition of the site.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260724VL209/intel-sk-hynix-partnership-acquisition.html"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "India approves two electronics manufacturing clusters in Tamil Nadu",
+    "summary": "India's central government has approved two Electronics Manufacturing Clusters (EMCs) in Tamil Nadu, at Manallur and Pillapaikkam, with a combined project cost of INR10.12 billion (US$104.75 million), in a move aimed at strengthening the state's electronics ecosystem and advancing the country's self-reliance drive. Uni",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260724VL206/electronics-manufacturing-government-exports-semicon.html"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "Commentary: Wistron's Texas AI factory shows why US manufacturing still needs Taiwan",
+    "summary": "Wistron's opening of its D1 AI smart factory in Fort Worth , Texas, marks a new milestone for Taiwan's downstream electronics manufacturers. The plant will support the first US mass production of Nvidia GB300 compute boards, a development with far-reaching implications for Taiwan, the US and the global AI industry.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Electronics",
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260723PD219/wistron-growth-revenue-manufacturing-profit.html"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "Nvidia 800V HVDC enters production in 1Q27, Delta set for 2Q ramp",
-    "summary": "SemiAnalysis recently forecast that large-scale deployment of Nvidia's native single-ended 800V high-voltage direct current power architecture could slip from the market's previous expectation of 2027 to beyond 2028, raising concerns over growth prospects for the AI power supply chain.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260723PD209/nvidia-production-forecast-2027-market.html"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "Chinese AI labs close gap with Anthropic after Claude Code leak",
-    "summary": "A springtime source-code exposure reframed the AI race around \"harness\" and memory engineering rather than raw model scale — and a wave of Chinese models built around exactly those ideas has since arrived within striking distance of Anthropic's flagship.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260723VL209/claude-anthropic-moonshot-kimi-k3-alibaba.html"
+    "url": "https://www.digitimes.com/news/a20260724PD219/wistron-texas-electronics-manufacturing-taiwan-usa.html"
   },
   {
     "date": "2026-07-24",
-    "title": "Six IPOs this year, most trading below issue price: What this means for Singapore's market reforms",
-    "summary": "Analysts say the underwhelming showing reflects thin liquidity and a global tilt towards AI stocks more than a failure of Singapore's push to revive its equity market.",
+    "title": "Japan's Nikkei falls more than 2% on AI spending worries",
+    "summary": "Japan's Nikkei falls more than 2% on AI spending worries",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/singapore/sgx-ipo-price-stocks-justco-foundation-healthcare-6270171"
+    "url": "https://www.channelnewsasia.com/business/japans-nikkei-falls-more-2-ai-spending-worries-6275061"
   },
   {
     "date": "2026-07-24",
-    "title": "Commentary: Why the US is losing Chinese AI stars",
-    "summary": "More entrepreneurs from China believe there are now greater opportunities at home than in Silicon Valley, says this Financial Times writer.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/commentary/us-losing-chinese-ai-founders-moonshotai-6272996"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns",
-    "summary": "SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/sap-cfo-says-ai-must-move-beyond-chatbot-low-hanging-fruit-seeing-returns-6274751"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "Wiz.ai’s Jennifer Zhang exits president role to build new AI startup",
-    "summary": "Zhang is moving to the US to build AchieveGo, an AI startup developing evaluation infrastructure for AI agents.",
+    "title": "New Zealand medtech firm Wellumio raises $9.8m",
+    "summary": "Founded in 2019, Wellumio raised NZ$4.25 million (US$2.47 million) in seed funding in 2023.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "AI"
+      "Pharmaceutical"
     ],
-    "url": "https://www.techinasia.com/wiz-ais-jennifer-zhang-exits-president-role-to-build-us-ai-startup"
+    "url": "https://www.techinasia.com/new-zealand-medtech-startup-wellumio-nets-7-3m-pre-series-a"
   },
   {
     "date": "2026-07-24",
-    "title": "SK Telecom to set up AI data center subsidiary",
-    "summary": "SK Telecom also appointed Chung Suk-geun as CEO of SK Hyper, the new AI data center subsidiary.",
+    "title": "Nvidia signs $1.5b Amkor US chip-packaging deal",
+    "summary": "It also follows Amkor’s 10-year partnership with TSMC to expand US advanced packaging capacity, including in Arizona.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "AI"
+      "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/sk-telecoms-ai-data-center-revenue-jumps-89"
+    "url": "https://www.techinasia.com/taiwans-ase-forecasts-its-advanced-chip-packaging-to-hit-3-2b"
   },
   {
     "date": "2026-07-24",
-    "title": "OpenAI launches Presence for enterprise AI agents",
-    "summary": "Presence is available through OpenAI’s Forward Deployed Engineers and select global systems integrators, rather than as a self-service offering.",
+    "title": "Alibaba Cloud deploys Qwen3.8 on Zhenwu chip",
+    "summary": "Alibaba said this makes it the first supernode in China to run a large model with more than 2 trillion parameters.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "AI"
+      "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/openai-built-gptred-test-prompt-injection"
+    "url": "https://www.techinasia.com/alibaba-cloud-holds-401-chinas-ai-cloud-market"
   },
   {
     "date": "2026-07-24",
-    "title": "Singapore's GIC eyes more investments in companies leveraging AI",
-    "summary": "Singapore's GIC eyes more investments in companies leveraging AI",
+    "title": "Thailand's new investment jumps 37% in Jan-June on AI boom",
+    "summary": "Thailand's new investment jumps 37% in Jan-June on AI boom",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/markets/singapore-s-gic-eyes-more-investments-in-companies-leveraging-ai"
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/thailand-s-new-investment-jumps-37-in-jan-june-on-ai-boom"
   },
   {
     "date": "2026-07-24",
-    "title": "Infosys taps veteran insider Ashiss Kumar Dash as next CEO amid AI threat",
-    "summary": "Infosys taps veteran insider Ashiss Kumar Dash as next CEO amid AI threat",
+    "title": "Japan's AI play and Taiwan's space ambitions",
+    "summary": "Japan's AI play and Taiwan's space ambitions",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/technology/infosys-taps-veteran-insider-ashiss-kumar-dash-as-next-ceo-amid-ai-threat"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "Hyundai profit falls 21% on US tariffs, supply chain disruption",
-    "summary": "Hyundai profit falls 21% on US tariffs, supply chain disruption",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Logistics"
-    ],
-    "url": "https://asia.nikkei.com/business/automobiles/hyundai-profit-falls-21-on-us-tariffs-supply-chain-disruption"
+    "url": "https://asia.nikkei.com/techasia/japan-s-ai-play-and-taiwan-s-space-ambitions"
   },
   {
     "date": "2026-07-23",

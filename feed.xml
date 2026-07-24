@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-24T00:04:45+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 24, 2026</title><link href="https://asiatechfeed.com/2026/07/24/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 24, 2026" /><published>2026-07-24T00:03:22+00:00</published><updated>2026-07-24T00:03:22+00:00</updated><id>https://asiatechfeed.com/2026/07/24/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/24/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-24T03:29:14+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 24, 2026</title><link href="https://asiatechfeed.com/2026/07/24/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 24, 2026" /><published>2026-07-24T03:28:19+00:00</published><updated>2026-07-24T03:28:19+00:00</updated><id>https://asiatechfeed.com/2026/07/24/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/24/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -13,101 +13,77 @@
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Wistron says growth is strong, but transformation remains incomplete</span></td>
-  <td class="col-summary">Wistron said its revenue and profit continue to rise, and its global manufacturing platform is opening new growth avenues for readers watching the electronics, AI, and industrial supply chains. The Taiwan-based company is pushing into higher-margin businesses while demand remains strong across key markets worldwide.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260723PD219/wistron-growth-revenue-manufacturing-profit.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Intel reportedly considers SK Hynix for Ohio fab partnership</span></td>
+  <td class="col-summary">Intel is considering SK Hynix as a potential partner to help operate its delayed Ohio semiconductor project, Semafor reported, after the South Korean memory maker formally denied pursuing an acquisition of the site.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260724VL209/intel-sk-hynix-partnership-acquisition.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Nvidia 800V HVDC enters production in 1Q27, Delta set for 2Q ramp</span></td>
-  <td class="col-summary">SemiAnalysis recently forecast that large-scale deployment of Nvidia's native single-ended 800V high-voltage direct current power architecture could slip from the market's previous expectation of 2027 to beyond 2028, raising concerns over growth prospects for the AI power supply chain.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260723PD209/nvidia-production-forecast-2027-market.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">India approves two electronics manufacturing clusters in Tamil Nadu</span></td>
+  <td class="col-summary">India's central government has approved two Electronics Manufacturing Clusters (EMCs) in Tamil Nadu, at Manallur and Pillapaikkam, with a combined project cost of INR10.12 billion (US$104.75 million), in a move aimed at strengthening the state's electronics ecosystem and advancing the country's self-reliance drive. Uni</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260724VL206/electronics-manufacturing-government-exports-semicon.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Chinese AI labs close gap with Anthropic after Claude Code leak</span></td>
-  <td class="col-summary">A springtime source-code exposure reframed the AI race around "harness" and memory engineering rather than raw model scale — and a wave of Chinese models built around exactly those ideas has since arrived within striking distance of Anthropic's flagship.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260723VL209/claude-anthropic-moonshot-kimi-k3-alibaba.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Commentary: Wistron's Texas AI factory shows why US manufacturing still needs Taiwan</span></td>
+  <td class="col-summary">Wistron's opening of its D1 AI smart factory in Fort Worth , Texas, marks a new milestone for Taiwan's downstream electronics manufacturers. The plant will support the first US mass production of Nvidia GB300 compute boards, a development with far-reaching implications for Taiwan, the US and the global AI industry.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260724PD219/wistron-texas-electronics-manufacturing-taiwan-usa.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Six IPOs this year, most trading below issue price: What this means for Singapore's market reforms</span></td>
-  <td class="col-summary">Analysts say the underwhelming showing reflects thin liquidity and a global tilt towards AI stocks more than a failure of Singapore's push to revive its equity market.</td>
+  <td class="col-title"><span class="article-title">Japan's Nikkei falls more than 2% on AI spending worries</span></td>
+  <td class="col-summary">Japan's Nikkei falls more than 2% on AI spending worries</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/sgx-ipo-price-stocks-justco-foundation-healthcare-6270171" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/japans-nikkei-falls-more-2-ai-spending-worries-6275061" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: Why the US is losing Chinese AI stars</span></td>
-  <td class="col-summary">More entrepreneurs from China believe there are now greater opportunities at home than in Silicon Valley, says this Financial Times writer.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/us-losing-chinese-ai-founders-moonshotai-6272996" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">New Zealand medtech firm Wellumio raises $9.8m</span></td>
+  <td class="col-summary">Founded in 2019, Wellumio raised NZ$4.25 million (US$2.47 million) in seed funding in 2023.</td>
+  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/new-zealand-medtech-startup-wellumio-nets-7-3m-pre-series-a" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns</span></td>
-  <td class="col-summary">SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/sap-cfo-says-ai-must-move-beyond-chatbot-low-hanging-fruit-seeing-returns-6274751" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia signs $1.5b Amkor US chip-packaging deal</span></td>
+  <td class="col-summary">It also follows Amkor’s 10-year partnership with TSMC to expand US advanced packaging capacity, including in Arizona.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/taiwans-ase-forecasts-its-advanced-chip-packaging-to-hit-3-2b" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Wiz.ai’s Jennifer Zhang exits president role to build new AI startup</span></td>
-  <td class="col-summary">Zhang is moving to the US to build AchieveGo, an AI startup developing evaluation infrastructure for AI agents.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/wiz-ais-jennifer-zhang-exits-president-role-to-build-us-ai-startup" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Alibaba Cloud deploys Qwen3.8 on Zhenwu chip</span></td>
+  <td class="col-summary">Alibaba said this makes it the first supernode in China to run a large model with more than 2 trillion parameters.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-cloud-holds-401-chinas-ai-cloud-market" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SK Telecom to set up AI data center subsidiary</span></td>
-  <td class="col-summary">SK Telecom also appointed Chung Suk-geun as CEO of SK Hyper, the new AI data center subsidiary.</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Thailand's new investment jumps 37% in Jan-June on AI boom</span></td>
+  <td class="col-summary">Thailand's new investment jumps 37% in Jan-June on AI boom</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-telecoms-ai-data-center-revenue-jumps-89" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/thailand-s-new-investment-jumps-37-in-jan-june-on-ai-boom" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">OpenAI launches Presence for enterprise AI agents</span></td>
-  <td class="col-summary">Presence is available through OpenAI’s Forward Deployed Engineers and select global systems integrators, rather than as a self-service offering.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-built-gptred-test-prompt-injection" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Singapore's GIC eyes more investments in companies leveraging AI</span></td>
-  <td class="col-summary">Singapore's GIC eyes more investments in companies leveraging AI</td>
+  <td class="col-title"><span class="article-title">Japan's AI play and Taiwan's space ambitions</span></td>
+  <td class="col-summary">Japan's AI play and Taiwan's space ambitions</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/singapore-s-gic-eyes-more-investments-in-companies-leveraging-ai" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Infosys taps veteran insider Ashiss Kumar Dash as next CEO amid AI threat</span></td>
-  <td class="col-summary">Infosys taps veteran insider Ashiss Kumar Dash as next CEO amid AI threat</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/infosys-taps-veteran-insider-ashiss-kumar-dash-as-next-ceo-amid-ai-threat" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Hyundai profit falls 21% on US tariffs, supply chain disruption</span></td>
-  <td class="col-summary">Hyundai profit falls 21% on US tariffs, supply chain disruption</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/automobiles/hyundai-profit-falls-21-on-us-tariffs-supply-chain-disruption" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/techasia/japan-s-ai-play-and-taiwan-s-space-ambitions" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Wistron says growth is strong, but transformation remains incomplete Wistron said its revenue and profit continue to rise, and its global manufacturing platform is opening new growth avenues for readers watching the electronics, AI, and industrial supply chains. The Taiwan-based company is pushing into higher-margin businesses while demand remains strong across key markets worldwide. ElectronicsLogistics Read 2 DigiTimes Nvidia 800V HVDC enters production in 1Q27, Delta set for 2Q ramp SemiAnalysis recently forecast that large-scale deployment of Nvidia's native single-ended 800V high-voltage direct current power architecture could slip from the market's previous expectation of 2027 to beyond 2028, raising concerns over growth prospects for the AI power supply chain. AILogistics Read 3 DigiTimes Chinese AI labs close gap with Anthropic after Claude Code leak A springtime source-code exposure reframed the AI race around "harness" and memory engineering rather than raw model scale — and a wave of Chinese models built around exactly those ideas has since arrived within striking distance of Anthropic's flagship. AI Read 4 CNA Six IPOs this year, most trading below issue price: What this means for Singapore's market reforms Analysts say the underwhelming showing reflects thin liquidity and a global tilt towards AI stocks more than a failure of Singapore's push to revive its equity market. AI Read 5 CNA Commentary: Why the US is losing Chinese AI stars More entrepreneurs from China believe there are now greater opportunities at home than in Silicon Valley, says this Financial Times writer. AI Read 6 CNA SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns AI Read 7 TechAsia Wiz.ai’s Jennifer Zhang exits president role to build new AI startup Zhang is moving to the US to build AchieveGo, an AI startup developing evaluation infrastructure for AI agents. AI Read 8 TechAsia SK Telecom to set up AI data center subsidiary SK Telecom also appointed Chung Suk-geun as CEO of SK Hyper, the new AI data center subsidiary. AI Read 9 TechAsia OpenAI launches Presence for enterprise AI agents Presence is available through OpenAI’s Forward Deployed Engineers and select global systems integrators, rather than as a self-service offering. AI Read 10 NikkeiAsia Singapore's GIC eyes more investments in companies leveraging AI Singapore's GIC eyes more investments in companies leveraging AI AI Read 11 NikkeiAsia Infosys taps veteran insider Ashiss Kumar Dash as next CEO amid AI threat Infosys taps veteran insider Ashiss Kumar Dash as next CEO amid AI threat AI Read 12 NikkeiAsia Hyundai profit falls 21% on US tariffs, supply chain disruption Hyundai profit falls 21% on US tariffs, supply chain disruption Logistics Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 23, 2026</title><link href="https://asiatechfeed.com/2026/07/23/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 23, 2026" /><published>2026-07-23T08:00:51+00:00</published><updated>2026-07-23T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/07/23/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/23/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Intel reportedly considers SK Hynix for Ohio fab partnership Intel is considering SK Hynix as a potential partner to help operate its delayed Ohio semiconductor project, Semafor reported, after the South Korean memory maker formally denied pursuing an acquisition of the site. Semiconductor Read 2 DigiTimes India approves two electronics manufacturing clusters in Tamil Nadu India's central government has approved two Electronics Manufacturing Clusters (EMCs) in Tamil Nadu, at Manallur and Pillapaikkam, with a combined project cost of INR10.12 billion (US$104.75 million), in a move aimed at strengthening the state's electronics ecosystem and advancing the country's self-reliance drive. Uni Electronics Read 3 DigiTimes Commentary: Wistron's Texas AI factory shows why US manufacturing still needs Taiwan Wistron's opening of its D1 AI smart factory in Fort Worth , Texas, marks a new milestone for Taiwan's downstream electronics manufacturers. The plant will support the first US mass production of Nvidia GB300 compute boards, a development with far-reaching implications for Taiwan, the US and the global AI industry. ElectronicsAI Read 4 CNA Japan's Nikkei falls more than 2% on AI spending worries Japan's Nikkei falls more than 2% on AI spending worries AI Read 5 TechAsia New Zealand medtech firm Wellumio raises $9.8m Founded in 2019, Wellumio raised NZ$4.25 million (US$2.47 million) in seed funding in 2023. Pharmaceutical Read 6 TechAsia Nvidia signs $1.5b Amkor US chip-packaging deal It also follows Amkor’s 10-year partnership with TSMC to expand US advanced packaging capacity, including in Arizona. Semiconductor Read 7 TechAsia Alibaba Cloud deploys Qwen3.8 on Zhenwu chip Alibaba said this makes it the first supernode in China to run a large model with more than 2 trillion parameters. Semiconductor Read 8 NikkeiAsia Thailand's new investment jumps 37% in Jan-June on AI boom Thailand's new investment jumps 37% in Jan-June on AI boom AI Read 9 NikkeiAsia Japan's AI play and Taiwan's space ambitions Japan's AI play and Taiwan's space ambitions AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 23, 2026</title><link href="https://asiatechfeed.com/2026/07/23/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 23, 2026" /><published>2026-07-23T08:00:51+00:00</published><updated>2026-07-23T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/07/23/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/23/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
