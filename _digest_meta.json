@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "count": 12,
+  "count": 9,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -10,29 +10,29 @@
   "post_file": "2026-07-24-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Wistron says growth is strong, but transformation remains incomplete",
+      "title": "Intel reportedly considers SK Hynix for Ohio fab partnership",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260723PD219/wistron-growth-revenue-manufacturing-profit.html"
+      "url": "https://www.digitimes.com/news/a20260724VL209/intel-sk-hynix-partnership-acquisition.html"
     },
     {
-      "title": "Nvidia 800V HVDC enters production in 1Q27, Delta set for 2Q ramp",
+      "title": "India approves two electronics manufacturing clusters in Tamil Nadu",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260723PD209/nvidia-production-forecast-2027-market.html"
+      "url": "https://www.digitimes.com/news/a20260724VL206/electronics-manufacturing-government-exports-semicon.html"
     },
     {
-      "title": "Chinese AI labs close gap with Anthropic after Claude Code leak",
+      "title": "Commentary: Wistron's Texas AI factory shows why US manufacturing still needs Taiwan",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260723VL209/claude-anthropic-moonshot-kimi-k3-alibaba.html"
+      "url": "https://www.digitimes.com/news/a20260724PD219/wistron-texas-electronics-manufacturing-taiwan-usa.html"
     },
     {
-      "title": "Six IPOs this year, most trading below issue price: What this means for Singapore's market reforms",
+      "title": "Japan's Nikkei falls more than 2% on AI spending worries",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/sgx-ipo-price-stocks-justco-foundation-healthcare-6270171"
+      "url": "https://www.channelnewsasia.com/business/japans-nikkei-falls-more-2-ai-spending-worries-6275061"
     },
     {
-      "title": "Commentary: Why the US is losing Chinese AI stars",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/us-losing-chinese-ai-founders-moonshotai-6272996"
+      "title": "New Zealand medtech firm Wellumio raises $9.8m",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/new-zealand-medtech-startup-wellumio-nets-7-3m-pre-series-a"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 4,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -156,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 23,
+      "fetched": 48,
+      "relevant": 35,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +168,7 @@
       "fetched": 50,
       "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
