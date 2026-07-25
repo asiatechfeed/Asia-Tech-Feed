@@ -1,39 +1,37 @@
 {
   "date": "2026-07-25",
-  "count": 15,
+  "count": 9,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
-    "NikkeiAsia",
+    "KED",
     "TechAsia"
   ],
   "post_file": "2026-07-25-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/nvidia-sk-group-unveil-500-billion-plus-ai-data-centers-initiative-memory-partnership-6277421"
-    },
-    {
-      "title": "Exclusive-Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/exclusive-its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-6277366"
-    },
-    {
-      "title": "Commentary: OpenAI\u2019s breach of Hugging Face shows AI is getting too hard to contain",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/openai-breach-hugging-face-ai-safety-6273046"
-    },
-    {
-      "title": "Google raises capex outlook as compute demand stays tight, boosting Foxconn",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260724PD220/google-demand-alphabet-foxconn-capex.html"
-    },
-    {
-      "title": "Mapping the trailblazing startups in Australia\u2019s AI sector",
+      "title": "US AI lab Prentis in talks to raise $100m at $1b valuation",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/visual-story/mapping-trailblazing-startups-australias-ai-sector"
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+    },
+    {
+      "title": "Taiwan's chip partnerships widen beyond fabs to AI, photonics and quantum",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260723VL208/taiwan-photonics-semiconductor-industry-2026-investment.html"
+    },
+    {
+      "title": "Valeo's drone-motor deal pulls a car-parts giant into France's defense-sovereignty push",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260723VL207/valeo-france-automotive-europe-supplier.html"
+    },
+    {
+      "title": "Huaqin's growing stake in Nexchip shows ODMs reaching upstream into chipmaking",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260723VL206/nexchip-huaqin-design-capacity.html"
+    },
+    {
+      "title": "Morgan Stanley says SpaceX slide may imply no AI value",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/spacex-acquires-cursor-60b-stock-deal"
     }
   ],
   "source_stats": [
@@ -50,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 4,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -151,14 +149,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 75,
-      "relevant": 57,
+      "fetched": 35,
+      "relevant": 26,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +167,7 @@
       "fetched": 50,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -178,7 +176,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -194,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
