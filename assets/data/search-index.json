@@ -1,5 +1,171 @@
 [
   {
+    "date": "2026-07-25",
+    "title": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
+    "summary": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/nvidia-sk-group-unveil-500-billion-plus-ai-data-centers-initiative-memory-partnership-6277421"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Exclusive-Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
+    "summary": "Exclusive-Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/exclusive-its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-6277366"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Commentary: OpenAI’s breach of Hugging Face shows AI is getting too hard to contain",
+    "summary": "AI companies need to accept some uncomfortable trade-offs to make their models more secure, says Parmy Olson for Bloomberg Opinion.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/openai-breach-hugging-face-ai-safety-6273046"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Google raises capex outlook as compute demand stays tight, boosting Foxconn",
+    "summary": "Alphabet, Google's parent company, has raised its capital expenditure forecast to US$195-205 billion and signaled a significant increase again in 2027, while openly saying that AI compute remains in short supply and demand continues to outpace investment. Market participants say the message is a clear sign that the AI ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260724PD220/google-demand-alphabet-foxconn-capex.html"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Mapping the trailblazing startups in Australia’s AI sector",
+    "summary": "Mapping Australia's AI sector: Key players, top investors, and funding insights in one report.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/visual-story/mapping-trailblazing-startups-australias-ai-sector"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Huawei launches Thailand AI ecosystem initiative",
+    "summary": "Huawei Cloud also said its Agentic Infrastructure is now available in Thailand and that it launched open beta testing for CodeArts Agent in the country.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/huawei-launches-ai-data-center-infrastructure-stack"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Supporting Vietnam’s Server and Networking Supply Chain: T-Global Technology to Host Thermal Management Innovation Seminar in Hanoi",
+    "summary": "T-Global Technology will showcase advanced thermal materials and liquid cooling solutions for next-generation high-performance electronic systems in Vietnam. The post Supporting Vietnam’s Server and Networking Supply Chain: T-Global Technology to Host Thermal Management Innovation Seminar in Hanoi appeared first on EE ",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.eetasia.com/supporting-vietnams-server-and-networking-supply-chain-t-global-technology-to-host-thermal-management-innovation-seminar-in-hanoi/"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "ST Posts 26% Revenue Growth in Q2 as AI Datacenter Demand Boosts Outlook",
+    "summary": "STMicroelectronics posted strong second-quarter growth and raised its AI datacenter revenue outlook through 2027. The post ST Posts 26% Revenue Growth in Q2 as AI Datacenter Demand Boosts Outlook appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/st-posts-26-revenue-growth-in-q2-as-ai-datacenter-demand-boosts-outlook/"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Intel, Fortinet Partner to Develop Next-generation Security Processor",
+    "summary": "Intel and Fortinet are collaborating on a next-generation security processor while strengthening supply chain resilience worldwide. The post Intel, Fortinet Partner to Develop Next-generation Security Processor appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.eetasia.com/intel-fortinet-partner-to-develop-next-generation-security-processor/"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "SK Hynix seeks US engineers for 3D stacked DRAM push",
+    "summary": "SK Hynix is recruiting engineers in San Jose to co-design 3D stacked DRAM-on-logic with US customers, extending its custom memory strategy beyond high-bandwidth memory and toward on-device AI applications.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260724VL220/sk-hynix-3d-dram-ip-design.html"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Huawei founder endorses Tau Law as sole path for post-Moore chip development",
+    "summary": "Huawei founder Ren Zhengfei has publicly endorsed the company's τ (tau) Law as Huawei's sole technological path for advancing semiconductor development, underscoring six years of sustained investment in the approach. Rather than attempting to disrupt the existing semiconductor industry, Ren said the initiative aims to ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260724PD234/huawei-development-production-manufacturing-2026.html"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "HCLTech, Sarvam plan $1.5b India AI data center",
+    "summary": "The project will use HCLTech’s AI stack and Sarvam’s foundation models for public- and private-sector applications.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/hcltech-leads-indian-ai-startup-234m-funding"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "In China's 'microdrama' boom, AI moviemakers chase 2 minutes of fame",
+    "summary": "In China's 'microdrama' boom, AI moviemakers chase 2 minutes of fame",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/spotlight/big-in-asia/in-china-s-microdrama-boom-ai-moviemakers-chase-2-minutes-of-fame"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Hitachi to use AI agents for entire systems development process",
+    "summary": "Hitachi to use AI agents for entire systems development process",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/hitachi-to-use-ai-agents-for-entire-systems-development-process"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "South Korea confronts 'growth without jobs' as chip profits surge",
+    "summary": "South Korea confronts 'growth without jobs' as chip profits surge",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/economy/south-korea-confronts-growth-without-jobs-as-chip-profits-surge"
+  },
+  {
     "date": "2026-07-24",
     "title": "Series SEA: Who’s investing in the region’s biotech startups?",
     "summary": "We've compiled a list of investors that are pouring money into Southeast Asia’s biotech startups.",
