@@ -1,37 +1,38 @@
 {
   "date": "2026-07-25",
-  "count": 9,
+  "count": 8,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "KED",
+    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-25-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "US AI lab Prentis in talks to raise $100m at $1b valuation",
+      "title": "Malaysia targets 2028 to produce its first human vaccine to cut import reliance",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-targets-2028-produce-its-first-human-vaccine-cut-import-reliance-6277681"
+    },
+    {
+      "title": "Samsung, SK, Hyundai join Jensen Huang and Korea's President Lee at San Francisco AI Summit",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260725VL202/samsung-jensen-huang-hyundai-ceo-business.html"
+    },
+    {
+      "title": "89 fabs by 2030, 50 more by 2035: chip industry spreads risk through global collab",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260723PD229/infrastructure-taiwan-investment-manufacturing-demand.html"
+    },
+    {
+      "title": "PlayNitride bets on Tantium architecture, chip scaling to cut MicroLED costs 75% by 2030",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260723PD224/playnitride-2030-technology-production-efficiency.html"
+    },
+    {
+      "title": "Anthropic launches Claude Opus 5 AI model",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
-    },
-    {
-      "title": "Taiwan's chip partnerships widen beyond fabs to AI, photonics and quantum",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260723VL208/taiwan-photonics-semiconductor-industry-2026-investment.html"
-    },
-    {
-      "title": "Valeo's drone-motor deal pulls a car-parts giant into France's defense-sovereignty push",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260723VL207/valeo-france-automotive-europe-supplier.html"
-    },
-    {
-      "title": "Huaqin's growing stake in Nexchip shows ODMs reaching upstream into chipmaking",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260723VL206/nexchip-huaqin-design-capacity.html"
-    },
-    {
-      "title": "Morgan Stanley says SpaceX slide may imply no AI value",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/spacex-acquires-cursor-60b-stock-deal"
+      "url": "https://www.techinasia.com/anthropic-roll-claude-cowork-beta-mobile-web"
     }
   ],
   "source_stats": [
@@ -48,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -165,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -176,7 +177,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -192,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
