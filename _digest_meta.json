@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "count": 6,
+  "count": 5,
   "sources": [
     "DigiTimes",
     "TechAsia"
@@ -8,29 +8,29 @@
   "post_file": "2026-07-26-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "US chipmaker Microchip acquires Israeli AI firm Hailo",
+      "title": "Samsung Electronics, Broadcom sign AI chip partnership",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-ceo-thinks-us-ai-export-limits-are-backfiring"
+      "url": "https://www.techinasia.com/samsung-electronics-start-tesla-chip-production-late-2027"
     },
     {
-      "title": "Hyundai Motor Group plans move into physical AI",
+      "title": "SK hynix eyes record Q2 profit on AI memory boom",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/hyundai-pushes-ai-automation-auto-plants"
+      "url": "https://www.techinasia.com/sk-hynix-plans-64b-cheongju-chip-expansion"
     },
     {
-      "title": "Who\u2019s investing in India\u2019s AI startups?",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/whos-investing-indias-ai-startups"
-    },
-    {
-      "title": "KKR plans gradual exit as LCY Group accelerates semiconductor materials expansion",
+      "title": "Google AI search reshapes traffic as publishers weigh blocking crawlers",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260724PD231/lcy-expansion-materials-tsmc-taiwan.html"
+      "url": "https://www.digitimes.com/news/a20260724PD202/google-expansion-data-retail-usa.html"
     },
     {
-      "title": "Lynas says Malaysia heavy rare earth project has gone over budget",
+      "title": "Podcast: TSMC, SK Hynix, Intel face AI chip and cash flow inflection",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260724PD208/budget-2026-equipment-supply-chain-revenue.html"
+      "url": "https://www.digitimes.com/news/a20260724PD243/tsmc-sk-hynix-intel-digitimes-cash-flow.html"
+    },
+    {
+      "title": "SK Hynix and Nvidia strike long-term deal to co-develop next-generation HBM",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260725VL203/nvidia-sk-group-partnership-sk-telecom-training.html"
     }
   ],
   "source_stats": [
@@ -191,9 +191,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 17,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
