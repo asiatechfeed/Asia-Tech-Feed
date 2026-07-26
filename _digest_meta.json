@@ -1,38 +1,37 @@
 {
-  "date": "2026-07-25",
-  "count": 8,
+  "date": "2026-07-26",
+  "count": 7,
   "sources": [
-    "CNA",
     "DigiTimes",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-25-asia-tech-news-digest.md",
+  "post_file": "2026-07-26-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Malaysia targets 2028 to produce its first human vaccine to cut import reliance",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/malaysia-targets-2028-produce-its-first-human-vaccine-cut-import-reliance-6277681"
-    },
-    {
-      "title": "Samsung, SK, Hyundai join Jensen Huang and Korea's President Lee at San Francisco AI Summit",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260725VL202/samsung-jensen-huang-hyundai-ceo-business.html"
-    },
-    {
-      "title": "89 fabs by 2030, 50 more by 2035: chip industry spreads risk through global collab",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260723PD229/infrastructure-taiwan-investment-manufacturing-demand.html"
-    },
-    {
-      "title": "PlayNitride bets on Tantium architecture, chip scaling to cut MicroLED costs 75% by 2030",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260723PD224/playnitride-2030-technology-production-efficiency.html"
-    },
-    {
-      "title": "Anthropic launches Claude Opus 5 AI model",
+      "title": "In the AI era, consistency is underrated",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-roll-claude-cowork-beta-mobile-web"
+      "url": "https://www.techinasia.com/ai-era-consistency-underrated"
+    },
+    {
+      "title": "Optical PD volume production lifts WIN Semiconductors' Q2 revenue 39% YoY",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260724PD235/revenue-demand-gaas-2026-shipments.html"
+    },
+    {
+      "title": "Samsung and Hyundai target Silicon Valley AI roundtable",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260724PD233/samsung-hyundai-ai-silicon-valley.html"
+    },
+    {
+      "title": "Alphabet's purchase commitments surge past US$800 billion amid AI infrastructure expansion",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260724PD232/alphabet-infrastructure-anthropic-inventory-2026.html"
+    },
+    {
+      "title": "US AI lab Midjourney acquires astrology app Co-Star",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/ai-video-surged-2025-2026-shakeout"
     }
   ],
   "source_stats": [
@@ -49,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 4,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -157,7 +156,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 26,
+      "relevant": 25,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
