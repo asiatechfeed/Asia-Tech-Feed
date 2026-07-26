@@ -1,37 +1,36 @@
 {
   "date": "2026-07-26",
-  "count": 7,
+  "count": 6,
   "sources": [
     "DigiTimes",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-26-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "In the AI era, consistency is underrated",
+      "title": "US chipmaker Microchip acquires Israeli AI firm Hailo",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/ai-era-consistency-underrated"
+      "url": "https://www.techinasia.com/nvidia-ceo-thinks-us-ai-export-limits-are-backfiring"
     },
     {
-      "title": "Optical PD volume production lifts WIN Semiconductors' Q2 revenue 39% YoY",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260724PD235/revenue-demand-gaas-2026-shipments.html"
-    },
-    {
-      "title": "Samsung and Hyundai target Silicon Valley AI roundtable",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260724PD233/samsung-hyundai-ai-silicon-valley.html"
-    },
-    {
-      "title": "Alphabet's purchase commitments surge past US$800 billion amid AI infrastructure expansion",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260724PD232/alphabet-infrastructure-anthropic-inventory-2026.html"
-    },
-    {
-      "title": "US AI lab Midjourney acquires astrology app Co-Star",
+      "title": "Hyundai Motor Group plans move into physical AI",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/ai-video-surged-2025-2026-shakeout"
+      "url": "https://www.techinasia.com/hyundai-pushes-ai-automation-auto-plants"
+    },
+    {
+      "title": "Who\u2019s investing in India\u2019s AI startups?",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/whos-investing-indias-ai-startups"
+    },
+    {
+      "title": "KKR plans gradual exit as LCY Group accelerates semiconductor materials expansion",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260724PD231/lcy-expansion-materials-tsmc-taiwan.html"
+    },
+    {
+      "title": "Lynas says Malaysia heavy rare earth project has gone over budget",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260724PD208/budget-2026-equipment-supply-chain-revenue.html"
     }
   ],
   "source_stats": [
@@ -147,7 +146,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 6,
+      "relevant": 3,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -167,7 +166,7 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -192,7 +191,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
