@@ -1,58 +1,118 @@
 [
   {
     "date": "2026-07-27",
-    "title": "Samsung bolsters energy team as chip projects test power supply",
-    "summary": "Samsung Group is recruiting current and former government energy officials for its in-house think tank as electricity infrastructure emerges as a key issue for its semiconductor expansion in Yongin and the proposed Honam chip cluster.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Samsung plans 2nm chip upgrade for next-gen AI memory",
+    "summary": "Foundry executive Koo Ja-geum said HBM5 is expected to process data more than 50% faster than HBM4E.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
+      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260724VL218/samsung-power-supply-government-transmission-infrastructure.html"
+    "url": "https://www.techinasia.com/samsung-electronics-spending-hits-257b-2025"
   },
   {
     "date": "2026-07-27",
-    "title": "Column: Enterprise AI asset is learning loops, not models",
-    "summary": "For the past two decades, enterprise information governance has focused on protecting data through classification, encryption, backups, and internal containment. That remains essential, but in the AI era, competitive advantage increasingly comes not from data itself, but from how effectively companies turn it into oper",
+    "title": "CXMT's US$8.6 billion IPO sets off new spending cycle across China's DRAM supply chain",
+    "summary": "China's leading DRAM producer CXMT listed on Shanghai's STAR Market on July 27 after raising about CNY57.9 billion (approx. US$8.6 billion), the board's largest initial public offering to date. The deal gives the memory chipmaker fresh capital to expand capacity, develop advanced processes and accelerate new products, ",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI"
+      "Semiconductor",
+      "Logistics"
     ],
-    "url": "https://www.digitimes.com/news/a20260723PD214/data-governance.html"
+    "url": "https://www.digitimes.com/news/a20260727VL204/cxmt-dram-ipo-supply-chain-equipment.html"
   },
   {
     "date": "2026-07-27",
-    "title": "GIGAIPC eyes retail, manufacturing and healthcare as edge AI adoption accelerates",
-    "summary": "GIGAIPC, an edge AI and industrial computing subsidiary of Gigabyte Technology, is set to begin trading on Taiwan's Emerging Stock Market on July 27. The company plans to deepen its presence in smart retail and edge AI-enabled manufacturing while positioning healthcare as its next major growth market.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Advantech Launches AMD EPYC 9006-powered Servers for AI, Edge Infrastructure",
+    "summary": "Advantech expands AI infrastructure portfolio with AMD EPYC 9006-based servers targeting data centers, edge computing, and networking. The post Advantech Launches AMD EPYC 9006-powered Servers for AI, Edge Infrastructure appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260723PD215/gigabyte-ipc-edge-ai-manufacturing-healthcare-retail.html"
+    "url": "https://www.eetasia.com/advantech-launches-amd-epyc-9006-powered-servers-for-ai-edge-infrastructure/"
   },
   {
     "date": "2026-07-27",
-    "title": "The faces behind China's AI rise: Meet the founders of DeepSeek, Z.ai and Moonshot AI",
-    "summary": "As China emerges as a key competitor in the global AI race, CNA takes a look at the figures leading its top companies.",
+    "title": "Synopsys, NVIDIA Advance Autonomous AI Agents for Chip Design and Engineering",
+    "summary": "Synopsys has expanded agentic AI capabilities with NVIDIA to automate chip verification, analog design, and thermal engineering workflows. The post Synopsys, NVIDIA Advance Autonomous AI Agents for Chip Design and Engineering appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/synopsys-nvidia-advance-autonomous-ai-agents-for-chip-design-and-engineering/"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "AI Infrastructure Shifts Data Centers into Chip Industry’s Next Strategic Battleground",
+    "summary": "AI is transforming data centers into infrastructure platforms where power, cooling, and semiconductors determine scalability. The post AI Infrastructure Shifts Data Centers into Chip Industry’s Next Strategic Battleground appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/ai-infrastructure-shifts-data-centers-into-chip-industrys-next-strategic-battleground/"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "Chipmaker CXMT vaults to top of China's valuation with 470% surge in Shanghai debut",
+    "summary": "Chipmaker CXMT vaults to top of China's valuation with 470% surge in Shanghai debut",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
-      "AI"
+      "Semiconductor"
     ],
-    "url": "https://www.channelnewsasia.com/east-asia/china-deepseek-zhipu-ai-moonshot-liang-wenfeng-yang-zhilin-tang-jie-6269866"
+    "url": "https://www.channelnewsasia.com/business/china-chipmaker-cxmt-shares-surge-shanghai-trading-debut-6279601"
   },
   {
     "date": "2026-07-27",
-    "title": "Mitsui Fudosan to build physical AI hub near TSMC's Kumamoto base",
-    "summary": "Mitsui Fudosan to build physical AI hub near TSMC's Kumamoto base",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "Jensen Huang backs open-weight AI as report says OpenAI, Anthropic lobby for tighter controls",
+    "summary": "Nvidia CEO Jensen Huang has backed open-weight artificial intelligence (AI) models in his first post on X, adding weight to a widening industry dispute over whether advanced AI should remain tightly controlled or be more broadly shared as competition with China accelerates.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/mitsui-fudosan-to-build-physical-ai-hub-near-tsmc-s-kumamoto-base"
+    "url": "https://www.digitimes.com/news/a20260727VL203/jensen-huang-nvidia-ai-security-competition.html"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "AI’s double role in cybersecurity",
+    "summary": "AI can both hack and defend. We look at what Asia should prepare for. Plus: the US goes after Kimi K3, and how AI coding gives solo founders an edge.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/ais-double-role-cybersecurity"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "India's HCLTech plans US$4.4B AI data center",
+    "summary": "HCLTech said it plans to establish its first AI data center at the upcoming Odisha Sovereign AI Park, marking a further step in its expansion into the full-stack artificial intelligence market through a partnership with AI startup Sarvam and the Government of Odisha.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260727PR201/india-data-center-expansion-infrastructure-partnership.html"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "The startups behind Southeast Asia’s physical AI push",
+    "summary": "A detailed look at the startups building Southeast Asia’s physical AI stack, and why the region is betting on commercial robots over humanoids.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/visual-story/mapping-southeast-asias-physical-ai-startup-ecosystem"
   },
   {
     "date": "2026-07-26",
