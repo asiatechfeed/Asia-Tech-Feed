@@ -1,38 +1,38 @@
 {
   "date": "2026-07-27",
-  "count": 10,
+  "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-27-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Samsung plans 2nm chip upgrade for next-gen AI memory",
+      "title": "AI tool catches lost revenue for paramedics",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/samsung-electronics-spending-hits-257b-2025"
+      "url": "https://www.techinasia.com/ai-tool-catches-lost-revenue-paramedics"
     },
     {
-      "title": "CXMT's US$8.6 billion IPO sets off new spending cycle across China's DRAM supply chain",
+      "title": "Singapore economy to stay firm for rest of 2026 as AI boom cushions oil shocks, new US tariff: MAS",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/economy-ai-oil-prices-middle-east-conflict-trump-tariffs-mas-6279896"
+    },
+    {
+      "title": "The 50 top-funded AI startups in Asia",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/the-50-top-funded-ai-startups-in-asia"
+    },
+    {
+      "title": "Pegatron unveils AMD EPYC server platform for AI and HPC",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260727VL204/cxmt-dram-ipo-supply-chain-equipment.html"
+      "url": "https://www.digitimes.com/news/a20260724PD244/pegatron-amd-hpc-performance-infrastructure.html"
     },
     {
-      "title": "Advantech Launches AMD EPYC 9006-powered Servers for AI, Edge Infrastructure",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/advantech-launches-amd-epyc-9006-powered-servers-for-ai-edge-infrastructure/"
-    },
-    {
-      "title": "Synopsys, NVIDIA Advance Autonomous AI Agents for Chip Design and Engineering",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/synopsys-nvidia-advance-autonomous-ai-agents-for-chip-design-and-engineering/"
-    },
-    {
-      "title": "AI Infrastructure Shifts Data Centers into Chip Industry\u2019s Next Strategic Battleground",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/ai-infrastructure-shifts-data-centers-into-chip-industrys-next-strategic-battleground/"
+      "title": "Rebellions readies Rebel100 shipments as AI inference demand grows",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260727VL212/ai-inference-shipments-ai-chip-infrastructure-sk-telecom.html"
     }
   ],
   "source_stats": [
@@ -150,14 +150,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 27,
+      "fetched": 50,
+      "relevant": 35,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
