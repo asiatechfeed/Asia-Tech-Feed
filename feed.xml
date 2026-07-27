@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-27T03:50:44+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 27, 2026</title><link href="https://asiatechfeed.com/2026/07/27/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 27, 2026" /><published>2026-07-27T03:49:29+00:00</published><updated>2026-07-27T03:49:29+00:00</updated><id>https://asiatechfeed.com/2026/07/27/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/27/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-07-27T08:01:28+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - July 27, 2026</title><link href="https://asiatechfeed.com/2026/07/27/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 27, 2026" /><published>2026-07-27T08:00:48+00:00</published><updated>2026-07-27T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/07/27/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/27/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -13,85 +13,69 @@
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Samsung plans 2nm chip upgrade for next-gen AI memory</span></td>
-  <td class="col-summary">Foundry executive Koo Ja-geum said HBM5 is expected to process data more than 50% faster than HBM4E.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/samsung-electronics-spending-hits-257b-2025" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">AI tool catches lost revenue for paramedics</span></td>
+  <td class="col-summary">Maia Care uses AI to flag documentation gaps in emergency medical reports, helping ambulance agencies recover millions in lost billing revenue.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-tool-catches-lost-revenue-paramedics" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">CXMT's US$8.6 billion IPO sets off new spending cycle across China's DRAM supply chain</span></td>
-  <td class="col-summary">China's leading DRAM producer CXMT listed on Shanghai's STAR Market on July 27 after raising about CNY57.9 billion (approx. US$8.6 billion), the board's largest initial public offering to date. The deal gives the memory chipmaker fresh capital to expand capacity, develop advanced processes and accelerate new products, </td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260727VL204/cxmt-dram-ipo-supply-chain-equipment.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Singapore economy to stay firm for rest of 2026 as AI boom cushions oil shocks, new US tariff: MAS</span></td>
+  <td class="col-summary">Singapore's tech sector continued to grow faster than usual and is expected to drive most of the country's economic growth this year.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/economy-ai-oil-prices-middle-east-conflict-trump-tariffs-mas-6279896" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Advantech Launches AMD EPYC 9006-powered Servers for AI, Edge Infrastructure</span></td>
-  <td class="col-summary">Advantech expands AI infrastructure portfolio with AMD EPYC 9006-based servers targeting data centers, edge computing, and networking. The post Advantech Launches AMD EPYC 9006-powered Servers for AI, Edge Infrastructure appeared first on EE Times Asia .</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">The 50 top-funded AI startups in Asia</span></td>
+  <td class="col-summary">Here are the AI companies in Asia that have attracted tons of investors and have the resources to spend on software, talent, and expansion.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/advantech-launches-amd-epyc-9006-powered-servers-for-ai-edge-infrastructure/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/the-50-top-funded-ai-startups-in-asia" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Synopsys, NVIDIA Advance Autonomous AI Agents for Chip Design and Engineering</span></td>
-  <td class="col-summary">Synopsys has expanded agentic AI capabilities with NVIDIA to automate chip verification, analog design, and thermal engineering workflows. The post Synopsys, NVIDIA Advance Autonomous AI Agents for Chip Design and Engineering appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/synopsys-nvidia-advance-autonomous-ai-agents-for-chip-design-and-engineering/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Pegatron unveils AMD EPYC server platform for AI and HPC</span></td>
+  <td class="col-summary">Pegatron unveiled a new server platform powered by AMD's sixth-generation EPYC processors at AMD Advancing AI 2026, targeting enterprise AI, agentic AI, high-performance computing (HPC), cloud computing, and data-intensive workloads.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260724PD244/pegatron-amd-hpc-performance-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">AI Infrastructure Shifts Data Centers into Chip Industry’s Next Strategic Battleground</span></td>
-  <td class="col-summary">AI is transforming data centers into infrastructure platforms where power, cooling, and semiconductors determine scalability. The post AI Infrastructure Shifts Data Centers into Chip Industry’s Next Strategic Battleground appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ai-infrastructure-shifts-data-centers-into-chip-industrys-next-strategic-battleground/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Rebellions readies Rebel100 shipments as AI inference demand grows</span></td>
+  <td class="col-summary">South Korean AI chip designer Rebellions plans to begin shipping its next-generation Rebel100 accelerator in the second half of 2026, betting that wider use of AI agents and commercial AI services will shift more infrastructure spending from model training toward inference.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260727VL212/ai-inference-shipments-ai-chip-infrastructure-sk-telecom.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Chipmaker CXMT vaults to top of China's valuation with 470% surge in Shanghai debut</span></td>
-  <td class="col-summary">Chipmaker CXMT vaults to top of China's valuation with 470% surge in Shanghai debut</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/china-chipmaker-cxmt-shares-surge-shanghai-trading-debut-6279601" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">WIN Semiconductors sees optical communications ramp accelerate AI revenue contribution</span></td>
+  <td class="col-summary">Gallium arsenide (GaAs) foundry WIN Semiconductors (WIN) expects infrastructure revenue to continue growing in the third quarter of 2026, driven by demand from low Earth orbit (LEO) satellites and other aerospace applications, while shipments of smartphone power amplifiers (PAs) and Wi-Fi products are expected to remai</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260727PD224/revenue-win-semi-communications-gaas-demand.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Jensen Huang backs open-weight AI as report says OpenAI, Anthropic lobby for tighter controls</span></td>
-  <td class="col-summary">Nvidia CEO Jensen Huang has backed open-weight artificial intelligence (AI) models in his first post on X, adding weight to a widening industry dispute over whether advanced AI should remain tightly controlled or be more broadly shared as competition with China accelerates.</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">China’s Moonshot AI plans to open-weight K3</span></td>
+  <td class="col-summary">Moonshot AI's K3 model features a 2.8-trillion-parameter mixture-of-experts architecture.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260727VL203/jensen-huang-nvidia-ai-security-competition.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/moonshot-ai-moves-unwind-offshore-model-ipo" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">AI’s double role in cybersecurity</span></td>
-  <td class="col-summary">AI can both hack and defend. We look at what Asia should prepare for. Plus: the US goes after Kimi K3, and how AI coding gives solo founders an edge.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ais-double-role-cybersecurity" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">India's HCLTech plans US$4.4B AI data center</span></td>
-  <td class="col-summary">HCLTech said it plans to establish its first AI data center at the upcoming Odisha Sovereign AI Park, marking a further step in its expansion into the full-stack artificial intelligence market through a partnership with AI startup Sarvam and the Government of Odisha.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260727PR201/india-data-center-expansion-infrastructure-partnership.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">The startups behind Southeast Asia’s physical AI push</span></td>
-  <td class="col-summary">A detailed look at the startups building Southeast Asia’s physical AI stack, and why the region is betting on commercial robots over humanoids.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/mapping-southeast-asias-physical-ai-startup-ecosystem" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">India's battery recycling drive hits logistics and cost barriers</span></td>
+  <td class="col-summary">India's battery recycling drive hits logistics and cost barriers</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/electronics/india-s-battery-recycling-drive-hits-logistics-and-cost-barriers" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Samsung plans 2nm chip upgrade for next-gen AI memory Foundry executive Koo Ja-geum said HBM5 is expected to process data more than 50% faster than HBM4E. AISemiconductor Read 2 DigiTimes CXMT's US$8.6 billion IPO sets off new spending cycle across China's DRAM supply chain China's leading DRAM producer CXMT listed on Shanghai's STAR Market on July 27 after raising about CNY57.9 billion (approx. US$8.6 billion), the board's largest initial public offering to date. The deal gives the memory chipmaker fresh capital to expand capacity, develop advanced processes and accelerate new products, SemiconductorLogistics Read 3 EETAsia Advantech Launches AMD EPYC 9006-powered Servers for AI, Edge Infrastructure Advantech expands AI infrastructure portfolio with AMD EPYC 9006-based servers targeting data centers, edge computing, and networking. The post Advantech Launches AMD EPYC 9006-powered Servers for AI, Edge Infrastructure appeared first on EE Times Asia . AI Read 4 EETAsia Synopsys, NVIDIA Advance Autonomous AI Agents for Chip Design and Engineering Synopsys has expanded agentic AI capabilities with NVIDIA to automate chip verification, analog design, and thermal engineering workflows. The post Synopsys, NVIDIA Advance Autonomous AI Agents for Chip Design and Engineering appeared first on EE Times Asia . AISemiconductor Read 5 EETAsia AI Infrastructure Shifts Data Centers into Chip Industry’s Next Strategic Battleground AI is transforming data centers into infrastructure platforms where power, cooling, and semiconductors determine scalability. The post AI Infrastructure Shifts Data Centers into Chip Industry’s Next Strategic Battleground appeared first on EE Times Asia . SemiconductorAI Read 6 CNA Chipmaker CXMT vaults to top of China's valuation with 470% surge in Shanghai debut Chipmaker CXMT vaults to top of China's valuation with 470% surge in Shanghai debut Semiconductor Read 7 DigiTimes Jensen Huang backs open-weight AI as report says OpenAI, Anthropic lobby for tighter controls Nvidia CEO Jensen Huang has backed open-weight artificial intelligence (AI) models in his first post on X, adding weight to a widening industry dispute over whether advanced AI should remain tightly controlled or be more broadly shared as competition with China accelerates. AI Read 8 TechAsia AI’s double role in cybersecurity AI can both hack and defend. We look at what Asia should prepare for. Plus: the US goes after Kimi K3, and how AI coding gives solo founders an edge. AI Read 9 DigiTimes India's HCLTech plans US$4.4B AI data center HCLTech said it plans to establish its first AI data center at the upcoming Odisha Sovereign AI Park, marking a further step in its expansion into the full-stack artificial intelligence market through a partnership with AI startup Sarvam and the Government of Odisha. AI Read 10 TechAsia The startups behind Southeast Asia’s physical AI push A detailed look at the startups building Southeast Asia’s physical AI stack, and why the region is betting on commercial robots over humanoids. AIAutomation Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 26, 2026</title><link href="https://asiatechfeed.com/2026/07/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 26, 2026" /><published>2026-07-26T08:00:46+00:00</published><updated>2026-07-26T08:00:46+00:00</updated><id>https://asiatechfeed.com/2026/07/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia AI tool catches lost revenue for paramedics Maia Care uses AI to flag documentation gaps in emergency medical reports, helping ambulance agencies recover millions in lost billing revenue. AI Read 2 CNA Singapore economy to stay firm for rest of 2026 as AI boom cushions oil shocks, new US tariff: MAS Singapore's tech sector continued to grow faster than usual and is expected to drive most of the country's economic growth this year. AI Read 3 TechAsia The 50 top-funded AI startups in Asia Here are the AI companies in Asia that have attracted tons of investors and have the resources to spend on software, talent, and expansion. AI Read 4 DigiTimes Pegatron unveils AMD EPYC server platform for AI and HPC Pegatron unveiled a new server platform powered by AMD's sixth-generation EPYC processors at AMD Advancing AI 2026, targeting enterprise AI, agentic AI, high-performance computing (HPC), cloud computing, and data-intensive workloads. AI Read 5 DigiTimes Rebellions readies Rebel100 shipments as AI inference demand grows South Korean AI chip designer Rebellions plans to begin shipping its next-generation Rebel100 accelerator in the second half of 2026, betting that wider use of AI agents and commercial AI services will shift more infrastructure spending from model training toward inference. AISemiconductor Read 6 DigiTimes WIN Semiconductors sees optical communications ramp accelerate AI revenue contribution Gallium arsenide (GaAs) foundry WIN Semiconductors (WIN) expects infrastructure revenue to continue growing in the third quarter of 2026, driven by demand from low Earth orbit (LEO) satellites and other aerospace applications, while shipments of smartphone power amplifiers (PAs) and Wi-Fi products are expected to remai SemiconductorAI Read 7 TechAsia China’s Moonshot AI plans to open-weight K3 Moonshot AI's K3 model features a 2.8-trillion-parameter mixture-of-experts architecture. AI Read 8 NikkeiAsia India's battery recycling drive hits logistics and cost barriers India's battery recycling drive hits logistics and cost barriers Logistics Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 26, 2026</title><link href="https://asiatechfeed.com/2026/07/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 26, 2026" /><published>2026-07-26T08:00:46+00:00</published><updated>2026-07-26T08:00:46+00:00</updated><id>https://asiatechfeed.com/2026/07/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>

@@ -1,118 +1,93 @@
 [
   {
     "date": "2026-07-27",
-    "title": "Samsung plans 2nm chip upgrade for next-gen AI memory",
-    "summary": "Foundry executive Koo Ja-geum said HBM5 is expected to process data more than 50% faster than HBM4E.",
+    "title": "AI tool catches lost revenue for paramedics",
+    "summary": "Maia Care uses AI to flag documentation gaps in emergency medical reports, helping ambulance agencies recover millions in lost billing revenue.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/samsung-electronics-spending-hits-257b-2025"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "CXMT's US$8.6 billion IPO sets off new spending cycle across China's DRAM supply chain",
-    "summary": "China's leading DRAM producer CXMT listed on Shanghai's STAR Market on July 27 after raising about CNY57.9 billion (approx. US$8.6 billion), the board's largest initial public offering to date. The deal gives the memory chipmaker fresh capital to expand capacity, develop advanced processes and accelerate new products, ",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260727VL204/cxmt-dram-ipo-supply-chain-equipment.html"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "Advantech Launches AMD EPYC 9006-powered Servers for AI, Edge Infrastructure",
-    "summary": "Advantech expands AI infrastructure portfolio with AMD EPYC 9006-based servers targeting data centers, edge computing, and networking. The post Advantech Launches AMD EPYC 9006-powered Servers for AI, Edge Infrastructure appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
       "AI"
     ],
-    "url": "https://www.eetasia.com/advantech-launches-amd-epyc-9006-powered-servers-for-ai-edge-infrastructure/"
+    "url": "https://www.techinasia.com/ai-tool-catches-lost-revenue-paramedics"
   },
   {
     "date": "2026-07-27",
-    "title": "Synopsys, NVIDIA Advance Autonomous AI Agents for Chip Design and Engineering",
-    "summary": "Synopsys has expanded agentic AI capabilities with NVIDIA to automate chip verification, analog design, and thermal engineering workflows. The post Synopsys, NVIDIA Advance Autonomous AI Agents for Chip Design and Engineering appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.eetasia.com/synopsys-nvidia-advance-autonomous-ai-agents-for-chip-design-and-engineering/"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "AI Infrastructure Shifts Data Centers into Chip Industry’s Next Strategic Battleground",
-    "summary": "AI is transforming data centers into infrastructure platforms where power, cooling, and semiconductors determine scalability. The post AI Infrastructure Shifts Data Centers into Chip Industry’s Next Strategic Battleground appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Semiconductor",
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/ai-infrastructure-shifts-data-centers-into-chip-industrys-next-strategic-battleground/"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "Chipmaker CXMT vaults to top of China's valuation with 470% surge in Shanghai debut",
-    "summary": "Chipmaker CXMT vaults to top of China's valuation with 470% surge in Shanghai debut",
+    "title": "Singapore economy to stay firm for rest of 2026 as AI boom cushions oil shocks, new US tariff: MAS",
+    "summary": "Singapore's tech sector continued to grow faster than usual and is expected to drive most of the country's economic growth this year.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/business/china-chipmaker-cxmt-shares-surge-shanghai-trading-debut-6279601"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "Jensen Huang backs open-weight AI as report says OpenAI, Anthropic lobby for tighter controls",
-    "summary": "Nvidia CEO Jensen Huang has backed open-weight artificial intelligence (AI) models in his first post on X, adding weight to a widening industry dispute over whether advanced AI should remain tightly controlled or be more broadly shared as competition with China accelerates.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260727VL203/jensen-huang-nvidia-ai-security-competition.html"
+    "url": "https://www.channelnewsasia.com/singapore/economy-ai-oil-prices-middle-east-conflict-trump-tariffs-mas-6279896"
   },
   {
     "date": "2026-07-27",
-    "title": "AI’s double role in cybersecurity",
-    "summary": "AI can both hack and defend. We look at what Asia should prepare for. Plus: the US goes after Kimi K3, and how AI coding gives solo founders an edge.",
+    "title": "The 50 top-funded AI startups in Asia",
+    "summary": "Here are the AI companies in Asia that have attracted tons of investors and have the resources to spend on software, talent, and expansion.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/ais-double-role-cybersecurity"
+    "url": "https://www.techinasia.com/the-50-top-funded-ai-startups-in-asia"
   },
   {
     "date": "2026-07-27",
-    "title": "India's HCLTech plans US$4.4B AI data center",
-    "summary": "HCLTech said it plans to establish its first AI data center at the upcoming Odisha Sovereign AI Park, marking a further step in its expansion into the full-stack artificial intelligence market through a partnership with AI startup Sarvam and the Government of Odisha.",
+    "title": "Pegatron unveils AMD EPYC server platform for AI and HPC",
+    "summary": "Pegatron unveiled a new server platform powered by AMD's sixth-generation EPYC processors at AMD Advancing AI 2026, targeting enterprise AI, agentic AI, high-performance computing (HPC), cloud computing, and data-intensive workloads.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260727PR201/india-data-center-expansion-infrastructure-partnership.html"
+    "url": "https://www.digitimes.com/news/a20260724PD244/pegatron-amd-hpc-performance-infrastructure.html"
   },
   {
     "date": "2026-07-27",
-    "title": "The startups behind Southeast Asia’s physical AI push",
-    "summary": "A detailed look at the startups building Southeast Asia’s physical AI stack, and why the region is betting on commercial robots over humanoids.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Rebellions readies Rebel100 shipments as AI inference demand grows",
+    "summary": "South Korean AI chip designer Rebellions plans to begin shipping its next-generation Rebel100 accelerator in the second half of 2026, betting that wider use of AI agents and commercial AI services will shift more infrastructure spending from model training toward inference.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI",
-      "Automation"
+      "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/visual-story/mapping-southeast-asias-physical-ai-startup-ecosystem"
+    "url": "https://www.digitimes.com/news/a20260727VL212/ai-inference-shipments-ai-chip-infrastructure-sk-telecom.html"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "WIN Semiconductors sees optical communications ramp accelerate AI revenue contribution",
+    "summary": "Gallium arsenide (GaAs) foundry WIN Semiconductors (WIN) expects infrastructure revenue to continue growing in the third quarter of 2026, driven by demand from low Earth orbit (LEO) satellites and other aerospace applications, while shipments of smartphone power amplifiers (PAs) and Wi-Fi products are expected to remai",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260727PD224/revenue-win-semi-communications-gaas-demand.html"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "China’s Moonshot AI plans to open-weight K3",
+    "summary": "Moonshot AI's K3 model features a 2.8-trillion-parameter mixture-of-experts architecture.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/moonshot-ai-moves-unwind-offshore-model-ipo"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "India's battery recycling drive hits logistics and cost barriers",
+    "summary": "India's battery recycling drive hits logistics and cost barriers",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://asia.nikkei.com/business/electronics/india-s-battery-recycling-drive-hits-logistics-and-cost-barriers"
   },
   {
     "date": "2026-07-26",
