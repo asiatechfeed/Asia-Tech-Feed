@@ -1,39 +1,37 @@
 {
   "date": "2026-07-28",
-  "count": 13,
+  "count": 7,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-28-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Commentary: Balancing national defense needs with industrial development \u2014 Taiwan's electronics giants are not the only answer",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260728PD200/taiwan-defense-development-electronics-industrial-war.html"
-    },
-    {
-      "title": "Index Ventures led Israeli AI startup Enigma\u2019s $71m seed",
+      "title": "Replacing fashion photoshoots with AI",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/microsoft-ceo-says-firm-must-rebuild-staff-trust-after-layoffs"
+      "url": "https://www.techinasia.com/replacing-fashion-photoshoots-ai"
     },
     {
-      "title": "Synopsys, Intel Foundry Expand AI-powered EDA Collaboration for Intel 14A",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/synopsys-intel-foundry-expand-ai-powered-eda-collaboration-for-intel-14a/"
-    },
-    {
-      "title": "Eiso raises NT$300M to accelerate AI, aerospace, defense PCB expansion",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260727PD228/pcb-eiso-expansion-high-end-growth.html"
-    },
-    {
-      "title": "Nvidia credit risk rises on AI deal talks",
+      "title": "Alibaba Cloud adds Kimi K3 to its AI platform",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-deepens-japan-push-with-ai-partnerships"
+      "url": "https://www.techinasia.com/alibaba-cloud-leads-asia-pacific-cloud-market-in-2025"
+    },
+    {
+      "title": "Squeezed by China, Taiwan ODMs pivot to AI for new growth",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260728PD231/taiwan-manufacturing-growth-wistron-component.html"
+    },
+    {
+      "title": "Nvidia invests in Ilya Sutskever's SSI, providing access to Vera Rubin compute platform",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260728VL207/nvidia-rubin-investment-partnership-openai.html"
+    },
+    {
+      "title": "Qualcomm chip price hike to squeeze China's Android makers on two fronts",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260728PD218/qualcomm-price-android-smartphone-cost.html"
     }
   ],
   "source_stats": [
@@ -50,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -151,14 +149,14 @@
       "fetched": 10,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 28,
+      "fetched": 49,
+      "relevant": 36,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -194,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 20,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
