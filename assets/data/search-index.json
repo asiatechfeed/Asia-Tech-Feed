@@ -1,83 +1,147 @@
 [
   {
     "date": "2026-07-28",
-    "title": "Column: Titan Batteries joins US defense effort to secure domestic drone supply chains with traceable battery solutions",
-    "summary": "Idaho-based Titan Batteries has emerged as a key supplier in the US Drone Dominance Program (DDP), providing customized battery solutions for military drones as the Pentagon accelerates efforts to build a secure and resilient domestic supply chain. The company's focus on localized manufacturing, cybersecurity, and end-",
+    "title": "Commentary: Balancing national defense needs with industrial development — Taiwan's electronics giants are not the only answer",
+    "summary": "The Russia-Ukraine war has fundamentally reshaped the nature of modern asymmetric warfare. Unmanned systems have evolved from auxiliary equipment into core combat assets capable of conducting reconnaissance, precision strikes, attrition and sustained operations.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Logistics"
+      "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20260727PD220/military-manufacturing-supplier-production-bms.html"
+    "url": "https://www.digitimes.com/news/a20260728PD200/taiwan-defense-development-electronics-industrial-war.html"
   },
   {
     "date": "2026-07-28",
-    "title": "Zeiss races to break ASML's EUV optics bottleneck for the AI chip boom",
-    "summary": "Zeiss Semiconductor Manufacturing Technology is expanding production capacity in Germany to relieve a critical constraint on ASML's lithography output, with AI data center investment accelerating demand for advanced logic and memory chips.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Index Ventures led Israeli AI startup Enigma’s $71m seed",
+    "summary": "Enigma's founders previously served together in Israel’s Unit 8200 military intelligence technology unit.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "Semiconductor",
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260727VL213/euv-asml-optics-germany-production-capacity.html"
+    "url": "https://www.techinasia.com/microsoft-ceo-says-firm-must-rebuild-staff-trust-after-layoffs"
   },
   {
     "date": "2026-07-28",
-    "title": "Apple, Micron's clash over CXMT puts White House in the middle",
-    "summary": "Apple and Micron are fighting over whether the smartphone maker can buy memory chips from Chinese manufacturer ChangXin Memory Technologies (CXMT) for non-US devices, a move opposed by Micron. Both companies are lobbying the administration of US President Donald Trump, which could force him to make an uncomfortable cho",
+    "title": "Synopsys, Intel Foundry Expand AI-powered EDA Collaboration for Intel 14A",
+    "summary": "Synopsys and Intel Foundry advance Intel 14A readiness with AI-driven design tools, multiphysics analysis, and expanded IP. The post Synopsys, Intel Foundry Expand AI-powered EDA Collaboration for Intel 14A appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/synopsys-intel-foundry-expand-ai-powered-eda-collaboration-for-intel-14a/"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "Eiso raises NT$300M to accelerate AI, aerospace, defense PCB expansion",
+    "summary": "Printed circuit board (PCB) manufacturer Eiso Enterprise has completed its annual fundraising plan. To strengthen working capital for future operations, repay bank loans, and enhance its financial structure, the company launched a cash capital increase and issued its second domestic unsecured convertible bonds in 2026.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260727PD228/pcb-eiso-expansion-high-end-growth.html"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "Nvidia credit risk rises on AI deal talks",
+    "summary": "Nvidia's credit-default swap cost rose the most since November amid AI infrastructure deal talks.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/nvidia-deepens-japan-push-with-ai-partnerships"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "Cadence raises 2026 outlook after record quarter, flags major Intel deal as revenue driver",
+    "summary": "Cadence Design Systems posted stronger-than-expected second-quarter results on July 27 and raised its full-year revenue growth outlook to 19%, citing broad demand for its AI-driven chip design tools and a landmark new agreement with Intel that executives described as a historic shift in the two companies' relationship.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260727VL215/apple-micron-cxmt-chips-smartphone.html"
+    "url": "https://www.digitimes.com/news/a20260728VL203/cadence-revenue-intel-outlook-2026.html"
   },
   {
     "date": "2026-07-28",
-    "title": "Commentary: Why workers are nostalgic for life before AI",
-    "summary": "Many white-collar professionals worry about the tech inhibiting creativity and making errors, says this writer for the Financial Times.",
+    "title": "Microsoft launches first AI cybersecurity model",
+    "summary": "MAI-Cyber-1-Flash integrates with MDASH, a scanning system used by Microsoft security teams.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/microsoft-sells-openai-access-chinese-firms-azure"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "Power Electronics Market Entering New Growth Phase",
+    "summary": "Electric vehicles and AI data centers are reshaping demand for silicon carbide (SiC) and gallium nitride (GaN) power technologies globally. The post Power Electronics Market Entering New Growth Phase appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/power-electronics-market-entering-new-growth-phase/"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "Can't get enough of Christopher Nolan's The Odyssey? Here are 7 books you should read",
+    "summary": "Dive into WWII-era Greece, witchy tales and witty audio fables.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/living/odyssey-christopher-nolan-books-read-after-movie-6280116"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "How companies can deploy AI agents safely",
+    "summary": "AI agents promise greater productivity, but experts say organisations must strengthen their data, cybersecurity and governance foundations before scaling adoption.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/commentary/employees-crave-workplace-chatgpt-generative-ai-6280231"
+    "url": "https://www.channelnewsasia.com/brand-studio/how-companies-can-deploy-ai-agents-safely-6279856"
   },
   {
     "date": "2026-07-28",
-    "title": "Cadence raises annual forecasts as demand booms for AI chip design",
-    "summary": "Cadence raises annual forecasts as demand booms for AI chip design",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/business/cadence-raises-annual-forecasts-demand-booms-ai-chip-design-6281661"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "Japanese university startups develop AI robot arms for delicate tasks",
-    "summary": "Japanese university startups develop AI robot arms for delicate tasks",
+    "title": "AI chip boom shifts bottleneck to advanced packaging, says AT&S CEO",
+    "summary": "AI chip boom shifts bottleneck to advanced packaging, says AT&S CEO",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/ai-chip-boom-shifts-bottleneck-to-advanced-packaging-says-at-s-ceo"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "Asian stocks slide as China prompts chip competition fears",
+    "summary": "Asian stocks slide as China prompts chip competition fears",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/markets/asian-stocks-slide-as-china-prompts-chip-competition-fears"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "China's Unitree Robotics eyes capacity boost to meet humanoid demand",
+    "summary": "China's Unitree Robotics eyes capacity boost to meet humanoid demand",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
       "Automation"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japanese-university-startups-develop-ai-robot-arms-for-delicate-tasks"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "CATL thrives while China's EV makers squeezed by supply chain, weak market",
-    "summary": "CATL thrives while China's EV makers squeezed by supply chain, weak market",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Logistics"
-    ],
-    "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/catl-thrives-while-china-s-ev-makers-squeezed-by-supply-chain-weak-market"
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/china-s-unitree-robotics-eyes-capacity-boost-to-meet-humanoid-demand"
   },
   {
     "date": "2026-07-27",
