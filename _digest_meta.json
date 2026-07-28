@@ -1,37 +1,39 @@
 {
   "date": "2026-07-28",
-  "count": 7,
+  "count": 13,
   "sources": [
     "CNA",
     "DigiTimes",
-    "NikkeiAsia"
+    "EETAsia",
+    "NikkeiAsia",
+    "TechAsia"
   ],
   "post_file": "2026-07-28-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Column: Titan Batteries joins US defense effort to secure domestic drone supply chains with traceable battery solutions",
+      "title": "Commentary: Balancing national defense needs with industrial development \u2014 Taiwan's electronics giants are not the only answer",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260727PD220/military-manufacturing-supplier-production-bms.html"
+      "url": "https://www.digitimes.com/news/a20260728PD200/taiwan-defense-development-electronics-industrial-war.html"
     },
     {
-      "title": "Zeiss races to break ASML's EUV optics bottleneck for the AI chip boom",
+      "title": "Index Ventures led Israeli AI startup Enigma\u2019s $71m seed",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/microsoft-ceo-says-firm-must-rebuild-staff-trust-after-layoffs"
+    },
+    {
+      "title": "Synopsys, Intel Foundry Expand AI-powered EDA Collaboration for Intel 14A",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/synopsys-intel-foundry-expand-ai-powered-eda-collaboration-for-intel-14a/"
+    },
+    {
+      "title": "Eiso raises NT$300M to accelerate AI, aerospace, defense PCB expansion",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260727VL213/euv-asml-optics-germany-production-capacity.html"
+      "url": "https://www.digitimes.com/news/a20260727PD228/pcb-eiso-expansion-high-end-growth.html"
     },
     {
-      "title": "Apple, Micron's clash over CXMT puts White House in the middle",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260727VL215/apple-micron-cxmt-chips-smartphone.html"
-    },
-    {
-      "title": "Commentary: Why workers are nostalgic for life before AI",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/employees-crave-workplace-chatgpt-generative-ai-6280231"
-    },
-    {
-      "title": "Cadence raises annual forecasts as demand booms for AI chip design",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/cadence-raises-annual-forecasts-demand-booms-ai-chip-design-6281661"
+      "title": "Nvidia credit risk rises on AI deal talks",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/nvidia-deepens-japan-push-with-ai-partnerships"
     }
   ],
   "source_stats": [
@@ -147,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 3,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 24,
+      "relevant": 28,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -191,10 +193,10 @@
     {
       "source": "TechAsia",
       "name": "Tech in Asia",
-      "fetched": 0,
-      "relevant": 0,
+      "fetched": 36,
+      "relevant": 17,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
