@@ -1,162 +1,104 @@
 [
   {
     "date": "2026-07-29",
-    "title": "Samsung reportedly weighs Chinese DRAM for budget smartphones as memory inflation squeezes mobile market",
-    "summary": "Samsung Electronics is considering using low-cost Chinese mobile DRAM in smartphones sold in China as it looks to cut manufacturing costs and expand its presence in the country's budget handset market, according to Asia Time.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260729VL212/samsung-smartphone-dram-budget-low-cost.html"
-  },
-  {
-    "date": "2026-07-29",
-    "title": "China starts production of home-grown immersion DUV chipmaking tools: Source",
-    "summary": "Immersion deep-ultraviolet lithography machines are crucial to advanced chipmaking, and this marks a key step forward in Beijing’s drive to reduce its reliance on foreign technologies.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/east-asia/china-start-production-immersion-duv-chipmaking-6282711"
-  },
-  {
-    "date": "2026-07-29",
-    "title": "Meta's Zuckerberg says US should not block Chinese AI models, FT reports",
-    "summary": "Meta's Zuckerberg says US should not block Chinese AI models, FT reports",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "This startup fixes the quality problem in remote hiring",
+    "summary": "FindTalent.ph connects small businesses with pre-screened Filipino professionals using AI matching and manual recruiter verification.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/metas-zuckerberg-says-us-should-not-block-chinese-ai-models-ft-reports-6284771"
+    "url": "https://www.techinasia.com/startup-fixes-quality-problem-remote-hiring"
   },
   {
     "date": "2026-07-29",
-    "title": "Moonshot AI's Kimi K3 secures Day 0 support from Alibaba Cloud, Huawei Ascend",
-    "summary": "China's two major AI computing ecosystems moved quickly to support Kimi K3 after Moonshot AI released the large language model as open source.",
+    "title": "China's GenAI race shifts to open source ecosystems",
+    "summary": "The global GenAI race has remained intense, with major US players including Google, Meta, Microsoft, Amazon, and OpenAI investing heavily. But with Beijing-based startup Moonshot AI launching Kimi K3, a new large language model (LLM) with multimodal and long-context reasoning capabilities, along with the rapid rise of ",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260729PD212/kimi-k3-ascend-huawei-cloud-alibaba.html"
+    "url": "https://www.digitimes.com/news/a20260729PD224/genai-kimi-k3-openai-meta-google.html"
   },
   {
     "date": "2026-07-29",
-    "title": "Wistron Opens First U.S. AI Smart Factory in Texas",
-    "summary": "Wistron's new facility expands US AI server manufacturing, strengthening supply chains with advanced smart factory technologies and automation. The post Wistron Opens First U.S. AI Smart Factory in Texas appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "White House reportedly approaches final framework for reviewing frontier models",
+    "summary": "The US government is said to be close to creating a final version of a voluntary framework for evaluating AI companies' advanced models before they are released to the public. A finalized framework could clear up weeks of uncertainty, but for now many questions about it remain, such as the exact review process, what co",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "AI",
-      "Automation",
-      "Logistics"
+      "AI"
     ],
-    "url": "https://www.eetasia.com/wistron-opens-first-u-s-ai-smart-factory-in-texas/"
+    "url": "https://www.digitimes.com/news/a20260729VL219/government-anthropic-openai-licensing-cybersecurity.html"
   },
   {
     "date": "2026-07-29",
-    "title": "Electronics & Semiconductor Assembly Robotics Market to Hit $17B by 2036",
-    "summary": "Growing semiconductor investments and smart factory adoption are accelerating demand for precision assembly robotics across global electronics manufacturing. The post Electronics & Semiconductor Assembly Robotics Market to Hit $17B by 2036 appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "DBS rolls out AI banking tools to 10 million users",
+    "summary": "In Singapore, DBS Joy now offers agentic features to 350,000 corporate users. Another 100,000 users in Hong Kong are due to get the features in September.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/dbs-helps-customers-savvier-savers-investors"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "Intel Foundry completes US microelectronics prototype program",
+    "summary": "Intel Foundry has completed a US defense-backed semiconductor prototype program that could have implications for supply chain resilience, national security, and global access to advanced chips. The work, tied to Intel 18A technology, aims to expand trusted domestic manufacturing and could shape how allied governments a",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "Semiconductor",
       "Electronics",
-      "Automation"
+      "Logistics"
     ],
-    "url": "https://www.eetasia.com/electronics-semiconductor-assembly-robotics-market-to-hit-17b-by-2036/"
+    "url": "https://www.digitimes.com/news/a20260729PR204/intel-foundry-intel-technology-supply-chain-manufacturing.html"
   },
   {
     "date": "2026-07-29",
-    "title": "ASM raises 2027 revenue outlook as AI-driven chip demand lifts forecast",
-    "summary": "On July 28, ASM International raised its revenue outlook for 2027 and issued third-quarter guidance above market expectations after reporting higher second-quarter revenue and profit, supported by continued investment in artificial intelligence infrastructure and advanced semiconductor manufacturing.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260729VL203/revenue-outlook-2027-demand-forecast.html"
-  },
-  {
-    "date": "2026-07-29",
-    "title": "Our AI and ad pilots made $0. Here’s how we’re addressing it",
-    "summary": "We wasted thousands on our marketing efforts. To stop bleeding the budget, we shifted to a two-track strategy for real ROI. A work-in-progress.",
+    "title": "OCBC rolling out AI to cut private banking onboarding time",
+    "summary": "OCBC said HELIOS completes much of know-your-customer due diligence before relationship managers engage prospective clients.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/ai-ad-pilots-0-heres-how-we-re-addressing-it"
+    "url": "https://www.techinasia.com/singapores-dyna-ai-raises-series-a-to-scale-enterprise-ai"
   },
   {
     "date": "2026-07-29",
-    "title": "Abracon Taps Taiwan’s WT Microelectronics to Expand Presence in APAC",
-    "summary": "New distribution agreement broadens Abracon's APAC reach, strengthening support for AI, industrial, communications, and computing customers. The post Abracon Taps Taiwan’s WT Microelectronics to Expand Presence in APAC appeared first on EE Times Asia .",
+    "title": "Beyond Silicon: GaN and the Future of Heat-Resilient Power Electronics in Singapore",
+    "summary": "As power densities rise, GaN technologies are reshaping thermal management and enabling more efficient, reliable power electronics systems. The post Beyond Silicon: GaN and the Future of Heat-Resilient Power Electronics in Singapore appeared first on EE Times Asia .",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
       "Electronics"
     ],
-    "url": "https://www.eetasia.com/abracon-taps-taiwans-wt-microelectronics-to-expand-presence-in-apac/"
+    "url": "https://www.eetasia.com/beyond-silicon-gan-and-the-future-of-heat-resilient-power-electronics-in-singapore/"
   },
   {
     "date": "2026-07-29",
-    "title": "The infrastructure question every AI strategy must answer",
-    "summary": "Many organisations are eager to scale AI, but fewer are confident their infrastructure can support it. Tata Communications aims to bridge that gap.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/advertorial/infrastructure-question-every-ai-strategy-must-answer-6246086"
-  },
-  {
-    "date": "2026-07-29",
-    "title": "AI tools: Marketplaces’ new side hustle",
-    "summary": "Having years of data is one thing, turning it into an AI business is another. Also: SEA’s VC deal value is up from 2025, but the recovery stays uneven.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/ai-tools-marketplaces-side-hustle"
-  },
-  {
-    "date": "2026-07-29",
-    "title": "Indosat H1 revenue rises 13.1% as AI cloud grows",
-    "summary": "Indosat said its AI Cloud business generated US$33 million in the first half, surpassing the business’s full-year 2025 revenue of US$28 million.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/indosat-taps-nokia-to-expand-5g-network-in-indonesia"
-  },
-  {
-    "date": "2026-07-29",
-    "title": "13 confirmed dead after Kumamoto quake rattles Japan chipmaking hub",
-    "summary": "13 confirmed dead after Kumamoto quake rattles Japan chipmaking hub",
+    "title": "Iran war and AI demand help drive revenue at Rio Tinto, Woodside",
+    "summary": "Iran war and AI demand help drive revenue at Rio Tinto, Woodside",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://asia.nikkei.com/economy/natural-disasters/13-confirmed-dead-after-kumamoto-quake-rattles-japan-chipmaking-hub"
+    "url": "https://asia.nikkei.com/business/markets/commodities/iran-war-and-ai-demand-help-drive-revenue-at-rio-tinto-woodside"
   },
   {
     "date": "2026-07-29",
-    "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
-    "summary": "Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio",
-    "source": "KED Global",
-    "short": "KED",
+    "title": "Japan's Genki Robotics to launch first product this year, says CEO",
+    "summary": "Japan's Genki Robotics to launch first product this year, says CEO",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
     "tags": [
-      "AI"
+      "Automation"
     ],
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001"
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-s-genki-robotics-to-launch-first-product-this-year-says-ceo"
   },
   {
     "date": "2026-07-28",

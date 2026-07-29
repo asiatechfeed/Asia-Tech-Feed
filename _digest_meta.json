@@ -1,40 +1,38 @@
 {
   "date": "2026-07-29",
-  "count": 14,
+  "count": 9,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
-    "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-29-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Samsung reportedly weighs Chinese DRAM for budget smartphones as memory inflation squeezes mobile market",
+      "title": "This startup fixes the quality problem in remote hiring",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/startup-fixes-quality-problem-remote-hiring"
+    },
+    {
+      "title": "China's GenAI race shifts to open source ecosystems",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260729VL212/samsung-smartphone-dram-budget-low-cost.html"
+      "url": "https://www.digitimes.com/news/a20260729PD224/genai-kimi-k3-openai-meta-google.html"
     },
     {
-      "title": "China starts production of home-grown immersion DUV chipmaking tools: Source",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/china-start-production-immersion-duv-chipmaking-6282711"
-    },
-    {
-      "title": "Meta's Zuckerberg says US should not block Chinese AI models, FT reports",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/metas-zuckerberg-says-us-should-not-block-chinese-ai-models-ft-reports-6284771"
-    },
-    {
-      "title": "Moonshot AI's Kimi K3 secures Day 0 support from Alibaba Cloud, Huawei Ascend",
+      "title": "White House reportedly approaches final framework for reviewing frontier models",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260729PD212/kimi-k3-ascend-huawei-cloud-alibaba.html"
+      "url": "https://www.digitimes.com/news/a20260729VL219/government-anthropic-openai-licensing-cybersecurity.html"
     },
     {
-      "title": "Wistron Opens First U.S. AI Smart Factory in Texas",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/wistron-opens-first-u-s-ai-smart-factory-in-texas/"
+      "title": "DBS rolls out AI banking tools to 10 million users",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/dbs-helps-customers-savvier-savers-investors"
+    },
+    {
+      "title": "Intel Foundry completes US microelectronics prototype program",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260729PR204/intel-foundry-intel-technology-supply-chain-manufacturing.html"
     }
   ],
   "source_stats": [
@@ -51,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 5,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -150,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 7,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 46,
-      "relevant": 32,
+      "fetched": 61,
+      "relevant": 46,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -179,7 +177,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -195,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
