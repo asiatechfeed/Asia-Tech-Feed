@@ -1,38 +1,40 @@
 {
   "date": "2026-07-29",
-  "count": 10,
+  "count": 14,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
+    "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-29-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Meta, BlackRock plan $14b Texas AI data center",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/meta-acquires-ai-agent-platform-moltbook"
-    },
-    {
-      "title": "SK Hynix posts sixfold rise in Q2 profit on AI chip demand, misses forecasts",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/sk-hynix-profit-ai-chip-demand-miss-forecast-6284436"
-    },
-    {
-      "title": "Tech employees call for US-backed global effort to manage risks of advanced AI",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/tech-employees-call-us-backed-global-effort-manage-risks-advanced-ai-6284401"
-    },
-    {
-      "title": "Commentary: Panic over Moonshot\u2019s Kimi K3 is a sputnik moment for \u2018open\u2019 AI",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/moonshot-kimi-panic-ai-sputnik-moment-6282731"
-    },
-    {
-      "title": "Magnitude 7.1 quake strikes Japan's Kumamoto; TSMC says JASM staff safe, recovery underway",
+      "title": "Samsung reportedly weighs Chinese DRAM for budget smartphones as memory inflation squeezes mobile market",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260728PD242/tsmc-jasm-earthquake-kumamoto-fab-japan.html"
+      "url": "https://www.digitimes.com/news/a20260729VL212/samsung-smartphone-dram-budget-low-cost.html"
+    },
+    {
+      "title": "China starts production of home-grown immersion DUV chipmaking tools: Source",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/china-start-production-immersion-duv-chipmaking-6282711"
+    },
+    {
+      "title": "Meta's Zuckerberg says US should not block Chinese AI models, FT reports",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/metas-zuckerberg-says-us-should-not-block-chinese-ai-models-ft-reports-6284771"
+    },
+    {
+      "title": "Moonshot AI's Kimi K3 secures Day 0 support from Alibaba Cloud, Huawei Ascend",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260729PD212/kimi-k3-ascend-huawei-cloud-alibaba.html"
+    },
+    {
+      "title": "Wistron Opens First U.S. AI Smart Factory in Texas",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/wistron-opens-first-u-s-ai-smart-factory-in-texas/"
     }
   ],
   "source_stats": [
@@ -49,7 +51,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 4,
+      "relevant": 5,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -148,16 +150,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 52,
-      "relevant": 37,
+      "fetched": 46,
+      "relevant": 32,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +168,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 7,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -177,7 +179,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -193,7 +195,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
