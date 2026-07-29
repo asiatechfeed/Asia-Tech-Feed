@@ -1,37 +1,38 @@
 {
-  "date": "2026-07-28",
-  "count": 7,
+  "date": "2026-07-29",
+  "count": 10,
   "sources": [
+    "CNA",
     "DigiTimes",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-28-asia-tech-news-digest.md",
+  "post_file": "2026-07-29-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Replacing fashion photoshoots with AI",
+      "title": "Meta, BlackRock plan $14b Texas AI data center",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/replacing-fashion-photoshoots-ai"
+      "url": "https://www.techinasia.com/meta-acquires-ai-agent-platform-moltbook"
     },
     {
-      "title": "Alibaba Cloud adds Kimi K3 to its AI platform",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/alibaba-cloud-leads-asia-pacific-cloud-market-in-2025"
+      "title": "SK Hynix posts sixfold rise in Q2 profit on AI chip demand, misses forecasts",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/sk-hynix-profit-ai-chip-demand-miss-forecast-6284436"
     },
     {
-      "title": "Squeezed by China, Taiwan ODMs pivot to AI for new growth",
+      "title": "Tech employees call for US-backed global effort to manage risks of advanced AI",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/tech-employees-call-us-backed-global-effort-manage-risks-advanced-ai-6284401"
+    },
+    {
+      "title": "Commentary: Panic over Moonshot\u2019s Kimi K3 is a sputnik moment for \u2018open\u2019 AI",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/moonshot-kimi-panic-ai-sputnik-moment-6282731"
+    },
+    {
+      "title": "Magnitude 7.1 quake strikes Japan's Kumamoto; TSMC says JASM staff safe, recovery underway",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260728PD231/taiwan-manufacturing-growth-wistron-component.html"
-    },
-    {
-      "title": "Nvidia invests in Ilya Sutskever's SSI, providing access to Vera Rubin compute platform",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260728VL207/nvidia-rubin-investment-partnership-openai.html"
-    },
-    {
-      "title": "Qualcomm chip price hike to squeeze China's Android makers on two fronts",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260728PD218/qualcomm-price-android-smartphone-cost.html"
+      "url": "https://www.digitimes.com/news/a20260728PD242/tsmc-jasm-earthquake-kumamoto-fab-japan.html"
     }
   ],
   "source_stats": [
@@ -48,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -155,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 49,
-      "relevant": 36,
+      "fetched": 52,
+      "relevant": 37,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,7 +166,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 6,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -192,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 20,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
