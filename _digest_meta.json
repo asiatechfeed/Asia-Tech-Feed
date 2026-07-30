@@ -4,36 +4,35 @@
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-30-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "LG Innotek, TDK Partner on Physical AI Sensing Solutions for Robots",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/lg-innotek-tdk-partner-on-physical-ai-sensing-solutions-for-robots/"
+      "title": "China's AI IPO wave fuels retail frenzy as investors anticipate more listings",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/china-ai-wave-retail-investor-frenzy-6280536"
     },
     {
-      "title": "TrendForce: NAND Flash Supply Growth to Outpace Demand in 2027",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/trendforce-nand-flash-supply-growth-to-outpace-demand-in-2027/"
+      "title": "Capgemini sees multi-year IT modernisation boom as firms prepare for AI",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/capgemini-sees-multi-year-it-modernisation-boom-firms-prepare-ai-6287986"
     },
     {
-      "title": "RISC-V Targets Data Centers as Open ISA Pushes Beyond Embedded Systems",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/risc-v-targets-data-centers-as-open-isa-pushes-beyond-embedded-systems/"
-    },
-    {
-      "title": "3 IP strategies companies overlook as AI reshapes innovation",
+      "title": "Digitizing the fragmented medical supply chain",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/3-ip-strategies-companies-overlook-ai-reshapes-innovation"
+      "url": "https://www.techinasia.com/digitizing-fragmented-medical-supply-chain"
     },
     {
-      "title": "Arm's AI-driven data center growth offsets smartphone weakness, but softer handset outlook weighs on shares",
+      "title": "South Korean suppliers win HBM4 tester orders from SK Hynix",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260730VL203/arm-data-center-smartphone-growth-revenue.html"
+      "url": "https://www.digitimes.com/news/a20260730VL224/sk-hynix-hbm-tester-wafer-advantest.html"
+    },
+    {
+      "title": "GlobalFoundries lands US$300M CHIPS backing for AI silicon photonics",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260730VL218/globalfoundries-photonics-silicon-award-optics.html"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -149,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 28,
+      "fetched": 58,
+      "relevant": 50,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -194,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
