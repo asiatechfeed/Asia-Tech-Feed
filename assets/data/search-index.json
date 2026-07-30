@@ -1,85 +1,141 @@
 [
   {
     "date": "2026-07-30",
-    "title": "Samsung Q2 profit jumps 19-fold as AI chip demand offsets mobile loss",
-    "summary": "Samsung Q2 profit jumps 19-fold as AI chip demand offsets mobile loss",
+    "title": "LG Innotek, TDK Partner on Physical AI Sensing Solutions for Robots",
+    "summary": "LG Innotek and TDK combine sensing technologies to develop advanced vision and tactile modules for next-generation physical AI robots. The post LG Innotek, TDK Partner on Physical AI Sensing Solutions for Robots appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.eetasia.com/lg-innotek-tdk-partner-on-physical-ai-sensing-solutions-for-robots/"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "TrendForce: NAND Flash Supply Growth to Outpace Demand in 2027",
+    "summary": "Ongoing process migrations by suppliers, steady growth in bit output, and persistent weak demand in consumer electronics are likely to gradually restore market balance. The post TrendForce: NAND Flash Supply Growth to Outpace Demand in 2027 appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.eetasia.com/trendforce-nand-flash-supply-growth-to-outpace-demand-in-2027/"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "RISC-V Targets Data Centers as Open ISA Pushes Beyond Embedded Systems",
+    "summary": "RISC-V advances into enterprise computing with server-class silicon, AI capabilities, and security innovations challenging incumbent processor architectures. The post RISC-V Targets Data Centers as Open ISA Pushes Beyond Embedded Systems appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/risc-v-targets-data-centers-as-open-isa-pushes-beyond-embedded-systems/"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "3 IP strategies companies overlook as AI reshapes innovation",
+    "summary": "Creating new ideas with AI is easier than ever, but the tougher challenge lies in converting them to lasting business value.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/3-ip-strategies-companies-overlook-ai-reshapes-innovation"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Arm's AI-driven data center growth offsets smartphone weakness, but softer handset outlook weighs on shares",
+    "summary": "Arm Holdings reported stronger-than-expected first-quarter results as demand for AI and data center chips lifted licensing and royalty revenue. However, the company's warning of slower smartphone royalty growth overshadowed its upbeat forecast, highlighting the challenge of balancing maturing handset markets with expan",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260730VL203/arm-data-center-smartphone-growth-revenue.html"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Samsung memory sales up 471% in 2Q26; foundry targets double-digit second-half growth",
+    "summary": "Samsung Electronics' Device Solutions (DS) division posted the most profitable quarter in its history in 2Q26, generating operating profit of KRW89.2 trillion (approx. US$61.6 billion) on sales of KRW127.5 trillion (approx. US$88.1 billion) — a 70% operating margin — as the AI-driven memory supercycle intensified.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260730VL208/samsung-hbm-demand-revenue-sales-growth.html"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "ChatGPT, Roblox may face EU big-platform rules",
+    "summary": "For ChatGPT, the move would extend Digital Services Act oversight to an AI service that European Union regulators had already been assessing.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/openai-trump-officials-upcoming-ai-models"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "US FCC curbs Chinese inverters and robots, accelerating global shift in connected device security",
+    "summary": "As power grids, renewable energy systems, and artificial intelligence data centers expand, a new US restriction on Chinese-made inverters and robots could affect suppliers, utilities, and security policies well beyond America. The move may accelerate shifts in global sourcing, tighten scrutiny of connected devices, and",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260730PD207/security-fcc-renewable-energy-data-inverter.html"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Qualcomm Q3 revenue falls 4%, auto chip sales jump 61%",
+    "summary": "Qualcomm completed its acquisition of AI software company Modular, enhancing its AI inference capabilities.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/qualcomm-jumps-15-after-data-center-chip-update"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Samsung operating profit up 1,800% in second quarter on AI boom",
+    "summary": "Analysts say the company’s boom is likely to continue as North American tech giants ramp up investment in AI data centres requiring their cutting-edge chips.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.channelnewsasia.com/business/samsung-q2-profit-jumps-19-fold-ai-chip-demand-offsets-mobile-loss-6287151"
+    "url": "https://www.channelnewsasia.com/business/samsung-operating-profit-up-second-quarter-ai-boom-6287151"
   },
   {
     "date": "2026-07-30",
-    "title": "Interview: Meet the Taiwan firm that wants to be the world's next big supplier of smart-vehicle 'eyes' with Japan— without China",
-    "summary": "As automotive electronics, electrification, software-defined vehicles (SDVs) and AI-defined vehicles (AIDVs) reshape the global auto industry, Taiwan's Ken Sean Industries is accelerating efforts to build a non-China automotive supply chain in partnership with leading Taiwanese electronics companies and Japanese automa",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260729PD223/automakers-automotive-electronics-electronics-taiwan-market.html"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "India launches homegrown silicon photonics tools to widen access for researchers and industry",
-    "summary": "India has launched two indigenously developed silicon photonics solutions to strengthen local chip design and testing capabilities. The move could matter beyond India, as it could expand global supply chains, lower development barriers, and accelerate the adoption of photonic chips used in communications, sensing, quan",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260729PR202/photonics-silicon-development-testing-technology.html"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "Japan and South Korea MLCC makers signal further price hikes amid AI demand",
-    "summary": "Japan and South Korea's MLCC suppliers are again raising prices, signaling tighter supply conditions that could affect electronics makers worldwide. The moves, led by major passive component manufacturers, suggest AI-related demand is reshaping a market previously softened by weaker consumer and automotive orders.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260729PD220/mlcc-demand-price-semco-electronics.html"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "SK Telecom launches A.X K2 AI model on Hugging Face",
-    "summary": "A.X K2 features 688 billion parameters, surpassing the previous 519-billion-parameter A.X K1 model.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "BPO firm Teleperformance to open 1st Vietnam site as AI changes outsourcing",
+    "summary": "BPO firm Teleperformance to open 1st Vietnam site as AI changes outsourcing",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/sk-telecom-partners-defense-ministry-military-ai"
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/bpo-firm-teleperformance-to-open-1st-vietnam-site-as-ai-changes-outsourcing"
   },
   {
     "date": "2026-07-30",
-    "title": "MAS, banks launch cyber risk taskforce on AI",
-    "summary": "Members include MAS, ABS, DBS, OCBC, UOB, Singapore Exchange (SGX), Network for Electronic Transfers (NETS), and Banking Computer Services (BCS).",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Samsung Electronics profit hits all-time high on device and memory sales",
+    "summary": "Samsung Electronics profit hits all-time high on device and memory sales",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
     "tags": [
-      "AI"
+      "Electronics"
     ],
-    "url": "https://www.techinasia.com/singapore-trial-tokenized-bills-2026"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "China’s Moonshot AI seeks more Nvidia chips for Kimi K4",
-    "summary": "Kimi K3 ranks fifth among 215 AI models, according to public benchmark tracker BenchLM.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/chinas-moonshot-ai-launches-kimi-k2-6-model"
+    "url": "https://asia.nikkei.com/business/companies/samsung-electronics-profit-hits-all-time-high-on-device-and-memory-sales"
   },
   {
     "date": "2026-07-29",

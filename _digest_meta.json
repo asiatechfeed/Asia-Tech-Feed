@@ -1,37 +1,39 @@
 {
   "date": "2026-07-30",
-  "count": 7,
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-30-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Samsung Q2 profit jumps 19-fold as AI chip demand offsets mobile loss",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/samsung-q2-profit-jumps-19-fold-ai-chip-demand-offsets-mobile-loss-6287151"
+      "title": "LG Innotek, TDK Partner on Physical AI Sensing Solutions for Robots",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/lg-innotek-tdk-partner-on-physical-ai-sensing-solutions-for-robots/"
     },
     {
-      "title": "Interview: Meet the Taiwan firm that wants to be the world's next big supplier of smart-vehicle 'eyes' with Japan\u2014 without China",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260729PD223/automakers-automotive-electronics-electronics-taiwan-market.html"
+      "title": "TrendForce: NAND Flash Supply Growth to Outpace Demand in 2027",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/trendforce-nand-flash-supply-growth-to-outpace-demand-in-2027/"
     },
     {
-      "title": "India launches homegrown silicon photonics tools to widen access for researchers and industry",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260729PR202/photonics-silicon-development-testing-technology.html"
+      "title": "RISC-V Targets Data Centers as Open ISA Pushes Beyond Embedded Systems",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/risc-v-targets-data-centers-as-open-isa-pushes-beyond-embedded-systems/"
     },
     {
-      "title": "Japan and South Korea MLCC makers signal further price hikes amid AI demand",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260729PD220/mlcc-demand-price-semco-electronics.html"
-    },
-    {
-      "title": "SK Telecom launches A.X K2 AI model on Hugging Face",
+      "title": "3 IP strategies companies overlook as AI reshapes innovation",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/sk-telecom-partners-defense-ministry-military-ai"
+      "url": "https://www.techinasia.com/3-ip-strategies-companies-overlook-ai-reshapes-innovation"
+    },
+    {
+      "title": "Arm's AI-driven data center growth offsets smartphone weakness, but softer handset outlook weighs on shares",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260730VL203/arm-data-center-smartphone-growth-revenue.html"
     }
   ],
   "source_stats": [
@@ -149,14 +151,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 26,
+      "relevant": 28,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
