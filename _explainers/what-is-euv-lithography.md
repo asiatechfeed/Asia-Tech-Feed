@@ -1,0 +1,423 @@
+---
+title: "What is EUV Lithography — and Why One Dutch Company Controls It All?"
+tags: [AI, Semiconductor]
+date: 2026-07-30
+author: "Colin Tan"
+excerpt: "Every advanced AI chip below 5nm is printed by machines only one company on Earth knows how to build. ASML's EUV monopoly is arguably the single most consequential industrial fact in computing today."
+---
+
+<p class="xp-lede">Inside every AI chip fabricated at 3nm or below is a secret from Veldhoven, the Netherlands. Not the design, not the architecture — the light. Extreme ultraviolet lithography, the process that physically writes circuit patterns onto silicon wafers, depends on machinery that only one company on Earth knows how to build. That company is ASML, and its monopoly may be the single most consequential industrial fact in computing today.</p>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>How lithography works — and why wavelength is everything.</b> Photolithography works by shining light through a patterned mask onto a silicon wafer coated in photosensitive material. Wherever light strikes, the coating reacts; the wafer is chemically etched, leaving behind the intended circuit pattern. The shorter the wavelength of light used, the finer the features that can be printed. This single physical law — resolution improves as wavelength shrinks — has driven the entire progression of chip manufacturing for 40 years.</p>
+    <p>For two decades, the industry was stuck at 193nm: the wavelength of argon fluoride (ArF) lasers, the limit of what conventional optics and light sources could achieve. Engineers squeezed extraordinary performance from this constraint via "multi-patterning" — exposing the same wafer layer multiple times with offset masks to print features smaller than the wavelength. It worked, but at enormous cost: TSMC's 7nm node required around 50 lithography steps. EUV cuts that to single-digit steps.</p>
+  </div>
+  <div>
+    <p><b>What makes EUV extraordinary — and extraordinarily difficult.</b> EUV produces light at 13.5 nanometres — roughly 14 times shorter than ArF. That single leap unlocks features that multi-patterning could only approximate at 10× the process complexity. But producing usable EUV light is an engineering feat bordering on the absurd: ASML's approach fires a high-power CO₂ laser at falling droplets of molten tin, 50,000 times per second, vaporising each droplet into a plasma that emits EUV light. That light — absorbed by air, glass, and virtually every material — is collected and focused entirely by mirrors, inside a chamber held at near-perfect vacuum.</p>
+    <p>An ASML NXE EUV machine contains over 100,000 components sourced from more than 5,000 suppliers across the Netherlands, Germany, Japan, and the United States. It weighs 180 tonnes, arrives in 40 freight containers, and a Low-NA model sells for €150–200 million ($165–220M). The company shipped just 26 of them in 2019, its first year of high-volume manufacturing readiness. No other organisation has shipped a single working EUV machine to a customer.</p>
+  </div>
+</div>
+
+<!-- ── EXHIBIT 1: Wavelength comparison ─────────────────── -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 1</div>
+  <h3>EUV's wavelength is 14× shorter than its predecessor — and that gap explains the monopoly</h3>
+  <p class="xp-exhibit-sub">Light source wavelength by lithography generation (nm); shorter = finer features printable</p>
+
+  <svg viewBox="0 0 720 246" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Horizontal bar chart showing wavelength shrinkage across lithography generations">
+    <defs>
+      <style>
+        .wa{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10.5px;fill:#5B6675}
+        .wb{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#5B6675}
+        .wc{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#00A6A6}
+        .wd{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#0A2240}
+        .we{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9.5px;fill:#F2620F}
+        .wf{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9.5px;fill:#00A6A6}
+        .wg{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9px;fill:#5B6675}
+        .wn{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#F2620F}
+      </style>
+    </defs>
+
+    <!-- Rows at y=[10,44,78,112,146,180], bar height=22 -->
+    <!-- Bar area: x=135 to x=695 (560px), max=400nm, scale=1.4px/nm -->
+    <!-- Bar widths: i-line=511, KrF=347, ArF=270, ArF-i=270, EUV=19, HiNA=19 -->
+
+    <!-- Row backgrounds (alternating faint) -->
+    <rect x="0"   y="10"  width="720" height="34" fill="#F8F9FB" rx="0"/>
+    <rect x="0"   y="78"  width="720" height="34" fill="#F8F9FB" rx="0"/>
+    <rect x="0"   y="146" width="720" height="34" fill="rgba(0,166,166,0.06)" rx="0"/>
+    <rect x="0"   y="180" width="720" height="34" fill="rgba(10,34,64,0.04)" rx="0"/>
+
+    <!-- ROW 1: i-line 365nm -->
+    <rect x="135" y="10"  width="511" height="22" fill="#C8D4E0" rx="1"/>
+    <text x="127" y="25"  text-anchor="end" class="wa">i-line (1982)</text>
+    <text x="652" y="25"  class="wb">365nm</text>
+
+    <!-- ROW 2: KrF 248nm -->
+    <rect x="135" y="44"  width="347" height="22" fill="#9AAEC5" rx="1"/>
+    <text x="127" y="59"  text-anchor="end" class="wa">KrF (1994)</text>
+    <text x="488" y="59"  class="wb">248nm</text>
+
+    <!-- ROW 3: ArF 193nm -->
+    <rect x="135" y="78"  width="270" height="22" fill="#6B84A3" rx="1"/>
+    <text x="127" y="93"  text-anchor="end" class="wa">ArF (2001)</text>
+    <text x="411" y="93"  class="wb">193nm</text>
+
+    <!-- ROW 4: ArF immersion 193nm -->
+    <rect x="135" y="112" width="270" height="22" fill="#3D5A7A" rx="1"/>
+    <text x="127" y="127" text-anchor="end" class="wa">ArF immersion (2005)</text>
+    <text x="411" y="127" class="wb">193nm</text>
+    <text x="415" y="139" class="wg">Multi-patterning tricks pushed this to ~7nm — at ~50 litho steps per layer</text>
+
+    <!-- DIVIDER between DUV and EUV eras -->
+    <line x1="135" y1="141" x2="695" y2="141" stroke="#D8DEE6" stroke-width="0.8" stroke-dasharray="4,3"/>
+
+    <!-- ROW 5: EUV 13.5nm — the breakthrough bar (tiny!) -->
+    <rect x="135" y="146" width="19"  height="22" fill="#00A6A6" rx="1"/>
+    <text x="127" y="161" text-anchor="end" class="wc">EUV (2019)</text>
+    <!-- Value + annotation in the wide empty space -->
+    <text x="160" y="158" class="wn">13.5nm</text>
+    <text x="230" y="158" class="wn">← 14× shorter than ArF</text>
+    <text x="160" y="172" class="we">Single-exposure resolution: 13nm features</text>
+
+    <!-- ROW 6: High-NA EUV 13.5nm -->
+    <rect x="135" y="180" width="19"  height="22" fill="#0A2240" rx="1"/>
+    <text x="127" y="195" text-anchor="end" class="wd">High-NA EUV (2025)</text>
+    <text x="160" y="192" class="wd" font-weight="700" font-size="10">13.5nm</text>
+    <text x="230" y="192" class="wd" font-weight="700" font-size="10">← 0.55 numerical aperture (up from 0.33)</text>
+    <text x="160" y="206" class="wf">Single-exposure resolution: 8nm features · 2.9× higher transistor density</text>
+
+    <!-- Legend -->
+    <rect x="135" y="226" width="12" height="8" fill="#9AAEC5" rx="1"/>
+    <text x="151" y="233" class="wg">DUV lithography (ArF, KrF, i-line)</text>
+    <rect x="370" y="226" width="12" height="8" fill="#00A6A6" rx="1"/>
+    <text x="386" y="233" class="wg">EUV — ASML monopoly</text>
+    <rect x="516" y="226" width="12" height="8" fill="#0A2240" rx="1"/>
+    <text x="532" y="233" class="wg">High-NA EUV — ASML monopoly</text>
+  </svg>
+
+  <p class="xp-exhibit-source">Source: ASML product specifications; TechInsights; TSMC technology disclosures; Tom's Hardware ASML roadmap analysis (May 2026). Multi-patterning litho-step count: industry estimate for TSMC N7 DUV process.</p>
+</figure>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>Why the monopoly exists — and why it will not break soon.</b> ASML holds the EUV monopoly not because it filed a patent first, but because it built the only working system. The technology required more than 30 years and an estimated $6 billion in joint R&D investment from Intel, TSMC and Samsung — the three companies that needed EUV most — before the first commercial machines shipped. Competitors including Nikon and Canon each have decades of lithography experience. Neither has shipped an EUV machine.</p>
+    <p>The barrier is not a single innovation but an accumulated stack of interdependent sub-systems: the tin-droplet light source, the mirror optics polished by Zeiss to 0.3nm surface smoothness, the vacuum chamber engineering, the mask infrastructure, the resist chemistry, the metrology. Each requires its own decade of refinement. ASML's installed base of EUV tools already in production worldwide creates a services revenue stream — €8.2 billion in 2025, up 26% year-on-year — that further compounds the advantage.</p>
+  </div>
+  <div>
+    <p><b>The geopolitical weapon.</b> The export control dimension arrived in full force in 2023. Under sustained US pressure, the Dutch government restricted ASML's ability to ship EUV machines to China — a ban that had existed informally since 2019 but was formalised and extended. In 2024, restrictions were widened to cover specific advanced DUV models, closing the multi-patterning workaround that SMIC had been using to approximate EUV. China's share of ASML's revenue, which peaked at 49% of system sales in Q2 2024 (a DUV stockpiling surge), was guided to fall to roughly 20% in 2026.</p>
+    <p>SMIC — China's most advanced foundry — demonstrated 7nm-class production using DUV multi-patterning for Huawei's Kirin 9000S, according to TechInsights. But the process requires significantly longer cycle times and uncertain yields. The practical ceiling for DUV multi-patterning is widely assessed at 5–7nm equivalent. TSMC and Samsung, equipped with EUV, are pushing to 2nm and beyond. The gap widens with every year and every ASML machine that ships outside China.</p>
+  </div>
+</div>
+
+<!-- ── EXHIBIT 2: EUV shipments ──────────────────────────── -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 2</div>
+  <h3>ASML shipped fewer than 50 EUV machines per year — each worth up to €400M</h3>
+  <p class="xp-exhibit-sub">Annual EUV (Low-NA + High-NA) units shipped; 2026F is Asia Tech Feed estimate based on ASML guidance</p>
+
+  <svg viewBox="0 0 720 258" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bar chart of ASML EUV machine shipments 2019 to 2026">
+    <defs>
+      <style>
+        .ea{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10.5px;fill:#5B6675}
+        .eb{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#0A2240}
+        .ec{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#F2620F}
+        .ed{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9px;fill:#5B6675}
+        .ee{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9.5px;fill:#F2620F}
+        .ef{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:11.5px;fill:#0A2240}
+      </style>
+    </defs>
+
+    <!-- Chart: y_bottom=220, height=175px (y=45 to y=220), max=70 units, scale=2.5px/unit -->
+    <!-- Gridlines at 20=y170, 40=y120, 60=y70 -->
+    <line x1="62" y1="220" x2="660" y2="220" stroke="#D8DEE6" stroke-width="0.8"/>
+    <line x1="62" y1="170" x2="660" y2="170" stroke="#D8DEE6" stroke-width="0.6"/>
+    <line x1="62" y1="120" x2="660" y2="120" stroke="#D8DEE6" stroke-width="0.6"/>
+    <line x1="62" y1="70"  x2="660" y2="70"  stroke="#D8DEE6" stroke-width="0.6"/>
+
+    <!-- Y-axis labels -->
+    <text x="56" y="224" text-anchor="end" class="ea">0</text>
+    <text x="56" y="174" text-anchor="end" class="ea">20</text>
+    <text x="56" y="124" text-anchor="end" class="ea">40</text>
+    <text x="56" y="74"  text-anchor="end" class="ea">60</text>
+
+    <!-- Bars (width=54, gap=18):
+         x positions: 75,147,219,291,363,435,507,579
+         Heights (×2.5px): 26=65,31=77.5,42=105,55=137.5,53=132.5,44=110,48=120,65=162.5
+         y tops: 155,142,115,82,87,110,100,57 -->
+
+    <!-- 2019: 26 units -->
+    <rect x="75"  y="155" width="54" height="65"  fill="#D8DEE6" rx="1"/>
+    <text x="102" y="150" text-anchor="middle" class="eb">26</text>
+    <text x="102" y="236" text-anchor="middle" class="ea">2019</text>
+
+    <!-- 2020: 31 units -->
+    <rect x="147" y="142" width="54" height="78"  fill="#BCC8D9" rx="1"/>
+    <text x="174" y="137" text-anchor="middle" class="eb">31</text>
+    <text x="174" y="236" text-anchor="middle" class="ea">2020</text>
+
+    <!-- 2021: 42 units -->
+    <rect x="219" y="115" width="54" height="105" fill="#8A94A6" rx="1"/>
+    <text x="246" y="110" text-anchor="middle" class="eb">42</text>
+    <text x="246" y="236" text-anchor="middle" class="ea">2021</text>
+
+    <!-- 2022: 55 units (peak so far) -->
+    <rect x="291" y="82"  width="54" height="138" fill="#3D5A7A" rx="1"/>
+    <text x="318" y="77"  text-anchor="middle" class="eb">55</text>
+    <text x="318" y="236" text-anchor="middle" class="ea">2022</text>
+    <!-- Peak annotation -->
+    <text x="318" y="65"  text-anchor="middle" class="ee">Peak</text>
+
+    <!-- 2023: 53 units -->
+    <rect x="363" y="87"  width="54" height="133" fill="#2D3E59" rx="1"/>
+    <text x="390" y="82"  text-anchor="middle" class="eb">53</text>
+    <text x="390" y="236" text-anchor="middle" class="ea">2023</text>
+
+    <!-- 2024: 44 units (dip — DUV demand dominated as China stockpiled) -->
+    <rect x="435" y="110" width="54" height="110" fill="#0A2240" rx="1"/>
+    <text x="462" y="105" text-anchor="middle" class="eb">44</text>
+    <text x="462" y="236" text-anchor="middle" class="ea">2024</text>
+
+    <!-- 2025: 48 units -->
+    <rect x="507" y="100" width="54" height="120" fill="#00A6A6" rx="1"/>
+    <text x="534" y="95"  text-anchor="middle" class="eb">48</text>
+    <text x="534" y="236" text-anchor="middle" class="ef">2025E</text>
+
+    <!-- 2026F: 65 units (ATF forecast) -->
+    <rect x="579" y="57"  width="54" height="163" fill="#00A6A6" rx="1" opacity="0.80"/>
+    <text x="606" y="52"  text-anchor="middle" class="ec">65F</text>
+    <text x="606" y="236" text-anchor="middle" class="ef">2026F</text>
+
+    <!-- Price annotation box (upper area, clear of bars) -->
+    <rect x="62" y="28" width="340" height="30" fill="#EEF2F7" rx="2"/>
+    <text x="72" y="42"  class="ed" font-weight="700">Machine ASP: </text>
+    <text x="148" y="42" class="ed">Low-NA EUV ~€150–200M</text>
+    <text x="72" y="53"  class="ed" font-weight="700">High-NA EUV (EXE:5200B): </text>
+    <text x="225" y="53" class="ed">~€380–400M · First production shipment Q4 2025</text>
+
+    <!-- Legend -->
+    <rect x="62"  y="248" width="12" height="8" fill="#D8DEE6" rx="1"/>
+    <text x="78"  y="255" class="ed">Historical</text>
+    <rect x="152" y="248" width="12" height="8" fill="#00A6A6" rx="1"/>
+    <text x="168" y="255" class="ed">2025E confirmed / 2026F forecast (ATF)</text>
+  </svg>
+
+  <p class="xp-exhibit-source">Source: ASML annual reports and earnings calls (2019–2025); CNBC ASML interview May 2025; Tom's Hardware ASML statistics January 2026; QuantumRun ASML statistics May 2026. 2026F: ATF estimate based on ASML guidance and backlog disclosures. Units = EUV systems (Low-NA NXE + High-NA EXE combined).</p>
+</figure>
+
+<blockquote class="xp-pull-quote">
+  <p>&#8220;ASML does not just sell a product — it sells the access road to every advanced chip below 5nm. There is no detour.&#8221;</p>
+  <cite>Colin Tan, Editor — Asia Tech Feed</cite>
+</blockquote>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>High-NA: the next generation arrives.</b> The EXE:5200B — ASML's High-NA EUV machine, with numerical aperture of 0.55 versus the 0.33 of Low-NA systems — entered production shipment in Q4 2025. It achieves 8nm minimum resolution per single exposure (versus 13nm for Low-NA), enabling 2.9 times higher transistor density. Price: approximately €380–400 million per unit. It requires 250 shipping crates and weighs 150,000 kilograms. Only a handful of companies can absorb both the cost and the operational complexity.</p>
+    <p>Intel was first to receive a development system; Samsung and SK hynix are adopting early. TSMC made the strategically notable decision to skip High-NA EUV until its A14 (1nm-class) node, estimated around 2028–29, citing the price premium relative to its extended Low-NA roadmap with computational lithography. ASML is now pushing price increases on Low-NA systems as well, seeking to capture value from the productivity gains its tools deliver — a move that reportedly frustrated TSMC but which its contracts make difficult to resist.</p>
+  </div>
+  <div>
+    <p><b>What China is doing instead.</b> China's response to the EUV wall is three-pronged. First, it is brute-forcing scale on DUV multi-patterning — tolerating lower yields and higher cycle times to produce 5–7nm chips at volume through SMIC. Second, it is investing heavily in domestic EUV R&D, led by the Changchun Institute of Optics, Fine Mechanics and Physics. Third, it is stockpiling advanced DUV tools before further export restrictions close remaining gaps — a strategy that drove China to nearly half of ASML's system revenue in early 2024 before the DUV restrictions tightened.</p>
+    <p>Analysts broadly assess that a domestically produced, commercially ready Chinese EUV machine remains at minimum a decade away from where ASML stood in 2019. The constraint is not funding — it is the accumulated sub-system expertise across thousands of suppliers that ASML spent 30 years building. The Zeiss optics alone took 15 years of dedicated development. For the foreseeable future, the frontier of semiconductor manufacturing is gated by one company's production schedule in a mid-sized Dutch city.</p>
+  </div>
+</div>
+
+<!-- ── EXHIBIT 3: Access matrix ──────────────────────────── -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 3</div>
+  <h3>The EUV access gap: who is inside the frontier, and who is locked out</h3>
+  <p class="xp-exhibit-sub">Lithography tool access and leading-edge node capability by foundry, as of July 2026</p>
+
+  <svg viewBox="0 0 720 262" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Matrix table showing EUV access by foundry and best achievable node">
+    <defs>
+      <style>
+        .ma{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10.5px;fill:#ffffff}
+        .mb{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#0A2240}
+        .mc{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9.5px;fill:#5B6675}
+        .md{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#00A6A6}
+        .me{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#E8A33D}
+        .mf{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#C0392B}
+        .mg{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#ffffff}
+        .mh{font-family:'Helvetica Neue',Arial,sans-serif;font-size:8.5px;fill:#5B6675}
+        .mi{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#1E8E5A}
+        .mj{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10px;fill:#0A2240}
+        .mk{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9.5px;fill:#00A6A6}
+        .ml{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9.5px;fill:#C0392B}
+      </style>
+    </defs>
+
+    <!-- Column boundaries: x= 0,170,300,440,565,720 -->
+    <!-- Col widths: Company=170, DUV=130, Low-NA EUV=140, High-NA EUV=125, Best Node=155 -->
+    <!-- Col centers: 85, 235, 370, 502, 642 -->
+
+    <!-- HEADER ROW (y=0 to y=32, navy bg) -->
+    <rect x="0"   y="0"   width="720" height="32" fill="#0A2240" rx="0"/>
+    <line x1="170" y1="0" x2="170" y2="32" stroke="#13335E" stroke-width="1"/>
+    <line x1="300" y1="0" x2="300" y2="32" stroke="#13335E" stroke-width="1"/>
+    <line x1="440" y1="0" x2="440" y2="32" stroke="#13335E" stroke-width="1"/>
+    <line x1="565" y1="0" x2="565" y2="32" stroke="#13335E" stroke-width="1"/>
+    <text x="85"  y="20" text-anchor="middle" class="ma" font-weight="700" font-size="10">FOUNDRY</text>
+    <text x="235" y="20" text-anchor="middle" class="ma" font-weight="700" font-size="10">DUV</text>
+    <text x="370" y="20" text-anchor="middle" class="ma" font-weight="700" font-size="10">LOW-NA EUV</text>
+    <text x="502" y="20" text-anchor="middle" class="ma" font-weight="700" font-size="10">HIGH-NA EUV</text>
+    <text x="642" y="20" text-anchor="middle" class="ma" font-weight="700" font-size="10">BEST NODE</text>
+
+    <!-- Row height=34, rows at y=32,66,100,134,168 + separator + 178,212 -->
+    <!-- Vertical column dividers -->
+    <line x1="170" y1="32" x2="170" y2="250" stroke="#D8DEE6" stroke-width="0.8"/>
+    <line x1="300" y1="32" x2="300" y2="250" stroke="#D8DEE6" stroke-width="0.8"/>
+    <line x1="440" y1="32" x2="440" y2="250" stroke="#D8DEE6" stroke-width="0.8"/>
+    <line x1="565" y1="32" x2="565" y2="250" stroke="#D8DEE6" stroke-width="0.8"/>
+
+    <!-- ── ROW 1: TSMC (y=32-66) ── -->
+    <rect x="0"   y="32"  width="720" height="34" fill="#ffffff"/>
+    <line x1="0" y1="66" x2="720" y2="66" stroke="#D8DEE6" stroke-width="0.6"/>
+    <!-- Company -->
+    <text x="12"  y="47"  class="mb">TSMC</text>
+    <text x="12"  y="60"  class="mc">Taiwan</text>
+    <!-- DUV: teal bg -->
+    <rect x="172" y="34"  width="126" height="30" fill="rgba(0,166,166,0.10)" rx="2"/>
+    <text x="235" y="52"  text-anchor="middle" class="md">✓ Full access</text>
+    <!-- Low-NA EUV: teal bg -->
+    <rect x="302" y="34"  width="136" height="30" fill="rgba(0,166,166,0.10)" rx="2"/>
+    <text x="370" y="52"  text-anchor="middle" class="md">✓ Full access</text>
+    <!-- High-NA EUV: gold (pending) -->
+    <rect x="442" y="34"  width="121" height="30" fill="rgba(232,163,61,0.12)" rx="2"/>
+    <text x="502" y="48"  text-anchor="middle" class="me">▲ From A14</text>
+    <text x="502" y="60"  text-anchor="middle" class="mh" fill="#E8A33D">~2028+</text>
+    <!-- Best node: -->
+    <text x="575" y="48"  class="mk">2nm (N2)</text>
+    <text x="575" y="61"  class="mh">In production 2025</text>
+
+    <!-- ── ROW 2: Samsung (y=66-100) ── -->
+    <rect x="0"   y="66"  width="720" height="34" fill="#F8F9FB"/>
+    <line x1="0" y1="100" x2="720" y2="100" stroke="#D8DEE6" stroke-width="0.6"/>
+    <text x="12"  y="81"  class="mb">Samsung</text>
+    <text x="12"  y="94"  class="mc">South Korea</text>
+    <rect x="172" y="68"  width="126" height="30" fill="rgba(0,166,166,0.10)" rx="2"/>
+    <text x="235" y="86"  text-anchor="middle" class="md">✓ Full access</text>
+    <rect x="302" y="68"  width="136" height="30" fill="rgba(0,166,166,0.10)" rx="2"/>
+    <text x="370" y="86"  text-anchor="middle" class="md">✓ Full access</text>
+    <rect x="442" y="68"  width="121" height="30" fill="rgba(0,166,166,0.10)" rx="2"/>
+    <text x="502" y="82"  text-anchor="middle" class="md">✓ Adopting</text>
+    <text x="502" y="94"  text-anchor="middle" class="mh" fill="#00A6A6">Early customer</text>
+    <text x="575" y="82"  class="mk">2nm (SF2)</text>
+    <text x="575" y="95"  class="mh">In production 2025</text>
+
+    <!-- ── ROW 3: Intel (y=100-134) ── -->
+    <rect x="0"   y="100" width="720" height="34" fill="#ffffff"/>
+    <line x1="0" y1="134" x2="720" y2="134" stroke="#D8DEE6" stroke-width="0.6"/>
+    <text x="12"  y="115" class="mb">Intel Foundry</text>
+    <text x="12"  y="128" class="mc">USA</text>
+    <rect x="172" y="102" width="126" height="30" fill="rgba(0,166,166,0.10)" rx="2"/>
+    <text x="235" y="120" text-anchor="middle" class="md">✓ Full access</text>
+    <rect x="302" y="102" width="136" height="30" fill="rgba(0,166,166,0.10)" rx="2"/>
+    <text x="370" y="120" text-anchor="middle" class="md">✓ Full access</text>
+    <rect x="442" y="102" width="121" height="30" fill="rgba(0,166,166,0.10)" rx="2"/>
+    <text x="502" y="116" text-anchor="middle" class="md">✓ First customer</text>
+    <text x="502" y="128" text-anchor="middle" class="mh" fill="#00A6A6">EXE:5200B Q4 2025</text>
+    <text x="575" y="116" class="mk">1.8nm (18A)</text>
+    <text x="575" y="129" class="mh">Volume 2025</text>
+
+    <!-- ── ROW 4: SK hynix (y=134-168) ── -->
+    <rect x="0"   y="134" width="720" height="34" fill="#F8F9FB"/>
+    <line x1="0" y1="168" x2="720" y2="168" stroke="#D8DEE6" stroke-width="0.6"/>
+    <text x="12"  y="149" class="mb">SK hynix</text>
+    <text x="12"  y="162" class="mc">South Korea · Memory</text>
+    <rect x="172" y="136" width="126" height="30" fill="rgba(0,166,166,0.10)" rx="2"/>
+    <text x="235" y="154" text-anchor="middle" class="md">✓ Full access</text>
+    <rect x="302" y="136" width="136" height="30" fill="rgba(0,166,166,0.10)" rx="2"/>
+    <text x="370" y="154" text-anchor="middle" class="md">✓ Full access</text>
+    <rect x="442" y="136" width="121" height="30" fill="rgba(232,163,61,0.12)" rx="2"/>
+    <text x="502" y="150" text-anchor="middle" class="me">▲ Planned</text>
+    <text x="502" y="162" text-anchor="middle" class="mh" fill="#E8A33D">ASML confirmed</text>
+    <text x="575" y="150" class="mk">DRAM 1β-class</text>
+    <text x="575" y="163" class="mh">HBM3E / HBM4</text>
+
+    <!-- ── EXPORT CONTROL SEPARATOR (y=168-182) ── -->
+    <rect x="0"   y="168" width="720" height="14" fill="rgba(192,57,43,0.08)"/>
+    <line x1="0" y1="168" x2="720" y2="168" stroke="#C0392B" stroke-width="1.2"/>
+    <line x1="0" y1="182" x2="720" y2="182" stroke="#C0392B" stroke-width="1.2"/>
+    <text x="360" y="179" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="700" fill="#C0392B" letter-spacing="1">— EUV EXPORT CONTROL BOUNDARY — NO ACCESS BELOW THIS LINE —</text>
+
+    <!-- ── ROW 5: SMIC (y=182-216) ── -->
+    <rect x="0"   y="182" width="720" height="34" fill="#FFF8F7"/>
+    <line x1="0" y1="216" x2="720" y2="216" stroke="#D8DEE6" stroke-width="0.6"/>
+    <text x="12"  y="197" class="mb">SMIC</text>
+    <text x="12"  y="210" class="mc">China · Leading foundry</text>
+    <rect x="172" y="184" width="126" height="30" fill="rgba(0,166,166,0.07)" rx="2"/>
+    <text x="235" y="198" text-anchor="middle" class="md" font-size="9.5">✓ DUV only</text>
+    <text x="235" y="210" text-anchor="middle" class="mh">NXT:1970i blocked</text>
+    <rect x="302" y="184" width="136" height="30" fill="rgba(192,57,43,0.08)" rx="2"/>
+    <text x="370" y="200" text-anchor="middle" class="mf">✕ Blocked</text>
+    <rect x="442" y="184" width="121" height="30" fill="rgba(192,57,43,0.08)" rx="2"/>
+    <text x="502" y="200" text-anchor="middle" class="mf">✕ Blocked</text>
+    <text x="575" y="196" class="ml">~5nm equiv.</text>
+    <text x="575" y="209" class="mh">DUV multi-patterning only</text>
+
+    <!-- ── ROW 6: Hua Hong (y=216-250) ── -->
+    <rect x="0"   y="216" width="720" height="34" fill="#FFF8F7"/>
+    <line x1="0" y1="250" x2="720" y2="250" stroke="#D8DEE6" stroke-width="0.6"/>
+    <text x="12"  y="231" class="mb">Hua Hong / CXMT</text>
+    <text x="12"  y="244" class="mc">China · Mature nodes / Memory</text>
+    <rect x="172" y="218" width="126" height="30" fill="rgba(232,163,61,0.08)" rx="2"/>
+    <text x="235" y="232" text-anchor="middle" class="me" font-size="9.5">▲ Limited DUV</text>
+    <text x="235" y="244" text-anchor="middle" class="mh">Older models only</text>
+    <rect x="302" y="218" width="136" height="30" fill="rgba(192,57,43,0.08)" rx="2"/>
+    <text x="370" y="236" text-anchor="middle" class="mf">✕ Blocked</text>
+    <rect x="442" y="218" width="121" height="30" fill="rgba(192,57,43,0.08)" rx="2"/>
+    <text x="502" y="236" text-anchor="middle" class="mf">✕ Blocked</text>
+    <text x="575" y="232" class="ml">28nm+ / DRAM 17nm</text>
+    <text x="575" y="245" class="mh">Mature nodes only</text>
+  </svg>
+
+  <p class="xp-exhibit-source">Source: ASML export licence reporting; Dutch Ministry of Economic Affairs; TechInsights (SMIC 7nm DUV analysis); TSMC investor day (A14 High-NA commitment); CNBC ASML interview May 2025; Tom's Hardware (Intel EXE:5200B first customer); ATF analysis. NXT:1970i export restriction confirmed by Dutch government 2024.</p>
+</figure>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>The backlog as a strategic signal.</b> ASML ended 2025 with a €38.8 billion backlog — more than a full year of revenue at then-current run rates. That backlog is not discretionary; it represents binding orders from foundry customers who cannot maintain their node roadmaps without the tools. The revenue trajectory toward ASML's stated €44–60 billion range for 2030 implies High-NA volumes ramping from a handful of machines today to 20–30 per year. At €380–400M per unit, each additional High-NA shipped reprices the entire industry's access to the leading edge.</p>
+  </div>
+  <div>
+    <p><b>The 2030 outlook: Hyper-NA and beyond.</b> ASML's published roadmap extends to a "Hyper-NA" generation beyond EXE:5200B, targeting the 2030s. The NXE:4200G, due 2029, represents the final major upgrade for Low-NA EUV. TSMC has committed to High-NA from its A14 node; Intel is using it on 14A production. Samsung is moving fastest into High-NA. The machine that ships in 2029 or 2030 will print circuits at dimensions not yet named — and it will come from one address, the same address every frontier chip has depended on since 2019.</p>
+  </div>
+</div>
+
+<div class="xp-callout">
+  <div class="xp-callout-label">The Bottom Line</div>
+  <p>ASML does not manufacture chips. It builds the machine that builds the machine that builds the chip. That position — two steps upstream, invisible to consumers, indispensable to everyone — makes it the most strategically important industrial company operating today. The export control that most directly limits China's AI ambitions is not a ban on Nvidia GPUs. It is a Dutch government licence that prevents one company in Veldhoven from shipping a 180-tonne machine to Shanghai. Everything else in the semiconductor race flows from that single fact.</p>
+</div>
+
+<div class="xp-author-bio">
+  <div class="xp-author-name">Colin Tan &nbsp;·&nbsp; Editor, Asia Tech Feed</div>
+  <p>Colin covers semiconductors, AI infrastructure and supply-chain dynamics across the Asia-Pacific region. He has tracked ASML's EUV ramp from its first commercial shipments in 2019 and writes the daily ATF digest. Reach him at <a href="mailto:colin.tan@asiatechfeed.com">colin.tan@asiatechfeed.com</a> or connect on LinkedIn.</p>
+</div>
+
+<div class="xp-footer-grid">
+  <div class="xp-key-numbers">
+    <div class="xp-kn-label">Key Numbers</div>
+    <div class="xp-kn-item"><div class="xp-kn-val">13.5nm</div><div class="xp-kn-desc">EUV wavelength<br>vs 193nm for ArF</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">€150-200M</div><div class="xp-kn-desc">Low-NA EUV<br>price per machine</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">€400M</div><div class="xp-kn-desc">High-NA EXE:5200B<br>price per machine</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">5,000+</div><div class="xp-kn-desc">Suppliers across<br>NL, DE, JP, US</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">€38.8B</div><div class="xp-kn-desc">ASML backlog<br>end-2025</div></div>
+  </div>
+  <div class="xp-related">
+    <div class="xp-related-label">Related Coverage</div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">REPORT</span>
+      <h4>Asia Tech Feed on Semiconductors: Outlook H2 2026–2027</h4>
+      <p>Full-length research report covering memflation, TSMC's packaging ramp, China's parallel stack, and ten falsifiable predictions for H2 2026–2027.</p>
+    </div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">EXPLAINER</span>
+      <h4>What is a chiplet, and why has packaging become the real chokepoint in chipmaking?</h4>
+      <p>EUV prints the dies — but CoWoS and SoIC decide whether they ship. The packaging constraint explained.</p>
+    </div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">EXPLAINER</span>
+      <h4>What is HBM memory and why does it matter for AI pricing?</h4>
+      <p>Every AI accelerator printed with EUV also needs HBM. The memory that makes it work — and why it is driving the industry's biggest cost squeeze.</p>
+    </div>
+  </div>
+</div>
