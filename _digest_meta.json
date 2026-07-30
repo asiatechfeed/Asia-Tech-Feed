@@ -1,38 +1,39 @@
 {
-  "date": "2026-07-29",
-  "count": 9,
+  "date": "2026-07-30",
+  "count": 11,
   "sources": [
+    "CNA",
     "DigiTimes",
     "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-29-asia-tech-news-digest.md",
+  "post_file": "2026-07-30-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "This startup fixes the quality problem in remote hiring",
+      "title": "Samsung says rising memory costs will lift Taiwan smartphone market value more than 8% in 2026",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260729PD234/samsung-galaxy-smartphone-market-taiwan-2026.html"
+    },
+    {
+      "title": "Research Insight: German automakers shift strategy as AI powers next-gen cars",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260729PD232/automakers-growth-vehicle-market-bmw.html"
+    },
+    {
+      "title": "AMD's Helios gains ground in challenge to Nvidia's CUDA",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260729PD230/amd-nvidia-cuda-infrastructure-competition.html"
+    },
+    {
+      "title": "These are Asia\u2019s most active investors in AI",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/startup-fixes-quality-problem-remote-hiring"
+      "url": "https://www.techinasia.com/these-are-asias-most-active-investors-in-ai"
     },
     {
-      "title": "China's GenAI race shifts to open source ecosystems",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260729PD224/genai-kimi-k3-openai-meta-google.html"
-    },
-    {
-      "title": "White House reportedly approaches final framework for reviewing frontier models",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260729VL219/government-anthropic-openai-licensing-cybersecurity.html"
-    },
-    {
-      "title": "DBS rolls out AI banking tools to 10 million users",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/dbs-helps-customers-savvier-savers-investors"
-    },
-    {
-      "title": "Intel Foundry completes US microelectronics prototype program",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260729PR204/intel-foundry-intel-technology-supply-chain-manufacturing.html"
+      "title": "Exclusive-Intel providing chip technology to startup led by co-investor of Tan in rare deal",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/exclusive-intel-providing-chip-technology-startup-led-co-investor-tan-in-rare-deal-6287056"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -129,7 +130,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -148,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 6,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 61,
-      "relevant": 46,
+      "fetched": 35,
+      "relevant": 26,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -193,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null

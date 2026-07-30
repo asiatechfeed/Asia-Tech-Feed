@@ -1,5 +1,129 @@
 [
   {
+    "date": "2026-07-30",
+    "title": "Samsung says rising memory costs will lift Taiwan smartphone market value more than 8% in 2026",
+    "summary": "Rising prices for memory and other key components are weighing on smartphone demand in Taiwan, but the overall market value is still expected to grow in 2026, according to Samsung Electronics Taiwan.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260729PD234/samsung-galaxy-smartphone-market-taiwan-2026.html"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Research Insight: German automakers shift strategy as AI powers next-gen cars",
+    "summary": "Global automakers are facing slower market growth, the rapid rise of Chinese carmakers, and sustained EV investment, with Volkswagen, BMW, and Mercedes-Benz under strain in recent years. While German automakers still lead the global auto industry, revenue and profitability have come under broad pressure over the past t",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260729PD232/automakers-growth-vehicle-market-bmw.html"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "AMD's Helios gains ground in challenge to Nvidia's CUDA",
+    "summary": "AI infrastructure competition is intensifying, but the market is no longer focusing only on GPU performance and is instead re-evaluating the entire computing system. For AMD, the chance to turn software improvements into market share is now emerging, but two hurdles remain: whether ROCm can run stably in large clusters",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260729PD230/amd-nvidia-cuda-infrastructure-competition.html"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "These are Asia’s most active investors in AI",
+    "summary": "We've compiled a list of investors that are pouring money into Asia’s AI startups.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/these-are-asias-most-active-investors-in-ai"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Exclusive-Intel providing chip technology to startup led by co-investor of Tan in rare deal",
+    "summary": "Exclusive-Intel providing chip technology to startup led by co-investor of Tan in rare deal",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/exclusive-intel-providing-chip-technology-startup-led-co-investor-tan-in-rare-deal-6287056"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "UMC Expands Singapore and Taiwan Fabs to Support AI, Silicon Photonics Demand",
+    "summary": "UMC is expanding manufacturing capacity in Singapore and Taiwan to address rising AI, silicon photonics, and advanced packaging demand. The post UMC Expands Singapore and Taiwan Fabs to Support AI, Silicon Photonics Demand appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/umc-expands-singapore-and-taiwan-fabs-to-support-ai-silicon-photonics-demand/"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Taiwanese chipmaker UMC expands Singapore facility",
+    "summary": "UMC said the expansion is aimed at meeting customer demand from growing AI adoption.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/tsmc-leads-foundry-market-with-70-share-in-q2-2025"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Microchip Acquires Edge AI Chip Startup Hailo",
+    "summary": "Microchip to Acquire Edge AI Chip Startup Hailo in Sanghi’s First Deal. The post Microchip Acquires Edge AI Chip Startup Hailo appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/embeddednews-microchip-acquires-edge-ai-chip-startup-hailo/"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "AMD Unveils MI-Series GPUs, EPYC CPUs, Helios Racks to Challenge Nvidia",
+    "summary": "AMD Data Center GPUs Fire Warning Shot at Nvidia | Advancing AI The post AMD Unveils MI-Series GPUs, EPYC CPUs, Helios Racks to Challenge Nvidia appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/embeddednews-amd-unveils-mi-series-gpus-epyc-cpus-to-challenge-nvidia/"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Sam Altman warns closed AI ecosystems create a monopoly trap",
+    "summary": "OpenAI's CEO explains why AI should become shared infrastructure, and why trust, regulation, and human oversight will determine who benefits.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/openai-ceo-keeping-ai-open"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "South Korean stocks plunge, erasing AI rally gains as chip selloff deepens",
+    "summary": "South Korean stocks plunge, erasing AI rally gains as chip selloff deepens",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/markets/south-korean-stocks-plunge-erasing-ai-rally-gains-as-chip-selloff-deepens"
+  },
+  {
     "date": "2026-07-29",
     "title": "This startup fixes the quality problem in remote hiring",
     "summary": "FindTalent.ph connects small businesses with pre-screened Filipino professionals using AI matching and manual recruiter verification.",
