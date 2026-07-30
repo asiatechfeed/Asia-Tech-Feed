@@ -1,127 +1,85 @@
 [
   {
     "date": "2026-07-30",
-    "title": "Samsung says rising memory costs will lift Taiwan smartphone market value more than 8% in 2026",
-    "summary": "Rising prices for memory and other key components are weighing on smartphone demand in Taiwan, but the overall market value is still expected to grow in 2026, according to Samsung Electronics Taiwan.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260729PD234/samsung-galaxy-smartphone-market-taiwan-2026.html"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "Research Insight: German automakers shift strategy as AI powers next-gen cars",
-    "summary": "Global automakers are facing slower market growth, the rapid rise of Chinese carmakers, and sustained EV investment, with Volkswagen, BMW, and Mercedes-Benz under strain in recent years. While German automakers still lead the global auto industry, revenue and profitability have come under broad pressure over the past t",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260729PD232/automakers-growth-vehicle-market-bmw.html"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "AMD's Helios gains ground in challenge to Nvidia's CUDA",
-    "summary": "AI infrastructure competition is intensifying, but the market is no longer focusing only on GPU performance and is instead re-evaluating the entire computing system. For AMD, the chance to turn software improvements into market share is now emerging, but two hurdles remain: whether ROCm can run stably in large clusters",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260729PD230/amd-nvidia-cuda-infrastructure-competition.html"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "These are Asia’s most active investors in AI",
-    "summary": "We've compiled a list of investors that are pouring money into Asia’s AI startups.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/these-are-asias-most-active-investors-in-ai"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "Exclusive-Intel providing chip technology to startup led by co-investor of Tan in rare deal",
-    "summary": "Exclusive-Intel providing chip technology to startup led by co-investor of Tan in rare deal",
+    "title": "Samsung Q2 profit jumps 19-fold as AI chip demand offsets mobile loss",
+    "summary": "Samsung Q2 profit jumps 19-fold as AI chip demand offsets mobile loss",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
+      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.channelnewsasia.com/business/exclusive-intel-providing-chip-technology-startup-led-co-investor-tan-in-rare-deal-6287056"
+    "url": "https://www.channelnewsasia.com/business/samsung-q2-profit-jumps-19-fold-ai-chip-demand-offsets-mobile-loss-6287151"
   },
   {
     "date": "2026-07-30",
-    "title": "UMC Expands Singapore and Taiwan Fabs to Support AI, Silicon Photonics Demand",
-    "summary": "UMC is expanding manufacturing capacity in Singapore and Taiwan to address rising AI, silicon photonics, and advanced packaging demand. The post UMC Expands Singapore and Taiwan Fabs to Support AI, Silicon Photonics Demand appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "Interview: Meet the Taiwan firm that wants to be the world's next big supplier of smart-vehicle 'eyes' with Japan— without China",
+    "summary": "As automotive electronics, electrification, software-defined vehicles (SDVs) and AI-defined vehicles (AIDVs) reshape the global auto industry, Taiwan's Ken Sean Industries is accelerating efforts to build a non-China automotive supply chain in partnership with leading Taiwanese electronics companies and Japanese automa",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "Semiconductor"
+      "Electronics",
+      "Logistics"
     ],
-    "url": "https://www.eetasia.com/umc-expands-singapore-and-taiwan-fabs-to-support-ai-silicon-photonics-demand/"
+    "url": "https://www.digitimes.com/news/a20260729PD223/automakers-automotive-electronics-electronics-taiwan-market.html"
   },
   {
     "date": "2026-07-30",
-    "title": "Taiwanese chipmaker UMC expands Singapore facility",
-    "summary": "UMC said the expansion is aimed at meeting customer demand from growing AI adoption.",
+    "title": "India launches homegrown silicon photonics tools to widen access for researchers and industry",
+    "summary": "India has launched two indigenously developed silicon photonics solutions to strengthen local chip design and testing capabilities. The move could matter beyond India, as it could expand global supply chains, lower development barriers, and accelerate the adoption of photonic chips used in communications, sensing, quan",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260729PR202/photonics-silicon-development-testing-technology.html"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Japan and South Korea MLCC makers signal further price hikes amid AI demand",
+    "summary": "Japan and South Korea's MLCC suppliers are again raising prices, signaling tighter supply conditions that could affect electronics makers worldwide. The moves, led by major passive component manufacturers, suggest AI-related demand is reshaping a market previously softened by weaker consumer and automotive orders.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260729PD220/mlcc-demand-price-semco-electronics.html"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "SK Telecom launches A.X K2 AI model on Hugging Face",
+    "summary": "A.X K2 features 688 billion parameters, surpassing the previous 519-billion-parameter A.X K1 model.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/sk-telecom-partners-defense-ministry-military-ai"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "MAS, banks launch cyber risk taskforce on AI",
+    "summary": "Members include MAS, ABS, DBS, OCBC, UOB, Singapore Exchange (SGX), Network for Electronic Transfers (NETS), and Banking Computer Services (BCS).",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/singapore-trial-tokenized-bills-2026"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "China’s Moonshot AI seeks more Nvidia chips for Kimi K4",
+    "summary": "Kimi K3 ranks fifth among 215 AI models, according to public benchmark tracker BenchLM.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/tsmc-leads-foundry-market-with-70-share-in-q2-2025"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "Microchip Acquires Edge AI Chip Startup Hailo",
-    "summary": "Microchip to Acquire Edge AI Chip Startup Hailo in Sanghi’s First Deal. The post Microchip Acquires Edge AI Chip Startup Hailo appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.eetasia.com/embeddednews-microchip-acquires-edge-ai-chip-startup-hailo/"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "AMD Unveils MI-Series GPUs, EPYC CPUs, Helios Racks to Challenge Nvidia",
-    "summary": "AMD Data Center GPUs Fire Warning Shot at Nvidia | Advancing AI The post AMD Unveils MI-Series GPUs, EPYC CPUs, Helios Racks to Challenge Nvidia appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/embeddednews-amd-unveils-mi-series-gpus-epyc-cpus-to-challenge-nvidia/"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "Sam Altman warns closed AI ecosystems create a monopoly trap",
-    "summary": "OpenAI's CEO explains why AI should become shared infrastructure, and why trust, regulation, and human oversight will determine who benefits.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/openai-ceo-keeping-ai-open"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "South Korean stocks plunge, erasing AI rally gains as chip selloff deepens",
-    "summary": "South Korean stocks plunge, erasing AI rally gains as chip selloff deepens",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://asia.nikkei.com/business/markets/south-korean-stocks-plunge-erasing-ai-rally-gains-as-chip-selloff-deepens"
+    "url": "https://www.techinasia.com/chinas-moonshot-ai-launches-kimi-k2-6-model"
   },
   {
     "date": "2026-07-29",

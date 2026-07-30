@@ -1,39 +1,37 @@
 {
   "date": "2026-07-30",
-  "count": 11,
+  "count": 7,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-07-30-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Samsung says rising memory costs will lift Taiwan smartphone market value more than 8% in 2026",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260729PD234/samsung-galaxy-smartphone-market-taiwan-2026.html"
-    },
-    {
-      "title": "Research Insight: German automakers shift strategy as AI powers next-gen cars",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260729PD232/automakers-growth-vehicle-market-bmw.html"
-    },
-    {
-      "title": "AMD's Helios gains ground in challenge to Nvidia's CUDA",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260729PD230/amd-nvidia-cuda-infrastructure-competition.html"
-    },
-    {
-      "title": "These are Asia\u2019s most active investors in AI",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/these-are-asias-most-active-investors-in-ai"
-    },
-    {
-      "title": "Exclusive-Intel providing chip technology to startup led by co-investor of Tan in rare deal",
+      "title": "Samsung Q2 profit jumps 19-fold as AI chip demand offsets mobile loss",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/exclusive-intel-providing-chip-technology-startup-led-co-investor-tan-in-rare-deal-6287056"
+      "url": "https://www.channelnewsasia.com/business/samsung-q2-profit-jumps-19-fold-ai-chip-demand-offsets-mobile-loss-6287151"
+    },
+    {
+      "title": "Interview: Meet the Taiwan firm that wants to be the world's next big supplier of smart-vehicle 'eyes' with Japan\u2014 without China",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260729PD223/automakers-automotive-electronics-electronics-taiwan-market.html"
+    },
+    {
+      "title": "India launches homegrown silicon photonics tools to widen access for researchers and industry",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260729PR202/photonics-silicon-development-testing-technology.html"
+    },
+    {
+      "title": "Japan and South Korea MLCC makers signal further price hikes amid AI demand",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260729PD220/mlcc-demand-price-semco-electronics.html"
+    },
+    {
+      "title": "SK Telecom launches A.X K2 AI model on Hugging Face",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/sk-telecom-partners-defense-ministry-military-ai"
     }
   ],
   "source_stats": [
@@ -50,7 +48,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -130,7 +128,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -151,7 +149,7 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -169,7 +167,7 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 16,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
