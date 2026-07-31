@@ -1,38 +1,38 @@
 {
-  "date": "2026-07-30",
-  "count": 12,
+  "date": "2026-07-31",
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-07-30-asia-tech-news-digest.md",
+  "post_file": "2026-07-31-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "China's AI IPO wave fuels retail frenzy as investors anticipate more listings",
+      "title": "Anthropic says its AI models hacked systems of three companies during tests",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/china-ai-wave-retail-investor-frenzy-6280536"
+      "url": "https://www.channelnewsasia.com/business/anthropic-says-its-ai-models-hacked-systems-three-companies-during-tests-6289726"
     },
     {
-      "title": "Capgemini sees multi-year IT modernisation boom as firms prepare for AI",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/capgemini-sees-multi-year-it-modernisation-boom-firms-prepare-ai-6287986"
-    },
-    {
-      "title": "Digitizing the fragmented medical supply chain",
+      "title": "LG Electronics expands Nvidia ties for robotics",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/digitizing-fragmented-medical-supply-chain"
+      "url": "https://www.techinasia.com/lg-electronics-to-test-ai-home-robot-in-2027-ceo-says"
     },
     {
-      "title": "South Korean suppliers win HBM4 tester orders from SK Hynix",
+      "title": "OpenAI's ChatGPT about to reach 1B weekly users as AI rivalry heats up",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260730VL224/sk-hynix-hbm-tester-wafer-advantest.html"
+      "url": "https://www.digitimes.com/news/a20260730VL228/openai-chatgpt-growth-claude-revenue.html"
     },
     {
-      "title": "GlobalFoundries lands US$300M CHIPS backing for AI silicon photonics",
+      "title": "ASE sees full-year LEAP revenue topping US$3.5 billion amid tight packaging capacity",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260730VL218/globalfoundries-photonics-silicon-award-optics.html"
+      "url": "https://www.digitimes.com/news/a20260730PD230/ase-revenue-packaging-capacity-testing.html"
+    },
+    {
+      "title": "Samsung signs five-year memory deals as chip shortage stretches to 2028",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260730VL233/samsung-2028-demand-dram-price.html"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 4,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -129,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -156,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 58,
-      "relevant": 50,
+      "fetched": 65,
+      "relevant": 56,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +166,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
