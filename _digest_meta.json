@@ -1,8 +1,7 @@
 {
   "date": "2026-07-31",
-  "count": 11,
+  "count": 9,
   "sources": [
-    "CNA",
     "DigiTimes",
     "NikkeiAsia",
     "TechAsia"
@@ -10,29 +9,29 @@
   "post_file": "2026-07-31-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "TSMC explores new AI chip packaging with Kinsus",
+      "title": "ByteDance releases Seedance 2.5 with multi-input AI video",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/tsmc-build-3-packaging-plants-chiayi"
+      "url": "https://www.techinasia.com/bytedance-spend-30b-china-ai-2026"
     },
     {
-      "title": "Fidelity leads $300m round for chip startup Xsight Labs",
+      "title": "India\u2019s Sarvam attemps to be a full-stack AI player",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/starlink-chooses-israeli-chip-firm-for-satellite-network"
+      "url": "https://www.techinasia.com/indias-sarvam-attemps-fullstack-ai-player"
     },
     {
-      "title": "Catalan leader looks to Singapore's housing model as he deepens Asia ties",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/catalonia-president-salvador-illa-visits-singapore-interview-asia-cooperation-6290016"
+      "title": "SK hynix jumps 30% as AI chip stocks rebound",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/sk-hynixs-us-listing-7x-oversubscribed-source-says"
     },
     {
-      "title": "Memory shortages deepen as prices climb into the second half of 2026",
+      "title": "Exclusive Interview: Helium shock threatens advanced chipmaking as Asia shifts dependence to the US",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260731PD211/2026-supply-chain-dram-demand-market.html"
+      "url": "https://www.digitimes.com/news/a20260721VL214/helium-qatar.html?chid=10"
     },
     {
-      "title": "Morgan Stanley in talks on $15b Texas AI financing",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/blackstone-softbank-said-to-eye-investment-in-indian-ai-startup"
+      "title": "Amazon's Zoox receives US approval for commercial deployment of robotaxis",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260731VL213/zoox-amazon-transportation-commercial-robotaxi.html"
     }
   ],
   "source_stats": [
@@ -49,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -129,7 +128,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -156,8 +155,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 40,
-      "relevant": 32,
+      "fetched": 59,
+      "relevant": 46,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +165,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 14,
+      "relevant": 13,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -193,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 19,
+      "relevant": 21,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null

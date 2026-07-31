@@ -1,127 +1,104 @@
 [
   {
     "date": "2026-07-31",
-    "title": "TSMC explores new AI chip packaging with Kinsus",
-    "summary": "TSMC mainly uses CoWoS, or Chip-on-Wafer-on-Substrate, to package high-end AI processors, including chips for customers such as Nvidia and AMD.",
+    "title": "ByteDance releases Seedance 2.5 with multi-input AI video",
+    "summary": "Seedance 2.0 scored 1,219 in Artificial Analysis's text-to-video arena.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "AI",
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.techinasia.com/tsmc-build-3-packaging-plants-chiayi"
+    "url": "https://www.techinasia.com/bytedance-spend-30b-china-ai-2026"
   },
   {
     "date": "2026-07-31",
-    "title": "Fidelity leads $300m round for chip startup Xsight Labs",
-    "summary": "Xsight said demand for AI and cloud connectivity helped drive the funding round.",
+    "title": "India’s Sarvam attemps to be a full-stack AI player",
+    "summary": "The underlying strategy is to capture a meaningful share of India’s AI-token consumption.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "AI",
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.techinasia.com/starlink-chooses-israeli-chip-firm-for-satellite-network"
+    "url": "https://www.techinasia.com/indias-sarvam-attemps-fullstack-ai-player"
   },
   {
     "date": "2026-07-31",
-    "title": "Catalan leader looks to Singapore's housing model as he deepens Asia ties",
-    "summary": "Catalan President Salvador Illa says Singapore's public housing model offers lessons for Europe, as he seeks closer economic cooperation in logistics, technology, agri-food and air connectivity.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Logistics"
-    ],
-    "url": "https://www.channelnewsasia.com/singapore/catalonia-president-salvador-illa-visits-singapore-interview-asia-cooperation-6290016"
-  },
-  {
-    "date": "2026-07-31",
-    "title": "Memory shortages deepen as prices climb into the second half of 2026",
-    "summary": "Memory shortages are tightening across the supply chain, and higher contract prices are set to ripple through global electronics markets. With DRAM lead times stretching and suppliers holding firm, buyers of servers, PCs, and mobile devices may face more cost pressure, even as end-market demand remains uneven worldwide",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "SK hynix jumps 30% as AI chip stocks rebound",
+    "summary": "SK hynix shares rose 29.95% to 1.7 million won (US$1,200), while Samsung Electronics gained 25.6% to 260,000 won (US$180).",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "Electronics",
-      "Logistics"
+      "AI",
+      "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260731PD211/2026-supply-chain-dram-demand-market.html"
+    "url": "https://www.techinasia.com/sk-hynixs-us-listing-7x-oversubscribed-source-says"
   },
   {
     "date": "2026-07-31",
-    "title": "Morgan Stanley in talks on $15b Texas AI financing",
-    "summary": "Nexus Data Centers' Hubbard project includes 600 megawatts of on-site natural gas generation.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/blackstone-softbank-said-to-eye-investment-in-indian-ai-startup"
-  },
-  {
-    "date": "2026-07-31",
-    "title": "Shanghai rises as China's lithography hub, powered by SMEE, Huawei and rising DUV rivals",
-    "summary": "China's lithography equipment sector has returned to the global semiconductor spotlight following reports that a domestically developed immersion deep ultraviolet (DUV) system has entered mass production.",
+    "title": "Exclusive Interview: Helium shock threatens advanced chipmaking as Asia shifts dependence to the US",
+    "summary": "As geopolitical tensions in the Middle East continue to intensify, shifting export conditions and a broader realignment of supply from Qatar to the United States are reshaping global access to one of semiconductor manufacturing's most fundamental materials: helium.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260731PD213/equipment-duv-huawei-shanghai-smee.html"
+    "url": "https://www.digitimes.com/news/a20260721VL214/helium-qatar.html?chid=10"
   },
   {
     "date": "2026-07-31",
-    "title": "Kioxia begins sampling 1TB 3D flash memory for AI devices",
-    "summary": "Kioxia has begun shipping samples of 1TB triple-level cell memory devices built with its 9th-generation BiCS FLASH 3D flash memory technology. The move signals faster, lower-cost storage options for AI-enabled PCs and smartphones, while also underscoring broader supply-chain developments that may shape device performan",
+    "title": "Amazon's Zoox receives US approval for commercial deployment of robotaxis",
+    "summary": "US transportation authorities have allowed Amazon's Zoox to operate commercially on a limited basis, making it the first paid robotaxi service approved in the country. This follows efforts by Trump administration officials to relax certain rules in an effort to encourage development in autonomous driving technology.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260731VL213/zoox-amazon-transportation-commercial-robotaxi.html"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "Thunder Tiger calls for budget clarity as Taiwan pushes uncrewed surface vessel development",
+    "summary": "Taiwanese drone manufacturer Thunder Tiger demonstrated an uncrewed surface vessel (USV) equipped with mission autonomy software in collaboration with US-based defense technology startup Shield AI at Dapeng Bay, Taiwan, on July 29. While Taiwanese companies are actively pushing for greater autonomy in unmanned vehicle ",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260731PR201/kioxia-technology-flash-3d-performance.html"
+    "url": "https://www.digitimes.com/news/a20260730PD237/taiwan-development-budget-policy-partnership.html"
   },
   {
     "date": "2026-07-31",
-    "title": "Volatile South Korean shares soar on renewed semiconductor buying",
-    "summary": "Volatile South Korean shares soar on renewed semiconductor buying",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/business/volatile-south-korean-shares-soar-renewed-semiconductor-buying-6290006"
-  },
-  {
-    "date": "2026-07-31",
-    "title": "Calbee's chip sales show why color matters in food packaging",
-    "summary": "Calbee's chip sales show why color matters in food packaging",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://asia.nikkei.com/business/food-beverage/calbee-s-chip-sales-show-why-color-matters-in-food-packaging"
-  },
-  {
-    "date": "2026-07-31",
-    "title": "Global M&A deals reach record $2.8tn in 1st half amid fight for AI lead",
-    "summary": "Global M&A deals reach record $2.8tn in 1st half amid fight for AI lead",
+    "title": "Editor's Choice: For Asia in particular, the dot-com bubble and AI boom are different",
+    "summary": "Editor's Choice: For Asia in particular, the dot-com bubble and AI boom are different",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/business-trends/global-m-a-deals-reach-record-2.8tn-in-1st-half-amid-fight-for-ai-lead"
+    "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-for-asia-in-particular-the-dot-com-bubble-and-ai-boom-are-different"
   },
   {
     "date": "2026-07-31",
-    "title": "Quake damage at Japan auto parts maker ripples through massive supply chain",
-    "summary": "Quake damage at Japan auto parts maker ripples through massive supply chain",
+    "title": "Microsoft ponders open-weight AI as China models gain ground",
+    "summary": "Microsoft ponders open-weight AI as China models gain ground",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "Logistics"
+      "AI"
     ],
-    "url": "https://asia.nikkei.com/spotlight/supply-chain/quake-damage-at-japan-auto-parts-maker-ripples-through-massive-supply-chain"
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-ponders-open-weight-ai-as-china-models-gain-ground"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "Why Nvidia and others in Silicon Valley oppose a US ban on Chinese AI",
+    "summary": "Why Nvidia and others in Silicon Valley oppose a US ban on Chinese AI",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/why-nvidia-and-others-in-silicon-valley-oppose-a-us-ban-on-chinese-ai"
   },
   {
     "date": "2026-07-30",
