@@ -1,116 +1,127 @@
 [
   {
     "date": "2026-07-31",
-    "title": "Anthropic says its AI models hacked systems of three companies during tests",
-    "summary": "Anthropic says its AI models hacked systems of three companies during tests",
+    "title": "TSMC explores new AI chip packaging with Kinsus",
+    "summary": "TSMC mainly uses CoWoS, or Chip-on-Wafer-on-Substrate, to package high-end AI processors, including chips for customers such as Nvidia and AMD.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/tsmc-build-3-packaging-plants-chiayi"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "Fidelity leads $300m round for chip startup Xsight Labs",
+    "summary": "Xsight said demand for AI and cloud connectivity helped drive the funding round.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/starlink-chooses-israeli-chip-firm-for-satellite-network"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "Catalan leader looks to Singapore's housing model as he deepens Asia ties",
+    "summary": "Catalan President Salvador Illa says Singapore's public housing model offers lessons for Europe, as he seeks closer economic cooperation in logistics, technology, agri-food and air connectivity.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
-      "AI"
+      "Logistics"
     ],
-    "url": "https://www.channelnewsasia.com/business/anthropic-says-its-ai-models-hacked-systems-three-companies-during-tests-6289726"
+    "url": "https://www.channelnewsasia.com/singapore/catalonia-president-salvador-illa-visits-singapore-interview-asia-cooperation-6290016"
   },
   {
     "date": "2026-07-31",
-    "title": "LG Electronics expands Nvidia ties for robotics",
-    "summary": "LG and Nvidia are already working to simulate and train robots in virtual environments using Nvidia Isaac tools.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Electronics",
-      "Automation"
-    ],
-    "url": "https://www.techinasia.com/lg-electronics-to-test-ai-home-robot-in-2027-ceo-says"
-  },
-  {
-    "date": "2026-07-31",
-    "title": "OpenAI's ChatGPT about to reach 1B weekly users as AI rivalry heats up",
-    "summary": "OpenAI's chatbot is about to reach a new milestone of 1 billion weekly users, according to internal company data. Although this target was intended to be hit by the end of 2025, it nevertheless remains among the fastest-growing online applications to hit that many users in the short time since the startup was founded.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260730VL228/openai-chatgpt-growth-claude-revenue.html"
-  },
-  {
-    "date": "2026-07-31",
-    "title": "ASE sees full-year LEAP revenue topping US$3.5 billion amid tight packaging capacity",
-    "summary": "ASE Technology Holding said growing demand for advanced packaging and testing, combined with stronger momentum in its electronics manufacturing services (EMS) business, has tightened capacity across both advanced and conventional packaging. Wafer sorting and final test capacity are also nearing full utilization.",
+    "title": "Memory shortages deepen as prices climb into the second half of 2026",
+    "summary": "Memory shortages are tightening across the supply chain, and higher contract prices are set to ripple through global electronics markets. With DRAM lead times stretching and suppliers holding firm, buyers of servers, PCs, and mobile devices may face more cost pressure, even as end-market demand remains uneven worldwide",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Electronics",
-      "Semiconductor"
+      "Logistics"
     ],
-    "url": "https://www.digitimes.com/news/a20260730PD230/ase-revenue-packaging-capacity-testing.html"
+    "url": "https://www.digitimes.com/news/a20260731PD211/2026-supply-chain-dram-demand-market.html"
   },
   {
     "date": "2026-07-31",
-    "title": "Samsung signs five-year memory deals as chip shortage stretches to 2028",
-    "summary": "Samsung Electronics has signed five-year memory supply agreements with five leading global data center customers and is in the final stages of talks with five more, tying a growing share of its DRAM and NAND output to commitments that run years into the future.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260730VL233/samsung-2028-demand-dram-price.html"
-  },
-  {
-    "date": "2026-07-31",
-    "title": "How to avoid vendor dependency in an unpredictable AI market",
-    "summary": "Scott Wu, CEO and co-founder of Cognition, says AI adoption depends on clear success tests, staying vendor-flexible, and rethinking workflows.",
+    "title": "Morgan Stanley in talks on $15b Texas AI financing",
+    "summary": "Nexus Data Centers' Hubbard project includes 600 megawatts of on-site natural gas generation.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/why-cognitions-scott-wu-says-measurable-ai-wins-first"
+    "url": "https://www.techinasia.com/blackstone-softbank-said-to-eye-investment-in-indian-ai-startup"
   },
   {
     "date": "2026-07-31",
-    "title": "Bessemer leads $113m round for Israeli AI startup Onyx",
-    "summary": "Onyx said its platform discovers shadow AI across enterprises and monitors prompts, responses, and agent actions.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Shanghai rises as China's lithography hub, powered by SMEE, Huawei and rising DUV rivals",
+    "summary": "China's lithography equipment sector has returned to the global semiconductor spotlight following reports that a domestically developed immersion deep ultraviolet (DUV) system has entered mass production.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260731PD213/equipment-duv-huawei-shanghai-smee.html"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "Kioxia begins sampling 1TB 3D flash memory for AI devices",
+    "summary": "Kioxia has begun shipping samples of 1TB triple-level cell memory devices built with its 9th-generation BiCS FLASH 3D flash memory technology. The move signals faster, lower-cost storage options for AI-enabled PCs and smartphones, while also underscoring broader supply-chain developments that may shape device performan",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/israeli-ai-cyber-startup-onyx-security-raises-40m-seed"
+    "url": "https://www.digitimes.com/news/a20260731PR201/kioxia-technology-flash-3d-performance.html"
   },
   {
     "date": "2026-07-31",
-    "title": "Samsung trading unit and Erex plan Japan biomass power plant for AI demand",
-    "summary": "Samsung trading unit and Erex plan Japan biomass power plant for AI demand",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "Volatile South Korean shares soar on renewed semiconductor buying",
+    "summary": "Volatile South Korean shares soar on renewed semiconductor buying",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
-      "AI"
+      "Semiconductor"
     ],
-    "url": "https://asia.nikkei.com/business/energy/samsung-trading-unit-and-erex-plan-japan-biomass-power-plant-for-ai-demand"
+    "url": "https://www.channelnewsasia.com/business/volatile-south-korean-shares-soar-renewed-semiconductor-buying-6290006"
   },
   {
     "date": "2026-07-31",
-    "title": "Japan chip industry gets back to work after Kumamoto quake",
-    "summary": "Japan chip industry gets back to work after Kumamoto quake",
+    "title": "Calbee's chip sales show why color matters in food packaging",
+    "summary": "Calbee's chip sales show why color matters in food packaging",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-chip-industry-gets-back-to-work-after-kumamoto-quake"
+    "url": "https://asia.nikkei.com/business/food-beverage/calbee-s-chip-sales-show-why-color-matters-in-food-packaging"
   },
   {
     "date": "2026-07-31",
-    "title": "Japan looks to turn Osaka and Kobe into biotech hubs",
-    "summary": "Japan looks to turn Osaka and Kobe into biotech hubs",
+    "title": "Global M&A deals reach record $2.8tn in 1st half amid fight for AI lead",
+    "summary": "Global M&A deals reach record $2.8tn in 1st half amid fight for AI lead",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "Biotechnology"
+      "AI"
     ],
-    "url": "https://asia.nikkei.com/business/biotechnology/japan-looks-to-turn-osaka-and-kobe-into-biotech-hubs"
+    "url": "https://asia.nikkei.com/business/business-trends/global-m-a-deals-reach-record-2.8tn-in-1st-half-amid-fight-for-ai-lead"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "Quake damage at Japan auto parts maker ripples through massive supply chain",
+    "summary": "Quake damage at Japan auto parts maker ripples through massive supply chain",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://asia.nikkei.com/spotlight/supply-chain/quake-damage-at-japan-auto-parts-maker-ripples-through-massive-supply-chain"
   },
   {
     "date": "2026-07-30",
