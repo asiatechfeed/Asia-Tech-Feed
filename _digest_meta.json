@@ -1,37 +1,36 @@
 {
   "date": "2026-08-01",
-  "count": 7,
+  "count": 6,
   "sources": [
     "DigiTimes",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-01-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "MediaTek plans $5b financing for AI chips",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/mediatek-launches-ai-chip-rival-qualcomm"
-    },
-    {
-      "title": "Obituary: Powerchip chairman Frank Huang dies after reshaping Taiwan's DRAM and foundry industry",
+      "title": "AUO sells two plants in two days and expects up to NT$17.7 billion gain",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260801PD200/dram-taiwan-chairman-psmc-technology.html"
+      "url": "https://www.digitimes.com/news/a20260730PD232/auo-plant-kaohsiung-taiwan-ase.html"
     },
     {
-      "title": "India app revenue jumps 35% to record $345m in Q2",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/openai-google-perplexity-offer-free-ai-tools-tap-india-data"
-    },
-    {
-      "title": "Chinese chipmaker Montage starts CXL 3.2 chip production",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinese-ai-chip-supplier-axera-trades-flat-in-hong-kong-debut"
-    },
-    {
-      "title": "Arcadyan targets satellite supply chain through smaller operators before pursuing top-tier customers",
+      "title": "Realtek, Elan, and Parade set the tone for PC chip demand",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260730PD214/arcadyan-taiwan-equipment-expansion-fwa.html"
+      "url": "https://www.digitimes.com/news/a20260730PD234/demand-pc-realtek-parade-ic-design.html"
+    },
+    {
+      "title": "Thintronics wins proposed US CHIPS incentives for advanced substrate technology",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260730PR202/substrate-technology-incentives-packaging-materials.html"
+    },
+    {
+      "title": "Amazon, Microsoft keep AI spending plans on track",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/amazon-to-invest-13b-in-india-for-ai-cloud-push"
+    },
+    {
+      "title": "Meta AI lease commitments rise to $279b",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/meta-expand-louisiana-ai-data-center-5-gw"
     }
   ],
   "source_stats": [
@@ -48,7 +47,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -128,7 +127,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -165,9 +164,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -192,7 +191,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 21,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
