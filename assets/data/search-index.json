@@ -1,82 +1,70 @@
 [
   {
     "date": "2026-08-01",
-    "title": "MediaTek plans $5b financing for AI chips",
-    "summary": "MediaTek plans to produce its first custom AI chip in Q4, with a second in 2028.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "AUO sells two plants in two days and expects up to NT$17.7 billion gain",
+    "summary": "AUO said it moved to accelerate asset monetization in Taiwan by selling another factory on July 30 after announcing a separate disposal. The display maker agreed to sell its C5E plant and related facility infrastructure in Kaohsiung’s Lujhu district to Advanced Semiconductor Engineering (ASE) for NT$6.3 billion (US$193",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/mediatek-launches-ai-chip-rival-qualcomm"
+    "url": "https://www.digitimes.com/news/a20260730PD232/auo-plant-kaohsiung-taiwan-ase.html"
   },
   {
     "date": "2026-08-01",
-    "title": "Obituary: Powerchip chairman Frank Huang dies after reshaping Taiwan's DRAM and foundry industry",
-    "summary": "Powerchip Semiconductor Manufacturing Corp. (PSMC) chairman Frank Huang died on July 31, 2026, at age 76, closing a career that spanned medicine, electronics, DRAM and foundry manufacturing. His life traced nearly 30 years of booms and busts in Taiwan's memory and semiconductor industries.",
+    "title": "Realtek, Elan, and Parade set the tone for PC chip demand",
+    "summary": "As the second half of the year begins, major Taiwanese IC design firms including Realtek Semiconductor, Elan Microelectronics, and Parade Technologies are holding earnings briefings this week to outline market conditions for the traditional peak season. Because the three companies hold key positions in the PC chip mark",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
       "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20260801PD200/dram-taiwan-chairman-psmc-technology.html"
+    "url": "https://www.digitimes.com/news/a20260730PD234/demand-pc-realtek-parade-ic-design.html"
   },
   {
     "date": "2026-08-01",
-    "title": "India app revenue jumps 35% to record $345m in Q2",
-    "summary": "ChatGPT and Claude accounted for nearly 83% of India's AI app revenue in Q2 2026.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/openai-google-perplexity-offer-free-ai-tools-tap-india-data"
-  },
-  {
-    "date": "2026-08-01",
-    "title": "Chinese chipmaker Montage starts CXL 3.2 chip production",
-    "summary": "The chip supports data transfer rates up to 64 GT/s and dual DDR5 controllers.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Thintronics wins proposed US CHIPS incentives for advanced substrate technology",
+    "summary": "Thintronics, a semiconductor interconnect company, said in a press release on July 29 that it had signed a letter of intent with the US Department of Commerce and the CHIPS Research and Development Office for up to US$50 million in incentives under the CHIPS and Science Act.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/chinese-ai-chip-supplier-axera-trades-flat-in-hong-kong-debut"
+    "url": "https://www.digitimes.com/news/a20260730PR202/substrate-technology-incentives-packaging-materials.html"
   },
   {
     "date": "2026-08-01",
-    "title": "Arcadyan targets satellite supply chain through smaller operators before pursuing top-tier customers",
-    "summary": "Taiwan networking equipment maker Arcadyan Technology is accelerating its expansion beyond the residential broadband market.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260730PD214/arcadyan-taiwan-equipment-expansion-fwa.html"
-  },
-  {
-    "date": "2026-08-01",
-    "title": "Elite Material posts record 2Q result on strong AI-related demand",
-    "summary": "Elite Material Co. said booming demand for advanced materials used in AI hardware kept its factories fully loaded in the second quarter of 2026, lifting revenue and profit to record levels. The Taiwan-based copper-clad laminate (CCL) maker expects tight production, broad customer demand, and expanding capacity to suppo",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Amazon, Microsoft keep AI spending plans on track",
+    "summary": "Amazon raised its full-year capital expenditure forecast to US$220 billion from US$200 billion and said most of the spending will go to AI.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260730PD224/elite-material-demand-materials-capacity-sales.html"
+    "url": "https://www.techinasia.com/amazon-to-invest-13b-in-india-for-ai-cloud-push"
   },
   {
     "date": "2026-08-01",
-    "title": "Taiwan GDP grows nearly 13% in Q2, supercharged by AI and US ties",
-    "summary": "Taiwan GDP grows nearly 13% in Q2, supercharged by AI and US ties",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "Meta AI lease commitments rise to $279b",
+    "summary": "Meta has separately said its 2026 capital expenditure would be US$115 billion to US$135 billion, including finance lease principal.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/economy/taiwan-gdp-grows-nearly-13-in-q2-supercharged-by-ai-and-us-ties"
+    "url": "https://www.techinasia.com/meta-expand-louisiana-ai-data-center-5-gw"
+  },
+  {
+    "date": "2026-08-01",
+    "title": "AI crowds out consumer plays in SEA",
+    "summary": "We look at how consumer startups are dealing with Southeast Asia’s new funding reality amid the AI boom. Plus, Moonshot’s gigantic series F round.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/ai-crowds-consumer-plays-sea"
   },
   {
     "date": "2026-07-31",

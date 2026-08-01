@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-01T03:37:50+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 01, 2026</title><link href="https://asiatechfeed.com/2026/08/01/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 01, 2026" /><published>2026-08-01T03:37:09+00:00</published><updated>2026-08-01T03:37:09+00:00</updated><id>https://asiatechfeed.com/2026/08/01/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/01/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-01T08:01:25+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 01, 2026</title><link href="https://asiatechfeed.com/2026/08/01/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 01, 2026" /><published>2026-08-01T08:00:45+00:00</published><updated>2026-08-01T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/08/01/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/01/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,62 +12,54 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">MediaTek plans $5b financing for AI chips</span></td>
-  <td class="col-summary">MediaTek plans to produce its first custom AI chip in Q4, with a second in 2028.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/mediatek-launches-ai-chip-rival-qualcomm" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">AUO sells two plants in two days and expects up to NT$17.7 billion gain</span></td>
+  <td class="col-summary">AUO said it moved to accelerate asset monetization in Taiwan by selling another factory on July 30 after announcing a separate disposal. The display maker agreed to sell its C5E plant and related facility infrastructure in Kaohsiung’s Lujhu district to Advanced Semiconductor Engineering (ASE) for NT$6.3 billion (US$193</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260730PD232/auo-plant-kaohsiung-taiwan-ase.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Obituary: Powerchip chairman Frank Huang dies after reshaping Taiwan's DRAM and foundry industry</span></td>
-  <td class="col-summary">Powerchip Semiconductor Manufacturing Corp. (PSMC) chairman Frank Huang died on July 31, 2026, at age 76, closing a career that spanned medicine, electronics, DRAM and foundry manufacturing. His life traced nearly 30 years of booms and busts in Taiwan's memory and semiconductor industries.</td>
+  <td class="col-title"><span class="article-title">Realtek, Elan, and Parade set the tone for PC chip demand</span></td>
+  <td class="col-summary">As the second half of the year begins, major Taiwanese IC design firms including Realtek Semiconductor, Elan Microelectronics, and Parade Technologies are holding earnings briefings this week to outline market conditions for the traditional peak season. Because the three companies hold key positions in the PC chip mark</td>
   <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260801PD200/dram-taiwan-chairman-psmc-technology.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260730PD234/demand-pc-realtek-parade-ic-design.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">India app revenue jumps 35% to record $345m in Q2</span></td>
-  <td class="col-summary">ChatGPT and Claude accounted for nearly 83% of India's AI app revenue in Q2 2026.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-google-perplexity-offer-free-ai-tools-tap-india-data" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Thintronics wins proposed US CHIPS incentives for advanced substrate technology</span></td>
+  <td class="col-summary">Thintronics, a semiconductor interconnect company, said in a press release on July 29 that it had signed a letter of intent with the US Department of Commerce and the CHIPS Research and Development Office for up to US$50 million in incentives under the CHIPS and Science Act.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260730PR202/substrate-technology-incentives-packaging-materials.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Chinese chipmaker Montage starts CXL 3.2 chip production</span></td>
-  <td class="col-summary">The chip supports data transfer rates up to 64 GT/s and dual DDR5 controllers.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinese-ai-chip-supplier-axera-trades-flat-in-hong-kong-debut" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Amazon, Microsoft keep AI spending plans on track</span></td>
+  <td class="col-summary">Amazon raised its full-year capital expenditure forecast to US$220 billion from US$200 billion and said most of the spending will go to AI.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/amazon-to-invest-13b-in-india-for-ai-cloud-push" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Arcadyan targets satellite supply chain through smaller operators before pursuing top-tier customers</span></td>
-  <td class="col-summary">Taiwan networking equipment maker Arcadyan Technology is accelerating its expansion beyond the residential broadband market.</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260730PD214/arcadyan-taiwan-equipment-expansion-fwa.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Meta AI lease commitments rise to $279b</span></td>
+  <td class="col-summary">Meta has separately said its 2026 capital expenditure would be US$115 billion to US$135 billion, including finance lease principal.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-expand-louisiana-ai-data-center-5-gw" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Elite Material posts record 2Q result on strong AI-related demand</span></td>
-  <td class="col-summary">Elite Material Co. said booming demand for advanced materials used in AI hardware kept its factories fully loaded in the second quarter of 2026, lifting revenue and profit to record levels. The Taiwan-based copper-clad laminate (CCL) maker expects tight production, broad customer demand, and expanding capacity to suppo</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">AI crowds out consumer plays in SEA</span></td>
+  <td class="col-summary">We look at how consumer startups are dealing with Southeast Asia’s new funding reality amid the AI boom. Plus, Moonshot’s gigantic series F round.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260730PD224/elite-material-demand-materials-capacity-sales.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Taiwan GDP grows nearly 13% in Q2, supercharged by AI and US ties</span></td>
-  <td class="col-summary">Taiwan GDP grows nearly 13% in Q2, supercharged by AI and US ties</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/economy/taiwan-gdp-grows-nearly-13-in-q2-supercharged-by-ai-and-us-ties" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-crowds-consumer-plays-sea" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia MediaTek plans $5b financing for AI chips MediaTek plans to produce its first custom AI chip in Q4, with a second in 2028. AISemiconductor Read 2 DigiTimes Obituary: Powerchip chairman Frank Huang dies after reshaping Taiwan's DRAM and foundry industry Powerchip Semiconductor Manufacturing Corp. (PSMC) chairman Frank Huang died on July 31, 2026, at age 76, closing a career that spanned medicine, electronics, DRAM and foundry manufacturing. His life traced nearly 30 years of booms and busts in Taiwan's memory and semiconductor industries. SemiconductorElectronics Read 3 TechAsia India app revenue jumps 35% to record $345m in Q2 ChatGPT and Claude accounted for nearly 83% of India's AI app revenue in Q2 2026. AI Read 4 TechAsia Chinese chipmaker Montage starts CXL 3.2 chip production The chip supports data transfer rates up to 64 GT/s and dual DDR5 controllers. Semiconductor Read 5 DigiTimes Arcadyan targets satellite supply chain through smaller operators before pursuing top-tier customers Taiwan networking equipment maker Arcadyan Technology is accelerating its expansion beyond the residential broadband market. Logistics Read 6 DigiTimes Elite Material posts record 2Q result on strong AI-related demand Elite Material Co. said booming demand for advanced materials used in AI hardware kept its factories fully loaded in the second quarter of 2026, lifting revenue and profit to record levels. The Taiwan-based copper-clad laminate (CCL) maker expects tight production, broad customer demand, and expanding capacity to suppo AI Read 7 NikkeiAsia Taiwan GDP grows nearly 13% in Q2, supercharged by AI and US ties Taiwan GDP grows nearly 13% in Q2, supercharged by AI and US ties AI Read]]></summary></entry><entry><title type="html">Editor’s Review: What July Taught Us About Living With the Shortage</title><link href="https://asiatechfeed.com/2026/08/01/editors-review-what-july-taught-us-about-living-with-the-shortage/" rel="alternate" type="text/html" title="Editor’s Review: What July Taught Us About Living With the Shortage" /><published>2026-08-01T01:00:00+00:00</published><updated>2026-08-01T01:00:00+00:00</updated><id>https://asiatechfeed.com/2026/08/01/editors-review-what-july-taught-us-about-living-with-the-shortage</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/01/editors-review-what-july-taught-us-about-living-with-the-shortage/"><![CDATA[<p>June confirmed that AI infrastructure demand had become a fixed cost the semiconductor industry was built around, not a cycle it would grow out of. July was the month that stopped being a diagnosis and became a business plan. Across four weeks, suppliers, foundries, and governments moved from reacting to the shortage to formally committing to live inside it for years — and a second bottleneck, one that has nothing to do with silicon, started to surface underneath it.</p>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes AUO sells two plants in two days and expects up to NT$17.7 billion gain AUO said it moved to accelerate asset monetization in Taiwan by selling another factory on July 30 after announcing a separate disposal. The display maker agreed to sell its C5E plant and related facility infrastructure in Kaohsiung’s Lujhu district to Advanced Semiconductor Engineering (ASE) for NT$6.3 billion (US$193 Semiconductor Read 2 DigiTimes Realtek, Elan, and Parade set the tone for PC chip demand As the second half of the year begins, major Taiwanese IC design firms including Realtek Semiconductor, Elan Microelectronics, and Parade Technologies are holding earnings briefings this week to outline market conditions for the traditional peak season. Because the three companies hold key positions in the PC chip mark SemiconductorElectronics Read 3 DigiTimes Thintronics wins proposed US CHIPS incentives for advanced substrate technology Thintronics, a semiconductor interconnect company, said in a press release on July 29 that it had signed a letter of intent with the US Department of Commerce and the CHIPS Research and Development Office for up to US$50 million in incentives under the CHIPS and Science Act. Semiconductor Read 4 TechAsia Amazon, Microsoft keep AI spending plans on track Amazon raised its full-year capital expenditure forecast to US$220 billion from US$200 billion and said most of the spending will go to AI. AI Read 5 TechAsia Meta AI lease commitments rise to $279b Meta has separately said its 2026 capital expenditure would be US$115 billion to US$135 billion, including finance lease principal. AI Read 6 TechAsia AI crowds out consumer plays in SEA We look at how consumer startups are dealing with Southeast Asia’s new funding reality amid the AI boom. Plus, Moonshot’s gigantic series F round. AI Read]]></summary></entry><entry><title type="html">Editor’s Review: What July Taught Us About Living With the Shortage</title><link href="https://asiatechfeed.com/2026/08/01/editors-review-what-july-taught-us-about-living-with-the-shortage/" rel="alternate" type="text/html" title="Editor’s Review: What July Taught Us About Living With the Shortage" /><published>2026-08-01T01:00:00+00:00</published><updated>2026-08-01T01:00:00+00:00</updated><id>https://asiatechfeed.com/2026/08/01/editors-review-what-july-taught-us-about-living-with-the-shortage</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/01/editors-review-what-july-taught-us-about-living-with-the-shortage/"><![CDATA[<p>June confirmed that AI infrastructure demand had become a fixed cost the semiconductor industry was built around, not a cycle it would grow out of. July was the month that stopped being a diagnosis and became a business plan. Across four weeks, suppliers, foundries, and governments moved from reacting to the shortage to formally committing to live inside it for years — and a second bottleneck, one that has nothing to do with silicon, started to surface underneath it.</p>
 
 <p>The memory story hardened into paper. Samsung signed five-year memory supply agreements with five major data center customers by month’s end, with five more deals reportedly in final-stage talks — and DigiTimes’ framing was blunt: the chip shortage now stretches to 2028, not next quarter. TSMC moved in the same direction from the foundry side, confirmed to be raising chipmaking prices by up to 10% starting in 2027. Neither of those is a spot-market reaction. They’re multi-year bets that scarcity is the new baseline, and every supplier down the chain adjusted accordingly — Foxsemicon posted record June and first-half revenue on AI orders (up nearly 40% year-over-year), and Goldkey Technology took out a NT$3.6 billion loan specifically to expand its AI server memory business. Chipflation, as Nikkei Asia bluntly called it mid-month, is now cold enough to be measurably chilling ordinary electronics purchases — the consumer-facing edge of a pricing story that started in the data center.</p>
 
