@@ -1,36 +1,31 @@
 {
-  "date": "2026-08-01",
-  "count": 6,
+  "date": "2026-08-02",
+  "count": 4,
   "sources": [
     "DigiTimes",
-    "TechAsia"
+    "NikkeiAsia"
   ],
-  "post_file": "2026-08-01-asia-tech-news-digest.md",
+  "post_file": "2026-08-02-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "AUO sells two plants in two days and expects up to NT$17.7 billion gain",
+      "title": "MiniMax H3 pairs 2K video with native stereo audio in China's multimodal AI race",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260730PD232/auo-plant-kaohsiung-taiwan-ase.html"
+      "url": "https://www.digitimes.com/news/a20260731VL210/stereo-competition-language.html"
     },
     {
-      "title": "Realtek, Elan, and Parade set the tone for PC chip demand",
+      "title": "AWS chip business passes US$25 billion run rate; CEO Jassy says there is 'real chance' of selling Trainium outside AWS",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260730PD234/demand-pc-realtek-parade-ic-design.html"
+      "url": "https://www.digitimes.com/news/a20260731VL206/amazon-aws-silicon-business-revenue.html"
     },
     {
-      "title": "Thintronics wins proposed US CHIPS incentives for advanced substrate technology",
+      "title": "Research Insight: AIDVs reshape smart cars with world models and agents",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260730PR202/substrate-technology-incentives-packaging-materials.html"
+      "url": "https://www.digitimes.com/news/a20260731PD232/digitimes-vehicle-2026-waic-automakers.html"
     },
     {
-      "title": "Amazon, Microsoft keep AI spending plans on track",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/amazon-to-invest-13b-in-india-for-ai-cloud-push"
-    },
-    {
-      "title": "Meta AI lease commitments rise to $279b",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/meta-expand-louisiana-ai-data-center-5-gw"
+      "title": "Asia's AI boom runs into a power wall",
+      "source": "NikkeiAsia",
+      "url": "https://asia.nikkei.com/opinion/asia-s-ai-boom-runs-into-a-power-wall"
     }
   ],
   "source_stats": [
@@ -47,7 +42,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -127,7 +122,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -146,7 +141,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 6,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -155,7 +150,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 25,
+      "relevant": 24,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -164,9 +159,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -191,9 +186,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 17,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
