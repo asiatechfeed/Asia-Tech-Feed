@@ -1,31 +1,38 @@
 {
   "date": "2026-08-02",
-  "count": 4,
+  "count": 8,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "NikkeiAsia"
+    "KED",
+    "TechAsia"
   ],
   "post_file": "2026-08-02-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "MiniMax H3 pairs 2K video with native stereo audio in China's multimodal AI race",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260731VL210/stereo-competition-language.html"
+      "title": "China\u2019s home-grown DUV progress not the biggest threat to ASML, analysts say",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/china-us-asml-duv-progress-6293336"
     },
     {
-      "title": "AWS chip business passes US$25 billion run rate; CEO Jassy says there is 'real chance' of selling Trainium outside AWS",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260731VL206/amazon-aws-silicon-business-revenue.html"
+      "title": "The H factor",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/factor"
     },
     {
-      "title": "Research Insight: AIDVs reshape smart cars with world models and agents",
+      "title": "Interview: Governance layer key to deploying AI agents in the finance sector",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260731PD232/digitimes-vehicle-2026-waic-automakers.html"
+      "url": "https://www.digitimes.com/news/a20260731VL219/finance-efficiency-governance.html"
     },
     {
-      "title": "Asia's AI boom runs into a power wall",
-      "source": "NikkeiAsia",
-      "url": "https://asia.nikkei.com/opinion/asia-s-ai-boom-runs-into-a-power-wall"
+      "title": "Roborock's overseas push lifts Chinese brands in robot vacuum market",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260730PD211/market-robot-shenzhen-expansion-xiaomi.html"
+    },
+    {
+      "title": "Memory costs overtake smartphone chip costs as SoC shipments are set to fall 14%",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260731PD234/smartphone-shipments-soc-2026-component.html"
     }
   ],
   "source_stats": [
@@ -42,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -141,7 +148,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 6,
+      "relevant": 3,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -159,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -170,7 +177,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -188,7 +195,7 @@
       "fetched": 36,
       "relevant": 17,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
