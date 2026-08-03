@@ -1,38 +1,39 @@
 {
   "date": "2026-08-03",
-  "count": 8,
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
+    "EW",
+    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-03-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Taiwan manufacturing business climate improves in June, headlined by electronics sector",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260801PD201/taiwan-manufacturing-business-electronics-demand.html"
+      "title": "Parliament to discuss Gillman Barracks and Maju Forest housing plans, GovTech layoffs",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/parliament-gillman-barracks-maju-forest-govtech-layoffs-6294751"
     },
     {
-      "title": "OpenAI reportedly expands probe after finding additional AI agent containment escapes",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260803VL208/openai-ai-agent-testing-infrastructure-investigation-anthropic.html"
-    },
-    {
-      "title": "India advances semiconductor ambitions as Visakhapatnam OSAT plant anchors South India packaging push",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260803VL207/packaging-osat-manufacturing-plant-investment.html"
-    },
-    {
-      "title": "Naver secures Nvidia, Brookfield for AI factory funding",
+      "title": "What Google\u2019s chief scientist says AI teams get wrong",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/naver-cloud-build-gigawatt-ai-factories-nvidia"
+      "url": "https://www.techinasia.com/googles-jeff-dean-ai-teams-wrong"
     },
     {
-      "title": "FIC Global Expands ASEAN Footprint with Johor\u2013Singapore Manufacturing and Innovation Strategy",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/fic-global-expands-asean-footprint-with-johor-singapore-manufacturing-and-innovation-strategy/"
+      "title": "CXMT closes in on LPDDR6 mass production, challenging Samsung, SK Hynix",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260803VL211/cxmt-lpddr-development-production-samsung-sk-hynix.html"
+    },
+    {
+      "title": "TCL Technology to take full ownership of TCL CSOT",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260803VL213/tcl-csot-acquisition-display-revenue-2025.html"
+    },
+    {
+      "title": "MA-tek sells Shanghai unit, expands AI market push in Japan and the US",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260803PD223/ma-tek-shanghai-market-2026-revenue.html"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -130,9 +131,9 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -150,14 +151,14 @@
       "fetched": 10,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 30,
+      "fetched": 50,
+      "relevant": 39,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 4,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -193,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 9,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null

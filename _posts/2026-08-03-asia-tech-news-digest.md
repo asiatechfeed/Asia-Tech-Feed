@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - August 03, 2026"
-date: 2026-08-03 11:39:26 +0800
-articles_count: 8
-sources_count: 4
-sources: ["CNA", "DigiTimes", "EETAsia", "TechAsia"]
+date: 2026-08-03 16:01:15 +0800
+articles_count: 10
+sources_count: 5
+sources: ["CNA", "DigiTimes", "EW", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-08-03.tsv
-featured_title: "Taiwan manufacturing business climate improves in June, headlined by electronics sector"
-featured_url: "https://www.digitimes.com/news/a20260801PD201/taiwan-manufacturing-business-electronics-demand.html"
-featured_source: "DigiTimes"
-featured_summary: "Taiwan's manufacturing climate improved in June 2026, with the electronics sector once again showing the clearest visibility, according to the Taiwan Institute of Economic Research (TIER), which released its individual industry business climate indicators for June on July 31."
-featured_image: "https://img.digitimes.com/newsshow/20260801pd201_files/2_b.jpg"
+featured_title: "Parliament to discuss Gillman Barracks and Maju Forest housing plans, GovTech layoffs"
+featured_url: "https://www.channelnewsasia.com/singapore/parliament-gillman-barracks-maju-forest-govtech-layoffs-6294751"
+featured_source: "CNA"
+featured_summary: "MPs have filed more than 20 questions on the two subjects, along with others on a fatal lightning strike off Pasir Ris Beach and the adoption and impact of AI in Singapore."
+featured_image: "https://dam.mediacorp.sg/image/upload/s--Qvo_LPKQ--/c_crop,h_842,w_1497,x_1,y_81/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/01/09/sya_7027.jpg?itok=tMUnFkbI"
 ---
 
 <table class="news-table">
@@ -27,67 +27,83 @@ featured_image: "https://img.digitimes.com/newsshow/20260801pd201_files/2_b.jpg"
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan manufacturing business climate improves in June, headlined by electronics sector</span></td>
-  <td class="col-summary">Taiwan's manufacturing climate improved in June 2026, with the electronics sector once again showing the clearest visibility, according to the Taiwan Institute of Economic Research (TIER), which released its individual industry business climate indicators for June on July 31.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260801PD201/taiwan-manufacturing-business-electronics-demand.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Parliament to discuss Gillman Barracks and Maju Forest housing plans, GovTech layoffs</span></td>
+  <td class="col-summary">MPs have filed more than 20 questions on the two subjects, along with others on a fatal lightning strike off Pasir Ris Beach and the adoption and impact of AI in Singapore.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/parliament-gillman-barracks-maju-forest-govtech-layoffs-6294751" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">OpenAI reportedly expands probe after finding additional AI agent containment escapes</span></td>
-  <td class="col-summary">OpenAI has uncovered additional instances of autonomous AI agents escaping their intended testing environments as it broadens an investigation sparked by the high-profile Hugging Face security incident, according to Reuters. The newly discovered cases were reportedly limited in scope and, based on current findings, non</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">What Google’s chief scientist says AI teams get wrong</span></td>
+  <td class="col-summary">Learn why Google's Jeff Dean says automated experiments, efficient hardware, and clear guidelines matter more than model size in AI development.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260803VL208/openai-ai-agent-testing-infrastructure-investigation-anthropic.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/googles-jeff-dean-ai-teams-wrong" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">India advances semiconductor ambitions as Visakhapatnam OSAT plant anchors South India packaging push</span></td>
-  <td class="col-summary">India is moving deeper into semiconductor manufacturing with construction beginning on an INR23.87 billion (US$250 million) OSAT facility in Visakhapatnam, supporting New Delhi's broader effort to build a domestic semiconductor ecosystem beyond chip design.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260803VL207/packaging-osat-manufacturing-plant-investment.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">CXMT closes in on LPDDR6 mass production, challenging Samsung, SK Hynix</span></td>
+  <td class="col-summary">CXMT is nearing the end of research and development validation for LPDDR6, bringing it closer to mass production of next-generation mobile DRAM and intensifying competition with Samsung Electronics, SK Hynix and Micron.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260803VL211/cxmt-lpddr-development-production-samsung-sk-hynix.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Naver secures Nvidia, Brookfield for AI factory funding</span></td>
-  <td class="col-summary">The first 200-megawatt (MW) phase is planned for Naver's Gak Sejong hyperscale data center in Sejong, South Korea.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/naver-cloud-build-gigawatt-ai-factories-nvidia" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">TCL Technology to take full ownership of TCL CSOT</span></td>
+  <td class="col-summary">TCL Technology Group plans to pay CNY9.32 billion (approx. US$1.38 billion) for the 45% of China Star Optoelectronics Semiconductor Display Technology it does not already own, according to the registration-stage draft of the company's share-issue-and-cash asset purchase report, dated July 2026. The sellers are three Gu</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260803VL213/tcl-csot-acquisition-display-revenue-2025.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">FIC Global Expands ASEAN Footprint with Johor–Singapore Manufacturing and Innovation Strategy</span></td>
-  <td class="col-summary">FIC Global is strengthening its ASEAN operations through cross-border partnerships to better serve AI and semiconductor markets. The post FIC Global Expands ASEAN Footprint with Johor–Singapore Manufacturing and Innovation Strategy appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/fic-global-expands-asean-footprint-with-johor-singapore-manufacturing-and-innovation-strategy/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">MA-tek sells Shanghai unit, expands AI market push in Japan and the US</span></td>
+  <td class="col-summary">MA-tek announced on July 31, 2026, that it will sell 80% of its Shanghai subsidiary for about CNY1.9 billion (US$281.4 million), as global semiconductor supply chains are reshuffled and demand surges for AI, high-performance computing (HPC), advanced process nodes, advanced packaging, and silicon photonics (SiPh). The </td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260803PD223/ma-tek-shanghai-market-2026-revenue.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">The next AI battleground is memory</span></td>
-  <td class="col-summary">China’s memory-chip ambitions broaden the AI race, while Southeast Asia charts a physical AI path. Plus: our hot takes on Moonshot AI and Sarvam.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-battleground-memory" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Pluang launches limited AI trading beta in Indonesia</span></td>
+  <td class="col-summary">Pluang said each order is subject to user approval and server-side spending limits.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/robinhood-to-enter-indonesia-with-crypto-trader-broker-acquisition" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Driving workplace change with AI capabilities and human skills</span></td>
-  <td class="col-summary">With NTUC LearningHub, Singapore Aero Engine Services is helping employees draw on AI and design thinking to improve processes and respond to changing business needs.</td>
+  <td class="col-title"><span class="article-title">DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says</span></td>
+  <td class="col-summary">DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/advertorial/driving-workplace-change-ai-capabilities-and-human-skills-6275076" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/deepseeks-new-ai-model-far-cheapest-well-known-models-run-research-firm-says-6294731" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Making sense of TikTok Shop’s logistics trade-offs in Indonesia</span></td>
-  <td class="col-summary">The platform had the scale to own logistics in the country but chose a different path from Shopee. We unpack the strategy.</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/making-sense-of-tiktok-shops-logistics-trade-offs-in-indonesia" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Malaysia draws AI chip projects as firms rethink Middle East</span></td>
+  <td class="col-summary">The International Monetary Fund described Malaysia as one of the world’s four largest net exporters of AI-related hardware.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">EW</span></td>
+  <td class="col-title"><span class="article-title">1Tb and 512Gb UFS NAND samples available</span></td>
+  <td class="col-summary">Kioxia is sampling UFS 5.0 NAND in 1 TB and 512 GB capacities and plans mass production by the end of the year. Built on the JEDEC UFS 5.0 standard, […] The post 1Tb and 512Gb UFS NAND samples available appeared first on Electronics Weekly .</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/kioxia-sampling-1tb-and-512gb-ufs-nand-2026-08/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba's new Qwen AI model falls short of 'second only to Fable 5' claim</span></td>
+  <td class="col-summary">Alibaba's new Qwen AI model falls short of 'second only to Fable 5' claim</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-s-new-qwen-ai-model-falls-short-of-second-only-to-fable-5-claim" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
