@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "count": 3,
   "sources": [
     "DigiTimes"
   ],
-  "post_file": "2026-08-02-asia-tech-news-digest.md",
+  "post_file": "2026-08-03-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Lawmakers debate wealth-sharing policies as AI-related gains push Taiwan toward K-shaped economy",
+      "title": "Huawei's Kirin X90 Plus and XE90 power its lightest laptop and next foldable PC",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260731PD229/taiwan-economy-electronics-growth.html"
+      "url": "https://www.digitimes.com/news/a20260730VL215/huawei-kirin-pc-foldable-harmonyos.html"
     },
     {
-      "title": "Pittsburgh, Switzerland experts challenge Taiwan to move beyond robotics hardware",
+      "title": "Chinese display makers move deeper into Korean cockpits as BOE wins Hyundai's flagship display program",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260731PD226/hardware-taiwan-robotics-switzerland-competition.html"
+      "url": "https://www.digitimes.com/news/a20260730VL230/display-hyundai-boe-automotive-automotive-supply-chain.html"
     },
     {
-      "title": "ESMT posts record second-quarter profit on higher contract memory prices",
+      "title": "Delta Electronics eyes HVDC shipments in 4Q26, scale-up in 2027",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260731PD221/esmt-profit-2026-earnings-niche-memory.html"
+      "url": "https://www.digitimes.com/news/a20260731PD225/delta-electronics-shipments-2027-2026-revenue.html"
     }
   ],
   "source_stats": [
@@ -36,7 +36,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -180,7 +180,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
