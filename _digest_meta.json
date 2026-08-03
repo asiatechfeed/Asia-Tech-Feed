@@ -1,25 +1,38 @@
 {
   "date": "2026-08-03",
-  "count": 3,
+  "count": 8,
   "sources": [
-    "DigiTimes"
+    "CNA",
+    "DigiTimes",
+    "EETAsia",
+    "TechAsia"
   ],
   "post_file": "2026-08-03-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Huawei's Kirin X90 Plus and XE90 power its lightest laptop and next foldable PC",
+      "title": "Taiwan manufacturing business climate improves in June, headlined by electronics sector",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260730VL215/huawei-kirin-pc-foldable-harmonyos.html"
+      "url": "https://www.digitimes.com/news/a20260801PD201/taiwan-manufacturing-business-electronics-demand.html"
     },
     {
-      "title": "Chinese display makers move deeper into Korean cockpits as BOE wins Hyundai's flagship display program",
+      "title": "OpenAI reportedly expands probe after finding additional AI agent containment escapes",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260730VL230/display-hyundai-boe-automotive-automotive-supply-chain.html"
+      "url": "https://www.digitimes.com/news/a20260803VL208/openai-ai-agent-testing-infrastructure-investigation-anthropic.html"
     },
     {
-      "title": "Delta Electronics eyes HVDC shipments in 4Q26, scale-up in 2027",
+      "title": "India advances semiconductor ambitions as Visakhapatnam OSAT plant anchors South India packaging push",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260731PD225/delta-electronics-shipments-2027-2026-revenue.html"
+      "url": "https://www.digitimes.com/news/a20260803VL207/packaging-osat-manufacturing-plant-investment.html"
+    },
+    {
+      "title": "Naver secures Nvidia, Brookfield for AI factory funding",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/naver-cloud-build-gigawatt-ai-factories-nvidia"
+    },
+    {
+      "title": "FIC Global Expands ASEAN Footprint with Johor\u2013Singapore Manufacturing and Innovation Strategy",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/fic-global-expands-asean-footprint-with-johor-singapore-manufacturing-and-innovation-strategy/"
     }
   ],
   "source_stats": [
@@ -36,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -137,14 +150,14 @@
       "fetched": 10,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 24,
+      "relevant": 30,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -153,7 +166,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 4,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -180,9 +193,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
