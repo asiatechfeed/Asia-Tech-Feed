@@ -1,39 +1,38 @@
 {
-  "date": "2026-08-03",
-  "count": 10,
+  "date": "2026-08-04",
+  "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EW",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-08-03-asia-tech-news-digest.md",
+  "post_file": "2026-08-04-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Parliament to discuss Gillman Barracks and Maju Forest housing plans, GovTech layoffs",
+      "title": "Advantech bets on Physical AI as WEDA accelerates edge AI commercialization",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260803PD225/advantech-investment-industrial-demand-infrastructure.html"
+    },
+    {
+      "title": "ispace turns to H3 for 2028 mission as Japan builds domestic lunar transport stack",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260803VL212/2028-launch-transportation-commercial-government.html"
+    },
+    {
+      "title": "Montage brings CXL 3.2 memory expansion to AI data centres with Samsung, SK Hynix support",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260803VL214/cxl-expansion-montage-production-data.html"
+    },
+    {
+      "title": "Onsemi forecasts upbeat revenue on surging AI data center chip demand",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/parliament-gillman-barracks-maju-forest-govtech-layoffs-6294751"
+      "url": "https://www.channelnewsasia.com/business/onsemi-forecasts-upbeat-revenue-surging-ai-data-center-chip-demand-6296316"
     },
     {
-      "title": "What Google\u2019s chief scientist says AI teams get wrong",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/googles-jeff-dean-ai-teams-wrong"
-    },
-    {
-      "title": "CXMT closes in on LPDDR6 mass production, challenging Samsung, SK Hynix",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260803VL211/cxmt-lpddr-development-production-samsung-sk-hynix.html"
-    },
-    {
-      "title": "TCL Technology to take full ownership of TCL CSOT",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260803VL213/tcl-csot-acquisition-display-revenue-2025.html"
-    },
-    {
-      "title": "MA-tek sells Shanghai unit, expands AI market push in Japan and the US",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260803PD223/ma-tek-shanghai-market-2026-revenue.html"
+      "title": "US House panel seeks briefing on OpenAI's AI agent security breach",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/us-house-panel-seeks-briefing-openais-ai-agent-security-breach-6296286"
     }
   ],
   "source_stats": [
@@ -130,10 +129,10 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
-      "relevant": 1,
+      "fetched": 0,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -149,7 +148,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -157,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 50,
-      "relevant": 39,
+      "fetched": 35,
+      "relevant": 24,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +166,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 3,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -194,9 +193,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 9,
+      "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
