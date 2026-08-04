@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-03T08:01:53+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 03, 2026</title><link href="https://asiatechfeed.com/2026/08/03/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 03, 2026" /><published>2026-08-03T08:01:15+00:00</published><updated>2026-08-03T08:01:15+00:00</updated><id>https://asiatechfeed.com/2026/08/03/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/03/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-04T00:06:25+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 04, 2026</title><link href="https://asiatechfeed.com/2026/08/04/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 04, 2026" /><published>2026-08-04T00:02:08+00:00</published><updated>2026-08-04T00:02:08+00:00</updated><id>https://asiatechfeed.com/2026/08/04/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/04/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Advantech bets on Physical AI as WEDA accelerates edge AI commercialization</span></td>
+  <td class="col-summary">Riding continued investment in AI infrastructure, industrial PC (IPC) maker Advantech extended its strong growth momentum in the second quarter of 2026, posting record second-quarter revenue and earnings.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260803PD225/advantech-investment-industrial-demand-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">ispace turns to H3 for 2028 mission as Japan builds domestic lunar transport stack</span></td>
+  <td class="col-summary">Japan's effort to localize lunar transportation is gaining momentum as the government and private sector seek to reduce reliance on overseas launch services and establish a domestically supported lunar logistics system.</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260803VL212/2028-launch-transportation-commercial-government.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Montage brings CXL 3.2 memory expansion to AI data centres with Samsung, SK Hynix support</span></td>
+  <td class="col-summary">Montage Technology has begun pilot production of what it says is the industry's first CXL 3.2 memory expansion controller, targeting growing memory capacity and pooling requirements across AI, cloud computing and data centres.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260803VL214/cxl-expansion-montage-production-data.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Onsemi forecasts upbeat revenue on surging AI data center chip demand</span></td>
+  <td class="col-summary">Onsemi forecasts upbeat revenue on surging AI data center chip demand</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/onsemi-forecasts-upbeat-revenue-surging-ai-data-center-chip-demand-6296316" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">US House panel seeks briefing on OpenAI's AI agent security breach</span></td>
+  <td class="col-summary">US House panel seeks briefing on OpenAI's AI agent security breach</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/us-house-panel-seeks-briefing-openais-ai-agent-security-breach-6296286" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba Cloud survey: Malaysian firms plan bigger AI spending</span></td>
+  <td class="col-summary">Across Asia, 75% of surveyed companies said AI had become indispensable to their operations.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-cloud-malaysia-launch-program-to-digitalize-smes" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba rolls out Qwen3.8-Max AI model globally</span></td>
+  <td class="col-summary">The Qwen family had nearly 1 billion cumulative downloads and more than 50% of global open-source AI downloads by early 2026, according to a report.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-cloud-holds-401-chinas-ai-cloud-market" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">US and China AI demand drives copper prices to near-record highs</span></td>
+  <td class="col-summary">US and China AI demand drives copper prices to near-record highs</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/commodities/us-and-china-ai-demand-drives-copper-prices-to-near-record-highs" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Advantech bets on Physical AI as WEDA accelerates edge AI commercialization Riding continued investment in AI infrastructure, industrial PC (IPC) maker Advantech extended its strong growth momentum in the second quarter of 2026, posting record second-quarter revenue and earnings. AI Read 2 DigiTimes ispace turns to H3 for 2028 mission as Japan builds domestic lunar transport stack Japan's effort to localize lunar transportation is gaining momentum as the government and private sector seek to reduce reliance on overseas launch services and establish a domestically supported lunar logistics system. Logistics Read 3 DigiTimes Montage brings CXL 3.2 memory expansion to AI data centres with Samsung, SK Hynix support Montage Technology has begun pilot production of what it says is the industry's first CXL 3.2 memory expansion controller, targeting growing memory capacity and pooling requirements across AI, cloud computing and data centres. AI Read 4 CNA Onsemi forecasts upbeat revenue on surging AI data center chip demand Onsemi forecasts upbeat revenue on surging AI data center chip demand AISemiconductor Read 5 CNA US House panel seeks briefing on OpenAI's AI agent security breach US House panel seeks briefing on OpenAI's AI agent security breach AI Read 6 TechAsia Alibaba Cloud survey: Malaysian firms plan bigger AI spending Across Asia, 75% of surveyed companies said AI had become indispensable to their operations. AI Read 7 TechAsia Alibaba rolls out Qwen3.8-Max AI model globally The Qwen family had nearly 1 billion cumulative downloads and more than 50% of global open-source AI downloads by early 2026, according to a report. AI Read 8 NikkeiAsia US and China AI demand drives copper prices to near-record highs US and China AI demand drives copper prices to near-record highs AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 03, 2026</title><link href="https://asiatechfeed.com/2026/08/03/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 03, 2026" /><published>2026-08-03T08:01:15+00:00</published><updated>2026-08-03T08:01:15+00:00</updated><id>https://asiatechfeed.com/2026/08/03/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/03/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -628,57 +705,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/electronics/india-s-battery-recycling-drive-hits-logistics-and-cost-barriers" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia AI tool catches lost revenue for paramedics Maia Care uses AI to flag documentation gaps in emergency medical reports, helping ambulance agencies recover millions in lost billing revenue. AI Read 2 CNA Singapore economy to stay firm for rest of 2026 as AI boom cushions oil shocks, new US tariff: MAS Singapore's tech sector continued to grow faster than usual and is expected to drive most of the country's economic growth this year. AI Read 3 TechAsia The 50 top-funded AI startups in Asia Here are the AI companies in Asia that have attracted tons of investors and have the resources to spend on software, talent, and expansion. AI Read 4 DigiTimes Pegatron unveils AMD EPYC server platform for AI and HPC Pegatron unveiled a new server platform powered by AMD's sixth-generation EPYC processors at AMD Advancing AI 2026, targeting enterprise AI, agentic AI, high-performance computing (HPC), cloud computing, and data-intensive workloads. AI Read 5 DigiTimes Rebellions readies Rebel100 shipments as AI inference demand grows South Korean AI chip designer Rebellions plans to begin shipping its next-generation Rebel100 accelerator in the second half of 2026, betting that wider use of AI agents and commercial AI services will shift more infrastructure spending from model training toward inference. AISemiconductor Read 6 DigiTimes WIN Semiconductors sees optical communications ramp accelerate AI revenue contribution Gallium arsenide (GaAs) foundry WIN Semiconductors (WIN) expects infrastructure revenue to continue growing in the third quarter of 2026, driven by demand from low Earth orbit (LEO) satellites and other aerospace applications, while shipments of smartphone power amplifiers (PAs) and Wi-Fi products are expected to remai SemiconductorAI Read 7 TechAsia China’s Moonshot AI plans to open-weight K3 Moonshot AI's K3 model features a 2.8-trillion-parameter mixture-of-experts architecture. AI Read 8 NikkeiAsia India's battery recycling drive hits logistics and cost barriers India's battery recycling drive hits logistics and cost barriers Logistics Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 26, 2026</title><link href="https://asiatechfeed.com/2026/07/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 26, 2026" /><published>2026-07-26T08:00:46+00:00</published><updated>2026-07-26T08:00:46+00:00</updated><id>https://asiatechfeed.com/2026/07/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Samsung Electronics, Broadcom sign AI chip partnership</span></td>
-  <td class="col-summary">Samsung shipped commercial HBM4 and is expanding capacity for AI computing.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/samsung-electronics-start-tesla-chip-production-late-2027" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SK hynix eyes record Q2 profit on AI memory boom</span></td>
-  <td class="col-summary">SK hynix held a 57% share of the high-bandwidth memory market for AI servers.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-hynix-plans-64b-cheongju-chip-expansion" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Google AI search reshapes traffic as publishers weigh blocking crawlers</span></td>
-  <td class="col-summary">Google's expansion of AI-driven search features is prompting a backlash from publishers and media companies that rely on search traffic. Over the past year, the company has rolled out AI Mode across search pages, using its Gemini chatbot to deliver direct answers that can keep users on Google instead of sending them to</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260724PD202/google-expansion-data-retail-usa.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Podcast: TSMC, SK Hynix, Intel face AI chip and cash flow inflection</span></td>
-  <td class="col-summary">This excerpt of DIGITIMES analyst Luke Lin's podcast looks at two major themes: SK Hynix's openness to building in the US and the logic behind TSMC's extra US$100 billion investment pledge.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260724PD243/tsmc-sk-hynix-intel-digitimes-cash-flow.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SK Hynix and Nvidia strike long-term deal to co-develop next-generation HBM</span></td>
-  <td class="col-summary">SK Group and Nvidia have announced a comprehensive partnership valued at more than $500 billion, spanning AI factory construction and next-generation memory supply, with letters of intent signed at an AI summit on Thursday.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260725VL203/nvidia-sk-group-partnership-sk-telecom-training.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Samsung Electronics, Broadcom sign AI chip partnership Samsung shipped commercial HBM4 and is expanding capacity for AI computing. ElectronicsAISemiconductor Read 2 TechAsia SK hynix eyes record Q2 profit on AI memory boom SK hynix held a 57% share of the high-bandwidth memory market for AI servers. AI Read 3 DigiTimes Google AI search reshapes traffic as publishers weigh blocking crawlers Google's expansion of AI-driven search features is prompting a backlash from publishers and media companies that rely on search traffic. Over the past year, the company has rolled out AI Mode across search pages, using its Gemini chatbot to deliver direct answers that can keep users on Google instead of sending them to AI Read 4 DigiTimes Podcast: TSMC, SK Hynix, Intel face AI chip and cash flow inflection This excerpt of DIGITIMES analyst Luke Lin's podcast looks at two major themes: SK Hynix's openness to building in the US and the logic behind TSMC's extra US$100 billion investment pledge. AISemiconductor Read 5 DigiTimes SK Hynix and Nvidia strike long-term deal to co-develop next-generation HBM SK Group and Nvidia have announced a comprehensive partnership valued at more than $500 billion, spanning AI factory construction and next-generation memory supply, with letters of intent signed at an AI summit on Thursday. AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia AI tool catches lost revenue for paramedics Maia Care uses AI to flag documentation gaps in emergency medical reports, helping ambulance agencies recover millions in lost billing revenue. AI Read 2 CNA Singapore economy to stay firm for rest of 2026 as AI boom cushions oil shocks, new US tariff: MAS Singapore's tech sector continued to grow faster than usual and is expected to drive most of the country's economic growth this year. AI Read 3 TechAsia The 50 top-funded AI startups in Asia Here are the AI companies in Asia that have attracted tons of investors and have the resources to spend on software, talent, and expansion. AI Read 4 DigiTimes Pegatron unveils AMD EPYC server platform for AI and HPC Pegatron unveiled a new server platform powered by AMD's sixth-generation EPYC processors at AMD Advancing AI 2026, targeting enterprise AI, agentic AI, high-performance computing (HPC), cloud computing, and data-intensive workloads. AI Read 5 DigiTimes Rebellions readies Rebel100 shipments as AI inference demand grows South Korean AI chip designer Rebellions plans to begin shipping its next-generation Rebel100 accelerator in the second half of 2026, betting that wider use of AI agents and commercial AI services will shift more infrastructure spending from model training toward inference. AISemiconductor Read 6 DigiTimes WIN Semiconductors sees optical communications ramp accelerate AI revenue contribution Gallium arsenide (GaAs) foundry WIN Semiconductors (WIN) expects infrastructure revenue to continue growing in the third quarter of 2026, driven by demand from low Earth orbit (LEO) satellites and other aerospace applications, while shipments of smartphone power amplifiers (PAs) and Wi-Fi products are expected to remai SemiconductorAI Read 7 TechAsia China’s Moonshot AI plans to open-weight K3 Moonshot AI's K3 model features a 2.8-trillion-parameter mixture-of-experts architecture. AI Read 8 NikkeiAsia India's battery recycling drive hits logistics and cost barriers India's battery recycling drive hits logistics and cost barriers Logistics Read]]></summary></entry></feed>
