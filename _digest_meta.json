@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "count": 11,
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -11,29 +11,29 @@
   "post_file": "2026-08-04-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Taiwan-Japan semiconductor ties go beyond supply chain partnerships",
+      "title": "Vertex Growth leads $20m raise for Japanese logistics startup",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/ai-helps-robots-real-world-blind-spots-persist"
+    },
+    {
+      "title": "Analysis: Tesla's driverless ambitions get regulatory reality check",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260804PD218/taiwan-japan-semiconductors-manufacturing-development-supply-chain.html"
+      "url": "https://www.digitimes.com/news/a20260804PD220/tesla-market-development-vehicle-fsd.html"
     },
     {
-      "title": "MediaTek sees SerDes 448G as copper's final battleground",
+      "title": "Why enterprises shift to open-source for AI sovereignty",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/arena-ceo-rise-ai-sovereignty"
+    },
+    {
+      "title": "Onsemi details AI data center momentum, pricing strategy in Q2 earnings call",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260804PD219/mediatek-copper-cloud-ai-optics.html"
+      "url": "https://www.digitimes.com/news/a20260804VL209/onsemi-data-center-silicon-business-capacity.html"
     },
     {
-      "title": "TrendForce Expects DRAM, NAND Flash Markets to Diverge in 2027",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/trendforce-expects-dram-nand-flash-markets-to-diverge-in-2027/"
-    },
-    {
-      "title": "India rumored to move to extend electronics tax breaks to 2041, widening pitch against China",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260804VL203/electronics-apple-2026-government-exports.html"
-    },
-    {
-      "title": "Montage Technology Begins Trial Production of CXL 3.2 Memory Expander Controller",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/montage-technology-begins-trial-production-of-cxl-3-2-memory-expander-controller/"
+      "title": "Rabobank to spend \u20ac2 billion in AI and tech as net profit stagnates",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/rabobank-spend-eu2-billion-in-ai-and-tech-net-profit-stagnates-6297056"
     }
   ],
   "source_stats": [
@@ -50,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -130,7 +130,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -151,14 +151,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 23,
+      "fetched": 41,
+      "relevant": 29,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -194,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
