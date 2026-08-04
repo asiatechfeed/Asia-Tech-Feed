@@ -1,38 +1,39 @@
 {
   "date": "2026-08-04",
-  "count": 8,
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-04-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Advantech bets on Physical AI as WEDA accelerates edge AI commercialization",
+      "title": "Taiwan-Japan semiconductor ties go beyond supply chain partnerships",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260803PD225/advantech-investment-industrial-demand-infrastructure.html"
+      "url": "https://www.digitimes.com/news/a20260804PD218/taiwan-japan-semiconductors-manufacturing-development-supply-chain.html"
     },
     {
-      "title": "ispace turns to H3 for 2028 mission as Japan builds domestic lunar transport stack",
+      "title": "MediaTek sees SerDes 448G as copper's final battleground",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260803VL212/2028-launch-transportation-commercial-government.html"
+      "url": "https://www.digitimes.com/news/a20260804PD219/mediatek-copper-cloud-ai-optics.html"
     },
     {
-      "title": "Montage brings CXL 3.2 memory expansion to AI data centres with Samsung, SK Hynix support",
+      "title": "TrendForce Expects DRAM, NAND Flash Markets to Diverge in 2027",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/trendforce-expects-dram-nand-flash-markets-to-diverge-in-2027/"
+    },
+    {
+      "title": "India rumored to move to extend electronics tax breaks to 2041, widening pitch against China",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260803VL214/cxl-expansion-montage-production-data.html"
+      "url": "https://www.digitimes.com/news/a20260804VL203/electronics-apple-2026-government-exports.html"
     },
     {
-      "title": "Onsemi forecasts upbeat revenue on surging AI data center chip demand",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/onsemi-forecasts-upbeat-revenue-surging-ai-data-center-chip-demand-6296316"
-    },
-    {
-      "title": "US House panel seeks briefing on OpenAI's AI agent security breach",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/us-house-panel-seeks-briefing-openais-ai-agent-security-breach-6296286"
+      "title": "Montage Technology Begins Trial Production of CXL 3.2 Memory Expander Controller",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/montage-technology-begins-trial-production-of-cxl-3-2-memory-expander-controller/"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -129,7 +130,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -148,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 24,
+      "relevant": 23,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +167,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 3,
+      "relevant": 4,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -193,9 +194,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 10,
+      "relevant": 14,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
