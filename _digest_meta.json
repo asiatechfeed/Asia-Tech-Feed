@@ -11,29 +11,29 @@
   "post_file": "2026-08-05-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "SpaceX's first earnings as a public company show an AI bet outrunning its cash generation",
+      "title": "Vanguard International Semiconductor sees AI demand lift mature-node prices through 2027",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260805VL202/spacex-earnings-revenue-business-loss.html"
+      "url": "https://www.digitimes.com/news/a20260805PD200/vis-ai-demand-equipment-management-2027.html"
     },
     {
-      "title": "AMD leans on Helios and hyperscaler deals to press its case against Nvidia in AI chips",
+      "title": "Ceva, Actions Technology Advance Bluetooth HDT Era with New Wireless Audio SoCs",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/ceva-actions-technology-advance-bluetooth-hdt-era-with-new-wireless-audio-socs/"
+    },
+    {
+      "title": "Analysis: AMD and Nvidia take opposite paths to capture next wave of AI infrastructure spending",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260805VL201/amd-nvidia-chips-2026-revenue.html"
+      "url": "https://www.digitimes.com/news/a20260805VL210/amd-nvidia-ai-infrastructure-earnings-revenue.html"
     },
     {
-      "title": "Samsung previews zHBM stacked-on-logic concept, 400-layer bonded NAND at FMS 2026",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260805VL200/samsung-2026-nand-dram-3d.html"
+      "title": "AMD shares fall despite 50% Q2 revenue growth",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/amd-roll-helios-gpu-platform-india-h2-2026"
     },
     {
-      "title": "Trump advisers tell AI firms they will not safety-test open-weight models, sources say",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/trump-advisers-tell-ai-firms-they-will-not-safety-test-open-weight-models-sources-say-6299116"
-    },
-    {
-      "title": "SpaceX's first quarterly results as a public company beat expectations, but AI costs hit stock",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/spacexs-first-quarterly-results-public-company-beat-expectations-ai-costs-hit-stock-6299041"
+      "title": "SEMI: Global Silicon Wafer Shipments Up 7.4% YoY in 2Q 2026",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/semi-global-silicon-wafer-shipments-up-7-4-yoy-in-2q-2026/"
     }
   ],
   "source_stats": [
@@ -50,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -149,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 29,
+      "relevant": 31,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +169,7 @@
       "fetched": 50,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -194,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
