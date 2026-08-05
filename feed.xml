@@ -1,4 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-04T08:01:57+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 04, 2026</title><link href="https://asiatechfeed.com/2026/08/04/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 04, 2026" /><published>2026-08-04T08:00:50+00:00</published><updated>2026-08-04T08:00:50+00:00</updated><id>https://asiatechfeed.com/2026/08/04/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/04/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-05T00:04:25+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 05, 2026</title><link href="https://asiatechfeed.com/2026/08/05/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 05, 2026" /><published>2026-08-05T00:03:22+00:00</published><updated>2026-08-05T00:03:22+00:00</updated><id>https://asiatechfeed.com/2026/08/05/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/05/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">SpaceX's first earnings as a public company show an AI bet outrunning its cash generation</span></td>
+  <td class="col-summary">SpaceX's debut quarterly report as a listed company laid out the scale of the wager it is making on artificial intelligence compute, a business now large enough to reshape the group's finances just seven weeks after its Nasdaq debut.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260805VL202/spacex-earnings-revenue-business-loss.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">AMD leans on Helios and hyperscaler deals to press its case against Nvidia in AI chips</span></td>
+  <td class="col-summary">AMD used its second-quarter 2026 results to reinforce a broader argument: that it can replicate in AI accelerators the market-share gains it has already made in server central processing units (CPUs), according to the latest results released on August 4.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260805VL201/amd-nvidia-chips-2026-revenue.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Samsung previews zHBM stacked-on-logic concept, 400-layer bonded NAND at FMS 2026</span></td>
+  <td class="col-summary">Samsung Electronics used the Future of Memory and Storage (FMS) 2026 conference to lay out an AI memory roadmap built around 3D architecture, previewing two concept models — zHBM and zNAND-O — and disclosing a 400-plus-layer NAND built on wafer bonding for the first time.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260805VL200/samsung-2026-nand-dram-3d.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Trump advisers tell AI firms they will not safety-test open-weight models, sources say</span></td>
+  <td class="col-summary">Trump advisers tell AI firms they will not safety-test open-weight models, sources say</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/trump-advisers-tell-ai-firms-they-will-not-safety-test-open-weight-models-sources-say-6299116" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">SpaceX's first quarterly results as a public company beat expectations, but AI costs hit stock</span></td>
+  <td class="col-summary">SpaceX's first quarterly results as a public company beat expectations, but AI costs hit stock</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/spacexs-first-quarterly-results-public-company-beat-expectations-ai-costs-hit-stock-6299041" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">USB 20Gbps Adoption Drives New Compliance Challenges for High-Speed System Design</span></td>
+  <td class="col-summary">AI PCs and edge computing accelerate USB evolution, making electrical compliance testing increasingly critical for reliable designs. The post USB 20Gbps Adoption Drives New Compliance Challenges for High-Speed System Design appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/usb-20gbps-adoption-drives-new-compliance-challenges-for-high-speed-system-design/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Indian legal AI startup Nyai raises $1.5m seed</span></td>
+  <td class="col-summary">NYAI said its software can work with language models already licensed by clients and that it supports on-premises deployment for regulated institutions.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/courtroom-chaos-silicon-valley-ai-losing-asia" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">South Korea’s Hanwha launches AI memory ETF</span></td>
+  <td class="col-summary">The ETF allocates half its portfolio to nine government bond issues.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/coupang-fire-shifts-focus-damage-insurance-claims" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Chipmaker Onsemi sees stronger Q3 on AI demand</span></td>
+  <td class="col-summary">Onsemi also said in July that it had sold two manufacturing facilities as part of its Fab Right strategy.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/semiconductor-agrees-buy-synaptics-7b" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">AMD, South Korea Ink Partnership to Advance Open Sovereign AI Infrastructure</span></td>
+  <td class="col-summary">Partnership aims to strengthen South Korea's sovereign AI ecosystem through open computing, research collaboration, and talent development. The post AMD, South Korea Ink Partnership to Advance Open Sovereign AI Infrastructure appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/amd-south-korea-ink-partnership-to-advance-open-sovereign-ai-infrastructure/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Furukawa Electric to spend $635m in Japan, US, Brazil, India amid AI boom</span></td>
+  <td class="col-summary">Furukawa Electric to spend $635m in Japan, US, Brazil, India amid AI boom</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/furukawa-electric-to-spend-635m-in-japan-us-brazil-india-amid-ai-boom" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan weighs use of Palantir, Anduril AI systems for defense forces</span></td>
+  <td class="col-summary">Japan weighs use of Palantir, Anduril AI systems for defense forces</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/politics/defense/japan-weighs-use-of-palantir-anduril-ai-systems-for-defense-forces" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">13</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">SoftBank builds out AI sphere with stake in 7-Eleven owner</span></td>
+  <td class="col-summary">SoftBank builds out AI sphere with stake in 7-Eleven owner</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-builds-out-ai-sphere-with-stake-in-7-eleven-owner" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes SpaceX's first earnings as a public company show an AI bet outrunning its cash generation SpaceX's debut quarterly report as a listed company laid out the scale of the wager it is making on artificial intelligence compute, a business now large enough to reshape the group's finances just seven weeks after its Nasdaq debut. AI Read 2 DigiTimes AMD leans on Helios and hyperscaler deals to press its case against Nvidia in AI chips AMD used its second-quarter 2026 results to reinforce a broader argument: that it can replicate in AI accelerators the market-share gains it has already made in server central processing units (CPUs), according to the latest results released on August 4. AISemiconductor Read 3 DigiTimes Samsung previews zHBM stacked-on-logic concept, 400-layer bonded NAND at FMS 2026 Samsung Electronics used the Future of Memory and Storage (FMS) 2026 conference to lay out an AI memory roadmap built around 3D architecture, previewing two concept models — zHBM and zNAND-O — and disclosing a 400-plus-layer NAND built on wafer bonding for the first time. ElectronicsAISemiconductor Read 4 CNA Trump advisers tell AI firms they will not safety-test open-weight models, sources say Trump advisers tell AI firms they will not safety-test open-weight models, sources say AI Read 5 CNA SpaceX's first quarterly results as a public company beat expectations, but AI costs hit stock SpaceX's first quarterly results as a public company beat expectations, but AI costs hit stock AI Read 6 EETAsia USB 20Gbps Adoption Drives New Compliance Challenges for High-Speed System Design AI PCs and edge computing accelerate USB evolution, making electrical compliance testing increasingly critical for reliable designs. The post USB 20Gbps Adoption Drives New Compliance Challenges for High-Speed System Design appeared first on EE Times Asia . AI Read 7 TechAsia Indian legal AI startup Nyai raises $1.5m seed NYAI said its software can work with language models already licensed by clients and that it supports on-premises deployment for regulated institutions. AI Read 8 TechAsia South Korea’s Hanwha launches AI memory ETF The ETF allocates half its portfolio to nine government bond issues. AI Read 9 TechAsia Chipmaker Onsemi sees stronger Q3 on AI demand Onsemi also said in July that it had sold two manufacturing facilities as part of its Fab Right strategy. AISemiconductor Read 10 EETAsia AMD, South Korea Ink Partnership to Advance Open Sovereign AI Infrastructure Partnership aims to strengthen South Korea's sovereign AI ecosystem through open computing, research collaboration, and talent development. The post AMD, South Korea Ink Partnership to Advance Open Sovereign AI Infrastructure appeared first on EE Times Asia . AI Read 11 NikkeiAsia Furukawa Electric to spend $635m in Japan, US, Brazil, India amid AI boom Furukawa Electric to spend $635m in Japan, US, Brazil, India amid AI boom AI Read 12 NikkeiAsia Japan weighs use of Palantir, Anduril AI systems for defense forces Japan weighs use of Palantir, Anduril AI systems for defense forces AI Read 13 NikkeiAsia SoftBank builds out AI sphere with stake in 7-Eleven owner SoftBank builds out AI sphere with stake in 7-Eleven owner AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 04, 2026</title><link href="https://asiatechfeed.com/2026/08/04/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 04, 2026" /><published>2026-08-04T08:00:50+00:00</published><updated>2026-08-04T08:00:50+00:00</updated><id>https://asiatechfeed.com/2026/08/04/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/04/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -660,81 +777,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/south-korea-s-kospi-plunges-11-on-china-chip-competition-fears" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Replacing fashion photoshoots with AI With 20 enterprise pilots underway, Swapify is helping fast-fashion brands replace expensive photoshoots with an AI-generation pipeline. AI Read 2 TechAsia Alibaba Cloud adds Kimi K3 to its AI platform The company said tests showed that joint optimization across chips, the inference platform, and the model cut first-token latency. AISemiconductor Read 3 DigiTimes Squeezed by China, Taiwan ODMs pivot to AI for new growth China's notebook manufacturing industry is rising rapidly just as Taiwan's ODMs retreat from notebook assembly, but Wistron chairman Simon Lin said the shift also reflects new opportunities as companies pivot toward AI. Lin said each era has its own mission, and many companies would rather move notebook resources into AI Read 4 DigiTimes Nvidia invests in Ilya Sutskever's SSI, providing access to Vera Rubin compute platform Nvidia has made a strategic investment in Safe Superintelligence Inc. and announced a long-term partnership with the secretive AI lab founded by OpenAI co-founder Ilya Sutskever, giving SSI access to Nvidia's next-generation Vera Rubin systems and expanding its computing capacity by an order of magnitude. AI Read 5 DigiTimes Qualcomm chip price hike to squeeze China's Android makers on two fronts China's smartphone brands are bracing for a new round of cost pressure after Qualcomm reportedly notified customers of double-digit percentage price increases on products shipped from September 1—a move that compounds already rising memory and materials costs hitting the Android supply chain. SemiconductorLogistics Read 6 TechAsia HSBC plans Singapore AI hub, 100+ AI roles HSBC plans to develop AI talent by collaborating with Singapore's educational institutions and government. AI Read 7 NikkeiAsia South Korea's KOSPI plunges 11% on China chip competition fears South Korea's KOSPI plunges 11% on China chip competition fears Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 27, 2026</title><link href="https://asiatechfeed.com/2026/07/27/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 27, 2026" /><published>2026-07-27T08:00:48+00:00</published><updated>2026-07-27T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/07/27/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/27/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">AI tool catches lost revenue for paramedics</span></td>
-  <td class="col-summary">Maia Care uses AI to flag documentation gaps in emergency medical reports, helping ambulance agencies recover millions in lost billing revenue.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-tool-catches-lost-revenue-paramedics" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Singapore economy to stay firm for rest of 2026 as AI boom cushions oil shocks, new US tariff: MAS</span></td>
-  <td class="col-summary">Singapore's tech sector continued to grow faster than usual and is expected to drive most of the country's economic growth this year.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/economy-ai-oil-prices-middle-east-conflict-trump-tariffs-mas-6279896" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">The 50 top-funded AI startups in Asia</span></td>
-  <td class="col-summary">Here are the AI companies in Asia that have attracted tons of investors and have the resources to spend on software, talent, and expansion.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/the-50-top-funded-ai-startups-in-asia" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Pegatron unveils AMD EPYC server platform for AI and HPC</span></td>
-  <td class="col-summary">Pegatron unveiled a new server platform powered by AMD's sixth-generation EPYC processors at AMD Advancing AI 2026, targeting enterprise AI, agentic AI, high-performance computing (HPC), cloud computing, and data-intensive workloads.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260724PD244/pegatron-amd-hpc-performance-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Rebellions readies Rebel100 shipments as AI inference demand grows</span></td>
-  <td class="col-summary">South Korean AI chip designer Rebellions plans to begin shipping its next-generation Rebel100 accelerator in the second half of 2026, betting that wider use of AI agents and commercial AI services will shift more infrastructure spending from model training toward inference.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260727VL212/ai-inference-shipments-ai-chip-infrastructure-sk-telecom.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">WIN Semiconductors sees optical communications ramp accelerate AI revenue contribution</span></td>
-  <td class="col-summary">Gallium arsenide (GaAs) foundry WIN Semiconductors (WIN) expects infrastructure revenue to continue growing in the third quarter of 2026, driven by demand from low Earth orbit (LEO) satellites and other aerospace applications, while shipments of smartphone power amplifiers (PAs) and Wi-Fi products are expected to remai</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260727PD224/revenue-win-semi-communications-gaas-demand.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">China’s Moonshot AI plans to open-weight K3</span></td>
-  <td class="col-summary">Moonshot AI's K3 model features a 2.8-trillion-parameter mixture-of-experts architecture.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/moonshot-ai-moves-unwind-offshore-model-ipo" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">India's battery recycling drive hits logistics and cost barriers</span></td>
-  <td class="col-summary">India's battery recycling drive hits logistics and cost barriers</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/electronics/india-s-battery-recycling-drive-hits-logistics-and-cost-barriers" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia AI tool catches lost revenue for paramedics Maia Care uses AI to flag documentation gaps in emergency medical reports, helping ambulance agencies recover millions in lost billing revenue. AI Read 2 CNA Singapore economy to stay firm for rest of 2026 as AI boom cushions oil shocks, new US tariff: MAS Singapore's tech sector continued to grow faster than usual and is expected to drive most of the country's economic growth this year. AI Read 3 TechAsia The 50 top-funded AI startups in Asia Here are the AI companies in Asia that have attracted tons of investors and have the resources to spend on software, talent, and expansion. AI Read 4 DigiTimes Pegatron unveils AMD EPYC server platform for AI and HPC Pegatron unveiled a new server platform powered by AMD's sixth-generation EPYC processors at AMD Advancing AI 2026, targeting enterprise AI, agentic AI, high-performance computing (HPC), cloud computing, and data-intensive workloads. AI Read 5 DigiTimes Rebellions readies Rebel100 shipments as AI inference demand grows South Korean AI chip designer Rebellions plans to begin shipping its next-generation Rebel100 accelerator in the second half of 2026, betting that wider use of AI agents and commercial AI services will shift more infrastructure spending from model training toward inference. AISemiconductor Read 6 DigiTimes WIN Semiconductors sees optical communications ramp accelerate AI revenue contribution Gallium arsenide (GaAs) foundry WIN Semiconductors (WIN) expects infrastructure revenue to continue growing in the third quarter of 2026, driven by demand from low Earth orbit (LEO) satellites and other aerospace applications, while shipments of smartphone power amplifiers (PAs) and Wi-Fi products are expected to remai SemiconductorAI Read 7 TechAsia China’s Moonshot AI plans to open-weight K3 Moonshot AI's K3 model features a 2.8-trillion-parameter mixture-of-experts architecture. AI Read 8 NikkeiAsia India's battery recycling drive hits logistics and cost barriers India's battery recycling drive hits logistics and cost barriers Logistics Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Replacing fashion photoshoots with AI With 20 enterprise pilots underway, Swapify is helping fast-fashion brands replace expensive photoshoots with an AI-generation pipeline. AI Read 2 TechAsia Alibaba Cloud adds Kimi K3 to its AI platform The company said tests showed that joint optimization across chips, the inference platform, and the model cut first-token latency. AISemiconductor Read 3 DigiTimes Squeezed by China, Taiwan ODMs pivot to AI for new growth China's notebook manufacturing industry is rising rapidly just as Taiwan's ODMs retreat from notebook assembly, but Wistron chairman Simon Lin said the shift also reflects new opportunities as companies pivot toward AI. Lin said each era has its own mission, and many companies would rather move notebook resources into AI Read 4 DigiTimes Nvidia invests in Ilya Sutskever's SSI, providing access to Vera Rubin compute platform Nvidia has made a strategic investment in Safe Superintelligence Inc. and announced a long-term partnership with the secretive AI lab founded by OpenAI co-founder Ilya Sutskever, giving SSI access to Nvidia's next-generation Vera Rubin systems and expanding its computing capacity by an order of magnitude. AI Read 5 DigiTimes Qualcomm chip price hike to squeeze China's Android makers on two fronts China's smartphone brands are bracing for a new round of cost pressure after Qualcomm reportedly notified customers of double-digit percentage price increases on products shipped from September 1—a move that compounds already rising memory and materials costs hitting the Android supply chain. SemiconductorLogistics Read 6 TechAsia HSBC plans Singapore AI hub, 100+ AI roles HSBC plans to develop AI talent by collaborating with Singapore's educational institutions and government. AI Read 7 NikkeiAsia South Korea's KOSPI plunges 11% on China chip competition fears South Korea's KOSPI plunges 11% on China chip competition fears Semiconductor Read]]></summary></entry></feed>
