@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-04",
-  "count": 12,
+  "date": "2026-08-05",
+  "count": 13,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -8,32 +8,32 @@
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-08-04-asia-tech-news-digest.md",
+  "post_file": "2026-08-05-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Vertex Growth leads $20m raise for Japanese logistics startup",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/ai-helps-robots-real-world-blind-spots-persist"
-    },
-    {
-      "title": "Analysis: Tesla's driverless ambitions get regulatory reality check",
+      "title": "SpaceX's first earnings as a public company show an AI bet outrunning its cash generation",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260804PD220/tesla-market-development-vehicle-fsd.html"
+      "url": "https://www.digitimes.com/news/a20260805VL202/spacex-earnings-revenue-business-loss.html"
     },
     {
-      "title": "Why enterprises shift to open-source for AI sovereignty",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/arena-ceo-rise-ai-sovereignty"
-    },
-    {
-      "title": "Onsemi details AI data center momentum, pricing strategy in Q2 earnings call",
+      "title": "AMD leans on Helios and hyperscaler deals to press its case against Nvidia in AI chips",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260804VL209/onsemi-data-center-silicon-business-capacity.html"
+      "url": "https://www.digitimes.com/news/a20260805VL201/amd-nvidia-chips-2026-revenue.html"
     },
     {
-      "title": "Rabobank to spend \u20ac2 billion in AI and tech as net profit stagnates",
+      "title": "Samsung previews zHBM stacked-on-logic concept, 400-layer bonded NAND at FMS 2026",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260805VL200/samsung-2026-nand-dram-3d.html"
+    },
+    {
+      "title": "Trump advisers tell AI firms they will not safety-test open-weight models, sources say",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/rabobank-spend-eu2-billion-in-ai-and-tech-net-profit-stagnates-6297056"
+      "url": "https://www.channelnewsasia.com/business/trump-advisers-tell-ai-firms-they-will-not-safety-test-open-weight-models-sources-say-6299116"
+    },
+    {
+      "title": "SpaceX's first quarterly results as a public company beat expectations, but AI costs hit stock",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/spacexs-first-quarterly-results-public-company-beat-expectations-ai-costs-hit-stock-6299041"
     }
   ],
   "source_stats": [
@@ -50,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -130,7 +130,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -149,7 +149,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 6,
+      "relevant": 8,
       "sponsored_skipped": 0,
       "published": 2,
       "error": null
@@ -157,7 +157,7 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 41,
+      "fetched": 35,
       "relevant": 29,
       "sponsored_skipped": 0,
       "published": 3,
@@ -167,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 4,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -194,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 12,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null

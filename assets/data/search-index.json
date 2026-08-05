@@ -1,5 +1,152 @@
 [
   {
+    "date": "2026-08-05",
+    "title": "SpaceX's first earnings as a public company show an AI bet outrunning its cash generation",
+    "summary": "SpaceX's debut quarterly report as a listed company laid out the scale of the wager it is making on artificial intelligence compute, a business now large enough to reshape the group's finances just seven weeks after its Nasdaq debut.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260805VL202/spacex-earnings-revenue-business-loss.html"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "AMD leans on Helios and hyperscaler deals to press its case against Nvidia in AI chips",
+    "summary": "AMD used its second-quarter 2026 results to reinforce a broader argument: that it can replicate in AI accelerators the market-share gains it has already made in server central processing units (CPUs), according to the latest results released on August 4.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260805VL201/amd-nvidia-chips-2026-revenue.html"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "Samsung previews zHBM stacked-on-logic concept, 400-layer bonded NAND at FMS 2026",
+    "summary": "Samsung Electronics used the Future of Memory and Storage (FMS) 2026 conference to lay out an AI memory roadmap built around 3D architecture, previewing two concept models — zHBM and zNAND-O — and disclosing a 400-plus-layer NAND built on wafer bonding for the first time.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260805VL200/samsung-2026-nand-dram-3d.html"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "Trump advisers tell AI firms they will not safety-test open-weight models, sources say",
+    "summary": "Trump advisers tell AI firms they will not safety-test open-weight models, sources say",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/trump-advisers-tell-ai-firms-they-will-not-safety-test-open-weight-models-sources-say-6299116"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "SpaceX's first quarterly results as a public company beat expectations, but AI costs hit stock",
+    "summary": "SpaceX's first quarterly results as a public company beat expectations, but AI costs hit stock",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/spacexs-first-quarterly-results-public-company-beat-expectations-ai-costs-hit-stock-6299041"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "USB 20Gbps Adoption Drives New Compliance Challenges for High-Speed System Design",
+    "summary": "AI PCs and edge computing accelerate USB evolution, making electrical compliance testing increasingly critical for reliable designs. The post USB 20Gbps Adoption Drives New Compliance Challenges for High-Speed System Design appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/usb-20gbps-adoption-drives-new-compliance-challenges-for-high-speed-system-design/"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "Indian legal AI startup Nyai raises $1.5m seed",
+    "summary": "NYAI said its software can work with language models already licensed by clients and that it supports on-premises deployment for regulated institutions.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/courtroom-chaos-silicon-valley-ai-losing-asia"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "South Korea’s Hanwha launches AI memory ETF",
+    "summary": "The ETF allocates half its portfolio to nine government bond issues.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/coupang-fire-shifts-focus-damage-insurance-claims"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "Chipmaker Onsemi sees stronger Q3 on AI demand",
+    "summary": "Onsemi also said in July that it had sold two manufacturing facilities as part of its Fab Right strategy.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/semiconductor-agrees-buy-synaptics-7b"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "AMD, South Korea Ink Partnership to Advance Open Sovereign AI Infrastructure",
+    "summary": "Partnership aims to strengthen South Korea's sovereign AI ecosystem through open computing, research collaboration, and talent development. The post AMD, South Korea Ink Partnership to Advance Open Sovereign AI Infrastructure appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/amd-south-korea-ink-partnership-to-advance-open-sovereign-ai-infrastructure/"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "Furukawa Electric to spend $635m in Japan, US, Brazil, India amid AI boom",
+    "summary": "Furukawa Electric to spend $635m in Japan, US, Brazil, India amid AI boom",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/furukawa-electric-to-spend-635m-in-japan-us-brazil-india-amid-ai-boom"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "Japan weighs use of Palantir, Anduril AI systems for defense forces",
+    "summary": "Japan weighs use of Palantir, Anduril AI systems for defense forces",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/politics/defense/japan-weighs-use-of-palantir-anduril-ai-systems-for-defense-forces"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "SoftBank builds out AI sphere with stake in 7-Eleven owner",
+    "summary": "SoftBank builds out AI sphere with stake in 7-Eleven owner",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-builds-out-ai-sphere-with-stake-in-7-eleven-owner"
+  },
+  {
     "date": "2026-08-04",
     "title": "Vertex Growth leads $20m raise for Japanese logistics startup",
     "summary": "Founded in 2019, X Mile began as a staffing platform before expanding into AI tools.",
