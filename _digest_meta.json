@@ -1,39 +1,37 @@
 {
   "date": "2026-08-05",
-  "count": 13,
+  "count": 7,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-05-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Vanguard International Semiconductor sees AI demand lift mature-node prices through 2027",
+      "title": "Airoha optical comms revenue doubles as broadband lands CSPs",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260805PD200/vis-ai-demand-equipment-management-2027.html"
+      "url": "https://www.digitimes.com/news/a20260805PD215/airoha-broadband-wireless-revenue-growth.html"
     },
     {
-      "title": "Ceva, Actions Technology Advance Bluetooth HDT Era with New Wireless Audio SoCs",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/ceva-actions-technology-advance-bluetooth-hdt-era-with-new-wireless-audio-socs/"
-    },
-    {
-      "title": "Analysis: AMD and Nvidia take opposite paths to capture next wave of AI infrastructure spending",
+      "title": "Analysis: Musk's empire closes in on China \u2014 from orbit to the factory floor",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260805VL210/amd-nvidia-ai-infrastructure-earnings-revenue.html"
+      "url": "https://www.digitimes.com/news/a20260805VL213/spacex-growth-hardware-revenue-tesla.html"
     },
     {
-      "title": "AMD shares fall despite 50% Q2 revenue growth",
+      "title": "Anthropic's scramble for compute is reshaping how AI labs finance their chips",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260805VL205/anthropic-chips-infrastructure-startup-capacity.html"
+    },
+    {
+      "title": "Analysis:Europe's established tech firms emerge as unexpected AI winners",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/analysiseuropes-established-tech-firms-emerge-unexpected-ai-winners-6300261"
+    },
+    {
+      "title": "Accel-backed Netskope launches AI security platform",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/amd-roll-helios-gpu-platform-india-h2-2026"
-    },
-    {
-      "title": "SEMI: Global Silicon Wafer Shipments Up 7.4% YoY in 2Q 2026",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/semi-global-silicon-wafer-shipments-up-7-4-yoy-in-2q-2026/"
+      "url": "https://www.techinasia.com/cybersecurity-firm-armis-weighs-stake-sale-offers"
     }
   ],
   "source_stats": [
@@ -50,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 4,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -151,14 +149,14 @@
       "fetched": 10,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 31,
+      "fetched": 49,
+      "relevant": 42,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +167,7 @@
       "fetched": 50,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
