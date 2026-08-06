@@ -1,38 +1,37 @@
 {
   "date": "2026-08-06",
-  "count": 9,
+  "count": 7,
   "sources": [
     "DigiTimes",
-    "EETAsia",
-    "KED",
+    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-06-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Chunghwa Precision Test posts record July revenue on AI chip demand",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260804PD203/revenue-demand-chpt-2026-testing.html"
-    },
-    {
-      "title": "Anthropic builds in-house chip design team, signaling AI firms' turn to custom silicon",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260806VL216/anthropic-design-silicon-claude-chips.html"
-    },
-    {
-      "title": "Nanya Technology raises 2026 capex 34% to accelerate Fab 5A build-out",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260805PD248/nanya-technology-capex-capacity-testing-2026.html"
-    },
-    {
-      "title": "Google DeepMind CEO steps down in Alphabet AI reshuffle",
+      "title": "Zero-capex AI to decarbonize Asian buildings",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/alphabet-nears-nvidia-in-market-value-on-ai-demand"
+      "url": "https://www.techinasia.com/zerocapex-ai-decarbonize-asian-buildings"
     },
     {
-      "title": "ST\u2019s Galvanically Isolated Gate Drivers Simplify Power Design",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/sts-galvanically-isolated-gate-drivers-simplify-power-design/"
+      "title": "Parade sees steadier outlook despite margin pressure from memory costs",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260806PD208/parade-revenue-demand-growth-testing.html"
+    },
+    {
+      "title": "US polysilicon tariff exposes chip security's solar dependence",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260806VL211/polysilicon-solar-security-price-demand.html"
+    },
+    {
+      "title": "Taiwan's offshore wind pipeline stalls as failed tenders raise fears of supply chain gap",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260806PD223/taiwan-offshore-wind-supply-chain-electricity.html"
+    },
+    {
+      "title": "Moonshot AI targets $50b valuation in new round: sources",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/chinas-moonshot-seeks-hong-kong-ipo"
     }
   ],
   "source_stats": [
@@ -150,14 +149,14 @@
       "fetched": 10,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 39,
-      "relevant": 28,
+      "fetched": 58,
+      "relevant": 39,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 4,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -177,7 +176,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -211,7 +210,7 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
