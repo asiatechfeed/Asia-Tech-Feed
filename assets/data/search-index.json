@@ -1,104 +1,81 @@
 [
   {
     "date": "2026-08-06",
-    "title": "Chunghwa Precision Test posts record July revenue on AI chip demand",
-    "summary": "Chunghwa Precision Test Tech. reported record monthly revenue in July 2026, as demand for AI and high-performance computing (HPC) testing products rose across data center and cloud markets. The testing interface maker said shipments of GPU-related chips, modules, and systems increased alongside stronger investment tied",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260804PD203/revenue-demand-chpt-2026-testing.html"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "Anthropic builds in-house chip design team, signaling AI firms' turn to custom silicon",
-    "summary": "Anthropic is building an in-house team to design custom chips for its Claude AI models, according to Reuters , moving ahead with a plan first reported in April as the startup responds to a shortage of processors needed to run and develop more advanced AI systems.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260806VL216/anthropic-design-silicon-claude-chips.html"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "Nanya Technology raises 2026 capex 34% to accelerate Fab 5A build-out",
-    "summary": "Nanya Technology's board of directors approved several resolutions on August 5, including a plan to accelerate capacity build-out at its new Fab 5A by raising its 2026 capital expenditure to no more than NT$69.7 billion (approx. US$2.16 billion) from the earlier estimate of NT$52 billion, a roughly 34% increase. The bo",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260805PD248/nanya-technology-capex-capacity-testing-2026.html"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "Google DeepMind CEO steps down in Alphabet AI reshuffle",
-    "summary": "The changes come as Google faces pressure over its AI position after the flagship version of its latest Gemini model missed a planned June launch.",
+    "title": "Zero-capex AI to decarbonize Asian buildings",
+    "summary": "Ampotech combines AI software with zero-capex financing to help Asian factories and commercial buildings reduce their energy use by up to 48%.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/alphabet-nears-nvidia-in-market-value-on-ai-demand"
+    "url": "https://www.techinasia.com/zerocapex-ai-decarbonize-asian-buildings"
   },
   {
     "date": "2026-08-06",
-    "title": "ST’s Galvanically Isolated Gate Drivers Simplify Power Design",
-    "summary": "STMicroelectronics' latest STGAP3S family of gate drivers feature enhanced galvanic isolation for greater reliability. The post ST’s Galvanically Isolated Gate Drivers Simplify Power Design appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "Parade sees steadier outlook despite margin pressure from memory costs",
+    "summary": "Parade said its second-quarter 2026 results were squeezed by a sudden increase in back-end testing and packaging costs, but the high-speed interface chip designer remains confident about demand going forward. For global readers, the takeaway is that rising memory prices are reshaping notebook and PC supply chains, yet ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "Electronics"
+      "Semiconductor",
+      "Logistics"
     ],
-    "url": "https://www.eetasia.com/sts-galvanically-isolated-gate-drivers-simplify-power-design/"
+    "url": "https://www.digitimes.com/news/a20260806PD208/parade-revenue-demand-growth-testing.html"
   },
   {
     "date": "2026-08-06",
-    "title": "The Next Frontier of AI Won’t Be in the Cloud — It Will Be in the Real World",
-    "summary": "In the next phase of AI, systems that create the greatest value won't simply analyze information—they will be the systems that can act on it. The post The Next Frontier of AI Won’t Be in the Cloud — It Will Be in the Real World appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "US polysilicon tariff exposes chip security's solar dependence",
+    "summary": "The Trump administration is preparing to impose a 15% tariff and minimum import prices on polysilicon and selected derivative products, placing an upstream material shared by solar panels and semiconductor chips at the center of efforts to reduce US exposure to Chinese supply.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "AI"
+      "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/the-next-frontier-of-ai-wont-be-in-the-cloud-it-will-be-in-the-real-world/"
+    "url": "https://www.digitimes.com/news/a20260806VL211/polysilicon-solar-security-price-demand.html"
   },
   {
     "date": "2026-08-06",
-    "title": "SpaceX spent $295m on Tesla Megapacks in Q2",
-    "summary": "The batteries help power Colossus data centers in Greater Memphis used by SpaceXAI, Elon Musk’s AI company formerly known as xAI.",
+    "title": "Taiwan's offshore wind pipeline stalls as failed tenders raise fears of supply chain gap",
+    "summary": "Taiwan's high-tech industry is facing an increasingly urgent need for renewable electricity, yet progress on major offshore wind projects has slowed significantly.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260806PD223/taiwan-offshore-wind-supply-chain-electricity.html"
+  },
+  {
+    "date": "2026-08-06",
+    "title": "Moonshot AI targets $50b valuation in new round: sources",
+    "summary": "The fundraising would be Moonshot’s last before a listing, according to the people.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/spacex-signs-63b-chip-deal-reflection-ai"
+    "url": "https://www.techinasia.com/chinas-moonshot-seeks-hong-kong-ipo"
   },
   {
     "date": "2026-08-06",
-    "title": "Meta launches Muse Code beta for AI coding",
-    "summary": "Meta said Muse Spark 1.2 and Muse Code were trained together to work smoothly as a pair.",
+    "title": "This startup fixes AI model drift in high-stakes workflows",
+    "summary": "Backed by Antler, Nugen Intelligence helps enterprises prevent million-dollar AI failures with a simple one-line code integration.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/meta-drops-ai-image-feature-rollout"
+    "url": "https://www.techinasia.com/startup-fixes-ai-model-drift-highstakes-workflows"
   },
   {
     "date": "2026-08-06",
-    "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
-    "summary": "Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio",
-    "source": "KED Global",
-    "short": "KED",
+    "title": "Amundi says AI remains a long-term bet despite sell-off",
+    "summary": "Amundi says AI remains a long-term bet despite sell-off",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001"
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/amundi-says-ai-remains-a-long-term-bet-despite-sell-off"
   },
   {
     "date": "2026-08-05",
