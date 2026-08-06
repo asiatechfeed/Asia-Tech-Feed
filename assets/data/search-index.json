@@ -1,147 +1,104 @@
 [
   {
     "date": "2026-08-06",
-    "title": "Interview: Ayar Labs CEO sees CPO scale-up volumes rising in 2028-2029",
-    "summary": "The 2026 Open Compute Project (OCP) APAC Summit will be held in Taipei on August 11-12, bringing together global cloud service providers (CSPs), semiconductor firms, silicon photonics (SiPh) players, system makers and many Taiwanese suppliers to share the latest developments in compute architecture. Ayar Labs CEO Mark ",
+    "title": "Chunghwa Precision Test posts record July revenue on AI chip demand",
+    "summary": "Chunghwa Precision Test Tech. reported record monthly revenue in July 2026, as demand for AI and high-performance computing (HPC) testing products rose across data center and cloud markets. The testing interface maker said shipments of GPU-related chips, modules, and systems increased alongside stronger investment tied",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor",
-      "Logistics"
+      "AI",
+      "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260805PD219/cpo-2026-ceo-apac-manufacturing.html"
+    "url": "https://www.digitimes.com/news/a20260804PD203/revenue-demand-chpt-2026-testing.html"
   },
   {
     "date": "2026-08-06",
-    "title": "China auto exports shift production and pressure suppliers in the first half of 2026",
-    "summary": "China’s auto industry shifted sharply in the first half of 2026 as export growth offset weakening domestic demand, pushing production toward export-connected manufacturing hubs and putting suppliers in slower regions under pressure. The change was most visible in provinces with strong logistics links and export-oriente",
+    "title": "Anthropic builds in-house chip design team, signaling AI firms' turn to custom silicon",
+    "summary": "Anthropic is building an in-house team to design custom chips for its Claude AI models, according to Reuters , moving ahead with a plan first reported in April as the startup responds to a shortage of processors needed to run and develop more advanced AI systems.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Logistics"
+      "AI",
+      "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260805PD212/2026-production-exports-vehicle-demand.html"
+    "url": "https://www.digitimes.com/news/a20260806VL216/anthropic-design-silicon-claude-chips.html"
   },
   {
     "date": "2026-08-06",
-    "title": "Chicony Power wins US communications customer as AI server products move toward production",
-    "summary": "Chicony Power Technology Co. said on Aug. 4 that stronger demand for communication and server power improved its second-quarter 2026 product mix, even as higher raw material costs and a firmer Chinese yuan (CNY) pressured margins. The Taiwan-based power supply maker said operating profit fell more than 40% quarter-over",
+    "title": "Nanya Technology raises 2026 capex 34% to accelerate Fab 5A build-out",
+    "summary": "Nanya Technology's board of directors approved several resolutions on August 5, including a plan to accelerate capacity build-out at its new Fab 5A by raising its 2026 capital expenditure to no more than NT$69.7 billion (approx. US$2.16 billion) from the earlier estimate of NT$52 billion, a roughly 34% increase. The bo",
     "source": "DigiTimes",
     "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260805PD210/chicony-power-production-ai-server-demand-2026.html"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "Microsoft reports $24.1b in OpenAI-linked revenue",
-    "summary": "That suggests OpenAI-related revenue made up more than half of Microsoft’s AI business for the period.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/microsoft-invest-25b-ai-services-unit"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "CELUS, Variscite, and NXP Join Forces to Streamline Embedded AI Hardware Design",
-    "summary": "Partnership integrates AI-assisted design tools with SoMs to accelerate embedded system development and reduce design complexity. The post CELUS, Variscite, and NXP Join Forces to Streamline Embedded AI Hardware Design appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/celus-variscite-and-nxp-join-forces-to-streamline-embedded-ai-hardware-design/"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "Marvell Strengthens AI Memory Infrastructure Portfolio",
-    "summary": "New storage, CXL memory, and photonic technologies address growing memory bottlenecks in large-scale AI inference. The post Marvell Strengthens AI Memory Infrastructure Portfolio appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/marvell-strengthens-ai-memory-infrastructure-portfolio/"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "Indosat seeks $2b in loans for advanced chips",
-    "summary": "Fitch upgraded Indosat’s Long-Term Issuer Default Rating to investment-grade BBB with a stable outlook in February 2025.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/indosat-nokia-nvidia-open-asia-first-ai-ran-center-in-indonesia"
+    "url": "https://www.digitimes.com/news/a20260805PD248/nanya-technology-capex-capacity-testing-2026.html"
   },
   {
     "date": "2026-08-06",
-    "title": "NVMe 2.4 Specs Add Post-Quantum Security, Management, and Sustainability Features",
-    "summary": "Latest NVMe updates strengthen storage security, virtualization, manageability, and sustainability for AI and cloud workloads. The post NVMe 2.4 Specs Add Post-Quantum Security, Management, and Sustainability Features appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/nvme-2-4-specs-add-post-quantum-security-management-and-sustainability-features/"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "Meta AI model hacks another company during testing",
-    "summary": "Meta AI model hacks another company during testing",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/meta-ai-model-hacks-another-company-during-testing-6302271"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "Commentary: AI didn’t ruin these films. It made them possible",
-    "summary": "Bloomberg Opinion's Catherine Thorbecke went to an AI film festival expecting slop, and left surprised by how much humanity emanated from the screen.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/commentary/ai-film-making-holllywood-artist-creators-6300591"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "Meta launches new AI coding tool powered by Muse Spark 1.2",
-    "summary": "Meta launches new AI coding tool powered by Muse Spark 1.2",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/meta-launches-new-ai-coding-tool-powered-muse-spark-12-6302176"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "Foxconn July revenue hits record on AI demand",
-    "summary": "Foxconn, a supplier to Nvidia and Apple, said growth was led by its cloud and networking business, which includes AI servers and other data center hardware.",
+    "title": "Google DeepMind CEO steps down in Alphabet AI reshuffle",
+    "summary": "The changes come as Google faces pressure over its AI position after the flagship version of its latest Gemini model missed a planned June launch.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/hon-hai-april-revenue-jumps-297-ai-demand"
+    "url": "https://www.techinasia.com/alphabet-nears-nvidia-in-market-value-on-ai-demand"
   },
   {
     "date": "2026-08-06",
-    "title": "Scale Up, Scale Out Challenges Amplified For Clusters",
-    "summary": "Compute clusters offer more processing capacity but at the cost of higher power. Software is needed to allocate resources effectively and optimize networking and memory. The post Scale Up, Scale Out Challenges Amplified For Clusters appeared first on Semiconductor Engineering .",
-    "source": "Semiconductor Engineering",
-    "short": "SemiEng",
+    "title": "ST’s Galvanically Isolated Gate Drivers Simplify Power Design",
+    "summary": "STMicroelectronics' latest STGAP3S family of gate drivers feature enhanced galvanic isolation for greater reliability. The post ST’s Galvanically Isolated Gate Drivers Simplify Power Design appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
-      "Semiconductor"
+      "Electronics"
     ],
-    "url": "https://semiengineering.com/scale-up-out-challenges-amplified-for-clusters/"
+    "url": "https://www.eetasia.com/sts-galvanically-isolated-gate-drivers-simplify-power-design/"
+  },
+  {
+    "date": "2026-08-06",
+    "title": "The Next Frontier of AI Won’t Be in the Cloud — It Will Be in the Real World",
+    "summary": "In the next phase of AI, systems that create the greatest value won't simply analyze information—they will be the systems that can act on it. The post The Next Frontier of AI Won’t Be in the Cloud — It Will Be in the Real World appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/the-next-frontier-of-ai-wont-be-in-the-cloud-it-will-be-in-the-real-world/"
+  },
+  {
+    "date": "2026-08-06",
+    "title": "SpaceX spent $295m on Tesla Megapacks in Q2",
+    "summary": "The batteries help power Colossus data centers in Greater Memphis used by SpaceXAI, Elon Musk’s AI company formerly known as xAI.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/spacex-signs-63b-chip-deal-reflection-ai"
+  },
+  {
+    "date": "2026-08-06",
+    "title": "Meta launches Muse Code beta for AI coding",
+    "summary": "Meta said Muse Spark 1.2 and Muse Code were trained together to work smoothly as a pair.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/meta-drops-ai-image-feature-rollout"
+  },
+  {
+    "date": "2026-08-06",
+    "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
+    "summary": "Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001"
   },
   {
     "date": "2026-08-05",
