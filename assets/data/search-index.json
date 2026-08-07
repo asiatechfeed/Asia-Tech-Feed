@@ -1,82 +1,119 @@
 [
   {
     "date": "2026-08-07",
-    "title": "Multilingual AI agents taking on legacy chatbots",
-    "summary": "Level3AI skips traditional software licenses for guaranteed outcomes, ensuring enterprises only pay when its AI successfully resolves customer issues.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/multilingual-ai-agents-legacy-chatbots"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "Nokia's NXP Arizona fab buy signals AI optical bottleneck shifting upstream",
-    "summary": "Nokia is moving deeper into semiconductor manufacturing by acquiring NXP's Chandler fabrication campus in Arizona, signaling that the AI infrastructure race is expanding beyond GPUs and memory into the optical components needed to connect increasingly dense data-center clusters.",
+    "title": "SK Hynix commits US$39 billion to new Yongin and Cheongju fabs as AI memory demand builds",
+    "summary": "SK Hynix has approved roughly KRW54 trillion (approx. US$39 billion) in new fab construction across two domestic sites, allocating KRW35.2 trillion to a second Yongin fab and KRW19.1 trillion to a new Cheongju NAND plant, in a move the company frames as securing supply capacity rather than chasing a cycle.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor",
-      "AI"
+      "AI",
+      "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260806VL226/nokia-arizona-nxp-fab-manufacturing.html"
+    "url": "https://www.digitimes.com/news/a20260807VL218/sk-hynix-nand-fab-investment.html"
   },
   {
     "date": "2026-08-07",
-    "title": "Microsoft launches fourth cloud region in India as AI demand accelerates",
-    "summary": "Microsoft has opened its India South Central cloud region in Hyderabad, expanding local capacity for customers in one of the world's fastest-growing digital markets. The move could matter well beyond India, giving global enterprises more options for sovereign-ready AI, regulated workloads, and lower-latency cloud servi",
+    "title": "China launches review of Palo Alto Networks as trade tensions with US escalate",
+    "summary": "China's cyberspace authority said it has begun to scrutinize products sold by US cybersecurity company Palo Alto Networks within the country, citing risks to national security and critical infrastructure in its decision. This takes place during a time of heightened tensions between the US and China over technology supp",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260807PR201/microsoft-hyderabad-cloud-infrastructure-launch.html"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "Taiwan Innotech Expo to showcase application-ready tech research",
-    "summary": "The government-organized 2026 Taiwan Innotech Expo (TIE) will open in Taipei on September 17, with the National Science and Technology Council's (NSTC) Future Tech Pavilion set to showcase the latest research achievements that are ready for proof-of-concept validation and technology licensing. This year's exhibition wi",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260807PD220/taiwan-expo-2026-technology-nstc.html"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "LionsBot eyes EBITDA profit, potential listing by 2027",
-    "summary": "The firm expects revenue to grow to US$38.9 million in 2026 as demand for cleaning robots grows. Here’s why it’s optimistic about its profit goal.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Automation"
-    ],
-    "url": "https://www.techinasia.com/lionsbot-eyes-ebitda-profit-potential-listing-2027"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "Indian logistics firm Shiprocket targets $170m IPO",
-    "summary": "Shiprocket operates an asset-light platform spanning shipping, fulfilment, packaging, and related services.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
+      "AI",
       "Logistics"
     ],
-    "url": "https://www.techinasia.com/temasek-backed-logistics-firm-shiprocket-gets-sebi-nod-for-ipo"
+    "url": "https://www.digitimes.com/news/a20260807VL217/palo-alto-networks-china-cybersecurity-infrastructure-business.html"
   },
   {
     "date": "2026-08-07",
-    "title": "DeepSeek, state oil giant back humanoid robot maker Unitree's $900m IPO",
-    "summary": "DeepSeek, state oil giant back humanoid robot maker Unitree's $900m IPO",
+    "title": "Predicting cancer drug responses before clinical trials begin",
+    "summary": "AlphaGrid uses AI and patient-derived organoids to build digital twins of tumors, testing drug responses before clinical trials even begin.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Pharmaceutical"
+    ],
+    "url": "https://www.techinasia.com/predicting-cancer-drug-responses-clinical-trials"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "Zhen Ding Tech hits July revenue record on AI and consumer electronics demand",
+    "summary": "Zhen Ding Tech (ZDT) said July revenue reached its highest level so far in 2026, supported by strong momentum across mobile communications, servers, optical modules and IC substrates. Its mobile communications business maintained double-digit year-on-year growth, while combined revenue from servers, optical modules and",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260807PD238/zhen-ding-revenue-demand-electronics-2026.html"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "Taiwan chipmaker Nanya plans $10.7b fab investment",
+    "summary": "The fab is being built in New Taipei City’s Nanlin Technology Park under a phased project that began in 2022.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/nvidia-partnerships-drive-rally-asian-suppliers"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "SEMICON Taiwan 2026 Spotlights Breakthroughs in Design, Memory, and Optical Interconnect",
+    "summary": "SEMICON Taiwan 2026 highlights how AI power constraints are accelerating system-level integration across chips, memory, and optical interconnects. The post SEMICON Taiwan 2026 Spotlights Breakthroughs in Design, Memory, and Optical Interconnect appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/semicon-taiwan-2026-spotlights-breakthroughs-in-design-memory-and-optical-interconnect/"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "Chinese AI firms push Hong Kong data center leasing",
+    "summary": "Hong Kong’s appeal partly reflects a lighter cross-border data transfer regime.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/bytedance-talks-iluvatar-chips-curbs-bite"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "DigiKey and Engineering Influencer Shawn Hymel to Host Webinar for Robotics Developers",
+    "summary": "DigiKey is strengthening its educational offerings in AI and robotics with a hands-on webinar and a six-part video series focused on reinforcement learning. The post DigiKey and Engineering Influencer Shawn Hymel to Host Webinar for Robotics Developers appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.eetasia.com/digikey-and-engineering-influencer-shawn-hymel-to-host-webinar-for-robotics-developers/"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "Global Chip Sales Up 35% in 2Q 2026",
+    "summary": "Global semiconductor sales reached $403.3 billion in 2Q 2026, up by 35.1% quarter-on-quarter, according to SIA. The post Global Chip Sales Up 35% in 2Q 2026 appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/global-chip-sales-up-35-in-2q-2026/"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "Shares in Australia's Atlassian surge 33% as sales growth quells AI fears",
+    "summary": "Shares in Australia's Atlassian surge 33% as sales growth quells AI fears",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "Automation"
+      "AI"
     ],
-    "url": "https://asia.nikkei.com/business/markets/ipo/deepseek-state-oil-giant-back-humanoid-robot-maker-unitree-s-900m-ipo"
+    "url": "https://asia.nikkei.com/business/markets/shares-in-australia-s-atlassian-surge-33-as-sales-growth-quells-ai-fears"
   },
   {
     "date": "2026-08-06",
