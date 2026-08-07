@@ -1,37 +1,37 @@
 {
-  "date": "2026-08-06",
-  "count": 7,
+  "date": "2026-08-07",
+  "count": 6,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-08-06-asia-tech-news-digest.md",
+  "post_file": "2026-08-07-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Zero-capex AI to decarbonize Asian buildings",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/zerocapex-ai-decarbonize-asian-buildings"
-    },
-    {
-      "title": "Parade sees steadier outlook despite margin pressure from memory costs",
+      "title": "NEO seeks partner by end-2026 for fivefold-density X-SRAM",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260806PD208/parade-revenue-demand-growth-testing.html"
+      "url": "https://www.digitimes.com/news/a20260806PD220/technology-sram-startup-development-3d.html"
     },
     {
-      "title": "US polysilicon tariff exposes chip security's solar dependence",
+      "title": "Why countering drones is the ultimate stress test for on-device AI",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260806VL211/polysilicon-solar-security-price-demand.html"
+      "url": "https://www.digitimes.com/news/a20260806PD214/on-device-ai-elan-technology.html"
     },
     {
-      "title": "Taiwan's offshore wind pipeline stalls as failed tenders raise fears of supply chain gap",
+      "title": "Ex-White House official urges South Korea to avoid excessive digital regulation",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260806PD223/taiwan-offshore-wind-supply-chain-electricity.html"
+      "url": "https://www.digitimes.com/news/a20260806PD209/regulation-security-investment-south-korea-usa.html"
     },
     {
-      "title": "Moonshot AI targets $50b valuation in new round: sources",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinas-moonshot-seeks-hong-kong-ipo"
+      "title": "Microchip Tech forecasts upbeat quarterly revenue on strong demand",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/microchip-tech-forecasts-upbeat-quarterly-revenue-strong-demand-6304846"
+    },
+    {
+      "title": "AMD deepens AI inference bet with Taalas deal as chip race heats up",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/amd-deepens-ai-inference-bet-taalas-deal-chip-race-heats-up-6304796"
     }
   ],
   "source_stats": [
@@ -48,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -155,8 +155,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 58,
-      "relevant": 39,
+      "fetched": 35,
+      "relevant": 25,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -192,9 +192,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 13,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
