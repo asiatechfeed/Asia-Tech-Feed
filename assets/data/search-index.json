@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-08-07",
+    "title": "NEO seeks partner by end-2026 for fivefold-density X-SRAM",
+    "summary": "AI memory startup NEO Semiconductor has unveiled X-SRAM, a new architecture designed to address the difficulty of scaling conventional SRAM at advanced logic process nodes.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260806PD220/technology-sram-startup-development-3d.html"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "Why countering drones is the ultimate stress test for on-device AI",
+    "summary": "Drones, robots and self-driving vehicles are becoming the new proving ground for artificial intelligence. Machines are taking on more decision-making themselves, rather than relying on the cloud. The reason is speed. When a system has to react in milliseconds, waiting on a round trip to external servers is not an optio",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260806PD214/on-device-ai-elan-technology.html"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "Ex-White House official urges South Korea to avoid excessive digital regulation",
+    "summary": "Former White House National Security Council chief of staff Alexander Gray has called on South Korea to deepen supply chain cooperation with the US and avoid following the European Union's digital regulation path.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260806PD209/regulation-security-investment-south-korea-usa.html"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "Microchip Tech forecasts upbeat quarterly revenue on strong demand",
+    "summary": "Microchip Tech forecasts upbeat quarterly revenue on strong demand",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/microchip-tech-forecasts-upbeat-quarterly-revenue-strong-demand-6304846"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "AMD deepens AI inference bet with Taalas deal as chip race heats up",
+    "summary": "AMD deepens AI inference bet with Taalas deal as chip race heats up",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/amd-deepens-ai-inference-bet-taalas-deal-chip-race-heats-up-6304796"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "GSMA projects $1.4t mobile economy in Asia Pacific",
+    "summary": "GSMA said governments and companies across Asia Pacific are dealing with online fraud, rising demand for AI infrastructure, and geopolitical uncertainty.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/softbank-ericsson-qualcomm-complete-5g-trial-tokyo"
+  },
+  {
     "date": "2026-08-06",
     "title": "Zero-capex AI to decarbonize Asian buildings",
     "summary": "Ampotech combines AI software with zero-capex financing to help Asian factories and commercial buildings reduce their energy use by up to 48%.",

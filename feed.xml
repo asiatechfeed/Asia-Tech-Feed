@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-06T08:01:38+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 06, 2026</title><link href="https://asiatechfeed.com/2026/08/06/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 06, 2026" /><published>2026-08-06T08:01:01+00:00</published><updated>2026-08-06T08:01:01+00:00</updated><id>https://asiatechfeed.com/2026/08/06/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/06/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-07T00:03:28+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 07, 2026</title><link href="https://asiatechfeed.com/2026/08/07/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 07, 2026" /><published>2026-08-07T00:02:54+00:00</published><updated>2026-08-07T00:02:54+00:00</updated><id>https://asiatechfeed.com/2026/08/07/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/07/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">NEO seeks partner by end-2026 for fivefold-density X-SRAM</span></td>
+  <td class="col-summary">AI memory startup NEO Semiconductor has unveiled X-SRAM, a new architecture designed to address the difficulty of scaling conventional SRAM at advanced logic process nodes.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260806PD220/technology-sram-startup-development-3d.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Why countering drones is the ultimate stress test for on-device AI</span></td>
+  <td class="col-summary">Drones, robots and self-driving vehicles are becoming the new proving ground for artificial intelligence. Machines are taking on more decision-making themselves, rather than relying on the cloud. The reason is speed. When a system has to react in milliseconds, waiting on a round trip to external servers is not an optio</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260806PD214/on-device-ai-elan-technology.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Ex-White House official urges South Korea to avoid excessive digital regulation</span></td>
+  <td class="col-summary">Former White House National Security Council chief of staff Alexander Gray has called on South Korea to deepen supply chain cooperation with the US and avoid following the European Union's digital regulation path.</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260806PD209/regulation-security-investment-south-korea-usa.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Microchip Tech forecasts upbeat quarterly revenue on strong demand</span></td>
+  <td class="col-summary">Microchip Tech forecasts upbeat quarterly revenue on strong demand</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/microchip-tech-forecasts-upbeat-quarterly-revenue-strong-demand-6304846" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">AMD deepens AI inference bet with Taalas deal as chip race heats up</span></td>
+  <td class="col-summary">AMD deepens AI inference bet with Taalas deal as chip race heats up</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/amd-deepens-ai-inference-bet-taalas-deal-chip-race-heats-up-6304796" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">GSMA projects $1.4t mobile economy in Asia Pacific</span></td>
+  <td class="col-summary">GSMA said governments and companies across Asia Pacific are dealing with online fraud, rising demand for AI infrastructure, and geopolitical uncertainty.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/softbank-ericsson-qualcomm-complete-5g-trial-tokyo" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes NEO seeks partner by end-2026 for fivefold-density X-SRAM AI memory startup NEO Semiconductor has unveiled X-SRAM, a new architecture designed to address the difficulty of scaling conventional SRAM at advanced logic process nodes. SemiconductorAI Read 2 DigiTimes Why countering drones is the ultimate stress test for on-device AI Drones, robots and self-driving vehicles are becoming the new proving ground for artificial intelligence. Machines are taking on more decision-making themselves, rather than relying on the cloud. The reason is speed. When a system has to react in milliseconds, waiting on a round trip to external servers is not an optio ElectronicsAIAutomation Read 3 DigiTimes Ex-White House official urges South Korea to avoid excessive digital regulation Former White House National Security Council chief of staff Alexander Gray has called on South Korea to deepen supply chain cooperation with the US and avoid following the European Union's digital regulation path. Logistics Read 4 CNA Microchip Tech forecasts upbeat quarterly revenue on strong demand Microchip Tech forecasts upbeat quarterly revenue on strong demand Semiconductor Read 5 CNA AMD deepens AI inference bet with Taalas deal as chip race heats up AMD deepens AI inference bet with Taalas deal as chip race heats up AISemiconductor Read 6 TechAsia GSMA projects $1.4t mobile economy in Asia Pacific GSMA said governments and companies across Asia Pacific are dealing with online fraud, rising demand for AI infrastructure, and geopolitical uncertainty. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 06, 2026</title><link href="https://asiatechfeed.com/2026/08/06/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 06, 2026" /><published>2026-08-06T08:01:01+00:00</published><updated>2026-08-06T08:01:01+00:00</updated><id>https://asiatechfeed.com/2026/08/06/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/06/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -644,89 +705,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/asia-stocks-choppy-on-dip-buying-as-chips-slump-iran-tensions-escalate" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA China's AI IPO wave fuels retail frenzy as investors anticipate more listings A wave of artificial intelligence listings is attracting renewed investor interest, as Chinese AI firms seek fresh capital to fund growth despite many still operating at a loss. AI Read 2 CNA Capgemini sees multi-year IT modernisation boom as firms prepare for AI Capgemini sees multi-year IT modernisation boom as firms prepare for AI AI Read 3 TechAsia Digitizing the fragmented medical supply chain Hospitalstore connects healthcare buyers with trusted manufacturers, making procurement faster and more cost-effective. Logistics Read 4 DigiTimes South Korean suppliers win HBM4 tester orders from SK Hynix South Korean test-equipment suppliers Digital Frontier and UniTest have secured four orders for HBM4 wafer testers from SK Hynix worth a combined KRW247.84 billion (approx. US$172 million) in 2026, expanding domestic vendors' role in a memory-testing segment where Japan's Advantest has long been an established supplier Semiconductor Read 5 DigiTimes GlobalFoundries lands US$300M CHIPS backing for AI silicon photonics GlobalFoundries has signed a letter of intent with the US Department of Commerce for a potential US$300 million award to accelerate US development of silicon photonics technologies used in AI and high-performance computing data centres. AISemiconductor Read 6 CNA Panasonic raises profit outlook on AI demand, battery unit profit jumps Panasonic raises profit outlook on AI demand, battery unit profit jumps AI Read 7 DigiTimes High memory prices could slow China's AI push, analyst says Memory prices are expected to remain elevated through 2026 as AI and data-center demand strains supply, with meaningful supply relief unlikely until well into 2027. A South Korean securities analyst argues that the squeeze could also make it harder for China to expand AI use, although Washington has not identified high AI Read 8 TechAsia Temasek-backed Temus invests in Philippine AI startup The Philippines-based AI and data transformation company will help Temus to expand enterprise AI work across Southeast Asia. AI Read 9 TechAsia Moonshot AI raises over $3.5b in series F: report The report added that Moonshot AI has also started its planned series G pre-IPO round earlier than expected. AI Read 10 NikkeiAsia SpaceX's supply chain clampdown and China's product power SpaceX's supply chain clampdown and China's product power Logistics Read 11 NikkeiAsia Trade deficits for Japan, Philippines widen amid AI boom and Iran war Trade deficits for Japan, Philippines widen amid AI boom and Iran war AI Read 12 NikkeiAsia Asia stocks choppy on dip buying as chips slump, Iran tensions escalate Asia stocks choppy on dip buying as chips slump, Iran tensions escalate Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - July 29, 2026</title><link href="https://asiatechfeed.com/2026/07/29/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - July 29, 2026" /><published>2026-07-29T08:00:56+00:00</published><updated>2026-07-29T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/07/29/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/07/29/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">This startup fixes the quality problem in remote hiring</span></td>
-  <td class="col-summary">FindTalent.ph connects small businesses with pre-screened Filipino professionals using AI matching and manual recruiter verification.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/startup-fixes-quality-problem-remote-hiring" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">China's GenAI race shifts to open source ecosystems</span></td>
-  <td class="col-summary">The global GenAI race has remained intense, with major US players including Google, Meta, Microsoft, Amazon, and OpenAI investing heavily. But with Beijing-based startup Moonshot AI launching Kimi K3, a new large language model (LLM) with multimodal and long-context reasoning capabilities, along with the rapid rise of </td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260729PD224/genai-kimi-k3-openai-meta-google.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">White House reportedly approaches final framework for reviewing frontier models</span></td>
-  <td class="col-summary">The US government is said to be close to creating a final version of a voluntary framework for evaluating AI companies' advanced models before they are released to the public. A finalized framework could clear up weeks of uncertainty, but for now many questions about it remain, such as the exact review process, what co</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260729VL219/government-anthropic-openai-licensing-cybersecurity.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">DBS rolls out AI banking tools to 10 million users</span></td>
-  <td class="col-summary">In Singapore, DBS Joy now offers agentic features to 350,000 corporate users. Another 100,000 users in Hong Kong are due to get the features in September.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/dbs-helps-customers-savvier-savers-investors" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Intel Foundry completes US microelectronics prototype program</span></td>
-  <td class="col-summary">Intel Foundry has completed a US defense-backed semiconductor prototype program that could have implications for supply chain resilience, national security, and global access to advanced chips. The work, tied to Intel 18A technology, aims to expand trusted domestic manufacturing and could shape how allied governments a</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260729PR204/intel-foundry-intel-technology-supply-chain-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">OCBC rolling out AI to cut private banking onboarding time</span></td>
-  <td class="col-summary">OCBC said HELIOS completes much of know-your-customer due diligence before relationship managers engage prospective clients.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/singapores-dyna-ai-raises-series-a-to-scale-enterprise-ai" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Beyond Silicon: GaN and the Future of Heat-Resilient Power Electronics in Singapore</span></td>
-  <td class="col-summary">As power densities rise, GaN technologies are reshaping thermal management and enabling more efficient, reliable power electronics systems. The post Beyond Silicon: GaN and the Future of Heat-Resilient Power Electronics in Singapore appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/beyond-silicon-gan-and-the-future-of-heat-resilient-power-electronics-in-singapore/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Iran war and AI demand help drive revenue at Rio Tinto, Woodside</span></td>
-  <td class="col-summary">Iran war and AI demand help drive revenue at Rio Tinto, Woodside</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/commodities/iran-war-and-ai-demand-help-drive-revenue-at-rio-tinto-woodside" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan's Genki Robotics to launch first product this year, says CEO</span></td>
-  <td class="col-summary">Japan's Genki Robotics to launch first product this year, says CEO</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/editor-s-picks/interview/japan-s-genki-robotics-to-launch-first-product-this-year-says-ceo" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia This startup fixes the quality problem in remote hiring FindTalent.ph connects small businesses with pre-screened Filipino professionals using AI matching and manual recruiter verification. AI Read 2 DigiTimes China's GenAI race shifts to open source ecosystems The global GenAI race has remained intense, with major US players including Google, Meta, Microsoft, Amazon, and OpenAI investing heavily. But with Beijing-based startup Moonshot AI launching Kimi K3, a new large language model (LLM) with multimodal and long-context reasoning capabilities, along with the rapid rise of AI Read 3 DigiTimes White House reportedly approaches final framework for reviewing frontier models The US government is said to be close to creating a final version of a voluntary framework for evaluating AI companies' advanced models before they are released to the public. A finalized framework could clear up weeks of uncertainty, but for now many questions about it remain, such as the exact review process, what co AI Read 4 TechAsia DBS rolls out AI banking tools to 10 million users In Singapore, DBS Joy now offers agentic features to 350,000 corporate users. Another 100,000 users in Hong Kong are due to get the features in September. AI Read 5 DigiTimes Intel Foundry completes US microelectronics prototype program Intel Foundry has completed a US defense-backed semiconductor prototype program that could have implications for supply chain resilience, national security, and global access to advanced chips. The work, tied to Intel 18A technology, aims to expand trusted domestic manufacturing and could shape how allied governments a SemiconductorElectronicsLogistics Read 6 TechAsia OCBC rolling out AI to cut private banking onboarding time OCBC said HELIOS completes much of know-your-customer due diligence before relationship managers engage prospective clients. AI Read 7 EETAsia Beyond Silicon: GaN and the Future of Heat-Resilient Power Electronics in Singapore As power densities rise, GaN technologies are reshaping thermal management and enabling more efficient, reliable power electronics systems. The post Beyond Silicon: GaN and the Future of Heat-Resilient Power Electronics in Singapore appeared first on EE Times Asia . Electronics Read 8 NikkeiAsia Iran war and AI demand help drive revenue at Rio Tinto, Woodside Iran war and AI demand help drive revenue at Rio Tinto, Woodside AI Read 9 NikkeiAsia Japan's Genki Robotics to launch first product this year, says CEO Japan's Genki Robotics to launch first product this year, says CEO Automation Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA China's AI IPO wave fuels retail frenzy as investors anticipate more listings A wave of artificial intelligence listings is attracting renewed investor interest, as Chinese AI firms seek fresh capital to fund growth despite many still operating at a loss. AI Read 2 CNA Capgemini sees multi-year IT modernisation boom as firms prepare for AI Capgemini sees multi-year IT modernisation boom as firms prepare for AI AI Read 3 TechAsia Digitizing the fragmented medical supply chain Hospitalstore connects healthcare buyers with trusted manufacturers, making procurement faster and more cost-effective. Logistics Read 4 DigiTimes South Korean suppliers win HBM4 tester orders from SK Hynix South Korean test-equipment suppliers Digital Frontier and UniTest have secured four orders for HBM4 wafer testers from SK Hynix worth a combined KRW247.84 billion (approx. US$172 million) in 2026, expanding domestic vendors' role in a memory-testing segment where Japan's Advantest has long been an established supplier Semiconductor Read 5 DigiTimes GlobalFoundries lands US$300M CHIPS backing for AI silicon photonics GlobalFoundries has signed a letter of intent with the US Department of Commerce for a potential US$300 million award to accelerate US development of silicon photonics technologies used in AI and high-performance computing data centres. AISemiconductor Read 6 CNA Panasonic raises profit outlook on AI demand, battery unit profit jumps Panasonic raises profit outlook on AI demand, battery unit profit jumps AI Read 7 DigiTimes High memory prices could slow China's AI push, analyst says Memory prices are expected to remain elevated through 2026 as AI and data-center demand strains supply, with meaningful supply relief unlikely until well into 2027. A South Korean securities analyst argues that the squeeze could also make it harder for China to expand AI use, although Washington has not identified high AI Read 8 TechAsia Temasek-backed Temus invests in Philippine AI startup The Philippines-based AI and data transformation company will help Temus to expand enterprise AI work across Southeast Asia. AI Read 9 TechAsia Moonshot AI raises over $3.5b in series F: report The report added that Moonshot AI has also started its planned series G pre-IPO round earlier than expected. AI Read 10 NikkeiAsia SpaceX's supply chain clampdown and China's product power SpaceX's supply chain clampdown and China's product power Logistics Read 11 NikkeiAsia Trade deficits for Japan, Philippines widen amid AI boom and Iran war Trade deficits for Japan, Philippines widen amid AI boom and Iran war AI Read 12 NikkeiAsia Asia stocks choppy on dip buying as chips slump, Iran tensions escalate Asia stocks choppy on dip buying as chips slump, Iran tensions escalate Semiconductor Read]]></summary></entry></feed>
