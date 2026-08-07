@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - August 07, 2026"
-date: 2026-08-07 08:02:54 +0800
-articles_count: 6
+date: 2026-08-07 11:09:14 +0800
+articles_count: 7
 sources_count: 3
-sources: ["CNA", "DigiTimes", "TechAsia"]
+sources: ["DigiTimes", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-08-07.tsv
-featured_title: "NEO seeks partner by end-2026 for fivefold-density X-SRAM"
-featured_url: "https://www.digitimes.com/news/a20260806PD220/technology-sram-startup-development-3d.html"
-featured_source: "DigiTimes"
-featured_summary: "AI memory startup NEO Semiconductor has unveiled X-SRAM, a new architecture designed to address the difficulty of scaling conventional SRAM at advanced logic process nodes."
-featured_image: "https://img.digitimes.com/newsshow/20260806pd220_files/2_2b.jpg"
+featured_title: "Multilingual AI agents taking on legacy chatbots"
+featured_url: "https://www.techinasia.com/multilingual-ai-agents-legacy-chatbots"
+featured_source: "TechAsia"
+featured_summary: "Level3AI skips traditional software licenses for guaranteed outcomes, ensuring enterprises only pay when its AI successfully resolves customer issues."
+featured_image: ""
 ---
 
 <table class="news-table">
@@ -27,51 +27,59 @@ featured_image: "https://img.digitimes.com/newsshow/20260806pd220_files/2_2b.jpg
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">NEO seeks partner by end-2026 for fivefold-density X-SRAM</span></td>
-  <td class="col-summary">AI memory startup NEO Semiconductor has unveiled X-SRAM, a new architecture designed to address the difficulty of scaling conventional SRAM at advanced logic process nodes.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260806PD220/technology-sram-startup-development-3d.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Multilingual AI agents taking on legacy chatbots</span></td>
+  <td class="col-summary">Level3AI skips traditional software licenses for guaranteed outcomes, ensuring enterprises only pay when its AI successfully resolves customer issues.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/multilingual-ai-agents-legacy-chatbots" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Why countering drones is the ultimate stress test for on-device AI</span></td>
-  <td class="col-summary">Drones, robots and self-driving vehicles are becoming the new proving ground for artificial intelligence. Machines are taking on more decision-making themselves, rather than relying on the cloud. The reason is speed. When a system has to react in milliseconds, waiting on a round trip to external servers is not an optio</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260806PD214/on-device-ai-elan-technology.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Nokia's NXP Arizona fab buy signals AI optical bottleneck shifting upstream</span></td>
+  <td class="col-summary">Nokia is moving deeper into semiconductor manufacturing by acquiring NXP's Chandler fabrication campus in Arizona, signaling that the AI infrastructure race is expanding beyond GPUs and memory into the optical components needed to connect increasingly dense data-center clusters.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260806VL226/nokia-arizona-nxp-fab-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Ex-White House official urges South Korea to avoid excessive digital regulation</span></td>
-  <td class="col-summary">Former White House National Security Council chief of staff Alexander Gray has called on South Korea to deepen supply chain cooperation with the US and avoid following the European Union's digital regulation path.</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260806PD209/regulation-security-investment-south-korea-usa.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Microsoft launches fourth cloud region in India as AI demand accelerates</span></td>
+  <td class="col-summary">Microsoft has opened its India South Central cloud region in Hyderabad, expanding local capacity for customers in one of the world's fastest-growing digital markets. The move could matter well beyond India, giving global enterprises more options for sovereign-ready AI, regulated workloads, and lower-latency cloud servi</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807PR201/microsoft-hyderabad-cloud-infrastructure-launch.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Microchip Tech forecasts upbeat quarterly revenue on strong demand</span></td>
-  <td class="col-summary">Microchip Tech forecasts upbeat quarterly revenue on strong demand</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/microchip-tech-forecasts-upbeat-quarterly-revenue-strong-demand-6304846" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwan Innotech Expo to showcase application-ready tech research</span></td>
+  <td class="col-summary">The government-organized 2026 Taiwan Innotech Expo (TIE) will open in Taipei on September 17, with the National Science and Technology Council's (NSTC) Future Tech Pavilion set to showcase the latest research achievements that are ready for proof-of-concept validation and technology licensing. This year's exhibition wi</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807PD220/taiwan-expo-2026-technology-nstc.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">AMD deepens AI inference bet with Taalas deal as chip race heats up</span></td>
-  <td class="col-summary">AMD deepens AI inference bet with Taalas deal as chip race heats up</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/amd-deepens-ai-inference-bet-taalas-deal-chip-race-heats-up-6304796" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">LionsBot eyes EBITDA profit, potential listing by 2027</span></td>
+  <td class="col-summary">The firm expects revenue to grow to US$38.9 million in 2026 as demand for cleaning robots grows. Here’s why it’s optimistic about its profit goal.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/lionsbot-eyes-ebitda-profit-potential-listing-2027" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">GSMA projects $1.4t mobile economy in Asia Pacific</span></td>
-  <td class="col-summary">GSMA said governments and companies across Asia Pacific are dealing with online fraud, rising demand for AI infrastructure, and geopolitical uncertainty.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/softbank-ericsson-qualcomm-complete-5g-trial-tokyo" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Indian logistics firm Shiprocket targets $170m IPO</span></td>
+  <td class="col-summary">Shiprocket operates an asset-light platform spanning shipping, fulfilment, packaging, and related services.</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/temasek-backed-logistics-firm-shiprocket-gets-sebi-nod-for-ipo" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">DeepSeek, state oil giant back humanoid robot maker Unitree's $900m IPO</span></td>
+  <td class="col-summary">DeepSeek, state oil giant back humanoid robot maker Unitree's $900m IPO</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/ipo/deepseek-state-oil-giant-back-humanoid-robot-maker-unitree-s-900m-ipo" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>

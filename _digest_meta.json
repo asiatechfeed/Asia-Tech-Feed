@@ -1,37 +1,37 @@
 {
   "date": "2026-08-07",
-  "count": 6,
+  "count": 7,
   "sources": [
-    "CNA",
     "DigiTimes",
+    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-07-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "NEO seeks partner by end-2026 for fivefold-density X-SRAM",
+      "title": "Multilingual AI agents taking on legacy chatbots",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/multilingual-ai-agents-legacy-chatbots"
+    },
+    {
+      "title": "Nokia's NXP Arizona fab buy signals AI optical bottleneck shifting upstream",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260806PD220/technology-sram-startup-development-3d.html"
+      "url": "https://www.digitimes.com/news/a20260806VL226/nokia-arizona-nxp-fab-manufacturing.html"
     },
     {
-      "title": "Why countering drones is the ultimate stress test for on-device AI",
+      "title": "Microsoft launches fourth cloud region in India as AI demand accelerates",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260806PD214/on-device-ai-elan-technology.html"
+      "url": "https://www.digitimes.com/news/a20260807PR201/microsoft-hyderabad-cloud-infrastructure-launch.html"
     },
     {
-      "title": "Ex-White House official urges South Korea to avoid excessive digital regulation",
+      "title": "Taiwan Innotech Expo to showcase application-ready tech research",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260806PD209/regulation-security-investment-south-korea-usa.html"
+      "url": "https://www.digitimes.com/news/a20260807PD220/taiwan-expo-2026-technology-nstc.html"
     },
     {
-      "title": "Microchip Tech forecasts upbeat quarterly revenue on strong demand",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/microchip-tech-forecasts-upbeat-quarterly-revenue-strong-demand-6304846"
-    },
-    {
-      "title": "AMD deepens AI inference bet with Taalas deal as chip race heats up",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/amd-deepens-ai-inference-bet-taalas-deal-chip-race-heats-up-6304796"
+      "title": "LionsBot eyes EBITDA profit, potential listing by 2027",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/lionsbot-eyes-ebitda-profit-potential-listing-2027"
     }
   ],
   "source_stats": [
@@ -48,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -156,7 +156,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 25,
+      "relevant": 28,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -192,9 +192,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {

@@ -1,73 +1,82 @@
 [
   {
     "date": "2026-08-07",
-    "title": "NEO seeks partner by end-2026 for fivefold-density X-SRAM",
-    "summary": "AI memory startup NEO Semiconductor has unveiled X-SRAM, a new architecture designed to address the difficulty of scaling conventional SRAM at advanced logic process nodes.",
+    "title": "Multilingual AI agents taking on legacy chatbots",
+    "summary": "Level3AI skips traditional software licenses for guaranteed outcomes, ensuring enterprises only pay when its AI successfully resolves customer issues.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/multilingual-ai-agents-legacy-chatbots"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "Nokia's NXP Arizona fab buy signals AI optical bottleneck shifting upstream",
+    "summary": "Nokia is moving deeper into semiconductor manufacturing by acquiring NXP's Chandler fabrication campus in Arizona, signaling that the AI infrastructure race is expanding beyond GPUs and memory into the optical components needed to connect increasingly dense data-center clusters.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260806PD220/technology-sram-startup-development-3d.html"
+    "url": "https://www.digitimes.com/news/a20260806VL226/nokia-arizona-nxp-fab-manufacturing.html"
   },
   {
     "date": "2026-08-07",
-    "title": "Why countering drones is the ultimate stress test for on-device AI",
-    "summary": "Drones, robots and self-driving vehicles are becoming the new proving ground for artificial intelligence. Machines are taking on more decision-making themselves, rather than relying on the cloud. The reason is speed. When a system has to react in milliseconds, waiting on a round trip to external servers is not an optio",
+    "title": "Microsoft launches fourth cloud region in India as AI demand accelerates",
+    "summary": "Microsoft has opened its India South Central cloud region in Hyderabad, expanding local capacity for customers in one of the world's fastest-growing digital markets. The move could matter well beyond India, giving global enterprises more options for sovereign-ready AI, regulated workloads, and lower-latency cloud servi",
     "source": "DigiTimes",
     "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "AI",
-      "Automation"
-    ],
-    "url": "https://www.digitimes.com/news/a20260806PD214/on-device-ai-elan-technology.html"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "Ex-White House official urges South Korea to avoid excessive digital regulation",
-    "summary": "Former White House National Security Council chief of staff Alexander Gray has called on South Korea to deepen supply chain cooperation with the US and avoid following the European Union's digital regulation path.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260806PD209/regulation-security-investment-south-korea-usa.html"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "Microchip Tech forecasts upbeat quarterly revenue on strong demand",
-    "summary": "Microchip Tech forecasts upbeat quarterly revenue on strong demand",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/business/microchip-tech-forecasts-upbeat-quarterly-revenue-strong-demand-6304846"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "AMD deepens AI inference bet with Taalas deal as chip race heats up",
-    "summary": "AMD deepens AI inference bet with Taalas deal as chip race heats up",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/business/amd-deepens-ai-inference-bet-taalas-deal-chip-race-heats-up-6304796"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "GSMA projects $1.4t mobile economy in Asia Pacific",
-    "summary": "GSMA said governments and companies across Asia Pacific are dealing with online fraud, rising demand for AI infrastructure, and geopolitical uncertainty.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/softbank-ericsson-qualcomm-complete-5g-trial-tokyo"
+    "url": "https://www.digitimes.com/news/a20260807PR201/microsoft-hyderabad-cloud-infrastructure-launch.html"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "Taiwan Innotech Expo to showcase application-ready tech research",
+    "summary": "The government-organized 2026 Taiwan Innotech Expo (TIE) will open in Taipei on September 17, with the National Science and Technology Council's (NSTC) Future Tech Pavilion set to showcase the latest research achievements that are ready for proof-of-concept validation and technology licensing. This year's exhibition wi",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260807PD220/taiwan-expo-2026-technology-nstc.html"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "LionsBot eyes EBITDA profit, potential listing by 2027",
+    "summary": "The firm expects revenue to grow to US$38.9 million in 2026 as demand for cleaning robots grows. Here’s why it’s optimistic about its profit goal.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/lionsbot-eyes-ebitda-profit-potential-listing-2027"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "Indian logistics firm Shiprocket targets $170m IPO",
+    "summary": "Shiprocket operates an asset-light platform spanning shipping, fulfilment, packaging, and related services.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.techinasia.com/temasek-backed-logistics-firm-shiprocket-gets-sebi-nod-for-ipo"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "DeepSeek, state oil giant back humanoid robot maker Unitree's $900m IPO",
+    "summary": "DeepSeek, state oil giant back humanoid robot maker Unitree's $900m IPO",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://asia.nikkei.com/business/markets/ipo/deepseek-state-oil-giant-back-humanoid-robot-maker-unitree-s-900m-ipo"
   },
   {
     "date": "2026-08-06",
