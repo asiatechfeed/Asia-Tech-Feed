@@ -1,37 +1,31 @@
 {
   "date": "2026-08-08",
-  "count": 8,
+  "count": 4,
   "sources": [
-    "CNA",
     "DigiTimes",
     "TechAsia"
   ],
   "post_file": "2026-08-08-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "US judge blocks Pentagon from listing WuXi as Chinese military-linked firm",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/us-judge-blocks-pentagon-listing-wuxi-chinese-military-linked-firm-6306941"
-    },
-    {
-      "title": "Alibaba plans revenue sharing for Qwen AI model",
+      "title": "SK hynix weighs investor for $3b China chip site",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/alibaba-baidu-shares-jump-on-apple-ai-partnership"
+      "url": "https://www.techinasia.com/sk-hynix-sell-shares-raise-investment"
     },
     {
-      "title": "Trump-linked fintech firm AI Financial sells unit to Prime Delta",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/trump-linked-fintech-firm-ai-financial-sells-unit-prime-delta-6307176"
-    },
-    {
-      "title": "Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain",
+      "title": "IT panel demand cools as August prices hold steady",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html"
+      "url": "https://www.digitimes.com/news/a20260806PD236/panel-demand-shipments-2026-brand.html"
     },
     {
-      "title": "Taiwan team builds high-performance MoS2 transistor to ease 2D semiconductor limits",
+      "title": "Interview: SailPoint says Taiwan hardware leads but identity governance lags",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260806PD226/taiwan-transistor-semiconductors-chips-aluminum.html"
+      "url": "https://www.digitimes.com/news/a20260805PD229/taiwan-governance-hardware-manufacturing-cybersecurity.html"
+    },
+    {
+      "title": "Sercomm July revenue rises 51% on Wi-Fi upgrade demand",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260807PD206/revenue-sercomm-demand-equipment-wi-fi.html"
     }
   ],
   "source_stats": [
@@ -50,7 +44,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -147,7 +141,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 9,
+      "relevant": 8,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -192,9 +186,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 15,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
