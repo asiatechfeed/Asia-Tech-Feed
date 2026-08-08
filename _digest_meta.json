@@ -1,38 +1,38 @@
 {
-  "date": "2026-08-07",
-  "count": 10,
+  "date": "2026-08-08",
+  "count": 8,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-08-07-asia-tech-news-digest.md",
+  "post_file": "2026-08-08-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "SK Hynix commits US$39 billion to new Yongin and Cheongju fabs as AI memory demand builds",
+      "title": "Quanta posts second-highest monthly revenue as notebook shipments plunge 38%",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260807VL218/sk-hynix-nand-fab-investment.html"
+      "url": "https://www.digitimes.com/news/a20260807PD254/quanta-notebook-shipments-ai-server-revenue-demand.html"
     },
     {
-      "title": "China launches review of Palo Alto Networks as trade tensions with US escalate",
+      "title": "Compeq says satellite and data center orders will drive second-half growth",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260807VL217/palo-alto-networks-china-cybersecurity-infrastructure-business.html"
+      "url": "https://www.digitimes.com/news/a20260807PD252/data-center-compeq-manufacturing-demand-revenue-2026.html"
     },
     {
-      "title": "Predicting cancer drug responses before clinical trials begin",
+      "title": "TSMC, ASE, WPG: the white-knight battles that built Taiwan's chip empire",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260807PD231/ase-taiwan-tsmc-wpg-chairman.html"
+    },
+    {
+      "title": "Commentary: Adding AI to Google Earth runs counter to what makes it so valuable",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/google-earth-ai-nano-banana-fake-trust-maps-6305941"
+    },
+    {
+      "title": "Moonshot AI\u2019s Kimi K3 escapes test environment: report",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/predicting-cancer-drug-responses-clinical-trials"
-    },
-    {
-      "title": "Zhen Ding Tech hits July revenue record on AI and consumer electronics demand",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260807PD238/zhen-ding-revenue-demand-electronics-2026.html"
-    },
-    {
-      "title": "Taiwan chipmaker Nanya plans $10.7b fab investment",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-partnerships-drive-rally-asian-suppliers"
+      "url": "https://www.techinasia.com/chinas-moonshot-ai-targets-50b-valuation"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -131,7 +131,7 @@
       "name": "Electronics Weekly",
       "fetched": 10,
       "relevant": 0,
-      "sponsored_skipped": 0,
+      "sponsored_skipped": 1,
       "published": 0,
       "error": null
     },
@@ -150,14 +150,14 @@
       "fetched": 10,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 52,
-      "relevant": 41,
+      "fetched": 35,
+      "relevant": 26,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 16,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
