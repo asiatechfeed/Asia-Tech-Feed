@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - August 08, 2026"
-date: 2026-08-08 08:34:40 +0800
+date: 2026-08-08 10:05:11 +0800
 articles_count: 8
-sources_count: 4
-sources: ["CNA", "DigiTimes", "NikkeiAsia", "TechAsia"]
+sources_count: 3
+sources: ["CNA", "DigiTimes", "TechAsia"]
 csv_file: /assets/data/news-2026-08-08.tsv
-featured_title: "Quanta posts second-highest monthly revenue as notebook shipments plunge 38%"
-featured_url: "https://www.digitimes.com/news/a20260807PD254/quanta-notebook-shipments-ai-server-revenue-demand.html"
-featured_source: "DigiTimes"
-featured_summary: "Quanta Computer posted its second-highest monthly revenue on record in July, as strong AI server demand sustained growth even as notebook shipments fell nearly 38% from June."
-featured_image: "https://img.digitimes.com/newsshow/20260807pd254_files/1_b.jpg"
+featured_title: "US judge blocks Pentagon from listing WuXi as Chinese military-linked firm"
+featured_url: "https://www.channelnewsasia.com/east-asia/us-judge-blocks-pentagon-listing-wuxi-chinese-military-linked-firm-6306941"
+featured_source: "CNA"
+featured_summary: "The biotechnology company said in its lawsuit that its designation as a Chinese military company was arbitrary, capricious, unsupported by the facts and \"the product of political pressure\"."
+featured_image: "https://dam.mediacorp.sg/image/upload/s--S31j1fzd--/c_crop,h_450,w_800,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-07T200751Z_1_LYNXMPEM761J3_RTROPTP_3_WUXI-APPTEC.JPG?itok=VGR5rVyD"
 ---
 
 <table class="news-table">
@@ -27,67 +27,67 @@ featured_image: "https://img.digitimes.com/newsshow/20260807pd254_files/1_b.jpg"
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Quanta posts second-highest monthly revenue as notebook shipments plunge 38%</span></td>
-  <td class="col-summary">Quanta Computer posted its second-highest monthly revenue on record in July, as strong AI server demand sustained growth even as notebook shipments fell nearly 38% from June.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807PD254/quanta-notebook-shipments-ai-server-revenue-demand.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">US judge blocks Pentagon from listing WuXi as Chinese military-linked firm</span></td>
+  <td class="col-summary">The biotechnology company said in its lawsuit that its designation as a Chinese military company was arbitrary, capricious, unsupported by the facts and "the product of political pressure".</td>
+  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/us-judge-blocks-pentagon-listing-wuxi-chinese-military-linked-firm-6306941" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Compeq says satellite and data center orders will drive second-half growth</span></td>
-  <td class="col-summary">Compeq Manufacturing said on August 6 that satellite and data center demand helped lift second-quarter performance, with revenue reaching a record for the period and management expecting further gains through the rest of 2026. The high-density interconnect (HDI) printed circuit board (PCB) maker cited stable shipments </td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807PD252/data-center-compeq-manufacturing-demand-revenue-2026.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba plans revenue sharing for Qwen AI model</span></td>
+  <td class="col-summary">Moonshot’s Kimi K3 can take up to 30% from major commercial users.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-baidu-shares-jump-on-apple-ai-partnership" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TSMC, ASE, WPG: the white-knight battles that built Taiwan's chip empire</span></td>
-  <td class="col-summary">Powerchip chairman Frank Huang, who spent much of his career mirroring the trajectory of Taiwan's memory and foundry industries and was set to ride the AI boom into profitability in 2026, has passed away. His passing has revived memories of a 1999 attempt to block UMC's aggressive bid for Powerchip, when Huang sought h</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807PD231/ase-taiwan-tsmc-wpg-chairman.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Trump-linked fintech firm AI Financial sells unit to Prime Delta</span></td>
+  <td class="col-summary">Trump-linked fintech firm AI Financial sells unit to Prime Delta</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/trump-linked-fintech-firm-ai-financial-sells-unit-prime-delta-6307176" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: Adding AI to Google Earth runs counter to what makes it so valuable</span></td>
-  <td class="col-summary">Satellite imagery is now a key part of the visual vocabulary of our 24-hour news cycle, says this UCL geography professor.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/google-earth-ai-nano-banana-fake-trust-maps-6305941" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain</span></td>
+  <td class="col-summary">The 2026 OCP APAC Summit will take place in Taipei on August 11-12. Ahead of the event, Lightmatter founder and CEO Nicholas Harris spoke exclusively with DIGITIMES about the company's advantages after joining the Nvidia NVLink ecosystem, its technology roadmap and the importance of close collaboration with Taiwan's su</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Moonshot AI’s Kimi K3 escapes test environment: report</span></td>
-  <td class="col-summary">According to Frontier Security researchers Paul Kassianik and Yaron Singer, the flaw was in a benchmark framework from the UK government’s AI Security Institute.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-moonshot-ai-targets-50b-valuation" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwan team builds high-performance MoS2 transistor to ease 2D semiconductor limits</span></td>
+  <td class="col-summary">Taiwan researchers announced on August 6 that they had developed a high-performance monolayer molybdenum disulfide (MoS2) top-gate transistor designed to address a long-standing interface problem in two-dimensional semiconductors. The work brought together teams from National Yang Ming Chiao Tung University, Academia S</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260806PD226/taiwan-transistor-semiconductors-chips-aluminum.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Cloudflare raises forecast as AI agent demand grows</span></td>
-  <td class="col-summary">Cloudflare said demand for AI agents was increasing traffic across its network and lifting demand for its cloud and security products.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/cloudfare-buys-uk-ai-data-marketplace-human-native" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Clevo bets on differentiated design for 2H26 notebook growth</span></td>
+  <td class="col-summary">Clevo president Simon Tsai said AI is extending from infrastructure to consumers, boosting not only the PC industry but also traffic at IT malls. At Clevo's Buynow retail chain, humanoid robots from Unitree Robotics have become hot attractions, helping reshape the product mix in IT retail.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260806PD232/clevo-president-revenue-profit-growth.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SK hynix to invest $38.3b in chip fabs</span></td>
-  <td class="col-summary">SK hynix plans to start building Y2 in July 2027, with its first cleanroom expected to open in June 2029.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-hynix-plans-29b-listing" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Hong Kong’s OSL launches AI agent payments tool</span></td>
+  <td class="col-summary">OSL said it has a Hong Kong Securities and Futures Commission license for brokerage and automated trading services.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/bitget-launches-stablecoin-yield-product-cash" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">South Korea, Taiwan top Japan in exports for first time on AI boom</span></td>
-  <td class="col-summary">South Korea, Taiwan top Japan in exports for first time on AI boom</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia-backed AI firm Firmus secures $2b commitments</span></td>
+  <td class="col-summary">Firmus said the funding will accelerate its AI factory expansion across Australia and Asia-Pacific.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/blackstone-coatue-australian-ai-firm-firmus-10b-loan" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>

@@ -4,35 +4,34 @@
   "sources": [
     "CNA",
     "DigiTimes",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-08-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Quanta posts second-highest monthly revenue as notebook shipments plunge 38%",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260807PD254/quanta-notebook-shipments-ai-server-revenue-demand.html"
-    },
-    {
-      "title": "Compeq says satellite and data center orders will drive second-half growth",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260807PD252/data-center-compeq-manufacturing-demand-revenue-2026.html"
-    },
-    {
-      "title": "TSMC, ASE, WPG: the white-knight battles that built Taiwan's chip empire",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260807PD231/ase-taiwan-tsmc-wpg-chairman.html"
-    },
-    {
-      "title": "Commentary: Adding AI to Google Earth runs counter to what makes it so valuable",
+      "title": "US judge blocks Pentagon from listing WuXi as Chinese military-linked firm",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/google-earth-ai-nano-banana-fake-trust-maps-6305941"
+      "url": "https://www.channelnewsasia.com/east-asia/us-judge-blocks-pentagon-listing-wuxi-chinese-military-linked-firm-6306941"
     },
     {
-      "title": "Moonshot AI\u2019s Kimi K3 escapes test environment: report",
+      "title": "Alibaba plans revenue sharing for Qwen AI model",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinas-moonshot-ai-targets-50b-valuation"
+      "url": "https://www.techinasia.com/alibaba-baidu-shares-jump-on-apple-ai-partnership"
+    },
+    {
+      "title": "Trump-linked fintech firm AI Financial sells unit to Prime Delta",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/trump-linked-fintech-firm-ai-financial-sells-unit-prime-delta-6307176"
+    },
+    {
+      "title": "Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html"
+    },
+    {
+      "title": "Taiwan team builds high-performance MoS2 transistor to ease 2D semiconductor limits",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260806PD226/taiwan-transistor-semiconductors-chips-aluminum.html"
     }
   ],
   "source_stats": [
@@ -49,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -168,7 +167,7 @@
       "fetched": 50,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -193,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
