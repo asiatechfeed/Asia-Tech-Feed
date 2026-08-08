@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-08T02:05:51+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 08, 2026</title><link href="https://asiatechfeed.com/2026/08/08/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 08, 2026" /><published>2026-08-08T02:05:11+00:00</published><updated>2026-08-08T02:05:11+00:00</updated><id>https://asiatechfeed.com/2026/08/08/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/08/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-08T08:01:28+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 08, 2026</title><link href="https://asiatechfeed.com/2026/08/08/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 08, 2026" /><published>2026-08-08T08:00:51+00:00</published><updated>2026-08-08T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/08/08/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/08/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,70 +12,38 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">US judge blocks Pentagon from listing WuXi as Chinese military-linked firm</span></td>
-  <td class="col-summary">The biotechnology company said in its lawsuit that its designation as a Chinese military company was arbitrary, capricious, unsupported by the facts and "the product of political pressure".</td>
-  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/us-judge-blocks-pentagon-listing-wuxi-chinese-military-linked-firm-6306941" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">SK hynix weighs investor for $3b China chip site</span></td>
+  <td class="col-summary">The Chongqing facility, established in 2013, packages and tests DRAM and NAND chips.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-hynix-sell-shares-raise-investment" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Alibaba plans revenue sharing for Qwen AI model</span></td>
-  <td class="col-summary">Moonshot’s Kimi K3 can take up to 30% from major commercial users.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-baidu-shares-jump-on-apple-ai-partnership" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">IT panel demand cools as August prices hold steady</span></td>
+  <td class="col-summary">IT panel demand weakened in the third quarter, with both monitors and notebook panels facing a demand correction after early restocking in the first half of the year. But with chip and other component costs remaining high and panel makers seeing limited room for profit, suppliers are showing little willingness to cut p</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260806PD236/panel-demand-shipments-2026-brand.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Trump-linked fintech firm AI Financial sells unit to Prime Delta</span></td>
-  <td class="col-summary">Trump-linked fintech firm AI Financial sells unit to Prime Delta</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Interview: SailPoint says Taiwan hardware leads but identity governance lags</span></td>
+  <td class="col-summary">Taiwan's hardware manufacturing sector leads globally, but the country's level of investment in cybersecurity software and identity governance still ranks in the back half of the Asia-Pacific region, SailPoint Taiwan, Hong Kong, and Macau managing director Simon Tai told DIGITIMES in an interview. As the tech industry </td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/trump-linked-fintech-firm-ai-financial-sells-unit-prime-delta-6307176" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260805PD229/taiwan-governance-hardware-manufacturing-cybersecurity.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain</span></td>
-  <td class="col-summary">The 2026 OCP APAC Summit will take place in Taipei on August 11-12. Ahead of the event, Lightmatter founder and CEO Nicholas Harris spoke exclusively with DIGITIMES about the company's advantages after joining the Nvidia NVLink ecosystem, its technology roadmap and the importance of close collaboration with Taiwan's su</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan team builds high-performance MoS2 transistor to ease 2D semiconductor limits</span></td>
-  <td class="col-summary">Taiwan researchers announced on August 6 that they had developed a high-performance monolayer molybdenum disulfide (MoS2) top-gate transistor designed to address a long-standing interface problem in two-dimensional semiconductors. The work brought together teams from National Yang Ming Chiao Tung University, Academia S</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260806PD226/taiwan-transistor-semiconductors-chips-aluminum.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Clevo bets on differentiated design for 2H26 notebook growth</span></td>
-  <td class="col-summary">Clevo president Simon Tsai said AI is extending from infrastructure to consumers, boosting not only the PC industry but also traffic at IT malls. At Clevo's Buynow retail chain, humanoid robots from Unitree Robotics have become hot attractions, helping reshape the product mix in IT retail.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260806PD232/clevo-president-revenue-profit-growth.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Hong Kong’s OSL launches AI agent payments tool</span></td>
-  <td class="col-summary">OSL said it has a Hong Kong Securities and Futures Commission license for brokerage and automated trading services.</td>
+  <td class="col-title"><span class="article-title">Sercomm July revenue rises 51% on Wi-Fi upgrade demand</span></td>
+  <td class="col-summary">Sercomm Corporation reported July revenue of NT$7.98 billion, up 51% from a year earlier and a new monthly high, as rising AI adoption continued to drive network traffic and equipment upgrade demand. Revenue for the first seven months reached NT$45.24 billion, also a record and up 57% year-over-year.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/bitget-launches-stablecoin-yield-product-cash" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Nvidia-backed AI firm Firmus secures $2b commitments</span></td>
-  <td class="col-summary">Firmus said the funding will accelerate its AI factory expansion across Australia and Asia-Pacific.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/blackstone-coatue-australian-ai-firm-firmus-10b-loan" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807PD206/revenue-sercomm-demand-equipment-wi-fi.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA US judge blocks Pentagon from listing WuXi as Chinese military-linked firm The biotechnology company said in its lawsuit that its designation as a Chinese military company was arbitrary, capricious, unsupported by the facts and "the product of political pressure". Biotechnology Read 2 TechAsia Alibaba plans revenue sharing for Qwen AI model Moonshot’s Kimi K3 can take up to 30% from major commercial users. AI Read 3 CNA Trump-linked fintech firm AI Financial sells unit to Prime Delta Trump-linked fintech firm AI Financial sells unit to Prime Delta AI Read 4 DigiTimes Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain The 2026 OCP APAC Summit will take place in Taipei on August 11-12. Ahead of the event, Lightmatter founder and CEO Nicholas Harris spoke exclusively with DIGITIMES about the company's advantages after joining the Nvidia NVLink ecosystem, its technology roadmap and the importance of close collaboration with Taiwan's su Logistics Read 5 DigiTimes Taiwan team builds high-performance MoS2 transistor to ease 2D semiconductor limits Taiwan researchers announced on August 6 that they had developed a high-performance monolayer molybdenum disulfide (MoS2) top-gate transistor designed to address a long-standing interface problem in two-dimensional semiconductors. The work brought together teams from National Yang Ming Chiao Tung University, Academia S Semiconductor Read 6 DigiTimes Clevo bets on differentiated design for 2H26 notebook growth Clevo president Simon Tsai said AI is extending from infrastructure to consumers, boosting not only the PC industry but also traffic at IT malls. At Clevo's Buynow retail chain, humanoid robots from Unitree Robotics have become hot attractions, helping reshape the product mix in IT retail. AIAutomation Read 7 TechAsia Hong Kong’s OSL launches AI agent payments tool OSL said it has a Hong Kong Securities and Futures Commission license for brokerage and automated trading services. AI Read 8 TechAsia Nvidia-backed AI firm Firmus secures $2b commitments Firmus said the funding will accelerate its AI factory expansion across Australia and Asia-Pacific. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 07, 2026</title><link href="https://asiatechfeed.com/2026/08/07/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 07, 2026" /><published>2026-08-07T08:00:47+00:00</published><updated>2026-08-07T08:00:47+00:00</updated><id>https://asiatechfeed.com/2026/08/07/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/07/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia SK hynix weighs investor for $3b China chip site The Chongqing facility, established in 2013, packages and tests DRAM and NAND chips. Semiconductor Read 2 DigiTimes IT panel demand cools as August prices hold steady IT panel demand weakened in the third quarter, with both monitors and notebook panels facing a demand correction after early restocking in the first half of the year. But with chip and other component costs remaining high and panel makers seeing limited room for profit, suppliers are showing little willingness to cut p Semiconductor Read 3 DigiTimes Interview: SailPoint says Taiwan hardware leads but identity governance lags Taiwan's hardware manufacturing sector leads globally, but the country's level of investment in cybersecurity software and identity governance still ranks in the back half of the Asia-Pacific region, SailPoint Taiwan, Hong Kong, and Macau managing director Simon Tai told DIGITIMES in an interview. As the tech industry AI Read 4 DigiTimes Sercomm July revenue rises 51% on Wi-Fi upgrade demand Sercomm Corporation reported July revenue of NT$7.98 billion, up 51% from a year earlier and a new monthly high, as rising AI adoption continued to drive network traffic and equipment upgrade demand. Revenue for the first seven months reached NT$45.24 billion, also a record and up 57% year-over-year. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 07, 2026</title><link href="https://asiatechfeed.com/2026/08/07/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 07, 2026" /><published>2026-08-07T08:00:47+00:00</published><updated>2026-08-07T08:00:47+00:00</updated><id>https://asiatechfeed.com/2026/08/07/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/07/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
