@@ -1,31 +1,25 @@
 {
-  "date": "2026-08-08",
-  "count": 4,
+  "date": "2026-08-09",
+  "count": 3,
   "sources": [
-    "DigiTimes",
-    "TechAsia"
+    "DigiTimes"
   ],
-  "post_file": "2026-08-08-asia-tech-news-digest.md",
+  "post_file": "2026-08-09-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "SK hynix weighs investor for $3b China chip site",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/sk-hynix-sell-shares-raise-investment"
+      "title": "Commentary: From free flow to tight control \u2014 how tech talent became a national security asset",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260807PD244/talent-taiwan-security-technology-management.html"
     },
     {
-      "title": "IT panel demand cools as August prices hold steady",
+      "title": "Greenfiltec posts first-half loss as activated carbon costs squeeze margins",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260806PD236/panel-demand-shipments-2026-brand.html"
+      "url": "https://www.digitimes.com/news/a20260807PD203/2026-loss-revenue-price-equipment.html"
     },
     {
-      "title": "Interview: SailPoint says Taiwan hardware leads but identity governance lags",
+      "title": "Rethinking road safety: Why existing safety standards can no longer keep pace with autonomous vehicles' advances",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260805PD229/taiwan-governance-hardware-manufacturing-cybersecurity.html"
-    },
-    {
-      "title": "Sercomm July revenue rises 51% on Wi-Fi upgrade demand",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260807PD206/revenue-sercomm-demand-equipment-wi-fi.html"
+      "url": "https://www.digitimes.com/news/a20260807PD216/infotainment-taiwan-performance-data-market.html"
     }
   ],
   "source_stats": [
@@ -42,7 +36,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -141,7 +135,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 5,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -186,9 +180,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 13,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
