@@ -1,25 +1,37 @@
 {
-  "date": "2026-08-09",
-  "count": 3,
+  "date": "2026-08-10",
+  "count": 5,
   "sources": [
-    "DigiTimes"
+    "CNA",
+    "DigiTimes",
+    "NikkeiAsia"
   ],
-  "post_file": "2026-08-09-asia-tech-news-digest.md",
+  "post_file": "2026-08-10-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Macronix, Winbond post record July revenue as memory prices rise",
+      "title": "DeepSeek takes Unitree stake to pair AI models with humanoid robots",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260807PD255/winbond-macronix-international-revenue-taiwan-chipmakers.html"
+      "url": "https://www.digitimes.com/news/a20260807VL214/deepseek-ipo-shanghai-robotics-robot.html"
     },
     {
-      "title": "Innodisk posts record second quarter profit on AI and memory demand",
+      "title": "India roundup: Chip push broadens as localization and capacity remain works in progress",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260807PD232/innodisk-profit-2026-demand-revenue.html"
+      "url": "https://www.digitimes.com/news/a20260807VL207/capacity-localization-electronics-packaging-workforce.html"
     },
     {
-      "title": "VSO's Vietnam expansion and AI-server growth point to bigger upside, but memory shortages cloud the outlook",
+      "title": "Winmate revenue rises as defense and edge AI orders gain momentum",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260807PD214/growth-expansion-vso-electronics-plant-2026.html"
+      "url": "https://www.digitimes.com/news/a20260807PD236/revenue-pc-industrial-profit-2026.html"
+    },
+    {
+      "title": "Commentary: Can AI improve my parenting? Maybe, but not in the way Sam Altman thinks",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/commentary-can-ai-improve-my-parenting-maybe-not-in-way-sam-altman-thinks-6308306"
+    },
+    {
+      "title": "China's 'national team' battles AI stock rollercoaster",
+      "source": "NikkeiAsia",
+      "url": "https://asia.nikkei.com/business/markets/trading-asia/china-s-national-team-battles-ai-stock-rollercoaster"
     }
   ],
   "source_stats": [
@@ -36,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -144,7 +156,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 26,
+      "relevant": 24,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -153,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 3,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -180,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 10,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
