@@ -1,38 +1,36 @@
 {
   "date": "2026-08-10",
-  "count": 10,
+  "count": 5,
   "sources": [
     "DigiTimes",
-    "EETAsia",
-    "KED",
     "TechAsia"
   ],
   "post_file": "2026-08-10-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "CXMT\u2019s Rise: China\u2019s Memory Champion Challenging Global Leaders",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/cxmts-rise-chinas-memory-champion-challenging-global-leaders/"
-    },
-    {
-      "title": "Beyond chatbots, two AI races emerge",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/chatbots-ai-races-emerge"
-    },
-    {
-      "title": "Weekly news roundup: AI infrastructure race spans HBM, DRAM, EMIB, optical transceivers and next-gen lithography",
+      "title": "TSMC July revenue jumps 44.7% to record US$14.5B, 2026 growth forecast tops 40%",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260810VL200/weekly-news-roundup-asml-dram-hbm-infrastructure-packaging.html"
+      "url": "https://www.digitimes.com/news/a20260810VL209/tsmc-revenue-growth-2026-forecast.html"
     },
     {
-      "title": "From fabs to feedstock: Washington moves electronics supply-chain controls upstream",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260807VL215/policy-electronics-polysilicon-materials-solar.html"
-    },
-    {
-      "title": "Apple tests CXMT chips as AI drives memory shortage: report",
+      "title": "AI agents find margin risks before they hit the balance sheet",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/apple-may-raise-iphone-18-pro-prices-as-chip-costs-rise"
+      "url": "https://www.techinasia.com/ai-agents-find-margin-risks-hit-balance-sheet"
+    },
+    {
+      "title": "SuperAlloy boosts profit and expands into semiconductor green supply chains",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260810PD207/profit-superalloy-2026-revenue-equipment.html"
+    },
+    {
+      "title": "Nvidia invests up to US$3B in Lancium as energy becomes new AI bottleneck",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260810VL207/nvidia-infrastructure-texas-data-center-electricity.html"
+    },
+    {
+      "title": "Hugging Face outlines how open weight AI aids cyber teams",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/when-ai-safety-rules-leave-companies-defenseless"
     }
   ],
   "source_stats": [
@@ -49,7 +47,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -148,16 +146,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 4,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 25,
+      "fetched": 42,
+      "relevant": 27,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +164,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 4,
+      "relevant": 3,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -177,7 +175,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -193,9 +191,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 10,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
