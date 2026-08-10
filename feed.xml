@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-10T00:15:59+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 10, 2026</title><link href="https://asiatechfeed.com/2026/08/10/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 10, 2026" /><published>2026-08-10T00:15:24+00:00</published><updated>2026-08-10T00:15:24+00:00</updated><id>https://asiatechfeed.com/2026/08/10/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/10/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-10T02:23:12+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 10, 2026</title><link href="https://asiatechfeed.com/2026/08/10/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 10, 2026" /><published>2026-08-10T02:22:11+00:00</published><updated>2026-08-10T02:22:11+00:00</updated><id>https://asiatechfeed.com/2026/08/10/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/10/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,46 +12,86 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">DeepSeek takes Unitree stake to pair AI models with humanoid robots</span></td>
-  <td class="col-summary">DeepSeek has invested CNY140.8 million (approx. US$20.8 million) in Unitree's Shanghai IPO and agreed to jointly develop AI models for humanoid robots, linking one of China's highest-profile AI developers with the country's leading robotics contender at a critical stage of Unitree's public-market debut.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807VL214/deepseek-ipo-shanghai-robotics-robot.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">CXMT’s Rise: China’s Memory Champion Challenging Global Leaders</span></td>
+  <td class="col-summary">CXMT’s IPO underscores China’s accelerating DRAM ambitions as capacity expansion, technology advances, and AI reshape memory markets. The post CXMT’s Rise: China’s Memory Champion Challenging Global Leaders appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/cxmts-rise-chinas-memory-champion-challenging-global-leaders/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">India roundup: Chip push broadens as localization and capacity remain works in progress</span></td>
-  <td class="col-summary">India is accelerating its bid to build a broader semiconductor and electronics ecosystem, combining new packaging capacity, longer-term tax incentives and deeper localization with efforts to expand its chip workforce and sovereign AI capabilities. Investments by ASIP, Dixon, Rashi and global technology partners highlig</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807VL207/capacity-localization-electronics-packaging-workforce.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Beyond chatbots, two AI races emerge</span></td>
+  <td class="col-summary">AI’s next race stretches from glasses and headphones to drug discovery. Meanwhile, ByteDance has a lot to lose to play the distillation game.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chatbots-ai-races-emerge" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Winmate revenue rises as defense and edge AI orders gain momentum</span></td>
-  <td class="col-summary">Industrial PC maker Winmate said second-quarter revenue rose sharply as demand from defense, marine, and edge AI applications strengthened, a shift that could matter for global industrial supply chains. The company is also seeing firmer order visibility for the second half of the year, while it works to protect margins</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807PD236/revenue-pc-industrial-profit-2026.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Weekly news roundup: AI infrastructure race spans HBM, DRAM, EMIB, optical transceivers and next-gen lithography</span></td>
+  <td class="col-summary">AI infrastructure, memory supply, advanced packaging and US-China tech restrictions led this week's industry agenda. Below are the most-read DIGITIMES stories from the week of August 3-10, 2026.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260810VL200/weekly-news-roundup-asml-dram-hbm-infrastructure-packaging.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: Can AI improve my parenting? Maybe, but not in the way Sam Altman thinks</span></td>
-  <td class="col-summary">There are genuinely useful ways the technology can help with this. But Sam Altman’s ChatGPT tips are not among them, says the Financial Times’ Robert Shrimsley.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/commentary-can-ai-improve-my-parenting-maybe-not-in-way-sam-altman-thinks-6308306" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">From fabs to feedstock: Washington moves electronics supply-chain controls upstream</span></td>
+  <td class="col-summary">A cluster of measures signed and drafted since late July has shifted the center of gravity in US supply-chain policy away from finished electronics and toward the raw materials that feed them.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807VL215/policy-electronics-polysilicon-materials-solar.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">China's 'national team' battles AI stock rollercoaster</span></td>
-  <td class="col-summary">China's 'national team' battles AI stock rollercoaster</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Apple tests CXMT chips as AI drives memory shortage: report</span></td>
+  <td class="col-summary">The report said Apple held early talks with CXMT, China’s largest chipmaker by market value, about supplying components for some devices sold in China.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/apple-may-raise-iphone-18-pro-prices-as-chip-costs-rise" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Winbond sees tighter memory supply and bigger expansion payoff ahead</span></td>
+  <td class="col-summary">Winbond Electronics said rising prices and stronger shipments lifted its operating margin to 48.4% in the second quarter of 2026, and it expects the third-quarter margin to top 50%, setting a new high. The company also plans a major expansion in Kaohsiung as customers seek long-term supply through 2029 and 2030.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807PD219/winbond-expansion-demand-nand-shipments.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Far from Jakarta, a different kind of VC is thriving</span></td>
+  <td class="col-summary">Forget AI startups. These VCs are backing palm oil traders, artisans, and small businesses across Indonesia.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/trading-asia/china-s-national-team-battles-ai-stock-rollercoaster" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/jakarta-kind-vc-thriving" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">AI trade isn’t just about tech stocks but also power, TCW says</span></td>
+  <td class="col-summary">The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">No career ambition, no ego: AI plays devil's advocate at Audax Private Equity</span></td>
+  <td class="col-summary">Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate</span></td>
+  <td class="col-summary">EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease</td>
+  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/bio-pharma/newsView/ked202603100001" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes DeepSeek takes Unitree stake to pair AI models with humanoid robots DeepSeek has invested CNY140.8 million (approx. US$20.8 million) in Unitree's Shanghai IPO and agreed to jointly develop AI models for humanoid robots, linking one of China's highest-profile AI developers with the country's leading robotics contender at a critical stage of Unitree's public-market debut. AIAutomation Read 2 DigiTimes India roundup: Chip push broadens as localization and capacity remain works in progress India is accelerating its bid to build a broader semiconductor and electronics ecosystem, combining new packaging capacity, longer-term tax incentives and deeper localization with efforts to expand its chip workforce and sovereign AI capabilities. Investments by ASIP, Dixon, Rashi and global technology partners highlig SemiconductorElectronicsAI Read 3 DigiTimes Winmate revenue rises as defense and edge AI orders gain momentum Industrial PC maker Winmate said second-quarter revenue rose sharply as demand from defense, marine, and edge AI applications strengthened, a shift that could matter for global industrial supply chains. The company is also seeing firmer order visibility for the second half of the year, while it works to protect margins AILogistics Read 4 CNA Commentary: Can AI improve my parenting? Maybe, but not in the way Sam Altman thinks There are genuinely useful ways the technology can help with this. But Sam Altman’s ChatGPT tips are not among them, says the Financial Times’ Robert Shrimsley. AI Read 5 NikkeiAsia China's 'national team' battles AI stock rollercoaster China's 'national team' battles AI stock rollercoaster AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 09, 2026</title><link href="https://asiatechfeed.com/2026/08/09/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 09, 2026" /><published>2026-08-09T08:00:51+00:00</published><updated>2026-08-09T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/08/09/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/09/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 EETAsia CXMT’s Rise: China’s Memory Champion Challenging Global Leaders CXMT’s IPO underscores China’s accelerating DRAM ambitions as capacity expansion, technology advances, and AI reshape memory markets. The post CXMT’s Rise: China’s Memory Champion Challenging Global Leaders appeared first on EE Times Asia . AI Read 2 TechAsia Beyond chatbots, two AI races emerge AI’s next race stretches from glasses and headphones to drug discovery. Meanwhile, ByteDance has a lot to lose to play the distillation game. AIPharmaceutical Read 3 DigiTimes Weekly news roundup: AI infrastructure race spans HBM, DRAM, EMIB, optical transceivers and next-gen lithography AI infrastructure, memory supply, advanced packaging and US-China tech restrictions led this week's industry agenda. Below are the most-read DIGITIMES stories from the week of August 3-10, 2026. AI Read 4 DigiTimes From fabs to feedstock: Washington moves electronics supply-chain controls upstream A cluster of measures signed and drafted since late July has shifted the center of gravity in US supply-chain policy away from finished electronics and toward the raw materials that feed them. ElectronicsSemiconductor Read 5 TechAsia Apple tests CXMT chips as AI drives memory shortage: report The report said Apple held early talks with CXMT, China’s largest chipmaker by market value, about supplying components for some devices sold in China. AISemiconductor Read 6 DigiTimes Winbond sees tighter memory supply and bigger expansion payoff ahead Winbond Electronics said rising prices and stronger shipments lifted its operating margin to 48.4% in the second quarter of 2026, and it expects the third-quarter margin to top 50%, setting a new high. The company also plans a major expansion in Kaohsiung as customers seek long-term supply through 2029 and 2030. Electronics Read 7 TechAsia Far from Jakarta, a different kind of VC is thriving Forget AI startups. These VCs are backing palm oil traders, artisans, and small businesses across Indonesia. AI Read 8 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun AISemiconductor Read 9 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass AI Read 10 KED EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease Biotechnology Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 09, 2026</title><link href="https://asiatechfeed.com/2026/08/09/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 09, 2026" /><published>2026-08-09T08:00:51+00:00</published><updated>2026-08-09T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/08/09/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/09/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
