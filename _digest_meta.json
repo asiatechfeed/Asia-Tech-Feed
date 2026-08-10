@@ -1,37 +1,38 @@
 {
   "date": "2026-08-10",
-  "count": 5,
+  "count": 10,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "NikkeiAsia"
+    "EETAsia",
+    "KED",
+    "TechAsia"
   ],
   "post_file": "2026-08-10-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "DeepSeek takes Unitree stake to pair AI models with humanoid robots",
+      "title": "CXMT\u2019s Rise: China\u2019s Memory Champion Challenging Global Leaders",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/cxmts-rise-chinas-memory-champion-challenging-global-leaders/"
+    },
+    {
+      "title": "Beyond chatbots, two AI races emerge",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/chatbots-ai-races-emerge"
+    },
+    {
+      "title": "Weekly news roundup: AI infrastructure race spans HBM, DRAM, EMIB, optical transceivers and next-gen lithography",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260807VL214/deepseek-ipo-shanghai-robotics-robot.html"
+      "url": "https://www.digitimes.com/news/a20260810VL200/weekly-news-roundup-asml-dram-hbm-infrastructure-packaging.html"
     },
     {
-      "title": "India roundup: Chip push broadens as localization and capacity remain works in progress",
+      "title": "From fabs to feedstock: Washington moves electronics supply-chain controls upstream",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260807VL207/capacity-localization-electronics-packaging-workforce.html"
+      "url": "https://www.digitimes.com/news/a20260807VL215/policy-electronics-polysilicon-materials-solar.html"
     },
     {
-      "title": "Winmate revenue rises as defense and edge AI orders gain momentum",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260807PD236/revenue-pc-industrial-profit-2026.html"
-    },
-    {
-      "title": "Commentary: Can AI improve my parenting? Maybe, but not in the way Sam Altman thinks",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/commentary-can-ai-improve-my-parenting-maybe-not-in-way-sam-altman-thinks-6308306"
-    },
-    {
-      "title": "China's 'national team' battles AI stock rollercoaster",
-      "source": "NikkeiAsia",
-      "url": "https://asia.nikkei.com/business/markets/trading-asia/china-s-national-team-battles-ai-stock-rollercoaster"
+      "title": "Apple tests CXMT chips as AI drives memory shortage: report",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/apple-may-raise-iphone-18-pro-prices-as-chip-costs-rise"
     }
   ],
   "source_stats": [
@@ -50,7 +51,7 @@
       "fetched": 20,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -147,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 3,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 24,
+      "relevant": 25,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +168,7 @@
       "fetched": 50,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -176,7 +177,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -194,7 +195,7 @@
       "fetched": 36,
       "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
