@@ -1,37 +1,39 @@
 {
   "date": "2026-08-11",
-  "count": 8,
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-11-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Singapore\u2019s key exports surge 27.4% in Q2 as AI demand fuels electronics boom",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/q2-2026-key-exports-surge-ai-electronics-6310796"
-    },
-    {
-      "title": "Trusval posts record profit on semiconductor fab and memory project demand",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260811PD200/trusval-profit-demand-fab-revenue.html"
-    },
-    {
-      "title": "Anthropic strikes $9.1b deal with Riot, sources say",
+      "title": "Inflexor Ventures leads $1.6m round for Indian medtech firm",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-meta-preliminary-talks-10b-deal"
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
     },
     {
-      "title": "Meta bets open, on-device model can win AI power struggle",
+      "title": "TSMC nears AI packaging demand after years of doubling capacity:'CoWoS guy' Jun He",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260811VL200/meta-ai-agent-ai-mark-zuckerberg.html"
+      "url": "https://www.digitimes.com/news/a20260811VL213/tsmc-cowos-capacity-packaging-demand.html"
     },
     {
-      "title": "Asus posts record July revenue on strong AI server demand",
+      "title": "Microsoft seeks expanded Maia 300 production to tap into demand for cheaper compute",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260810PD253/asus-ai-server-pc-demand-revenue-2026.html"
+      "url": "https://www.digitimes.com/news/a20260811VL211/microsoft-chips-production-demand-nvidia.html"
+    },
+    {
+      "title": "Taiwan's AI server supply chain posts record July as growth spreads down the component tier",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260811VL212/demand-ai-server-growth-component-supply-chain.html"
+    },
+    {
+      "title": "Australia and Vietnam deepen strategic partnership",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/australia-vietnam-strategic-partnership-lam-anthony-albanese-6310891"
     }
   ],
   "source_stats": [
@@ -48,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -147,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 2,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 28,
+      "fetched": 60,
+      "relevant": 50,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 3,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -192,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
