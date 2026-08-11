@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-10T08:01:33+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 10, 2026</title><link href="https://asiatechfeed.com/2026/08/10/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 10, 2026" /><published>2026-08-10T08:00:52+00:00</published><updated>2026-08-10T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/08/10/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/10/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-11T00:02:47+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 11, 2026</title><link href="https://asiatechfeed.com/2026/08/11/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 11, 2026" /><published>2026-08-11T00:01:48+00:00</published><updated>2026-08-11T00:01:48+00:00</updated><id>https://asiatechfeed.com/2026/08/11/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/11/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">UK Semiconductor Center makes Taiwan debut at SEMICON, strengthening strategic ties</span></td>
+  <td class="col-summary">The UK Semiconductor Centre (UKSC), a leading organization in the UK semiconductor ecosystem, will lead a delegation of British semiconductor companies and research institutions to SEMICON Taiwan 2026, seeking to deepen strategic ties between Taiwan and the UK.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260810PD247/uk-taiwan-government-manufacturing-investment.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Memory drives 62% of Nvidia Vera Rubin's cost — SOCAMM2, not HBM4, leads the bill</span></td>
+  <td class="col-summary">Memory chips account for roughly 62% of the cost of Nvidia's next-generation AI platform, Vera Rubin, according to a new cost breakdown. The biggest single line item is not HBM4 but SOCAMM2, the LPDDR5X memory module attached to the Vera CPU, which runs close to US$20,000 per Superchip.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260810PD241/rubin-hbm4-cost-nvidia-chips.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">MA-tek reports record July revenue on glass-substrate testing demand</span></td>
+  <td class="col-summary">Materials Analysis Technology, or MA-tek, said its first-half 2026 results reached record levels and July revenue set a monthly record for a fifth straight month, while demand grew for through-glass via (TGV) inspection services for glass substrates. The semiconductor testing company said the gains were driven by risin</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260810PD202/demand-revenue-testing-2026-packaging.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Nvidia partners with Wall Street giants to raise $500 billion for AI buildout</span></td>
+  <td class="col-summary">Nvidia partners with Wall Street giants to raise $500 billion for AI buildout</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/nvidia-partners-wall-street-giants-raise-500-billion-ai-buildout-6310321" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">US House Democrats press Anthropic, OpenAI about rogue AI agents</span></td>
+  <td class="col-summary">US House Democrats press Anthropic, OpenAI about rogue AI agents</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/us-house-democrats-press-anthropic-openai-about-rogue-ai-agents-6310281" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">AAI 2026: AMD Introduces Open, Turnkey Integrated Platform for Physical AI</span></td>
+  <td class="col-summary">AMD Kria AI solutions extend robotics capabilities from body to brain and combine the Kria AI SOM, robotics developer platform and open software ecosystem to accelerate physical AI. The post AAI 2026: AMD Introduces Open, Turnkey Integrated Platform for Physical AI appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddednews-aai-2026-amd-introduces-open-turnkey-integrated-platform-for-physical-ai/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">OpenAI, Sophos partner on AI cyber tools for businesses</span></td>
+  <td class="col-summary">Sophos said its AI Defense product would enter early access in August 2026.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/thoma-bravo-google-partner-to-bring-ai-to-portfolio-firms" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">TSMC July revenue jumps 45% as AI demand stays strong</span></td>
+  <td class="col-summary">TSMC held 69.9% of the global foundry market in 2025.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/tsmc-build-3-packaging-plants-chiayi" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Indian VC firm Aum targets $78.7m for deep tech fund</span></td>
+  <td class="col-summary">The fund plans to invest at the pre-seed and seed stages across AI, semiconductors, spacetech, defense tech, robotics, and advanced manufacturing.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/vcs-are-crowding-into-the-same-deals-heres-whos-pushing-back" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan Inc.'s quarterly profit jumps 70% on weak yen and AI spending</span></td>
+  <td class="col-summary">Japan Inc.'s quarterly profit jumps 70% on weak yen and AI spending</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/business-trends/japan-inc.-s-quarterly-profit-jumps-70-on-weak-yen-and-ai-spending" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Buffett-backed Japan trading houses soar, but will it last in AI era?</span></td>
+  <td class="col-summary">Buffett-backed Japan trading houses soar, but will it last in AI era?</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/companies/buffett-backed-japan-trading-houses-soar-but-will-it-last-in-ai-era" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes UK Semiconductor Center makes Taiwan debut at SEMICON, strengthening strategic ties The UK Semiconductor Centre (UKSC), a leading organization in the UK semiconductor ecosystem, will lead a delegation of British semiconductor companies and research institutions to SEMICON Taiwan 2026, seeking to deepen strategic ties between Taiwan and the UK. Semiconductor Read 2 DigiTimes Memory drives 62% of Nvidia Vera Rubin's cost — SOCAMM2, not HBM4, leads the bill Memory chips account for roughly 62% of the cost of Nvidia's next-generation AI platform, Vera Rubin, according to a new cost breakdown. The biggest single line item is not HBM4 but SOCAMM2, the LPDDR5X memory module attached to the Vera CPU, which runs close to US$20,000 per Superchip. AISemiconductor Read 3 DigiTimes MA-tek reports record July revenue on glass-substrate testing demand Materials Analysis Technology, or MA-tek, said its first-half 2026 results reached record levels and July revenue set a monthly record for a fifth straight month, while demand grew for through-glass via (TGV) inspection services for glass substrates. The semiconductor testing company said the gains were driven by risin SemiconductorAI Read 4 CNA Nvidia partners with Wall Street giants to raise $500 billion for AI buildout Nvidia partners with Wall Street giants to raise $500 billion for AI buildout AI Read 5 CNA US House Democrats press Anthropic, OpenAI about rogue AI agents US House Democrats press Anthropic, OpenAI about rogue AI agents AI Read 6 EETAsia AAI 2026: AMD Introduces Open, Turnkey Integrated Platform for Physical AI AMD Kria AI solutions extend robotics capabilities from body to brain and combine the Kria AI SOM, robotics developer platform and open software ecosystem to accelerate physical AI. The post AAI 2026: AMD Introduces Open, Turnkey Integrated Platform for Physical AI appeared first on EE Times Asia . AIAutomation Read 7 TechAsia OpenAI, Sophos partner on AI cyber tools for businesses Sophos said its AI Defense product would enter early access in August 2026. AI Read 8 TechAsia TSMC July revenue jumps 45% as AI demand stays strong TSMC held 69.9% of the global foundry market in 2025. AISemiconductor Read 9 TechAsia Indian VC firm Aum targets $78.7m for deep tech fund The fund plans to invest at the pre-seed and seed stages across AI, semiconductors, spacetech, defense tech, robotics, and advanced manufacturing. SemiconductorAutomation Read 10 NikkeiAsia Japan Inc.'s quarterly profit jumps 70% on weak yen and AI spending Japan Inc.'s quarterly profit jumps 70% on weak yen and AI spending AI Read 11 NikkeiAsia Buffett-backed Japan trading houses soar, but will it last in AI era? Buffett-backed Japan trading houses soar, but will it last in AI era? AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 10, 2026</title><link href="https://asiatechfeed.com/2026/08/10/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 10, 2026" /><published>2026-08-10T08:00:52+00:00</published><updated>2026-08-10T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/08/10/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/10/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -603,65 +704,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260731PD221/esmt-profit-2026-earnings-niche-memory.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Lawmakers debate wealth-sharing policies as AI-related gains push Taiwan toward K-shaped economy Taiwanese electronics companies listed on the stock exchange posted a combined 33.7% increase in pre-tax profits for 2025, outpacing the 12.86% growth for all listed companies, while their employees saw an average pay rise of 10%. However, a survey conducted by the Directorate General of Budget, Accounting and Statisti Electronics Read 2 DigiTimes Pittsburgh, Switzerland experts challenge Taiwan to move beyond robotics hardware As AI shifts toward agentic and physical applications, industry observers say competition will no longer hinge on hardware manufacturing alone, but on the ability to integrate hardware and software. At this year's AI WAVE SHOW, foreign experts urged Taiwan to move beyond its role as a hardware supplier and become a key AIAutomation Read 3 DigiTimes ESMT posts record second-quarter profit on higher contract memory prices Elite Semiconductor Microelectronics Technology (ESMT) reported a record second-quarter 2026 profit as contract prices rose for niche memory products, lifting results sharply from the previous quarter and a year earlier. The Taiwanese chipmaker said net income reached NT$5.908 billion, while earnings per share hit NT$2 SemiconductorElectronics Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 01, 2026</title><link href="https://asiatechfeed.com/2026/08/01/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 01, 2026" /><published>2026-08-01T08:00:45+00:00</published><updated>2026-08-01T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/08/01/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/01/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AUO sells two plants in two days and expects up to NT$17.7 billion gain</span></td>
-  <td class="col-summary">AUO said it moved to accelerate asset monetization in Taiwan by selling another factory on July 30 after announcing a separate disposal. The display maker agreed to sell its C5E plant and related facility infrastructure in Kaohsiung’s Lujhu district to Advanced Semiconductor Engineering (ASE) for NT$6.3 billion (US$193</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260730PD232/auo-plant-kaohsiung-taiwan-ase.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Realtek, Elan, and Parade set the tone for PC chip demand</span></td>
-  <td class="col-summary">As the second half of the year begins, major Taiwanese IC design firms including Realtek Semiconductor, Elan Microelectronics, and Parade Technologies are holding earnings briefings this week to outline market conditions for the traditional peak season. Because the three companies hold key positions in the PC chip mark</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260730PD234/demand-pc-realtek-parade-ic-design.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Thintronics wins proposed US CHIPS incentives for advanced substrate technology</span></td>
-  <td class="col-summary">Thintronics, a semiconductor interconnect company, said in a press release on July 29 that it had signed a letter of intent with the US Department of Commerce and the CHIPS Research and Development Office for up to US$50 million in incentives under the CHIPS and Science Act.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260730PR202/substrate-technology-incentives-packaging-materials.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Amazon, Microsoft keep AI spending plans on track</span></td>
-  <td class="col-summary">Amazon raised its full-year capital expenditure forecast to US$220 billion from US$200 billion and said most of the spending will go to AI.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/amazon-to-invest-13b-in-india-for-ai-cloud-push" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Meta AI lease commitments rise to $279b</span></td>
-  <td class="col-summary">Meta has separately said its 2026 capital expenditure would be US$115 billion to US$135 billion, including finance lease principal.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-expand-louisiana-ai-data-center-5-gw" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">AI crowds out consumer plays in SEA</span></td>
-  <td class="col-summary">We look at how consumer startups are dealing with Southeast Asia’s new funding reality amid the AI boom. Plus, Moonshot’s gigantic series F round.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-crowds-consumer-plays-sea" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes AUO sells two plants in two days and expects up to NT$17.7 billion gain AUO said it moved to accelerate asset monetization in Taiwan by selling another factory on July 30 after announcing a separate disposal. The display maker agreed to sell its C5E plant and related facility infrastructure in Kaohsiung’s Lujhu district to Advanced Semiconductor Engineering (ASE) for NT$6.3 billion (US$193 Semiconductor Read 2 DigiTimes Realtek, Elan, and Parade set the tone for PC chip demand As the second half of the year begins, major Taiwanese IC design firms including Realtek Semiconductor, Elan Microelectronics, and Parade Technologies are holding earnings briefings this week to outline market conditions for the traditional peak season. Because the three companies hold key positions in the PC chip mark SemiconductorElectronics Read 3 DigiTimes Thintronics wins proposed US CHIPS incentives for advanced substrate technology Thintronics, a semiconductor interconnect company, said in a press release on July 29 that it had signed a letter of intent with the US Department of Commerce and the CHIPS Research and Development Office for up to US$50 million in incentives under the CHIPS and Science Act. Semiconductor Read 4 TechAsia Amazon, Microsoft keep AI spending plans on track Amazon raised its full-year capital expenditure forecast to US$220 billion from US$200 billion and said most of the spending will go to AI. AI Read 5 TechAsia Meta AI lease commitments rise to $279b Meta has separately said its 2026 capital expenditure would be US$115 billion to US$135 billion, including finance lease principal. AI Read 6 TechAsia AI crowds out consumer plays in SEA We look at how consumer startups are dealing with Southeast Asia’s new funding reality amid the AI boom. Plus, Moonshot’s gigantic series F round. AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Lawmakers debate wealth-sharing policies as AI-related gains push Taiwan toward K-shaped economy Taiwanese electronics companies listed on the stock exchange posted a combined 33.7% increase in pre-tax profits for 2025, outpacing the 12.86% growth for all listed companies, while their employees saw an average pay rise of 10%. However, a survey conducted by the Directorate General of Budget, Accounting and Statisti Electronics Read 2 DigiTimes Pittsburgh, Switzerland experts challenge Taiwan to move beyond robotics hardware As AI shifts toward agentic and physical applications, industry observers say competition will no longer hinge on hardware manufacturing alone, but on the ability to integrate hardware and software. At this year's AI WAVE SHOW, foreign experts urged Taiwan to move beyond its role as a hardware supplier and become a key AIAutomation Read 3 DigiTimes ESMT posts record second-quarter profit on higher contract memory prices Elite Semiconductor Microelectronics Technology (ESMT) reported a record second-quarter 2026 profit as contract prices rose for niche memory products, lifting results sharply from the previous quarter and a year earlier. The Taiwanese chipmaker said net income reached NT$5.908 billion, while earnings per share hit NT$2 SemiconductorElectronics Read]]></summary></entry></feed>
