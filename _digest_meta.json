@@ -1,36 +1,39 @@
 {
-  "date": "2026-08-10",
-  "count": 5,
+  "date": "2026-08-11",
+  "count": 11,
   "sources": [
+    "CNA",
     "DigiTimes",
+    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-08-10-asia-tech-news-digest.md",
+  "post_file": "2026-08-11-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "TSMC July revenue jumps 44.7% to record US$14.5B, 2026 growth forecast tops 40%",
+      "title": "UK Semiconductor Center makes Taiwan debut at SEMICON, strengthening strategic ties",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260810VL209/tsmc-revenue-growth-2026-forecast.html"
+      "url": "https://www.digitimes.com/news/a20260810PD247/uk-taiwan-government-manufacturing-investment.html"
     },
     {
-      "title": "AI agents find margin risks before they hit the balance sheet",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/ai-agents-find-margin-risks-hit-balance-sheet"
-    },
-    {
-      "title": "SuperAlloy boosts profit and expands into semiconductor green supply chains",
+      "title": "Memory drives 62% of Nvidia Vera Rubin's cost \u2014 SOCAMM2, not HBM4, leads the bill",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260810PD207/profit-superalloy-2026-revenue-equipment.html"
+      "url": "https://www.digitimes.com/news/a20260810PD241/rubin-hbm4-cost-nvidia-chips.html"
     },
     {
-      "title": "Nvidia invests up to US$3B in Lancium as energy becomes new AI bottleneck",
+      "title": "MA-tek reports record July revenue on glass-substrate testing demand",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260810VL207/nvidia-infrastructure-texas-data-center-electricity.html"
+      "url": "https://www.digitimes.com/news/a20260810PD202/demand-revenue-testing-2026-packaging.html"
     },
     {
-      "title": "Hugging Face outlines how open weight AI aids cyber teams",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/when-ai-safety-rules-leave-companies-defenseless"
+      "title": "Nvidia partners with Wall Street giants to raise $500 billion for AI buildout",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/nvidia-partners-wall-street-giants-raise-500-billion-ai-buildout-6310321"
+    },
+    {
+      "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/us-house-democrats-press-anthropic-openai-about-rogue-ai-agents-6310281"
     }
   ],
   "source_stats": [
@@ -47,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -129,7 +132,7 @@
       "name": "Electronics Weekly",
       "fetched": 10,
       "relevant": 0,
-      "sponsored_skipped": 1,
+      "sponsored_skipped": 0,
       "published": 0,
       "error": null
     },
@@ -146,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 42,
-      "relevant": 27,
+      "fetched": 35,
+      "relevant": 29,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +169,7 @@
       "fetched": 50,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -191,9 +194,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 8,
+      "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
