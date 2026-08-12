@@ -1,4 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-11T08:02:06+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 11, 2026</title><link href="https://asiatechfeed.com/2026/08/11/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 11, 2026" /><published>2026-08-11T08:00:48+00:00</published><updated>2026-08-11T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/08/11/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/11/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-12T00:03:51+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 12, 2026</title><link href="https://asiatechfeed.com/2026/08/12/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 12, 2026" /><published>2026-08-12T00:02:35+00:00</published><updated>2026-08-12T00:02:35+00:00</updated><id>https://asiatechfeed.com/2026/08/12/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/12/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Meta to unwind $2b Manus AI deal on China order</span></td>
+  <td class="col-summary">Some users must back up data created since December 29, 2025.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/china-blocks-metas-manus-acquisition" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Japan business mood rises as semiconductor boom lifts manufacturers: Reuters poll</span></td>
+  <td class="col-summary">Japan business mood rises as semiconductor boom lifts manufacturers: Reuters poll</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/japan-business-mood-rises-semiconductor-boom-lifts-manufacturers-reuters-poll-6313211" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations</span></td>
+  <td class="col-summary">Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/ryanair-signs-five-year-google-cloud-deal-expands-use-ai-in-airline-operations-6313206" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: AI will affect your social life, even if you've never used it</span></td>
+  <td class="col-summary">AI has become a kind of social sealant, filling the gaps in young people’s relationships, says Alice Lassman for the New York Times.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/ai-chatgpt-tips-how-people-use-lives-friends-dates-6311856" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">EW</span></td>
+  <td class="col-title"><span class="article-title">TDK vibration-resistant axial capacitors for 125 V</span></td>
+  <td class="col-summary">Addressing what it sees as increasing demand for compact and high-ripple-current DC-link capacitor banks, TDK is expanding its axial/soldering star-aluminium electrolytic capacitor lineup. This is both adding 125 V-rated components […] The post TDK vibration-resistant axial capacitors for 125 V appeared first on Electr</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/products/passives/tdk-vibration-resistant-axial-capacitors-for-125-v-2026-08/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">AAI 2026: AMD Brings Personal AI Compute Closer to Users</span></td>
+  <td class="col-summary">AMD Ryzen AI agentic PCs bring local inference for 200B+ param models via Ryzen AI Halo, expanded Hugging Face model support, and Cisco enterprise security — purpose-built for privacy, responsiveness, and multi-agent workflows on the client. The post AAI 2026: AMD Brings Personal AI Compute Closer to Users appeared fir</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddednews-aai-2026-amd-brings-personal-ai-compute-closer-to-users/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">TSMC commits JPY282 billion to Sony sensor JV as AI demand outruns Sony's 40nm process</span></td>
+  <td class="col-summary">TSMC and Sony Semiconductor Solutions have signed a legally binding definitive agreement to establish Advanced Vision Semiconductor Manufacturing Corporation, a joint venture in Koshi City, Kumamoto Prefecture, Japan, that will develop and volume-produce next-generation smartphone image sensors on advanced process tech</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260811VL214/tsmc-sony-production-sensor-technology.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">AAI 2026: AMD ROCm.ai Accelerates AI Development Across AMD Platforms</span></td>
+  <td class="col-summary">AMD ROCm.ai brings AI-native development to AMD platforms via ROCm CLI, AMD Skills for Claude/Cursor/Codex, and Hyperloom agentic optimization — streamlining install, deploy, debug, and inference tuning with up to 3.3x inference gains. The post AAI 2026: AMD ROCm.ai Accelerates AI Development Across AMD Platforms appea</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddednews-aai-2026-amd-rocm-ai-accelerates-ai-development-across-amd-platforms/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">AAI 2026: AMD Delivers Leadership Heterogeneous Compute for Physical AI</span></td>
+  <td class="col-summary">AMD Ryzen AI Embedded X100 Series packs up to 16 Zen 5 cores, discrete-class iGPU and NPU with unified memory — engineered for physical AI, real-time robotics control, and industrial-grade embedded deployments. The post AAI 2026: AMD Delivers Leadership Heterogeneous Compute for Physical AI appeared first on EE Times A</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddednews-aai-2026-amd-delivers-leadership-heterogeneous-compute-for-physical-ai/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">US AI lab Pathway unveils cheaper model performance</span></td>
+  <td class="col-summary">Pathway said OpenAI's GPT-5.6 Luna (Low) scored 34.2% on the same test.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/saas-playbook-killing-ai-startup" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">EOC turns profitable in 1H26 as optical communications demand rebounds</span></td>
+  <td class="col-summary">East Tender Optoelectronics (EOC) reported a swing to profit in the first half of 2026, driven by an improved product mix, better capacity utilization, and a rebound in optical communications demand. The company indicated that demand for optical communications continues to strengthen, with operating momentum broadening</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260811PD236/demand-communications-profit-capacity-2026.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Walsin sees B/B ratio hit 1.8, 2026 capex at NT$4B</span></td>
+  <td class="col-summary">Chiao Yu-Heng, chairman of Walsin Technology, said the passive component market has improved sharply, with some parts even in short supply, and that order visibility now extends "beyond the end of 2026." The company plans to continue investing in AI-related passive component capacity as demand from AI applications stay</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260811PD231/2026-chairman-passive-walsin-market.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">13</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Mapping the startups setting the pace in Korea’s AI sector</span></td>
+  <td class="col-summary">Mapping Korea's AI sector: Key players, top investors, and funding insights in one report.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Meta to unwind $2b Manus AI deal on China order Some users must back up data created since December 29, 2025. AI Read 2 CNA Japan business mood rises as semiconductor boom lifts manufacturers: Reuters poll Japan business mood rises as semiconductor boom lifts manufacturers: Reuters poll Semiconductor Read 3 CNA Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations AI Read 4 CNA Commentary: AI will affect your social life, even if you've never used it AI has become a kind of social sealant, filling the gaps in young people’s relationships, says Alice Lassman for the New York Times. AI Read 5 EW TDK vibration-resistant axial capacitors for 125 V Addressing what it sees as increasing demand for compact and high-ripple-current DC-link capacitor banks, TDK is expanding its axial/soldering star-aluminium electrolytic capacitor lineup. This is both adding 125 V-rated components […] The post TDK vibration-resistant axial capacitors for 125 V appeared first on Electr Electronics Read 6 EETAsia AAI 2026: AMD Brings Personal AI Compute Closer to Users AMD Ryzen AI agentic PCs bring local inference for 200B+ param models via Ryzen AI Halo, expanded Hugging Face model support, and Cisco enterprise security — purpose-built for privacy, responsiveness, and multi-agent workflows on the client. The post AAI 2026: AMD Brings Personal AI Compute Closer to Users appeared fir AI Read 7 DigiTimes TSMC commits JPY282 billion to Sony sensor JV as AI demand outruns Sony's 40nm process TSMC and Sony Semiconductor Solutions have signed a legally binding definitive agreement to establish Advanced Vision Semiconductor Manufacturing Corporation, a joint venture in Koshi City, Kumamoto Prefecture, Japan, that will develop and volume-produce next-generation smartphone image sensors on advanced process tech SemiconductorAI Read 8 EETAsia AAI 2026: AMD ROCm.ai Accelerates AI Development Across AMD Platforms AMD ROCm.ai brings AI-native development to AMD platforms via ROCm CLI, AMD Skills for Claude/Cursor/Codex, and Hyperloom agentic optimization — streamlining install, deploy, debug, and inference tuning with up to 3.3x inference gains. The post AAI 2026: AMD ROCm.ai Accelerates AI Development Across AMD Platforms appea AI Read 9 EETAsia AAI 2026: AMD Delivers Leadership Heterogeneous Compute for Physical AI AMD Ryzen AI Embedded X100 Series packs up to 16 Zen 5 cores, discrete-class iGPU and NPU with unified memory — engineered for physical AI, real-time robotics control, and industrial-grade embedded deployments. The post AAI 2026: AMD Delivers Leadership Heterogeneous Compute for Physical AI appeared first on EE Times A AIAutomation Read 10 TechAsia US AI lab Pathway unveils cheaper model performance Pathway said OpenAI's GPT-5.6 Luna (Low) scored 34.2% on the same test. AI Read 11 DigiTimes EOC turns profitable in 1H26 as optical communications demand rebounds East Tender Optoelectronics (EOC) reported a swing to profit in the first half of 2026, driven by an improved product mix, better capacity utilization, and a rebound in optical communications demand. The company indicated that demand for optical communications continues to strengthen, with operating momentum broadening Electronics Read 12 DigiTimes Walsin sees B/B ratio hit 1.8, 2026 capex at NT$4B Chiao Yu-Heng, chairman of Walsin Technology, said the passive component market has improved sharply, with some parts even in short supply, and that order visibility now extends "beyond the end of 2026." The company plans to continue investing in AI-related passive component capacity as demand from AI applications stay AI Read 13 TechAsia Mapping the startups setting the pace in Korea’s AI sector Mapping Korea's AI sector: Key players, top investors, and funding insights in one report. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 11, 2026</title><link href="https://asiatechfeed.com/2026/08/11/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 11, 2026" /><published>2026-08-11T08:00:48+00:00</published><updated>2026-08-11T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/08/11/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/11/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -667,41 +784,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-s-new-qwen-ai-model-falls-short-of-second-only-to-fable-5-claim" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Parliament to discuss Gillman Barracks and Maju Forest housing plans, GovTech layoffs MPs have filed more than 20 questions on the two subjects, along with others on a fatal lightning strike off Pasir Ris Beach and the adoption and impact of AI in Singapore. AI Read 2 TechAsia What Google’s chief scientist says AI teams get wrong Learn why Google's Jeff Dean says automated experiments, efficient hardware, and clear guidelines matter more than model size in AI development. AI Read 3 DigiTimes CXMT closes in on LPDDR6 mass production, challenging Samsung, SK Hynix CXMT is nearing the end of research and development validation for LPDDR6, bringing it closer to mass production of next-generation mobile DRAM and intensifying competition with Samsung Electronics, SK Hynix and Micron. Electronics Read 4 DigiTimes TCL Technology to take full ownership of TCL CSOT TCL Technology Group plans to pay CNY9.32 billion (approx. US$1.38 billion) for the 45% of China Star Optoelectronics Semiconductor Display Technology it does not already own, according to the registration-stage draft of the company's share-issue-and-cash asset purchase report, dated July 2026. The sellers are three Gu SemiconductorElectronics Read 5 DigiTimes MA-tek sells Shanghai unit, expands AI market push in Japan and the US MA-tek announced on July 31, 2026, that it will sell 80% of its Shanghai subsidiary for about CNY1.9 billion (US$281.4 million), as global semiconductor supply chains are reshuffled and demand surges for AI, high-performance computing (HPC), advanced process nodes, advanced packaging, and silicon photonics (SiPh). The SemiconductorAILogistics Read 6 TechAsia Pluang launches limited AI trading beta in Indonesia Pluang said each order is subject to user approval and server-side spending limits. AI Read 7 CNA DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says AI Read 8 TechAsia Malaysia draws AI chip projects as firms rethink Middle East The International Monetary Fund described Malaysia as one of the world’s four largest net exporters of AI-related hardware. AISemiconductor Read 9 EW 1Tb and 512Gb UFS NAND samples available Kioxia is sampling UFS 5.0 NAND in 1 TB and 512 GB capacities and plans mass production by the end of the year. Built on the JEDEC UFS 5.0 standard, […] The post 1Tb and 512Gb UFS NAND samples available appeared first on Electronics Weekly . Electronics Read 10 NikkeiAsia Alibaba's new Qwen AI model falls short of 'second only to Fable 5' claim Alibaba's new Qwen AI model falls short of 'second only to Fable 5' claim AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 02, 2026</title><link href="https://asiatechfeed.com/2026/08/02/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 02, 2026" /><published>2026-08-02T08:00:51+00:00</published><updated>2026-08-02T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/08/02/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/02/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Lawmakers debate wealth-sharing policies as AI-related gains push Taiwan toward K-shaped economy</span></td>
-  <td class="col-summary">Taiwanese electronics companies listed on the stock exchange posted a combined 33.7% increase in pre-tax profits for 2025, outpacing the 12.86% growth for all listed companies, while their employees saw an average pay rise of 10%. However, a survey conducted by the Directorate General of Budget, Accounting and Statisti</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260731PD229/taiwan-economy-electronics-growth.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Pittsburgh, Switzerland experts challenge Taiwan to move beyond robotics hardware</span></td>
-  <td class="col-summary">As AI shifts toward agentic and physical applications, industry observers say competition will no longer hinge on hardware manufacturing alone, but on the ability to integrate hardware and software. At this year's AI WAVE SHOW, foreign experts urged Taiwan to move beyond its role as a hardware supplier and become a key</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260731PD226/hardware-taiwan-robotics-switzerland-competition.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">ESMT posts record second-quarter profit on higher contract memory prices</span></td>
-  <td class="col-summary">Elite Semiconductor Microelectronics Technology (ESMT) reported a record second-quarter 2026 profit as contract prices rose for niche memory products, lifting results sharply from the previous quarter and a year earlier. The Taiwanese chipmaker said net income reached NT$5.908 billion, while earnings per share hit NT$2</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260731PD221/esmt-profit-2026-earnings-niche-memory.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Lawmakers debate wealth-sharing policies as AI-related gains push Taiwan toward K-shaped economy Taiwanese electronics companies listed on the stock exchange posted a combined 33.7% increase in pre-tax profits for 2025, outpacing the 12.86% growth for all listed companies, while their employees saw an average pay rise of 10%. However, a survey conducted by the Directorate General of Budget, Accounting and Statisti Electronics Read 2 DigiTimes Pittsburgh, Switzerland experts challenge Taiwan to move beyond robotics hardware As AI shifts toward agentic and physical applications, industry observers say competition will no longer hinge on hardware manufacturing alone, but on the ability to integrate hardware and software. At this year's AI WAVE SHOW, foreign experts urged Taiwan to move beyond its role as a hardware supplier and become a key AIAutomation Read 3 DigiTimes ESMT posts record second-quarter profit on higher contract memory prices Elite Semiconductor Microelectronics Technology (ESMT) reported a record second-quarter 2026 profit as contract prices rose for niche memory products, lifting results sharply from the previous quarter and a year earlier. The Taiwanese chipmaker said net income reached NT$5.908 billion, while earnings per share hit NT$2 SemiconductorElectronics Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Parliament to discuss Gillman Barracks and Maju Forest housing plans, GovTech layoffs MPs have filed more than 20 questions on the two subjects, along with others on a fatal lightning strike off Pasir Ris Beach and the adoption and impact of AI in Singapore. AI Read 2 TechAsia What Google’s chief scientist says AI teams get wrong Learn why Google's Jeff Dean says automated experiments, efficient hardware, and clear guidelines matter more than model size in AI development. AI Read 3 DigiTimes CXMT closes in on LPDDR6 mass production, challenging Samsung, SK Hynix CXMT is nearing the end of research and development validation for LPDDR6, bringing it closer to mass production of next-generation mobile DRAM and intensifying competition with Samsung Electronics, SK Hynix and Micron. Electronics Read 4 DigiTimes TCL Technology to take full ownership of TCL CSOT TCL Technology Group plans to pay CNY9.32 billion (approx. US$1.38 billion) for the 45% of China Star Optoelectronics Semiconductor Display Technology it does not already own, according to the registration-stage draft of the company's share-issue-and-cash asset purchase report, dated July 2026. The sellers are three Gu SemiconductorElectronics Read 5 DigiTimes MA-tek sells Shanghai unit, expands AI market push in Japan and the US MA-tek announced on July 31, 2026, that it will sell 80% of its Shanghai subsidiary for about CNY1.9 billion (US$281.4 million), as global semiconductor supply chains are reshuffled and demand surges for AI, high-performance computing (HPC), advanced process nodes, advanced packaging, and silicon photonics (SiPh). The SemiconductorAILogistics Read 6 TechAsia Pluang launches limited AI trading beta in Indonesia Pluang said each order is subject to user approval and server-side spending limits. AI Read 7 CNA DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says AI Read 8 TechAsia Malaysia draws AI chip projects as firms rethink Middle East The International Monetary Fund described Malaysia as one of the world’s four largest net exporters of AI-related hardware. AISemiconductor Read 9 EW 1Tb and 512Gb UFS NAND samples available Kioxia is sampling UFS 5.0 NAND in 1 TB and 512 GB capacities and plans mass production by the end of the year. Built on the JEDEC UFS 5.0 standard, […] The post 1Tb and 512Gb UFS NAND samples available appeared first on Electronics Weekly . Electronics Read 10 NikkeiAsia Alibaba's new Qwen AI model falls short of 'second only to Fable 5' claim Alibaba's new Qwen AI model falls short of 'second only to Fable 5' claim AISemiconductor Read]]></summary></entry></feed>
