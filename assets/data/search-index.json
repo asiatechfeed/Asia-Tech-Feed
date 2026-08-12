@@ -1,69 +1,105 @@
 [
   {
     "date": "2026-08-12",
-    "title": "Samsung HBM4 yield nears 80% in push to rival SK Hynix",
-    "summary": "Samsung Electronics' production yield for its sixth-generation high-bandwidth memory, HBM4, has reportedly approached 80%, marking a sharp improvement since mass production began and strengthening its ability to compete with SK Hynix on volume and cost.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260812VL204/samsung-hbm4-sk-hynix-production-dram.html"
-  },
-  {
-    "date": "2026-08-12",
-    "title": "CoreWeave's revenue more than doubles as US$104 billion backlog tests its ability to build fast enough",
-    "summary": "CoreWeave's second-quarter results showed the AI cloud provider converting demand into revenue faster, even as its widening net loss and ballooning capital spending underline the central question hanging over the \"neocloud\" sector: whether infrastructure can be built out quickly enough to keep pace with contracted dema",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260812VL202/coreweave-capacity-infrastructure-revenue-demand.html"
-  },
-  {
-    "date": "2026-08-12",
-    "title": "Super Micro beats estimates on AI server demand",
-    "summary": "Super Micro ended June with US$7.5 billion in cash and cash equivalents and US$8.7 billion in bank debt and convertible notes.",
+    "title": "Israeli VC firm Team8 Capital closes $265m fund for AI",
+    "summary": "Team8 said the fund will back seed and series A software startups in cybersecurity, software infrastructure and AI, fintech, and digital health.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/super-micro-internal-probe-alleged-chip-diversion"
+    "url": "https://www.techinasia.com/palo-alto-eyes-400m-acquisition-of-israeli-startup-koi"
   },
   {
     "date": "2026-08-12",
-    "title": "IBM signs $240m deal with cloud startup Together AI",
-    "summary": "Together AI says its platform supports more than 200 open-source models.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "AMD Launches Helios™: The Highest Performing Rackscale AI Infrastructure Solution",
+    "summary": "AMD Helios is a co-designed rack-scale AI factory platform with 5th Gen AMD Instinct MI455X GPUs and 6th Gen EPYC 9006 CPUs, delivering up to 34x token throughput, 18x lower token cost, and 15% more AI compute than NVIDIA Vera Rubin NVL72—purpose-built for frontier inference, training, and open AI infrastructure. The p",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/ibm-metas-ai-alliance-launches-indonesia"
+    "url": "https://www.eetasia.com/embeddedblog-amd-launches-helios-the-highest-performing-rackscale-ai-infrastructure-solution/"
   },
   {
     "date": "2026-08-12",
-    "title": "Supermicro's margin rebound and bullish outlook ease investor doubts on AI server orders",
-    "summary": "Supermicro posted a sharp gross-margin recovery and issued fiscal 2027 revenue guidance well above Wall Street's expectations, addressing investor concerns that had built around whether the server maker's swelling AI order backlog could actually convert into profit.",
+    "title": "US chipmaker Lam Research expands AI jobs in Singapore",
+    "summary": "Nearly 90% of the jobs in specialized engineering and technical areas tied to AI-driven chip demand.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/sk-hynix-plans-12-9b-chip-plant-to-meet-ai-chip-demand"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "Sercomm expands beyond broadband into 5G, edge AI and IoT as 2Q26 revenue hits record high",
+    "summary": "Taiwan's Sercomm Corporation is repositioning itself for the next phase of network infrastructure demand by expanding beyond traditional broadband equipment into 5G, fixed wireless access (FWA), enterprise networking and IoT connectivity, areas expected to benefit from rising data traffic and AI-driven digitalization.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260812VL200/supermicro-outlook-2027-revenue-recovery.html"
+    "url": "https://www.digitimes.com/news/a20260812PD236/sercomm-5g-broadband-revenue-taiwan.html"
   },
   {
     "date": "2026-08-12",
-    "title": "General Catalyst leads $1.1b round for US startup River AI",
-    "summary": "Its CEO previously held AI roles at DeepMind and OpenAI.",
+    "title": "Nvidia reportedly planning trillion-parameter Nemotron 4 in open-source push",
+    "summary": "Nvidia is intensifying its open-source strategy through its upcoming trillion-parameter model in the Nemotron 4 family, which is meant to compete with the world's leading open-source models, according to The Information . While this may put it in the awkward position of vying against its customers, the chipmaker's advo",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260812VL221/nvidia-openai-sales-competition.html"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "CXMT DDR5 yield tops 90%, narrowing gap with Samsung",
+    "summary": "China's leading DRAM maker CXMT has reportedly raised its DDR5 production yield above 90%, narrowing the gap with Samsung Electronics and strengthening its position in the global PC memory supply chain.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260812PD226/cxmt-samsung-ddr5-dram-pc.html"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "Alibaba Cloud launches AI supernode for enterprises",
+    "summary": "The first batch of instances is available in Alibaba Cloud’s Ulanqab region.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/indian-ai-agent-startup-revrag-acquires-genai-infra-firm"
+    "url": "https://www.techinasia.com/alibabas-cloud-revenue-jumps-40-ai-demand"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "Agentic AI: AMD EPYC™ 9005 Leads Today, EPYC 9006 “Venice” Sets a New Standard",
+    "summary": "6th Gen AMD EPYC 9006 Series (“Venice”) server CPUs deliver up to 256 Zen 6 cores, DDR5/MRDIMM, and PCIe Gen6 for agentic AI infrastructure, accelerating CPU-centric orchestration, retrieval, tool execution, and verification across cloud, HPC, and enterprise AI pipelines—building on EPYC 9005 leadership. The post Agent",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/embeddedblog-agentic-ai-amd-epyc-9005-leads-today-epyc-9006-venice-sets-a-new-standard/"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "Compal Boosting System Production Capacity with New Daxi AI Server Manufacturing Center",
+    "summary": "Compal is expanding AI server and rack manufacturing in Taiwan as demand for high-density computing infrastructure accelerates. The post Compal Boosting System Production Capacity with New Daxi AI Server Manufacturing Center appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/compal-boosting-system-production-capacity-with-new-daxi-ai-server-manufacturing-center/"
   },
   {
     "date": "2026-08-11",
