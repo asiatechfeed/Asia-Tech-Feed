@@ -1,39 +1,39 @@
 {
-  "date": "2026-08-11",
-  "count": 11,
+  "date": "2026-08-12",
+  "count": 13,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "NikkeiAsia",
+    "EW",
     "TechAsia"
   ],
-  "post_file": "2026-08-11-asia-tech-news-digest.md",
+  "post_file": "2026-08-12-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Inflexor Ventures leads $1.6m round for Indian medtech firm",
+      "title": "Meta to unwind $2b Manus AI deal on China order",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+      "url": "https://www.techinasia.com/china-blocks-metas-manus-acquisition"
     },
     {
-      "title": "TSMC nears AI packaging demand after years of doubling capacity:'CoWoS guy' Jun He",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260811VL213/tsmc-cowos-capacity-packaging-demand.html"
-    },
-    {
-      "title": "Microsoft seeks expanded Maia 300 production to tap into demand for cheaper compute",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260811VL211/microsoft-chips-production-demand-nvidia.html"
-    },
-    {
-      "title": "Taiwan's AI server supply chain posts record July as growth spreads down the component tier",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260811VL212/demand-ai-server-growth-component-supply-chain.html"
-    },
-    {
-      "title": "Australia and Vietnam deepen strategic partnership",
+      "title": "Japan business mood rises as semiconductor boom lifts manufacturers: Reuters poll",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/australia-vietnam-strategic-partnership-lam-anthony-albanese-6310891"
+      "url": "https://www.channelnewsasia.com/business/japan-business-mood-rises-semiconductor-boom-lifts-manufacturers-reuters-poll-6313211"
+    },
+    {
+      "title": "Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/ryanair-signs-five-year-google-cloud-deal-expands-use-ai-in-airline-operations-6313206"
+    },
+    {
+      "title": "Commentary: AI will affect your social life, even if you've never used it",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/ai-chatgpt-tips-how-people-use-lives-friends-dates-6311856"
+    },
+    {
+      "title": "TDK vibration-resistant axial capacitors for 125 V",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/news/products/passives/tdk-vibration-resistant-axial-capacitors-for-125-v-2026-08/"
     }
   ],
   "source_stats": [
@@ -50,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -131,9 +131,9 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -157,8 +157,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 60,
-      "relevant": 50,
+      "fetched": 67,
+      "relevant": 57,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +169,7 @@
       "fetched": 50,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null

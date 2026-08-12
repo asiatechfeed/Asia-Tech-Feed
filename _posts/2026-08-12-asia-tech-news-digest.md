@@ -1,0 +1,133 @@
+---
+layout: post
+title: "Asia Tech News Digest - August 12, 2026"
+date: 2026-08-12 08:02:35 +0800
+articles_count: 13
+sources_count: 5
+sources: ["CNA", "DigiTimes", "EETAsia", "EW", "TechAsia"]
+csv_file: /assets/data/news-2026-08-12.tsv
+featured_title: "Meta to unwind $2b Manus AI deal on China order"
+featured_url: "https://www.techinasia.com/china-blocks-metas-manus-acquisition"
+featured_source: "TechAsia"
+featured_summary: "Some users must back up data created since December 29, 2025."
+featured_image: ""
+---
+
+<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Meta to unwind $2b Manus AI deal on China order</span></td>
+  <td class="col-summary">Some users must back up data created since December 29, 2025.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/china-blocks-metas-manus-acquisition" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Japan business mood rises as semiconductor boom lifts manufacturers: Reuters poll</span></td>
+  <td class="col-summary">Japan business mood rises as semiconductor boom lifts manufacturers: Reuters poll</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/japan-business-mood-rises-semiconductor-boom-lifts-manufacturers-reuters-poll-6313211" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations</span></td>
+  <td class="col-summary">Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/ryanair-signs-five-year-google-cloud-deal-expands-use-ai-in-airline-operations-6313206" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: AI will affect your social life, even if you've never used it</span></td>
+  <td class="col-summary">AI has become a kind of social sealant, filling the gaps in young people’s relationships, says Alice Lassman for the New York Times.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/ai-chatgpt-tips-how-people-use-lives-friends-dates-6311856" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">EW</span></td>
+  <td class="col-title"><span class="article-title">TDK vibration-resistant axial capacitors for 125 V</span></td>
+  <td class="col-summary">Addressing what it sees as increasing demand for compact and high-ripple-current DC-link capacitor banks, TDK is expanding its axial/soldering star-aluminium electrolytic capacitor lineup. This is both adding 125 V-rated components […] The post TDK vibration-resistant axial capacitors for 125 V appeared first on Electr</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/products/passives/tdk-vibration-resistant-axial-capacitors-for-125-v-2026-08/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">AAI 2026: AMD Brings Personal AI Compute Closer to Users</span></td>
+  <td class="col-summary">AMD Ryzen AI agentic PCs bring local inference for 200B+ param models via Ryzen AI Halo, expanded Hugging Face model support, and Cisco enterprise security — purpose-built for privacy, responsiveness, and multi-agent workflows on the client. The post AAI 2026: AMD Brings Personal AI Compute Closer to Users appeared fir</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddednews-aai-2026-amd-brings-personal-ai-compute-closer-to-users/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">TSMC commits JPY282 billion to Sony sensor JV as AI demand outruns Sony's 40nm process</span></td>
+  <td class="col-summary">TSMC and Sony Semiconductor Solutions have signed a legally binding definitive agreement to establish Advanced Vision Semiconductor Manufacturing Corporation, a joint venture in Koshi City, Kumamoto Prefecture, Japan, that will develop and volume-produce next-generation smartphone image sensors on advanced process tech</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260811VL214/tsmc-sony-production-sensor-technology.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">AAI 2026: AMD ROCm.ai Accelerates AI Development Across AMD Platforms</span></td>
+  <td class="col-summary">AMD ROCm.ai brings AI-native development to AMD platforms via ROCm CLI, AMD Skills for Claude/Cursor/Codex, and Hyperloom agentic optimization — streamlining install, deploy, debug, and inference tuning with up to 3.3x inference gains. The post AAI 2026: AMD ROCm.ai Accelerates AI Development Across AMD Platforms appea</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddednews-aai-2026-amd-rocm-ai-accelerates-ai-development-across-amd-platforms/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">AAI 2026: AMD Delivers Leadership Heterogeneous Compute for Physical AI</span></td>
+  <td class="col-summary">AMD Ryzen AI Embedded X100 Series packs up to 16 Zen 5 cores, discrete-class iGPU and NPU with unified memory — engineered for physical AI, real-time robotics control, and industrial-grade embedded deployments. The post AAI 2026: AMD Delivers Leadership Heterogeneous Compute for Physical AI appeared first on EE Times A</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddednews-aai-2026-amd-delivers-leadership-heterogeneous-compute-for-physical-ai/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">US AI lab Pathway unveils cheaper model performance</span></td>
+  <td class="col-summary">Pathway said OpenAI's GPT-5.6 Luna (Low) scored 34.2% on the same test.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/saas-playbook-killing-ai-startup" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">EOC turns profitable in 1H26 as optical communications demand rebounds</span></td>
+  <td class="col-summary">East Tender Optoelectronics (EOC) reported a swing to profit in the first half of 2026, driven by an improved product mix, better capacity utilization, and a rebound in optical communications demand. The company indicated that demand for optical communications continues to strengthen, with operating momentum broadening</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260811PD236/demand-communications-profit-capacity-2026.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Walsin sees B/B ratio hit 1.8, 2026 capex at NT$4B</span></td>
+  <td class="col-summary">Chiao Yu-Heng, chairman of Walsin Technology, said the passive component market has improved sharply, with some parts even in short supply, and that order visibility now extends "beyond the end of 2026." The company plans to continue investing in AI-related passive component capacity as demand from AI applications stay</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260811PD231/2026-chairman-passive-walsin-market.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">13</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Mapping the startups setting the pace in Korea’s AI sector</span></td>
+  <td class="col-summary">Mapping Korea's AI sector: Key players, top investors, and funding insights in one report.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>
