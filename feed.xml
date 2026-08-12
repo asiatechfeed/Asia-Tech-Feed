@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-12T00:03:51+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 12, 2026</title><link href="https://asiatechfeed.com/2026/08/12/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 12, 2026" /><published>2026-08-12T00:02:35+00:00</published><updated>2026-08-12T00:02:35+00:00</updated><id>https://asiatechfeed.com/2026/08/12/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/12/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-12T02:31:43+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 12, 2026</title><link href="https://asiatechfeed.com/2026/08/12/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 12, 2026" /><published>2026-08-12T02:30:34+00:00</published><updated>2026-08-12T02:30:34+00:00</updated><id>https://asiatechfeed.com/2026/08/12/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/12/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,110 +12,54 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Meta to unwind $2b Manus AI deal on China order</span></td>
-  <td class="col-summary">Some users must back up data created since December 29, 2025.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/china-blocks-metas-manus-acquisition" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Samsung HBM4 yield nears 80% in push to rival SK Hynix</span></td>
+  <td class="col-summary">Samsung Electronics' production yield for its sixth-generation high-bandwidth memory, HBM4, has reportedly approached 80%, marking a sharp improvement since mass production began and strengthening its ability to compete with SK Hynix on volume and cost.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260812VL204/samsung-hbm4-sk-hynix-production-dram.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Japan business mood rises as semiconductor boom lifts manufacturers: Reuters poll</span></td>
-  <td class="col-summary">Japan business mood rises as semiconductor boom lifts manufacturers: Reuters poll</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/japan-business-mood-rises-semiconductor-boom-lifts-manufacturers-reuters-poll-6313211" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">CoreWeave's revenue more than doubles as US$104 billion backlog tests its ability to build fast enough</span></td>
+  <td class="col-summary">CoreWeave's second-quarter results showed the AI cloud provider converting demand into revenue faster, even as its widening net loss and ballooning capital spending underline the central question hanging over the "neocloud" sector: whether infrastructure can be built out quickly enough to keep pace with contracted dema</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260812VL202/coreweave-capacity-infrastructure-revenue-demand.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations</span></td>
-  <td class="col-summary">Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Super Micro beats estimates on AI server demand</span></td>
+  <td class="col-summary">Super Micro ended June with US$7.5 billion in cash and cash equivalents and US$8.7 billion in bank debt and convertible notes.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/ryanair-signs-five-year-google-cloud-deal-expands-use-ai-in-airline-operations-6313206" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/super-micro-internal-probe-alleged-chip-diversion" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: AI will affect your social life, even if you've never used it</span></td>
-  <td class="col-summary">AI has become a kind of social sealant, filling the gaps in young people’s relationships, says Alice Lassman for the New York Times.</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">IBM signs $240m deal with cloud startup Together AI</span></td>
+  <td class="col-summary">Together AI says its platform supports more than 200 open-source models.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/ai-chatgpt-tips-how-people-use-lives-friends-dates-6311856" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ibm-metas-ai-alliance-launches-indonesia" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">TDK vibration-resistant axial capacitors for 125 V</span></td>
-  <td class="col-summary">Addressing what it sees as increasing demand for compact and high-ripple-current DC-link capacitor banks, TDK is expanding its axial/soldering star-aluminium electrolytic capacitor lineup. This is both adding 125 V-rated components […] The post TDK vibration-resistant axial capacitors for 125 V appeared first on Electr</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/products/passives/tdk-vibration-resistant-axial-capacitors-for-125-v-2026-08/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Supermicro's margin rebound and bullish outlook ease investor doubts on AI server orders</span></td>
+  <td class="col-summary">Supermicro posted a sharp gross-margin recovery and issued fiscal 2027 revenue guidance well above Wall Street's expectations, addressing investor concerns that had built around whether the server maker's swelling AI order backlog could actually convert into profit.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260812VL200/supermicro-outlook-2027-revenue-recovery.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">AAI 2026: AMD Brings Personal AI Compute Closer to Users</span></td>
-  <td class="col-summary">AMD Ryzen AI agentic PCs bring local inference for 200B+ param models via Ryzen AI Halo, expanded Hugging Face model support, and Cisco enterprise security — purpose-built for privacy, responsiveness, and multi-agent workflows on the client. The post AAI 2026: AMD Brings Personal AI Compute Closer to Users appeared fir</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddednews-aai-2026-amd-brings-personal-ai-compute-closer-to-users/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TSMC commits JPY282 billion to Sony sensor JV as AI demand outruns Sony's 40nm process</span></td>
-  <td class="col-summary">TSMC and Sony Semiconductor Solutions have signed a legally binding definitive agreement to establish Advanced Vision Semiconductor Manufacturing Corporation, a joint venture in Koshi City, Kumamoto Prefecture, Japan, that will develop and volume-produce next-generation smartphone image sensors on advanced process tech</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260811VL214/tsmc-sony-production-sensor-technology.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">AAI 2026: AMD ROCm.ai Accelerates AI Development Across AMD Platforms</span></td>
-  <td class="col-summary">AMD ROCm.ai brings AI-native development to AMD platforms via ROCm CLI, AMD Skills for Claude/Cursor/Codex, and Hyperloom agentic optimization — streamlining install, deploy, debug, and inference tuning with up to 3.3x inference gains. The post AAI 2026: AMD ROCm.ai Accelerates AI Development Across AMD Platforms appea</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddednews-aai-2026-amd-rocm-ai-accelerates-ai-development-across-amd-platforms/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">AAI 2026: AMD Delivers Leadership Heterogeneous Compute for Physical AI</span></td>
-  <td class="col-summary">AMD Ryzen AI Embedded X100 Series packs up to 16 Zen 5 cores, discrete-class iGPU and NPU with unified memory — engineered for physical AI, real-time robotics control, and industrial-grade embedded deployments. The post AAI 2026: AMD Delivers Leadership Heterogeneous Compute for Physical AI appeared first on EE Times A</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddednews-aai-2026-amd-delivers-leadership-heterogeneous-compute-for-physical-ai/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">US AI lab Pathway unveils cheaper model performance</span></td>
-  <td class="col-summary">Pathway said OpenAI's GPT-5.6 Luna (Low) scored 34.2% on the same test.</td>
+  <td class="col-title"><span class="article-title">General Catalyst leads $1.1b round for US startup River AI</span></td>
+  <td class="col-summary">Its CEO previously held AI roles at DeepMind and OpenAI.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/saas-playbook-killing-ai-startup" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">EOC turns profitable in 1H26 as optical communications demand rebounds</span></td>
-  <td class="col-summary">East Tender Optoelectronics (EOC) reported a swing to profit in the first half of 2026, driven by an improved product mix, better capacity utilization, and a rebound in optical communications demand. The company indicated that demand for optical communications continues to strengthen, with operating momentum broadening</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260811PD236/demand-communications-profit-capacity-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Walsin sees B/B ratio hit 1.8, 2026 capex at NT$4B</span></td>
-  <td class="col-summary">Chiao Yu-Heng, chairman of Walsin Technology, said the passive component market has improved sharply, with some parts even in short supply, and that order visibility now extends "beyond the end of 2026." The company plans to continue investing in AI-related passive component capacity as demand from AI applications stay</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260811PD231/2026-chairman-passive-walsin-market.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">13</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Mapping the startups setting the pace in Korea’s AI sector</span></td>
-  <td class="col-summary">Mapping Korea's AI sector: Key players, top investors, and funding insights in one report.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/indian-ai-agent-startup-revrag-acquires-genai-infra-firm" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Meta to unwind $2b Manus AI deal on China order Some users must back up data created since December 29, 2025. AI Read 2 CNA Japan business mood rises as semiconductor boom lifts manufacturers: Reuters poll Japan business mood rises as semiconductor boom lifts manufacturers: Reuters poll Semiconductor Read 3 CNA Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations AI Read 4 CNA Commentary: AI will affect your social life, even if you've never used it AI has become a kind of social sealant, filling the gaps in young people’s relationships, says Alice Lassman for the New York Times. AI Read 5 EW TDK vibration-resistant axial capacitors for 125 V Addressing what it sees as increasing demand for compact and high-ripple-current DC-link capacitor banks, TDK is expanding its axial/soldering star-aluminium electrolytic capacitor lineup. This is both adding 125 V-rated components […] The post TDK vibration-resistant axial capacitors for 125 V appeared first on Electr Electronics Read 6 EETAsia AAI 2026: AMD Brings Personal AI Compute Closer to Users AMD Ryzen AI agentic PCs bring local inference for 200B+ param models via Ryzen AI Halo, expanded Hugging Face model support, and Cisco enterprise security — purpose-built for privacy, responsiveness, and multi-agent workflows on the client. The post AAI 2026: AMD Brings Personal AI Compute Closer to Users appeared fir AI Read 7 DigiTimes TSMC commits JPY282 billion to Sony sensor JV as AI demand outruns Sony's 40nm process TSMC and Sony Semiconductor Solutions have signed a legally binding definitive agreement to establish Advanced Vision Semiconductor Manufacturing Corporation, a joint venture in Koshi City, Kumamoto Prefecture, Japan, that will develop and volume-produce next-generation smartphone image sensors on advanced process tech SemiconductorAI Read 8 EETAsia AAI 2026: AMD ROCm.ai Accelerates AI Development Across AMD Platforms AMD ROCm.ai brings AI-native development to AMD platforms via ROCm CLI, AMD Skills for Claude/Cursor/Codex, and Hyperloom agentic optimization — streamlining install, deploy, debug, and inference tuning with up to 3.3x inference gains. The post AAI 2026: AMD ROCm.ai Accelerates AI Development Across AMD Platforms appea AI Read 9 EETAsia AAI 2026: AMD Delivers Leadership Heterogeneous Compute for Physical AI AMD Ryzen AI Embedded X100 Series packs up to 16 Zen 5 cores, discrete-class iGPU and NPU with unified memory — engineered for physical AI, real-time robotics control, and industrial-grade embedded deployments. The post AAI 2026: AMD Delivers Leadership Heterogeneous Compute for Physical AI appeared first on EE Times A AIAutomation Read 10 TechAsia US AI lab Pathway unveils cheaper model performance Pathway said OpenAI's GPT-5.6 Luna (Low) scored 34.2% on the same test. AI Read 11 DigiTimes EOC turns profitable in 1H26 as optical communications demand rebounds East Tender Optoelectronics (EOC) reported a swing to profit in the first half of 2026, driven by an improved product mix, better capacity utilization, and a rebound in optical communications demand. The company indicated that demand for optical communications continues to strengthen, with operating momentum broadening Electronics Read 12 DigiTimes Walsin sees B/B ratio hit 1.8, 2026 capex at NT$4B Chiao Yu-Heng, chairman of Walsin Technology, said the passive component market has improved sharply, with some parts even in short supply, and that order visibility now extends "beyond the end of 2026." The company plans to continue investing in AI-related passive component capacity as demand from AI applications stay AI Read 13 TechAsia Mapping the startups setting the pace in Korea’s AI sector Mapping Korea's AI sector: Key players, top investors, and funding insights in one report. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 11, 2026</title><link href="https://asiatechfeed.com/2026/08/11/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 11, 2026" /><published>2026-08-11T08:00:48+00:00</published><updated>2026-08-11T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/08/11/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/11/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Samsung HBM4 yield nears 80% in push to rival SK Hynix Samsung Electronics' production yield for its sixth-generation high-bandwidth memory, HBM4, has reportedly approached 80%, marking a sharp improvement since mass production began and strengthening its ability to compete with SK Hynix on volume and cost. Electronics Read 2 DigiTimes CoreWeave's revenue more than doubles as US$104 billion backlog tests its ability to build fast enough CoreWeave's second-quarter results showed the AI cloud provider converting demand into revenue faster, even as its widening net loss and ballooning capital spending underline the central question hanging over the "neocloud" sector: whether infrastructure can be built out quickly enough to keep pace with contracted dema AI Read 3 TechAsia Super Micro beats estimates on AI server demand Super Micro ended June with US$7.5 billion in cash and cash equivalents and US$8.7 billion in bank debt and convertible notes. AI Read 4 TechAsia IBM signs $240m deal with cloud startup Together AI Together AI says its platform supports more than 200 open-source models. AI Read 5 DigiTimes Supermicro's margin rebound and bullish outlook ease investor doubts on AI server orders Supermicro posted a sharp gross-margin recovery and issued fiscal 2027 revenue guidance well above Wall Street's expectations, addressing investor concerns that had built around whether the server maker's swelling AI order backlog could actually convert into profit. AI Read 6 TechAsia General Catalyst leads $1.1b round for US startup River AI Its CEO previously held AI roles at DeepMind and OpenAI. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 11, 2026</title><link href="https://asiatechfeed.com/2026/08/11/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 11, 2026" /><published>2026-08-11T08:00:48+00:00</published><updated>2026-08-11T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/08/11/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/11/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
