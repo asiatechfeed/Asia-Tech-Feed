@@ -1,36 +1,37 @@
 {
   "date": "2026-08-12",
-  "count": 6,
+  "count": 9,
   "sources": [
     "DigiTimes",
+    "EETAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-12-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Samsung HBM4 yield nears 80% in push to rival SK Hynix",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260812VL204/samsung-hbm4-sk-hynix-production-dram.html"
-    },
-    {
-      "title": "CoreWeave's revenue more than doubles as US$104 billion backlog tests its ability to build fast enough",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260812VL202/coreweave-capacity-infrastructure-revenue-demand.html"
-    },
-    {
-      "title": "Super Micro beats estimates on AI server demand",
+      "title": "Israeli VC firm Team8 Capital closes $265m fund for AI",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/super-micro-internal-probe-alleged-chip-diversion"
+      "url": "https://www.techinasia.com/palo-alto-eyes-400m-acquisition-of-israeli-startup-koi"
     },
     {
-      "title": "IBM signs $240m deal with cloud startup Together AI",
+      "title": "AMD Launches Helios\u2122: The Highest Performing Rackscale AI Infrastructure Solution",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/embeddedblog-amd-launches-helios-the-highest-performing-rackscale-ai-infrastructure-solution/"
+    },
+    {
+      "title": "US chipmaker Lam Research expands AI jobs in Singapore",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/ibm-metas-ai-alliance-launches-indonesia"
+      "url": "https://www.techinasia.com/sk-hynix-plans-12-9b-chip-plant-to-meet-ai-chip-demand"
     },
     {
-      "title": "Supermicro's margin rebound and bullish outlook ease investor doubts on AI server orders",
+      "title": "Sercomm expands beyond broadband into 5G, edge AI and IoT as 2Q26 revenue hits record high",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260812VL200/supermicro-outlook-2027-revenue-recovery.html"
+      "url": "https://www.digitimes.com/news/a20260812PD236/sercomm-5g-broadband-revenue-taiwan.html"
+    },
+    {
+      "title": "Nvidia reportedly planning trillion-parameter Nemotron 4 in open-source push",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260812VL221/nvidia-openai-sales-competition.html"
     }
   ],
   "source_stats": [
@@ -47,7 +48,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -146,16 +147,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 31,
+      "fetched": 68,
+      "relevant": 56,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -191,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
