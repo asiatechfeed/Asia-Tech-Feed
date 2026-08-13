@@ -1,39 +1,39 @@
 {
   "date": "2026-08-13",
-  "count": 12,
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
+    "EW",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-13-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Lam Research to Add 200 Singapore Roles as Advanced Chipmaking Demand Grows",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/lam-research-to-add-200-singapore-roles-as-advanced-chipmaking-demand-grows/"
-    },
-    {
-      "title": "Samsung to expand 2026 TV LCD buys from BOE as TCL orders drop",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260813PD212/samsung-tv-tcl-2026-lcd.html"
-    },
-    {
-      "title": "Mapping the AI startups making waves in Japan",
+      "title": "Y Combinator CEO: Corporate friction helps AI startups win",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/visual-story/mapping-japans-leading-ai-startups"
+      "url": "https://www.techinasia.com/why-slow-companies-are-a-gift-to-startups"
     },
     {
-      "title": "Server-led eSSDs Hit 48% of NAND Shipments",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/server-led-essds-hit-48-of-nand-shipments/"
+      "title": "OpenClaw founder on why going viral can break an AI startup",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/only-0-3-of-his-ai-skills-were-actually-malicious"
     },
     {
-      "title": "Lenovo Capital backs Niobium Optoelectronics in Series B funding for TFLN chips",
+      "title": "Speeding up quantum chip fabrication with new lithography",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/speeding-quantum-chip-fabrication-lithography"
+    },
+    {
+      "title": "Alphabet's DeepMind shake-up caps months of AI stumbles",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260813PD209/lenovo-thin-film-chips-funding-lithium.html"
+      "url": "https://www.digitimes.com/news/a20260813VL203/alphabet-deepmind-google-gemini-anthropic.html"
+    },
+    {
+      "title": "AI inference surge lifts NAND market to record revenue: Counterpoint",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260813PR200/nand-market-revenue-2026-demand.html"
     }
   ],
   "source_stats": [
@@ -50,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -131,9 +131,9 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -151,14 +151,14 @@
       "fetched": 10,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 25,
+      "fetched": 48,
+      "relevant": 36,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +169,7 @@
       "fetched": 50,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
