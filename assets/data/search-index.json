@@ -1,5 +1,149 @@
 [
   {
+    "date": "2026-08-13",
+    "title": "Lisa Su Puts Rack-scale AI at Center of AMD’s Next Growth Phase",
+    "summary": "AMD CEO Lisa Su outlined a full-stack AI strategy spanning GPUs, CPUs, networking, software, and rack-scale systems for agentic workloads. The post Lisa Su Puts Rack-scale AI at Center of AMD’s Next Growth Phase appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/lisa-su-puts-rack-scale-ai-at-center-of-amds-next-growth-phase/"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Cisco forecasts annual revenue above estimates on sustained AI spending",
+    "summary": "Cisco forecasts annual revenue above estimates on sustained AI spending",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/cisco-forecasts-annual-revenue-above-estimates-sustained-ai-spending-6315791"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Foxconn's profit growth outpaces capex; no equity raise planned for 2027 buildout",
+    "summary": "Foxconn told investors on August 12 that its earnings are now growing faster than the spending required to expand AI server capacity — and that it can fund a bigger 2027 buildout without issuing new shares.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260812PD247/foxconn-2027-capex-growth-earnings.html"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Testing and Metrology Emerge as a New Front in the AI Race",
+    "summary": "SEMI and industry highlight collaboration on dedicated policies, talent development programs, and advanced testing infrastructure. The post Testing and Metrology Emerge as a New Front in the AI Race appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/testing-and-metrology-emerge-as-a-new-front-in-the-ai-race/"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Chinese AI startup ModelBest starts pre-IPO process",
+    "summary": "In mainland China, pre-IPO tutoring is a mandatory stage before a company can formally file for an IPO.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/chinese-ai-firm-modelbest-unicorn-raising-146m"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Column: AI jailbreak incident highlights fresh demand for supply-chain resilience",
+    "summary": "In July, an OpenAI AI agent model successfully bypassed safety restrictions during internal testing and even launched an automated cyberattack against Hugging Face, the world's largest open-source AI community platform, drawing intense attention. The incident, seen as the first publicly disclosed case of \"AI attacking ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260812PD216/ai-cybersecurity-governance-openai.html"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "OCP APAC 2026: Google says 48V hits wall as AI racks head toward megawatt scale",
+    "summary": "Google used its keynote at the OCP APAC Summit in Taipei on August 11 to argue that the 48V power architecture widely used in data centers is running out of headroom as AI racks move toward megawatt-scale designs, with converters and busbars taking up an increasing share of rack space as current rises. The summit is be",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260812VL228/google-data-center-power-supply-cooling-ocp-2026-tpu.html"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "7 Takeaways from AMD Advancing AI 2026 to Guide Your 2027 Infrastructure Plan",
+    "summary": "AMD Advancing AI 2026 showed agentic AI changes infrastructure math—plan CPU (EPYC 9006) before GPU, buy by scenario (MI455X/MI430X/MI350P), procure by rack (Helios, 72 GPUs, +30% tokens/$), lean on ROCm.ai, govern with AT&T/Cisco patterns, and add Physical AI (Kria) to the 2027 roadmap. The post 7 Takeaways from AMD A",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/embeddedblog-7-takeaways-from-amd-advancing-ai-2026-to-guide-your-2027-infrastructure-plan/"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Foxconn 2nd-quarter net profit rises 35% on AI demand",
+    "summary": "The profit increase came off a high base, as Foxconn had previously said the year-earlier quarter was a record for a second quarter.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/foxconn-sees-ai-demand-driving-growth-in-2026"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "US AI startup Cognition eyes $1b raise at $40b valuation",
+    "summary": "Founded in 2023, Cognition says banks and automakers use its Devin coding agent.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/us-ai-coding-startup-cognition-raises-over-1b"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Sony, TSMC deal brings overseas investment in Japan chipmaking to $37bn",
+    "summary": "Sony, TSMC deal brings overseas investment in Japan chipmaking to $37bn",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/sony-tsmc-deal-brings-overseas-investment-in-japan-chipmaking-to-37bn"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Japan dividends heading to record high on chip, AI gains",
+    "summary": "Japan dividends heading to record high on chip, AI gains",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/markets/equities/japan-dividends-heading-to-record-high-on-chip-ai-gains"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Japan margin trading doubles in 6 months, lifted by pricey AI stocks",
+    "summary": "Japan margin trading doubles in 6 months, lifted by pricey AI stocks",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/markets/equities/japan-margin-trading-doubles-in-6-months-lifted-by-pricey-ai-stocks"
+  },
+  {
     "date": "2026-08-12",
     "title": "Israeli VC firm Team8 Capital closes $265m fund for AI",
     "summary": "Team8 said the fund will back seed and series A software startups in cybersecurity, software infrastructure and AI, fintech, and digital health.",
