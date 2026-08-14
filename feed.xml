@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-14T00:03:51+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 14, 2026</title><link href="https://asiatechfeed.com/2026/08/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 14, 2026" /><published>2026-08-14T00:03:09+00:00</published><updated>2026-08-14T00:03:09+00:00</updated><id>https://asiatechfeed.com/2026/08/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-14T02:31:03+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 14, 2026</title><link href="https://asiatechfeed.com/2026/08/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 14, 2026" /><published>2026-08-14T02:30:21+00:00</published><updated>2026-08-14T02:30:21+00:00</updated><id>https://asiatechfeed.com/2026/08/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,102 +12,94 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Nvidia, Indosat launch Gadjah Mada AI center</span></td>
-  <td class="col-summary">The center is part of the national AI Center of Excellence, led by the ministry under Indonesia's Golden 2045 Vision as a sovereign AI and skills-building program.</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Fresh tech grads worry AI raising bar for entry-level jobs, as employers demand more skills</span></td>
+  <td class="col-summary">Employers are increasingly looking for entry-level hires who can solve business problems and apply their technical knowledge to real-world scenarios, while working faster, more efficiently and independently.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-kaist-to-invest-300m-in-ai-research-center" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/graduates-artificial-intelligence-jobs-employment-6311826" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">50 rising AI startups in Asia</span></td>
-  <td class="col-summary">These AI startups have a shot at becoming the next big thing.</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Alibaba Cloud launches Zhenwu M890 supernode for commercial use</span></td>
+  <td class="col-summary">Alibaba Cloud has begun commercial service for its Zhenwu M890 supernode in Ulanqab, Inner Mongolia, giving global customers an early look at how AI infrastructure is shifting toward larger, faster, and more tightly connected systems. The launch could influence future cloud costs, model access, and enterprise AI deploy</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/50-rising-ai-startups-in-asia" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260814PD207/alibaba-cloud-commercial-chips-launch.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">China's video AI dominance paves the way for world model boom</span></td>
-  <td class="col-summary">Chinese AI video-generation models are taking the world by storm. This competitive edge is not only disrupting Hollywood, but could also extend into the realm of "world models."</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260812PD220/data-robotics-alibaba-startup-tsinghua-university.html?chid=10" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">China PCB makers pour billions into AI server, HPC, optical markets</span></td>
+  <td class="col-summary">Chinese printed circuit board (PCB) makers are stepping up investment in higher-value markets including AI servers, high-performance computing (HPC) and optical communications. Following similar expansion in semiconductors and display panels, Chinese companies are rapidly adding PCB capacity as they seek to catch up wi</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260814PD211/hpc-pcb-optical-communications-investment-capacity.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan Microloops posts record July revenue as AI cooling demand lifts second-half outlook</span></td>
-  <td class="col-summary">Taiwan Microloops reported stronger second-quarter and first-half 2026 results, supported by rising shipments of cooling modules for AI server customers. The Taiwan-based supplier said the improvement came as new-model products began shipping to a major cloud service provider customer in the second quarter, helping mar</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">What universities can offer in the age of AI</span></td>
+  <td class="col-summary">Taylor’s University is rethinking how artificial intelligence prepares graduates to apply knowledge, exercise judgment and adapt to constant change.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260812PD240/asia-revenue-cooling-demand-2026.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/advertorial/what-universities-can-offer-in-age-ai-6282021" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Kaori Heat Treatment to invest NT$3 billion in Taiwan and Thailand expansion</span></td>
-  <td class="col-summary">Kaori Heat Treatment has approved a major capacity expansion in Taiwan and Thailand as demand rises for AI cooling components and fuel cells. The heat-treatment maker said its board agreed to buy land and buildings in Taoyuan's Zhongli District for NT$2.38 billion and to build a new plant in Thailand with an investment</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">DeepSeek to raise V4 AI prices, add peak rates</span></td>
+  <td class="col-summary">DeepSeek-V4-Flash will cost US$1.32 per 1 million output tokens during peak hours and US$0.66 off-peak, up from US$0.28.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260812PD241/kaori-taiwan-demand-fuel-capacity-expansion.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/deepseek-introduces-dspark-speeds-ai-responses-85" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Can one speaker really replace a hi-fi system? We test five premium models</span></td>
-  <td class="col-summary">Bang &amp; Olufsen, Bowers &amp; Wilkins, Devialet, Naim and Sonus Faber take different approaches to the all-in-one speaker – from discreet furniture piece to unapologetic showstopper.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/experiences/best-all-in-one-speakers-6311661" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Chinese automakers gain share in Europe as legacy carmakers partner to cut costs</span></td>
+  <td class="col-summary">Chinese automakers are reshaping Europe's car market, and the pressure is forcing global rivals into uneasy partnerships that could trim costs while raising strategic risks. For drivers, investors, and policymakers worldwide, the shift highlights how China's auto industry is now influencing pricing, supply chains, comp</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260814PD204/automakers-europe-market-2026-sales.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: AI is changing how films are made, not what makes them worth watching</span></td>
-  <td class="col-summary">The controversy over AI-generated local movies actually tells us something useful about AI, says The Teenage Textbook Movie director Phillip Lim.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/ai-film-slop-trace-project-movie-art-6317161" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">How iX Biopharma turned conviction into opportunity</span></td>
+  <td class="col-summary">After losing a key licensing partner, the Singapore pharmaceutical company continued advancing its lead drug programme. That persistence opened new pathways to commercialisation – and unlocked value beyond the laboratory.</td>
+  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/brand-studio/how-ix-biopharma-turned-conviction-opportunity-6297431" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">From summer camps to big salaries: China’s AI talent race is starting young and going big</span></td>
-  <td class="col-summary">AI talent is commanding a huge premium in China - and parents are betting that exposing their children to technology early could give them a headstart.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/summer-camps-big-salaries-chinas-ai-talent-race-starting-young-and-going-big-6302251" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Singapore chip parts maker UMS posts Q2 90% profit jump</span></td>
+  <td class="col-summary">UMS declared a tax-exempt second interim dividend of 1 Singapore cent a share, taking first-half dividends to 2 cents per share.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sg-chip-supplier-ums-plans-vietnam-jv-for-expansion" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Chinese chipmaker YMTC tops Kioxia in NAND shipments: report</span></td>
-  <td class="col-summary">Counterpoint said YMTC still ranked fifth by sales, behind Micron Technology and Kioxia.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/samsung-leads-global-memory-sales-as-sk-hynix-tops-ai-chips" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">The long road to an Asian AI chip</span></td>
+  <td class="col-summary">Asia’s AI chip startups are seeking a way around Nvidia’s dominance. Also, Singapore’s Graas raised US$17 million and announced an acquisition.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/long-road-asian-ai-chip" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan self-driving startup Tier IV to design open-source AI chips</span></td>
-  <td class="col-summary">Japan self-driving startup Tier IV to design open-source AI chips</td>
+  <td class="col-title"><span class="article-title">China's SMIC says AI 'spillover effects' boosting peripheral chip prices</span></td>
+  <td class="col-summary">China's SMIC says AI 'spillover effects' boosting peripheral chip prices</td>
   <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/automobiles/japan-self-driving-startup-tier-iv-to-design-open-source-ai-chips" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/china-s-smic-says-ai-spillover-effects-boosting-peripheral-chip-prices" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan to deploy stronger AI safeguards as model capabilities advance</span></td>
-  <td class="col-summary">Japan to deploy stronger AI safeguards as model capabilities advance</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">Go master Shin cracks AI barrier with win over KataGo, sets up series decider</span></td>
+  <td class="col-summary">Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-to-deploy-stronger-ai-safeguards-as-model-capabilities-advance" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Chipmaker CXMT becomes China's most valuable company as Tencent slips</span></td>
-  <td class="col-summary">Chipmaker CXMT becomes China's most valuable company as Tencent slips</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/equities/chipmaker-cxmt-becomes-china-s-most-valuable-company-as-tencent-slips" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Nvidia, Indosat launch Gadjah Mada AI center The center is part of the national AI Center of Excellence, led by the ministry under Indonesia's Golden 2045 Vision as a sovereign AI and skills-building program. AI Read 2 TechAsia 50 rising AI startups in Asia These AI startups have a shot at becoming the next big thing. AI Read 3 DigiTimes China's video AI dominance paves the way for world model boom Chinese AI video-generation models are taking the world by storm. This competitive edge is not only disrupting Hollywood, but could also extend into the realm of "world models." AI Read 4 DigiTimes Taiwan Microloops posts record July revenue as AI cooling demand lifts second-half outlook Taiwan Microloops reported stronger second-quarter and first-half 2026 results, supported by rising shipments of cooling modules for AI server customers. The Taiwan-based supplier said the improvement came as new-model products began shipping to a major cloud service provider customer in the second quarter, helping mar AI Read 5 DigiTimes Kaori Heat Treatment to invest NT$3 billion in Taiwan and Thailand expansion Kaori Heat Treatment has approved a major capacity expansion in Taiwan and Thailand as demand rises for AI cooling components and fuel cells. The heat-treatment maker said its board agreed to buy land and buildings in Taoyuan's Zhongli District for NT$2.38 billion and to build a new plant in Thailand with an investment AI Read 6 CNA Can one speaker really replace a hi-fi system? We test five premium models Bang &amp; Olufsen, Bowers &amp; Wilkins, Devialet, Naim and Sonus Faber take different approaches to the all-in-one speaker – from discreet furniture piece to unapologetic showstopper. Semiconductor Read 7 CNA Commentary: AI is changing how films are made, not what makes them worth watching The controversy over AI-generated local movies actually tells us something useful about AI, says The Teenage Textbook Movie director Phillip Lim. AI Read 8 CNA From summer camps to big salaries: China’s AI talent race is starting young and going big AI talent is commanding a huge premium in China - and parents are betting that exposing their children to technology early could give them a headstart. AI Read 9 TechAsia Chinese chipmaker YMTC tops Kioxia in NAND shipments: report Counterpoint said YMTC still ranked fifth by sales, behind Micron Technology and Kioxia. Semiconductor Read 10 NikkeiAsia Japan self-driving startup Tier IV to design open-source AI chips Japan self-driving startup Tier IV to design open-source AI chips AISemiconductor Read 11 NikkeiAsia Japan to deploy stronger AI safeguards as model capabilities advance Japan to deploy stronger AI safeguards as model capabilities advance AI Read 12 NikkeiAsia Chipmaker CXMT becomes China's most valuable company as Tencent slips Chipmaker CXMT becomes China's most valuable company as Tencent slips Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 13, 2026</title><link href="https://asiatechfeed.com/2026/08/13/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 13, 2026" /><published>2026-08-13T08:00:46+00:00</published><updated>2026-08-13T08:00:46+00:00</updated><id>https://asiatechfeed.com/2026/08/13/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/13/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Fresh tech grads worry AI raising bar for entry-level jobs, as employers demand more skills Employers are increasingly looking for entry-level hires who can solve business problems and apply their technical knowledge to real-world scenarios, while working faster, more efficiently and independently. AI Read 2 DigiTimes Alibaba Cloud launches Zhenwu M890 supernode for commercial use Alibaba Cloud has begun commercial service for its Zhenwu M890 supernode in Ulanqab, Inner Mongolia, giving global customers an early look at how AI infrastructure is shifting toward larger, faster, and more tightly connected systems. The launch could influence future cloud costs, model access, and enterprise AI deploy AI Read 3 DigiTimes China PCB makers pour billions into AI server, HPC, optical markets Chinese printed circuit board (PCB) makers are stepping up investment in higher-value markets including AI servers, high-performance computing (HPC) and optical communications. Following similar expansion in semiconductors and display panels, Chinese companies are rapidly adding PCB capacity as they seek to catch up wi SemiconductorAIElectronics Read 4 CNA What universities can offer in the age of AI Taylor’s University is rethinking how artificial intelligence prepares graduates to apply knowledge, exercise judgment and adapt to constant change. AI Read 5 TechAsia DeepSeek to raise V4 AI prices, add peak rates DeepSeek-V4-Flash will cost US$1.32 per 1 million output tokens during peak hours and US$0.66 off-peak, up from US$0.28. AI Read 6 DigiTimes Chinese automakers gain share in Europe as legacy carmakers partner to cut costs Chinese automakers are reshaping Europe's car market, and the pressure is forcing global rivals into uneasy partnerships that could trim costs while raising strategic risks. For drivers, investors, and policymakers worldwide, the shift highlights how China's auto industry is now influencing pricing, supply chains, comp Logistics Read 7 CNA How iX Biopharma turned conviction into opportunity After losing a key licensing partner, the Singapore pharmaceutical company continued advancing its lead drug programme. That persistence opened new pathways to commercialisation – and unlocked value beyond the laboratory. Pharmaceutical Read 8 TechAsia Singapore chip parts maker UMS posts Q2 90% profit jump UMS declared a tax-exempt second interim dividend of 1 Singapore cent a share, taking first-half dividends to 2 cents per share. Semiconductor Read 9 TechAsia The long road to an Asian AI chip Asia’s AI chip startups are seeking a way around Nvidia’s dominance. Also, Singapore’s Graas raised US$17 million and announced an acquisition. AISemiconductor Read 10 NikkeiAsia China's SMIC says AI 'spillover effects' boosting peripheral chip prices China's SMIC says AI 'spillover effects' boosting peripheral chip prices AISemiconductor Read 11 KED Go master Shin cracks AI barrier with win over KataGo, sets up series decider Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 13, 2026</title><link href="https://asiatechfeed.com/2026/08/13/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 13, 2026" /><published>2026-08-13T08:00:46+00:00</published><updated>2026-08-13T08:00:46+00:00</updated><id>https://asiatechfeed.com/2026/08/13/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/13/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
