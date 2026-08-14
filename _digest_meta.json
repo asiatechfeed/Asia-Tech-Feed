@@ -1,39 +1,37 @@
 {
   "date": "2026-08-14",
-  "count": 11,
+  "count": 7,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "KED",
-    "NikkeiAsia",
+    "EETAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-14-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Fresh tech grads worry AI raising bar for entry-level jobs, as employers demand more skills",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/graduates-artificial-intelligence-jobs-employment-6311826"
-    },
-    {
-      "title": "Alibaba Cloud launches Zhenwu M890 supernode for commercial use",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260814PD207/alibaba-cloud-commercial-chips-launch.html"
-    },
-    {
-      "title": "China PCB makers pour billions into AI server, HPC, optical markets",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260814PD211/hpc-pcb-optical-communications-investment-capacity.html"
-    },
-    {
-      "title": "What universities can offer in the age of AI",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/advertorial/what-universities-can-offer-in-age-ai-6282021"
-    },
-    {
-      "title": "DeepSeek to raise V4 AI prices, add peak rates",
+      "title": "Chinese AI startup Zhipu releases GLM-5.3",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/deepseek-introduces-dspark-speeds-ai-responses-85"
+      "url": "https://www.techinasia.com/zhipu-raises-ai-cloud-prices-in-profit-push"
+    },
+    {
+      "title": "AI slashes material development cycles from years to months",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/ai-slashes-material-development-cycles-years-months"
+    },
+    {
+      "title": "Global PMX sees semiconductor demand driving growth through 2027 as product mix shifts",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260814PD205/global-pmx-growth-revenue-2027-demand.html"
+    },
+    {
+      "title": "OCP APAC 2026: What if AI's next efficiency breakthrough is simply moving less?",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260814VL206/apac-2026-efficiency-infrastructure-data.html"
+    },
+    {
+      "title": "Alibaba Cloud races ahead with Ulanqab AI infrastructure",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260814PD212/alibaba-cloud-data-center-infrastructure-2026.html?chid=10"
     }
   ],
   "source_stats": [
@@ -50,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 6,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -131,7 +129,7 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -149,16 +147,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 9,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 23,
+      "fetched": 67,
+      "relevant": 46,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 10,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -178,7 +176,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 20,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
