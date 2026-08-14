@@ -1,39 +1,38 @@
 {
-  "date": "2026-08-13",
-  "count": 10,
+  "date": "2026-08-14",
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EW",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-08-13-asia-tech-news-digest.md",
+  "post_file": "2026-08-14-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Y Combinator CEO: Corporate friction helps AI startups win",
+      "title": "Nvidia, Indosat launch Gadjah Mada AI center",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/why-slow-companies-are-a-gift-to-startups"
+      "url": "https://www.techinasia.com/nvidia-kaist-to-invest-300m-in-ai-research-center"
     },
     {
-      "title": "OpenClaw founder on why going viral can break an AI startup",
+      "title": "50 rising AI startups in Asia",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/only-0-3-of-his-ai-skills-were-actually-malicious"
+      "url": "https://www.techinasia.com/50-rising-ai-startups-in-asia"
     },
     {
-      "title": "Speeding up quantum chip fabrication with new lithography",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/speeding-quantum-chip-fabrication-lithography"
-    },
-    {
-      "title": "Alphabet's DeepMind shake-up caps months of AI stumbles",
+      "title": "China's video AI dominance paves the way for world model boom",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260813VL203/alphabet-deepmind-google-gemini-anthropic.html"
+      "url": "https://www.digitimes.com/news/a20260812PD220/data-robotics-alibaba-startup-tsinghua-university.html?chid=10"
     },
     {
-      "title": "AI inference surge lifts NAND market to record revenue: Counterpoint",
+      "title": "Taiwan Microloops posts record July revenue as AI cooling demand lifts second-half outlook",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260813PR200/nand-market-revenue-2026-demand.html"
+      "url": "https://www.digitimes.com/news/a20260812PD240/asia-revenue-cooling-demand-2026.html"
+    },
+    {
+      "title": "Kaori Heat Treatment to invest NT$3 billion in Taiwan and Thailand expansion",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260812PD241/kaori-taiwan-demand-fuel-capacity-expansion.html"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -133,7 +132,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -157,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 48,
-      "relevant": 36,
+      "fetched": 35,
+      "relevant": 25,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -194,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
