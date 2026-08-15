@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-14T08:01:40+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 14, 2026</title><link href="https://asiatechfeed.com/2026/08/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 14, 2026" /><published>2026-08-14T08:00:48+00:00</published><updated>2026-08-14T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/08/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-15T00:29:26+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 15, 2026</title><link href="https://asiatechfeed.com/2026/08/15/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 15, 2026" /><published>2026-08-15T00:28:46+00:00</published><updated>2026-08-15T00:28:46+00:00</updated><id>https://asiatechfeed.com/2026/08/15/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/15/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Gelsinger calls HBM 'lousy', SK Hynix says it's not memory's final answer</span></td>
+  <td class="col-summary">High-bandwidth memory (HBM), a core component in AI semiconductors, has drawn fresh scrutiny after former Intel CEO Pat Gelsinger called it "lousy" at a recent AI summit in Paris. SK Hynix, the market leader in this type of memory, also said it is not the final answer to AI memory bottlenecks, underscoring the industry</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260814PD227/hbm-sk-hynix-pat-gelsinger-component-semiconductors.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Asia Vital Components sees stronger AI server demand and faster liquid cooling adoption</span></td>
+  <td class="col-summary">Asia Vital Components expects global AI server demand to strengthen in the second half, with liquid cooling adoption becoming more common — a shift carrying implications for data center operators and suppliers worldwide. The company sees higher shipments of ASIC chips and Nvidia's Vera Rubin platform driving growth, an</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Research Insight: Unitree IPO reveals humanoid robot commercialization still in early innings</span></td>
+  <td class="col-summary">Chinese humanoid robot maker Unitree Robotics has drawn significant market attention with its IPO. Based on DIGITIMES' review of the company's three-hour IPO roadshow and Q&amp;A session on August 7, chairman Xingxing Wang and the management team provided further details on humanoid robot commercialization, embodied intell</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260814PD218/robot-ipo-industrial-2025-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Uber co-founder: Treat buildings like computers</span></td>
+  <td class="col-summary">Travis Kalanick, founder and CEO of Atoms, explains why AI in physical industries is limited by real estate, and why ownership matters.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/travis-kalanick-treat-buildings-like-computers" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Unitree set for Shanghai debut after $905m IPO</span></td>
+  <td class="col-summary">The company also shipped more than 5,500 humanoid robots, compared with 5,168 sold by Shanghai-based rival Agibot.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/unitree-outships-us-humanoid-rivals-as-china-leads-hardware" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">SMIC tops $3b in Q2 as AI demand supports orders</span></td>
+  <td class="col-summary">SMIC said second-quarter revenue exceeded US$3 billion for the first time.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/china-chipmaker-smic-posts-61-jump-in-q4-profit" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan's Dentsu to shed 30% of overseas units as AI upends playing field</span></td>
+  <td class="col-summary">Japan's Dentsu to shed 30% of overseas units as AI upends playing field</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/companies/japan-s-dentsu-to-shed-30-of-overseas-units-as-ai-upends-playing-field" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan struggles to secure rare earths for EVs, chip tools under China pressure</span></td>
+  <td class="col-summary">Japan struggles to secure rare earths for EVs, chip tools under China pressure</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/materials/japan-struggles-to-secure-rare-earths-for-evs-chip-tools-under-china-pressure" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Gelsinger calls HBM 'lousy', SK Hynix says it's not memory's final answer High-bandwidth memory (HBM), a core component in AI semiconductors, has drawn fresh scrutiny after former Intel CEO Pat Gelsinger called it "lousy" at a recent AI summit in Paris. SK Hynix, the market leader in this type of memory, also said it is not the final answer to AI memory bottlenecks, underscoring the industry SemiconductorAI Read 2 DigiTimes Asia Vital Components sees stronger AI server demand and faster liquid cooling adoption Asia Vital Components expects global AI server demand to strengthen in the second half, with liquid cooling adoption becoming more common — a shift carrying implications for data center operators and suppliers worldwide. The company sees higher shipments of ASIC chips and Nvidia's Vera Rubin platform driving growth, an AISemiconductor Read 3 DigiTimes Research Insight: Unitree IPO reveals humanoid robot commercialization still in early innings Chinese humanoid robot maker Unitree Robotics has drawn significant market attention with its IPO. Based on DIGITIMES' review of the company's three-hour IPO roadshow and Q&amp;A session on August 7, chairman Xingxing Wang and the management team provided further details on humanoid robot commercialization, embodied intell LogisticsAutomation Read 4 TechAsia Uber co-founder: Treat buildings like computers Travis Kalanick, founder and CEO of Atoms, explains why AI in physical industries is limited by real estate, and why ownership matters. AI Read 5 TechAsia Unitree set for Shanghai debut after $905m IPO The company also shipped more than 5,500 humanoid robots, compared with 5,168 sold by Shanghai-based rival Agibot. Automation Read 6 TechAsia SMIC tops $3b in Q2 as AI demand supports orders SMIC said second-quarter revenue exceeded US$3 billion for the first time. AI Read 7 NikkeiAsia Japan's Dentsu to shed 30% of overseas units as AI upends playing field Japan's Dentsu to shed 30% of overseas units as AI upends playing field AI Read 8 NikkeiAsia Japan struggles to secure rare earths for EVs, chip tools under China pressure Japan struggles to secure rare earths for EVs, chip tools under China pressure Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 14, 2026</title><link href="https://asiatechfeed.com/2026/08/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 14, 2026" /><published>2026-08-14T08:00:48+00:00</published><updated>2026-08-14T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/08/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -643,73 +720,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/amundi-says-ai-remains-a-long-term-bet-despite-sell-off" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Zero-capex AI to decarbonize Asian buildings Ampotech combines AI software with zero-capex financing to help Asian factories and commercial buildings reduce their energy use by up to 48%. AI Read 2 DigiTimes Parade sees steadier outlook despite margin pressure from memory costs Parade said its second-quarter 2026 results were squeezed by a sudden increase in back-end testing and packaging costs, but the high-speed interface chip designer remains confident about demand going forward. For global readers, the takeaway is that rising memory prices are reshaping notebook and PC supply chains, yet SemiconductorLogistics Read 3 DigiTimes US polysilicon tariff exposes chip security's solar dependence The Trump administration is preparing to impose a 15% tariff and minimum import prices on polysilicon and selected derivative products, placing an upstream material shared by solar panels and semiconductor chips at the center of efforts to reduce US exposure to Chinese supply. Semiconductor Read 4 DigiTimes Taiwan's offshore wind pipeline stalls as failed tenders raise fears of supply chain gap Taiwan's high-tech industry is facing an increasingly urgent need for renewable electricity, yet progress on major offshore wind projects has slowed significantly. Logistics Read 5 TechAsia Moonshot AI targets $50b valuation in new round: sources The fundraising would be Moonshot’s last before a listing, according to the people. AI Read 6 TechAsia This startup fixes AI model drift in high-stakes workflows Backed by Antler, Nugen Intelligence helps enterprises prevent million-dollar AI failures with a simple one-line code integration. AI Read 7 NikkeiAsia Amundi says AI remains a long-term bet despite sell-off Amundi says AI remains a long-term bet despite sell-off AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 05, 2026</title><link href="https://asiatechfeed.com/2026/08/05/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 05, 2026" /><published>2026-08-05T08:00:51+00:00</published><updated>2026-08-05T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/08/05/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/05/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Airoha optical comms revenue doubles as broadband lands CSPs</span></td>
-  <td class="col-summary">Airoha sees faster growth ahead as AI infrastructure, optical networking, and wireless edge products expand across global supply chains. The chip designer said its 2026 product mix is shifting structurally, with addressable markets broadening in wired and wireless businesses. Revenue momentum is being driven by demand </td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260805PD215/airoha-broadband-wireless-revenue-growth.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Analysis: Musk's empire closes in on China — from orbit to the factory floor</span></td>
-  <td class="col-summary">SpaceX's rapid growth in AI, satellite connectivity, and space infrastructure is widening the strategic challenge for China beyond any single industry, as Musk's companies increasingly compete across sectors Beijing considers priorities. The combination of Starlink's expanding orbital footprint, SpaceX's accelerating A</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260805VL213/spacex-growth-hardware-revenue-tesla.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Anthropic's scramble for compute is reshaping how AI labs finance their chips</span></td>
-  <td class="col-summary">Anthropic's US$10 billion computing agreement with seven-month-old startup Volta Infra Holdings Ltd. is the latest sign that the Claude developer is treating compute procurement less like a vendor relationship and more like a hedging strategy.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260805VL205/anthropic-chips-infrastructure-startup-capacity.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Analysis:Europe's established tech firms emerge as unexpected AI winners</span></td>
-  <td class="col-summary">Analysis:Europe's established tech firms emerge as unexpected AI winners</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/analysiseuropes-established-tech-firms-emerge-unexpected-ai-winners-6300261" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Accel-backed Netskope launches AI security platform</span></td>
-  <td class="col-summary">Netskope says 98% of organizations use AI, but just 8% enforce data policies.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/cybersecurity-firm-armis-weighs-stake-sale-offers" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Singapore dominates SEA’s $9.3b AI funding</span></td>
-  <td class="col-summary">Singapore accounted for nearly all disclosed funding, with US$9.3 billion across 227 rounds.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/hong-kongs-kuaishou-eyes-2b-kling-ai-spinoff" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Tencent expands global access to open-source Hy3 AI</span></td>
-  <td class="col-summary">Tencent said the model is for reasoning, agent workflows, coding, and other productivity tasks.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/tencent-cloud-completes-xl-smart-migration" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Airoha optical comms revenue doubles as broadband lands CSPs Airoha sees faster growth ahead as AI infrastructure, optical networking, and wireless edge products expand across global supply chains. The chip designer said its 2026 product mix is shifting structurally, with addressable markets broadening in wired and wireless businesses. Revenue momentum is being driven by demand AISemiconductorLogistics Read 2 DigiTimes Analysis: Musk's empire closes in on China — from orbit to the factory floor SpaceX's rapid growth in AI, satellite connectivity, and space infrastructure is widening the strategic challenge for China beyond any single industry, as Musk's companies increasingly compete across sectors Beijing considers priorities. The combination of Starlink's expanding orbital footprint, SpaceX's accelerating A AI Read 3 DigiTimes Anthropic's scramble for compute is reshaping how AI labs finance their chips Anthropic's US$10 billion computing agreement with seven-month-old startup Volta Infra Holdings Ltd. is the latest sign that the Claude developer is treating compute procurement less like a vendor relationship and more like a hedging strategy. AISemiconductor Read 4 CNA Analysis:Europe's established tech firms emerge as unexpected AI winners Analysis:Europe's established tech firms emerge as unexpected AI winners AI Read 5 TechAsia Accel-backed Netskope launches AI security platform Netskope says 98% of organizations use AI, but just 8% enforce data policies. AI Read 6 TechAsia Singapore dominates SEA’s $9.3b AI funding Singapore accounted for nearly all disclosed funding, with US$9.3 billion across 227 rounds. AI Read 7 TechAsia Tencent expands global access to open-source Hy3 AI Tencent said the model is for reasoning, agent workflows, coding, and other productivity tasks. AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Zero-capex AI to decarbonize Asian buildings Ampotech combines AI software with zero-capex financing to help Asian factories and commercial buildings reduce their energy use by up to 48%. AI Read 2 DigiTimes Parade sees steadier outlook despite margin pressure from memory costs Parade said its second-quarter 2026 results were squeezed by a sudden increase in back-end testing and packaging costs, but the high-speed interface chip designer remains confident about demand going forward. For global readers, the takeaway is that rising memory prices are reshaping notebook and PC supply chains, yet SemiconductorLogistics Read 3 DigiTimes US polysilicon tariff exposes chip security's solar dependence The Trump administration is preparing to impose a 15% tariff and minimum import prices on polysilicon and selected derivative products, placing an upstream material shared by solar panels and semiconductor chips at the center of efforts to reduce US exposure to Chinese supply. Semiconductor Read 4 DigiTimes Taiwan's offshore wind pipeline stalls as failed tenders raise fears of supply chain gap Taiwan's high-tech industry is facing an increasingly urgent need for renewable electricity, yet progress on major offshore wind projects has slowed significantly. Logistics Read 5 TechAsia Moonshot AI targets $50b valuation in new round: sources The fundraising would be Moonshot’s last before a listing, according to the people. AI Read 6 TechAsia This startup fixes AI model drift in high-stakes workflows Backed by Antler, Nugen Intelligence helps enterprises prevent million-dollar AI failures with a simple one-line code integration. AI Read 7 NikkeiAsia Amundi says AI remains a long-term bet despite sell-off Amundi says AI remains a long-term bet despite sell-off AI Read]]></summary></entry></feed>
