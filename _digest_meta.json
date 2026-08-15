@@ -1,37 +1,37 @@
 {
-  "date": "2026-08-14",
-  "count": 7,
+  "date": "2026-08-15",
+  "count": 8,
   "sources": [
     "DigiTimes",
-    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-08-14-asia-tech-news-digest.md",
+  "post_file": "2026-08-15-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Chinese AI startup Zhipu releases GLM-5.3",
+      "title": "Gelsinger calls HBM 'lousy', SK Hynix says it's not memory's final answer",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260814PD227/hbm-sk-hynix-pat-gelsinger-component-semiconductors.html"
+    },
+    {
+      "title": "Asia Vital Components sees stronger AI server demand and faster liquid cooling adoption",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html"
+    },
+    {
+      "title": "Research Insight: Unitree IPO reveals humanoid robot commercialization still in early innings",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260814PD218/robot-ipo-industrial-2025-manufacturing.html"
+    },
+    {
+      "title": "Uber co-founder: Treat buildings like computers",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/zhipu-raises-ai-cloud-prices-in-profit-push"
+      "url": "https://www.techinasia.com/travis-kalanick-treat-buildings-like-computers"
     },
     {
-      "title": "AI slashes material development cycles from years to months",
+      "title": "Unitree set for Shanghai debut after $905m IPO",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/ai-slashes-material-development-cycles-years-months"
-    },
-    {
-      "title": "Global PMX sees semiconductor demand driving growth through 2027 as product mix shifts",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260814PD205/global-pmx-growth-revenue-2027-demand.html"
-    },
-    {
-      "title": "OCP APAC 2026: What if AI's next efficiency breakthrough is simply moving less?",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260814VL206/apac-2026-efficiency-infrastructure-data.html"
-    },
-    {
-      "title": "Alibaba Cloud races ahead with Ulanqab AI infrastructure",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260814PD212/alibaba-cloud-data-center-infrastructure-2026.html?chid=10"
+      "url": "https://www.techinasia.com/unitree-outships-us-humanoid-rivals-as-china-leads-hardware"
     }
   ],
   "source_stats": [
@@ -128,7 +128,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -149,14 +149,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 67,
-      "relevant": 46,
+      "fetched": 35,
+      "relevant": 25,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -192,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 20,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
