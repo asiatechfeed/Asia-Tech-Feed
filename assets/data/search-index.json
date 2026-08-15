@@ -1,83 +1,81 @@
 [
   {
     "date": "2026-08-15",
-    "title": "US to tell partners they must pick sides in AI race with China",
-    "summary": "\"Signature of the Pax Silica Declaration is not merely a membership subscription, but a commitment,\" the draft letter says, referring to the United States-led AI coalition launched last year.",
+    "title": "India PM Modi woos youth with free coaching, AI training",
+    "summary": "Speaking weeks after massive youth-led protests forced the education minister to resign, Indian Prime Minister Narendra Modi said the initiative was aimed at easing the financial burden on millions of families.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/east-asia/us-china-ai-race-pax-silica-waico-6320671"
+    "url": "https://www.channelnewsasia.com/asia/india-modi-education-youth-free-coaching-ai-training-6321086"
   },
   {
     "date": "2026-08-15",
-    "title": "Tripod posts record second-quarter margins on strong server and memory demand",
-    "summary": "Tripod Technology said revenue and profit both hit record highs in the second quarter of 2026, driven by strong shipments of server and memory products and the continued effect of price increases implemented to pass on higher raw material costs. The PCB maker said gross margin rose above 30% for the first time as deman",
+    "title": "Goldman Sachs in talks on Nvidia’s $500b AI plan",
+    "summary": "Nvidia has said it has the option to backstop up to US$125 billion, or 25% of potential deals.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/nvidia-credit-risk-rises-ai-deal-talks"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "Nvidia scales back data center guarantee plans: report",
+    "summary": "Separately, OpenAI’s Stargate project with Oracle and SoftBank Group is a US$500 billion US AI infrastructure effort expected to exceed 9 gigawatts by 2029.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/nvidia-talks-250b-backing-openai-ohio-site"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "Research insight: Delta, Lite-on raise capex to 9% of revenue in AI data center power race",
+    "summary": "The speed of AI data center deployment is raising the bar for power and cooling suppliers. Chipmakers such as Nvidia and AMD are refreshing platforms annually, with each generation bringing sharp increases in power density and thermal requirements. Suppliers that cannot match that pace in R&D or capacity deployment ris",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260814PD214/delta-electronics-lite-on-data-center-cooling-capex-production-revenue.html"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "Memory supply crunch pushes long-term contracts beyond the big three",
+    "summary": "The global memory supply shortage is intensifying, with long-term agreements (LTAs) rapidly expanding beyond the three major memory manufacturers—Samsung Electronics, SK hynix, and Micron Technology—to include Sandisk, Nanya Technology Corporation, and China's ChangXin Memory Technologies (CXMT).",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20260813PD251/revenue-profit-tripod-demand-2026.html?chid=10"
+    "url": "https://www.digitimes.com/news/a20260813PD247/capacity-price-2026-sk-hynix-dram.html?chid=10"
   },
   {
     "date": "2026-08-15",
-    "title": "MicroIP sees second-half revenue lift as board approves cash raise",
-    "summary": "MICROIP, which focuses on AI software design services and ASIC design services, said its first-half 2026 financial report showed continued investment in core technologies and key IP. The company also disclosed that its board approved a cash capital increase to support working capital and ongoing development as more pro",
+    "title": "AI server tracker: Demand drives July revenue gains across Taiwan infrastructure suppliers",
+    "summary": "Data center infrastructure providers reported revenue gains across baseboard management controllers (BMCs), optical modules, power supply components, and thermal management products. Some companies, such as LandMark Optoelectronics and Auras Technology, reported year-over-year July revenue growth exceeding 100%.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI"
+      "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20260813PD252/design-revenue-asic-2026-software.html"
+    "url": "https://www.digitimes.com/news/a20260814VL231/revenue-infrastructure-growth-taiwan-ai-server.html"
   },
   {
     "date": "2026-08-15",
-    "title": "Interview: Acrab CEO Ken Phua on building agentic AI silicon in Singapore",
-    "summary": "Ken Phua, former Arm China co-CEO, spent 25 years abroad building someone else's business model. He came home to Singapore to build his own.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260813VL211/arm-silicon-business-software.html"
-  },
-  {
-    "date": "2026-08-15",
-    "title": "LG teams up with Nvidia on AI robots, factories",
-    "summary": "LG also plans to test its CLOiD wheel-based robots on an LG Electronics washing machine manufacturing line in Tennessee this year.",
+    "title": "Uber, Pony.ai plan 2,000 robotaxis in Europe",
+    "summary": "The expansion would extend the companies’ existing commercial robotaxi service in Zagreb, Croatia, to four unnamed cities in Europe.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "Electronics",
-      "AI",
       "Automation"
     ],
-    "url": "https://www.techinasia.com/lg-chem-plans-9-7b-rd-push-for-chips-robot-tech"
-  },
-  {
-    "date": "2026-08-15",
-    "title": "DeepX secures over $13m in AI chip orders",
-    "summary": "By the end of July 2026, the company had recorded 77 purchase orders, including 48 between April and July.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/south-korean-ai-chip-startup-deepx-raises-293m"
-  },
-  {
-    "date": "2026-08-15",
-    "title": "Microsoft cuts carbon removal buys as AI spending rises",
-    "summary": "Microsoft said the purchases remain part of its decarbonization strategy, alongside goals to become carbon negative and remove its historical emissions by 2050.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/microsoft-emissions-rose-27-ai-buildout-grew"
+    "url": "https://www.techinasia.com/pony-ai-comfortdelgro-to-launch-driverless-services-in-singapore"
   },
   {
     "date": "2026-08-14",
