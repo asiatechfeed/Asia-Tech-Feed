@@ -1,0 +1,346 @@
+---
+title: "What is a Custom AI Chip, and Why Are Google, Amazon and Meta All Building Their Own?"
+tags: [AI, Semiconductor]
+date: 2026-08-15
+author: "Colin Tan"
+excerpt: "For a decade, buying AI compute meant buying NVIDIA. In 2026, custom chips designed by hyperscalers are growing faster than NVIDIA GPU shipments for the first time — and Broadcom, TSMC, and Asia's memory suppliers are the quiet winners."
+---
+
+<p class="xp-lede">For a decade, buying AI compute meant buying NVIDIA. That transaction — GPU, rack, driver stack, and CUDA — was so complete it barely felt like a choice. In 2026, for the first time, custom chips designed by hyperscalers are growing faster than NVIDIA GPU shipments. The standard-issue chip era is ending — and Broadcom, TSMC, and the memory suppliers of Asia are the quiet winners.</p>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>What a custom AI chip actually is.</b> A custom AI chip — formally an application-specific integrated circuit, or ASIC — is an accelerator designed for one company's specific AI workloads rather than bought off the shelf. Instead of a general-purpose GPU optimised to run any model, an ASIC is tuned to the exact shapes of the models a hyperscaler already runs at massive, predictable scale.</p>
+    <p>Google began this journey in 2016 with its first Tensor Processing Unit, built to accelerate TensorFlow inference across search and ads. The economic case then was cost; the case in 2026 is the same, amplified. Google's current Ironwood TPU delivers 4.7 times the compute of its predecessor. Meta's MTIA 400 — built on RISC-V, not ARM — delivers 6 petaflops of FP8 compute, purpose-tuned for the recommendation systems driving Facebook and Instagram's ad revenue. Amazon's Trainium4 supports 288 GB of memory per instance and counts Anthropic and OpenAI as early training customers.</p>
+  </div>
+  <div>
+    <p><b>Why every hyperscaler wants one.</b> The economics resolve into three arguments. First, cost: a hyperscaler that runs one known model at billion-inference-per-day scale can design a chip tuned exactly to its memory access patterns, number formats, and data flow. The result is a 30–50% reduction in cost-per-inference versus NVIDIA hardware for the specific models it serves, per independent analyst estimates.</p>
+    <p>Second, control: a hyperscaler that designs its own chip is not subject to NVIDIA's allocation decisions, lead times, or pricing power. The GPU rationing of 2022–23, when H100s were effectively waitlisted, validated the strategic case in a way no business case could. Third, fit: the HBM base-die customisation now available in HBM4E means memory can be co-designed with the compute die — a level of integration impossible when buying a merchant GPU off a product sheet.</p>
+  </div>
+</div>
+
+<!-- ── EXHIBIT 1: ASIC vs GPU growth ──────────────────── -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 1</div>
+  <h3>Custom AI ASICs outpace GPU shipment growth for the first time in 2025 — and the gap widens</h3>
+  <p class="xp-exhibit-sub">Year-on-year shipment volume growth, custom AI ASICs vs NVIDIA GPU; 2026–27 are forecasts</p>
+
+  <svg viewBox="0 0 720 268" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Grouped bar chart comparing ASIC vs GPU shipment growth 2024 to 2027">
+    <defs>
+      <style>
+        .ga{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10.5px;fill:#5B6675}
+        .gb{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#0A2240}
+        .gc{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#F2620F}
+        .gd{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9.5px;fill:#F2620F}
+        .ge{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10px;fill:#5B6675}
+      </style>
+      <marker id="gArr" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+        <polygon points="0 0,6 3,0 6" fill="#F2620F"/>
+      </marker>
+    </defs>
+
+    <line x1="62" y1="220" x2="670" y2="220" stroke="#D8DEE6" stroke-width="0.8"/>
+    <line x1="62" y1="186" x2="670" y2="186" stroke="#D8DEE6" stroke-width="0.6"/>
+    <line x1="62" y1="152" x2="670" y2="152" stroke="#D8DEE6" stroke-width="0.6"/>
+    <line x1="62" y1="118" x2="670" y2="118" stroke="#D8DEE6" stroke-width="0.6"/>
+    <line x1="62" y1="84"  x2="670" y2="84"  stroke="#D8DEE6" stroke-width="0.6"/>
+    <line x1="62" y1="50"  x2="670" y2="50"  stroke="#D8DEE6" stroke-width="0.5" opacity="0.5"/>
+
+    <text x="56" y="224" text-anchor="end" class="ga">0</text>
+    <text x="56" y="190" text-anchor="end" class="ga">10%</text>
+    <text x="56" y="156" text-anchor="end" class="ga">20%</text>
+    <text x="56" y="122" text-anchor="end" class="ga">30%</text>
+    <text x="56" y="88"  text-anchor="end" class="ga">40%</text>
+    <text x="56" y="54"  text-anchor="end" class="ga">50%</text>
+
+    <rect x="67"  y="135" width="55" height="85"  fill="#00A6A6" rx="1"/>
+    <rect x="132" y="101" width="55" height="119" fill="#D8DEE6" rx="1"/>
+    <text x="94"  y="130" text-anchor="middle" class="gb">25%</text>
+    <text x="159" y="96"  text-anchor="middle" class="gb">35%</text>
+    <text x="127" y="240" text-anchor="middle" class="ga">2024</text>
+
+    <rect x="227" y="91"  width="55" height="129" fill="#00A6A6" rx="1"/>
+    <rect x="292" y="145" width="55" height="75"  fill="#D8DEE6" rx="1"/>
+    <text x="254" y="86"  text-anchor="middle" class="gb">38%</text>
+    <text x="319" y="140" text-anchor="middle" class="gb">22%</text>
+    <text x="287" y="240" text-anchor="middle" class="ga">2025</text>
+
+    <path d="M 188,100 Q 210,78 224,88" stroke="#F2620F" stroke-width="1.4" fill="none" marker-end="url(#gArr)"/>
+    <text x="68"  y="75" class="gd" font-weight="700">First year ASICs</text>
+    <text x="68"  y="88" class="gd" font-weight="700">outpace GPUs</text>
+
+    <rect x="387" y="67"  width="55" height="153" fill="#00A6A6" rx="1" opacity="0.85"/>
+    <rect x="452" y="166" width="55" height="54"  fill="#D8DEE6" rx="1" opacity="0.85"/>
+    <text x="414" y="62"  text-anchor="middle" class="gc">45%</text>
+    <text x="479" y="161" text-anchor="middle" class="gb">16%</text>
+    <text x="447" y="240" text-anchor="middle" class="ge" font-weight="700">2026F</text>
+
+    <rect x="547" y="84"  width="55" height="136" fill="#00A6A6" rx="1" opacity="0.70"/>
+    <rect x="612" y="172" width="55" height="48"  fill="#D8DEE6" rx="1" opacity="0.70"/>
+    <text x="574" y="79"  text-anchor="middle" class="gc">40%</text>
+    <text x="639" y="167" text-anchor="middle" class="gb">14%</text>
+    <text x="607" y="240" text-anchor="middle" class="ge" font-weight="700">2027F</text>
+
+    <text x="387" y="258" class="ga" font-size="9">Lighter bars = forecast</text>
+
+    <rect x="430" y="252" width="12" height="8" fill="#00A6A6" rx="1"/>
+    <text x="446" y="259" class="ga">Custom AI ASIC shipments</text>
+    <rect x="590" y="252" width="12" height="8" fill="#D8DEE6" rx="1"/>
+    <text x="606" y="259" class="ga">NVIDIA GPU shipments</text>
+  </svg>
+
+  <p class="xp-exhibit-source">Source: TrendForce (44.6% ASIC vs 16.1% GPU growth, 2026 projection, May 2026); Counterpoint Research (AI server compute ASIC analysis, Jan 2026); ATF estimates for 2024–25 baselines and 2027F extrapolation. Shipment volume growth, not revenue.</p>
+</figure>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>The duopoly enabling it all.</b> Hyperscalers have the AI expertise to define what a chip should do. Translating that into manufacturable silicon requires specialised knowledge of physical implementation, timing closure, and advanced packaging that only two companies currently deliver at scale: Broadcom and Marvell. Together they control roughly 95% of the custom AI ASIC co-design market.</p>
+    <p>Broadcom's roster reads like a hyperscaler roll-call — Google's TPU (confirmed through 2031), Meta's MTIA, Microsoft's Maia, and in 2026, OpenAI's Titan accelerator program. In February 2026, Broadcom taped out the first 2nm custom compute system-on-chip using its 3.5D packaging technology. CEO Hock Tan has stated "line of sight" to $100 billion in AI chip revenue by 2027, backed by a $73 billion disclosed backlog.</p>
+  </div>
+  <div>
+    <p><b>Marvell, MediaTek, and the cracks in the duopoly.</b> Marvell holds the counter-position: Amazon's Trainium processors, Microsoft's Maia (jointly with Broadcom), and a growing AI data-processing unit portfolio. In March 2026, NVIDIA invested $2 billion in Marvell through a NVLink Fusion arrangement — integrating Marvell's custom silicon with NVIDIA's interconnect fabric, a tacit acknowledgment that custom and merchant chips will co-exist in the same cluster rather than compete in separate ones.</p>
+    <p>The first crack in the duopoly arrived at MediaTek's April 2026 earnings call: the Taiwanese IC design house announced its first AI accelerator program for a major US hyperscaler, guiding $2 billion in AI ASIC revenue for Q4 2026 alone. That entry signal — a credible third design partner entering the market — is the most underreported development in custom silicon this year.</p>
+  </div>
+</div>
+
+<!-- ── EXHIBIT 2: Hyperscaler chip lineup ─────────────── -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 2</div>
+  <h3>Every major hyperscaler now has its own AI chip — all built at TSMC, all needing HBM</h3>
+  <p class="xp-exhibit-sub">Production custom AI accelerators as of August 2026; shading indicates design partner</p>
+
+  <svg viewBox="0 0 720 242" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Table of hyperscaler custom AI chips with specs and design partners">
+    <defs>
+      <style>
+        .ta{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10px;fill:#ffffff;font-weight:700}
+        .tb{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#0A2240}
+        .tc{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9px;fill:#5B6675}
+        .td{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10px;fill:#0A2240}
+        .te{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9px;fill:#00A6A6}
+        .tf{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9px;fill:#2563EB}
+        .tg{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9px;fill:#E8A33D}
+      </style>
+    </defs>
+
+    <rect x="0" y="0" width="720" height="30" fill="#0A2240"/>
+    <line x1="168" y1="0" x2="168" y2="30" stroke="#13335E" stroke-width="1"/>
+    <line x1="320" y1="0" x2="320" y2="30" stroke="#13335E" stroke-width="1"/>
+    <line x1="440" y1="0" x2="440" y2="30" stroke="#13335E" stroke-width="1"/>
+    <line x1="560" y1="0" x2="560" y2="30" stroke="#13335E" stroke-width="1"/>
+    <text x="84"  y="19" text-anchor="middle" class="ta">CHIP</text>
+    <text x="244" y="19" text-anchor="middle" class="ta">NODE &amp; DESIGN PARTNER</text>
+    <text x="380" y="19" text-anchor="middle" class="ta">COMPUTE</text>
+    <text x="500" y="19" text-anchor="middle" class="ta">MEMORY</text>
+    <text x="640" y="19" text-anchor="middle" class="ta">PRIMARY USE</text>
+
+    <line x1="168" y1="30" x2="168" y2="240" stroke="#D8DEE6" stroke-width="0.7"/>
+    <line x1="320" y1="30" x2="320" y2="240" stroke="#D8DEE6" stroke-width="0.7"/>
+    <line x1="440" y1="30" x2="440" y2="240" stroke="#D8DEE6" stroke-width="0.7"/>
+    <line x1="560" y1="30" x2="560" y2="240" stroke="#D8DEE6" stroke-width="0.7"/>
+
+    <rect x="0"   y="30"  width="720" height="42" fill="rgba(0,166,166,0.06)"/>
+    <line x1="0" y1="72" x2="720" y2="72" stroke="#D8DEE6" stroke-width="0.6"/>
+    <text x="10"  y="47"  class="tb">Google</text>
+    <text x="10"  y="60"  class="tc">Ironwood TPU (v7)</text>
+    <text x="178" y="47"  class="td">TSMC 3nm</text>
+    <text x="178" y="60"  class="te">Broadcom + MediaTek</text>
+    <text x="330" y="54"  class="td">4.7&#215; vs TPU v5e</text>
+    <text x="450" y="47"  class="td">32 GB HBM</text>
+    <text x="450" y="60"  class="tc">per chip</text>
+    <text x="570" y="47"  class="td">Training + Inference</text>
+    <text x="570" y="60"  class="tc">Gemini · 100k+ chips deployed</text>
+
+    <rect x="0"   y="72"  width="720" height="42" fill="rgba(37,99,235,0.05)"/>
+    <line x1="0" y1="114" x2="720" y2="114" stroke="#D8DEE6" stroke-width="0.6"/>
+    <text x="10"  y="89"  class="tb">Amazon</text>
+    <text x="10"  y="102" class="tc">Trainium4 (late 2026)</text>
+    <text x="178" y="89"  class="td">TSMC 3nm</text>
+    <text x="178" y="102" class="tf">Marvell</text>
+    <text x="330" y="89"  class="td">3&#215; T3 FP8</text>
+    <text x="330" y="102" class="tc">6&#215; FP4 throughput</text>
+    <text x="450" y="89"  class="td">288 GB</text>
+    <text x="450" y="102" class="tc">per instance</text>
+    <text x="570" y="89"  class="td">Training</text>
+    <text x="570" y="102" class="tc">Anthropic · OpenAI on T3</text>
+
+    <rect x="0"   y="114" width="720" height="42" fill="rgba(0,166,166,0.06)"/>
+    <line x1="0" y1="156" x2="720" y2="156" stroke="#D8DEE6" stroke-width="0.6"/>
+    <text x="10"  y="131" class="tb">Meta</text>
+    <text x="10"  y="144" class="tc">MTIA 400 (RISC-V)</text>
+    <text x="178" y="131" class="td">TSMC 3nm</text>
+    <text x="178" y="144" class="te">Broadcom</text>
+    <text x="330" y="131" class="td">6 PFLOPS FP8</text>
+    <text x="330" y="144" class="tc">25&#215; gain vs MTIA 300</text>
+    <text x="450" y="131" class="td">HBM</text>
+    <text x="450" y="144" class="tc">4.5&#215; bandwidth vs prev</text>
+    <text x="570" y="131" class="td">Inference</text>
+    <text x="570" y="144" class="tc">FB / IG recs · ads · video</text>
+
+    <rect x="0"   y="156" width="720" height="42" fill="rgba(37,99,235,0.05)"/>
+    <line x1="0" y1="198" x2="720" y2="198" stroke="#D8DEE6" stroke-width="0.6"/>
+    <text x="10"  y="173" class="tb">Microsoft</text>
+    <text x="10"  y="186" class="tc">Maia 200</text>
+    <text x="178" y="173" class="td">TSMC 3nm</text>
+    <text x="178" y="186" class="tf">Marvell</text>
+    <text x="330" y="173" class="td">3&#215; T3 FP4</text>
+    <text x="330" y="186" class="tc">140B+ transistors</text>
+    <text x="450" y="173" class="td">216 GB HBM3e</text>
+    <text x="450" y="186" class="tc">per chip</text>
+    <text x="570" y="173" class="td">Inference</text>
+    <text x="570" y="186" class="tc">Azure OpenAI services</text>
+
+    <rect x="0"   y="198" width="720" height="42" fill="rgba(0,166,166,0.06)"/>
+    <line x1="0" y1="240" x2="720" y2="240" stroke="#D8DEE6" stroke-width="0.6"/>
+    <text x="10"  y="215" class="tb">OpenAI</text>
+    <text x="10"  y="228" class="tc">Titan (2026 pilot)</text>
+    <text x="178" y="215" class="td">TSMC 3nm</text>
+    <text x="178" y="228" class="te">Broadcom</text>
+    <text x="330" y="222" class="td">Not yet disclosed</text>
+    <text x="450" y="222" class="td">Not yet disclosed</text>
+    <text x="570" y="215" class="td">Inference</text>
+    <text x="570" y="228" class="tc">ChatGPT · API · Sora</text>
+
+    <rect x="0" y="0" width="4" height="0"/>
+  </svg>
+
+  <div style="display:flex;gap:20px;margin-top:8px;font-family:'Helvetica Neue',Arial,sans-serif;font-size:10.5px;color:#5B6675">
+    <span><span style="display:inline-block;width:12px;height:8px;background:rgba(0,166,166,0.15);border:1px solid rgba(0,166,166,0.3);margin-right:5px;vertical-align:middle"></span>Broadcom design partner</span>
+    <span><span style="display:inline-block;width:12px;height:8px;background:rgba(37,99,235,0.12);border:1px solid rgba(37,99,235,0.25);margin-right:5px;vertical-align:middle"></span>Marvell design partner</span>
+    <span style="margin-left:auto">All chips manufactured at TSMC · All use HBM memory (SK hynix / Samsung / Micron)</span>
+  </div>
+
+  <p class="xp-exhibit-source">Source: Tom's Hardware custom ASIC state of play (May 2026); CNBC ASML/hyperscaler report (Nov 2025); Meta developer blog (March 2026, MTIA 300–500 roadmap); Amazon re:Invent 2025 (Trainium4 announcement); Microsoft Azure blog (Maia 200). Titan specs: ATF confirmed design partner only; compute and memory not yet disclosed by OpenAI.</p>
+</figure>
+
+<blockquote class="xp-pull-quote">
+  <p>&#8220;GPUs and ASICs are not competing markets. They are serving different problems — and both will keep growing. What has changed is that NVIDIA no longer sets the ceiling.&#8221;</p>
+  <cite>Colin Tan, Editor — Asia Tech Feed</cite>
+</blockquote>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>Where NVIDIA fits in the new order.</b> NVIDIA's response to the custom silicon wave reveals what the wave actually is. Jensen Huang's strategic emphasis on sovereign AI, national compute infrastructure, and enterprise AI explicitly targets markets where no hyperscaler ASIC exists — governments, universities, healthcare, defence. For research teams whose model architectures change monthly, there is no point designing an ASIC; you need a programmable GPU that can retrain tomorrow on a different architecture. NVIDIA remains dominant there.</p>
+    <p>What has genuinely shifted is the inference layer — the high-volume, fixed-model serving workload where ASIC economics are compelling. The 2026 data-centre accelerator market exceeds $200 billion. NVIDIA capturing 63% of $200 billion earns more revenue than capturing 88% of the $60 billion market it dominated in 2023. The ASIC wave is a market-expansion narrative that redistributes the marginal dollar of new growth, not a threat to the incumbent's absolute revenue.</p>
+  </div>
+  <div>
+    <p><b>Asia is where all of this gets made.</b> The custom silicon shift has a supply chain that is almost entirely Asian. TSMC fabricates chips for all five major hyperscaler ASIC programs — every chip in the Exhibit 2 table goes through Hsinchu or Tainan. The CoWoS advanced packaging that integrates compute dies with HBM adds another dependency on TSMC's Taichung and Chiayi facilities. SK hynix, Samsung and Micron supply HBM for every chip in the table. The ASIC wave does not reduce Asia's centrality to AI compute — it deepens it, because ASIC economics only work when yields are high, and high yields for advanced custom silicon require mature CoWoS relationships that only TSMC currently offers.</p>
+    <p>MediaTek's entry as a co-design partner is the most significant emerging development for the regional industry. If MediaTek wins a second hyperscaler, it breaks the Broadcom-Marvell lock and redistributes design revenue toward Taiwan — the only Asia-based company currently competing at the ASIC co-design tier.</p>
+  </div>
+</div>
+
+<!-- ── EXHIBIT 3: Broadcom revenue ───────────────────────── -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 3</div>
+  <h3>Broadcom&#8217;s AI revenue trajectory — the clearest quantitative signal in custom silicon</h3>
+  <p class="xp-exhibit-sub">Broadcom AI semiconductor revenue, $ billion (fiscal year ending October); 2025E–27F are estimates / guidance</p>
+
+  <svg viewBox="0 0 720 268" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bar chart of Broadcom AI chip revenue 2022 to 2027">
+    <defs>
+      <style>
+        .ba{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10.5px;fill:#5B6675}
+        .bb{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#0A2240}
+        .bc{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:11px;fill:#F2620F}
+        .bd{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9px;fill:#5B6675}
+        .be{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:13px;fill:#F2620F}
+        .bf{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9.5px;fill:#F2620F}
+        .bg{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:11px;fill:#0A2240}
+      </style>
+      <marker id="bArr" markerWidth="7" markerHeight="7" refX="5" refY="3.5" orient="auto">
+        <polygon points="0 0,7 3.5,0 7" fill="#F2620F"/>
+      </marker>
+    </defs>
+
+    <line x1="66" y1="225" x2="660" y2="225" stroke="#D8DEE6" stroke-width="0.8"/>
+    <line x1="66" y1="185" x2="660" y2="185" stroke="#D8DEE6" stroke-width="0.6"/>
+    <line x1="66" y1="146" x2="660" y2="146" stroke="#D8DEE6" stroke-width="0.6"/>
+    <line x1="66" y1="106" x2="660" y2="106" stroke="#D8DEE6" stroke-width="0.6"/>
+    <line x1="66" y1="66"  x2="660" y2="66"  stroke="#D8DEE6" stroke-width="0.6"/>
+
+    <text x="60" y="229" text-anchor="end" class="ba">$0</text>
+    <text x="60" y="189" text-anchor="end" class="ba">$25B</text>
+    <text x="60" y="150" text-anchor="end" class="ba">$50B</text>
+    <text x="60" y="110" text-anchor="end" class="ba">$75B</text>
+    <text x="60" y="70"  text-anchor="end" class="ba">$100B</text>
+
+    <rect x="80"  y="222" width="72" height="3"   fill="#C8D4E0" rx="1"/>
+    <text x="116" y="217" text-anchor="middle" class="bb">~$2B</text>
+    <text x="116" y="242" text-anchor="middle" class="ba">FY2022</text>
+
+    <rect x="184" y="219" width="72" height="6"   fill="#9AAEC5" rx="1"/>
+    <text x="220" y="214" text-anchor="middle" class="bb">~$4B</text>
+    <text x="220" y="242" text-anchor="middle" class="ba">FY2023</text>
+
+    <rect x="288" y="206" width="72" height="19"  fill="#5B7FA0" rx="1"/>
+    <text x="324" y="201" text-anchor="middle" class="bb">$12B</text>
+    <text x="324" y="242" text-anchor="middle" class="ba">FY2024</text>
+
+    <rect x="392" y="187" width="72" height="38"  fill="#0A2240" rx="1"/>
+    <text x="428" y="182" text-anchor="middle" class="bb">~$24B</text>
+    <text x="428" y="242" text-anchor="middle" class="bg">FY2025E</text>
+
+    <rect x="496" y="161" width="72" height="64"  fill="#00A6A6" rx="1" opacity="0.90"/>
+    <text x="532" y="156" text-anchor="middle" class="bc">~$40B</text>
+    <text x="532" y="242" text-anchor="middle" class="bg">FY2026F</text>
+
+    <rect x="600" y="66"  width="72" height="159" fill="#00A6A6" rx="1" opacity="0.75"/>
+    <text x="636" y="61"  text-anchor="middle" class="be">$100B</text>
+    <text x="636" y="242" text-anchor="middle" class="bg">FY2027F</text>
+
+    <rect x="468" y="28" width="220" height="26" fill="#FFF5F0" rx="2"/>
+    <text x="478" y="39"  class="bf" font-weight="700">CEO Hock Tan: &#8220;line of sight to</text>
+    <text x="478" y="51"  class="bf" font-weight="700">$100 billion&#8221; in AI chip revenue, 2027</text>
+
+    <text x="80" y="38" class="bd" font-weight="700">Backlog at end-FY2025: $73 billion</text>
+    <text x="80" y="50" class="bd">Q1 FY2026 AI revenue: $8.4B (+106% YoY)</text>
+  </svg>
+
+  <p class="xp-exhibit-source">Source: Broadcom earnings calls and investor presentations (Q1 FY2026, Jan 2026); Tom's Hardware custom ASIC analysis (May 2026); Oplexa market analysis (May 2026); ATF estimates for FY2022&#8211;23 baselines and FY2026&#8211;27F. Broadcom fiscal year ends October. &#8220;AI revenue&#8221; = AI semiconductor product revenue per Broadcom segment reporting.</p>
+</figure>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>Three predictions for 2026–27.</b> First: by end-2027, custom ASIC volume shipments exceed GPU volume shipments for AI inference — Counterpoint and Broadcom guidance both converge there. Second: a fourth credible co-design partner emerges at scale. MediaTek's US hyperscaler win is the signal; if it delivers on schedule, it becomes the template for the Korean design houses (Samsung LSI, SK hynix logic) to follow. Third: NVIDIA's NVLink Fusion strategy succeeds — Marvell's custom chips become interoperable with NVIDIA's interconnect fabric, and hybrid ASIC-GPU clusters become the dominant AI data-centre architecture by late 2027.</p>
+  </div>
+  <div>
+    <p><b>The honest counterpoint.</b> Custom silicon has real limits. ASICs are brittle: a chip tuned for one model architecture becomes expensive to retrain for the next. Meta's strategy — a new MTIA generation every six months — is a candid admission that model evolution is fast enough to stress any custom silicon roadmap. The companies most exposed to that brittleness are the ones betting most aggressively: a multi-billion ASIC program that serves the wrong model architecture for 18 months is a sunk cost, not a strategic asset. NVIDIA's CUDA flexibility is not just lock-in — it is genuine insurance against architectural bet risk that ASICs cannot replicate.</p>
+  </div>
+</div>
+
+<div class="xp-callout">
+  <div class="xp-callout-label">The Bottom Line</div>
+  <p>Custom AI chips are not replacing NVIDIA. They are absorbing the workloads that scale so predictably and so vastly that general-purpose silicon is economically wasteful for them — and they are doing so faster than any consensus forecast predicted a year ago. The result is a bifurcating industry: ASIC for fixed-scale inference, GPU for flexible and research compute. Both will grow. The companies that benefit regardless of which badge wins are TSMC, HBM suppliers, and the Broadcom–Marvell co-design axis. Every custom chip is still a TSMC chip using Korean memory, co-designed in the US but executed in Asia.</p>
+</div>
+
+<div class="xp-author-bio">
+  <div class="xp-author-name">Colin Tan &nbsp;·&nbsp; Editor, Asia Tech Feed</div>
+  <p>Colin covers semiconductors, AI infrastructure and supply-chain dynamics across the Asia-Pacific region. He has tracked the custom silicon wave from Google's first TPU tape-out through the current hyperscaler ASIC boom and writes the daily ATF digest. Reach him at <a href="mailto:colin.tan@asiatechfeed.com">colin.tan@asiatechfeed.com</a> or connect on LinkedIn.</p>
+</div>
+
+<div class="xp-footer-grid">
+  <div class="xp-key-numbers">
+    <div class="xp-kn-label">Key Numbers</div>
+    <div class="xp-kn-item"><div class="xp-kn-val">45%</div><div class="xp-kn-desc">ASIC shipment growth<br>2026F (vs 16% GPU)</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">$73B</div><div class="xp-kn-desc">Broadcom AI backlog<br>end-FY2025</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">95%</div><div class="xp-kn-desc">ASIC co-design market<br>held by Broadcom+Marvell</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">30–50%</div><div class="xp-kn-desc">Cost-per-inference saving<br>vs merchant GPU</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">$100B</div><div class="xp-kn-desc">Broadcom AI chip revenue<br>target, FY2027</div></div>
+  </div>
+  <div class="xp-related">
+    <div class="xp-related-label">Related Coverage</div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">EXPLAINER</span>
+      <h4>What is HBM memory and why does it matter for AI pricing?</h4>
+      <p>Every custom AI chip in the table above runs on HBM. Why the memory that makes them work is driving the industry's biggest cost squeeze.</p>
+    </div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">EXPLAINER</span>
+      <h4>What is a chiplet, and why has packaging become the real chokepoint in chipmaking?</h4>
+      <p>Custom ASICs and NVIDIA GPUs alike depend on TSMC's CoWoS packaging. The bottleneck that limits how many of either chip ships.</p>
+    </div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">REPORT</span>
+      <h4>Asia Tech Feed on Semiconductors: Outlook H2 2026–2027</h4>
+      <p>Ten falsifiable predictions for the semiconductor industry — including calls on custom silicon market share, HBM4E customisation, and CoWoS capacity.</p>
+    </div>
+  </div>
+</div>
