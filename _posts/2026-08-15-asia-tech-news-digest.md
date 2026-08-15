@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - August 15, 2026"
-date: 2026-08-15 09:40:25 +0800
+date: 2026-08-15 16:00:42 +0800
 articles_count: 7
 sources_count: 3
 sources: ["CNA", "DigiTimes", "TechAsia"]
 csv_file: /assets/data/news-2026-08-15.tsv
-featured_title: "US to tell partners they must pick sides in AI race with China"
-featured_url: "https://www.channelnewsasia.com/east-asia/us-china-ai-race-pax-silica-waico-6320671"
+featured_title: "India PM Modi woos youth with free coaching, AI training"
+featured_url: "https://www.channelnewsasia.com/asia/india-modi-education-youth-free-coaching-ai-training-6321086"
 featured_source: "CNA"
-featured_summary: "\"Signature of the Pax Silica Declaration is not merely a membership subscription, but a commitment,\" the draft letter says, referring to the United States-led AI coalition launched last year."
-featured_image: "https://dam.mediacorp.sg/image/upload/s--ppZB1XJv--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-14T210941Z_1_LYNXMPEM7D1NX_RTROPTP_3_USA-CONGRESS-AI.JPG?itok=6tnu6Ng4"
+featured_summary: "Speaking weeks after massive youth-led protests forced the education minister to resign, Indian Prime Minister Narendra Modi said the initiative was aimed at easing the financial burden on millions of families."
+featured_image: "https://dam.mediacorp.sg/image/upload/s--wGtc9EYG--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/15/india_narendra_modi_1.jpg?itok=LMk_e-nK"
 ---
 
 <table class="news-table">
@@ -28,58 +28,58 @@ featured_image: "https://dam.mediacorp.sg/image/upload/s--ppZB1XJv--/c_fill,g_au
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">US to tell partners they must pick sides in AI race with China</span></td>
-  <td class="col-summary">"Signature of the Pax Silica Declaration is not merely a membership subscription, but a commitment," the draft letter says, referring to the United States-led AI coalition launched last year.</td>
+  <td class="col-title"><span class="article-title">India PM Modi woos youth with free coaching, AI training</span></td>
+  <td class="col-summary">Speaking weeks after massive youth-led protests forced the education minister to resign, Indian Prime Minister Narendra Modi said the initiative was aimed at easing the financial burden on millions of families.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/us-china-ai-race-pax-silica-waico-6320671" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/india-modi-education-youth-free-coaching-ai-training-6321086" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Tripod posts record second-quarter margins on strong server and memory demand</span></td>
-  <td class="col-summary">Tripod Technology said revenue and profit both hit record highs in the second quarter of 2026, driven by strong shipments of server and memory products and the continued effect of price increases implemented to pass on higher raw material costs. The PCB maker said gross margin rose above 30% for the first time as deman</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260813PD251/revenue-profit-tripod-demand-2026.html?chid=10" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Goldman Sachs in talks on Nvidia’s $500b AI plan</span></td>
+  <td class="col-summary">Nvidia has said it has the option to backstop up to US$125 billion, or 25% of potential deals.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-credit-risk-rises-ai-deal-talks" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">MicroIP sees second-half revenue lift as board approves cash raise</span></td>
-  <td class="col-summary">MICROIP, which focuses on AI software design services and ASIC design services, said its first-half 2026 financial report showed continued investment in core technologies and key IP. The company also disclosed that its board approved a cash capital increase to support working capital and ongoing development as more pro</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia scales back data center guarantee plans: report</span></td>
+  <td class="col-summary">Separately, OpenAI’s Stargate project with Oracle and SoftBank Group is a US$500 billion US AI infrastructure effort expected to exceed 9 gigawatts by 2029.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260813PD252/design-revenue-asic-2026-software.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-talks-250b-backing-openai-ohio-site" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Interview: Acrab CEO Ken Phua on building agentic AI silicon in Singapore</span></td>
-  <td class="col-summary">Ken Phua, former Arm China co-CEO, spent 25 years abroad building someone else's business model. He came home to Singapore to build his own.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260813VL211/arm-silicon-business-software.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Research insight: Delta, Lite-on raise capex to 9% of revenue in AI data center power race</span></td>
+  <td class="col-summary">The speed of AI data center deployment is raising the bar for power and cooling suppliers. Chipmakers such as Nvidia and AMD are refreshing platforms annually, with each generation bringing sharp increases in power density and thermal requirements. Suppliers that cannot match that pace in R&D or capacity deployment ris</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260814PD214/delta-electronics-lite-on-data-center-cooling-capex-production-revenue.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">LG teams up with Nvidia on AI robots, factories</span></td>
-  <td class="col-summary">LG also plans to test its CLOiD wheel-based robots on an LG Electronics washing machine manufacturing line in Tennessee this year.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/lg-chem-plans-9-7b-rd-push-for-chips-robot-tech" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Memory supply crunch pushes long-term contracts beyond the big three</span></td>
+  <td class="col-summary">The global memory supply shortage is intensifying, with long-term agreements (LTAs) rapidly expanding beyond the three major memory manufacturers—Samsung Electronics, SK hynix, and Micron Technology—to include Sandisk, Nanya Technology Corporation, and China's ChangXin Memory Technologies (CXMT).</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260813PD247/capacity-price-2026-sk-hynix-dram.html?chid=10" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">DeepX secures over $13m in AI chip orders</span></td>
-  <td class="col-summary">By the end of July 2026, the company had recorded 77 purchase orders, including 48 between April and July.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/south-korean-ai-chip-startup-deepx-raises-293m" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">AI server tracker: Demand drives July revenue gains across Taiwan infrastructure suppliers</span></td>
+  <td class="col-summary">Data center infrastructure providers reported revenue gains across baseboard management controllers (BMCs), optical modules, power supply components, and thermal management products. Some companies, such as LandMark Optoelectronics and Auras Technology, reported year-over-year July revenue growth exceeding 100%.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260814VL231/revenue-infrastructure-growth-taiwan-ai-server.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Microsoft cuts carbon removal buys as AI spending rises</span></td>
-  <td class="col-summary">Microsoft said the purchases remain part of its decarbonization strategy, alongside goals to become carbon negative and remove its historical emissions by 2050.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/microsoft-emissions-rose-27-ai-buildout-grew" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Uber, Pony.ai plan 2,000 robotaxis in Europe</span></td>
+  <td class="col-summary">The expansion would extend the companies’ existing commercial robotaxi service in Zagreb, Croatia, to four unnamed cities in Europe.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/pony-ai-comfortdelgro-to-launch-driverless-services-in-singapore" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>

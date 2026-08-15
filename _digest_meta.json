@@ -9,29 +9,29 @@
   "post_file": "2026-08-15-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "US to tell partners they must pick sides in AI race with China",
+      "title": "India PM Modi woos youth with free coaching, AI training",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/us-china-ai-race-pax-silica-waico-6320671"
+      "url": "https://www.channelnewsasia.com/asia/india-modi-education-youth-free-coaching-ai-training-6321086"
     },
     {
-      "title": "Tripod posts record second-quarter margins on strong server and memory demand",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260813PD251/revenue-profit-tripod-demand-2026.html?chid=10"
-    },
-    {
-      "title": "MicroIP sees second-half revenue lift as board approves cash raise",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260813PD252/design-revenue-asic-2026-software.html"
-    },
-    {
-      "title": "Interview: Acrab CEO Ken Phua on building agentic AI silicon in Singapore",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260813VL211/arm-silicon-business-software.html"
-    },
-    {
-      "title": "LG teams up with Nvidia on AI robots, factories",
+      "title": "Goldman Sachs in talks on Nvidia\u2019s $500b AI plan",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/lg-chem-plans-9-7b-rd-push-for-chips-robot-tech"
+      "url": "https://www.techinasia.com/nvidia-credit-risk-rises-ai-deal-talks"
+    },
+    {
+      "title": "Nvidia scales back data center guarantee plans: report",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/nvidia-talks-250b-backing-openai-ohio-site"
+    },
+    {
+      "title": "Research insight: Delta, Lite-on raise capex to 9% of revenue in AI data center power race",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260814PD214/delta-electronics-lite-on-data-center-cooling-capex-production-revenue.html"
+    },
+    {
+      "title": "Memory supply crunch pushes long-term contracts beyond the big three",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260813PD247/capacity-price-2026-sk-hynix-dram.html?chid=10"
     }
   ],
   "source_stats": [
@@ -48,7 +48,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -128,7 +128,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -147,7 +147,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 6,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -165,7 +165,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 6,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
