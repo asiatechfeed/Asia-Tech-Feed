@@ -1,37 +1,37 @@
 {
   "date": "2026-08-15",
-  "count": 8,
+  "count": 7,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-15-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Gelsinger calls HBM 'lousy', SK Hynix says it's not memory's final answer",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260814PD227/hbm-sk-hynix-pat-gelsinger-component-semiconductors.html"
+      "title": "US to tell partners they must pick sides in AI race with China",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/us-china-ai-race-pax-silica-waico-6320671"
     },
     {
-      "title": "Asia Vital Components sees stronger AI server demand and faster liquid cooling adoption",
+      "title": "Tripod posts record second-quarter margins on strong server and memory demand",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html"
+      "url": "https://www.digitimes.com/news/a20260813PD251/revenue-profit-tripod-demand-2026.html?chid=10"
     },
     {
-      "title": "Research Insight: Unitree IPO reveals humanoid robot commercialization still in early innings",
+      "title": "MicroIP sees second-half revenue lift as board approves cash raise",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260814PD218/robot-ipo-industrial-2025-manufacturing.html"
+      "url": "https://www.digitimes.com/news/a20260813PD252/design-revenue-asic-2026-software.html"
     },
     {
-      "title": "Uber co-founder: Treat buildings like computers",
+      "title": "Interview: Acrab CEO Ken Phua on building agentic AI silicon in Singapore",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260813VL211/arm-silicon-business-software.html"
+    },
+    {
+      "title": "LG teams up with Nvidia on AI robots, factories",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/travis-kalanick-treat-buildings-like-computers"
-    },
-    {
-      "title": "Unitree set for Shanghai debut after $905m IPO",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/unitree-outships-us-humanoid-rivals-as-china-leads-hardware"
+      "url": "https://www.techinasia.com/lg-chem-plans-9-7b-rd-push-for-chips-robot-tech"
     }
   ],
   "source_stats": [
@@ -48,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -128,7 +128,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -167,7 +167,7 @@
       "fetched": 50,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -192,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
