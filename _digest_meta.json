@@ -1,36 +1,31 @@
 {
   "date": "2026-08-16",
-  "count": 6,
+  "count": 4,
   "sources": [
-    "DigiTimes",
-    "TechAsia"
+    "CNA",
+    "DigiTimes"
   ],
   "post_file": "2026-08-16-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Stay in your lane",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/stay-lane"
+      "title": "'People could get hurt': Conservationists decry AI wildlife visuals",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/wildlife-ai-artificial-visuals-conservation-threat-6322106"
     },
     {
-      "title": "Unitree IPO at $9b as Hyperliquid contracts signal $38b",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/unitree-sees-profit-fall-before-ipo-review"
-    },
-    {
-      "title": "Edgecore pushes all-optical networking for distributed AI data centers",
+      "title": "AI reshapes semiconductor testing as KYEC pushes four-way model",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260813PD216/data-infrastructure-data-center-gpu-taiwan.html"
+      "url": "https://www.digitimes.com/news/a20260813PD235/testing-king-yuan-ai-chip-demand-supply-chain.html"
     },
     {
-      "title": "TV slowdown accelerates panel makers' shift to IT OLED, UBI Research found",
+      "title": "AI product cycle lifts Chroma test demand",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260813PD230/tv-demand-panel-panel-prices-growth.html"
+      "url": "https://www.digitimes.com/news/a20260813PD236/demand-testing-equipment-technology-taiwan.html"
     },
     {
-      "title": "Flytech posts record second-quarter profit on AI demand, margin gains",
+      "title": "AI infrastructure enters multi-architecture fabric competition; Optical-copper interconnects and supply-chain coordination determine system performance",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260813PD234/profit-flytech-pc-demand-revenue.html"
+      "url": "https://www.digitimes.com/news/a20260731RS402/digitimes-infrastructure-data-switch-performance.html?chid=2"
     }
   ],
   "source_stats": [
@@ -47,9 +42,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -146,7 +141,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 2,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -191,9 +186,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
