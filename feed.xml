@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-15T12:16:45+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 15, 2026</title><link href="https://asiatechfeed.com/2026/08/15/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 15, 2026" /><published>2026-08-15T08:00:42+00:00</published><updated>2026-08-15T08:00:42+00:00</updated><id>https://asiatechfeed.com/2026/08/15/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/15/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-16T00:02:45+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 16, 2026</title><link href="https://asiatechfeed.com/2026/08/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 16, 2026" /><published>2026-08-16T00:02:15+00:00</published><updated>2026-08-16T00:02:15+00:00</updated><id>https://asiatechfeed.com/2026/08/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Samsung, SK Hynix HBM4 hiring war drains South Korea's chip design talent</span></td>
+  <td class="col-summary">South Korea's semiconductor talent shortage is intensifying as Samsung Electronics and SK Hynix recruit experienced chip designers for increasingly complex HBM4 products, drawing key engineers away from fabless companies and design houses while tighter restrictions complicate movement between the country's two memory g</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260814VL211/samsung-design-sk-hynix-hbm4-talent.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Interview: Orbbec bridges physical AI data gaps with robot-free platform</span></td>
+  <td class="col-summary">As physical AI and robotics draw unprecedented market attention, a key bottleneck is clogging the deployment pipeline: quality, real-world physical data. To move applications from the lab to real-world deployment, companies are getting creative in overcoming this obstacle while balancing affordability, stability, and d</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260814VL226/data-orbbec-robotics-robot-market.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">China's AI supernode build-out turns more chips into more computing power</span></td>
+  <td class="col-summary">China is accelerating construction of its national computing network, and a growing share of new capacity is likely to use supernodes. With domestic AI accelerators still trailing leading global chips in single-card performance, Chinese vendors are increasingly relying on larger card counts, high-speed interconnects an</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260814VL228/chips-capacity-2026-data-performance.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Samsung, SK Hynix HBM4 hiring war drains South Korea's chip design talent South Korea's semiconductor talent shortage is intensifying as Samsung Electronics and SK Hynix recruit experienced chip designers for increasingly complex HBM4 products, drawing key engineers away from fabless companies and design houses while tighter restrictions complicate movement between the country's two memory g SemiconductorElectronics Read 2 DigiTimes Interview: Orbbec bridges physical AI data gaps with robot-free platform As physical AI and robotics draw unprecedented market attention, a key bottleneck is clogging the deployment pipeline: quality, real-world physical data. To move applications from the lab to real-world deployment, companies are getting creative in overcoming this obstacle while balancing affordability, stability, and d AIAutomation Read 3 DigiTimes China's AI supernode build-out turns more chips into more computing power China is accelerating construction of its national computing network, and a growing share of new capacity is likely to use supernodes. With domestic AI accelerators still trailing leading global chips in single-card performance, Chinese vendors are increasingly relying on larger card counts, high-speed interconnects an AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 15, 2026</title><link href="https://asiatechfeed.com/2026/08/15/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 15, 2026" /><published>2026-08-15T08:00:42+00:00</published><updated>2026-08-15T08:00:42+00:00</updated><id>https://asiatechfeed.com/2026/08/15/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/15/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -643,73 +680,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/shares-in-australia-s-atlassian-surge-33-as-sales-growth-quells-ai-fears" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes SK Hynix commits US$39 billion to new Yongin and Cheongju fabs as AI memory demand builds SK Hynix has approved roughly KRW54 trillion (approx. US$39 billion) in new fab construction across two domestic sites, allocating KRW35.2 trillion to a second Yongin fab and KRW19.1 trillion to a new Cheongju NAND plant, in a move the company frames as securing supply capacity rather than chasing a cycle. AISemiconductor Read 2 DigiTimes China launches review of Palo Alto Networks as trade tensions with US escalate China's cyberspace authority said it has begun to scrutinize products sold by US cybersecurity company Palo Alto Networks within the country, citing risks to national security and critical infrastructure in its decision. This takes place during a time of heightened tensions between the US and China over technology supp AILogistics Read 3 TechAsia Predicting cancer drug responses before clinical trials begin AlphaGrid uses AI and patient-derived organoids to build digital twins of tumors, testing drug responses before clinical trials even begin. AIPharmaceutical Read 4 DigiTimes Zhen Ding Tech hits July revenue record on AI and consumer electronics demand Zhen Ding Tech (ZDT) said July revenue reached its highest level so far in 2026, supported by strong momentum across mobile communications, servers, optical modules and IC substrates. Its mobile communications business maintained double-digit year-on-year growth, while combined revenue from servers, optical modules and ElectronicsAI Read 5 TechAsia Taiwan chipmaker Nanya plans $10.7b fab investment The fab is being built in New Taipei City’s Nanlin Technology Park under a phased project that began in 2022. Semiconductor Read 6 EETAsia SEMICON Taiwan 2026 Spotlights Breakthroughs in Design, Memory, and Optical Interconnect SEMICON Taiwan 2026 highlights how AI power constraints are accelerating system-level integration across chips, memory, and optical interconnects. The post SEMICON Taiwan 2026 Spotlights Breakthroughs in Design, Memory, and Optical Interconnect appeared first on EE Times Asia . AISemiconductor Read 7 TechAsia Chinese AI firms push Hong Kong data center leasing Hong Kong’s appeal partly reflects a lighter cross-border data transfer regime. AI Read 8 EETAsia DigiKey and Engineering Influencer Shawn Hymel to Host Webinar for Robotics Developers DigiKey is strengthening its educational offerings in AI and robotics with a hands-on webinar and a six-part video series focused on reinforcement learning. The post DigiKey and Engineering Influencer Shawn Hymel to Host Webinar for Robotics Developers appeared first on EE Times Asia . AIAutomation Read 9 EETAsia Global Chip Sales Up 35% in 2Q 2026 Global semiconductor sales reached $403.3 billion in 2Q 2026, up by 35.1% quarter-on-quarter, according to SIA. The post Global Chip Sales Up 35% in 2Q 2026 appeared first on EE Times Asia . Semiconductor Read 10 NikkeiAsia Shares in Australia's Atlassian surge 33% as sales growth quells AI fears Shares in Australia's Atlassian surge 33% as sales growth quells AI fears AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 06, 2026</title><link href="https://asiatechfeed.com/2026/08/06/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 06, 2026" /><published>2026-08-06T08:01:01+00:00</published><updated>2026-08-06T08:01:01+00:00</updated><id>https://asiatechfeed.com/2026/08/06/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/06/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Zero-capex AI to decarbonize Asian buildings</span></td>
-  <td class="col-summary">Ampotech combines AI software with zero-capex financing to help Asian factories and commercial buildings reduce their energy use by up to 48%.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/zerocapex-ai-decarbonize-asian-buildings" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Parade sees steadier outlook despite margin pressure from memory costs</span></td>
-  <td class="col-summary">Parade said its second-quarter 2026 results were squeezed by a sudden increase in back-end testing and packaging costs, but the high-speed interface chip designer remains confident about demand going forward. For global readers, the takeaway is that rising memory prices are reshaping notebook and PC supply chains, yet </td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260806PD208/parade-revenue-demand-growth-testing.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">US polysilicon tariff exposes chip security's solar dependence</span></td>
-  <td class="col-summary">The Trump administration is preparing to impose a 15% tariff and minimum import prices on polysilicon and selected derivative products, placing an upstream material shared by solar panels and semiconductor chips at the center of efforts to reduce US exposure to Chinese supply.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260806VL211/polysilicon-solar-security-price-demand.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan's offshore wind pipeline stalls as failed tenders raise fears of supply chain gap</span></td>
-  <td class="col-summary">Taiwan's high-tech industry is facing an increasingly urgent need for renewable electricity, yet progress on major offshore wind projects has slowed significantly.</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260806PD223/taiwan-offshore-wind-supply-chain-electricity.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Moonshot AI targets $50b valuation in new round: sources</span></td>
-  <td class="col-summary">The fundraising would be Moonshot’s last before a listing, according to the people.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-moonshot-seeks-hong-kong-ipo" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">This startup fixes AI model drift in high-stakes workflows</span></td>
-  <td class="col-summary">Backed by Antler, Nugen Intelligence helps enterprises prevent million-dollar AI failures with a simple one-line code integration.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/startup-fixes-ai-model-drift-highstakes-workflows" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Amundi says AI remains a long-term bet despite sell-off</span></td>
-  <td class="col-summary">Amundi says AI remains a long-term bet despite sell-off</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/amundi-says-ai-remains-a-long-term-bet-despite-sell-off" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Zero-capex AI to decarbonize Asian buildings Ampotech combines AI software with zero-capex financing to help Asian factories and commercial buildings reduce their energy use by up to 48%. AI Read 2 DigiTimes Parade sees steadier outlook despite margin pressure from memory costs Parade said its second-quarter 2026 results were squeezed by a sudden increase in back-end testing and packaging costs, but the high-speed interface chip designer remains confident about demand going forward. For global readers, the takeaway is that rising memory prices are reshaping notebook and PC supply chains, yet SemiconductorLogistics Read 3 DigiTimes US polysilicon tariff exposes chip security's solar dependence The Trump administration is preparing to impose a 15% tariff and minimum import prices on polysilicon and selected derivative products, placing an upstream material shared by solar panels and semiconductor chips at the center of efforts to reduce US exposure to Chinese supply. Semiconductor Read 4 DigiTimes Taiwan's offshore wind pipeline stalls as failed tenders raise fears of supply chain gap Taiwan's high-tech industry is facing an increasingly urgent need for renewable electricity, yet progress on major offshore wind projects has slowed significantly. Logistics Read 5 TechAsia Moonshot AI targets $50b valuation in new round: sources The fundraising would be Moonshot’s last before a listing, according to the people. AI Read 6 TechAsia This startup fixes AI model drift in high-stakes workflows Backed by Antler, Nugen Intelligence helps enterprises prevent million-dollar AI failures with a simple one-line code integration. AI Read 7 NikkeiAsia Amundi says AI remains a long-term bet despite sell-off Amundi says AI remains a long-term bet despite sell-off AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes SK Hynix commits US$39 billion to new Yongin and Cheongju fabs as AI memory demand builds SK Hynix has approved roughly KRW54 trillion (approx. US$39 billion) in new fab construction across two domestic sites, allocating KRW35.2 trillion to a second Yongin fab and KRW19.1 trillion to a new Cheongju NAND plant, in a move the company frames as securing supply capacity rather than chasing a cycle. AISemiconductor Read 2 DigiTimes China launches review of Palo Alto Networks as trade tensions with US escalate China's cyberspace authority said it has begun to scrutinize products sold by US cybersecurity company Palo Alto Networks within the country, citing risks to national security and critical infrastructure in its decision. This takes place during a time of heightened tensions between the US and China over technology supp AILogistics Read 3 TechAsia Predicting cancer drug responses before clinical trials begin AlphaGrid uses AI and patient-derived organoids to build digital twins of tumors, testing drug responses before clinical trials even begin. AIPharmaceutical Read 4 DigiTimes Zhen Ding Tech hits July revenue record on AI and consumer electronics demand Zhen Ding Tech (ZDT) said July revenue reached its highest level so far in 2026, supported by strong momentum across mobile communications, servers, optical modules and IC substrates. Its mobile communications business maintained double-digit year-on-year growth, while combined revenue from servers, optical modules and ElectronicsAI Read 5 TechAsia Taiwan chipmaker Nanya plans $10.7b fab investment The fab is being built in New Taipei City’s Nanlin Technology Park under a phased project that began in 2022. Semiconductor Read 6 EETAsia SEMICON Taiwan 2026 Spotlights Breakthroughs in Design, Memory, and Optical Interconnect SEMICON Taiwan 2026 highlights how AI power constraints are accelerating system-level integration across chips, memory, and optical interconnects. The post SEMICON Taiwan 2026 Spotlights Breakthroughs in Design, Memory, and Optical Interconnect appeared first on EE Times Asia . AISemiconductor Read 7 TechAsia Chinese AI firms push Hong Kong data center leasing Hong Kong’s appeal partly reflects a lighter cross-border data transfer regime. AI Read 8 EETAsia DigiKey and Engineering Influencer Shawn Hymel to Host Webinar for Robotics Developers DigiKey is strengthening its educational offerings in AI and robotics with a hands-on webinar and a six-part video series focused on reinforcement learning. The post DigiKey and Engineering Influencer Shawn Hymel to Host Webinar for Robotics Developers appeared first on EE Times Asia . AIAutomation Read 9 EETAsia Global Chip Sales Up 35% in 2Q 2026 Global semiconductor sales reached $403.3 billion in 2Q 2026, up by 35.1% quarter-on-quarter, according to SIA. The post Global Chip Sales Up 35% in 2Q 2026 appeared first on EE Times Asia . Semiconductor Read 10 NikkeiAsia Shares in Australia's Atlassian surge 33% as sales growth quells AI fears Shares in Australia's Atlassian surge 33% as sales growth quells AI fears AI Read]]></summary></entry></feed>
