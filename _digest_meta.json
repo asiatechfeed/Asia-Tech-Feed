@@ -1,25 +1,36 @@
 {
   "date": "2026-08-16",
-  "count": 3,
+  "count": 6,
   "sources": [
-    "DigiTimes"
+    "DigiTimes",
+    "TechAsia"
   ],
   "post_file": "2026-08-16-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Samsung, SK Hynix HBM4 hiring war drains South Korea's chip design talent",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260814VL211/samsung-design-sk-hynix-hbm4-talent.html"
+      "title": "Stay in your lane",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/stay-lane"
     },
     {
-      "title": "Interview: Orbbec bridges physical AI data gaps with robot-free platform",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260814VL226/data-orbbec-robotics-robot-market.html"
+      "title": "Unitree IPO at $9b as Hyperliquid contracts signal $38b",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/unitree-sees-profit-fall-before-ipo-review"
     },
     {
-      "title": "China's AI supernode build-out turns more chips into more computing power",
+      "title": "Edgecore pushes all-optical networking for distributed AI data centers",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260814VL228/chips-capacity-2026-data-performance.html"
+      "url": "https://www.digitimes.com/news/a20260813PD216/data-infrastructure-data-center-gpu-taiwan.html"
+    },
+    {
+      "title": "TV slowdown accelerates panel makers' shift to IT OLED, UBI Research found",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260813PD230/tv-demand-panel-panel-prices-growth.html"
+    },
+    {
+      "title": "Flytech posts record second-quarter profit on AI demand, margin gains",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260813PD234/profit-flytech-pc-demand-revenue.html"
     }
   ],
   "source_stats": [
@@ -180,9 +191,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 15,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {

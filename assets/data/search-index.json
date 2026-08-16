@@ -1,39 +1,69 @@
 [
   {
     "date": "2026-08-16",
-    "title": "Samsung, SK Hynix HBM4 hiring war drains South Korea's chip design talent",
-    "summary": "South Korea's semiconductor talent shortage is intensifying as Samsung Electronics and SK Hynix recruit experienced chip designers for increasingly complex HBM4 products, drawing key engineers away from fabless companies and design houses while tighter restrictions complicate movement between the country's two memory g",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Stay in your lane",
+    "summary": "Why hyperlocal VCs, a scrappy rocket maker, and AI wearables all prove the same point: There’s value in knowing your lane and staying in it.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "Semiconductor",
-      "Electronics"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260814VL211/samsung-design-sk-hynix-hbm4-talent.html"
+    "url": "https://www.techinasia.com/stay-lane"
   },
   {
     "date": "2026-08-16",
-    "title": "Interview: Orbbec bridges physical AI data gaps with robot-free platform",
-    "summary": "As physical AI and robotics draw unprecedented market attention, a key bottleneck is clogging the deployment pipeline: quality, real-world physical data. To move applications from the lab to real-world deployment, companies are getting creative in overcoming this obstacle while balancing affordability, stability, and d",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Unitree IPO at $9b as Hyperliquid contracts signal $38b",
+    "summary": "Unitree makes humanoid and quadruped robots, components, and embodied intelligence models.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "AI",
       "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20260814VL226/data-orbbec-robotics-robot-market.html"
+    "url": "https://www.techinasia.com/unitree-sees-profit-fall-before-ipo-review"
   },
   {
     "date": "2026-08-16",
-    "title": "China's AI supernode build-out turns more chips into more computing power",
-    "summary": "China is accelerating construction of its national computing network, and a growing share of new capacity is likely to use supernodes. With domestic AI accelerators still trailing leading global chips in single-card performance, Chinese vendors are increasingly relying on larger card counts, high-speed interconnects an",
+    "title": "Edgecore pushes all-optical networking for distributed AI data centers",
+    "summary": "Edgecore Networks said distributed AI infrastructure will become more important as data centers run into limits on power, space, and cooling. Speaking at the 2026 OCP APAC Summit, the company outlined an all-optical networking approach designed to connect GPUs, servers, and storage across multiple sites and regions.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI",
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260814VL228/chips-capacity-2026-data-performance.html"
+    "url": "https://www.digitimes.com/news/a20260813PD216/data-infrastructure-data-center-gpu-taiwan.html"
+  },
+  {
+    "date": "2026-08-16",
+    "title": "TV slowdown accelerates panel makers' shift to IT OLED, UBI Research found",
+    "summary": "With global TV demand slowing and panel prices continuing to fall, display makers are facing intensifying profit pressure. Analysts say the industry's bottleneck extends beyond low-priced Chinese competition and reflects a broader reshaping of the consumer electronics value chain, with OLED's next growth phase likely t",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260813PD230/tv-demand-panel-panel-prices-growth.html"
+  },
+  {
+    "date": "2026-08-16",
+    "title": "Flytech posts record second-quarter profit on AI demand, margin gains",
+    "summary": "Industrial PC maker Flytech Technology reported another record quarterly profit in the second quarter of 2026, driven by deeper penetration into end-market applications, stronger demand for AI software and site computing upgrades, and continued operating leverage. The Americas delivered the largest regional contributio",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260813PD234/profit-flytech-pc-demand-revenue.html"
+  },
+  {
+    "date": "2026-08-16",
+    "title": "SK hynix first-half spending jumps 73% on AI demand",
+    "summary": "Research and development spending nearly doubled to 6 trillion won (US$4.23 billion), according to the company’s half-year report released on August 14.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/sk-hynix-sell-shares-raise-investment"
   },
   {
     "date": "2026-08-15",
