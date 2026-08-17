@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-16T08:01:22+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 16, 2026</title><link href="https://asiatechfeed.com/2026/08/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 16, 2026" /><published>2026-08-16T08:00:50+00:00</published><updated>2026-08-16T08:00:50+00:00</updated><id>https://asiatechfeed.com/2026/08/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-17T00:02:45+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 17, 2026</title><link href="https://asiatechfeed.com/2026/08/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 17, 2026" /><published>2026-08-17T00:02:09+00:00</published><updated>2026-08-17T00:02:09+00:00</updated><id>https://asiatechfeed.com/2026/08/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Stripe agrees to buy US AI startup OpenRouter</span></td>
+  <td class="col-summary">Before the reported sale, OpenRouter raised a US$113 million series B round at a reported valuation of about US$1.3 billion.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/stripe-unveils-stablecoin-ai-upgrades-global-businesses" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">OCI thins solar wafers to boost Vietnam output 39%</span></td>
+  <td class="col-summary">OCI Holdings is turning to thinner solar wafers to raise output from its Vietnam operations by nearly 40% without adding production lines, as demand from US customers outpaces existing capacity.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260814VL227/solar-polysilicon-wafer-capacity-demand.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">AI server tracker: Demand drives strong growth across Taiwan's CCL, design services, substrate, and testing supply chains</span></td>
+  <td class="col-summary">Taiwan's AI server supply chain continued to show strong growth in July 2026, with revenue rising across copper-clad laminate (CCL), design services, substrates, and testing. All four segments recorded year-over-year growth, while design services posted the strongest monthly increase.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260814VL223/taiwan-monthly-tracker-ai-server-ccl-growth-revenue.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">India roundup: India's electronics push gains momentum as water, China ties and chip incentives collide</span></td>
+  <td class="col-summary">India's electronics and AI infrastructure ambitions are accelerating, but mounting environmental opposition, tighter Chinese visa curbs, and intensifying competition for semiconductor investment are exposing new challenges. As Google advances a US$15 billion AI data center, Larsen &amp; Toubro (L&amp;T) restructures its cloud </td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260814VL218/electronics-incentives-water-data-center-business.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Series SEA: Who’s investing in the region’s AI startups?</span></td>
+  <td class="col-summary">We've compiled a list of investors that are pouring money into Southeast Asia’s AI startups.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/top-sea-investors-ai" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Stripe agrees to buy US AI startup OpenRouter Before the reported sale, OpenRouter raised a US$113 million series B round at a reported valuation of about US$1.3 billion. AI Read 2 DigiTimes OCI thins solar wafers to boost Vietnam output 39% OCI Holdings is turning to thinner solar wafers to raise output from its Vietnam operations by nearly 40% without adding production lines, as demand from US customers outpaces existing capacity. Semiconductor Read 3 DigiTimes AI server tracker: Demand drives strong growth across Taiwan's CCL, design services, substrate, and testing supply chains Taiwan's AI server supply chain continued to show strong growth in July 2026, with revenue rising across copper-clad laminate (CCL), design services, substrates, and testing. All four segments recorded year-over-year growth, while design services posted the strongest monthly increase. AILogistics Read 4 DigiTimes India roundup: India's electronics push gains momentum as water, China ties and chip incentives collide India's electronics and AI infrastructure ambitions are accelerating, but mounting environmental opposition, tighter Chinese visa curbs, and intensifying competition for semiconductor investment are exposing new challenges. As Google advances a US$15 billion AI data center, Larsen &amp; Toubro (L&amp;T) restructures its cloud SemiconductorElectronicsAI Read 5 TechAsia Series SEA: Who’s investing in the region’s AI startups? We've compiled a list of investors that are pouring money into Southeast Asia’s AI startups. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 16, 2026</title><link href="https://asiatechfeed.com/2026/08/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 16, 2026" /><published>2026-08-16T08:00:50+00:00</published><updated>2026-08-16T08:00:50+00:00</updated><id>https://asiatechfeed.com/2026/08/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -595,97 +648,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807PD206/revenue-sercomm-demand-equipment-wi-fi.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia SK hynix weighs investor for $3b China chip site The Chongqing facility, established in 2013, packages and tests DRAM and NAND chips. Semiconductor Read 2 DigiTimes IT panel demand cools as August prices hold steady IT panel demand weakened in the third quarter, with both monitors and notebook panels facing a demand correction after early restocking in the first half of the year. But with chip and other component costs remaining high and panel makers seeing limited room for profit, suppliers are showing little willingness to cut p Semiconductor Read 3 DigiTimes Interview: SailPoint says Taiwan hardware leads but identity governance lags Taiwan's hardware manufacturing sector leads globally, but the country's level of investment in cybersecurity software and identity governance still ranks in the back half of the Asia-Pacific region, SailPoint Taiwan, Hong Kong, and Macau managing director Simon Tai told DIGITIMES in an interview. As the tech industry AI Read 4 DigiTimes Sercomm July revenue rises 51% on Wi-Fi upgrade demand Sercomm Corporation reported July revenue of NT$7.98 billion, up 51% from a year earlier and a new monthly high, as rising AI adoption continued to drive network traffic and equipment upgrade demand. Revenue for the first seven months reached NT$45.24 billion, also a record and up 57% year-over-year. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 07, 2026</title><link href="https://asiatechfeed.com/2026/08/07/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 07, 2026" /><published>2026-08-07T08:00:47+00:00</published><updated>2026-08-07T08:00:47+00:00</updated><id>https://asiatechfeed.com/2026/08/07/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/07/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SK Hynix commits US$39 billion to new Yongin and Cheongju fabs as AI memory demand builds</span></td>
-  <td class="col-summary">SK Hynix has approved roughly KRW54 trillion (approx. US$39 billion) in new fab construction across two domestic sites, allocating KRW35.2 trillion to a second Yongin fab and KRW19.1 trillion to a new Cheongju NAND plant, in a move the company frames as securing supply capacity rather than chasing a cycle.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807VL218/sk-hynix-nand-fab-investment.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">China launches review of Palo Alto Networks as trade tensions with US escalate</span></td>
-  <td class="col-summary">China's cyberspace authority said it has begun to scrutinize products sold by US cybersecurity company Palo Alto Networks within the country, citing risks to national security and critical infrastructure in its decision. This takes place during a time of heightened tensions between the US and China over technology supp</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807VL217/palo-alto-networks-china-cybersecurity-infrastructure-business.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Predicting cancer drug responses before clinical trials begin</span></td>
-  <td class="col-summary">AlphaGrid uses AI and patient-derived organoids to build digital twins of tumors, testing drug responses before clinical trials even begin.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag bio">Pharmaceutical</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/predicting-cancer-drug-responses-clinical-trials" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Zhen Ding Tech hits July revenue record on AI and consumer electronics demand</span></td>
-  <td class="col-summary">Zhen Ding Tech (ZDT) said July revenue reached its highest level so far in 2026, supported by strong momentum across mobile communications, servers, optical modules and IC substrates. Its mobile communications business maintained double-digit year-on-year growth, while combined revenue from servers, optical modules and</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807PD238/zhen-ding-revenue-demand-electronics-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Taiwan chipmaker Nanya plans $10.7b fab investment</span></td>
-  <td class="col-summary">The fab is being built in New Taipei City’s Nanlin Technology Park under a phased project that began in 2022.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-partnerships-drive-rally-asian-suppliers" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">SEMICON Taiwan 2026 Spotlights Breakthroughs in Design, Memory, and Optical Interconnect</span></td>
-  <td class="col-summary">SEMICON Taiwan 2026 highlights how AI power constraints are accelerating system-level integration across chips, memory, and optical interconnects. The post SEMICON Taiwan 2026 Spotlights Breakthroughs in Design, Memory, and Optical Interconnect appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/semicon-taiwan-2026-spotlights-breakthroughs-in-design-memory-and-optical-interconnect/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Chinese AI firms push Hong Kong data center leasing</span></td>
-  <td class="col-summary">Hong Kong’s appeal partly reflects a lighter cross-border data transfer regime.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/bytedance-talks-iluvatar-chips-curbs-bite" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">DigiKey and Engineering Influencer Shawn Hymel to Host Webinar for Robotics Developers</span></td>
-  <td class="col-summary">DigiKey is strengthening its educational offerings in AI and robotics with a hands-on webinar and a six-part video series focused on reinforcement learning. The post DigiKey and Engineering Influencer Shawn Hymel to Host Webinar for Robotics Developers appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/digikey-and-engineering-influencer-shawn-hymel-to-host-webinar-for-robotics-developers/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Global Chip Sales Up 35% in 2Q 2026</span></td>
-  <td class="col-summary">Global semiconductor sales reached $403.3 billion in 2Q 2026, up by 35.1% quarter-on-quarter, according to SIA. The post Global Chip Sales Up 35% in 2Q 2026 appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/global-chip-sales-up-35-in-2q-2026/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Shares in Australia's Atlassian surge 33% as sales growth quells AI fears</span></td>
-  <td class="col-summary">Shares in Australia's Atlassian surge 33% as sales growth quells AI fears</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/shares-in-australia-s-atlassian-surge-33-as-sales-growth-quells-ai-fears" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes SK Hynix commits US$39 billion to new Yongin and Cheongju fabs as AI memory demand builds SK Hynix has approved roughly KRW54 trillion (approx. US$39 billion) in new fab construction across two domestic sites, allocating KRW35.2 trillion to a second Yongin fab and KRW19.1 trillion to a new Cheongju NAND plant, in a move the company frames as securing supply capacity rather than chasing a cycle. AISemiconductor Read 2 DigiTimes China launches review of Palo Alto Networks as trade tensions with US escalate China's cyberspace authority said it has begun to scrutinize products sold by US cybersecurity company Palo Alto Networks within the country, citing risks to national security and critical infrastructure in its decision. This takes place during a time of heightened tensions between the US and China over technology supp AILogistics Read 3 TechAsia Predicting cancer drug responses before clinical trials begin AlphaGrid uses AI and patient-derived organoids to build digital twins of tumors, testing drug responses before clinical trials even begin. AIPharmaceutical Read 4 DigiTimes Zhen Ding Tech hits July revenue record on AI and consumer electronics demand Zhen Ding Tech (ZDT) said July revenue reached its highest level so far in 2026, supported by strong momentum across mobile communications, servers, optical modules and IC substrates. Its mobile communications business maintained double-digit year-on-year growth, while combined revenue from servers, optical modules and ElectronicsAI Read 5 TechAsia Taiwan chipmaker Nanya plans $10.7b fab investment The fab is being built in New Taipei City’s Nanlin Technology Park under a phased project that began in 2022. Semiconductor Read 6 EETAsia SEMICON Taiwan 2026 Spotlights Breakthroughs in Design, Memory, and Optical Interconnect SEMICON Taiwan 2026 highlights how AI power constraints are accelerating system-level integration across chips, memory, and optical interconnects. The post SEMICON Taiwan 2026 Spotlights Breakthroughs in Design, Memory, and Optical Interconnect appeared first on EE Times Asia . AISemiconductor Read 7 TechAsia Chinese AI firms push Hong Kong data center leasing Hong Kong’s appeal partly reflects a lighter cross-border data transfer regime. AI Read 8 EETAsia DigiKey and Engineering Influencer Shawn Hymel to Host Webinar for Robotics Developers DigiKey is strengthening its educational offerings in AI and robotics with a hands-on webinar and a six-part video series focused on reinforcement learning. The post DigiKey and Engineering Influencer Shawn Hymel to Host Webinar for Robotics Developers appeared first on EE Times Asia . AIAutomation Read 9 EETAsia Global Chip Sales Up 35% in 2Q 2026 Global semiconductor sales reached $403.3 billion in 2Q 2026, up by 35.1% quarter-on-quarter, according to SIA. The post Global Chip Sales Up 35% in 2Q 2026 appeared first on EE Times Asia . Semiconductor Read 10 NikkeiAsia Shares in Australia's Atlassian surge 33% as sales growth quells AI fears Shares in Australia's Atlassian surge 33% as sales growth quells AI fears AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia SK hynix weighs investor for $3b China chip site The Chongqing facility, established in 2013, packages and tests DRAM and NAND chips. Semiconductor Read 2 DigiTimes IT panel demand cools as August prices hold steady IT panel demand weakened in the third quarter, with both monitors and notebook panels facing a demand correction after early restocking in the first half of the year. But with chip and other component costs remaining high and panel makers seeing limited room for profit, suppliers are showing little willingness to cut p Semiconductor Read 3 DigiTimes Interview: SailPoint says Taiwan hardware leads but identity governance lags Taiwan's hardware manufacturing sector leads globally, but the country's level of investment in cybersecurity software and identity governance still ranks in the back half of the Asia-Pacific region, SailPoint Taiwan, Hong Kong, and Macau managing director Simon Tai told DIGITIMES in an interview. As the tech industry AI Read 4 DigiTimes Sercomm July revenue rises 51% on Wi-Fi upgrade demand Sercomm Corporation reported July revenue of NT$7.98 billion, up 51% from a year earlier and a new monthly high, as rising AI adoption continued to drive network traffic and equipment upgrade demand. Revenue for the first seven months reached NT$45.24 billion, also a record and up 57% year-over-year. AI Read]]></summary></entry></feed>
