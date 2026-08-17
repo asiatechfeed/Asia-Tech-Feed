@@ -1,38 +1,40 @@
 {
   "date": "2026-08-17",
-  "count": 7,
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
+    "EW",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-17-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Singapore's non-oil exports expand 24.2% in July as AI demand remains strong",
+      "title": "Doctors raise alarm over Trump\u2019s push to scale back US childhood vaccinations",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/nodx-july-exports-strong-ai-demand-6322881"
+      "url": "https://www.channelnewsasia.com/world/doctors-raise-alarm-trump-push-us-childhood-vaccinations-6323361"
     },
     {
-      "title": "China Telecom leads embodied AI startup Mifeng funding",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinas-mifeng-huayi-sign-physical-ai-supply-deal"
-    },
-    {
-      "title": "Modi pledges more chip plants, mass AI training, and an export push in Independence Day address",
+      "title": "LG-Nvidia physical AI partnership speeds up as robotics chief reportedly heads to South Korea",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260817VL200/training-manufacturing-policy.html"
+      "url": "https://www.digitimes.com/news/a20260817PD220/lg-robotics-partnership-robot-development.html"
     },
     {
-      "title": "LG, Nvidia deepen ties on humanoid robots, AI factories, and vehicles",
+      "title": "China's Vertilite commits US$741M to InP laser chips for AI optical interconnects",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260817PR200/lg-nvidia-robot-data-manufacturing.html"
+      "url": "https://www.digitimes.com/news/a20260817PD215/inp-laser-chips-communications-manufacturing.html"
     },
     {
-      "title": "US warns partners against joining China AI framework",
+      "title": "Nvidia closing in on US$100B credit guarantee deal for OpenAI's Ohio data center",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260817VL215/nvidia-openai-data-center-infrastructure-chips.html"
+    },
+    {
+      "title": "China\u2019s CXMT tops $500b market value, surpasses Tencent",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/ai-chipmaker-cerebras-lifts-2026-outlook"
+      "url": "https://www.techinasia.com/chinas-cxmt-enters-high-end-memory-race-with-samsung-sk-hynix"
     }
   ],
   "source_stats": [
@@ -49,9 +51,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -130,9 +132,9 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -148,16 +150,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 27,
+      "fetched": 47,
+      "relevant": 40,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -193,9 +195,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 11,
+      "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
