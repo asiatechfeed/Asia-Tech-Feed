@@ -1,36 +1,38 @@
 {
   "date": "2026-08-17",
-  "count": 5,
+  "count": 7,
   "sources": [
+    "CNA",
     "DigiTimes",
+    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-17-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Stripe agrees to buy US AI startup OpenRouter",
+      "title": "Singapore's non-oil exports expand 24.2% in July as AI demand remains strong",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/nodx-july-exports-strong-ai-demand-6322881"
+    },
+    {
+      "title": "China Telecom leads embodied AI startup Mifeng funding",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/stripe-unveils-stablecoin-ai-upgrades-global-businesses"
+      "url": "https://www.techinasia.com/chinas-mifeng-huayi-sign-physical-ai-supply-deal"
     },
     {
-      "title": "OCI thins solar wafers to boost Vietnam output 39%",
+      "title": "Modi pledges more chip plants, mass AI training, and an export push in Independence Day address",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260814VL227/solar-polysilicon-wafer-capacity-demand.html"
+      "url": "https://www.digitimes.com/news/a20260817VL200/training-manufacturing-policy.html"
     },
     {
-      "title": "AI server tracker: Demand drives strong growth across Taiwan's CCL, design services, substrate, and testing supply chains",
+      "title": "LG, Nvidia deepen ties on humanoid robots, AI factories, and vehicles",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260814VL223/taiwan-monthly-tracker-ai-server-ccl-growth-revenue.html"
+      "url": "https://www.digitimes.com/news/a20260817PR200/lg-nvidia-robot-data-manufacturing.html"
     },
     {
-      "title": "India roundup: India's electronics push gains momentum as water, China ties and chip incentives collide",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260814VL218/electronics-incentives-water-data-center-business.html"
-    },
-    {
-      "title": "Series SEA: Who\u2019s investing in the region\u2019s AI startups?",
+      "title": "US warns partners against joining China AI framework",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/top-sea-investors-ai"
+      "url": "https://www.techinasia.com/ai-chipmaker-cerebras-lifts-2026-outlook"
     }
   ],
   "source_stats": [
@@ -47,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -127,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -155,7 +157,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 25,
+      "relevant": 27,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -164,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 3,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -191,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 11,
       "sponsored_skipped": 0,
       "published": 2,
       "error": null
