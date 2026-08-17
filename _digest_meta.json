@@ -1,31 +1,36 @@
 {
-  "date": "2026-08-16",
-  "count": 4,
+  "date": "2026-08-17",
+  "count": 5,
   "sources": [
-    "CNA",
-    "DigiTimes"
+    "DigiTimes",
+    "TechAsia"
   ],
-  "post_file": "2026-08-16-asia-tech-news-digest.md",
+  "post_file": "2026-08-17-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "'People could get hurt': Conservationists decry AI wildlife visuals",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/wildlife-ai-artificial-visuals-conservation-threat-6322106"
+      "title": "Stripe agrees to buy US AI startup OpenRouter",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/stripe-unveils-stablecoin-ai-upgrades-global-businesses"
     },
     {
-      "title": "AI reshapes semiconductor testing as KYEC pushes four-way model",
+      "title": "OCI thins solar wafers to boost Vietnam output 39%",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260813PD235/testing-king-yuan-ai-chip-demand-supply-chain.html"
+      "url": "https://www.digitimes.com/news/a20260814VL227/solar-polysilicon-wafer-capacity-demand.html"
     },
     {
-      "title": "AI product cycle lifts Chroma test demand",
+      "title": "AI server tracker: Demand drives strong growth across Taiwan's CCL, design services, substrate, and testing supply chains",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260813PD236/demand-testing-equipment-technology-taiwan.html"
+      "url": "https://www.digitimes.com/news/a20260814VL223/taiwan-monthly-tracker-ai-server-ccl-growth-revenue.html"
     },
     {
-      "title": "AI infrastructure enters multi-architecture fabric competition; Optical-copper interconnects and supply-chain coordination determine system performance",
+      "title": "India roundup: India's electronics push gains momentum as water, China ties and chip incentives collide",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260731RS402/digitimes-infrastructure-data-switch-performance.html?chid=2"
+      "url": "https://www.digitimes.com/news/a20260814VL218/electronics-incentives-water-data-center-business.html"
+    },
+    {
+      "title": "Series SEA: Who\u2019s investing in the region\u2019s AI startups?",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/top-sea-investors-ai"
     }
   ],
   "source_stats": [
@@ -42,9 +47,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -122,7 +127,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -159,7 +164,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 3,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -188,7 +193,7 @@
       "fetched": 36,
       "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
