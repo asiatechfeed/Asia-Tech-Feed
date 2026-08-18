@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-17T08:01:50+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 17, 2026</title><link href="https://asiatechfeed.com/2026/08/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 17, 2026" /><published>2026-08-17T08:00:45+00:00</published><updated>2026-08-17T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/08/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-18T00:05:34+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 18, 2026</title><link href="https://asiatechfeed.com/2026/08/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 18, 2026" /><published>2026-08-18T00:04:57+00:00</published><updated>2026-08-18T00:04:57+00:00</updated><id>https://asiatechfeed.com/2026/08/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia to back AI chip startup Groq at $3.5b valuation</span></td>
+  <td class="col-summary">Groq operates 13 data centers across North America, Europe, the Middle East, and Asia-Pacific.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-reaches-ai-licensing-deal-with-chip-startup-groq" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">SpaceX-Cursor acquisition closes the loop between AI compute, models and applications</span></td>
+  <td class="col-summary">As the AI race increasingly evolves around who can secure the most compute, develop the strongest models and convert them into commercially viable applications, SpaceX has moved another step toward controlling all three layers under one expanding ecosystem.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260817VL219/spacex-ai-acquisition-gpu-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">ITH OLED, T-Con ramps position 3Q26 revenue to defy market headwinds</span></td>
+  <td class="col-summary">Driven by a recovery across smartphone, notebook, industrial control, and automotive applications, ITH Corporation, the parent company of Ili Technology (Ilitek), posted solid revenue results in the second quarter of 2026. However, its gross margin took a hit of about 8.1 percentage points after it recognized a one-tim</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260817PD211/ilitek-revenue-smartphone-recovery-industrial-control.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Tech blocs of the new Cold War: US pushes allies to pick a side</span></td>
+  <td class="col-summary">The intensifying US-China technology rivalry is moving beyond export controls and semiconductor restrictions. What comes next could matter more: the formation of competing international AI ecosystems.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260817VL220/technology-chips.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Is Your Communication Infrastructure Ready for AI at Scale?</span></td>
+  <td class="col-summary">Is Your Communication Infrastructure Ready for AI at Scale?</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/events/communication-infrastructure-ready-ai-scale" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Chip boom pushes Vietnam, Philippines closer to 'high-income' status</span></td>
+  <td class="col-summary">Chip boom pushes Vietnam, Philippines closer to 'high-income' status</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/economy/chip-boom-pushes-vietnam-philippines-closer-to-high-income-status2" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Delta Electronics' Thai subsidiary thrives despite recent share slump</span></td>
+  <td class="col-summary">Delta Electronics' Thai subsidiary thrives despite recent share slump</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/asean-money/delta-electronics-thai-subsidiary-thrives-despite-recent-share-slump" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan Inc. raises full-year profit forecast to 14% jump on AI and chips</span></td>
+  <td class="col-summary">Japan Inc. raises full-year profit forecast to 14% jump on AI and chips</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/companies/japan-inc.-raises-full-year-profit-forecast-to-14-jump-on-ai-and-chips" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Nvidia to back AI chip startup Groq at $3.5b valuation Groq operates 13 data centers across North America, Europe, the Middle East, and Asia-Pacific. AISemiconductor Read 2 DigiTimes SpaceX-Cursor acquisition closes the loop between AI compute, models and applications As the AI race increasingly evolves around who can secure the most compute, develop the strongest models and convert them into commercially viable applications, SpaceX has moved another step toward controlling all three layers under one expanding ecosystem. AI Read 3 DigiTimes ITH OLED, T-Con ramps position 3Q26 revenue to defy market headwinds Driven by a recovery across smartphone, notebook, industrial control, and automotive applications, ITH Corporation, the parent company of Ili Technology (Ilitek), posted solid revenue results in the second quarter of 2026. However, its gross margin took a hit of about 8.1 percentage points after it recognized a one-tim Semiconductor Read 4 DigiTimes Tech blocs of the new Cold War: US pushes allies to pick a side The intensifying US-China technology rivalry is moving beyond export controls and semiconductor restrictions. What comes next could matter more: the formation of competing international AI ecosystems. SemiconductorAI Read 5 TechAsia Is Your Communication Infrastructure Ready for AI at Scale? Is Your Communication Infrastructure Ready for AI at Scale? AI Read 6 NikkeiAsia Chip boom pushes Vietnam, Philippines closer to 'high-income' status Chip boom pushes Vietnam, Philippines closer to 'high-income' status Semiconductor Read 7 NikkeiAsia Delta Electronics' Thai subsidiary thrives despite recent share slump Delta Electronics' Thai subsidiary thrives despite recent share slump Electronics Read 8 NikkeiAsia Japan Inc. raises full-year profit forecast to 14% jump on AI and chips Japan Inc. raises full-year profit forecast to 14% jump on AI and chips AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 17, 2026</title><link href="https://asiatechfeed.com/2026/08/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 17, 2026" /><published>2026-08-17T08:00:45+00:00</published><updated>2026-08-17T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/08/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -659,49 +736,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807PD214/growth-expansion-vso-electronics-plant-2026.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Macronix, Winbond post record July revenue as memory prices rise Taiwan memory chipmakers Macronix International and Winbond Electronics both posted record monthly revenue in July, extending strong second-quarter momentum as tight supply and rising memory prices continue to lift profitability. ElectronicsSemiconductor Read 2 DigiTimes Innodisk posts record second quarter profit on AI and memory demand Innodisk reported record second-quarter 2026 results as surging memory prices and artificial intelligence demand lifted profit, revenue, and margins. The memory module maker said quarterly net profit reached NT$10.368 billion, with earnings per share reaching NT$108.93. AI Read 3 DigiTimes VSO's Vietnam expansion and AI-server growth point to bigger upside, but memory shortages cloud the outlook VSO Electronics said its Vietnam plant is on track for trial production by the end of December 2026 as it expands its presence in AI server applications, liquid-cooling leak detection, and high-speed cables. The company is also preparing for tighter supply conditions in the second half of 2026, especially in memory. ElectronicsAI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 08, 2026</title><link href="https://asiatechfeed.com/2026/08/08/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 08, 2026" /><published>2026-08-08T08:00:51+00:00</published><updated>2026-08-08T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/08/08/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/08/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SK hynix weighs investor for $3b China chip site</span></td>
-  <td class="col-summary">The Chongqing facility, established in 2013, packages and tests DRAM and NAND chips.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-hynix-sell-shares-raise-investment" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">IT panel demand cools as August prices hold steady</span></td>
-  <td class="col-summary">IT panel demand weakened in the third quarter, with both monitors and notebook panels facing a demand correction after early restocking in the first half of the year. But with chip and other component costs remaining high and panel makers seeing limited room for profit, suppliers are showing little willingness to cut p</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260806PD236/panel-demand-shipments-2026-brand.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Interview: SailPoint says Taiwan hardware leads but identity governance lags</span></td>
-  <td class="col-summary">Taiwan's hardware manufacturing sector leads globally, but the country's level of investment in cybersecurity software and identity governance still ranks in the back half of the Asia-Pacific region, SailPoint Taiwan, Hong Kong, and Macau managing director Simon Tai told DIGITIMES in an interview. As the tech industry </td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260805PD229/taiwan-governance-hardware-manufacturing-cybersecurity.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Sercomm July revenue rises 51% on Wi-Fi upgrade demand</span></td>
-  <td class="col-summary">Sercomm Corporation reported July revenue of NT$7.98 billion, up 51% from a year earlier and a new monthly high, as rising AI adoption continued to drive network traffic and equipment upgrade demand. Revenue for the first seven months reached NT$45.24 billion, also a record and up 57% year-over-year.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807PD206/revenue-sercomm-demand-equipment-wi-fi.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia SK hynix weighs investor for $3b China chip site The Chongqing facility, established in 2013, packages and tests DRAM and NAND chips. Semiconductor Read 2 DigiTimes IT panel demand cools as August prices hold steady IT panel demand weakened in the third quarter, with both monitors and notebook panels facing a demand correction after early restocking in the first half of the year. But with chip and other component costs remaining high and panel makers seeing limited room for profit, suppliers are showing little willingness to cut p Semiconductor Read 3 DigiTimes Interview: SailPoint says Taiwan hardware leads but identity governance lags Taiwan's hardware manufacturing sector leads globally, but the country's level of investment in cybersecurity software and identity governance still ranks in the back half of the Asia-Pacific region, SailPoint Taiwan, Hong Kong, and Macau managing director Simon Tai told DIGITIMES in an interview. As the tech industry AI Read 4 DigiTimes Sercomm July revenue rises 51% on Wi-Fi upgrade demand Sercomm Corporation reported July revenue of NT$7.98 billion, up 51% from a year earlier and a new monthly high, as rising AI adoption continued to drive network traffic and equipment upgrade demand. Revenue for the first seven months reached NT$45.24 billion, also a record and up 57% year-over-year. AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Macronix, Winbond post record July revenue as memory prices rise Taiwan memory chipmakers Macronix International and Winbond Electronics both posted record monthly revenue in July, extending strong second-quarter momentum as tight supply and rising memory prices continue to lift profitability. ElectronicsSemiconductor Read 2 DigiTimes Innodisk posts record second quarter profit on AI and memory demand Innodisk reported record second-quarter 2026 results as surging memory prices and artificial intelligence demand lifted profit, revenue, and margins. The memory module maker said quarterly net profit reached NT$10.368 billion, with earnings per share reaching NT$108.93. AI Read 3 DigiTimes VSO's Vietnam expansion and AI-server growth point to bigger upside, but memory shortages cloud the outlook VSO Electronics said its Vietnam plant is on track for trial production by the end of December 2026 as it expands its presence in AI server applications, liquid-cooling leak detection, and high-speed cables. The company is also preparing for tighter supply conditions in the second half of 2026, especially in memory. ElectronicsAI Read]]></summary></entry></feed>
