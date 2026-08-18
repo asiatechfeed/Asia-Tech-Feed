@@ -1,40 +1,37 @@
 {
-  "date": "2026-08-17",
-  "count": 12,
+  "date": "2026-08-18",
+  "count": 8,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
-    "EW",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-08-17-asia-tech-news-digest.md",
+  "post_file": "2026-08-18-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Doctors raise alarm over Trump\u2019s push to scale back US childhood vaccinations",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/doctors-raise-alarm-trump-push-us-childhood-vaccinations-6323361"
-    },
-    {
-      "title": "LG-Nvidia physical AI partnership speeds up as robotics chief reportedly heads to South Korea",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260817PD220/lg-robotics-partnership-robot-development.html"
-    },
-    {
-      "title": "China's Vertilite commits US$741M to InP laser chips for AI optical interconnects",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260817PD215/inp-laser-chips-communications-manufacturing.html"
-    },
-    {
-      "title": "Nvidia closing in on US$100B credit guarantee deal for OpenAI's Ohio data center",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260817VL215/nvidia-openai-data-center-infrastructure-chips.html"
-    },
-    {
-      "title": "China\u2019s CXMT tops $500b market value, surpasses Tencent",
+      "title": "Nvidia to back AI chip startup Groq at $3.5b valuation",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinas-cxmt-enters-high-end-memory-race-with-samsung-sk-hynix"
+      "url": "https://www.techinasia.com/nvidia-reaches-ai-licensing-deal-with-chip-startup-groq"
+    },
+    {
+      "title": "SpaceX-Cursor acquisition closes the loop between AI compute, models and applications",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260817VL219/spacex-ai-acquisition-gpu-infrastructure.html"
+    },
+    {
+      "title": "ITH OLED, T-Con ramps position 3Q26 revenue to defy market headwinds",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260817PD211/ilitek-revenue-smartphone-recovery-industrial-control.html"
+    },
+    {
+      "title": "Tech blocs of the new Cold War: US pushes allies to pick a side",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260817VL220/technology-chips.html"
+    },
+    {
+      "title": "Is Your Communication Infrastructure Ready for AI at Scale?",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/events/communication-infrastructure-ready-ai-scale"
     }
   ],
   "source_stats": [
@@ -51,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -134,7 +131,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -152,14 +149,14 @@
       "fetched": 10,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 47,
-      "relevant": 40,
+      "fetched": 35,
+      "relevant": 25,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 4,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -197,7 +194,7 @@
       "fetched": 36,
       "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
