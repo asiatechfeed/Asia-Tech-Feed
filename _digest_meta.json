@@ -1,37 +1,37 @@
 {
   "date": "2026-08-18",
-  "count": 8,
+  "count": 7,
   "sources": [
     "DigiTimes",
-    "NikkeiAsia",
+    "KED",
     "TechAsia"
   ],
   "post_file": "2026-08-18-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Nvidia to back AI chip startup Groq at $3.5b valuation",
+      "title": "US AI startup Higgsfield raises $400m series B",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-reaches-ai-licensing-deal-with-chip-startup-groq"
+      "url": "https://www.techinasia.com/quiet-ai-video-platform-chasing-50m-sora-catches"
     },
     {
-      "title": "SpaceX-Cursor acquisition closes the loop between AI compute, models and applications",
+      "title": "AI server demand pushes high-end MLCC lead times toward 40 weeks",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260817VL219/spacex-ai-acquisition-gpu-infrastructure.html"
+      "url": "https://www.digitimes.com/news/a20260817VL221/ai-server-mlcc-demand-infrastructure.html"
     },
     {
-      "title": "ITH OLED, T-Con ramps position 3Q26 revenue to defy market headwinds",
+      "title": "Column: Strategic resilience in precious metal refining: insights from Qiankun Gold and Silver",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260817PD211/ilitek-revenue-smartphone-recovery-industrial-control.html"
+      "url": "https://www.digitimes.com/news/a20260817PD214/supply-chain-silver-industrial-production-testing.html?chid=12"
     },
     {
-      "title": "Tech blocs of the new Cold War: US pushes allies to pick a side",
+      "title": "SpaceX, NVIDIA push space AI from lunar exploration toward orbital data centers",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260817VL220/technology-chips.html"
+      "url": "https://www.digitimes.com/news/a20260817PD212/spacex-data-launch-infrastructure-cost.html"
     },
     {
-      "title": "Is Your Communication Infrastructure Ready for AI at Scale?",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/events/communication-infrastructure-ready-ai-scale"
+      "title": "AI trade isn\u2019t just about tech stocks but also power, TCW says",
+      "source": "KED",
+      "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
     }
   ],
   "source_stats": [
@@ -167,7 +167,7 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -176,7 +176,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -192,9 +192,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 13,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
