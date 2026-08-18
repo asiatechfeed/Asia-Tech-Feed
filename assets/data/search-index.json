@@ -1,81 +1,107 @@
 [
   {
     "date": "2026-08-18",
-    "title": "US AI startup Higgsfield raises $400m series B",
-    "summary": "Founded in 2023, Higgsfield makes videos, ads, and product shots for brands.",
+    "title": "Why AI is making old programming languages stronger",
+    "summary": "TypeScript creator Anders Hejlsberg explains why AI tools favor established programming languages, and how deterministic testing keeps AI code reliable.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/quiet-ai-video-platform-chasing-50m-sora-catches"
+    "url": "https://www.techinasia.com/why-ai-is-making-old-programming-languages-stronger"
   },
   {
     "date": "2026-08-18",
-    "title": "AI server demand pushes high-end MLCC lead times toward 40 weeks",
-    "summary": "Multilayer ceramic capacitor (MLCC) supply is increasingly diverging by product specification, with mainstream components remaining relatively stable while lead times for some high-capacitance, high-specification parts used in AI servers stretch toward 40 weeks.",
+    "title": "Samsung deepens humanoid push with new robotics lab",
+    "summary": "Samsung Electronics has begun operating a dedicated physical AI research lab focused on humanoid control and manipulation, according to South Korean news outlet Edaily . The move extends its robotics push from hardware investment into the AI and control technologies needed for robots to operate in real-world environmen",
     "source": "DigiTimes",
     "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260818VL210/samsung-robotics-robot-manufacturing-data.html"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "How Uber uses 200 million users to survive the AI era",
+    "summary": "Andrew Macdonald discusses the risks from self-driving fleets, AI ride-hailing agents, and rising compute costs inside Uber.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260817VL221/ai-server-mlcc-demand-infrastructure.html"
+    "url": "https://www.techinasia.com/uber-ai-future-starts-with-customer"
   },
   {
     "date": "2026-08-18",
-    "title": "Column: Strategic resilience in precious metal refining: insights from Qiankun Gold and Silver",
-    "summary": "Amid global supply chain restructuring and geopolitical rivalry, precious metals are no longer merely financial hedging tools but have become core assets supporting high-tech manufacturing and strategic material reserves.",
+    "title": "South Korea's NPS backs AI optical link amid US scrutiny",
+    "summary": "South Korea's National Pension Service (NPS) has drawn fresh attention after joining a cornerstone investment in the Hong Kong IPO of Chinese optical communications maker Zhongji Innolight. The investment came at a time when the company had already been placed on the US Department of Defense's list of Chinese Military ",
     "source": "DigiTimes",
     "short": "DigiTimes",
-    "tags": [
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260817PD214/supply-chain-silver-industrial-production-testing.html?chid=12"
-  },
-  {
-    "date": "2026-08-18",
-    "title": "SpaceX, NVIDIA push space AI from lunar exploration toward orbital data centers",
-    "summary": "As SpaceX accelerates its push into space-based AI data centers and NVIDIA brings Jetson GPUs into lunar exploration missions, the race to build computing infrastructure beyond Earth is moving from proof-of-concept experiments toward actual deployment.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260817PD212/spacex-data-launch-infrastructure-cost.html"
-  },
-  {
-    "date": "2026-08-18",
-    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
-    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
-    "source": "KED Global",
-    "short": "KED",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
+    "url": "https://www.digitimes.com/news/a20260818PD217/investment-ipo-cmc-policy-communications.html"
   },
   {
     "date": "2026-08-18",
-    "title": "No career ambition, no ego: AI plays devil's advocate at Audax Private Equity",
-    "summary": "Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass",
-    "source": "KED Global",
-    "short": "KED",
+    "title": "Analysis: China's AI chip ambitions collide with Ajinomoto's 95% grip on ABF film",
+    "summary": "China's semiconductor self-reliance campaign is moving beyond lithography machines and advanced processors into less visible materials that can be just as difficult to replace. Ajinomoto Build-up Film, or ABF, has become the latest pressure point.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260818VL208/ai-chip-materials-packaging-chips.html?chid=10"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "LG Electronics to train humanoid robots with Nvidia software",
+    "summary": "The robots will train in a simulated factory modeled on LG’s Tennessee washing machine plant.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Electronics",
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/lg-electronics-to-test-ai-home-robot-in-2027-ceo-says"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "Silicon Motion SSD Reference Design Kit Targeted at AI Infra",
+    "summary": "The platform enables enterprise SSDs to serve as a persistent memory layer supporting KV cache offload and autonomous AI agents. The post Silicon Motion SSD Reference Design Kit Targeted at AI Infra appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.kedglobal.com/private-equity/newsView/ked202603120002"
+    "url": "https://www.eetasia.com/silicon-motion-ssd-reference-design-kit-targeted-at-ai-infra/"
   },
   {
     "date": "2026-08-18",
-    "title": "EuBiologics partners with Korea's health agency to develop Nipah virus vaccine candidate",
-    "summary": "EuBiologics Co., South Korea's vaccine-focused biotechnology company, is developing a vaccine candidate against the Nipah virus, an infectious disease",
-    "source": "KED Global",
-    "short": "KED",
+    "title": "Chiplets Offer a Scalable Compute Strategy for Software-defined Vehicles",
+    "summary": "As automotive compute demands accelerate, chiplet architectures offer scalable performance without sacrificing cost, software reuse, or reliability. The post Chiplets Offer a Scalable Compute Strategy for Software-defined Vehicles appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
-      "Biotechnology"
+      "Semiconductor"
     ],
-    "url": "https://www.kedglobal.com/bio-pharma/newsView/ked202603100001"
+    "url": "https://www.eetasia.com/chiplets-offer-a-scalable-compute-strategy-for-software-defined-vehicles/"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "Designer denim and AI concierges: Japan's konbini put a new face forward",
+    "summary": "Designer denim and AI concierges: Japan's konbini put a new face forward",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/retail/designer-denim-and-ai-concierges-japan-s-konbini-put-a-new-face-forward"
   },
   {
     "date": "2026-08-17",
