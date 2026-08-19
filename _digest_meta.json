@@ -1,38 +1,38 @@
 {
-  "date": "2026-08-18",
-  "count": 9,
+  "date": "2026-08-19",
+  "count": 11,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-08-18-asia-tech-news-digest.md",
+  "post_file": "2026-08-19-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Why AI is making old programming languages stronger",
+      "title": "India\u2019s student protests exposed deeper anxieties over education and jobs as AI reshapes work",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/indias-student-protests-exposed-deeper-anxieties-over-education-and-jobs-ai-reshapes-work-6325511"
+    },
+    {
+      "title": "Pennsylvania governor signs order imposing new rules to set up AI data centers in state",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/pennsylvania-governor-signs-order-imposing-new-rules-set-up-ai-data-centers-in-state-6326841"
+    },
+    {
+      "title": "Y Combinator joins $4.5m round for US AI startup Kita",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/why-ai-is-making-old-programming-languages-stronger"
+      "url": "https://www.techinasia.com/indonesia-cancels-digital-payment-tracker-launch"
     },
     {
-      "title": "Samsung deepens humanoid push with new robotics lab",
+      "title": "LG Electronics lands first OSAT order for chip packaging LDI",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260818VL210/samsung-robotics-robot-manufacturing-data.html"
+      "url": "https://www.digitimes.com/news/a20260818VL220/lg-electronics-packaging-equipment-osat-laser.html"
     },
     {
-      "title": "How Uber uses 200 million users to survive the AI era",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/uber-ai-future-starts-with-customer"
-    },
-    {
-      "title": "South Korea's NPS backs AI optical link amid US scrutiny",
+      "title": "Rockchip profit jumps 62% as edge AI chips scale across devices",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260818PD217/investment-ipo-cmc-policy-communications.html"
-    },
-    {
-      "title": "Analysis: China's AI chip ambitions collide with Ajinomoto's 95% grip on ABF film",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260818VL208/ai-chip-materials-packaging-chips.html?chid=10"
+      "url": "https://www.digitimes.com/news/a20260818VL215/rockchip-profit-chips-revenue-2026.html"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -129,9 +129,9 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
-      "sponsored_skipped": 0,
+      "sponsored_skipped": 1,
       "published": 0,
       "error": null
     },
@@ -150,14 +150,14 @@
       "fetched": 10,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 36,
-      "relevant": 28,
+      "fetched": 56,
+      "relevant": 41,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
