@@ -1,39 +1,37 @@
 {
   "date": "2026-08-19",
-  "count": 13,
+  "count": 8,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-19-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Pony.ai robotaxi revenue hits record as sales jump 69%",
+      "title": "Scaling indigenous defense robotics for emerging markets",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinese-robotaxi-firms-outpace-us-rivals-in-middle-east-singapore"
+      "url": "https://www.techinasia.com/scaling-indigenous-defense-robotics-emerging-markets"
     },
     {
-      "title": "Chinese humanoid robot maker Unitree set to jump over 600% in Shanghai debut",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/chinese-humanoid-robot-maker-unitree-set-jump-over-600-in-shanghai-debut-6327331"
-    },
-    {
-      "title": "Smarter cooling, cleaner air: How AI is changing home comfort",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/advertorial/smarter-cooling-cleaner-air-how-ai-changing-home-comfort-6304101"
-    },
-    {
-      "title": "US AI startup LinqAlpha launches investment research lab",
+      "title": "Alibaba-backed AI video startup ShengShu eyes HK IPO",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/us-ai-firm-linqalpha-raises-22m-for-apac-push"
+      "url": "https://www.techinasia.com/alibaba-cloud-backs-ai-video-startup-shengshu-in-293m-round"
     },
     {
-      "title": "Baidu Q2 revenue falls 4%, misses estimates",
+      "title": "Vietnam eyes city upgrades for Samsung hub Bac Ninh and Quang Ninh",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260819VL210/samsung-vietnam-electronics-manufacturing-logistics.html"
+    },
+    {
+      "title": "A16z joins $700m round for US AI chip startup Etched",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/baidu-ai-chip-unit-kunlunxin-begins-star-listing-process"
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+    },
+    {
+      "title": "Taiwan seeks shift from drone supplier to strategic partner in entering US market",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260819VL209/taiwan-supplier-market-supply-chain-manufacturing.html"
     }
   ],
   "source_stats": [
@@ -50,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 4,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -130,7 +128,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -149,16 +147,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 31,
+      "fetched": 53,
+      "relevant": 45,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 11,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
