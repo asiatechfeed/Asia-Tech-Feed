@@ -1,38 +1,39 @@
 {
   "date": "2026-08-19",
-  "count": 11,
+  "count": 13,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-19-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "India\u2019s student protests exposed deeper anxieties over education and jobs as AI reshapes work",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/indias-student-protests-exposed-deeper-anxieties-over-education-and-jobs-ai-reshapes-work-6325511"
-    },
-    {
-      "title": "Pennsylvania governor signs order imposing new rules to set up AI data centers in state",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/pennsylvania-governor-signs-order-imposing-new-rules-set-up-ai-data-centers-in-state-6326841"
-    },
-    {
-      "title": "Y Combinator joins $4.5m round for US AI startup Kita",
+      "title": "Pony.ai robotaxi revenue hits record as sales jump 69%",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/indonesia-cancels-digital-payment-tracker-launch"
+      "url": "https://www.techinasia.com/chinese-robotaxi-firms-outpace-us-rivals-in-middle-east-singapore"
     },
     {
-      "title": "LG Electronics lands first OSAT order for chip packaging LDI",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260818VL220/lg-electronics-packaging-equipment-osat-laser.html"
+      "title": "Chinese humanoid robot maker Unitree set to jump over 600% in Shanghai debut",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/chinese-humanoid-robot-maker-unitree-set-jump-over-600-in-shanghai-debut-6327331"
     },
     {
-      "title": "Rockchip profit jumps 62% as edge AI chips scale across devices",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260818VL215/rockchip-profit-chips-revenue-2026.html"
+      "title": "Smarter cooling, cleaner air: How AI is changing home comfort",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/advertorial/smarter-cooling-cleaner-air-how-ai-changing-home-comfort-6304101"
+    },
+    {
+      "title": "US AI startup LinqAlpha launches investment research lab",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/us-ai-firm-linqalpha-raises-22m-for-apac-push"
+    },
+    {
+      "title": "Baidu Q2 revenue falls 4%, misses estimates",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/baidu-ai-chip-unit-kunlunxin-begins-star-listing-process"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -129,9 +130,9 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
-      "sponsored_skipped": 1,
+      "sponsored_skipped": 0,
       "published": 0,
       "error": null
     },
@@ -148,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 4,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 56,
-      "relevant": 41,
+      "fetched": 35,
+      "relevant": 31,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +167,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 10,
+      "relevant": 11,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -193,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
