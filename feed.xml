@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-19T01:43:53+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 19, 2026</title><link href="https://asiatechfeed.com/2026/08/19/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 19, 2026" /><published>2026-08-19T01:43:01+00:00</published><updated>2026-08-19T01:43:01+00:00</updated><id>https://asiatechfeed.com/2026/08/19/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/19/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-19T08:01:51+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 19, 2026</title><link href="https://asiatechfeed.com/2026/08/19/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 19, 2026" /><published>2026-08-19T08:00:49+00:00</published><updated>2026-08-19T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/08/19/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/19/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -13,109 +13,69 @@
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Pony.ai robotaxi revenue hits record as sales jump 69%</span></td>
-  <td class="col-summary">Pony AI offers paid fully driverless robotaxi services in Beijing, Guangzhou, and Shenzhen.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinese-robotaxi-firms-outpace-us-rivals-in-middle-east-singapore" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Scaling indigenous defense robotics for emerging markets</span></td>
+  <td class="col-summary">Backed by more than US$400,000, Dubotech develops portable underwater robots for a US$6.4 billion inspection market.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/scaling-indigenous-defense-robotics-emerging-markets" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Chinese humanoid robot maker Unitree set to jump over 600% in Shanghai debut</span></td>
-  <td class="col-summary">Chinese humanoid robot maker Unitree set to jump over 600% in Shanghai debut</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/chinese-humanoid-robot-maker-unitree-set-jump-over-600-in-shanghai-debut-6327331" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba-backed AI video startup ShengShu eyes HK IPO</span></td>
+  <td class="col-summary">Vidu offers text-to-video generation through subscriptions and an API for businesses and developers.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-cloud-backs-ai-video-startup-shengshu-in-293m-round" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Smarter cooling, cleaner air: How AI is changing home comfort</span></td>
-  <td class="col-summary">LG’s DualCool AI air-conditioner and PuriCare AeroBooster air purifier use AI to respond to changing conditions with minimal manual adjustment.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/advertorial/smarter-cooling-cleaner-air-how-ai-changing-home-comfort-6304101" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Vietnam eyes city upgrades for Samsung hub Bac Ninh and Quang Ninh</span></td>
+  <td class="col-summary">Vietnam is considering plans to turn Bac Ninh, a major Samsung Electronics manufacturing hub, and Quang Ninh into centrally administered cities as the country builds out its northern electronics, semiconductor and logistics base.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260819VL210/samsung-vietnam-electronics-manufacturing-logistics.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">US AI startup LinqAlpha launches investment research lab</span></td>
-  <td class="col-summary">LinqAlpha said the leaderboard would help investment teams assess model behavior before deployment.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/us-ai-firm-linqalpha-raises-22m-for-apac-push" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">A16z joins $700m round for US AI chip startup Etched</span></td>
+  <td class="col-summary">Its Sohu chip is designed specifically for transformer-model inference.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Baidu Q2 revenue falls 4%, misses estimates</span></td>
-  <td class="col-summary">Baidu Cloud held 6.1% of China’s AI cloud market, versus Alibaba Cloud’s 35.8%.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/baidu-ai-chip-unit-kunlunxin-begins-star-listing-process" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwan seeks shift from drone supplier to strategic partner in entering US market</span></td>
+  <td class="col-summary">Industry figures and analysts from Taiwan and the United States gathered on August 19 at an international unmanned aerial vehicles (UAVs) forum to discuss how Taiwan can move beyond its traditional role as a components supplier and become a strategic partner in the global drone supply chain. The discussion takes place </td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260819VL209/taiwan-supplier-market-supply-chain-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TBI Motion books orders into 2027 and steps deeper into humanoid robotics</span></td>
-  <td class="col-summary">TBI Motion Technology returned to profit in the second quarter of 2026, with strong demand extending order visibility into 2027. The Taiwan-based transmission component maker is also expanding into humanoid robotics and will showcase a lower-limb module at an automation exhibition this week.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260818PD215/2027-robotics-revenue-profit-2026.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">GigaDevice profit surges 1,092% on memory upcycle, niche DRAM and NAND gains</span></td>
+  <td class="col-summary">GigaDevice Semiconductor posted record first-half 2026 results, with tight memory supply and rising prices across niche products lifting earnings well beyond its full-year 2025 level.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260819VL207/gigadevice-nand-dram-niche-profit.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Airoha and MediaTek back IC Plus against Realtek in switches</span></td>
-  <td class="col-summary">Ethernet chipmaker IC Plus said on August 17 that its operations in 2026 have improved significantly after Airoha Technology took a stake and joined its management, while resources from MediaTek also provided substantial support. The company said it turned profitable in the first half of the year.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260818PD224/ic-plus-ethernet-realtek-airoha-mediatek.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">TIER IV Develops Open-Source AI Chip Architecture for Level 4 Autonomous Driving</span></td>
+  <td class="col-summary">TIER IV is developing an open-source AI chip and toolchain targeting efficient, adaptable, and verifiable Level 4 autonomous driving. The post TIER IV Develops Open-Source AI Chip Architecture for Level 4 Autonomous Driving appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/tier-iv-develops-open-source-ai-chip-architecture-for-level-4-autonomous-driving/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">China's new automotive chip rules target the last mile to vehicle adoption</span></td>
-  <td class="col-summary">China has introduced five automotive chip certification and accreditation industry standards aimed at easing a key obstacle to domestic semiconductor adoption: getting locally designed chips qualified for production vehicles.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260818VL209/automotive-chip-vehicle-adoption-certification-testing.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Cerebras launches new server chip and system designed to speed AI chatbots</span></td>
-  <td class="col-summary">Cerebras launches new server chip and system designed to speed AI chatbots</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/cerebras-launches-new-server-chip-and-system-designed-speed-ai-chatbots-6327141" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
   <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">The Charging Inlet Has Become a System: Rethinking EV Charge-Control Electronics</span></td>
-  <td class="col-summary">The overlooked charge-control interface Technical discussions of EV on-board chargers usually focus on the high-power conversion stage: SiC versus GaN, bidirectional topologies, power density, and high-voltage battery architectures. Those topics deserve attention, but they are not the only source of development risk. E</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/the-charging-inlet-has-become-a-system-rethinking-ev-charge-control-electronics/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Unitree shares soar 629% after robot maker raises $905m in Shanghai IPO</span></td>
-  <td class="col-summary">Unitree shares soar 629% after robot maker raises $905m in Shanghai IPO</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/ipo/unitree-shares-soar-629-after-robot-maker-raises-905m-in-shanghai-ipo" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan chip startup targets AI boom as industry focus turns to materials</span></td>
-  <td class="col-summary">Japan chip startup targets AI boom as industry focus turns to materials</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/editor-s-picks/interview/japan-chip-startup-targets-ai-boom-as-industry-focus-turns-to-materials" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">13</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">China tightens border crossings after Meta's play for AI startup Manus</span></td>
-  <td class="col-summary">China tightens border crossings after Meta's play for AI startup Manus</td>
+  <td class="col-title"><span class="article-title">Manz Asia Expands Panel-Level Packaging Platforms for Advanced RDL</span></td>
+  <td class="col-summary">Manz Asia expands production-proven panel platforms as AI packaging drives larger formats and denser redistribution layers. The post Manz Asia Expands Panel-Level Packaging Platforms for Advanced RDL appeared first on EE Times Asia .</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/politics/international-relations/china-tightens-border-crossings-after-meta-s-play-for-ai-startup-manus" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/manz-asia-expands-panel-level-packaging-platforms-for-advanced-rdl/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Pony.ai robotaxi revenue hits record as sales jump 69% Pony AI offers paid fully driverless robotaxi services in Beijing, Guangzhou, and Shenzhen. AIAutomation Read 2 CNA Chinese humanoid robot maker Unitree set to jump over 600% in Shanghai debut Chinese humanoid robot maker Unitree set to jump over 600% in Shanghai debut Automation Read 3 CNA Smarter cooling, cleaner air: How AI is changing home comfort LG’s DualCool AI air-conditioner and PuriCare AeroBooster air purifier use AI to respond to changing conditions with minimal manual adjustment. AI Read 4 TechAsia US AI startup LinqAlpha launches investment research lab LinqAlpha said the leaderboard would help investment teams assess model behavior before deployment. AI Read 5 TechAsia Baidu Q2 revenue falls 4%, misses estimates Baidu Cloud held 6.1% of China’s AI cloud market, versus Alibaba Cloud’s 35.8%. AI Read 6 DigiTimes TBI Motion books orders into 2027 and steps deeper into humanoid robotics TBI Motion Technology returned to profit in the second quarter of 2026, with strong demand extending order visibility into 2027. The Taiwan-based transmission component maker is also expanding into humanoid robotics and will showcase a lower-limb module at an automation exhibition this week. Automation Read 7 DigiTimes Airoha and MediaTek back IC Plus against Realtek in switches Ethernet chipmaker IC Plus said on August 17 that its operations in 2026 have improved significantly after Airoha Technology took a stake and joined its management, while resources from MediaTek also provided substantial support. The company said it turned profitable in the first half of the year. Semiconductor Read 8 DigiTimes China's new automotive chip rules target the last mile to vehicle adoption China has introduced five automotive chip certification and accreditation industry standards aimed at easing a key obstacle to domestic semiconductor adoption: getting locally designed chips qualified for production vehicles. Semiconductor Read 9 CNA Cerebras launches new server chip and system designed to speed AI chatbots Cerebras launches new server chip and system designed to speed AI chatbots AISemiconductor Read 10 EETAsia The Charging Inlet Has Become a System: Rethinking EV Charge-Control Electronics The overlooked charge-control interface Technical discussions of EV on-board chargers usually focus on the high-power conversion stage: SiC versus GaN, bidirectional topologies, power density, and high-voltage battery architectures. Those topics deserve attention, but they are not the only source of development risk. E Electronics Read 11 NikkeiAsia Unitree shares soar 629% after robot maker raises $905m in Shanghai IPO Unitree shares soar 629% after robot maker raises $905m in Shanghai IPO Automation Read 12 NikkeiAsia Japan chip startup targets AI boom as industry focus turns to materials Japan chip startup targets AI boom as industry focus turns to materials AISemiconductor Read 13 NikkeiAsia China tightens border crossings after Meta's play for AI startup Manus China tightens border crossings after Meta's play for AI startup Manus AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 18, 2026</title><link href="https://asiatechfeed.com/2026/08/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 18, 2026" /><published>2026-08-18T08:00:45+00:00</published><updated>2026-08-18T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/08/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Scaling indigenous defense robotics for emerging markets Backed by more than US$400,000, Dubotech develops portable underwater robots for a US$6.4 billion inspection market. Automation Read 2 TechAsia Alibaba-backed AI video startup ShengShu eyes HK IPO Vidu offers text-to-video generation through subscriptions and an API for businesses and developers. AI Read 3 DigiTimes Vietnam eyes city upgrades for Samsung hub Bac Ninh and Quang Ninh Vietnam is considering plans to turn Bac Ninh, a major Samsung Electronics manufacturing hub, and Quang Ninh into centrally administered cities as the country builds out its northern electronics, semiconductor and logistics base. SemiconductorElectronicsLogistics Read 4 TechAsia A16z joins $700m round for US AI chip startup Etched Its Sohu chip is designed specifically for transformer-model inference. AISemiconductor Read 5 DigiTimes Taiwan seeks shift from drone supplier to strategic partner in entering US market Industry figures and analysts from Taiwan and the United States gathered on August 19 at an international unmanned aerial vehicles (UAVs) forum to discuss how Taiwan can move beyond its traditional role as a components supplier and become a strategic partner in the global drone supply chain. The discussion takes place Logistics Read 6 DigiTimes GigaDevice profit surges 1,092% on memory upcycle, niche DRAM and NAND gains GigaDevice Semiconductor posted record first-half 2026 results, with tight memory supply and rising prices across niche products lifting earnings well beyond its full-year 2025 level. Semiconductor Read 7 EETAsia TIER IV Develops Open-Source AI Chip Architecture for Level 4 Autonomous Driving TIER IV is developing an open-source AI chip and toolchain targeting efficient, adaptable, and verifiable Level 4 autonomous driving. The post TIER IV Develops Open-Source AI Chip Architecture for Level 4 Autonomous Driving appeared first on EE Times Asia . AISemiconductor Read 8 EETAsia Manz Asia Expands Panel-Level Packaging Platforms for Advanced RDL Manz Asia expands production-proven panel platforms as AI packaging drives larger formats and denser redistribution layers. The post Manz Asia Expands Panel-Level Packaging Platforms for Advanced RDL appeared first on EE Times Asia . AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 18, 2026</title><link href="https://asiatechfeed.com/2026/08/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 18, 2026" /><published>2026-08-18T08:00:45+00:00</published><updated>2026-08-18T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/08/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
