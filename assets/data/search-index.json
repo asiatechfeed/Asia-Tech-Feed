@@ -1,5 +1,128 @@
 [
   {
+    "date": "2026-08-19",
+    "title": "India’s student protests exposed deeper anxieties over education and jobs as AI reshapes work",
+    "summary": "In part two of a series on education issues in India following youth protests, CNA examines whether universities are keeping pace with a changing world of work, while young Indians grapple with their futures amid a shortage of quality jobs.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/asia/indias-student-protests-exposed-deeper-anxieties-over-education-and-jobs-ai-reshapes-work-6325511"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "Pennsylvania governor signs order imposing new rules to set up AI data centers in state",
+    "summary": "Pennsylvania governor signs order imposing new rules to set up AI data centers in state",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/pennsylvania-governor-signs-order-imposing-new-rules-set-up-ai-data-centers-in-state-6326841"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "Y Combinator joins $4.5m round for US AI startup Kita",
+    "summary": "Kita said its software reads bank statements, e-wallet records, payslips, and invoices.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/indonesia-cancels-digital-payment-tracker-launch"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "LG Electronics lands first OSAT order for chip packaging LDI",
+    "summary": "LG Electronics has secured its first order for laser direct imaging (LDI) equipment used in semiconductor packaging, marking an early commercial milestone as it expands into chip packaging.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260818VL220/lg-electronics-packaging-equipment-osat-laser.html"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "Rockchip profit jumps 62% as edge AI chips scale across devices",
+    "summary": "China AIoT chip designer Rockchip posted record first-half 2026 results, with revenue rising 40.6% year on year to CNY2.88 billion (US$427 million) and net profit surging 61.73% to CNY859 million, supported by accelerating edge AI adoption.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260818VL215/rockchip-profit-chips-revenue-2026.html"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "2,056 humanoid robots march to Beijing for China's biggest real-world test",
+    "summary": "China's humanoid robot industry is entering a larger real-world test of AI, mobility and performance, with 2,056 robots set to compete in Beijing as domestic makers including Unitree Robotics accelerate development of faster and more capable machines.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260818VL212/beijing-robot-robotics-performance-2026.html"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "A conversational agent for full video production",
+    "summary": "Pixo automates the tedious AI video workflow, helping non-video natives create complete stories through a simple chat interface.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/conversational-agent-full-video-production"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "ByteDance, MPA reach deal on AI copyright safeguards",
+    "summary": "The models are available through TikTok, CapCut, and Dreamina.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/bytedance-rolls-out-new-doubao-ai-model-to-fuel-growth"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "Mitsubishi Logistics to build 2 distribution centers in US for $40m",
+    "summary": "Mitsubishi Logistics to build 2 distribution centers in US for $40m",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://asia.nikkei.com/business/markets/property/mitsubishi-logistics-to-build-2-distribution-centers-in-us-for-40m"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "Why open-weight AI is the new frontier in the US-China tech race",
+    "summary": "Why open-weight AI is the new frontier in the US-China tech race",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/tech-asia/why-open-weight-ai-is-the-new-frontier-in-the-us-china-tech-race"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "Alibaba, ByteDance trim gaming and retail to invest in AI",
+    "summary": "Alibaba, ByteDance trim gaming and retail to invest in AI",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-bytedance-trim-gaming-and-retail-to-invest-in-ai"
+  },
+  {
     "date": "2026-08-18",
     "title": "Why AI is making old programming languages stronger",
     "summary": "TypeScript creator Anders Hejlsberg explains why AI tools favor established programming languages, and how deterministic testing keeps AI code reliable.",

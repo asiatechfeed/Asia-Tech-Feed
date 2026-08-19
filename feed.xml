@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-18T08:01:48+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 18, 2026</title><link href="https://asiatechfeed.com/2026/08/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 18, 2026" /><published>2026-08-18T08:00:45+00:00</published><updated>2026-08-18T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/08/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-19T00:02:52+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 19, 2026</title><link href="https://asiatechfeed.com/2026/08/19/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 19, 2026" /><published>2026-08-19T00:02:12+00:00</published><updated>2026-08-19T00:02:12+00:00</updated><id>https://asiatechfeed.com/2026/08/19/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/19/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">India’s student protests exposed deeper anxieties over education and jobs as AI reshapes work</span></td>
+  <td class="col-summary">In part two of a series on education issues in India following youth protests, CNA examines whether universities are keeping pace with a changing world of work, while young Indians grapple with their futures amid a shortage of quality jobs.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/indias-student-protests-exposed-deeper-anxieties-over-education-and-jobs-ai-reshapes-work-6325511" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Pennsylvania governor signs order imposing new rules to set up AI data centers in state</span></td>
+  <td class="col-summary">Pennsylvania governor signs order imposing new rules to set up AI data centers in state</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/pennsylvania-governor-signs-order-imposing-new-rules-set-up-ai-data-centers-in-state-6326841" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Y Combinator joins $4.5m round for US AI startup Kita</span></td>
+  <td class="col-summary">Kita said its software reads bank statements, e-wallet records, payslips, and invoices.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/indonesia-cancels-digital-payment-tracker-launch" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">LG Electronics lands first OSAT order for chip packaging LDI</span></td>
+  <td class="col-summary">LG Electronics has secured its first order for laser direct imaging (LDI) equipment used in semiconductor packaging, marking an early commercial milestone as it expands into chip packaging.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260818VL220/lg-electronics-packaging-equipment-osat-laser.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Rockchip profit jumps 62% as edge AI chips scale across devices</span></td>
+  <td class="col-summary">China AIoT chip designer Rockchip posted record first-half 2026 results, with revenue rising 40.6% year on year to CNY2.88 billion (US$427 million) and net profit surging 61.73% to CNY859 million, supported by accelerating edge AI adoption.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260818VL215/rockchip-profit-chips-revenue-2026.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">2,056 humanoid robots march to Beijing for China's biggest real-world test</span></td>
+  <td class="col-summary">China's humanoid robot industry is entering a larger real-world test of AI, mobility and performance, with 2,056 robots set to compete in Beijing as domestic makers including Unitree Robotics accelerate development of faster and more capable machines.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260818VL212/beijing-robot-robotics-performance-2026.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">A conversational agent for full video production</span></td>
+  <td class="col-summary">Pixo automates the tedious AI video workflow, helping non-video natives create complete stories through a simple chat interface.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/conversational-agent-full-video-production" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">ByteDance, MPA reach deal on AI copyright safeguards</span></td>
+  <td class="col-summary">The models are available through TikTok, CapCut, and Dreamina.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/bytedance-rolls-out-new-doubao-ai-model-to-fuel-growth" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Mitsubishi Logistics to build 2 distribution centers in US for $40m</span></td>
+  <td class="col-summary">Mitsubishi Logistics to build 2 distribution centers in US for $40m</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/property/mitsubishi-logistics-to-build-2-distribution-centers-in-us-for-40m" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Why open-weight AI is the new frontier in the US-China tech race</span></td>
+  <td class="col-summary">Why open-weight AI is the new frontier in the US-China tech race</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/tech-asia/why-open-weight-ai-is-the-new-frontier-in-the-us-china-tech-race" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba, ByteDance trim gaming and retail to invest in AI</span></td>
+  <td class="col-summary">Alibaba, ByteDance trim gaming and retail to invest in AI</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-bytedance-trim-gaming-and-retail-to-invest-in-ai" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA India’s student protests exposed deeper anxieties over education and jobs as AI reshapes work In part two of a series on education issues in India following youth protests, CNA examines whether universities are keeping pace with a changing world of work, while young Indians grapple with their futures amid a shortage of quality jobs. AI Read 2 CNA Pennsylvania governor signs order imposing new rules to set up AI data centers in state Pennsylvania governor signs order imposing new rules to set up AI data centers in state AI Read 3 TechAsia Y Combinator joins $4.5m round for US AI startup Kita Kita said its software reads bank statements, e-wallet records, payslips, and invoices. AI Read 4 DigiTimes LG Electronics lands first OSAT order for chip packaging LDI LG Electronics has secured its first order for laser direct imaging (LDI) equipment used in semiconductor packaging, marking an early commercial milestone as it expands into chip packaging. SemiconductorElectronics Read 5 DigiTimes Rockchip profit jumps 62% as edge AI chips scale across devices China AIoT chip designer Rockchip posted record first-half 2026 results, with revenue rising 40.6% year on year to CNY2.88 billion (US$427 million) and net profit surging 61.73% to CNY859 million, supported by accelerating edge AI adoption. AISemiconductor Read 6 DigiTimes 2,056 humanoid robots march to Beijing for China's biggest real-world test China's humanoid robot industry is entering a larger real-world test of AI, mobility and performance, with 2,056 robots set to compete in Beijing as domestic makers including Unitree Robotics accelerate development of faster and more capable machines. Automation Read 7 TechAsia A conversational agent for full video production Pixo automates the tedious AI video workflow, helping non-video natives create complete stories through a simple chat interface. AI Read 8 TechAsia ByteDance, MPA reach deal on AI copyright safeguards The models are available through TikTok, CapCut, and Dreamina. AI Read 9 NikkeiAsia Mitsubishi Logistics to build 2 distribution centers in US for $40m Mitsubishi Logistics to build 2 distribution centers in US for $40m Logistics Read 10 NikkeiAsia Why open-weight AI is the new frontier in the US-China tech race Why open-weight AI is the new frontier in the US-China tech race AI Read 11 NikkeiAsia Alibaba, ByteDance trim gaming and retail to invest in AI Alibaba, ByteDance trim gaming and retail to invest in AI AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 18, 2026</title><link href="https://asiatechfeed.com/2026/08/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 18, 2026" /><published>2026-08-18T08:00:45+00:00</published><updated>2026-08-18T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/08/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -707,41 +808,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/when-ai-safety-rules-leave-companies-defenseless" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes TSMC July revenue jumps 44.7% to record US$14.5B, 2026 growth forecast tops 40% Taiwan Semiconductor Manufacturing Company (TSMC) reported record monthly revenue of NT$467.58 billion (approx. US$14.5 billion) for July 2026, up 5.6% from June and 44.7% from a year earlier, extending strong growth fueled by artificial intelligence and high-performance computing demand. SemiconductorAI Read 2 TechAsia AI agents find margin risks before they hit the balance sheet Stratsync uses multi-agent AI to pull data from ERPs, PDFs, and WhatsApp to spot hidden revenue risks before critical business decisions are made. AI Read 3 DigiTimes SuperAlloy boosts profit and expands into semiconductor green supply chains SuperAlloy Industrial said after its August 7 board meeting that second-quarter 2026 results showed steady improvement in core profitability, even though foreign exchange losses tied to a weaker yen weighed on net income. The Taiwan-based manufacturer is also moving into the semiconductor front-end equipment supply cha SemiconductorLogistics Read 4 DigiTimes Nvidia invests up to US$3B in Lancium as energy becomes new AI bottleneck Nvidia will reportedly invest US$2 billion into energy technology and infrastructure developer Lancium, which is building the Stargate data center campus in Texas. This deal illustrates how AI bottlenecks have expanded to include not only chips used for compute, but also the enormous amounts of electricity needed to su AISemiconductorLogistics Read 5 TechAsia Hugging Face outlines how open weight AI aids cyber teams Hugging Face's chief science officer explains why safety rules can lock companies out of AI tools mid-attack, and why open weight models may be the fix. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 09, 2026</title><link href="https://asiatechfeed.com/2026/08/09/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 09, 2026" /><published>2026-08-09T08:00:51+00:00</published><updated>2026-08-09T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/08/09/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/09/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Macronix, Winbond post record July revenue as memory prices rise</span></td>
-  <td class="col-summary">Taiwan memory chipmakers Macronix International and Winbond Electronics both posted record monthly revenue in July, extending strong second-quarter momentum as tight supply and rising memory prices continue to lift profitability.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807PD255/winbond-macronix-international-revenue-taiwan-chipmakers.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Innodisk posts record second quarter profit on AI and memory demand</span></td>
-  <td class="col-summary">Innodisk reported record second-quarter 2026 results as surging memory prices and artificial intelligence demand lifted profit, revenue, and margins. The memory module maker said quarterly net profit reached NT$10.368 billion, with earnings per share reaching NT$108.93.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807PD232/innodisk-profit-2026-demand-revenue.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">VSO's Vietnam expansion and AI-server growth point to bigger upside, but memory shortages cloud the outlook</span></td>
-  <td class="col-summary">VSO Electronics said its Vietnam plant is on track for trial production by the end of December 2026 as it expands its presence in AI server applications, liquid-cooling leak detection, and high-speed cables. The company is also preparing for tighter supply conditions in the second half of 2026, especially in memory.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260807PD214/growth-expansion-vso-electronics-plant-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Macronix, Winbond post record July revenue as memory prices rise Taiwan memory chipmakers Macronix International and Winbond Electronics both posted record monthly revenue in July, extending strong second-quarter momentum as tight supply and rising memory prices continue to lift profitability. ElectronicsSemiconductor Read 2 DigiTimes Innodisk posts record second quarter profit on AI and memory demand Innodisk reported record second-quarter 2026 results as surging memory prices and artificial intelligence demand lifted profit, revenue, and margins. The memory module maker said quarterly net profit reached NT$10.368 billion, with earnings per share reaching NT$108.93. AI Read 3 DigiTimes VSO's Vietnam expansion and AI-server growth point to bigger upside, but memory shortages cloud the outlook VSO Electronics said its Vietnam plant is on track for trial production by the end of December 2026 as it expands its presence in AI server applications, liquid-cooling leak detection, and high-speed cables. The company is also preparing for tighter supply conditions in the second half of 2026, especially in memory. ElectronicsAI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes TSMC July revenue jumps 44.7% to record US$14.5B, 2026 growth forecast tops 40% Taiwan Semiconductor Manufacturing Company (TSMC) reported record monthly revenue of NT$467.58 billion (approx. US$14.5 billion) for July 2026, up 5.6% from June and 44.7% from a year earlier, extending strong growth fueled by artificial intelligence and high-performance computing demand. SemiconductorAI Read 2 TechAsia AI agents find margin risks before they hit the balance sheet Stratsync uses multi-agent AI to pull data from ERPs, PDFs, and WhatsApp to spot hidden revenue risks before critical business decisions are made. AI Read 3 DigiTimes SuperAlloy boosts profit and expands into semiconductor green supply chains SuperAlloy Industrial said after its August 7 board meeting that second-quarter 2026 results showed steady improvement in core profitability, even though foreign exchange losses tied to a weaker yen weighed on net income. The Taiwan-based manufacturer is also moving into the semiconductor front-end equipment supply cha SemiconductorLogistics Read 4 DigiTimes Nvidia invests up to US$3B in Lancium as energy becomes new AI bottleneck Nvidia will reportedly invest US$2 billion into energy technology and infrastructure developer Lancium, which is building the Stargate data center campus in Texas. This deal illustrates how AI bottlenecks have expanded to include not only chips used for compute, but also the enormous amounts of electricity needed to su AISemiconductorLogistics Read 5 TechAsia Hugging Face outlines how open weight AI aids cyber teams Hugging Face's chief science officer explains why safety rules can lock companies out of AI tools mid-attack, and why open weight models may be the fix. AI Read]]></summary></entry></feed>
