@@ -1,37 +1,38 @@
 {
   "date": "2026-08-20",
-  "count": 7,
+  "count": 12,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "NikkeiAsia",
+    "EETAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-20-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Alibaba shares rise 34% on AI bets ahead of earnings",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/alibaba-rolls-qwen38max-ai-model-globally"
+      "title": "Singapore and India discuss bilateral cooperation on semiconductors, food security at ministerial meeting",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/india-singapore-semiconductors-food-safety-6330246"
     },
     {
-      "title": "JD.com unveils robotics plan, aims to invest $1.48b",
+      "title": "The real risk for AI companies is running out of cash",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/jd-com-launches-joybuy-in-europe-to-rival-amazon"
+      "url": "https://www.techinasia.com/the-real-risk-for-ai-companies-is-running-out-of-cash"
     },
     {
-      "title": "Chinese AI firm Kunlun Tech revenue jumps 43.6% in H1",
+      "title": "Meta launches AI tools for small businesses",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/alibaba-baidu-start-using-own-chips-to-train-ai-models-sources"
+      "url": "https://www.techinasia.com/meta-launches-seller-app-facebook-marketplace"
     },
     {
-      "title": "Techman Robot lifts SI mix to 20% as server-heavier builds spur robot demand",
+      "title": "SoftBank, Ericsson validate AI software on 5G",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/softbank-openai-launch-japan-cyber-service-3000-firms"
+    },
+    {
+      "title": "AMEC profit jumps 300%: China chip equipment maker expands beyond etch with US$520M plan",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260819PD233/techman-demand-robot-2026-taipei.html"
-    },
-    {
-      "title": "Samsung repays 20 trillion won SDC loan early as memory demand surges",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260819PD229/samsung-loan-demand-2026-sdc.html"
+      "url": "https://www.digitimes.com/news/a20260820VL204/amec-equipment-profit-production-2026.html"
     }
   ],
   "source_stats": [
@@ -48,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -147,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 6,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 28,
+      "fetched": 49,
+      "relevant": 41,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
