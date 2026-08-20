@@ -1,37 +1,38 @@
 {
-  "date": "2026-08-19",
-  "count": 8,
+  "date": "2026-08-20",
+  "count": 10,
   "sources": [
     "DigiTimes",
     "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-08-19-asia-tech-news-digest.md",
+  "post_file": "2026-08-20-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Scaling indigenous defense robotics for emerging markets",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/scaling-indigenous-defense-robotics-emerging-markets"
+      "title": "SEMICON Taiwan 2026 Expands Global Platform for Semiconductor Startups",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/semicon-taiwan-2026-expands-global-platform-for-semiconductor-startups/"
     },
     {
-      "title": "Alibaba-backed AI video startup ShengShu eyes HK IPO",
+      "title": "Chery robotics unit prepares for potential IPO",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/alibaba-cloud-backs-ai-video-startup-shengshu-in-293m-round"
+      "url": "https://www.techinasia.com/chinese-ev-makers-ramp-robotics-tech-rivalry-grows"
     },
     {
-      "title": "Vietnam eyes city upgrades for Samsung hub Bac Ninh and Quang Ninh",
+      "title": "SK Hynix to cancel record KRW40tn in shares, signalling confidence in a long AI memory cycle",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260819VL210/samsung-vietnam-electronics-manufacturing-logistics.html"
+      "url": "https://www.digitimes.com/news/a20260819VL214/hbm-earnings-cash-flow.html"
     },
     {
-      "title": "A16z joins $700m round for US AI chip startup Etched",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
-    },
-    {
-      "title": "Taiwan seeks shift from drone supplier to strategic partner in entering US market",
+      "title": "Nvidia H200 chips reach China as imports remain limited",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260819VL209/taiwan-supplier-market-supply-chain-manufacturing.html"
+      "url": "https://www.digitimes.com/news/a20260819VL212/nvidia-bytedance-chips-tencent-beijing.html"
+    },
+    {
+      "title": "TAITRA Chair: Taiwan's economy relies on AI capex; warns of weak ROI risk",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260819PD218/taiwan-taitra-2026-economy-capex.html"
     }
   ],
   "source_stats": [
@@ -149,14 +150,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 53,
-      "relevant": 45,
+      "fetched": 62,
+      "relevant": 51,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
