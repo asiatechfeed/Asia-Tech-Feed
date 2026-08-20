@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-20T01:41:55+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 20, 2026</title><link href="https://asiatechfeed.com/2026/08/20/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 20, 2026" /><published>2026-08-20T01:41:17+00:00</published><updated>2026-08-20T01:41:17+00:00</updated><id>https://asiatechfeed.com/2026/08/20/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/20/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-20T08:02:02+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 20, 2026</title><link href="https://asiatechfeed.com/2026/08/20/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 20, 2026" /><published>2026-08-20T08:00:48+00:00</published><updated>2026-08-20T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/08/20/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/20/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,62 +12,102 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Alibaba shares rise 34% on AI bets ahead of earnings</span></td>
-  <td class="col-summary">Alibaba Cloud said Qwen, its AI model family, was adopted by more than 90,000 enterprises in its first year.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-rolls-qwen38max-ai-model-globally" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Singapore and India discuss bilateral cooperation on semiconductors, food security at ministerial meeting</span></td>
+  <td class="col-summary">The two countries signed Memorandums of Understanding on food safety and maritime heritage at the fourth India-Singapore Ministerial Roundtable held in Singapore.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/india-singapore-semiconductors-food-safety-6330246" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">JD.com unveils robotics plan, aims to invest $1.48b</span></td>
-  <td class="col-summary">The plan builds on JD.com’s earlier robotics work in logistics, including testing robot and drone deliveries during the coronavirus outbreak.</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/jd-com-launches-joybuy-in-europe-to-rival-amazon" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">The real risk for AI companies is running out of cash</span></td>
+  <td class="col-summary">Stratechery founder Ben Thompson explains why AI companies could run out of cash before demand fades, and how pricing and supply chains factor in.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/the-real-risk-for-ai-companies-is-running-out-of-cash" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Chinese AI firm Kunlun Tech revenue jumps 43.6% in H1</span></td>
-  <td class="col-summary">Kunlun said revenue from its Tiangong AI business, also known as Skywork AI, increased quarter by quarter during the period and became a source of growth.</td>
+  <td class="col-title"><span class="article-title">Meta launches AI tools for small businesses</span></td>
+  <td class="col-summary">Meta said the features are free to use now.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-baidu-start-using-own-chips-to-train-ai-models-sources" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-launches-seller-app-facebook-marketplace" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Techman Robot lifts SI mix to 20% as server-heavier builds spur robot demand</span></td>
-  <td class="col-summary">Techman Robot said on August 19 at Automation Taipei 2026 that it remains cautiously optimistic about the second half of 2026, expecting business to outperform the first half on continued strength in semiconductors and system integration (SI). The company also said server manufacturing's shift toward larger, heavier bu</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260819PD233/techman-demand-robot-2026-taipei.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">SoftBank, Ericsson validate AI software on 5G</span></td>
+  <td class="col-summary">The companies said the AI-native scheduler adjusts downlink transmission settings in real time inside the radio access network, or RAN.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/softbank-openai-launch-japan-cyber-service-3000-firms" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung repays 20 trillion won SDC loan early as memory demand surges</span></td>
-  <td class="col-summary">Samsung Electronics fully repaid a KRW20 trillion unsecured loan from Samsung Display ahead of schedule in the second quarter of 2026, according to South Korean publication ZDNet Korea and filings in the Financial Supervisory Service's DART system. The early repayment came as AI-related demand lifted memory prices and </td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260819PD229/samsung-loan-demand-2026-sdc.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">AMEC profit jumps 300%: China chip equipment maker expands beyond etch with US$520M plan</span></td>
+  <td class="col-summary">Advanced Micro-Fabrication Equipment Inc. China (AMEC) posted a 300% surge in first-half 2026 profit and announced a CNY3.5 billion (US$520 million) capacity expansion, accelerating its shift from an etch specialist into a broader semiconductor equipment supplier.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260820VL204/amec-equipment-profit-production-2026.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AI server market CAGR nears 40%; rack power density surging 100-fold poses grid strain</span></td>
-  <td class="col-summary">Speaking at the 2026 Taiwan AI Academy Annual Conference held on August 18 at Academia Sinica's Social Sciences building, Neo Yao, CEO of Foxconn's Visionbay.ai, and Huang-Jen Chiu, CTO of Delta Power and Systems Business Group, delivered keynote addresses emphasizing a stark reality: AI server shipment growth is sever</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260819PD228/ai-server-power-supply-taiwan-2026.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Why the suit is making a comeback – and becoming easier to wear</span></td>
+  <td class="col-summary">Women’s tailoring is loosening up, with softer cuts, oversized silhouettes and lighter fabrics making the suit more versatile than ever.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/obsessions/womens-suits-tailoring-trend-6330371" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan exports grew for 11th consecutive month in July on cars and chips</span></td>
-  <td class="col-summary">Japan exports grew for 11th consecutive month in July on cars and chips</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">AI drives network equipment demand as parts shortages deepen</span></td>
+  <td class="col-summary">AI data center expansion and rising demand for enterprise network upgrades continue to lift the network equipment market, giving several vendors better order visibility. But surging prices for key components such as memory and PCBs, along with hyperscalers drawing heavily on supply-chain resources, are squeezing parts </td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260820PD214/network-equipment-expansion-materials-demand.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">SK Hynix's new HBM team lands in Nvidia and AMD's backyard — co-design is becoming the way to win HBM4 orders</span></td>
+  <td class="col-summary">SK Hynix is reported to be assembling a high-bandwidth memory (HBM) design team in Silicon Valley, a move that would deepen its co-design work with major US chip customers. Analysts see it as evidence that HBM competition is shifting into a customized, jointly developed phase.</td>
   <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/economy/trade/japan-exports-grew-for-11th-consecutive-month-in-july-on-cars-and-chips" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260820PD219/sk-hynix-hbm-hbm4-design-amd.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Robots poised for 'ChatGPT moment', says Unitree CEO</span></td>
+  <td class="col-summary">The industry is nearing a breakthrough where robots can be placed in unfamiliar environments and complete most tasks through simple voice or text instructions, says Unitree CEO Wang Xingxing.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/china-unitree-wang-xingxing-humanoid-robot-chatgpt-6330271" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Protecting Semiconductor Yield Through High-Purity Fastener Selection</span></td>
+  <td class="col-summary">High-purity fastener materials and vented designs can help semiconductor manufacturers manage corrosion, thermal stress, contamination and vacuum-related risks across demanding fabrication environments The post Protecting Semiconductor Yield Through High-Purity Fastener Selection appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/protecting-semiconductor-yield-through-high-purity-fastener-selection/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">NFC Market Set to Reach $37.4B by 2032</span></td>
+  <td class="col-summary">NFC adoption is accelerating across payments, consumer electronics and connected devices, driving sustained global market growth through 2032. The post NFC Market Set to Reach $37.4B by 2032 appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/nfc-market-set-to-reach-37-4b-by-2032/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">AI Workloads Reshaping the Memory Hierarchy</span></td>
+  <td class="col-summary">AI workloads are driving memory diversification, with HBM, LPDDR, DDR, and storage balancing capacity, latency, power, and cost. The post AI Workloads Reshaping the Memory Hierarchy appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ai-workloads-reshaping-the-memory-hierarchy/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Alibaba shares rise 34% on AI bets ahead of earnings Alibaba Cloud said Qwen, its AI model family, was adopted by more than 90,000 enterprises in its first year. AI Read 2 TechAsia JD.com unveils robotics plan, aims to invest $1.48b The plan builds on JD.com’s earlier robotics work in logistics, including testing robot and drone deliveries during the coronavirus outbreak. LogisticsAutomation Read 3 TechAsia Chinese AI firm Kunlun Tech revenue jumps 43.6% in H1 Kunlun said revenue from its Tiangong AI business, also known as Skywork AI, increased quarter by quarter during the period and became a source of growth. AI Read 4 DigiTimes Techman Robot lifts SI mix to 20% as server-heavier builds spur robot demand Techman Robot said on August 19 at Automation Taipei 2026 that it remains cautiously optimistic about the second half of 2026, expecting business to outperform the first half on continued strength in semiconductors and system integration (SI). The company also said server manufacturing's shift toward larger, heavier bu SemiconductorAutomation Read 5 DigiTimes Samsung repays 20 trillion won SDC loan early as memory demand surges Samsung Electronics fully repaid a KRW20 trillion unsecured loan from Samsung Display ahead of schedule in the second quarter of 2026, according to South Korean publication ZDNet Korea and filings in the Financial Supervisory Service's DART system. The early repayment came as AI-related demand lifted memory prices and Electronics Read 6 DigiTimes AI server market CAGR nears 40%; rack power density surging 100-fold poses grid strain Speaking at the 2026 Taiwan AI Academy Annual Conference held on August 18 at Academia Sinica's Social Sciences building, Neo Yao, CEO of Foxconn's Visionbay.ai, and Huang-Jen Chiu, CTO of Delta Power and Systems Business Group, delivered keynote addresses emphasizing a stark reality: AI server shipment growth is sever AI Read 7 NikkeiAsia Japan exports grew for 11th consecutive month in July on cars and chips Japan exports grew for 11th consecutive month in July on cars and chips Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 19, 2026</title><link href="https://asiatechfeed.com/2026/08/19/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 19, 2026" /><published>2026-08-19T08:00:49+00:00</published><updated>2026-08-19T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/08/19/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/19/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Singapore and India discuss bilateral cooperation on semiconductors, food security at ministerial meeting The two countries signed Memorandums of Understanding on food safety and maritime heritage at the fourth India-Singapore Ministerial Roundtable held in Singapore. Semiconductor Read 2 TechAsia The real risk for AI companies is running out of cash Stratechery founder Ben Thompson explains why AI companies could run out of cash before demand fades, and how pricing and supply chains factor in. AILogistics Read 3 TechAsia Meta launches AI tools for small businesses Meta said the features are free to use now. AI Read 4 TechAsia SoftBank, Ericsson validate AI software on 5G The companies said the AI-native scheduler adjusts downlink transmission settings in real time inside the radio access network, or RAN. AI Read 5 DigiTimes AMEC profit jumps 300%: China chip equipment maker expands beyond etch with US$520M plan Advanced Micro-Fabrication Equipment Inc. China (AMEC) posted a 300% surge in first-half 2026 profit and announced a CNY3.5 billion (US$520 million) capacity expansion, accelerating its shift from an etch specialist into a broader semiconductor equipment supplier. Semiconductor Read 6 CNA Why the suit is making a comeback – and becoming easier to wear Women’s tailoring is loosening up, with softer cuts, oversized silhouettes and lighter fabrics making the suit more versatile than ever. Semiconductor Read 7 DigiTimes AI drives network equipment demand as parts shortages deepen AI data center expansion and rising demand for enterprise network upgrades continue to lift the network equipment market, giving several vendors better order visibility. But surging prices for key components such as memory and PCBs, along with hyperscalers drawing heavily on supply-chain resources, are squeezing parts ElectronicsAI Read 8 DigiTimes SK Hynix's new HBM team lands in Nvidia and AMD's backyard — co-design is becoming the way to win HBM4 orders SK Hynix is reported to be assembling a high-bandwidth memory (HBM) design team in Silicon Valley, a move that would deepen its co-design work with major US chip customers. Analysts see it as evidence that HBM competition is shifting into a customized, jointly developed phase. Semiconductor Read 9 CNA Robots poised for 'ChatGPT moment', says Unitree CEO The industry is nearing a breakthrough where robots can be placed in unfamiliar environments and complete most tasks through simple voice or text instructions, says Unitree CEO Wang Xingxing. Automation Read 10 EETAsia Protecting Semiconductor Yield Through High-Purity Fastener Selection High-purity fastener materials and vented designs can help semiconductor manufacturers manage corrosion, thermal stress, contamination and vacuum-related risks across demanding fabrication environments The post Protecting Semiconductor Yield Through High-Purity Fastener Selection appeared first on EE Times Asia . Semiconductor Read 11 EETAsia NFC Market Set to Reach $37.4B by 2032 NFC adoption is accelerating across payments, consumer electronics and connected devices, driving sustained global market growth through 2032. The post NFC Market Set to Reach $37.4B by 2032 appeared first on EE Times Asia . Electronics Read 12 EETAsia AI Workloads Reshaping the Memory Hierarchy AI workloads are driving memory diversification, with HBM, LPDDR, DDR, and storage balancing capacity, latency, power, and cost. The post AI Workloads Reshaping the Memory Hierarchy appeared first on EE Times Asia . AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 19, 2026</title><link href="https://asiatechfeed.com/2026/08/19/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 19, 2026" /><published>2026-08-19T08:00:49+00:00</published><updated>2026-08-19T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/08/19/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/19/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
