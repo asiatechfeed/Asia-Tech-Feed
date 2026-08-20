@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Asia Tech News Digest - August 20, 2026"
-date: 2026-08-20 08:02:07 +0800
-articles_count: 10
-sources_count: 4
-sources: ["DigiTimes", "EETAsia", "NikkeiAsia", "TechAsia"]
+date: 2026-08-20 09:41:17 +0800
+articles_count: 7
+sources_count: 3
+sources: ["DigiTimes", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-08-20.tsv
-featured_title: "SEMICON Taiwan 2026 Expands Global Platform for Semiconductor Startups"
-featured_url: "https://www.eetasia.com/semicon-taiwan-2026-expands-global-platform-for-semiconductor-startups/"
-featured_source: "EETAsia"
-featured_summary: "SEMICON Taiwan 2026 features expanded programs to strengthen collaboration and innovation in the global semiconductor value chain. The post SEMICON Taiwan 2026 Expands Global Platform for Semiconductor Startups appeared first on EE Times Asia ."
+featured_title: "Alibaba shares rise 34% on AI bets ahead of earnings"
+featured_url: "https://www.techinasia.com/alibaba-rolls-qwen38max-ai-model-globally"
+featured_source: "TechAsia"
+featured_summary: "Alibaba Cloud said Qwen, its AI model family, was adopted by more than 90,000 enterprises in its first year."
 featured_image: ""
 ---
 
@@ -27,83 +27,59 @@ featured_image: ""
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">SEMICON Taiwan 2026 Expands Global Platform for Semiconductor Startups</span></td>
-  <td class="col-summary">SEMICON Taiwan 2026 features expanded programs to strengthen collaboration and innovation in the global semiconductor value chain. The post SEMICON Taiwan 2026 Expands Global Platform for Semiconductor Startups appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/semicon-taiwan-2026-expands-global-platform-for-semiconductor-startups/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba shares rise 34% on AI bets ahead of earnings</span></td>
+  <td class="col-summary">Alibaba Cloud said Qwen, its AI model family, was adopted by more than 90,000 enterprises in its first year.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-rolls-qwen38max-ai-model-globally" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Chery robotics unit prepares for potential IPO</span></td>
-  <td class="col-summary">Founded by Chery in January 2025, AiMOGA is closely tied to the automaker’s research and development, supply chain, and dealership network.</td>
+  <td class="col-title"><span class="article-title">JD.com unveils robotics plan, aims to invest $1.48b</span></td>
+  <td class="col-summary">The plan builds on JD.com’s earlier robotics work in logistics, including testing robot and drone deliveries during the coronavirus outbreak.</td>
   <td class="col-tags"><span class="tag logis">Logistics</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinese-ev-makers-ramp-robotics-tech-rivalry-grows" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/jd-com-launches-joybuy-in-europe-to-rival-amazon" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SK Hynix to cancel record KRW40tn in shares, signalling confidence in a long AI memory cycle</span></td>
-  <td class="col-summary">SK hynix said on August 19 that its board had approved a plan to repurchase and cancel KRW40 trillion (roughly US$29 billion) of its own shares, the largest share buyback and cancellation ever undertaken by a company listed in South Korea.</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Chinese AI firm Kunlun Tech revenue jumps 43.6% in H1</span></td>
+  <td class="col-summary">Kunlun said revenue from its Tiangong AI business, also known as Skywork AI, increased quarter by quarter during the period and became a source of growth.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260819VL214/hbm-earnings-cash-flow.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-baidu-start-using-own-chips-to-train-ai-models-sources" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Nvidia H200 chips reach China as imports remain limited</span></td>
-  <td class="col-summary">ByteDance and Tencent have each received about 10,000 Nvidia H200 processors in mainland China in recent weeks, the Financial Times reported, marking the clearest sign yet that Beijing's import reviews are translating into meaningful deliveries after months of regulatory uncertainty.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260819VL212/nvidia-bytedance-chips-tencent-beijing.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Techman Robot lifts SI mix to 20% as server-heavier builds spur robot demand</span></td>
+  <td class="col-summary">Techman Robot said on August 19 at Automation Taipei 2026 that it remains cautiously optimistic about the second half of 2026, expecting business to outperform the first half on continued strength in semiconductors and system integration (SI). The company also said server manufacturing's shift toward larger, heavier bu</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260819PD233/techman-demand-robot-2026-taipei.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TAITRA Chair: Taiwan's economy relies on AI capex; warns of weak ROI risk</span></td>
-  <td class="col-summary">Speaking at the opening of the 2026 Taiwan Artificial Intelligence Conference on August 18, Taiwan External Trade Development Council (TAITRA) Chairman James C.F. Huang urged engineering experts to adopt a broader, more humanistic perspective when re-evaluating the transformations brought by AI.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260819PD218/taiwan-taitra-2026-economy-capex.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Samsung repays 20 trillion won SDC loan early as memory demand surges</span></td>
+  <td class="col-summary">Samsung Electronics fully repaid a KRW20 trillion unsecured loan from Samsung Display ahead of schedule in the second quarter of 2026, according to South Korean publication ZDNet Korea and filings in the Financial Supervisory Service's DART system. The early repayment came as AI-related demand lifted memory prices and </td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260819PD229/samsung-loan-demand-2026-sdc.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Alibaba, JD.com-backed robot maker files for Hong Kong IPO</span></td>
-  <td class="col-summary">Founded in 2022, LimX was valued at $2.2 billion in a July pre-IPO round.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-galaxea-ai-raises-290-4m-in-series-b-round" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">AI server market CAGR nears 40%; rack power density surging 100-fold poses grid strain</span></td>
+  <td class="col-summary">Speaking at the 2026 Taiwan AI Academy Annual Conference held on August 18 at Academia Sinica's Social Sciences building, Neo Yao, CEO of Foxconn's Visionbay.ai, and Huang-Jen Chiu, CTO of Delta Power and Systems Business Group, delivered keynote addresses emphasizing a stark reality: AI server shipment growth is sever</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260819PD228/ai-server-power-supply-taiwan-2026.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Coinhako revenue falls, losses narrow as money flows into AI</span></td>
-  <td class="col-summary">The firm's operational costs rose in 2025 ahead of SBI Holdings' acquisition, with shifting crypto sentiment also playing a role.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/coinhako-revenue-falls-losses-narrow-money-flows-ai" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Hyundai bets on physical AI to evolve beyond automobiles</span></td>
-  <td class="col-summary">Hyundai bets on physical AI to evolve beyond automobiles</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/hyundai-bets-on-physical-ai-to-evolve-beyond-automobiles" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">South Korean progressives' 'Park Chung-hee' coalition in the AI era</span></td>
-  <td class="col-summary">South Korean progressives' 'Park Chung-hee' coalition in the AI era</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/opinion/south-korean-progressives-park-chung-hee-coalition-in-the-ai-era" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">China's robot bodies and AI brains take center stage at Beijing expos</span></td>
-  <td class="col-summary">China's robot bodies and AI brains take center stage at Beijing expos</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/china-s-robot-bodies-and-ai-brains-take-center-stage-at-beijing-expos" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Japan exports grew for 11th consecutive month in July on cars and chips</span></td>
+  <td class="col-summary">Japan exports grew for 11th consecutive month in July on cars and chips</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/economy/trade/japan-exports-grew-for-11th-consecutive-month-in-july-on-cars-and-chips" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>

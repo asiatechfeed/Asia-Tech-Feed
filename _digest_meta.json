@@ -1,38 +1,37 @@
 {
   "date": "2026-08-20",
-  "count": 10,
+  "count": 7,
   "sources": [
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-20-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "SEMICON Taiwan 2026 Expands Global Platform for Semiconductor Startups",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/semicon-taiwan-2026-expands-global-platform-for-semiconductor-startups/"
-    },
-    {
-      "title": "Chery robotics unit prepares for potential IPO",
+      "title": "Alibaba shares rise 34% on AI bets ahead of earnings",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinese-ev-makers-ramp-robotics-tech-rivalry-grows"
+      "url": "https://www.techinasia.com/alibaba-rolls-qwen38max-ai-model-globally"
     },
     {
-      "title": "SK Hynix to cancel record KRW40tn in shares, signalling confidence in a long AI memory cycle",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260819VL214/hbm-earnings-cash-flow.html"
+      "title": "JD.com unveils robotics plan, aims to invest $1.48b",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/jd-com-launches-joybuy-in-europe-to-rival-amazon"
     },
     {
-      "title": "Nvidia H200 chips reach China as imports remain limited",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260819VL212/nvidia-bytedance-chips-tencent-beijing.html"
+      "title": "Chinese AI firm Kunlun Tech revenue jumps 43.6% in H1",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/alibaba-baidu-start-using-own-chips-to-train-ai-models-sources"
     },
     {
-      "title": "TAITRA Chair: Taiwan's economy relies on AI capex; warns of weak ROI risk",
+      "title": "Techman Robot lifts SI mix to 20% as server-heavier builds spur robot demand",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260819PD218/taiwan-taitra-2026-economy-capex.html"
+      "url": "https://www.digitimes.com/news/a20260819PD233/techman-demand-robot-2026-taipei.html"
+    },
+    {
+      "title": "Samsung repays 20 trillion won SDC loan early as memory demand surges",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260819PD229/samsung-loan-demand-2026-sdc.html"
     }
   ],
   "source_stats": [
@@ -150,14 +149,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 62,
-      "relevant": 51,
+      "fetched": 35,
+      "relevant": 28,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
