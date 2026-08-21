@@ -1,38 +1,39 @@
 {
-  "date": "2026-08-20",
-  "count": 12,
+  "date": "2026-08-21",
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-08-20-asia-tech-news-digest.md",
+  "post_file": "2026-08-21-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Singapore and India discuss bilateral cooperation on semiconductors, food security at ministerial meeting",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/india-singapore-semiconductors-food-safety-6330246"
-    },
-    {
-      "title": "The real risk for AI companies is running out of cash",
+      "title": "Meta becomes one of Microsoft\u2019s biggest AI customers: source",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/the-real-risk-for-ai-companies-is-running-out-of-cash"
+      "url": "https://www.techinasia.com/meta-blackrock-plan-14b-texas-ai-data-center"
     },
     {
-      "title": "Meta launches AI tools for small businesses",
+      "title": "GitLab adds in-region AI for regulated enterprises",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/meta-launches-seller-app-facebook-marketplace"
+      "url": "https://www.techinasia.com/anthropic-launches-claude-code-for-developers-in-slack"
     },
     {
-      "title": "SoftBank, Ericsson validate AI software on 5G",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/softbank-openai-launch-japan-cyber-service-3000-firms"
-    },
-    {
-      "title": "AMEC profit jumps 300%: China chip equipment maker expands beyond etch with US$520M plan",
+      "title": "Charts: TSMC's share of Taiwan chip manufacturing revenue falls to 81.8% as memory makers scale up",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260820VL204/amec-equipment-profit-production-2026.html"
+      "url": "https://www.digitimes.com/news/a20260820VL216/revenue-tsmc-taiwan-growth-demand.html"
+    },
+    {
+      "title": "US ban on robot dogs clears the way for Taiwan's Swancor",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260820PD231/robot-swancor-taiwan-ban-supply-chain.html"
+    },
+    {
+      "title": "Charts: AI test demand drives broadest growth among Taiwan's chip equipment suppliers",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260820VL215/demand-growth-equipment-revenue-probe.html"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -148,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 7,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 49,
-      "relevant": 41,
+      "fetched": 35,
+      "relevant": 27,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +169,7 @@
       "fetched": 50,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -193,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
