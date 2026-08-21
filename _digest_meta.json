@@ -1,37 +1,39 @@
 {
   "date": "2026-08-21",
-  "count": 8,
+  "count": 10,
   "sources": [
+    "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-21-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Nvidia denies China-specific AI chip on roadmap",
+      "title": "A16z partner: High ad spend is a warning sign for AI startups",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-releases-free-ai-model-singlegpu-computers"
+      "url": "https://www.techinasia.com/high-ad-spend-is-a-warning-sign-for-ai-startups"
     },
     {
-      "title": "Anthropic plans more enterprise control over AI data",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-launches-claude-opus-5-ai-model"
-    },
-    {
-      "title": "Waymo unveils custom chip for self-driving system",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/waymo-rebrands-zeekr-rt-robotaxi-over-low-us-name-recognition"
-    },
-    {
-      "title": "Elice to build South Korea's first warm-water-cooled AI data center, unveils coding agent",
+      "title": "Lee Jae-myung meets SK chief Chey Tae-won with US chip investment pressure in focus",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260820PD227/ai-data-center-cooling-gpu-infrastructure.html"
+      "url": "https://www.digitimes.com/news/a20260821VL212/investment-chairman-production-samsung-business.html"
     },
     {
-      "title": "Nitto Denko to expand HDD baseboard capacity for AI data center demand",
+      "title": "Analyst: Upstream memory giants eye threefold 2026 revenue as 2027 capacity eases price surge",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260820PD226/nitto-denko-hdd-demand-capacity-data-center.html"
+      "url": "https://www.digitimes.com/news/a20260821PD206/2026-2027-revenue-capacity-price.html"
+    },
+    {
+      "title": "CoWoS boom lifts Taiwan semiconductor equipment makers, Bosch Rexroth targets 2027 volume growth",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260821PD214/bosch-equipment-taiwan-growth-cowos.html"
+    },
+    {
+      "title": "LTA to roll out AI system using bus cameras to detect bus lane encroachments, road defects",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/lta-ai-bus-camera-traffic-violations-road-defects-6332771"
     }
   ],
   "source_stats": [
@@ -50,7 +52,7 @@
       "fetched": 20,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -147,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 27,
+      "fetched": 49,
+      "relevant": 41,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +169,7 @@
       "fetched": 50,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -192,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
