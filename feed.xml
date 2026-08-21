@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-20T08:02:02+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 20, 2026</title><link href="https://asiatechfeed.com/2026/08/20/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 20, 2026" /><published>2026-08-20T08:00:48+00:00</published><updated>2026-08-20T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/08/20/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/20/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-21T00:02:28+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 21, 2026</title><link href="https://asiatechfeed.com/2026/08/21/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 21, 2026" /><published>2026-08-21T00:01:35+00:00</published><updated>2026-08-21T00:01:35+00:00</updated><id>https://asiatechfeed.com/2026/08/21/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/21/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Meta becomes one of Microsoft’s biggest AI customers: source</span></td>
+  <td class="col-summary">Microsoft said in July that Azure AI Foundry, its marketplace for AI models, had 100,000 customers.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-blackrock-plan-14b-texas-ai-data-center" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">GitLab adds in-region AI for regulated enterprises</span></td>
+  <td class="col-summary">GitLab also moved Bulk static application security testing (SAST) False Positive Detection and Agentic SAST Vulnerability Resolution to beta.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropic-launches-claude-code-for-developers-in-slack" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Charts: TSMC's share of Taiwan chip manufacturing revenue falls to 81.8% as memory makers scale up</span></td>
+  <td class="col-summary">Foundry leader Taiwan Semiconductor Manufacturing Company (TSMC) grew 37% year to date — and still lost four percentage points of the sub-sector's revenue share, because the other 26 manufacturers grew more than twice as fast.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260820VL216/revenue-tsmc-taiwan-growth-demand.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">US ban on robot dogs clears the way for Taiwan's Swancor</span></td>
+  <td class="col-summary">To safeguard national security and the development of the AI supply chain, the US has banned imports of advanced humanoid robots. Against that backdrop, Taiwan-based Swancor unveiled its first "Taiwan AI robot ecosystem" at Automation Taipei 2026, joining with more than 10 Taiwanese industry, technology, and academic p</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260820PD231/robot-swancor-taiwan-ban-supply-chain.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Charts: AI test demand drives broadest growth among Taiwan's chip equipment suppliers</span></td>
+  <td class="col-summary">Thirty-eight of 43 companies grew year to date at a median rate of 28.7% — the highest of any semiconductor sub-sector — with test handlers, sockets and probe cards recurring across company filings.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260820VL215/demand-growth-equipment-revenue-probe.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: Workers shouldn’t have to figure out AI on their own</span></td>
+  <td class="col-summary">The Economic Strategy Review can set the national direction for Singapore’s AI transition but turning that into real change for employees means redesigning work, job by job, says NTU’s Trevor Yu.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/singapore-ai-jobs-improve-redesign-work-6330546" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba Q2 revenue rises 9% as AI cloud demand grows</span></td>
+  <td class="col-summary">The Chinese tech company said revenue from AI cloud and compute services rose 45% to 48.4 billion yuan (US$7.2 billion).</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-cloud-launches-ai-supernode-enterprises" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">From Manual Checks to Predictive Control: The Rise of In-Situ Sensing in Semiconductor Fabs</span></td>
+  <td class="col-summary">Here is how intelligent in-situ sensing is helping semiconductor manufacturers improve tool performance, reduce downtime, and enable more predictive manufacturing. The post From Manual Checks to Predictive Control: The Rise of In-Situ Sensing in Semiconductor Fabs appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/from-manual-checks-to-predictive-control-the-rise-of-in-situ-sensing-in-semiconductor-fabs/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Foreign ownership of Japan stocks hits new record on AI boom</span></td>
+  <td class="col-summary">Foreign ownership of Japan stocks hits new record on AI boom</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/equities/foreign-ownership-of-japan-stocks-hits-new-record-on-ai-boom" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan left behind by US and China in AI era patent race</span></td>
+  <td class="col-summary">Japan left behind by US and China in AI era patent race</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/japan-left-behind-by-us-and-china-in-ai-era-patent-race" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba AI outlays dent profit despite best revenue growth in years</span></td>
+  <td class="col-summary">Alibaba AI outlays dent profit despite best revenue growth in years</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/alibaba-ai-outlays-dent-profit-despite-best-revenue-growth-in-years" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Meta becomes one of Microsoft’s biggest AI customers: source Microsoft said in July that Azure AI Foundry, its marketplace for AI models, had 100,000 customers. AISemiconductor Read 2 TechAsia GitLab adds in-region AI for regulated enterprises GitLab also moved Bulk static application security testing (SAST) False Positive Detection and Agentic SAST Vulnerability Resolution to beta. AI Read 3 DigiTimes Charts: TSMC's share of Taiwan chip manufacturing revenue falls to 81.8% as memory makers scale up Foundry leader Taiwan Semiconductor Manufacturing Company (TSMC) grew 37% year to date — and still lost four percentage points of the sub-sector's revenue share, because the other 26 manufacturers grew more than twice as fast. Semiconductor Read 4 DigiTimes US ban on robot dogs clears the way for Taiwan's Swancor To safeguard national security and the development of the AI supply chain, the US has banned imports of advanced humanoid robots. Against that backdrop, Taiwan-based Swancor unveiled its first "Taiwan AI robot ecosystem" at Automation Taipei 2026, joining with more than 10 Taiwanese industry, technology, and academic p AIAutomationLogistics Read 5 DigiTimes Charts: AI test demand drives broadest growth among Taiwan's chip equipment suppliers Thirty-eight of 43 companies grew year to date at a median rate of 28.7% — the highest of any semiconductor sub-sector — with test handlers, sockets and probe cards recurring across company filings. SemiconductorAI Read 6 CNA Commentary: Workers shouldn’t have to figure out AI on their own The Economic Strategy Review can set the national direction for Singapore’s AI transition but turning that into real change for employees means redesigning work, job by job, says NTU’s Trevor Yu. AI Read 7 TechAsia Alibaba Q2 revenue rises 9% as AI cloud demand grows The Chinese tech company said revenue from AI cloud and compute services rose 45% to 48.4 billion yuan (US$7.2 billion). AI Read 8 EETAsia From Manual Checks to Predictive Control: The Rise of In-Situ Sensing in Semiconductor Fabs Here is how intelligent in-situ sensing is helping semiconductor manufacturers improve tool performance, reduce downtime, and enable more predictive manufacturing. The post From Manual Checks to Predictive Control: The Rise of In-Situ Sensing in Semiconductor Fabs appeared first on EE Times Asia . Semiconductor Read 9 NikkeiAsia Foreign ownership of Japan stocks hits new record on AI boom Foreign ownership of Japan stocks hits new record on AI boom AI Read 10 NikkeiAsia Japan left behind by US and China in AI era patent race Japan left behind by US and China in AI era patent race AI Read 11 NikkeiAsia Alibaba AI outlays dent profit despite best revenue growth in years Alibaba AI outlays dent profit despite best revenue growth in years AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 20, 2026</title><link href="https://asiatechfeed.com/2026/08/20/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 20, 2026" /><published>2026-08-20T08:00:48+00:00</published><updated>2026-08-20T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/08/20/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/20/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -739,105 +840,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/compal-boosting-system-production-capacity-with-new-daxi-ai-server-manufacturing-center/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Israeli VC firm Team8 Capital closes $265m fund for AI Team8 said the fund will back seed and series A software startups in cybersecurity, software infrastructure and AI, fintech, and digital health. AI Read 2 EETAsia AMD Launches Helios™: The Highest Performing Rackscale AI Infrastructure Solution AMD Helios is a co-designed rack-scale AI factory platform with 5th Gen AMD Instinct MI455X GPUs and 6th Gen EPYC 9006 CPUs, delivering up to 34x token throughput, 18x lower token cost, and 15% more AI compute than NVIDIA Vera Rubin NVL72—purpose-built for frontier inference, training, and open AI infrastructure. The p AI Read 3 TechAsia US chipmaker Lam Research expands AI jobs in Singapore Nearly 90% of the jobs in specialized engineering and technical areas tied to AI-driven chip demand. AISemiconductor Read 4 DigiTimes Sercomm expands beyond broadband into 5G, edge AI and IoT as 2Q26 revenue hits record high Taiwan's Sercomm Corporation is repositioning itself for the next phase of network infrastructure demand by expanding beyond traditional broadband equipment into 5G, fixed wireless access (FWA), enterprise networking and IoT connectivity, areas expected to benefit from rising data traffic and AI-driven digitalization. AI Read 5 DigiTimes Nvidia reportedly planning trillion-parameter Nemotron 4 in open-source push Nvidia is intensifying its open-source strategy through its upcoming trillion-parameter model in the Nemotron 4 family, which is meant to compete with the world's leading open-source models, according to The Information . While this may put it in the awkward position of vying against its customers, the chipmaker's advo AISemiconductor Read 6 DigiTimes CXMT DDR5 yield tops 90%, narrowing gap with Samsung China's leading DRAM maker CXMT has reportedly raised its DDR5 production yield above 90%, narrowing the gap with Samsung Electronics and strengthening its position in the global PC memory supply chain. ElectronicsLogistics Read 7 TechAsia Alibaba Cloud launches AI supernode for enterprises The first batch of instances is available in Alibaba Cloud’s Ulanqab region. AI Read 8 EETAsia Agentic AI: AMD EPYC™ 9005 Leads Today, EPYC 9006 “Venice” Sets a New Standard 6th Gen AMD EPYC 9006 Series (“Venice”) server CPUs deliver up to 256 Zen 6 cores, DDR5/MRDIMM, and PCIe Gen6 for agentic AI infrastructure, accelerating CPU-centric orchestration, retrieval, tool execution, and verification across cloud, HPC, and enterprise AI pipelines—building on EPYC 9005 leadership. The post Agent AI Read 9 EETAsia Compal Boosting System Production Capacity with New Daxi AI Server Manufacturing Center Compal is expanding AI server and rack manufacturing in Taiwan as demand for high-density computing infrastructure accelerates. The post Compal Boosting System Production Capacity with New Daxi AI Server Manufacturing Center appeared first on EE Times Asia . AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 11, 2026</title><link href="https://asiatechfeed.com/2026/08/11/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 11, 2026" /><published>2026-08-11T08:00:48+00:00</published><updated>2026-08-11T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/08/11/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/11/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Inflexor Ventures leads $1.6m round for Indian medtech firm</span></td>
-  <td class="col-summary">Ayati said its broader portfolio covers sensation, circulation, and perfusion assessment in diabetic foot care.</td>
-  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TSMC nears AI packaging demand after years of doubling capacity:'CoWoS guy' Jun He</span></td>
-  <td class="col-summary">TSMC has been roughly doubling its CoWoS and SoIC capacity annually for the past several years, and is running CoWoS at better than 98% yield — sometimes 99% — on multiple AI customer products already in high-volume manufacturing. By Jun He's account, that is finally almost enough.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260811VL213/tsmc-cowos-capacity-packaging-demand.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Microsoft seeks expanded Maia 300 production to tap into demand for cheaper compute</span></td>
-  <td class="col-summary">Microsoft plans to unveil its new Maia 300 accelerator chip this fall, with a public announcement possible as early as next month, according to The Information . Although Microsoft has lagged Google and Amazon in scaling its in-house AI chips, it is targeting far higher production volumes for Maia 300 than for Maia 200</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260811VL211/microsoft-chips-production-demand-nvidia.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan's AI server supply chain posts record July as growth spreads down the component tier</span></td>
-  <td class="col-summary">The latest indication of global demand for AI hardware comes not from a hyperscaler capex presentation, but from unaudited monthly filings in Taipei. Major Taiwanese companies across the AI server supply chain, including server assembly, cooling, power, networking, and testing, reported combined July revenue of NT$2.59</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260811VL212/demand-ai-server-growth-component-supply-chain.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Australia and Vietnam deepen strategic partnership</span></td>
-  <td class="col-summary">The two countries are concerned about restrictive trade practices that disrupt global supply chains, Australian Prime Minister Anthony Albanese and Vietnamese President To Lam said in a joint statement.</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/australia-vietnam-strategic-partnership-lam-anthony-albanese-6310891" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Nvidia works with Apollo, Blackstone on $500b AI effort</span></td>
-  <td class="col-summary">Goldman Sachs expects private funding to play a bigger role in data center financing.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-invest-1b-naver-ai-data-center" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">OpenRouter CEO: Dynamic AI spending replaces fixed budgets</span></td>
-  <td class="col-summary">OpenRouter's Alex Atallah explains why AI costs now shift task by task, and why automated routing, not fixed budgets, is becoming the new normal.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-routing-is-rewriting-enterprise-budgets" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">VCSEL Market Forecast to Reach $2B by 2032</span></td>
-  <td class="col-summary">VCSEL demand is rising across sensing, automotive, consumer electronics, and data centers as optical systems become faster and more efficient. The post VCSEL Market Forecast to Reach $2B by 2032 appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/vcsel-market-forecast-to-reach-2b-by-2032/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">SK hynix Commits $37B to New Yongin, Cheongju Fabs for AI Memory Growth</span></td>
-  <td class="col-summary">SK hynix is expanding DRAM and NAND production in South Korea to meet sustained AI-driven memory demand through 2030. The post SK hynix Commits $37B to New Yongin, Cheongju Fabs for AI Memory Growth appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/sk-hynix-commits-37b-to-new-yongin-cheongju-fabs-for-ai-memory-growth/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Longsys Chief Scientist Jian Chen Highlights Storage Foundry Model for Edge AI at FMS 2026</span></td>
-  <td class="col-summary">Longsys Chief Scientist Dr. Jian Chen talks about new storage demands created as AI shifts from the cloud to the edge. The post Longsys Chief Scientist Jian Chen Highlights Storage Foundry Model for Edge AI at FMS 2026 appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/longsys-chief-scientist-jian-chen-highlights-storage-foundry-model-for-edge-ai-at-fms-2026/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Compal bets on expansion in Taiwan, Vietnam and US for AI servers</span></td>
-  <td class="col-summary">Compal bets on expansion in Taiwan, Vietnam and US for AI servers</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/compal-bets-on-expansion-in-taiwan-vietnam-and-us-for-ai-servers" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Inflexor Ventures leads $1.6m round for Indian medtech firm Ayati said its broader portfolio covers sensation, circulation, and perfusion assessment in diabetic foot care. Pharmaceutical Read 2 DigiTimes TSMC nears AI packaging demand after years of doubling capacity:'CoWoS guy' Jun He TSMC has been roughly doubling its CoWoS and SoIC capacity annually for the past several years, and is running CoWoS at better than 98% yield — sometimes 99% — on multiple AI customer products already in high-volume manufacturing. By Jun He's account, that is finally almost enough. AI Read 3 DigiTimes Microsoft seeks expanded Maia 300 production to tap into demand for cheaper compute Microsoft plans to unveil its new Maia 300 accelerator chip this fall, with a public announcement possible as early as next month, according to The Information . Although Microsoft has lagged Google and Amazon in scaling its in-house AI chips, it is targeting far higher production volumes for Maia 300 than for Maia 200 AISemiconductor Read 4 DigiTimes Taiwan's AI server supply chain posts record July as growth spreads down the component tier The latest indication of global demand for AI hardware comes not from a hyperscaler capex presentation, but from unaudited monthly filings in Taipei. Major Taiwanese companies across the AI server supply chain, including server assembly, cooling, power, networking, and testing, reported combined July revenue of NT$2.59 AILogistics Read 5 CNA Australia and Vietnam deepen strategic partnership The two countries are concerned about restrictive trade practices that disrupt global supply chains, Australian Prime Minister Anthony Albanese and Vietnamese President To Lam said in a joint statement. Logistics Read 6 TechAsia Nvidia works with Apollo, Blackstone on $500b AI effort Goldman Sachs expects private funding to play a bigger role in data center financing. AI Read 7 TechAsia OpenRouter CEO: Dynamic AI spending replaces fixed budgets OpenRouter's Alex Atallah explains why AI costs now shift task by task, and why automated routing, not fixed budgets, is becoming the new normal. AI Read 8 EETAsia VCSEL Market Forecast to Reach $2B by 2032 VCSEL demand is rising across sensing, automotive, consumer electronics, and data centers as optical systems become faster and more efficient. The post VCSEL Market Forecast to Reach $2B by 2032 appeared first on EE Times Asia . Electronics Read 9 EETAsia SK hynix Commits $37B to New Yongin, Cheongju Fabs for AI Memory Growth SK hynix is expanding DRAM and NAND production in South Korea to meet sustained AI-driven memory demand through 2030. The post SK hynix Commits $37B to New Yongin, Cheongju Fabs for AI Memory Growth appeared first on EE Times Asia . AISemiconductor Read 10 EETAsia Longsys Chief Scientist Jian Chen Highlights Storage Foundry Model for Edge AI at FMS 2026 Longsys Chief Scientist Dr. Jian Chen talks about new storage demands created as AI shifts from the cloud to the edge. The post Longsys Chief Scientist Jian Chen Highlights Storage Foundry Model for Edge AI at FMS 2026 appeared first on EE Times Asia . AISemiconductor Read 11 NikkeiAsia Compal bets on expansion in Taiwan, Vietnam and US for AI servers Compal bets on expansion in Taiwan, Vietnam and US for AI servers AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Israeli VC firm Team8 Capital closes $265m fund for AI Team8 said the fund will back seed and series A software startups in cybersecurity, software infrastructure and AI, fintech, and digital health. AI Read 2 EETAsia AMD Launches Helios™: The Highest Performing Rackscale AI Infrastructure Solution AMD Helios is a co-designed rack-scale AI factory platform with 5th Gen AMD Instinct MI455X GPUs and 6th Gen EPYC 9006 CPUs, delivering up to 34x token throughput, 18x lower token cost, and 15% more AI compute than NVIDIA Vera Rubin NVL72—purpose-built for frontier inference, training, and open AI infrastructure. The p AI Read 3 TechAsia US chipmaker Lam Research expands AI jobs in Singapore Nearly 90% of the jobs in specialized engineering and technical areas tied to AI-driven chip demand. AISemiconductor Read 4 DigiTimes Sercomm expands beyond broadband into 5G, edge AI and IoT as 2Q26 revenue hits record high Taiwan's Sercomm Corporation is repositioning itself for the next phase of network infrastructure demand by expanding beyond traditional broadband equipment into 5G, fixed wireless access (FWA), enterprise networking and IoT connectivity, areas expected to benefit from rising data traffic and AI-driven digitalization. AI Read 5 DigiTimes Nvidia reportedly planning trillion-parameter Nemotron 4 in open-source push Nvidia is intensifying its open-source strategy through its upcoming trillion-parameter model in the Nemotron 4 family, which is meant to compete with the world's leading open-source models, according to The Information . While this may put it in the awkward position of vying against its customers, the chipmaker's advo AISemiconductor Read 6 DigiTimes CXMT DDR5 yield tops 90%, narrowing gap with Samsung China's leading DRAM maker CXMT has reportedly raised its DDR5 production yield above 90%, narrowing the gap with Samsung Electronics and strengthening its position in the global PC memory supply chain. ElectronicsLogistics Read 7 TechAsia Alibaba Cloud launches AI supernode for enterprises The first batch of instances is available in Alibaba Cloud’s Ulanqab region. AI Read 8 EETAsia Agentic AI: AMD EPYC™ 9005 Leads Today, EPYC 9006 “Venice” Sets a New Standard 6th Gen AMD EPYC 9006 Series (“Venice”) server CPUs deliver up to 256 Zen 6 cores, DDR5/MRDIMM, and PCIe Gen6 for agentic AI infrastructure, accelerating CPU-centric orchestration, retrieval, tool execution, and verification across cloud, HPC, and enterprise AI pipelines—building on EPYC 9005 leadership. The post Agent AI Read 9 EETAsia Compal Boosting System Production Capacity with New Daxi AI Server Manufacturing Center Compal is expanding AI server and rack manufacturing in Taiwan as demand for high-density computing infrastructure accelerates. The post Compal Boosting System Production Capacity with New Daxi AI Server Manufacturing Center appeared first on EE Times Asia . AI Read]]></summary></entry></feed>

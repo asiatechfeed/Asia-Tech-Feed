@@ -1,5 +1,130 @@
 [
   {
+    "date": "2026-08-21",
+    "title": "Meta becomes one of Microsoft’s biggest AI customers: source",
+    "summary": "Microsoft said in July that Azure AI Foundry, its marketplace for AI models, had 100,000 customers.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/meta-blackrock-plan-14b-texas-ai-data-center"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "GitLab adds in-region AI for regulated enterprises",
+    "summary": "GitLab also moved Bulk static application security testing (SAST) False Positive Detection and Agentic SAST Vulnerability Resolution to beta.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/anthropic-launches-claude-code-for-developers-in-slack"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "Charts: TSMC's share of Taiwan chip manufacturing revenue falls to 81.8% as memory makers scale up",
+    "summary": "Foundry leader Taiwan Semiconductor Manufacturing Company (TSMC) grew 37% year to date — and still lost four percentage points of the sub-sector's revenue share, because the other 26 manufacturers grew more than twice as fast.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260820VL216/revenue-tsmc-taiwan-growth-demand.html"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "US ban on robot dogs clears the way for Taiwan's Swancor",
+    "summary": "To safeguard national security and the development of the AI supply chain, the US has banned imports of advanced humanoid robots. Against that backdrop, Taiwan-based Swancor unveiled its first \"Taiwan AI robot ecosystem\" at Automation Taipei 2026, joining with more than 10 Taiwanese industry, technology, and academic p",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Automation",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260820PD231/robot-swancor-taiwan-ban-supply-chain.html"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "Charts: AI test demand drives broadest growth among Taiwan's chip equipment suppliers",
+    "summary": "Thirty-eight of 43 companies grew year to date at a median rate of 28.7% — the highest of any semiconductor sub-sector — with test handlers, sockets and probe cards recurring across company filings.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260820VL215/demand-growth-equipment-revenue-probe.html"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "Commentary: Workers shouldn’t have to figure out AI on their own",
+    "summary": "The Economic Strategy Review can set the national direction for Singapore’s AI transition but turning that into real change for employees means redesigning work, job by job, says NTU’s Trevor Yu.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/singapore-ai-jobs-improve-redesign-work-6330546"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "Alibaba Q2 revenue rises 9% as AI cloud demand grows",
+    "summary": "The Chinese tech company said revenue from AI cloud and compute services rose 45% to 48.4 billion yuan (US$7.2 billion).",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/alibaba-cloud-launches-ai-supernode-enterprises"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "From Manual Checks to Predictive Control: The Rise of In-Situ Sensing in Semiconductor Fabs",
+    "summary": "Here is how intelligent in-situ sensing is helping semiconductor manufacturers improve tool performance, reduce downtime, and enable more predictive manufacturing. The post From Manual Checks to Predictive Control: The Rise of In-Situ Sensing in Semiconductor Fabs appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/from-manual-checks-to-predictive-control-the-rise-of-in-situ-sensing-in-semiconductor-fabs/"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "Foreign ownership of Japan stocks hits new record on AI boom",
+    "summary": "Foreign ownership of Japan stocks hits new record on AI boom",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/markets/equities/foreign-ownership-of-japan-stocks-hits-new-record-on-ai-boom"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "Japan left behind by US and China in AI era patent race",
+    "summary": "Japan left behind by US and China in AI era patent race",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/japan-left-behind-by-us-and-china-in-ai-era-patent-race"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "Alibaba AI outlays dent profit despite best revenue growth in years",
+    "summary": "Alibaba AI outlays dent profit despite best revenue growth in years",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/alibaba-ai-outlays-dent-profit-despite-best-revenue-growth-in-years"
+  },
+  {
     "date": "2026-08-20",
     "title": "Singapore and India discuss bilateral cooperation on semiconductors, food security at ministerial meeting",
     "summary": "The two countries signed Memorandums of Understanding on food safety and maritime heritage at the fourth India-Singapore Ministerial Roundtable held in Singapore.",
