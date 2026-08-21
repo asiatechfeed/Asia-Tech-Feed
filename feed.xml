@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-21T00:02:28+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 21, 2026</title><link href="https://asiatechfeed.com/2026/08/21/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 21, 2026" /><published>2026-08-21T00:01:35+00:00</published><updated>2026-08-21T00:01:35+00:00</updated><id>https://asiatechfeed.com/2026/08/21/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/21/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-21T01:47:00+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 21, 2026</title><link href="https://asiatechfeed.com/2026/08/21/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 21, 2026" /><published>2026-08-21T01:46:21+00:00</published><updated>2026-08-21T01:46:21+00:00</updated><id>https://asiatechfeed.com/2026/08/21/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/21/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -13,93 +13,69 @@
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Meta becomes one of Microsoft’s biggest AI customers: source</span></td>
-  <td class="col-summary">Microsoft said in July that Azure AI Foundry, its marketplace for AI models, had 100,000 customers.</td>
+  <td class="col-title"><span class="article-title">Nvidia denies China-specific AI chip on roadmap</span></td>
+  <td class="col-summary">Chief executive Jensen Huang said in May that Nvidia had “largely conceded” China’s AI chip market to Huawei Technologies.</td>
   <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-blackrock-plan-14b-texas-ai-data-center" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-releases-free-ai-model-singlegpu-computers" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">GitLab adds in-region AI for regulated enterprises</span></td>
-  <td class="col-summary">GitLab also moved Bulk static application security testing (SAST) False Positive Detection and Agentic SAST Vulnerability Resolution to beta.</td>
+  <td class="col-title"><span class="article-title">Anthropic plans more enterprise control over AI data</span></td>
+  <td class="col-summary">The change would shift the Claude chatbot maker’s data retention policy.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropic-launches-claude-code-for-developers-in-slack" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropic-launches-claude-opus-5-ai-model" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Charts: TSMC's share of Taiwan chip manufacturing revenue falls to 81.8% as memory makers scale up</span></td>
-  <td class="col-summary">Foundry leader Taiwan Semiconductor Manufacturing Company (TSMC) grew 37% year to date — and still lost four percentage points of the sub-sector's revenue share, because the other 26 manufacturers grew more than twice as fast.</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Waymo unveils custom chip for self-driving system</span></td>
+  <td class="col-summary">Waymo had surpassed 450,000 weekly paid rides by Dec. 8, 2025.</td>
   <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260820VL216/revenue-tsmc-taiwan-growth-demand.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/waymo-rebrands-zeekr-rt-robotaxi-over-low-us-name-recognition" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">US ban on robot dogs clears the way for Taiwan's Swancor</span></td>
-  <td class="col-summary">To safeguard national security and the development of the AI supply chain, the US has banned imports of advanced humanoid robots. Against that backdrop, Taiwan-based Swancor unveiled its first "Taiwan AI robot ecosystem" at Automation Taipei 2026, joining with more than 10 Taiwanese industry, technology, and academic p</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260820PD231/robot-swancor-taiwan-ban-supply-chain.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Elice to build South Korea's first warm-water-cooled AI data center, unveils coding agent</span></td>
+  <td class="col-summary">South Korean AI infrastructure provider Elice Group is expanding on two fronts, adding enterprise AI transformation (AX) solutions while building what it says will be the country's first AI data center to use warm-water cooling above 40°C.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260820PD227/ai-data-center-cooling-gpu-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Charts: AI test demand drives broadest growth among Taiwan's chip equipment suppliers</span></td>
-  <td class="col-summary">Thirty-eight of 43 companies grew year to date at a median rate of 28.7% — the highest of any semiconductor sub-sector — with test handlers, sockets and probe cards recurring across company filings.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260820VL215/demand-growth-equipment-revenue-probe.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Nitto Denko to expand HDD baseboard capacity for AI data center demand</span></td>
+  <td class="col-summary">Nitto Denko said it will invest JPY28 billion (US$176.68 million) through fiscal 2028 to expand production of thin-film metal base boards for hard disk drives, raising capacity by 40% from fiscal 2025 levels. The move is aimed at meeting demand driven by AI-related data center growth.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260820PD226/nitto-denko-hdd-demand-capacity-data-center.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: Workers shouldn’t have to figure out AI on their own</span></td>
-  <td class="col-summary">The Economic Strategy Review can set the national direction for Singapore’s AI transition but turning that into real change for employees means redesigning work, job by job, says NTU’s Trevor Yu.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/singapore-ai-jobs-improve-redesign-work-6330546" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">China silicon wafer maker NSIG nears 1.2 million monthly 300mm capacity after 90% shipment jump</span></td>
+  <td class="col-summary">National Silicon Industry Group (NSIG) reported a 36.51% rise in first-half 2026 revenue as shipments of 300mm semiconductor silicon wafers increased more than 90%, though continued R&amp;D spending, currency movements and inventory impairments widened its net loss.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260820VL212/nsig-300mm-capacity-silicon-wafer-silicon.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Alibaba Q2 revenue rises 9% as AI cloud demand grows</span></td>
-  <td class="col-summary">The Chinese tech company said revenue from AI cloud and compute services rose 45% to 48.4 billion yuan (US$7.2 billion).</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-cloud-launches-ai-supernode-enterprises" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Samsung Electronics poised for $72bn shareholder return program</span></td>
+  <td class="col-summary">Samsung Electronics poised for $72bn shareholder return program</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/samsung-electronics-poised-for-72bn-shareholder-return-program" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">From Manual Checks to Predictive Control: The Rise of In-Situ Sensing in Semiconductor Fabs</span></td>
-  <td class="col-summary">Here is how intelligent in-situ sensing is helping semiconductor manufacturers improve tool performance, reduce downtime, and enable more predictive manufacturing. The post From Manual Checks to Predictive Control: The Rise of In-Situ Sensing in Semiconductor Fabs appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/from-manual-checks-to-predictive-control-the-rise-of-in-situ-sensing-in-semiconductor-fabs/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Foreign ownership of Japan stocks hits new record on AI boom</span></td>
-  <td class="col-summary">Foreign ownership of Japan stocks hits new record on AI boom</td>
+  <td class="col-title"><span class="article-title">Google's China shift and the battle over AI models</span></td>
+  <td class="col-summary">Google's China shift and the battle over AI models</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/equities/foreign-ownership-of-japan-stocks-hits-new-record-on-ai-boom" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan left behind by US and China in AI era patent race</span></td>
-  <td class="col-summary">Japan left behind by US and China in AI era patent race</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/japan-left-behind-by-us-and-china-in-ai-era-patent-race" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Alibaba AI outlays dent profit despite best revenue growth in years</span></td>
-  <td class="col-summary">Alibaba AI outlays dent profit despite best revenue growth in years</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/alibaba-ai-outlays-dent-profit-despite-best-revenue-growth-in-years" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/techasia/google-s-china-shift-and-the-battle-over-ai-models" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Meta becomes one of Microsoft’s biggest AI customers: source Microsoft said in July that Azure AI Foundry, its marketplace for AI models, had 100,000 customers. AISemiconductor Read 2 TechAsia GitLab adds in-region AI for regulated enterprises GitLab also moved Bulk static application security testing (SAST) False Positive Detection and Agentic SAST Vulnerability Resolution to beta. AI Read 3 DigiTimes Charts: TSMC's share of Taiwan chip manufacturing revenue falls to 81.8% as memory makers scale up Foundry leader Taiwan Semiconductor Manufacturing Company (TSMC) grew 37% year to date — and still lost four percentage points of the sub-sector's revenue share, because the other 26 manufacturers grew more than twice as fast. Semiconductor Read 4 DigiTimes US ban on robot dogs clears the way for Taiwan's Swancor To safeguard national security and the development of the AI supply chain, the US has banned imports of advanced humanoid robots. Against that backdrop, Taiwan-based Swancor unveiled its first "Taiwan AI robot ecosystem" at Automation Taipei 2026, joining with more than 10 Taiwanese industry, technology, and academic p AIAutomationLogistics Read 5 DigiTimes Charts: AI test demand drives broadest growth among Taiwan's chip equipment suppliers Thirty-eight of 43 companies grew year to date at a median rate of 28.7% — the highest of any semiconductor sub-sector — with test handlers, sockets and probe cards recurring across company filings. SemiconductorAI Read 6 CNA Commentary: Workers shouldn’t have to figure out AI on their own The Economic Strategy Review can set the national direction for Singapore’s AI transition but turning that into real change for employees means redesigning work, job by job, says NTU’s Trevor Yu. AI Read 7 TechAsia Alibaba Q2 revenue rises 9% as AI cloud demand grows The Chinese tech company said revenue from AI cloud and compute services rose 45% to 48.4 billion yuan (US$7.2 billion). AI Read 8 EETAsia From Manual Checks to Predictive Control: The Rise of In-Situ Sensing in Semiconductor Fabs Here is how intelligent in-situ sensing is helping semiconductor manufacturers improve tool performance, reduce downtime, and enable more predictive manufacturing. The post From Manual Checks to Predictive Control: The Rise of In-Situ Sensing in Semiconductor Fabs appeared first on EE Times Asia . Semiconductor Read 9 NikkeiAsia Foreign ownership of Japan stocks hits new record on AI boom Foreign ownership of Japan stocks hits new record on AI boom AI Read 10 NikkeiAsia Japan left behind by US and China in AI era patent race Japan left behind by US and China in AI era patent race AI Read 11 NikkeiAsia Alibaba AI outlays dent profit despite best revenue growth in years Alibaba AI outlays dent profit despite best revenue growth in years AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 20, 2026</title><link href="https://asiatechfeed.com/2026/08/20/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 20, 2026" /><published>2026-08-20T08:00:48+00:00</published><updated>2026-08-20T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/08/20/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/20/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Nvidia denies China-specific AI chip on roadmap Chief executive Jensen Huang said in May that Nvidia had “largely conceded” China’s AI chip market to Huawei Technologies. AISemiconductor Read 2 TechAsia Anthropic plans more enterprise control over AI data The change would shift the Claude chatbot maker’s data retention policy. AI Read 3 TechAsia Waymo unveils custom chip for self-driving system Waymo had surpassed 450,000 weekly paid rides by Dec. 8, 2025. Semiconductor Read 4 DigiTimes Elice to build South Korea's first warm-water-cooled AI data center, unveils coding agent South Korean AI infrastructure provider Elice Group is expanding on two fronts, adding enterprise AI transformation (AX) solutions while building what it says will be the country's first AI data center to use warm-water cooling above 40°C. AI Read 5 DigiTimes Nitto Denko to expand HDD baseboard capacity for AI data center demand Nitto Denko said it will invest JPY28 billion (US$176.68 million) through fiscal 2028 to expand production of thin-film metal base boards for hard disk drives, raising capacity by 40% from fiscal 2025 levels. The move is aimed at meeting demand driven by AI-related data center growth. AI Read 6 DigiTimes China silicon wafer maker NSIG nears 1.2 million monthly 300mm capacity after 90% shipment jump National Silicon Industry Group (NSIG) reported a 36.51% rise in first-half 2026 revenue as shipments of 300mm semiconductor silicon wafers increased more than 90%, though continued R&amp;D spending, currency movements and inventory impairments widened its net loss. Semiconductor Read 7 NikkeiAsia Samsung Electronics poised for $72bn shareholder return program Samsung Electronics poised for $72bn shareholder return program Electronics Read 8 NikkeiAsia Google's China shift and the battle over AI models Google's China shift and the battle over AI models AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 20, 2026</title><link href="https://asiatechfeed.com/2026/08/20/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 20, 2026" /><published>2026-08-20T08:00:48+00:00</published><updated>2026-08-20T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/08/20/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/20/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
