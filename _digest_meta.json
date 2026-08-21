@@ -1,39 +1,37 @@
 {
   "date": "2026-08-21",
-  "count": 11,
+  "count": 8,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-21-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Meta becomes one of Microsoft\u2019s biggest AI customers: source",
+      "title": "Nvidia denies China-specific AI chip on roadmap",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/meta-blackrock-plan-14b-texas-ai-data-center"
+      "url": "https://www.techinasia.com/nvidia-releases-free-ai-model-singlegpu-computers"
     },
     {
-      "title": "GitLab adds in-region AI for regulated enterprises",
+      "title": "Anthropic plans more enterprise control over AI data",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-launches-claude-code-for-developers-in-slack"
+      "url": "https://www.techinasia.com/anthropic-launches-claude-opus-5-ai-model"
     },
     {
-      "title": "Charts: TSMC's share of Taiwan chip manufacturing revenue falls to 81.8% as memory makers scale up",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260820VL216/revenue-tsmc-taiwan-growth-demand.html"
+      "title": "Waymo unveils custom chip for self-driving system",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/waymo-rebrands-zeekr-rt-robotaxi-over-low-us-name-recognition"
     },
     {
-      "title": "US ban on robot dogs clears the way for Taiwan's Swancor",
+      "title": "Elice to build South Korea's first warm-water-cooled AI data center, unveils coding agent",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260820PD231/robot-swancor-taiwan-ban-supply-chain.html"
+      "url": "https://www.digitimes.com/news/a20260820PD227/ai-data-center-cooling-gpu-infrastructure.html"
     },
     {
-      "title": "Charts: AI test demand drives broadest growth among Taiwan's chip equipment suppliers",
+      "title": "Nitto Denko to expand HDD baseboard capacity for AI data center demand",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260820VL215/demand-growth-equipment-revenue-probe.html"
+      "url": "https://www.digitimes.com/news/a20260820PD226/nitto-denko-hdd-demand-capacity-data-center.html"
     }
   ],
   "source_stats": [
@@ -52,7 +50,7 @@
       "fetched": 20,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -151,7 +149,7 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -169,7 +167,7 @@
       "fetched": 50,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -194,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 16,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
