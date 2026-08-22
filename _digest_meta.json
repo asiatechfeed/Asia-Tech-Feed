@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-21",
-  "count": 10,
+  "date": "2026-08-22",
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -8,32 +8,32 @@
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-08-21-asia-tech-news-digest.md",
+  "post_file": "2026-08-22-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "A16z partner: High ad spend is a warning sign for AI startups",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/high-ad-spend-is-a-warning-sign-for-ai-startups"
-    },
-    {
-      "title": "Lee Jae-myung meets SK chief Chey Tae-won with US chip investment pressure in focus",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260821VL212/investment-chairman-production-samsung-business.html"
-    },
-    {
-      "title": "Analyst: Upstream memory giants eye threefold 2026 revenue as 2027 capacity eases price surge",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260821PD206/2026-2027-revenue-capacity-price.html"
-    },
-    {
-      "title": "CoWoS boom lifts Taiwan semiconductor equipment makers, Bosch Rexroth targets 2027 volume growth",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260821PD214/bosch-equipment-taiwan-growth-cowos.html"
-    },
-    {
-      "title": "LTA to roll out AI system using bus cameras to detect bus lane encroachments, road defects",
+      "title": "Dissected: How scammers built a fake Zoom call from real videos of PM Wong and other Singapore leaders",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/lta-ai-bus-camera-traffic-violations-road-defects-6332771"
+      "url": "https://www.channelnewsasia.com/singapore/zoom-scam-5-million-analysis-full-video-6332621"
+    },
+    {
+      "title": "US health department seeks public feedback on vaccine guidelines after Trump order",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/us-health-department-feedback-vaccines-6333796"
+    },
+    {
+      "title": "Mapping the dominant players in Israel\u2019s AI field",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/visual-story/mapping-dominant-players-israels-ai-field"
+    },
+    {
+      "title": "DS Technology shifts from custom automation to modular systems, eyes Brazil and Mexico",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260821VL215/automation-taiwan-mexico-brazil-technology.html"
+    },
+    {
+      "title": "China chip equipment maker Piotech posts 1,324% profit surge, advanced deposition scales up",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260821VL214/equipment-profit-revenue-production-2026.html"
     }
   ],
   "source_stats": [
@@ -50,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -151,14 +151,14 @@
       "fetched": 10,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 49,
-      "relevant": 41,
+      "fetched": 61,
+      "relevant": 53,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -194,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
