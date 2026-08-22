@@ -1,39 +1,38 @@
 {
   "date": "2026-08-22",
-  "count": 12,
+  "count": 7,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
+    "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-22-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Dissected: How scammers built a fake Zoom call from real videos of PM Wong and other Singapore leaders",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/zoom-scam-5-million-analysis-full-video-6332621"
-    },
-    {
-      "title": "US health department seeks public feedback on vaccine guidelines after Trump order",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/us-health-department-feedback-vaccines-6333796"
-    },
-    {
-      "title": "Mapping the dominant players in Israel\u2019s AI field",
+      "title": "Mapping China\u2019s biotech titans",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/visual-story/mapping-dominant-players-israels-ai-field"
+      "url": "https://www.techinasia.com/visual-story/mapping-chinas-biotech-titans"
     },
     {
-      "title": "DS Technology shifts from custom automation to modular systems, eyes Brazil and Mexico",
+      "title": "Vecow eyes robotics growth as North America, EMEA account for 65% of business",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260821VL215/automation-taiwan-mexico-brazil-technology.html"
+      "url": "https://www.digitimes.com/news/a20260821VL216/robotics-industrial-business-taiwan-north-america.html"
     },
     {
-      "title": "China chip equipment maker Piotech posts 1,324% profit surge, advanced deposition scales up",
+      "title": "Ubtech expands humanoid push as Nvidia executives quietly visit WRC booth",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260821VL214/equipment-profit-revenue-production-2026.html"
+      "url": "https://www.digitimes.com/news/a20260821PD224/robot-commercial-industrial-2026.html"
+    },
+    {
+      "title": "Top 4 CSPs boost AI infrastructure; volume ramping of 800G switches fuels Accton's growth",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260821PD223/accton-switch-ai-infrastructure-capex-demand.html"
+    },
+    {
+      "title": "Why AI marketing fails without a brand playbook",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/why-ai-marketing-fails-without-a-brand-playbook"
     }
   ],
   "source_stats": [
@@ -52,7 +51,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -151,7 +150,7 @@
       "fetched": 10,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -169,7 +168,7 @@
       "fetched": 50,
       "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -178,7 +177,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -194,9 +193,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 16,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
