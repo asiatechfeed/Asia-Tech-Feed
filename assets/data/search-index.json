@@ -1,50 +1,60 @@
 [
   {
     "date": "2026-08-23",
-    "title": "Column: Lessons in supply chain resilience from China Huadian's power-compute coordination model",
-    "summary": "As AI develops rapidly, data centers are driving equally rapid growth in electricity demand. The stability of future energy supplies will directly determine whether AI computing capacity can continue to expand.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "We love AI. We hate AI. What now?",
+    "summary": "AI is a lightning rod for opinions these days, so here are two stories that highlight both the rush to invest and the need for cautious adoption.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "AI",
-      "Logistics"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260819PD223/china-green-energy-electricity-equipment-supply-chain-taiwan.html"
+    "url": "https://www.techinasia.com/love-ai-hate-ai"
   },
   {
     "date": "2026-08-23",
-    "title": "Manz Asia says yield is key to glass core mass production",
-    "summary": "As AI chips continue to grow in size, the shift in advanced packaging from 300 mm wafers to square panels is becoming clearer, driving parallel development of new packaging technologies including FOPLP, CoPoS, and Glass Core. Manz Asia general manager Robert Lin said yield will determine whether Glass Core can move int",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260819PD227/manz-asia-advanced-packaging-equipment-production.html"
-  },
-  {
-    "date": "2026-08-23",
-    "title": "Cambricon advances sixth-gen AI silicon, broadens support for DeepSeek, Qwen and GLM",
-    "summary": "Cambricon Technologies chairman and president Chen Tian-shi said the company's sixth-generation AI processor and instruction set remain under development, with the next-generation platform targeting large-model training and inference while improving programmability, ease of use, performance, power efficiency and chip a",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Broadcom in talks for up to $80b AI chip financing",
+    "summary": "The package could include US$45 billion in senior debt and US$35 billion in junior debt.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260821PD227/cambricon-deepseek-qwen-llm.html"
+    "url": "https://www.techinasia.com/broadcom-sees-22b-q2-revenue-ai-chips-drive-growth"
   },
   {
     "date": "2026-08-23",
-    "title": "Japan release of new breast cancer, diabetes drugs delayed over pricing",
-    "summary": "Japan release of new breast cancer, diabetes drugs delayed over pricing",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "Hiwin expands into CPO optical coupling process; 2H26 robotics revenue outlook brightens",
+    "summary": "Hiwin Technologies Chairman Eric Y. T. Chuo stated that the company has supplied samples of miniature ball screws and single-axis robots to co-packaged optics (CPO) vendors across Taiwan and China for validation. Meanwhile, the timeline for its dual-arm logistics robot, originally scheduled for small-batch shipment in ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "Pharmaceutical"
+      "Logistics",
+      "Automation"
     ],
-    "url": "https://asia.nikkei.com/business/pharmaceuticals/japan-release-of-new-breast-cancer-diabetes-drugs-delayed-over-pricing"
+    "url": "https://www.digitimes.com/news/a20260821PD218/hiwin-technologies-cpo-robotics-revenue-equipment.html"
+  },
+  {
+    "date": "2026-08-23",
+    "title": "Huawei, China power giant Huaneng explore AI compute-power coordination",
+    "summary": "China Huaneng Group said on August 20 that chairman Wen Shugang and president Zhong Guodong recently visited Huawei in Shenzhen, where they met Huawei founder Ren Zhengfei to discuss potential cooperation in artificial intelligence, computing power and \"compute-power coordination.\"",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260821PD222/huawei-president-chairman-electricity-infrastructure.html"
+  },
+  {
+    "date": "2026-08-23",
+    "title": "SK Chairman warns of 2027 memory shortage, ties expansion to long-term orders",
+    "summary": "SK Group Chairman Tae-Won Chey said in a recent interview with CNBC that memory demand is surging explosively and that the most severe \"memory shortage\" will hit in 2027. He also apologized to the market for the pace of memory chip price increases, saying the rapid rise is fueling chip inflation across the industry.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260821PD221/sk-group-expansion-2027-demand-sk-hynix.html"
   },
   {
     "date": "2026-08-22",
