@@ -1,31 +1,36 @@
 {
   "date": "2026-08-23",
-  "count": 4,
+  "count": 5,
   "sources": [
     "DigiTimes",
-    "NikkeiAsia"
+    "TechAsia"
   ],
   "post_file": "2026-08-23-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Column: Lessons in supply chain resilience from China Huadian's power-compute coordination model",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260819PD223/china-green-energy-electricity-equipment-supply-chain-taiwan.html"
+      "title": "We love AI. We hate AI. What now?",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/love-ai-hate-ai"
     },
     {
-      "title": "Manz Asia says yield is key to glass core mass production",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260819PD227/manz-asia-advanced-packaging-equipment-production.html"
+      "title": "Broadcom in talks for up to $80b AI chip financing",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/broadcom-sees-22b-q2-revenue-ai-chips-drive-growth"
     },
     {
-      "title": "Cambricon advances sixth-gen AI silicon, broadens support for DeepSeek, Qwen and GLM",
+      "title": "Hiwin expands into CPO optical coupling process; 2H26 robotics revenue outlook brightens",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260821PD227/cambricon-deepseek-qwen-llm.html"
+      "url": "https://www.digitimes.com/news/a20260821PD218/hiwin-technologies-cpo-robotics-revenue-equipment.html"
     },
     {
-      "title": "Japan release of new breast cancer, diabetes drugs delayed over pricing",
-      "source": "NikkeiAsia",
-      "url": "https://asia.nikkei.com/business/pharmaceuticals/japan-release-of-new-breast-cancer-diabetes-drugs-delayed-over-pricing"
+      "title": "Huawei, China power giant Huaneng explore AI compute-power coordination",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260821PD222/huawei-president-chairman-electricity-infrastructure.html"
+    },
+    {
+      "title": "SK Chairman warns of 2027 memory shortage, ties expansion to long-term orders",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260821PD221/sk-group-expansion-2027-demand-sk-hynix.html"
     }
   ],
   "source_stats": [
@@ -122,7 +127,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -141,7 +146,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 7,
+      "relevant": 6,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -161,7 +166,7 @@
       "fetched": 50,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -188,7 +193,7 @@
       "fetched": 36,
       "relevant": 13,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
