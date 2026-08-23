@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-22T08:01:19+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 22, 2026</title><link href="https://asiatechfeed.com/2026/08/22/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 22, 2026" /><published>2026-08-22T08:00:44+00:00</published><updated>2026-08-22T08:00:44+00:00</updated><id>https://asiatechfeed.com/2026/08/22/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/22/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-23T00:13:56+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 23, 2026</title><link href="https://asiatechfeed.com/2026/08/23/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 23, 2026" /><published>2026-08-23T00:13:23+00:00</published><updated>2026-08-23T00:13:23+00:00</updated><id>https://asiatechfeed.com/2026/08/23/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/23/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Column: Lessons in supply chain resilience from China Huadian's power-compute coordination model</span></td>
+  <td class="col-summary">As AI develops rapidly, data centers are driving equally rapid growth in electricity demand. The stability of future energy supplies will directly determine whether AI computing capacity can continue to expand.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260819PD223/china-green-energy-electricity-equipment-supply-chain-taiwan.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Manz Asia says yield is key to glass core mass production</span></td>
+  <td class="col-summary">As AI chips continue to grow in size, the shift in advanced packaging from 300 mm wafers to square panels is becoming clearer, driving parallel development of new packaging technologies including FOPLP, CoPoS, and Glass Core. Manz Asia general manager Robert Lin said yield will determine whether Glass Core can move int</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260819PD227/manz-asia-advanced-packaging-equipment-production.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Cambricon advances sixth-gen AI silicon, broadens support for DeepSeek, Qwen and GLM</span></td>
+  <td class="col-summary">Cambricon Technologies chairman and president Chen Tian-shi said the company's sixth-generation AI processor and instruction set remain under development, with the next-generation platform targeting large-model training and inference while improving programmability, ease of use, performance, power efficiency and chip a</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260821PD227/cambricon-deepseek-qwen-llm.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan release of new breast cancer, diabetes drugs delayed over pricing</span></td>
+  <td class="col-summary">Japan release of new breast cancer, diabetes drugs delayed over pricing</td>
+  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/pharmaceuticals/japan-release-of-new-breast-cancer-diabetes-drugs-delayed-over-pricing" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Column: Lessons in supply chain resilience from China Huadian's power-compute coordination model As AI develops rapidly, data centers are driving equally rapid growth in electricity demand. The stability of future energy supplies will directly determine whether AI computing capacity can continue to expand. AILogistics Read 2 DigiTimes Manz Asia says yield is key to glass core mass production As AI chips continue to grow in size, the shift in advanced packaging from 300 mm wafers to square panels is becoming clearer, driving parallel development of new packaging technologies including FOPLP, CoPoS, and Glass Core. Manz Asia general manager Robert Lin said yield will determine whether Glass Core can move int AISemiconductor Read 3 DigiTimes Cambricon advances sixth-gen AI silicon, broadens support for DeepSeek, Qwen and GLM Cambricon Technologies chairman and president Chen Tian-shi said the company's sixth-generation AI processor and instruction set remain under development, with the next-generation platform targeting large-model training and inference while improving programmability, ease of use, performance, power efficiency and chip a AISemiconductor Read 4 NikkeiAsia Japan release of new breast cancer, diabetes drugs delayed over pricing Japan release of new breast cancer, diabetes drugs delayed over pricing Pharmaceutical Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 22, 2026</title><link href="https://asiatechfeed.com/2026/08/22/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 22, 2026" /><published>2026-08-22T08:00:44+00:00</published><updated>2026-08-22T08:00:44+00:00</updated><id>https://asiatechfeed.com/2026/08/22/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/22/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -699,97 +744,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddednews-lisa-su-puts-rack-scale-ai-at-center-of-amds-next-growth-phase/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Chinese AI startup Zhipu releases GLM-5.3 Zhipu said GLM-5.3 improved programming capabilities by 50% vs. GLM-5.2 in an internally built subjective evaluation. AI Read 2 TechAsia AI slashes material development cycles from years to months Regenesis Materials uses AI to engineer carbon-storing composites from ocean waste, aiming to replace virgin plastics without machinery upgrades. AI Read 3 DigiTimes Global PMX sees semiconductor demand driving growth through 2027 as product mix shifts Global PMX said its semiconductor business is emerging as the main growth driver and is expected to continue expanding through 2027, while automotive sales remain steady and are expected to improve as the global auto market recovers. The company also said its workforce is still rising, reflecting stronger shipments fro Semiconductor Read 4 DigiTimes OCP APAC 2026: What if AI's next efficiency breakthrough is simply moving less? For years, the logic of AI infrastructure has been straightforward: move more data, push more power, transmit more signals, remove more heat. AI Read 5 DigiTimes Alibaba Cloud races ahead with Ulanqab AI infrastructure Since early 2026, AI upstarts such as DeepSeek have increasingly pivoted toward building or co-owning their own data centers. This reflects a broader shift across China's AI sector: moving away from asset-light models reliant on leasing server space to gaining deep control over computing infrastructure. AI firms are no AI Read 6 TechAsia Apple trains China AI model with Alibaba: sources In China, Apple is also expected to use Alibaba’s Qwen model and technology from Baidu. AI Read 7 EETAsia Lisa Su Puts Rack-scale AI at Center of AMD’s Next Growth Phase AMD CEO Lisa Su outlined a full-stack AI strategy spanning GPUs, CPUs, networking, software, and rack-scale systems for agentic workloads. The post Lisa Su Puts Rack-scale AI at Center of AMD’s Next Growth Phase appeared first on EE Times Asia . AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 13, 2026</title><link href="https://asiatechfeed.com/2026/08/13/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 13, 2026" /><published>2026-08-13T08:00:46+00:00</published><updated>2026-08-13T08:00:46+00:00</updated><id>https://asiatechfeed.com/2026/08/13/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/13/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Y Combinator CEO: Corporate friction helps AI startups win</span></td>
-  <td class="col-summary">Y Combinator's Garry Tan explains why founders should skip the trends, automate what they know, and let corporate slowness work in their favor.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/why-slow-companies-are-a-gift-to-startups" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">OpenClaw founder on why going viral can break an AI startup</span></td>
-  <td class="col-summary">OpenClaw's Peter Steinberger explains how sudden popularity strained his AI startup, from security scares to hardware bottlenecks, and what he'd do differently.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/only-0-3-of-his-ai-skills-were-actually-malicious" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Speeding up quantum chip fabrication with new lithography</span></td>
-  <td class="col-summary">With a waitlist of 100 customers, QPICs is targeting the US$10B market for photonic chips used in AI and quantum tech.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/speeding-quantum-chip-fabrication-lithography" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Alphabet's DeepMind shake-up caps months of AI stumbles</span></td>
-  <td class="col-summary">Alphabet's decision to shift day-to-day control of Google DeepMind from Demis Hassabis to his deputy, Koray Kavukcuoglu, was not sudden—it capped a difficult year in which Google lost ground to rivals in the AI race, Reuters reported, citing people familiar with the matter.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260813VL203/alphabet-deepmind-google-gemini-anthropic.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AI inference surge lifts NAND market to record revenue: Counterpoint</span></td>
-  <td class="col-summary">The global NAND market tightened sharply in the second quarter of 2026 as AI workloads shifted from training to inference, driving demand for enterprise SSDs and squeezing consumer supply. The trend matters because it is reshaping storage prices, supplier rankings, and the availability of devices and servers worldwide.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260813PR200/nand-market-revenue-2026-demand.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Seetel tops NT$8.2B in first seven months amid US and Australia expansion</span></td>
-  <td class="col-summary">Seetel reported strong momentum in 2026 as large-scale energy storage projects and battery module shipments lifted revenue, while the Taiwan-based energy systems company moved to broaden its footprint in the US and Australia. The firm said its first seven months of revenue reached nearly NT$8.2 billion (US$254.4 millio</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260811PD230/revenue-2026-australia-north-america-shipments.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Climate change and AI add to pressures on Asia Pacific’s health systems</span></td>
-  <td class="col-summary">Extreme weather is exacerbating disease risks and threatening healthcare infrastructure, warned WHO officials at the Asia-Pacific Parliamentarian Forum on Global Health.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/asia-pacific-parliamentarian-forum-global-health-who-climate-change-ai-6316741" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion</span></td>
-  <td class="col-summary">India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/indias-larsen-and-toubro-secures-ai-data-centre-order-worth-up-157-billion-6316756" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">Ceramic disc safety capacitors with a Y1 rating of 300 VAC and 1500 VDCin</span></td>
-  <td class="col-summary">Vishay Intertechnology is sampling a series of AC line rated ceramic disc safety capacitors with a Y1 rating of 300 VAC and 1500 VDCin a surface-mount casing. Designed for EMI […] The post Ceramic disc safety capacitors with a Y1 rating of 300 VAC and 1500 VDCin appeared first on Electronics Weekly .</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/products/passives-products/ceramic-disc-safety-capacitors-with-a-y1-rating-of-300-vac-and-1500-vdcin-2026-08/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">TSMC and Sony team up, China's AI stocks swing</span></td>
-  <td class="col-summary">TSMC and Sony team up, China's AI stocks swing</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/techasia/tsmc-and-sony-team-up-china-s-ai-stocks-swing" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Y Combinator CEO: Corporate friction helps AI startups win Y Combinator's Garry Tan explains why founders should skip the trends, automate what they know, and let corporate slowness work in their favor. AI Read 2 TechAsia OpenClaw founder on why going viral can break an AI startup OpenClaw's Peter Steinberger explains how sudden popularity strained his AI startup, from security scares to hardware bottlenecks, and what he'd do differently. AI Read 3 TechAsia Speeding up quantum chip fabrication with new lithography With a waitlist of 100 customers, QPICs is targeting the US$10B market for photonic chips used in AI and quantum tech. AISemiconductor Read 4 DigiTimes Alphabet's DeepMind shake-up caps months of AI stumbles Alphabet's decision to shift day-to-day control of Google DeepMind from Demis Hassabis to his deputy, Koray Kavukcuoglu, was not sudden—it capped a difficult year in which Google lost ground to rivals in the AI race, Reuters reported, citing people familiar with the matter. AI Read 5 DigiTimes AI inference surge lifts NAND market to record revenue: Counterpoint The global NAND market tightened sharply in the second quarter of 2026 as AI workloads shifted from training to inference, driving demand for enterprise SSDs and squeezing consumer supply. The trend matters because it is reshaping storage prices, supplier rankings, and the availability of devices and servers worldwide. AI Read 6 DigiTimes Seetel tops NT$8.2B in first seven months amid US and Australia expansion Seetel reported strong momentum in 2026 as large-scale energy storage projects and battery module shipments lifted revenue, while the Taiwan-based energy systems company moved to broaden its footprint in the US and Australia. The firm said its first seven months of revenue reached nearly NT$8.2 billion (US$254.4 millio AI Read 7 CNA Climate change and AI add to pressures on Asia Pacific’s health systems Extreme weather is exacerbating disease risks and threatening healthcare infrastructure, warned WHO officials at the Asia-Pacific Parliamentarian Forum on Global Health. AI Read 8 CNA India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion AI Read 9 EW Ceramic disc safety capacitors with a Y1 rating of 300 VAC and 1500 VDCin Vishay Intertechnology is sampling a series of AC line rated ceramic disc safety capacitors with a Y1 rating of 300 VAC and 1500 VDCin a surface-mount casing. Designed for EMI […] The post Ceramic disc safety capacitors with a Y1 rating of 300 VAC and 1500 VDCin appeared first on Electronics Weekly . Electronics Read 10 NikkeiAsia TSMC and Sony team up, China's AI stocks swing TSMC and Sony team up, China's AI stocks swing AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Chinese AI startup Zhipu releases GLM-5.3 Zhipu said GLM-5.3 improved programming capabilities by 50% vs. GLM-5.2 in an internally built subjective evaluation. AI Read 2 TechAsia AI slashes material development cycles from years to months Regenesis Materials uses AI to engineer carbon-storing composites from ocean waste, aiming to replace virgin plastics without machinery upgrades. AI Read 3 DigiTimes Global PMX sees semiconductor demand driving growth through 2027 as product mix shifts Global PMX said its semiconductor business is emerging as the main growth driver and is expected to continue expanding through 2027, while automotive sales remain steady and are expected to improve as the global auto market recovers. The company also said its workforce is still rising, reflecting stronger shipments fro Semiconductor Read 4 DigiTimes OCP APAC 2026: What if AI's next efficiency breakthrough is simply moving less? For years, the logic of AI infrastructure has been straightforward: move more data, push more power, transmit more signals, remove more heat. AI Read 5 DigiTimes Alibaba Cloud races ahead with Ulanqab AI infrastructure Since early 2026, AI upstarts such as DeepSeek have increasingly pivoted toward building or co-owning their own data centers. This reflects a broader shift across China's AI sector: moving away from asset-light models reliant on leasing server space to gaining deep control over computing infrastructure. AI firms are no AI Read 6 TechAsia Apple trains China AI model with Alibaba: sources In China, Apple is also expected to use Alibaba’s Qwen model and technology from Baidu. AI Read 7 EETAsia Lisa Su Puts Rack-scale AI at Center of AMD’s Next Growth Phase AMD CEO Lisa Su outlined a full-stack AI strategy spanning GPUs, CPUs, networking, software, and rack-scale systems for agentic workloads. The post Lisa Su Puts Rack-scale AI at Center of AMD’s Next Growth Phase appeared first on EE Times Asia . AI Read]]></summary></entry></feed>
