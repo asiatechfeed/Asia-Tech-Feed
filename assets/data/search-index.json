@@ -1,60 +1,49 @@
 [
   {
     "date": "2026-08-23",
-    "title": "We love AI. We hate AI. What now?",
-    "summary": "AI is a lightning rod for opinions these days, so here are two stories that highlight both the rush to invest and the need for cautious adoption.",
+    "title": "Nvidia to raise AI server prices by more than 15%",
+    "summary": "Contract manufacturers have warned Microsoft, Google, and Oracle about the higher costs.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/love-ai-hate-ai"
+    "url": "https://www.techinasia.com/nvidia-scales-data-center-guarantee-plans"
   },
   {
     "date": "2026-08-23",
-    "title": "Broadcom in talks for up to $80b AI chip financing",
-    "summary": "The package could include US$45 billion in senior debt and US$35 billion in junior debt.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Taiwan automation shifts from hardware specs to AI platforms and open robot architectures",
+    "summary": "Taiwan's automation industry is moving beyond the traditional race over robot-arm payload, servo precision, and sensor resolution. At the 2026 Automation Taipei and Taiwan Automation Intelligence and Robot Show, held August 19-22 at the Taipei Nangang Exhibition Center, the industry's major players all put the spotligh",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/broadcom-sees-22b-q2-revenue-ai-chips-drive-growth"
-  },
-  {
-    "date": "2026-08-23",
-    "title": "Hiwin expands into CPO optical coupling process; 2H26 robotics revenue outlook brightens",
-    "summary": "Hiwin Technologies Chairman Eric Y. T. Chuo stated that the company has supplied samples of miniature ball screws and single-axis robots to co-packaged optics (CPO) vendors across Taiwan and China for validation. Meanwhile, the timeline for its dual-arm logistics robot, originally scheduled for small-batch shipment in ",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Logistics",
       "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20260821PD218/hiwin-technologies-cpo-robotics-revenue-equipment.html"
+    "url": "https://www.digitimes.com/news/a20260821PD217/automation-robot-sensor-hardware-taiwan.html"
   },
   {
     "date": "2026-08-23",
-    "title": "Huawei, China power giant Huaneng explore AI compute-power coordination",
-    "summary": "China Huaneng Group said on August 20 that chairman Wen Shugang and president Zhong Guodong recently visited Huawei in Shenzhen, where they met Huawei founder Ren Zhengfei to discuss potential cooperation in artificial intelligence, computing power and \"compute-power coordination.\"",
+    "title": "Google, Marvell long-term deal keeps Broadcom at bay, limits MediaTek impact",
+    "summary": "Marvell filed a Form 8-K with the US Securities and Exchange Commission on August 19, 2026, revealing that it signed a commercial agreement with Google on July 29 to develop custom chips. The move has drawn close attention across Taiwan's chip supply chain, especially to the impact on IC design leader MediaTek and netw",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI"
+      "Semiconductor",
+      "Logistics"
     ],
-    "url": "https://www.digitimes.com/news/a20260821PD222/huawei-president-chairman-electricity-infrastructure.html"
+    "url": "https://www.digitimes.com/news/a20260821PD211/marvell-google-mediatek-broadcom-chips.html"
   },
   {
     "date": "2026-08-23",
-    "title": "SK Chairman warns of 2027 memory shortage, ties expansion to long-term orders",
-    "summary": "SK Group Chairman Tae-Won Chey said in a recent interview with CNBC that memory demand is surging explosively and that the most severe \"memory shortage\" will hit in 2027. He also apologized to the market for the pace of memory chip price increases, saying the rapid rise is fueling chip inflation across the industry.",
+    "title": "Automation Taipei 2026: The invisible joint — why aerospace lightweighting is rewriting how parts are built",
+    "summary": "The aerospace industry's pursuit of lighter structures has long centered on advanced alloys, composites and additive manufacturing. But as aircraft and spacecraft shed weight, another manufacturing challenge becomes harder to ignore: the interface between the materials themselves.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor"
+      "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20260821PD221/sk-group-expansion-2027-demand-sk-hynix.html"
+    "url": "https://www.digitimes.com/news/a20260821VL207/2026-taipei-materials-manufacturing-aircraft.html"
   },
   {
     "date": "2026-08-22",
