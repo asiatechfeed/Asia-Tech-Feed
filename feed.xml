@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-23T08:01:28+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 23, 2026</title><link href="https://asiatechfeed.com/2026/08/23/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 23, 2026" /><published>2026-08-23T08:00:49+00:00</published><updated>2026-08-23T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/08/23/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/23/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-24T00:08:10+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 24, 2026</title><link href="https://asiatechfeed.com/2026/08/24/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 24, 2026" /><published>2026-08-24T00:07:36+00:00</published><updated>2026-08-24T00:07:36+00:00</updated><id>https://asiatechfeed.com/2026/08/24/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/24/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">AI accelerator shipments are set to turn advanced packaging into the next battleground: Counterpoint</span></td>
+  <td class="col-summary">AI accelerator shipments are expected to reshape semiconductor demand worldwide, with implications for cloud operators, memory suppliers, and device makers in every major market. Counterpoint expects more than 130 million GPUs and AI ASICs to shift toward advanced-packaged on-compute memory over the next five years, as</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260821PR202/accelerator-shipments-packaging-demand-worldwide.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwan's 'invisible champions' in chip materials are about to become visible, says GlobalWafers' Doris Hsu</span></td>
+  <td class="col-summary">Advanced process technology and new device architectures are reshaping the semiconductor supply chain — and the pressure is shifting from the fab to the materials that feed it.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260821PD235/materials-taiwan-technology-globalwafers-supply-chain.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">AI compute race heads toward space as MediaTek executive says 1 million H100s will be mid-tier by 2030</span></td>
+  <td class="col-summary">Speaking at DIGITIMES' "AI on Chips: Semiconductor Industry Outlook Forum," MediaTek senior director Bor-Sung Liang said AI development is shifting from individual large language models (LLMs) toward collaborative teams of AI agents with different roles and capabilities. He also revisited the seven-layer AI architectur</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260821PD234/mediatek-digitimes-data-infrastructure-2030.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">As generative AI ads flood Singapore market, experts say poorly made ones could backfire on brands, agencies</span></td>
+  <td class="col-summary">Creative agencies offering services focusing on AI content told CNA that demand for their services increased sharply in the past six months.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/gen-ai-ads-singapore-marketing-backfire-6323236" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Thailand, Singapore exchanges seek tech listings as AI booms</span></td>
+  <td class="col-summary">Thailand, Singapore exchanges seek tech listings as AI booms</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/trading-asia/thailand-singapore-exchanges-seek-tech-listings-as-ai-booms" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Itochu, Taiwan IT firm support Taiwanese chip expansion into southern Japan</span></td>
+  <td class="col-summary">Itochu, Taiwan IT firm support Taiwanese chip expansion into southern Japan</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/supply-chain/itochu-taiwan-it-firm-support-taiwanese-chip-expansion-into-southern-japan" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba to raise $10bn via new Hong Kong shares to fund AI investments</span></td>
+  <td class="col-summary">Alibaba to raise $10bn via new Hong Kong shares to fund AI investments</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/alibaba-to-raise-10bn-via-new-hong-kong-shares-to-fund-ai-investments" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes AI accelerator shipments are set to turn advanced packaging into the next battleground: Counterpoint AI accelerator shipments are expected to reshape semiconductor demand worldwide, with implications for cloud operators, memory suppliers, and device makers in every major market. Counterpoint expects more than 130 million GPUs and AI ASICs to shift toward advanced-packaged on-compute memory over the next five years, as SemiconductorAI Read 2 DigiTimes Taiwan's 'invisible champions' in chip materials are about to become visible, says GlobalWafers' Doris Hsu Advanced process technology and new device architectures are reshaping the semiconductor supply chain — and the pressure is shifting from the fab to the materials that feed it. SemiconductorLogistics Read 3 DigiTimes AI compute race heads toward space as MediaTek executive says 1 million H100s will be mid-tier by 2030 Speaking at DIGITIMES' "AI on Chips: Semiconductor Industry Outlook Forum," MediaTek senior director Bor-Sung Liang said AI development is shifting from individual large language models (LLMs) toward collaborative teams of AI agents with different roles and capabilities. He also revisited the seven-layer AI architectur SemiconductorAI Read 4 CNA As generative AI ads flood Singapore market, experts say poorly made ones could backfire on brands, agencies Creative agencies offering services focusing on AI content told CNA that demand for their services increased sharply in the past six months. AI Read 5 NikkeiAsia Thailand, Singapore exchanges seek tech listings as AI booms Thailand, Singapore exchanges seek tech listings as AI booms AI Read 6 NikkeiAsia Itochu, Taiwan IT firm support Taiwanese chip expansion into southern Japan Itochu, Taiwan IT firm support Taiwanese chip expansion into southern Japan Semiconductor Read 7 NikkeiAsia Alibaba to raise $10bn via new Hong Kong shares to fund AI investments Alibaba to raise $10bn via new Hong Kong shares to fund AI investments AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 23, 2026</title><link href="https://asiatechfeed.com/2026/08/23/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 23, 2026" /><published>2026-08-23T08:00:49+00:00</published><updated>2026-08-23T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/08/23/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/23/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -675,73 +744,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/pony-ai-comfortdelgro-to-launch-driverless-services-in-singapore" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA India PM Modi woos youth with free coaching, AI training Speaking weeks after massive youth-led protests forced the education minister to resign, Indian Prime Minister Narendra Modi said the initiative was aimed at easing the financial burden on millions of families. AI Read 2 TechAsia Goldman Sachs in talks on Nvidia’s $500b AI plan Nvidia has said it has the option to backstop up to US$125 billion, or 25% of potential deals. AI Read 3 TechAsia Nvidia scales back data center guarantee plans: report Separately, OpenAI’s Stargate project with Oracle and SoftBank Group is a US$500 billion US AI infrastructure effort expected to exceed 9 gigawatts by 2029. AI Read 4 DigiTimes Research insight: Delta, Lite-on raise capex to 9% of revenue in AI data center power race The speed of AI data center deployment is raising the bar for power and cooling suppliers. Chipmakers such as Nvidia and AMD are refreshing platforms annually, with each generation bringing sharp increases in power density and thermal requirements. Suppliers that cannot match that pace in R&amp;D or capacity deployment ris AISemiconductor Read 5 DigiTimes Memory supply crunch pushes long-term contracts beyond the big three The global memory supply shortage is intensifying, with long-term agreements (LTAs) rapidly expanding beyond the three major memory manufacturers—Samsung Electronics, SK hynix, and Micron Technology—to include Sandisk, Nanya Technology Corporation, and China's ChangXin Memory Technologies (CXMT). Electronics Read 6 DigiTimes AI server tracker: Demand drives July revenue gains across Taiwan infrastructure suppliers Data center infrastructure providers reported revenue gains across baseboard management controllers (BMCs), optical modules, power supply components, and thermal management products. Some companies, such as LandMark Optoelectronics and Auras Technology, reported year-over-year July revenue growth exceeding 100%. Electronics Read 7 TechAsia Uber, Pony.ai plan 2,000 robotaxis in Europe The expansion would extend the companies’ existing commercial robotaxi service in Zagreb, Croatia, to four unnamed cities in Europe. Automation Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 14, 2026</title><link href="https://asiatechfeed.com/2026/08/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 14, 2026" /><published>2026-08-14T08:00:48+00:00</published><updated>2026-08-14T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/08/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Chinese AI startup Zhipu releases GLM-5.3</span></td>
-  <td class="col-summary">Zhipu said GLM-5.3 improved programming capabilities by 50% vs. GLM-5.2 in an internally built subjective evaluation.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/zhipu-raises-ai-cloud-prices-in-profit-push" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">AI slashes material development cycles from years to months</span></td>
-  <td class="col-summary">Regenesis Materials uses AI to engineer carbon-storing composites from ocean waste, aiming to replace virgin plastics without machinery upgrades.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-slashes-material-development-cycles-years-months" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Global PMX sees semiconductor demand driving growth through 2027 as product mix shifts</span></td>
-  <td class="col-summary">Global PMX said its semiconductor business is emerging as the main growth driver and is expected to continue expanding through 2027, while automotive sales remain steady and are expected to improve as the global auto market recovers. The company also said its workforce is still rising, reflecting stronger shipments fro</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260814PD205/global-pmx-growth-revenue-2027-demand.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">OCP APAC 2026: What if AI's next efficiency breakthrough is simply moving less?</span></td>
-  <td class="col-summary">For years, the logic of AI infrastructure has been straightforward: move more data, push more power, transmit more signals, remove more heat.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260814VL206/apac-2026-efficiency-infrastructure-data.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Alibaba Cloud races ahead with Ulanqab AI infrastructure</span></td>
-  <td class="col-summary">Since early 2026, AI upstarts such as DeepSeek have increasingly pivoted toward building or co-owning their own data centers. This reflects a broader shift across China's AI sector: moving away from asset-light models reliant on leasing server space to gaining deep control over computing infrastructure. AI firms are no</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260814PD212/alibaba-cloud-data-center-infrastructure-2026.html?chid=10" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Apple trains China AI model with Alibaba: sources</span></td>
-  <td class="col-summary">In China, Apple is also expected to use Alibaba’s Qwen model and technology from Baidu.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/apple-intelligence-nears-launch-iphones-china" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Lisa Su Puts Rack-scale AI at Center of AMD’s Next Growth Phase</span></td>
-  <td class="col-summary">AMD CEO Lisa Su outlined a full-stack AI strategy spanning GPUs, CPUs, networking, software, and rack-scale systems for agentic workloads. The post Lisa Su Puts Rack-scale AI at Center of AMD’s Next Growth Phase appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddednews-lisa-su-puts-rack-scale-ai-at-center-of-amds-next-growth-phase/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Chinese AI startup Zhipu releases GLM-5.3 Zhipu said GLM-5.3 improved programming capabilities by 50% vs. GLM-5.2 in an internally built subjective evaluation. AI Read 2 TechAsia AI slashes material development cycles from years to months Regenesis Materials uses AI to engineer carbon-storing composites from ocean waste, aiming to replace virgin plastics without machinery upgrades. AI Read 3 DigiTimes Global PMX sees semiconductor demand driving growth through 2027 as product mix shifts Global PMX said its semiconductor business is emerging as the main growth driver and is expected to continue expanding through 2027, while automotive sales remain steady and are expected to improve as the global auto market recovers. The company also said its workforce is still rising, reflecting stronger shipments fro Semiconductor Read 4 DigiTimes OCP APAC 2026: What if AI's next efficiency breakthrough is simply moving less? For years, the logic of AI infrastructure has been straightforward: move more data, push more power, transmit more signals, remove more heat. AI Read 5 DigiTimes Alibaba Cloud races ahead with Ulanqab AI infrastructure Since early 2026, AI upstarts such as DeepSeek have increasingly pivoted toward building or co-owning their own data centers. This reflects a broader shift across China's AI sector: moving away from asset-light models reliant on leasing server space to gaining deep control over computing infrastructure. AI firms are no AI Read 6 TechAsia Apple trains China AI model with Alibaba: sources In China, Apple is also expected to use Alibaba’s Qwen model and technology from Baidu. AI Read 7 EETAsia Lisa Su Puts Rack-scale AI at Center of AMD’s Next Growth Phase AMD CEO Lisa Su outlined a full-stack AI strategy spanning GPUs, CPUs, networking, software, and rack-scale systems for agentic workloads. The post Lisa Su Puts Rack-scale AI at Center of AMD’s Next Growth Phase appeared first on EE Times Asia . AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA India PM Modi woos youth with free coaching, AI training Speaking weeks after massive youth-led protests forced the education minister to resign, Indian Prime Minister Narendra Modi said the initiative was aimed at easing the financial burden on millions of families. AI Read 2 TechAsia Goldman Sachs in talks on Nvidia’s $500b AI plan Nvidia has said it has the option to backstop up to US$125 billion, or 25% of potential deals. AI Read 3 TechAsia Nvidia scales back data center guarantee plans: report Separately, OpenAI’s Stargate project with Oracle and SoftBank Group is a US$500 billion US AI infrastructure effort expected to exceed 9 gigawatts by 2029. AI Read 4 DigiTimes Research insight: Delta, Lite-on raise capex to 9% of revenue in AI data center power race The speed of AI data center deployment is raising the bar for power and cooling suppliers. Chipmakers such as Nvidia and AMD are refreshing platforms annually, with each generation bringing sharp increases in power density and thermal requirements. Suppliers that cannot match that pace in R&amp;D or capacity deployment ris AISemiconductor Read 5 DigiTimes Memory supply crunch pushes long-term contracts beyond the big three The global memory supply shortage is intensifying, with long-term agreements (LTAs) rapidly expanding beyond the three major memory manufacturers—Samsung Electronics, SK hynix, and Micron Technology—to include Sandisk, Nanya Technology Corporation, and China's ChangXin Memory Technologies (CXMT). Electronics Read 6 DigiTimes AI server tracker: Demand drives July revenue gains across Taiwan infrastructure suppliers Data center infrastructure providers reported revenue gains across baseboard management controllers (BMCs), optical modules, power supply components, and thermal management products. Some companies, such as LandMark Optoelectronics and Auras Technology, reported year-over-year July revenue growth exceeding 100%. Electronics Read 7 TechAsia Uber, Pony.ai plan 2,000 robotaxis in Europe The expansion would extend the companies’ existing commercial robotaxi service in Zagreb, Croatia, to four unnamed cities in Europe. Automation Read]]></summary></entry></feed>
