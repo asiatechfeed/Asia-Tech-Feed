@@ -1,31 +1,37 @@
 {
-  "date": "2026-08-23",
-  "count": 4,
+  "date": "2026-08-24",
+  "count": 7,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "TechAsia"
+    "NikkeiAsia"
   ],
-  "post_file": "2026-08-23-asia-tech-news-digest.md",
+  "post_file": "2026-08-24-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Nvidia to raise AI server prices by more than 15%",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-scales-data-center-guarantee-plans"
+      "title": "AI accelerator shipments are set to turn advanced packaging into the next battleground: Counterpoint",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260821PR202/accelerator-shipments-packaging-demand-worldwide.html"
     },
     {
-      "title": "Taiwan automation shifts from hardware specs to AI platforms and open robot architectures",
+      "title": "Taiwan's 'invisible champions' in chip materials are about to become visible, says GlobalWafers' Doris Hsu",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260821PD217/automation-robot-sensor-hardware-taiwan.html"
+      "url": "https://www.digitimes.com/news/a20260821PD235/materials-taiwan-technology-globalwafers-supply-chain.html"
     },
     {
-      "title": "Google, Marvell long-term deal keeps Broadcom at bay, limits MediaTek impact",
+      "title": "AI compute race heads toward space as MediaTek executive says 1 million H100s will be mid-tier by 2030",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260821PD211/marvell-google-mediatek-broadcom-chips.html"
+      "url": "https://www.digitimes.com/news/a20260821PD234/mediatek-digitimes-data-infrastructure-2030.html"
     },
     {
-      "title": "Automation Taipei 2026: The invisible joint \u2014 why aerospace lightweighting is rewriting how parts are built",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260821VL207/2026-taipei-materials-manufacturing-aircraft.html"
+      "title": "As generative AI ads flood Singapore market, experts say poorly made ones could backfire on brands, agencies",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/gen-ai-ads-singapore-marketing-backfire-6323236"
+    },
+    {
+      "title": "Thailand, Singapore exchanges seek tech listings as AI booms",
+      "source": "NikkeiAsia",
+      "url": "https://asia.nikkei.com/business/markets/trading-asia/thailand-singapore-exchanges-seek-tech-listings-as-ai-booms"
     }
   ],
   "source_stats": [
@@ -42,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -141,7 +147,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 4,
+      "relevant": 3,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -150,7 +156,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 31,
+      "relevant": 33,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -159,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -186,9 +192,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
