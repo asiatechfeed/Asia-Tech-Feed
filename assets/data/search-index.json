@@ -1,59 +1,116 @@
 [
   {
     "date": "2026-08-24",
-    "title": "Alibaba plans HKD80 billion share placement to fund AI expansion",
-    "summary": "Alibaba Group Holding said it plans to raise HKD80 billion (US$10.2 billion) through the placement of newly issued shares to non-US investors outside the US, a move that could bolster its artificial intelligence ambitions and shape competition in global cloud and AI markets. The company said the proceeds would be used ",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "STMicroelectronics, NUS launch edge AI lab in Singapore",
+    "summary": "The lab will use ST’s P18 18nm FD-SOI technology and embedded phase-change memory.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
+      "Electronics",
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260824PR200/alibaba-technology-competition-worldwide-cloud-ai.html"
+    "url": "https://www.techinasia.com/aws-partners-with-european-chipmaker-for-data-center-chips"
   },
   {
     "date": "2026-08-24",
-    "title": "Israeli AI startup AppFlyer secures $400m credit line",
-    "summary": "AppsFlyer employs about 1,300 people after cutting 7% of its workforce last year.",
+    "title": "The audio-only AI companion fighting youth screen addiction",
+    "summary": "Wippi is building a screen-free AI companion to tackle childhood tech addiction through interactive stories and conversational games.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/google-meta-israeli-appsflyer-1b"
+    "url": "https://www.techinasia.com/audioonly-ai-companion-fighting-youth-screen-addiction"
   },
   {
     "date": "2026-08-24",
-    "title": "Samsung Electronics shares fall after shareholder return announcement",
-    "summary": "Samsung Electronics shares fall after shareholder return announcement",
+    "title": "Xiaomi launches Xring O3 chip with TSMC production",
+    "summary": "TSMC will manufacture the chip using its 3-nanometre process.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/xiaomi-plans-release-in-house-xring-chip-each-year"
+  },
+  {
+    "date": "2026-08-24",
+    "title": "Trabzonspor set to sign Fabinho on free transfer",
+    "summary": "Trabzonspor set to sign Fabinho on free transfer",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
-      "Electronics"
+      "Semiconductor"
     ],
-    "url": "https://www.channelnewsasia.com/business/samsung-electronics-shares-fall-after-shareholder-return-announcement-6336676"
+    "url": "https://www.channelnewsasia.com/sport/trabzonspor-set-sign-fabinho-free-transfer-6337276"
   },
   {
     "date": "2026-08-24",
-    "title": "AMRA expands robot testing standard to cover legged systems",
-    "summary": "The Autonomous Mobile Robot Alliance (AMRA), formed by Taiwan's Industrial Technology Research Institute and industry, academia, and research partners, has released a new standard that adds legged robots to its testing framework. The update aims to speed commercialization and deployment of autonomous mobile robots by g",
+    "title": "Advanced packaging substrates hit limits; ceramic cores rise to challenge glass materials",
+    "summary": "As hardware demands for artificial intelligence continue to surge, beyond increased size and complexity in chip packaging, advanced packaging substrates face mounting challenges: larger package footprints, higher layer counts, lower warpage, and higher accuracy. However, relying solely on incremental upgrades to tradit",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Automation"
+      "AI",
+      "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260821PD232/testing-taiwan-itri-2026-mobile.html"
+    "url": "https://www.digitimes.com/news/a20260824PD221/ceramic-substrate-glass-substrate-packaging-materials-hardware-manufacturing.html"
   },
   {
     "date": "2026-08-24",
-    "title": "India roundup: India's chip push moves beyond fabs as yield, supply chains and new technology become the next test",
-    "summary": "India's semiconductor strategy is entering a more demanding phase, shifting from attracting fabs and assembly plants toward building the capabilities needed to sustain them. From wafer yields and labor rules to materials, equipment, rare earth magnets and emerging technologies, the country is expanding its ambitions as",
+    "title": "Nvidia's strikes US$6B licensing deal with Poolside to accelerate Nemotron models",
+    "summary": "Nvidia reportedly struck a US$6 billion deal with startup Poolside to license its technology and hire much of its staff. The technology and personnel will reportedly support the chipmaker's Nemotron models in a bid to compete with China's strength in open-source models, but the deal also puts Nvidia in competition with",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor",
-      "Logistics"
+      "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260821VL203/technology-materials-manufacturing-semicon-security.html"
+    "url": "https://www.digitimes.com/news/a20260824VL209/nvidia-licensing-startup-open-source-technology.html"
+  },
+  {
+    "date": "2026-08-24",
+    "title": "Samsung's DRAM capacity lead shrinks as SK Hynix expands faster",
+    "summary": "Samsung Electronics' DRAM wafer capacity will grow only marginally through 2027, with investment directed at node migration and line conversions rather than aggressive wafer-capacity expansion, according to Omdia data obtained by Chosun Biz .",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260824VL210/samsung-capacity-dram-wafer-2027.html"
+  },
+  {
+    "date": "2026-08-24",
+    "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
+    "summary": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/xiaomi-launches-new-xring-chip-partners-tsmc-production-sources-say-6337181"
+  },
+  {
+    "date": "2026-08-24",
+    "title": "Advantech Launches Qualcomm Dragonwing-based Solutions for Industrial Vision Intelligence",
+    "summary": "Designed for industrial-grade vision intelligence, Advantech's latest edge AI solutions deliver up to 100 TOPS AI performance and support up to 16 concurrent cameras. The post Advantech Launches Qualcomm Dragonwing-based Solutions for Industrial Vision Intelligence appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/advantech-launches-qualcomm-dragonwing-based-solutions-for-industrial-vision-intelligence/"
+  },
+  {
+    "date": "2026-08-24",
+    "title": "Alibaba shares plunge after $10bn new share placement to fund AI spending",
+    "summary": "Alibaba shares plunge after $10bn new share placement to fund AI spending",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/alibaba-shares-plunge-after-10bn-new-share-placement-to-fund-ai-spending"
   },
   {
     "date": "2026-08-23",
