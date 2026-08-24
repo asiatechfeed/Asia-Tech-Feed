@@ -1,37 +1,37 @@
 {
   "date": "2026-08-24",
-  "count": 7,
+  "count": 5,
   "sources": [
     "CNA",
     "DigiTimes",
-    "NikkeiAsia"
+    "TechAsia"
   ],
   "post_file": "2026-08-24-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "AI accelerator shipments are set to turn advanced packaging into the next battleground: Counterpoint",
+      "title": "Alibaba plans HKD80 billion share placement to fund AI expansion",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260821PR202/accelerator-shipments-packaging-demand-worldwide.html"
+      "url": "https://www.digitimes.com/news/a20260824PR200/alibaba-technology-competition-worldwide-cloud-ai.html"
     },
     {
-      "title": "Taiwan's 'invisible champions' in chip materials are about to become visible, says GlobalWafers' Doris Hsu",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260821PD235/materials-taiwan-technology-globalwafers-supply-chain.html"
+      "title": "Israeli AI startup AppFlyer secures $400m credit line",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/google-meta-israeli-appsflyer-1b"
     },
     {
-      "title": "AI compute race heads toward space as MediaTek executive says 1 million H100s will be mid-tier by 2030",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260821PD234/mediatek-digitimes-data-infrastructure-2030.html"
-    },
-    {
-      "title": "As generative AI ads flood Singapore market, experts say poorly made ones could backfire on brands, agencies",
+      "title": "Samsung Electronics shares fall after shareholder return announcement",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/gen-ai-ads-singapore-marketing-backfire-6323236"
+      "url": "https://www.channelnewsasia.com/business/samsung-electronics-shares-fall-after-shareholder-return-announcement-6336676"
     },
     {
-      "title": "Thailand, Singapore exchanges seek tech listings as AI booms",
-      "source": "NikkeiAsia",
-      "url": "https://asia.nikkei.com/business/markets/trading-asia/thailand-singapore-exchanges-seek-tech-listings-as-ai-booms"
+      "title": "AMRA expands robot testing standard to cover legged systems",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260821PD232/testing-taiwan-itri-2026-mobile.html"
+    },
+    {
+      "title": "India roundup: India's chip push moves beyond fabs as yield, supply chains and new technology become the next test",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260821VL203/technology-materials-manufacturing-semicon-security.html"
     }
   ],
   "source_stats": [
@@ -48,7 +48,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -156,7 +156,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 33,
+      "relevant": 32,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +167,7 @@
       "fetched": 50,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -192,9 +192,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {

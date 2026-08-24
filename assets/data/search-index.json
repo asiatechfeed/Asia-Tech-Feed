@@ -1,83 +1,59 @@
 [
   {
     "date": "2026-08-24",
-    "title": "AI accelerator shipments are set to turn advanced packaging into the next battleground: Counterpoint",
-    "summary": "AI accelerator shipments are expected to reshape semiconductor demand worldwide, with implications for cloud operators, memory suppliers, and device makers in every major market. Counterpoint expects more than 130 million GPUs and AI ASICs to shift toward advanced-packaged on-compute memory over the next five years, as",
+    "title": "Alibaba plans HKD80 billion share placement to fund AI expansion",
+    "summary": "Alibaba Group Holding said it plans to raise HKD80 billion (US$10.2 billion) through the placement of newly issued shares to non-US investors outside the US, a move that could bolster its artificial intelligence ambitions and shape competition in global cloud and AI markets. The company said the proceeds would be used ",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor",
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260821PR202/accelerator-shipments-packaging-demand-worldwide.html"
+    "url": "https://www.digitimes.com/news/a20260824PR200/alibaba-technology-competition-worldwide-cloud-ai.html"
   },
   {
     "date": "2026-08-24",
-    "title": "Taiwan's 'invisible champions' in chip materials are about to become visible, says GlobalWafers' Doris Hsu",
-    "summary": "Advanced process technology and new device architectures are reshaping the semiconductor supply chain — and the pressure is shifting from the fab to the materials that feed it.",
+    "title": "Israeli AI startup AppFlyer secures $400m credit line",
+    "summary": "AppsFlyer employs about 1,300 people after cutting 7% of its workforce last year.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/google-meta-israeli-appsflyer-1b"
+  },
+  {
+    "date": "2026-08-24",
+    "title": "Samsung Electronics shares fall after shareholder return announcement",
+    "summary": "Samsung Electronics shares fall after shareholder return announcement",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.channelnewsasia.com/business/samsung-electronics-shares-fall-after-shareholder-return-announcement-6336676"
+  },
+  {
+    "date": "2026-08-24",
+    "title": "AMRA expands robot testing standard to cover legged systems",
+    "summary": "The Autonomous Mobile Robot Alliance (AMRA), formed by Taiwan's Industrial Technology Research Institute and industry, academia, and research partners, has released a new standard that adds legged robots to its testing framework. The update aims to speed commercialization and deployment of autonomous mobile robots by g",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260821PD232/testing-taiwan-itri-2026-mobile.html"
+  },
+  {
+    "date": "2026-08-24",
+    "title": "India roundup: India's chip push moves beyond fabs as yield, supply chains and new technology become the next test",
+    "summary": "India's semiconductor strategy is entering a more demanding phase, shifting from attracting fabs and assembly plants toward building the capabilities needed to sustain them. From wafer yields and labor rules to materials, equipment, rare earth magnets and emerging technologies, the country is expanding its ambitions as",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
       "Logistics"
     ],
-    "url": "https://www.digitimes.com/news/a20260821PD235/materials-taiwan-technology-globalwafers-supply-chain.html"
-  },
-  {
-    "date": "2026-08-24",
-    "title": "AI compute race heads toward space as MediaTek executive says 1 million H100s will be mid-tier by 2030",
-    "summary": "Speaking at DIGITIMES' \"AI on Chips: Semiconductor Industry Outlook Forum,\" MediaTek senior director Bor-Sung Liang said AI development is shifting from individual large language models (LLMs) toward collaborative teams of AI agents with different roles and capabilities. He also revisited the seven-layer AI architectur",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260821PD234/mediatek-digitimes-data-infrastructure-2030.html"
-  },
-  {
-    "date": "2026-08-24",
-    "title": "As generative AI ads flood Singapore market, experts say poorly made ones could backfire on brands, agencies",
-    "summary": "Creative agencies offering services focusing on AI content told CNA that demand for their services increased sharply in the past six months.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/singapore/gen-ai-ads-singapore-marketing-backfire-6323236"
-  },
-  {
-    "date": "2026-08-24",
-    "title": "Thailand, Singapore exchanges seek tech listings as AI booms",
-    "summary": "Thailand, Singapore exchanges seek tech listings as AI booms",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/markets/trading-asia/thailand-singapore-exchanges-seek-tech-listings-as-ai-booms"
-  },
-  {
-    "date": "2026-08-24",
-    "title": "Itochu, Taiwan IT firm support Taiwanese chip expansion into southern Japan",
-    "summary": "Itochu, Taiwan IT firm support Taiwanese chip expansion into southern Japan",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://asia.nikkei.com/spotlight/supply-chain/itochu-taiwan-it-firm-support-taiwanese-chip-expansion-into-southern-japan"
-  },
-  {
-    "date": "2026-08-24",
-    "title": "Alibaba to raise $10bn via new Hong Kong shares to fund AI investments",
-    "summary": "Alibaba to raise $10bn via new Hong Kong shares to fund AI investments",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/alibaba-to-raise-10bn-via-new-hong-kong-shares-to-fund-ai-investments"
+    "url": "https://www.digitimes.com/news/a20260821VL203/technology-materials-manufacturing-semicon-security.html"
   },
   {
     "date": "2026-08-23",
