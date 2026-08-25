@@ -1,38 +1,36 @@
 {
   "date": "2026-08-25",
-  "count": 10,
+  "count": 6,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-25-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Japan plans another $944m for chipmaker Rapidus",
+      "title": "Porsche signs $1.5b AI deal with India\u2019s TCS",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/japan-to-invest-1-6b-in-rapidus-to-boost-semiconductor-production"
+      "url": "https://www.techinasia.com/tcs-mistral-partner-enterprise-ai-deployment"
     },
     {
-      "title": "'Just plain insulting': Sellers on Shopee and TikTok call out auto-generated AI ads that mislead customers",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/ai-generated-videos-shopee-tiktok-misleading-sellers-6336961"
-    },
-    {
-      "title": "Xpeng\u2019s robotics arm raises over $900m series A",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/xpeng-targets-flying-car-deliveries-by-2027"
-    },
-    {
-      "title": "Mapping the trailblazing startups in Australia\u2019s AI sector",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/visual-story/mapping-trailblazing-startups-australias-ai-sector"
-    },
-    {
-      "title": "Xiaomi taps TSMC to make chips for foldables, AI and autonomous driving",
+      "title": "Nvidia Groq 3 LPX enters full production for faster agentic AI inference",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260824VL216/xiaomi-autonomous-driving-tsmc-chips-smartphone.html"
+      "url": "https://www.digitimes.com/news/a20260825PR202/nvidia-groq-production-rubin-demand.html"
+    },
+    {
+      "title": "SpaceXAI to use Nvidia Vera CPUs for faster agentic AI at scale",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260825PR201/nvidia-data-rubin-infrastructure-cpu.html"
+    },
+    {
+      "title": "IBM unveils dual-architecture mainframe chip to run Arm, z/OS, Linux workloads",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260825PR200/ibm-arm-linux-processor-software.html"
+    },
+    {
+      "title": "Nvidia says Groq 3 LPX rack enters full production",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/nvidia-ai-chip-startup-groq-35b-valuation"
     }
   ],
   "source_stats": [
@@ -51,7 +49,7 @@
       "fetched": 20,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -129,9 +127,9 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
-      "sponsored_skipped": 1,
+      "sponsored_skipped": 0,
       "published": 0,
       "error": null
     },
@@ -156,8 +154,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 62,
-      "relevant": 55,
+      "fetched": 35,
+      "relevant": 27,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +166,7 @@
       "fetched": 50,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -193,7 +191,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 13,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
