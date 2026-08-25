@@ -1,5 +1,118 @@
 [
   {
+    "date": "2026-08-25",
+    "title": "Japan plans another $944m for chipmaker Rapidus",
+    "summary": "The Ministry of Economy, Trade and Industry will also seek more funding for Rapidus in its fiscal 2027 budget.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/japan-to-invest-1-6b-in-rapidus-to-boost-semiconductor-production"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "'Just plain insulting': Sellers on Shopee and TikTok call out auto-generated AI ads that mislead customers",
+    "summary": "In one AI-generated video on Shopee, a book by a local author, which deals with themes such as emotional and verbal abuse, was described as a \"fun\" story.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/singapore/ai-generated-videos-shopee-tiktok-misleading-sellers-6336961"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "Xpeng’s robotics arm raises over $900m series A",
+    "summary": "The company said the funding will go to hardware and software R&D, physical AI training, smart manufacturing infrastructure, and global expansion.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/xpeng-targets-flying-car-deliveries-by-2027"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "Mapping the trailblazing startups in Australia’s AI sector",
+    "summary": "Mapping Australia's AI sector: Key players, top investors, and funding insights in one report.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/visual-story/mapping-trailblazing-startups-australias-ai-sector"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "Xiaomi taps TSMC to make chips for foldables, AI and autonomous driving",
+    "summary": "Xiaomi is expanding its in-house semiconductor push from smartphones into AI acceleration and autonomous driving, unveiling three Xring processors that deepen its reliance on TSMC manufacturing while reducing dependence on external chip suppliers.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260824VL216/xiaomi-autonomous-driving-tsmc-chips-smartphone.html"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "How Nvidia's whitelist was beaten: 74 B300 servers, Taiwan to China",
+    "summary": "Taiwan's Keelung District Prosecutors Office has indicted nine people over the illegal export of high-end AI servers built on Nvidia's B300 GPUs. The indictment lays out, step by step, how a compliance regime designed to track every unit was defeated from the inside.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260824VL212/taiwan-nvidia-supermicro-sales-high-end.html"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "Etron chair sees memory boom extending to 2028-2030",
+    "summary": "The memory industry is undergoing a structural shift as AI demand surges, and Etron Technology chairman Nicky Lu said the sector's boom will stretch beyond 2027, with shortages likely lasting through 2028 and possibly into 2030. He said supply is tightening further as AI and edge computing create rigid demand, pushing ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260824PD230/etron-chairman-2027-demand-growth.html"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "Sony to offer drivers cute AI agent for self-driving age",
+    "summary": "Sony to offer drivers cute AI agent for self-driving age",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/automobiles/sony-to-offer-drivers-cute-ai-agent-for-self-driving-age"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "Japan to tap AI to speed up materials development 10-fold",
+    "summary": "Japan to tap AI to speed up materials development 10-fold",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-to-tap-ai-to-speed-up-materials-development-10-fold"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "Samsung Electronics faces internal divide over huge bonus gap",
+    "summary": "Samsung Electronics faces internal divide over huge bonus gap",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://asia.nikkei.com/business/companies/samsung-electronics-faces-internal-divide-over-huge-bonus-gap"
+  },
+  {
     "date": "2026-08-24",
     "title": "STMicroelectronics, NUS launch edge AI lab in Singapore",
     "summary": "The lab will use ST’s P18 18nm FD-SOI technology and embedded phase-change memory.",
