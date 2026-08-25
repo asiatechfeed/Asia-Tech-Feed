@@ -1,39 +1,38 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-08-24-asia-tech-news-digest.md",
+  "post_file": "2026-08-25-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "STMicroelectronics, NUS launch edge AI lab in Singapore",
+      "title": "Japan plans another $944m for chipmaker Rapidus",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/aws-partners-with-european-chipmaker-for-data-center-chips"
+      "url": "https://www.techinasia.com/japan-to-invest-1-6b-in-rapidus-to-boost-semiconductor-production"
     },
     {
-      "title": "The audio-only AI companion fighting youth screen addiction",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/audioonly-ai-companion-fighting-youth-screen-addiction"
-    },
-    {
-      "title": "Xiaomi launches Xring O3 chip with TSMC production",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/xiaomi-plans-release-in-house-xring-chip-each-year"
-    },
-    {
-      "title": "Trabzonspor set to sign Fabinho on free transfer",
+      "title": "'Just plain insulting': Sellers on Shopee and TikTok call out auto-generated AI ads that mislead customers",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/sport/trabzonspor-set-sign-fabinho-free-transfer-6337276"
+      "url": "https://www.channelnewsasia.com/singapore/ai-generated-videos-shopee-tiktok-misleading-sellers-6336961"
     },
     {
-      "title": "Advanced packaging substrates hit limits; ceramic cores rise to challenge glass materials",
+      "title": "Xpeng\u2019s robotics arm raises over $900m series A",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/xpeng-targets-flying-car-deliveries-by-2027"
+    },
+    {
+      "title": "Mapping the trailblazing startups in Australia\u2019s AI sector",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/visual-story/mapping-trailblazing-startups-australias-ai-sector"
+    },
+    {
+      "title": "Xiaomi taps TSMC to make chips for foldables, AI and autonomous driving",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260824PD221/ceramic-substrate-glass-substrate-packaging-materials-hardware-manufacturing.html"
+      "url": "https://www.digitimes.com/news/a20260824VL216/xiaomi-autonomous-driving-tsmc-chips-smartphone.html"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -132,7 +131,7 @@
       "name": "Electronics Weekly",
       "fetched": 10,
       "relevant": 0,
-      "sponsored_skipped": 0,
+      "sponsored_skipped": 1,
       "published": 0,
       "error": null
     },
@@ -149,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 55,
-      "relevant": 50,
+      "fetched": 62,
+      "relevant": 55,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +168,7 @@
       "fetched": 50,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -194,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
