@@ -1,36 +1,38 @@
 {
   "date": "2026-08-25",
-  "count": 6,
+  "count": 10,
   "sources": [
     "DigiTimes",
+    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-25-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Porsche signs $1.5b AI deal with India\u2019s TCS",
+      "title": "Samsung Foundry sees higher 4nm volumes as Nvidia ramps Groq 3",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260825VL216/nvidia-groq-4nm-samsung-production.html"
+    },
+    {
+      "title": "GATE 2026 to spotlight Southeast Asia's pivot to EV supply chains",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260825PD217/2026-asia-market-technology-automotive.html"
+    },
+    {
+      "title": "Chinese automakers expand to humanoid robotics with technology, supply chain and scenario advantages",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260824RS400/automakers-humanoid-robot-robotics-supply-chain-technology.html?chid=2"
+    },
+    {
+      "title": "Write a prompt, create a video game. Will players bite?",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/tcs-mistral-partner-enterprise-ai-deployment"
+      "url": "https://www.techinasia.com/write-prompt-create-video-game-players-bite"
     },
     {
-      "title": "Nvidia Groq 3 LPX enters full production for faster agentic AI inference",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260825PR202/nvidia-groq-production-rubin-demand.html"
-    },
-    {
-      "title": "SpaceXAI to use Nvidia Vera CPUs for faster agentic AI at scale",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260825PR201/nvidia-data-rubin-infrastructure-cpu.html"
-    },
-    {
-      "title": "IBM unveils dual-architecture mainframe chip to run Arm, z/OS, Linux workloads",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260825PR200/ibm-arm-linux-processor-software.html"
-    },
-    {
-      "title": "Nvidia says Groq 3 LPX rack enters full production",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-ai-chip-startup-groq-35b-valuation"
+      "title": "proteanTecs Intros Monitoring Solutions for Multi-Die Advanced Packaging",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/proteantecs-intros-monitoring-solutions-for-multi-die-advanced-packaging/"
     }
   ],
   "source_stats": [
@@ -47,7 +49,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -127,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -146,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 27,
+      "fetched": 44,
+      "relevant": 35,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +168,7 @@
       "fetched": 50,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -191,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
