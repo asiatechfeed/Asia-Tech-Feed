@@ -1,37 +1,37 @@
 {
   "date": "2026-08-26",
-  "count": 9,
+  "count": 7,
   "sources": [
     "DigiTimes",
-    "KED",
+    "EETAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-26-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Zoom sees quarterly profit below estimates as AI push grows",
+      "title": "An AI assistant that joins sales calls and scores team skills",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/zoom-introduces-ai-tools-meetings-avatars"
+      "url": "https://www.techinasia.com/ai-assistant-joins-sales-calls-scores-team-skills"
     },
     {
-      "title": "Cocoon Capital co-leads $3m for SG biotech startup Bioactivx",
+      "title": "Who\u2019s investing in India\u2019s AI startups?",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/sg-biotech-startup-bioactivx-nets-14m-seed-led-cocoon-capital"
+      "url": "https://www.techinasia.com/whos-investing-indias-ai-startups"
     },
     {
-      "title": "OpenAI says its Jalapeno chip beats Nvidia GB300",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/openai-rolls-out-gpt-5-6-sol-for-chatgpt"
-    },
-    {
-      "title": "OpenAI says Jalape\u00f1o cuts latency up to 3.6x, targeting the bottleneck that slows agents",
+      "title": "Data center leader leaves OpenAI, latest in wave of high-level departures",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260826PR200/openai-efficiency-design-performance-infrastructure.html"
+      "url": "https://www.digitimes.com/news/a20260826VL211/openai-data-center-infrastructure-talent-ipo.html"
     },
     {
-      "title": "Taiwan maps four AI-led strategies to expand its biotech sector",
+      "title": "Cook's parting shot: Apple takes AI compute out of data centers",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260825PD223/taiwan-biotech-manufacturing-market-chips.html"
+      "url": "https://www.digitimes.com/news/a20260826VL210/apple-mac-mini-ai-hardware-training.html"
+    },
+    {
+      "title": "Peak XV invests $15m in Indian voice startup Ringg AI",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/peak-xv-talks-indian-voice-ai-firm-10m"
     }
   ],
   "source_stats": [
@@ -48,7 +48,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -149,14 +149,14 @@
       "fetched": 10,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 30,
+      "fetched": 37,
+      "relevant": 29,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,7 +165,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 5,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -176,7 +176,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
