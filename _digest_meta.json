@@ -1,38 +1,37 @@
 {
   "date": "2026-08-26",
-  "count": 8,
+  "count": 9,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "NikkeiAsia",
+    "KED",
     "TechAsia"
   ],
   "post_file": "2026-08-26-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Indian AI firm AM Intelligence to deploy 9,000 Nvidia GPUs",
+      "title": "Zoom sees quarterly profit below estimates as AI push grows",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/oracle-helping-startups-scale-age-ai"
+      "url": "https://www.techinasia.com/zoom-introduces-ai-tools-meetings-avatars"
     },
     {
-      "title": "Commentary: Can you teach yourself to detect AI writing? Maybe",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/how-detect-ai-writing-chatgpt-6339786"
+      "title": "Cocoon Capital co-leads $3m for SG biotech startup Bioactivx",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/sg-biotech-startup-bioactivx-nets-14m-seed-led-cocoon-capital"
     },
     {
-      "title": "Eva Air green transport pact to cut Microsoft freight emissions by 15,000 tonnes",
+      "title": "OpenAI says its Jalapeno chip beats Nvidia GB300",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/openai-rolls-out-gpt-5-6-sol-for-chatgpt"
+    },
+    {
+      "title": "OpenAI says Jalape\u00f1o cuts latency up to 3.6x, targeting the bottleneck that slows agents",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260825PD227/microsoft-fuel-taiwan-launch-demand.html"
+      "url": "https://www.digitimes.com/news/a20260826PR200/openai-efficiency-design-performance-infrastructure.html"
     },
     {
-      "title": "Tesla senior chip engineer joins DensityAI as in-house plans face more strain",
+      "title": "Taiwan maps four AI-led strategies to expand its biotech sector",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260825PD228/tesla-hardware-design-chips-robotics.html"
-    },
-    {
-      "title": "Intel x86 share drops below 70% as AMD reaches a record high",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260825PD226/intel-amd-x86-cpu-data.html"
+      "url": "https://www.digitimes.com/news/a20260825PD223/taiwan-biotech-manufacturing-market-chips.html"
     }
   ],
   "source_stats": [
@@ -51,7 +50,7 @@
       "fetched": 20,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -156,8 +155,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 57,
-      "relevant": 46,
+      "fetched": 35,
+      "relevant": 30,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +167,7 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -177,7 +176,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -193,9 +192,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 17,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
