@@ -1,38 +1,38 @@
 {
-  "date": "2026-08-25",
-  "count": 10,
+  "date": "2026-08-26",
+  "count": 8,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-08-25-asia-tech-news-digest.md",
+  "post_file": "2026-08-26-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Samsung Foundry sees higher 4nm volumes as Nvidia ramps Groq 3",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260825VL216/nvidia-groq-4nm-samsung-production.html"
-    },
-    {
-      "title": "GATE 2026 to spotlight Southeast Asia's pivot to EV supply chains",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260825PD217/2026-asia-market-technology-automotive.html"
-    },
-    {
-      "title": "Chinese automakers expand to humanoid robotics with technology, supply chain and scenario advantages",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260824RS400/automakers-humanoid-robot-robotics-supply-chain-technology.html?chid=2"
-    },
-    {
-      "title": "Write a prompt, create a video game. Will players bite?",
+      "title": "Indian AI firm AM Intelligence to deploy 9,000 Nvidia GPUs",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/write-prompt-create-video-game-players-bite"
+      "url": "https://www.techinasia.com/oracle-helping-startups-scale-age-ai"
     },
     {
-      "title": "proteanTecs Intros Monitoring Solutions for Multi-Die Advanced Packaging",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/proteantecs-intros-monitoring-solutions-for-multi-die-advanced-packaging/"
+      "title": "Commentary: Can you teach yourself to detect AI writing? Maybe",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/how-detect-ai-writing-chatgpt-6339786"
+    },
+    {
+      "title": "Eva Air green transport pact to cut Microsoft freight emissions by 15,000 tonnes",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260825PD227/microsoft-fuel-taiwan-launch-demand.html"
+    },
+    {
+      "title": "Tesla senior chip engineer joins DensityAI as in-house plans face more strain",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260825PD228/tesla-hardware-design-chips-robotics.html"
+    },
+    {
+      "title": "Intel x86 share drops below 70% as AMD reaches a record high",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260825PD226/intel-amd-x86-cpu-data.html"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -150,14 +150,14 @@
       "fetched": 10,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 44,
-      "relevant": 35,
+      "fetched": 57,
+      "relevant": 46,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -195,7 +195,7 @@
       "fetched": 36,
       "relevant": 14,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
