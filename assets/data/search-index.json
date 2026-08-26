@@ -1,5 +1,95 @@
 [
   {
+    "date": "2026-08-26",
+    "title": "Indian AI firm AM Intelligence to deploy 9,000 Nvidia GPUs",
+    "summary": "The Hyderabad AI factory is slated to receive the GPUs in Q1 2027.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/oracle-helping-startups-scale-age-ai"
+  },
+  {
+    "date": "2026-08-26",
+    "title": "Commentary: Can you teach yourself to detect AI writing? Maybe",
+    "summary": "Before generative AI, we could generally assume that written text had been composed by a human. This is no longer the case, says a professor.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/how-detect-ai-writing-chatgpt-6339786"
+  },
+  {
+    "date": "2026-08-26",
+    "title": "Eva Air green transport pact to cut Microsoft freight emissions by 15,000 tonnes",
+    "summary": "Eva Air and AIT Worldwide Logistics have signed a memorandum of understanding to launch a green transport program that will use sustainable aviation fuel from Formosa Petrochemical for Microsoft cloud equipment shipments. The Taiwan-based collaboration is expected to reduce Microsoft's Scope 3 emissions by 15,000 tonne",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260825PD227/microsoft-fuel-taiwan-launch-demand.html"
+  },
+  {
+    "date": "2026-08-26",
+    "title": "Tesla senior chip engineer joins DensityAI as in-house plans face more strain",
+    "summary": "Tesla's senior director of AI hardware design, Shishuang Sun, joined DensityAI in July 2026, taking charge of packaging and system hardware development. The move came as Tesla continued to pursue custom AI and robotics chips amid the loss of another senior hardware leader.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260825PD228/tesla-hardware-design-chips-robotics.html"
+  },
+  {
+    "date": "2026-08-26",
+    "title": "Intel x86 share drops below 70% as AMD reaches a record high",
+    "summary": "Intel's long-running lead in x86 processors slipped below a major threshold in the second quarter of 2026, even as AI infrastructure spending helped support demand. New market data showed Intel's combined share of PC and server x86 CPU shipments fell to 69.3%, its lowest level since 1995, while Advanced Micro Devices (",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260825PD226/intel-amd-x86-cpu-data.html"
+  },
+  {
+    "date": "2026-08-26",
+    "title": "Why AI sales pipelines can be misleading",
+    "summary": "JJellyfish co-founder Jen Abel says sellers need stronger signals of buyer intent than qualified leads and CRM forecasts.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/ai-sales-pipelines-misleading"
+  },
+  {
+    "date": "2026-08-26",
+    "title": "How Honda pit AI agents against each other to cut development times",
+    "summary": "How Honda pit AI agents against each other to cut development times",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/how-honda-pit-ai-agents-against-each-other-to-cut-development-times"
+  },
+  {
+    "date": "2026-08-26",
+    "title": "US robot curbs lay bare industry's dependence on Chinese parts",
+    "summary": "US robot curbs lay bare industry's dependence on Chinese parts",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/us-robot-curbs-lay-bare-industry-s-dependence-on-chinese-parts"
+  },
+  {
     "date": "2026-08-25",
     "title": "Samsung Foundry sees higher 4nm volumes as Nvidia ramps Groq 3",
     "summary": "Nvidia's Groq 3 ramp is adding meaningful 4nm volume to Samsung Electronics' foundry business, with monthly wafer input estimated at about 10,000 and expected to rise above 15,000 in 2027. The increase comes as reported yields improve, Samsung's 4nm capacity remains tight, and pricing on the node moves higher.",
