@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-27T08:02:11+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 27, 2026</title><link href="https://asiatechfeed.com/2026/08/27/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 27, 2026" /><published>2026-08-27T08:00:49+00:00</published><updated>2026-08-27T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/08/27/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/27/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-27T08:52:31+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 27, 2026</title><link href="https://asiatechfeed.com/2026/08/27/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 27, 2026" /><published>2026-08-27T08:51:29+00:00</published><updated>2026-08-27T08:51:29+00:00</updated><id>https://asiatechfeed.com/2026/08/27/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/27/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,110 +12,94 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">SemiEng</span></td>
-  <td class="col-title"><span class="article-title">Issues Stack Up With More HBM Layers</span></td>
-  <td class="col-summary">Hot Chips 2026: Thinner dies, more TSV area, thermal dissipation, and limited manufacturing capacity make HBM scaling much more difficult. The post Issues Stack Up With More HBM Layers appeared first on Semiconductor Engineering .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://semiengineering.com/issues-stack-up-with-more-hbm-layers/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">SK Telecom plans AI data center spin-off with $2.2b</span></td>
+  <td class="col-summary">SK Telecom will retain a 51% stake in SK Horizon, while KKR and the IMM consortium will hold 29% and 20%, respectively.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-telecoms-ai-data-center-revenue-jumps-89" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">The 50 top-funded AI startups in Asia</span></td>
-  <td class="col-summary">Here are the AI companies in Asia that have attracted tons of investors and have the resources to spend on software, talent, and expansion.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/the-50-top-funded-ai-startups-in-asia" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">China’s robots are leaving the exhibition floor. Now comes the hard part</span></td>
+  <td class="col-summary">From factories to homes, Chinese companies are pushing robots into the real world. But turning increasingly capable machines into viable businesses remains a major test for the industry.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/china-robots-exhibitions-real-world-viable-business-6344666" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TI's multiaxial sensor exposes the next EV inverter race: precision catches up with power density</span></td>
-  <td class="col-summary">As EV traction inverters increasingly migrate toward 800V architectures, demand for further technological upgrades designed to improve current-sensing performance has pushed the automotive supply chain into a challenging trade-off between precision and lightweight design.</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260826VL226/inverter-sensor-texas-instruments-performance-demand.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Inside Cloudflare’s fix for AI’s data problem</span></td>
+  <td class="col-summary">Cloudflare strategy manager Justin Joyce explains why AI agents fail without structured data, and how treating knowledge as a product fixes it.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/inside-cloudflares-fix-for-ais-data-problem" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Nvidia Vera Rubin drives 800VDC, lifts BBU demand</span></td>
-  <td class="col-summary">Nvidia's GPU roadmap is pushing 800VDC into the spotlight as a key next-generation breakthrough, with battery backup modules (BBUs) set to gain in both quality and volume as high-density AI factories shift toward the new power architecture.</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Huawei plans for more AI pharma tie-ups, says healthcare president</span></td>
+  <td class="col-summary">Huawei plans for more AI pharma tie-ups, says healthcare president</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260827PD222/nvidia-rubin-gpu-demand-roadmap.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/huawei-plans-more-ai-pharma-tie-ups-says-healthcare-president-6344796" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Grand Pacific Petrochemical teams up with Japan's AWI to enter Taiwan's semiconductor specialty materials market</span></td>
-  <td class="col-summary">Taiwanese petrochemical maker Grand Pacific Petrochemical (GPPC) announced it has joined Japanese industrial gas manufacturer Air Water (AWI) in a capital increase for semiconductor specialty gas producer Hong-Kuang Hi-Tech (HK Hi-Tech). The move marks their entry into Taiwan's semiconductor specialty materials market </td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260826PD249/materials-taiwan-market-industrial-partnership.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Nvidia rises after signaling longer AI spending runway</span></td>
+  <td class="col-summary">Nvidia rises after signaling longer AI spending runway</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/nvidia-rises-after-signaling-longer-ai-spending-runway-6344771" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">From Benchmarks to Behavior: Rethinking Performance in Autonomous Robotics</span></td>
-  <td class="col-summary">The OpenNav Robotics Workload Benchmark tests autonomous robots running full perception, planning, control, and a 31B VLM simultaneously. AMD Ryzen AI Embedded X100 Series outperforms NVIDIA Jetson T5000 with 3.4x fewer missed control-loop deadlines, 1.6x more spare compute, and 2.7x better CPU utilization—plus 10-year</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddedblog-from-benchmarks-to-behavior-rethinking-performance-in-autonomous-robotics/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Commentary: YMTC's high-profile IPO masks three long-term hurdles</span></td>
+  <td class="col-summary">Yangtze Memory Technologies (YMTC) has officially kicked off its STAR Market IPO process. In the first quarter of 2026, China's largest 3D NAND Flash manufacturer delivered an impressive performance, generating CNY47.042 billion (approx. US$7 billion) in revenue and CNY33.379 billion (approx. US$5 billion) in net profi</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260827PD225/ymtc-ipo-nand-market-profit.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Singapore retailers retrain workers as social commerce reshapes jobs</span></td>
-  <td class="col-summary">Demand is growing for roles such as livestream hosts and social commerce leads, while some retailers are turning to artificial intelligence to make livestream selling more efficient.</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Ford adopts Apple Maps data for next-gen smart driving</span></td>
+  <td class="col-summary">Ford Motor Company has announced that it will be adopting Apple's MapKit for Automotive software development kit (SDK) for its own universal EV platform, and feed Apple Maps data to its Latitude AI team, which is working on its next-gen BlueCruise advanced driver assistance system (ADAS). The move reflects a broader wi</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/retailers-retrain-workers-social-commerce-livestream-6344406" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260827PD229/apple-ford-software-adas-data-development.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">From CUDA® to AMD ROCm™ Software Without Starting Over</span></td>
-  <td class="col-summary">Port CUDA to HIP with HIPIFY and break free from GPU-vendor lock-in. AMD's HIPIFY preserves ~81% of CUDA code automatically; on Ryzen AI Embedded X100/P100, portable HIP runs on a unified-memory APU with Zen 5 + RDNA 3.5 + XDNA 2 NPU—no discrete GPU, no PCIe data copies, smaller footprint, lower latency. Keep your soft</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddedblog-from-cuda-to-amd-rocm-software-without-starting-over/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Synopsys lifts 3QFY26 sales, raises full-year outlook</span></td>
+  <td class="col-summary">Synopsys, a leading electronic design automation (EDA) company, reported stronger-than-expected fiscal third-quarter results for the 2026 fiscal year (3QFY26) as the AI boom drove higher spending on chips and infrastructure. The company said revenue rose 42.4% year-over-year to US$2.48 billion, topping market expectati</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260827PD223/synopsys-eda-design-revenue-sales.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
   <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">IBM Develops Dual-Architecture Processor to Bring Arm Compute to Z Systems</span></td>
-  <td class="col-summary">IBM's new 2nm processor combines native Arm and IBM Z execution with enterprise security, reliability and AI acceleration. The post IBM Develops Dual-Architecture Processor to Bring Arm Compute to Z Systems appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ibm-develops-dual-architecture-processor-to-bring-arm-compute-to-z-systems/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Apple Moves to 2nm with M6, Quad-Die M5 Ultra for AI and Pro Workloads</span></td>
+  <td class="col-summary">Apple's new M6 and M5 Ultra chips boost CPU, GPU, memory bandwidth and on-device AI across desktop workloads. The post Apple Moves to 2nm with M6, Quad-Die M5 Ultra for AI and Pro Workloads appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/apple-moves-to-2nm-with-m6-quad-die-m5-ultra-for-ai-and-pro-workloads/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Indonesian AI startup goes global</span></td>
-  <td class="col-summary">Meeting.ai learned that building global AI isn't just about the model. It means getting compute, capacity, and connectivity right.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/indonesian-ai-startup-global" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Uniform x86 Cores for Real-Time AI: Reducing the Hybrid-Core Tax in Physical AI Systems</span></td>
+  <td class="col-summary">Why hybrid x86 cores miss robotics deadlines: timing drift from P/E core mixing, unequal AVX width, and CPU-GPU copies. AMD Ryzen AI Embedded X100 answers with 16 uniform Zen 5 cores, full AVX-512, unified CPU/GPU/NPU memory, 2.1x CoreMark vs Core Ultra S3, and 10-yr industrial lifecycle—purpose-built for consistent re</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddedblog-uniform-x86-cores-for-real-time-ai-reducing-the-hybrid-core-tax-in-physical-ai-systems/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">11</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Kioxia, SanDisk plan Japan NAND fab for AI demand: sources</span></td>
-  <td class="col-summary">Kioxia’s latest BiCS generation includes a 332-layer 3D NAND device.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/japanese-chipmaker-kioxia-forecasts-82b-profit" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">India pushes semiconductor drive as experts warn of latecomer risks</span></td>
-  <td class="col-summary">India pushes semiconductor drive as experts warn of latecomer risks</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/india-pushes-semiconductor-drive-as-experts-warn-of-latecomer-risks" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">13</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Powertech eyes world's first panel-level packaging for AI chips in 2027</span></td>
-  <td class="col-summary">Powertech eyes world's first panel-level packaging for AI chips in 2027</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/powertech-eyes-world-s-first-panel-level-packaging-for-ai-chips-in-2027" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">AWS, Nvidia to deploy 2 million GPUs in AI infrastructure</span></td>
+  <td class="col-summary">The company will deploy 2 million additional Nvidia graphics processing units (GPUs) across AWS’s global infrastructure in 2027 and 2028.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-openai-ohio-data-center-15b" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 SemiEng Issues Stack Up With More HBM Layers Hot Chips 2026: Thinner dies, more TSV area, thermal dissipation, and limited manufacturing capacity make HBM scaling much more difficult. The post Issues Stack Up With More HBM Layers appeared first on Semiconductor Engineering . Semiconductor Read 2 TechAsia The 50 top-funded AI startups in Asia Here are the AI companies in Asia that have attracted tons of investors and have the resources to spend on software, talent, and expansion. AI Read 3 DigiTimes TI's multiaxial sensor exposes the next EV inverter race: precision catches up with power density As EV traction inverters increasingly migrate toward 800V architectures, demand for further technological upgrades designed to improve current-sensing performance has pushed the automotive supply chain into a challenging trade-off between precision and lightweight design. Logistics Read 4 DigiTimes Nvidia Vera Rubin drives 800VDC, lifts BBU demand Nvidia's GPU roadmap is pushing 800VDC into the spotlight as a key next-generation breakthrough, with battery backup modules (BBUs) set to gain in both quality and volume as high-density AI factories shift toward the new power architecture. AI Read 5 DigiTimes Grand Pacific Petrochemical teams up with Japan's AWI to enter Taiwan's semiconductor specialty materials market Taiwanese petrochemical maker Grand Pacific Petrochemical (GPPC) announced it has joined Japanese industrial gas manufacturer Air Water (AWI) in a capital increase for semiconductor specialty gas producer Hong-Kuang Hi-Tech (HK Hi-Tech). The move marks their entry into Taiwan's semiconductor specialty materials market Semiconductor Read 6 EETAsia From Benchmarks to Behavior: Rethinking Performance in Autonomous Robotics The OpenNav Robotics Workload Benchmark tests autonomous robots running full perception, planning, control, and a 31B VLM simultaneously. AMD Ryzen AI Embedded X100 Series outperforms NVIDIA Jetson T5000 with 3.4x fewer missed control-loop deadlines, 1.6x more spare compute, and 2.7x better CPU utilization—plus 10-year AIAutomation Read 7 CNA Singapore retailers retrain workers as social commerce reshapes jobs Demand is growing for roles such as livestream hosts and social commerce leads, while some retailers are turning to artificial intelligence to make livestream selling more efficient. AI Read 8 EETAsia From CUDA® to AMD ROCm™ Software Without Starting Over Port CUDA to HIP with HIPIFY and break free from GPU-vendor lock-in. AMD's HIPIFY preserves ~81% of CUDA code automatically; on Ryzen AI Embedded X100/P100, portable HIP runs on a unified-memory APU with Zen 5 + RDNA 3.5 + XDNA 2 NPU—no discrete GPU, no PCIe data copies, smaller footprint, lower latency. Keep your soft AI Read 9 EETAsia IBM Develops Dual-Architecture Processor to Bring Arm Compute to Z Systems IBM's new 2nm processor combines native Arm and IBM Z execution with enterprise security, reliability and AI acceleration. The post IBM Develops Dual-Architecture Processor to Bring Arm Compute to Z Systems appeared first on EE Times Asia . AI Read 10 TechAsia Indonesian AI startup goes global Meeting.ai learned that building global AI isn't just about the model. It means getting compute, capacity, and connectivity right. AI Read 11 TechAsia Kioxia, SanDisk plan Japan NAND fab for AI demand: sources Kioxia’s latest BiCS generation includes a 332-layer 3D NAND device. AISemiconductor Read 12 NikkeiAsia India pushes semiconductor drive as experts warn of latecomer risks India pushes semiconductor drive as experts warn of latecomer risks Semiconductor Read 13 NikkeiAsia Powertech eyes world's first panel-level packaging for AI chips in 2027 Powertech eyes world's first panel-level packaging for AI chips in 2027 AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 26, 2026</title><link href="https://asiatechfeed.com/2026/08/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 26, 2026" /><published>2026-08-26T08:00:49+00:00</published><updated>2026-08-26T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/08/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia SK Telecom plans AI data center spin-off with $2.2b SK Telecom will retain a 51% stake in SK Horizon, while KKR and the IMM consortium will hold 29% and 20%, respectively. AI Read 2 CNA China’s robots are leaving the exhibition floor. Now comes the hard part From factories to homes, Chinese companies are pushing robots into the real world. But turning increasingly capable machines into viable businesses remains a major test for the industry. Automation Read 3 TechAsia Inside Cloudflare’s fix for AI’s data problem Cloudflare strategy manager Justin Joyce explains why AI agents fail without structured data, and how treating knowledge as a product fixes it. AI Read 4 CNA Huawei plans for more AI pharma tie-ups, says healthcare president Huawei plans for more AI pharma tie-ups, says healthcare president AI Read 5 CNA Nvidia rises after signaling longer AI spending runway Nvidia rises after signaling longer AI spending runway AI Read 6 DigiTimes Commentary: YMTC's high-profile IPO masks three long-term hurdles Yangtze Memory Technologies (YMTC) has officially kicked off its STAR Market IPO process. In the first quarter of 2026, China's largest 3D NAND Flash manufacturer delivered an impressive performance, generating CNY47.042 billion (approx. US$7 billion) in revenue and CNY33.379 billion (approx. US$5 billion) in net profi Semiconductor Read 7 DigiTimes Ford adopts Apple Maps data for next-gen smart driving Ford Motor Company has announced that it will be adopting Apple's MapKit for Automotive software development kit (SDK) for its own universal EV platform, and feed Apple Maps data to its Latitude AI team, which is working on its next-gen BlueCruise advanced driver assistance system (ADAS). The move reflects a broader wi AI Read 8 DigiTimes Synopsys lifts 3QFY26 sales, raises full-year outlook Synopsys, a leading electronic design automation (EDA) company, reported stronger-than-expected fiscal third-quarter results for the 2026 fiscal year (3QFY26) as the AI boom drove higher spending on chips and infrastructure. The company said revenue rose 42.4% year-over-year to US$2.48 billion, topping market expectati AIAutomationSemiconductor Read 9 EETAsia Apple Moves to 2nm with M6, Quad-Die M5 Ultra for AI and Pro Workloads Apple's new M6 and M5 Ultra chips boost CPU, GPU, memory bandwidth and on-device AI across desktop workloads. The post Apple Moves to 2nm with M6, Quad-Die M5 Ultra for AI and Pro Workloads appeared first on EE Times Asia . AISemiconductor Read 10 EETAsia Uniform x86 Cores for Real-Time AI: Reducing the Hybrid-Core Tax in Physical AI Systems Why hybrid x86 cores miss robotics deadlines: timing drift from P/E core mixing, unequal AVX width, and CPU-GPU copies. AMD Ryzen AI Embedded X100 answers with 16 uniform Zen 5 cores, full AVX-512, unified CPU/GPU/NPU memory, 2.1x CoreMark vs Core Ultra S3, and 10-yr industrial lifecycle—purpose-built for consistent re AIAutomation Read 11 TechAsia AWS, Nvidia to deploy 2 million GPUs in AI infrastructure The company will deploy 2 million additional Nvidia graphics processing units (GPUs) across AWS’s global infrastructure in 2027 and 2028. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 26, 2026</title><link href="https://asiatechfeed.com/2026/08/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 26, 2026" /><published>2026-08-26T08:00:49+00:00</published><updated>2026-08-26T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/08/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
