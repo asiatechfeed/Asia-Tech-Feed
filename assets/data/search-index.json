@@ -1,149 +1,149 @@
 [
   {
     "date": "2026-08-27",
-    "title": "Commentary: China is betting on spreading AI faster than the US can contain it",
-    "summary": "China is showing it can pursue frontier AI while deploying it widely in the real world. For Asia, that may matter more than who has the smartest new model, says Enodo Economics’ Diana Choyleva.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/commentary/china-ai-us-race-chips-kimi-qwen-6342296"
-  },
-  {
-    "date": "2026-08-27",
-    "title": "Nvidia stock jumps after early dip following results; AI fever is unabated",
-    "summary": "Nvidia stock jumps after early dip following results; AI fever is unabated",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/nvidia-stock-jumps-after-early-dip-following-results-ai-fever-unabated-6343696"
-  },
-  {
-    "date": "2026-08-27",
-    "title": "Synopsys raises annual forecasts on AI-driven chip design software demand",
-    "summary": "Synopsys raises annual forecasts on AI-driven chip design software demand",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "Issues Stack Up With More HBM Layers",
+    "summary": "Hot Chips 2026: Thinner dies, more TSV area, thermal dissipation, and limited manufacturing capacity make HBM scaling much more difficult. The post Issues Stack Up With More HBM Layers appeared first on Semiconductor Engineering .",
+    "source": "Semiconductor Engineering",
+    "short": "SemiEng",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.channelnewsasia.com/business/synopsys-raises-annual-forecasts-ai-driven-chip-design-software-demand-6343656"
+    "url": "https://semiengineering.com/issues-stack-up-with-more-hbm-layers/"
   },
   {
     "date": "2026-08-27",
-    "title": "From Pixels to Predictions: Edge AI Pipeline Acceleration with GStreamer for AMD Vitis™ AI",
-    "summary": "Learn to deploy PyTorch models to the Versal AI Edge Gen 2 NPU using Vitis AI (Quark quantization, Vitis AI Compiler, ONNX Runtime EP / VART) and orchestrate real-time video analytics with VVAS GStreamer plugins—complete YOLOX object detection pipeline in one gst-launch command, with mixed-precision, zero-copy, and spa",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "The 50 top-funded AI startups in Asia",
+    "summary": "Here are the AI companies in Asia that have attracted tons of investors and have the resources to spend on software, talent, and expansion.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.eetasia.com/embeddedblog-from-pixels-to-predictions-edge-ai-pipeline-acceleration-with-gstreamer-for-amd-vitis-ai/"
+    "url": "https://www.techinasia.com/the-50-top-funded-ai-startups-in-asia"
   },
   {
     "date": "2026-08-27",
-    "title": "AMD Packs More Memory Capacity, Performance in a Smaller Design with Versal Premium Gen 2 Memory on Package",
-    "summary": "AMD Versal Premium Gen 2 MoP packs up to 32GB LPDDR5X in-package for 288GB/s bandwidth and 60% smaller footprint, with CXL 3.1/PCIe 6.0, -40–110°C operation, 15-yr lifecycle, and pre-validated memory to accelerate VPX defense, test & measurement, and physical AI edge designs. The post AMD Packs More Memory Capacity, Pe",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/embeddedblog-amd-packs-more-memory-capacity-performance-in-a-smaller-design-with-versal-premium-gen-2-memory-on-package/"
-  },
-  {
-    "date": "2026-08-27",
-    "title": "Record mid-2026 growth for WUS Printed Circuit and China's pivot to ultra-high-layer PCBs",
-    "summary": "The global hardware supply chain is undergoing a structural transformation, driven by an unprecedented surge in artificial intelligence infrastructure investment. \"This shift has brought unprecedented market opportunities to the industry,\" noted WUS Printed Circuit (Kunshan). The major supplier of high-end printed circ",
+    "title": "TI's multiaxial sensor exposes the next EV inverter race: precision catches up with power density",
+    "summary": "As EV traction inverters increasingly migrate toward 800V architectures, demand for further technological upgrades designed to improve current-sensing performance has pushed the automotive supply chain into a challenging trade-off between precision and lightweight design.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI",
-      "Electronics",
       "Logistics"
     ],
-    "url": "https://www.digitimes.com/news/a20260826VL219/growth-wus-hardware-supply-chain-pcb.html"
+    "url": "https://www.digitimes.com/news/a20260826VL226/inverter-sensor-texas-instruments-performance-demand.html"
   },
   {
     "date": "2026-08-27",
-    "title": "Moonshot AI explores K3 deals with Microsoft, Amazon, Google",
-    "summary": "Moonshot is seeking up to a 30% share of revenue from K3 services.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/chinas-moonshot-ai-plans-openweight-k3"
-  },
-  {
-    "date": "2026-08-27",
-    "title": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation",
-    "summary": "Morgan Stanley said TSMC's advanced packaging allocation is expected to shift in 2027, as processor demand tied to agentic AI lifts AMD's CoWoS usage and reduces Nvidia's share. The report, cited by Wccftech , attributed the shift to TSMC's rising capacity amid expanding industry-wide demand.",
+    "title": "Nvidia Vera Rubin drives 800VDC, lifts BBU demand",
+    "summary": "Nvidia's GPU roadmap is pushing 800VDC into the spotlight as a key next-generation breakthrough, with battery backup modules (BBUs) set to gain in both quality and volume as high-density AI factories shift toward the new power architecture.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260826PD243/amd-cowos-tsmc-nvidia-demand.html"
+    "url": "https://www.digitimes.com/news/a20260827PD222/nvidia-rubin-gpu-demand-roadmap.html"
   },
   {
     "date": "2026-08-27",
-    "title": "Robotics founder: Error recovery is the true test of an AI",
-    "summary": "Physical Intelligence's Sergey Levine explains why flawless robot demo videos hide the real signals of progress, and why messy, repeated trials matter more.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Grand Pacific Petrochemical teams up with Japan's AWI to enter Taiwan's semiconductor specialty materials market",
+    "summary": "Taiwanese petrochemical maker Grand Pacific Petrochemical (GPPC) announced it has joined Japanese industrial gas manufacturer Air Water (AWI) in a capital increase for semiconductor specialty gas producer Hong-Kuang Hi-Tech (HK Hi-Tech). The move marks their entry into Taiwan's semiconductor specialty materials market ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260826PD249/materials-taiwan-market-industrial-partnership.html"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "From Benchmarks to Behavior: Rethinking Performance in Autonomous Robotics",
+    "summary": "The OpenNav Robotics Workload Benchmark tests autonomous robots running full perception, planning, control, and a 31B VLM simultaneously. AMD Ryzen AI Embedded X100 Series outperforms NVIDIA Jetson T5000 with 3.4x fewer missed control-loop deadlines, 1.6x more spare compute, and 2.7x better CPU utilization—plus 10-year",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
       "AI",
       "Automation"
     ],
-    "url": "https://www.techinasia.com/perfect-robot-demo-videos-are-hiding-the-truth"
+    "url": "https://www.eetasia.com/embeddedblog-from-benchmarks-to-behavior-rethinking-performance-in-autonomous-robotics/"
   },
   {
     "date": "2026-08-27",
-    "title": "Malaysia mobility sector embraces Chinese firms as investment catalyst",
-    "summary": "Malaysia's mobility industry is welcoming a larger role for Chinese automakers, with investment, technology exchange and supplier development emerging as key themes at GATE 2026. Malaysia Automotive, Robotics and IoT Institute (MARii) chairman Aminar Rashid bin Salleh said the growing presence of Chinese car brands is ",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Singapore retailers retrain workers as social commerce reshapes jobs",
+    "summary": "Demand is growing for roles such as livestream hosts and social commerce leads, while some retailers are turning to artificial intelligence to make livestream selling more efficient.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
-      "Automation"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260826PD232/investment-technology-automakers-development-2026.html"
+    "url": "https://www.channelnewsasia.com/singapore/retailers-retrain-workers-social-commerce-livestream-6344406"
   },
   {
     "date": "2026-08-27",
-    "title": "AI Leaders Breakfast: Closing the Enterprise AI Gap",
-    "summary": "AI Leaders Breakfast: Closing the Enterprise AI Gap",
+    "title": "From CUDA® to AMD ROCm™ Software Without Starting Over",
+    "summary": "Port CUDA to HIP with HIPIFY and break free from GPU-vendor lock-in. AMD's HIPIFY preserves ~81% of CUDA code automatically; on Ryzen AI Embedded X100/P100, portable HIP runs on a unified-memory APU with Zen 5 + RDNA 3.5 + XDNA 2 NPU—no discrete GPU, no PCIe data copies, smaller footprint, lower latency. Keep your soft",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/embeddedblog-from-cuda-to-amd-rocm-software-without-starting-over/"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "IBM Develops Dual-Architecture Processor to Bring Arm Compute to Z Systems",
+    "summary": "IBM's new 2nm processor combines native Arm and IBM Z execution with enterprise security, reliability and AI acceleration. The post IBM Develops Dual-Architecture Processor to Bring Arm Compute to Z Systems appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/ibm-develops-dual-architecture-processor-to-bring-arm-compute-to-z-systems/"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "Indonesian AI startup goes global",
+    "summary": "Meeting.ai learned that building global AI isn't just about the model. It means getting compute, capacity, and connectivity right.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/events/ai-leaders-breakfast-closing-enterprise-ai-gap"
+    "url": "https://www.techinasia.com/indonesian-ai-startup-global"
   },
   {
     "date": "2026-08-27",
-    "title": "Japan pushes banks to broaden cybersecurity oversight as AI risks grow",
-    "summary": "Japan pushes banks to broaden cybersecurity oversight as AI risks grow",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "Kioxia, SanDisk plan Japan NAND fab for AI demand: sources",
+    "summary": "Kioxia’s latest BiCS generation includes a 332-layer 3D NAND device.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "AI"
+      "AI",
+      "Semiconductor"
     ],
-    "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-pushes-banks-to-broaden-cybersecurity-oversight-as-ai-risks-grow"
+    "url": "https://www.techinasia.com/japanese-chipmaker-kioxia-forecasts-82b-profit"
   },
   {
     "date": "2026-08-27",
-    "title": "Komatsu to triple size of US maintenance hub amid AI copper rush",
-    "summary": "Komatsu to triple size of US maintenance hub amid AI copper rush",
+    "title": "India pushes semiconductor drive as experts warn of latecomer risks",
+    "summary": "India pushes semiconductor drive as experts warn of latecomer risks",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "AI"
+      "Semiconductor"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/komatsu-to-triple-size-of-us-maintenance-hub-amid-ai-copper-rush"
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/india-pushes-semiconductor-drive-as-experts-warn-of-latecomer-risks"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "Powertech eyes world's first panel-level packaging for AI chips in 2027",
+    "summary": "Powertech eyes world's first panel-level packaging for AI chips in 2027",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/powertech-eyes-world-s-first-panel-level-packaging-for-ai-chips-in-2027"
   },
   {
     "date": "2026-08-26",
