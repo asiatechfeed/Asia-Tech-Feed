@@ -1,4 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-26T08:01:38+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 26, 2026</title><link href="https://asiatechfeed.com/2026/08/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 26, 2026" /><published>2026-08-26T08:00:49+00:00</published><updated>2026-08-26T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/08/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-27T00:03:13+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 27, 2026</title><link href="https://asiatechfeed.com/2026/08/27/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 27, 2026" /><published>2026-08-27T00:02:10+00:00</published><updated>2026-08-27T00:02:10+00:00</updated><id>https://asiatechfeed.com/2026/08/27/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/27/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: China is betting on spreading AI faster than the US can contain it</span></td>
+  <td class="col-summary">China is showing it can pursue frontier AI while deploying it widely in the real world. For Asia, that may matter more than who has the smartest new model, says Enodo Economics’ Diana Choyleva.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/china-ai-us-race-chips-kimi-qwen-6342296" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Nvidia stock jumps after early dip following results; AI fever is unabated</span></td>
+  <td class="col-summary">Nvidia stock jumps after early dip following results; AI fever is unabated</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/nvidia-stock-jumps-after-early-dip-following-results-ai-fever-unabated-6343696" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Synopsys raises annual forecasts on AI-driven chip design software demand</span></td>
+  <td class="col-summary">Synopsys raises annual forecasts on AI-driven chip design software demand</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/synopsys-raises-annual-forecasts-ai-driven-chip-design-software-demand-6343656" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">From Pixels to Predictions: Edge AI Pipeline Acceleration with GStreamer for AMD Vitis™ AI</span></td>
+  <td class="col-summary">Learn to deploy PyTorch models to the Versal AI Edge Gen 2 NPU using Vitis AI (Quark quantization, Vitis AI Compiler, ONNX Runtime EP / VART) and orchestrate real-time video analytics with VVAS GStreamer plugins—complete YOLOX object detection pipeline in one gst-launch command, with mixed-precision, zero-copy, and spa</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddedblog-from-pixels-to-predictions-edge-ai-pipeline-acceleration-with-gstreamer-for-amd-vitis-ai/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">AMD Packs More Memory Capacity, Performance in a Smaller Design with Versal Premium Gen 2 Memory on Package</span></td>
+  <td class="col-summary">AMD Versal Premium Gen 2 MoP packs up to 32GB LPDDR5X in-package for 288GB/s bandwidth and 60% smaller footprint, with CXL 3.1/PCIe 6.0, -40–110°C operation, 15-yr lifecycle, and pre-validated memory to accelerate VPX defense, test &amp; measurement, and physical AI edge designs. The post AMD Packs More Memory Capacity, Pe</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddedblog-amd-packs-more-memory-capacity-performance-in-a-smaller-design-with-versal-premium-gen-2-memory-on-package/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Record mid-2026 growth for WUS Printed Circuit and China's pivot to ultra-high-layer PCBs</span></td>
+  <td class="col-summary">The global hardware supply chain is undergoing a structural transformation, driven by an unprecedented surge in artificial intelligence infrastructure investment. "This shift has brought unprecedented market opportunities to the industry," noted WUS Printed Circuit (Kunshan). The major supplier of high-end printed circ</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Electronics</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260826VL219/growth-wus-hardware-supply-chain-pcb.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Moonshot AI explores K3 deals with Microsoft, Amazon, Google</span></td>
+  <td class="col-summary">Moonshot is seeking up to a 30% share of revenue from K3 services.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-moonshot-ai-plans-openweight-k3" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation</span></td>
+  <td class="col-summary">Morgan Stanley said TSMC's advanced packaging allocation is expected to shift in 2027, as processor demand tied to agentic AI lifts AMD's CoWoS usage and reduces Nvidia's share. The report, cited by Wccftech , attributed the shift to TSMC's rising capacity amid expanding industry-wide demand.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260826PD243/amd-cowos-tsmc-nvidia-demand.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Robotics founder: Error recovery is the true test of an AI</span></td>
+  <td class="col-summary">Physical Intelligence's Sergey Levine explains why flawless robot demo videos hide the real signals of progress, and why messy, repeated trials matter more.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/perfect-robot-demo-videos-are-hiding-the-truth" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Malaysia mobility sector embraces Chinese firms as investment catalyst</span></td>
+  <td class="col-summary">Malaysia's mobility industry is welcoming a larger role for Chinese automakers, with investment, technology exchange and supplier development emerging as key themes at GATE 2026. Malaysia Automotive, Robotics and IoT Institute (MARii) chairman Aminar Rashid bin Salleh said the growing presence of Chinese car brands is </td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260826PD232/investment-technology-automakers-development-2026.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">AI Leaders Breakfast: Closing the Enterprise AI Gap</span></td>
+  <td class="col-summary">AI Leaders Breakfast: Closing the Enterprise AI Gap</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/events/ai-leaders-breakfast-closing-enterprise-ai-gap" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan pushes banks to broaden cybersecurity oversight as AI risks grow</span></td>
+  <td class="col-summary">Japan pushes banks to broaden cybersecurity oversight as AI risks grow</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/cybersecurity/japan-pushes-banks-to-broaden-cybersecurity-oversight-as-ai-risks-grow" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">13</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Komatsu to triple size of US maintenance hub amid AI copper rush</span></td>
+  <td class="col-summary">Komatsu to triple size of US maintenance hub amid AI copper rush</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/komatsu-to-triple-size-of-us-maintenance-hub-amid-ai-copper-rush" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Commentary: China is betting on spreading AI faster than the US can contain it China is showing it can pursue frontier AI while deploying it widely in the real world. For Asia, that may matter more than who has the smartest new model, says Enodo Economics’ Diana Choyleva. AI Read 2 CNA Nvidia stock jumps after early dip following results; AI fever is unabated Nvidia stock jumps after early dip following results; AI fever is unabated AI Read 3 CNA Synopsys raises annual forecasts on AI-driven chip design software demand Synopsys raises annual forecasts on AI-driven chip design software demand Semiconductor Read 4 EETAsia From Pixels to Predictions: Edge AI Pipeline Acceleration with GStreamer for AMD Vitis™ AI Learn to deploy PyTorch models to the Versal AI Edge Gen 2 NPU using Vitis AI (Quark quantization, Vitis AI Compiler, ONNX Runtime EP / VART) and orchestrate real-time video analytics with VVAS GStreamer plugins—complete YOLOX object detection pipeline in one gst-launch command, with mixed-precision, zero-copy, and spa AI Read 5 EETAsia AMD Packs More Memory Capacity, Performance in a Smaller Design with Versal Premium Gen 2 Memory on Package AMD Versal Premium Gen 2 MoP packs up to 32GB LPDDR5X in-package for 288GB/s bandwidth and 60% smaller footprint, with CXL 3.1/PCIe 6.0, -40–110°C operation, 15-yr lifecycle, and pre-validated memory to accelerate VPX defense, test &amp; measurement, and physical AI edge designs. The post AMD Packs More Memory Capacity, Pe AI Read 6 DigiTimes Record mid-2026 growth for WUS Printed Circuit and China's pivot to ultra-high-layer PCBs The global hardware supply chain is undergoing a structural transformation, driven by an unprecedented surge in artificial intelligence infrastructure investment. "This shift has brought unprecedented market opportunities to the industry," noted WUS Printed Circuit (Kunshan). The major supplier of high-end printed circ AIElectronicsLogistics Read 7 TechAsia Moonshot AI explores K3 deals with Microsoft, Amazon, Google Moonshot is seeking up to a 30% share of revenue from K3 services. AI Read 8 DigiTimes TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation Morgan Stanley said TSMC's advanced packaging allocation is expected to shift in 2027, as processor demand tied to agentic AI lifts AMD's CoWoS usage and reduces Nvidia's share. The report, cited by Wccftech , attributed the shift to TSMC's rising capacity amid expanding industry-wide demand. AI Read 9 TechAsia Robotics founder: Error recovery is the true test of an AI Physical Intelligence's Sergey Levine explains why flawless robot demo videos hide the real signals of progress, and why messy, repeated trials matter more. AIAutomation Read 10 DigiTimes Malaysia mobility sector embraces Chinese firms as investment catalyst Malaysia's mobility industry is welcoming a larger role for Chinese automakers, with investment, technology exchange and supplier development emerging as key themes at GATE 2026. Malaysia Automotive, Robotics and IoT Institute (MARii) chairman Aminar Rashid bin Salleh said the growing presence of Chinese car brands is Automation Read 11 TechAsia AI Leaders Breakfast: Closing the Enterprise AI Gap AI Leaders Breakfast: Closing the Enterprise AI Gap AI Read 12 NikkeiAsia Japan pushes banks to broaden cybersecurity oversight as AI risks grow Japan pushes banks to broaden cybersecurity oversight as AI risks grow AI Read 13 NikkeiAsia Komatsu to triple size of US maintenance hub amid AI copper rush Komatsu to triple size of US maintenance hub amid AI copper rush AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 26, 2026</title><link href="https://asiatechfeed.com/2026/08/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 26, 2026" /><published>2026-08-26T08:00:49+00:00</published><updated>2026-08-26T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/08/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -707,113 +824,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/retail/designer-denim-and-ai-concierges-japan-s-konbini-put-a-new-face-forward" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Why AI is making old programming languages stronger TypeScript creator Anders Hejlsberg explains why AI tools favor established programming languages, and how deterministic testing keeps AI code reliable. AI Read 2 DigiTimes Samsung deepens humanoid push with new robotics lab Samsung Electronics has begun operating a dedicated physical AI research lab focused on humanoid control and manipulation, according to South Korean news outlet Edaily . The move extends its robotics push from hardware investment into the AI and control technologies needed for robots to operate in real-world environmen ElectronicsAIAutomation Read 3 TechAsia How Uber uses 200 million users to survive the AI era Andrew Macdonald discusses the risks from self-driving fleets, AI ride-hailing agents, and rising compute costs inside Uber. AI Read 4 DigiTimes South Korea's NPS backs AI optical link amid US scrutiny South Korea's National Pension Service (NPS) has drawn fresh attention after joining a cornerstone investment in the Hong Kong IPO of Chinese optical communications maker Zhongji Innolight. The investment came at a time when the company had already been placed on the US Department of Defense's list of Chinese Military AISemiconductor Read 5 DigiTimes Analysis: China's AI chip ambitions collide with Ajinomoto's 95% grip on ABF film China's semiconductor self-reliance campaign is moving beyond lithography machines and advanced processors into less visible materials that can be just as difficult to replace. Ajinomoto Build-up Film, or ABF, has become the latest pressure point. SemiconductorAI Read 6 TechAsia LG Electronics to train humanoid robots with Nvidia software The robots will train in a simulated factory modeled on LG’s Tennessee washing machine plant. ElectronicsAutomation Read 7 EETAsia Silicon Motion SSD Reference Design Kit Targeted at AI Infra The platform enables enterprise SSDs to serve as a persistent memory layer supporting KV cache offload and autonomous AI agents. The post Silicon Motion SSD Reference Design Kit Targeted at AI Infra appeared first on EE Times Asia . AI Read 8 EETAsia Chiplets Offer a Scalable Compute Strategy for Software-defined Vehicles As automotive compute demands accelerate, chiplet architectures offer scalable performance without sacrificing cost, software reuse, or reliability. The post Chiplets Offer a Scalable Compute Strategy for Software-defined Vehicles appeared first on EE Times Asia . Semiconductor Read 9 NikkeiAsia Designer denim and AI concierges: Japan's konbini put a new face forward Designer denim and AI concierges: Japan's konbini put a new face forward AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 17, 2026</title><link href="https://asiatechfeed.com/2026/08/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 17, 2026" /><published>2026-08-17T08:00:45+00:00</published><updated>2026-08-17T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/08/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Doctors raise alarm over Trump’s push to scale back US childhood vaccinations</span></td>
-  <td class="col-summary">The Trump administration says its overhaul of childhood vaccine recommendations will provide “gold-standard” protection, but doctors warn the changes could increase the risk of preventable diseases.</td>
-  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/doctors-raise-alarm-trump-push-us-childhood-vaccinations-6323361" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">LG-Nvidia physical AI partnership speeds up as robotics chief reportedly heads to South Korea</span></td>
-  <td class="col-summary">Less than a week after LG Group and Nvidia signed a strategic memorandum of understanding (MOU), Madison Huang, Nvidia's senior director of product marketing for Omniverse and robotics, is reportedly preparing to visit South Korea and head directly to one of LG's key robotics R&amp;D sites.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260817PD220/lg-robotics-partnership-robot-development.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">China's Vertilite commits US$741M to InP laser chips for AI optical interconnects</span></td>
-  <td class="col-summary">Chinese optical chipmaker Jiangsu Vertilite Semiconductor Technology is investing CNY5 billion (approx. US$741 million) in a new communications chip and device R&amp;D and manufacturing base in Changzhou, expanding beyond VCSELs into high-end indium phosphide, or InP, laser chips for AI optical interconnects.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260817PD215/inp-laser-chips-communications-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Nvidia closing in on US$100B credit guarantee deal for OpenAI's Ohio data center</span></td>
-  <td class="col-summary">Nvidia is approaching an agreement to provide credit guarantees of around US$100 billion for OpenAI's 10GW data center in Ohio, among the largest AI infrastructure projects ever, according to The Information . This is a significant reduction from earlier plans by Nvidia to guarantee US$250 billion for the project, alth</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260817VL215/nvidia-openai-data-center-infrastructure-chips.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">China’s CXMT tops $500b market value, surpasses Tencent</span></td>
-  <td class="col-summary">Founded in Hefei in 2016, CXMT makes dynamic random-access memory, or DRAM, chips for AI servers, cars, smartphones, and personal computers.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-cxmt-enters-high-end-memory-race-with-samsung-sk-hynix" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">Nvidia books TSMC 1.6nm process for Feynman in H2 2028</span></td>
-  <td class="col-summary">Nvidia is reported to have booked TSMC A16 capacity for Feynman, its post-Rubin architecture GPU. A16 is TSMC’s 1.6nm successor to its 2nm process N2 with GAA transistors and backside […] The post Nvidia books TSMC 1.6nm process for Feynman in H2 2028 appeared first on Electronics Weekly .</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/nvidia-books-tsmc-1-6nm-process-for-feynman-in-h2-2028-2026-08/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Analysis:Big investors hunt for tomorrow's AI winners as capex angst fades</span></td>
-  <td class="col-summary">Analysis:Big investors hunt for tomorrow's AI winners as capex angst fades</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/analysisbig-investors-hunt-tomorrows-ai-winners-capex-angst-fades-6323231" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Compal Electronics to Acquire Semtech Cellular Module Business</span></td>
-  <td class="col-summary">Semtech is selling its cellular module business to Taiwan-based Compal Electronics for $62 million. The post Compal Electronics to Acquire Semtech Cellular Module Business appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/compal-electronics-to-acquire-semtech-cellular-module-business/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Beyond Capital Episode 01 : The Bet</span></td>
-  <td class="col-summary">An inside look on managing runway, measuring AI returns, and why trust is the real currency between founders and the investors backing them.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/video/beyondcapital01" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Unified Memory Emerges as Edge AI’s Next Architectural Imperative</span></td>
-  <td class="col-summary">As AI models and contexts grow, unified memory helps edge systems sustain workloads beyond discrete memory limits. The post Unified Memory Emerges as Edge AI’s Next Architectural Imperative appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/unified-memory-emerges-as-edge-ais-next-architectural-imperative/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">GPUs, bought now and paid later</span></td>
-  <td class="col-summary">Nvidia’s move could reshape Asia’s data center buildout as local chip startups try to break its dominance.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/gpus-bought-paid" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan's Rakuten to partner with German AI defense drone startup</span></td>
-  <td class="col-summary">Japan's Rakuten to partner with German AI defense drone startup</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/aerospace-defense-industries/japan-s-rakuten-to-partner-with-german-ai-defense-drone-startup" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Doctors raise alarm over Trump’s push to scale back US childhood vaccinations The Trump administration says its overhaul of childhood vaccine recommendations will provide “gold-standard” protection, but doctors warn the changes could increase the risk of preventable diseases. Biotechnology Read 2 DigiTimes LG-Nvidia physical AI partnership speeds up as robotics chief reportedly heads to South Korea Less than a week after LG Group and Nvidia signed a strategic memorandum of understanding (MOU), Madison Huang, Nvidia's senior director of product marketing for Omniverse and robotics, is reportedly preparing to visit South Korea and head directly to one of LG's key robotics R&amp;D sites. AIAutomation Read 3 DigiTimes China's Vertilite commits US$741M to InP laser chips for AI optical interconnects Chinese optical chipmaker Jiangsu Vertilite Semiconductor Technology is investing CNY5 billion (approx. US$741 million) in a new communications chip and device R&amp;D and manufacturing base in Changzhou, expanding beyond VCSELs into high-end indium phosphide, or InP, laser chips for AI optical interconnects. SemiconductorAI Read 4 DigiTimes Nvidia closing in on US$100B credit guarantee deal for OpenAI's Ohio data center Nvidia is approaching an agreement to provide credit guarantees of around US$100 billion for OpenAI's 10GW data center in Ohio, among the largest AI infrastructure projects ever, according to The Information . This is a significant reduction from earlier plans by Nvidia to guarantee US$250 billion for the project, alth AI Read 5 TechAsia China’s CXMT tops $500b market value, surpasses Tencent Founded in Hefei in 2016, CXMT makes dynamic random-access memory, or DRAM, chips for AI servers, cars, smartphones, and personal computers. AISemiconductor Read 6 EW Nvidia books TSMC 1.6nm process for Feynman in H2 2028 Nvidia is reported to have booked TSMC A16 capacity for Feynman, its post-Rubin architecture GPU. A16 is TSMC’s 1.6nm successor to its 2nm process N2 with GAA transistors and backside […] The post Nvidia books TSMC 1.6nm process for Feynman in H2 2028 appeared first on Electronics Weekly . Electronics Read 7 CNA Analysis:Big investors hunt for tomorrow's AI winners as capex angst fades Analysis:Big investors hunt for tomorrow's AI winners as capex angst fades AI Read 8 EETAsia Compal Electronics to Acquire Semtech Cellular Module Business Semtech is selling its cellular module business to Taiwan-based Compal Electronics for $62 million. The post Compal Electronics to Acquire Semtech Cellular Module Business appeared first on EE Times Asia . Electronics Read 9 TechAsia Beyond Capital Episode 01 : The Bet An inside look on managing runway, measuring AI returns, and why trust is the real currency between founders and the investors backing them. AI Read 10 EETAsia Unified Memory Emerges as Edge AI’s Next Architectural Imperative As AI models and contexts grow, unified memory helps edge systems sustain workloads beyond discrete memory limits. The post Unified Memory Emerges as Edge AI’s Next Architectural Imperative appeared first on EE Times Asia . AI Read 11 TechAsia GPUs, bought now and paid later Nvidia’s move could reshape Asia’s data center buildout as local chip startups try to break its dominance. Semiconductor Read 12 NikkeiAsia Japan's Rakuten to partner with German AI defense drone startup Japan's Rakuten to partner with German AI defense drone startup AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Why AI is making old programming languages stronger TypeScript creator Anders Hejlsberg explains why AI tools favor established programming languages, and how deterministic testing keeps AI code reliable. AI Read 2 DigiTimes Samsung deepens humanoid push with new robotics lab Samsung Electronics has begun operating a dedicated physical AI research lab focused on humanoid control and manipulation, according to South Korean news outlet Edaily . The move extends its robotics push from hardware investment into the AI and control technologies needed for robots to operate in real-world environmen ElectronicsAIAutomation Read 3 TechAsia How Uber uses 200 million users to survive the AI era Andrew Macdonald discusses the risks from self-driving fleets, AI ride-hailing agents, and rising compute costs inside Uber. AI Read 4 DigiTimes South Korea's NPS backs AI optical link amid US scrutiny South Korea's National Pension Service (NPS) has drawn fresh attention after joining a cornerstone investment in the Hong Kong IPO of Chinese optical communications maker Zhongji Innolight. The investment came at a time when the company had already been placed on the US Department of Defense's list of Chinese Military AISemiconductor Read 5 DigiTimes Analysis: China's AI chip ambitions collide with Ajinomoto's 95% grip on ABF film China's semiconductor self-reliance campaign is moving beyond lithography machines and advanced processors into less visible materials that can be just as difficult to replace. Ajinomoto Build-up Film, or ABF, has become the latest pressure point. SemiconductorAI Read 6 TechAsia LG Electronics to train humanoid robots with Nvidia software The robots will train in a simulated factory modeled on LG’s Tennessee washing machine plant. ElectronicsAutomation Read 7 EETAsia Silicon Motion SSD Reference Design Kit Targeted at AI Infra The platform enables enterprise SSDs to serve as a persistent memory layer supporting KV cache offload and autonomous AI agents. The post Silicon Motion SSD Reference Design Kit Targeted at AI Infra appeared first on EE Times Asia . AI Read 8 EETAsia Chiplets Offer a Scalable Compute Strategy for Software-defined Vehicles As automotive compute demands accelerate, chiplet architectures offer scalable performance without sacrificing cost, software reuse, or reliability. The post Chiplets Offer a Scalable Compute Strategy for Software-defined Vehicles appeared first on EE Times Asia . Semiconductor Read 9 NikkeiAsia Designer denim and AI concierges: Japan's konbini put a new face forward Designer denim and AI concierges: Japan's konbini put a new face forward AI Read]]></summary></entry></feed>
