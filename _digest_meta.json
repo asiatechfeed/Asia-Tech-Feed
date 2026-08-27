@@ -1,40 +1,38 @@
 {
   "date": "2026-08-27",
-  "count": 13,
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "NikkeiAsia",
-    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-08-27-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Issues Stack Up With More HBM Layers",
-      "source": "SemiEng",
-      "url": "https://semiengineering.com/issues-stack-up-with-more-hbm-layers/"
-    },
-    {
-      "title": "The 50 top-funded AI startups in Asia",
+      "title": "SK Telecom plans AI data center spin-off with $2.2b",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/the-50-top-funded-ai-startups-in-asia"
+      "url": "https://www.techinasia.com/sk-telecoms-ai-data-center-revenue-jumps-89"
     },
     {
-      "title": "TI's multiaxial sensor exposes the next EV inverter race: precision catches up with power density",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260826VL226/inverter-sensor-texas-instruments-performance-demand.html"
+      "title": "China\u2019s robots are leaving the exhibition floor. Now comes the hard part",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/china-robots-exhibitions-real-world-viable-business-6344666"
     },
     {
-      "title": "Nvidia Vera Rubin drives 800VDC, lifts BBU demand",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260827PD222/nvidia-rubin-gpu-demand-roadmap.html"
+      "title": "Inside Cloudflare\u2019s fix for AI\u2019s data problem",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/inside-cloudflares-fix-for-ais-data-problem"
     },
     {
-      "title": "Grand Pacific Petrochemical teams up with Japan's AWI to enter Taiwan's semiconductor specialty materials market",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260826PD249/materials-taiwan-market-industrial-partnership.html"
+      "title": "Huawei plans for more AI pharma tie-ups, says healthcare president",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/huawei-plans-more-ai-pharma-tie-ups-says-healthcare-president-6344796"
+    },
+    {
+      "title": "Nvidia rises after signaling longer AI spending runway",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/nvidia-rises-after-signaling-longer-ai-spending-runway-6344771"
     }
   ],
   "source_stats": [
@@ -51,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -152,14 +150,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 68,
-      "relevant": 50,
+      "fetched": 71,
+      "relevant": 51,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -170,7 +168,7 @@
       "fetched": 50,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -215,7 +213,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     }
   ]
