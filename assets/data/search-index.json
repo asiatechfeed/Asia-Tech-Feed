@@ -1,115 +1,105 @@
 [
   {
     "date": "2026-08-28",
-    "title": "VIPS-TC Students Move OpenPOWER CPU Design from RTL to Fabricated Silicon",
-    "summary": "VIPS-TC students achieve fabricated silicon milestone, demonstrating India's growing capabilities in academic semiconductor design and hardware innovation. The post VIPS-TC Students Move OpenPOWER CPU Design from RTL to Fabricated Silicon appeared first on EE Times Asia .",
+    "title": "Marvell shares slide as concerns over timing of Google AI deal revenue eclipse strong results",
+    "summary": "Marvell shares slide as concerns over timing of Google AI deal revenue eclipse strong results",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/marvell-shares-slide-concerns-over-timing-google-ai-deal-revenue-eclipse-strong-results-6347796"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Siemens EDA Tools Now Certified for Intel 14A, 18A-P Process Technologies",
+    "summary": "Siemens expands EDA verification support for Intel Foundry's advanced nodes, packaging, and multi-chiplet design workflows. The post Siemens EDA Tools Now Certified for Intel 14A, 18A-P Process Technologies appeared first on EE Times Asia .",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/vips-tc-students-move-openpower-cpu-design-from-rtl-to-fabricated-silicon/"
+    "url": "https://www.eetasia.com/siemens-eda-tools-now-certified-for-intel-14a-18a-p-process-technologies/"
   },
   {
     "date": "2026-08-28",
-    "title": "SoftBank-backed Noah Medical plans $100m Hong Kong IPO",
-    "summary": "Noah plans to sell more surgical robots in top-tier and emerging mainland cities, including Hangzhou.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "AI data center 800VDC power architecture takes shape; future hurdles require balancing multiple key factors",
+    "summary": "DIGITIMES believes that 2026 will be a pivotal year in the stabilization of 800VDC power architectures for AI data centers.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260819RS400/data-center-power-supply-digitimes-gan-nvidia-2026.html?chid=2"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Winstar's AI push gains momentum with some orders extending into 2027",
+    "summary": "Winstar Display is accelerating its expansion into AI applications, with its products already integrated into data centers, power management systems, controllers, testing equipment, and semiconductor facilities. The company projects AI-related orders to grow by 30% to 40% in 2026, with AI revenue share rising from 3–4%",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260828PD232/winstar-2027-2026-expansion-ai-applications.html"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Humanoid robot demand boosts planetary gear reducers",
+    "summary": "Apex Dynamics is optimistic about its business outlook for the second half of 2026, with planetary gear reducers emerging as a key growth driver. The company said its results for the first half of the year posted double-digit profit growth, while the reducer business continued to lead expansion.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "Automation"
     ],
-    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+    "url": "https://www.digitimes.com/news/a20260828PD229/apex-robot-demand-market-business.html"
   },
   {
     "date": "2026-08-28",
-    "title": "Chip Industry Week in Review",
-    "summary": "Hot Chips AI HW wave; HBM vs HBC; capacity buildout; Infineon's latest buy; advanced packaging enablers; foundry report; ASIC security threats; IC tariffs; executive changes; Nvidia, Synopsys earnings; dependence on Taiwan; wafer-scale 2D semiconductors. The post Chip Industry Week in Review appeared first on Semicondu",
-    "source": "Semiconductor Engineering",
-    "short": "SemiEng",
+    "title": "Baya Systems Expands Japan Presence to Target AI and Chiplet Design",
+    "summary": "Baya Systems is strengthening its Japan presence as semiconductor companies adopt chiplets and scalable architectures for AI and HPC. The post Baya Systems Expands Japan Presence to Target AI and Chiplet Design appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
       "Semiconductor",
       "AI"
     ],
-    "url": "https://semiengineering.com/chip-industry-week-in-review-153/"
+    "url": "https://www.eetasia.com/baya-systems-expands-japan-presence-to-target-ai-and-chiplet-design/"
   },
   {
     "date": "2026-08-28",
-    "title": "AI packaging race heats up: Taiwan OSATs plan US$14.6 billion capex",
-    "summary": "The AI investment cycle is spreading from leading-edge wafer fabrication into semiconductor packaging and testing, with Taiwan's largest outsourced semiconductor assembly and test (OSAT) providers preparing a fresh round of capacity expansion.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260828PD224/king-yuan-ase-powertech-capex-investment-packaging-testing-taiwan.html"
-  },
-  {
-    "date": "2026-08-28",
-    "title": "US still pinning down AI approach as plans for self-regulating body reportedly stall",
-    "summary": "Progress has reportedly stalled on an executive order draft circulating within the Trump administration about a public-private organization to supervise the release of AI models. While the White House is still figuring out its approach to regulating AI, it is also considering a ban on Chinese open models despite outcry",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260828VL212/usa-ai-regulation-ban.html"
-  },
-  {
-    "date": "2026-08-28",
-    "title": "China memory catch-up broadens: YMTC closes in on SK Hynix NAND share, CXMT advances DRAM tech",
-    "summary": "China's memory-chip industry is narrowing parts of the technology gap with global leaders on two fronts. YMTC is approaching SK Hynix in NAND revenue share while running a more advanced layer mix, and CXMT is moving deeper into DRAM process technology with mass-produced high-k materials and a broader HBM roadmap.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260828VL214/nand-dram-technology-sk-hynix-cxmt.html"
-  },
-  {
-    "date": "2026-08-28",
-    "title": "South Korea's export boom seen sustained in August on strong chip demand: Reutser Poll",
-    "summary": "South Korea's export boom seen sustained in August on strong chip demand: Reutser Poll",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/business/south-koreas-export-boom-seen-sustained-in-august-strong-chip-demand-reutser-poll-6347121"
-  },
-  {
-    "date": "2026-08-28",
-    "title": "Kioxia looking to invest $31.4bn as Hynix mulls closer ties",
-    "summary": "Kioxia and SanDisk plan to invest $31.4 billion on new NAND capacity in the next six years said Kioxia CEO Hiroo Ota yesterday. The company intends to invest $11.3 billion […] The post Kioxia looking to invest $31.4bn as Hynix mulls closer ties appeared first on Electronics Weekly .",
-    "source": "Electronics Weekly",
-    "short": "EW",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.electronicsweekly.com/news/business/kioxia-looking-to-invest-31-4bn-as-hynix-mulls-closer-ties-2026-08/"
-  },
-  {
-    "date": "2026-08-28",
-    "title": "Indian data center operator Yotta eyes $900m IPO",
-    "summary": "Hiranandani said Yotta runs India’s largest cluster of Nvidia chips and expects to reach 400 megawatts of capacity over the next 12 to 18 months.",
+    "title": "Nvidia adds $442b in market value on AI growth outlook",
+    "summary": "Nvidia is now valued at about US$5.5 trillion.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.techinasia.com/temasekbacked-stt-gdc-weighs-500m-india-ipo"
+    "url": "https://www.techinasia.com/nvidia-denies-chinaspecific-ai-chip-roadmap"
   },
   {
     "date": "2026-08-28",
-    "title": "Who’s investing in India’s biotech startups?",
-    "summary": "We've compiled a list of investors pouring money into India’s biotech startups.",
+    "title": "AI came for microdramas. Now it wants the whole picture",
+    "summary": "With the microdrama industry set to rake in US$11 billion by late 2026, AI studios from China to India are racing to secure global dominance.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "Biotechnology"
+      "AI"
     ],
-    "url": "https://www.techinasia.com/whos-investing-indias-biotech-startups"
+    "url": "https://www.techinasia.com/ai-microdramas-picture"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Renesas opens Beijing physical AI, robotics lab",
+    "summary": "The facility will let customers demonstrate, validate, and jointly develop next-generation robotic systems as Renesas expands its physical AI efforts.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/japan-tech-earnings-jump-on-ai-demand-in-data-centers"
   },
   {
     "date": "2026-08-27",
