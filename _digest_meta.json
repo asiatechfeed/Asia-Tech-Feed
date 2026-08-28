@@ -1,38 +1,38 @@
 {
-  "date": "2026-08-27",
-  "count": 11,
+  "date": "2026-08-28",
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-08-27-asia-tech-news-digest.md",
+  "post_file": "2026-08-28-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "SK Telecom plans AI data center spin-off with $2.2b",
+      "title": "Nvidia pauses revenue-sharing deals with AI cloud companies, WSJ reports",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/nvidia-pauses-revenue-sharing-deals-ai-cloud-companies-wsj-reports-6346451"
+    },
+    {
+      "title": "Inth founder: Why Markdown files beat HTML in the AI era",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/sk-telecoms-ai-data-center-revenue-jumps-89"
+      "url": "https://www.techinasia.com/inth-founder-ai-agents-are-your-new-customers"
     },
     {
-      "title": "China\u2019s robots are leaving the exhibition floor. Now comes the hard part",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/china-robots-exhibitions-real-world-viable-business-6344666"
+      "title": "MiniMax revenue surges 283% as enterprise adoption increases",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260827VL231/china-ai-startup-adoption-growth-revenue.html"
     },
     {
-      "title": "Inside Cloudflare\u2019s fix for AI\u2019s data problem",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/inside-cloudflares-fix-for-ais-data-problem"
+      "title": "Rebellions targets 100-plus NPU racks as UK steps up chip spending",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260827VL230/uk-npu-infrastructure-partnership-software.html"
     },
     {
-      "title": "Huawei plans for more AI pharma tie-ups, says healthcare president",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/huawei-plans-more-ai-pharma-tie-ups-says-healthcare-president-6344796"
-    },
-    {
-      "title": "Nvidia rises after signaling longer AI spending runway",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/nvidia-rises-after-signaling-longer-ai-spending-runway-6344771"
+      "title": "Samsung signals zHBF push as memory race moves beyond HBM",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260827VL229/samsung-hbm-bandwidth-capacity-2026.html"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 4,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -129,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -150,14 +150,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 71,
-      "relevant": 51,
+      "fetched": 82,
+      "relevant": 55,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 13,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
