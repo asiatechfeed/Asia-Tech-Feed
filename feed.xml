@@ -1,4 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-27T08:52:31+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 27, 2026</title><link href="https://asiatechfeed.com/2026/08/27/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 27, 2026" /><published>2026-08-27T08:51:29+00:00</published><updated>2026-08-27T08:51:29+00:00</updated><id>https://asiatechfeed.com/2026/08/27/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/27/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-28T00:02:26+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 28, 2026</title><link href="https://asiatechfeed.com/2026/08/28/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 28, 2026" /><published>2026-08-28T00:01:43+00:00</published><updated>2026-08-28T00:01:43+00:00</updated><id>https://asiatechfeed.com/2026/08/28/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/28/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Nvidia pauses revenue-sharing deals with AI cloud companies, WSJ reports</span></td>
+  <td class="col-summary">Nvidia pauses revenue-sharing deals with AI cloud companies, WSJ reports</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/nvidia-pauses-revenue-sharing-deals-ai-cloud-companies-wsj-reports-6346451" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Inth founder: Why Markdown files beat HTML in the AI era</span></td>
+  <td class="col-summary">Christopher Burns explains why AI agents now pick and install software before humans get involved, and how companies must adapt to be found.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/inth-founder-ai-agents-are-your-new-customers" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">MiniMax revenue surges 283% as enterprise adoption increases</span></td>
+  <td class="col-summary">Chinese AI startup MiniMax Group reported a 283.1% increase in revenue, rising from US$30.4 million for the six months ended June 30, 2025, to US$116.6 million for the six months ended June 30, 2026. This growth was primarily driven by the continued expansion of its global user base, surging demand for model inference,</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260827VL231/china-ai-startup-adoption-growth-revenue.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Rebellions targets 100-plus NPU racks as UK steps up chip spending</span></td>
+  <td class="col-summary">Rebellions is pursuing deployment of more than 100 NPU-based computing racks in the UK through a partnership with British AI infrastructure startup Callosum, giving the South Korean chipmaker a potential entry point into Europe's emerging sovereign computing market.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260827VL230/uk-npu-infrastructure-partnership-software.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Samsung signals zHBF push as memory race moves beyond HBM</span></td>
+  <td class="col-summary">Samsung Electronics is signaling a push into high bandwidth flash (HBF), extending its next-generation memory ambitions beyond HBM as rivals move to establish a new NAND-based memory tier for AI inference.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260827VL229/samsung-hbm-bandwidth-capacity-2026.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Synopsys lifts 2026 forecast on AI chip tool demand</span></td>
+  <td class="col-summary">The higher outlook came weeks after Synopsys said it had received all necessary approvals for its proposed acquisition of Ansys.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/us-chip-design-software-firm-posts-1-7b-revenue-below-forecast" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Frontier dreams stall as labs turn to hosting Chinese models</span></td>
+  <td class="col-summary">Are AI firms pivoting to cloud providers? Not quite, but many are finding ways to monetize their idle GPUs</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-labs-switching-training-inference" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">SK Hynix CEO dismisses memory chip oversupply risks, sees crunch till end of 2030</span></td>
+  <td class="col-summary">SK Hynix CEO dismisses memory chip oversupply risks, sees crunch till end of 2030</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-ceo-dismisses-memory-chip-oversupply-risks-sees-crunch-till-end-of-2030" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan's top banks regain access to Anthropic's Mythos AI after US freeze</span></td>
+  <td class="col-summary">Japan's top banks regain access to Anthropic's Mythos AI after US freeze</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-top-banks-regain-access-to-anthropic-s-mythos-ai-after-us-freeze" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">SK Hynix starts construction of first HBM chip packaging plant in US</span></td>
+  <td class="col-summary">SK Hynix starts construction of first HBM chip packaging plant in US</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/sk-hynix-starts-construction-of-first-hbm-chip-packaging-plant-in-us" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Nvidia pauses revenue-sharing deals with AI cloud companies, WSJ reports Nvidia pauses revenue-sharing deals with AI cloud companies, WSJ reports AI Read 2 TechAsia Inth founder: Why Markdown files beat HTML in the AI era Christopher Burns explains why AI agents now pick and install software before humans get involved, and how companies must adapt to be found. AI Read 3 DigiTimes MiniMax revenue surges 283% as enterprise adoption increases Chinese AI startup MiniMax Group reported a 283.1% increase in revenue, rising from US$30.4 million for the six months ended June 30, 2025, to US$116.6 million for the six months ended June 30, 2026. This growth was primarily driven by the continued expansion of its global user base, surging demand for model inference, AI Read 4 DigiTimes Rebellions targets 100-plus NPU racks as UK steps up chip spending Rebellions is pursuing deployment of more than 100 NPU-based computing racks in the UK through a partnership with British AI infrastructure startup Callosum, giving the South Korean chipmaker a potential entry point into Europe's emerging sovereign computing market. AISemiconductor Read 5 DigiTimes Samsung signals zHBF push as memory race moves beyond HBM Samsung Electronics is signaling a push into high bandwidth flash (HBF), extending its next-generation memory ambitions beyond HBM as rivals move to establish a new NAND-based memory tier for AI inference. ElectronicsAI Read 6 TechAsia Synopsys lifts 2026 forecast on AI chip tool demand The higher outlook came weeks after Synopsys said it had received all necessary approvals for its proposed acquisition of Ansys. AISemiconductor Read 7 TechAsia Frontier dreams stall as labs turn to hosting Chinese models Are AI firms pivoting to cloud providers? Not quite, but many are finding ways to monetize their idle GPUs AI Read 8 NikkeiAsia SK Hynix CEO dismisses memory chip oversupply risks, sees crunch till end of 2030 SK Hynix CEO dismisses memory chip oversupply risks, sees crunch till end of 2030 Semiconductor Read 9 NikkeiAsia Japan's top banks regain access to Anthropic's Mythos AI after US freeze Japan's top banks regain access to Anthropic's Mythos AI after US freeze AI Read 10 NikkeiAsia SK Hynix starts construction of first HBM chip packaging plant in US SK Hynix starts construction of first HBM chip packaging plant in US Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 27, 2026</title><link href="https://asiatechfeed.com/2026/08/27/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 27, 2026" /><published>2026-08-27T08:51:29+00:00</published><updated>2026-08-27T08:51:29+00:00</updated><id>https://asiatechfeed.com/2026/08/27/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/27/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -723,89 +816,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/manz-asia-expands-panel-level-packaging-platforms-for-advanced-rdl/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Scaling indigenous defense robotics for emerging markets Backed by more than US$400,000, Dubotech develops portable underwater robots for a US$6.4 billion inspection market. Automation Read 2 TechAsia Alibaba-backed AI video startup ShengShu eyes HK IPO Vidu offers text-to-video generation through subscriptions and an API for businesses and developers. AI Read 3 DigiTimes Vietnam eyes city upgrades for Samsung hub Bac Ninh and Quang Ninh Vietnam is considering plans to turn Bac Ninh, a major Samsung Electronics manufacturing hub, and Quang Ninh into centrally administered cities as the country builds out its northern electronics, semiconductor and logistics base. SemiconductorElectronicsLogistics Read 4 TechAsia A16z joins $700m round for US AI chip startup Etched Its Sohu chip is designed specifically for transformer-model inference. AISemiconductor Read 5 DigiTimes Taiwan seeks shift from drone supplier to strategic partner in entering US market Industry figures and analysts from Taiwan and the United States gathered on August 19 at an international unmanned aerial vehicles (UAVs) forum to discuss how Taiwan can move beyond its traditional role as a components supplier and become a strategic partner in the global drone supply chain. The discussion takes place Logistics Read 6 DigiTimes GigaDevice profit surges 1,092% on memory upcycle, niche DRAM and NAND gains GigaDevice Semiconductor posted record first-half 2026 results, with tight memory supply and rising prices across niche products lifting earnings well beyond its full-year 2025 level. Semiconductor Read 7 EETAsia TIER IV Develops Open-Source AI Chip Architecture for Level 4 Autonomous Driving TIER IV is developing an open-source AI chip and toolchain targeting efficient, adaptable, and verifiable Level 4 autonomous driving. The post TIER IV Develops Open-Source AI Chip Architecture for Level 4 Autonomous Driving appeared first on EE Times Asia . AISemiconductor Read 8 EETAsia Manz Asia Expands Panel-Level Packaging Platforms for Advanced RDL Manz Asia expands production-proven panel platforms as AI packaging drives larger formats and denser redistribution layers. The post Manz Asia Expands Panel-Level Packaging Platforms for Advanced RDL appeared first on EE Times Asia . AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 18, 2026</title><link href="https://asiatechfeed.com/2026/08/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 18, 2026" /><published>2026-08-18T08:00:45+00:00</published><updated>2026-08-18T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/08/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Why AI is making old programming languages stronger</span></td>
-  <td class="col-summary">TypeScript creator Anders Hejlsberg explains why AI tools favor established programming languages, and how deterministic testing keeps AI code reliable.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/why-ai-is-making-old-programming-languages-stronger" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung deepens humanoid push with new robotics lab</span></td>
-  <td class="col-summary">Samsung Electronics has begun operating a dedicated physical AI research lab focused on humanoid control and manipulation, according to South Korean news outlet Edaily . The move extends its robotics push from hardware investment into the AI and control technologies needed for robots to operate in real-world environmen</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260818VL210/samsung-robotics-robot-manufacturing-data.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">How Uber uses 200 million users to survive the AI era</span></td>
-  <td class="col-summary">Andrew Macdonald discusses the risks from self-driving fleets, AI ride-hailing agents, and rising compute costs inside Uber.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/uber-ai-future-starts-with-customer" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">South Korea's NPS backs AI optical link amid US scrutiny</span></td>
-  <td class="col-summary">South Korea's National Pension Service (NPS) has drawn fresh attention after joining a cornerstone investment in the Hong Kong IPO of Chinese optical communications maker Zhongji Innolight. The investment came at a time when the company had already been placed on the US Department of Defense's list of Chinese Military </td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260818PD217/investment-ipo-cmc-policy-communications.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Analysis: China's AI chip ambitions collide with Ajinomoto's 95% grip on ABF film</span></td>
-  <td class="col-summary">China's semiconductor self-reliance campaign is moving beyond lithography machines and advanced processors into less visible materials that can be just as difficult to replace. Ajinomoto Build-up Film, or ABF, has become the latest pressure point.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260818VL208/ai-chip-materials-packaging-chips.html?chid=10" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">LG Electronics to train humanoid robots with Nvidia software</span></td>
-  <td class="col-summary">The robots will train in a simulated factory modeled on LG’s Tennessee washing machine plant.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/lg-electronics-to-test-ai-home-robot-in-2027-ceo-says" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Silicon Motion SSD Reference Design Kit Targeted at AI Infra</span></td>
-  <td class="col-summary">The platform enables enterprise SSDs to serve as a persistent memory layer supporting KV cache offload and autonomous AI agents. The post Silicon Motion SSD Reference Design Kit Targeted at AI Infra appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/silicon-motion-ssd-reference-design-kit-targeted-at-ai-infra/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Chiplets Offer a Scalable Compute Strategy for Software-defined Vehicles</span></td>
-  <td class="col-summary">As automotive compute demands accelerate, chiplet architectures offer scalable performance without sacrificing cost, software reuse, or reliability. The post Chiplets Offer a Scalable Compute Strategy for Software-defined Vehicles appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/chiplets-offer-a-scalable-compute-strategy-for-software-defined-vehicles/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Designer denim and AI concierges: Japan's konbini put a new face forward</span></td>
-  <td class="col-summary">Designer denim and AI concierges: Japan's konbini put a new face forward</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/retail/designer-denim-and-ai-concierges-japan-s-konbini-put-a-new-face-forward" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Why AI is making old programming languages stronger TypeScript creator Anders Hejlsberg explains why AI tools favor established programming languages, and how deterministic testing keeps AI code reliable. AI Read 2 DigiTimes Samsung deepens humanoid push with new robotics lab Samsung Electronics has begun operating a dedicated physical AI research lab focused on humanoid control and manipulation, according to South Korean news outlet Edaily . The move extends its robotics push from hardware investment into the AI and control technologies needed for robots to operate in real-world environmen ElectronicsAIAutomation Read 3 TechAsia How Uber uses 200 million users to survive the AI era Andrew Macdonald discusses the risks from self-driving fleets, AI ride-hailing agents, and rising compute costs inside Uber. AI Read 4 DigiTimes South Korea's NPS backs AI optical link amid US scrutiny South Korea's National Pension Service (NPS) has drawn fresh attention after joining a cornerstone investment in the Hong Kong IPO of Chinese optical communications maker Zhongji Innolight. The investment came at a time when the company had already been placed on the US Department of Defense's list of Chinese Military AISemiconductor Read 5 DigiTimes Analysis: China's AI chip ambitions collide with Ajinomoto's 95% grip on ABF film China's semiconductor self-reliance campaign is moving beyond lithography machines and advanced processors into less visible materials that can be just as difficult to replace. Ajinomoto Build-up Film, or ABF, has become the latest pressure point. SemiconductorAI Read 6 TechAsia LG Electronics to train humanoid robots with Nvidia software The robots will train in a simulated factory modeled on LG’s Tennessee washing machine plant. ElectronicsAutomation Read 7 EETAsia Silicon Motion SSD Reference Design Kit Targeted at AI Infra The platform enables enterprise SSDs to serve as a persistent memory layer supporting KV cache offload and autonomous AI agents. The post Silicon Motion SSD Reference Design Kit Targeted at AI Infra appeared first on EE Times Asia . AI Read 8 EETAsia Chiplets Offer a Scalable Compute Strategy for Software-defined Vehicles As automotive compute demands accelerate, chiplet architectures offer scalable performance without sacrificing cost, software reuse, or reliability. The post Chiplets Offer a Scalable Compute Strategy for Software-defined Vehicles appeared first on EE Times Asia . Semiconductor Read 9 NikkeiAsia Designer denim and AI concierges: Japan's konbini put a new face forward Designer denim and AI concierges: Japan's konbini put a new face forward AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Scaling indigenous defense robotics for emerging markets Backed by more than US$400,000, Dubotech develops portable underwater robots for a US$6.4 billion inspection market. Automation Read 2 TechAsia Alibaba-backed AI video startup ShengShu eyes HK IPO Vidu offers text-to-video generation through subscriptions and an API for businesses and developers. AI Read 3 DigiTimes Vietnam eyes city upgrades for Samsung hub Bac Ninh and Quang Ninh Vietnam is considering plans to turn Bac Ninh, a major Samsung Electronics manufacturing hub, and Quang Ninh into centrally administered cities as the country builds out its northern electronics, semiconductor and logistics base. SemiconductorElectronicsLogistics Read 4 TechAsia A16z joins $700m round for US AI chip startup Etched Its Sohu chip is designed specifically for transformer-model inference. AISemiconductor Read 5 DigiTimes Taiwan seeks shift from drone supplier to strategic partner in entering US market Industry figures and analysts from Taiwan and the United States gathered on August 19 at an international unmanned aerial vehicles (UAVs) forum to discuss how Taiwan can move beyond its traditional role as a components supplier and become a strategic partner in the global drone supply chain. The discussion takes place Logistics Read 6 DigiTimes GigaDevice profit surges 1,092% on memory upcycle, niche DRAM and NAND gains GigaDevice Semiconductor posted record first-half 2026 results, with tight memory supply and rising prices across niche products lifting earnings well beyond its full-year 2025 level. Semiconductor Read 7 EETAsia TIER IV Develops Open-Source AI Chip Architecture for Level 4 Autonomous Driving TIER IV is developing an open-source AI chip and toolchain targeting efficient, adaptable, and verifiable Level 4 autonomous driving. The post TIER IV Develops Open-Source AI Chip Architecture for Level 4 Autonomous Driving appeared first on EE Times Asia . AISemiconductor Read 8 EETAsia Manz Asia Expands Panel-Level Packaging Platforms for Advanced RDL Manz Asia expands production-proven panel platforms as AI packaging drives larger formats and denser redistribution layers. The post Manz Asia Expands Panel-Level Packaging Platforms for Advanced RDL appeared first on EE Times Asia . AI Read]]></summary></entry></feed>
