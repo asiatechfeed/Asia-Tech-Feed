@@ -1,82 +1,82 @@
 [
   {
     "date": "2026-08-29",
-    "title": "Pentagon sued by Chinese chipmaker CXMT over military listing",
-    "summary": "CXMT says its DRAM chips are designed for civilian and commercial use.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/apple-tests-chips-chinese-dram-maker-cxmt"
-  },
-  {
-    "date": "2026-08-29",
-    "title": "OpenAI plans to end AI deal with SpaceX-bound Cursor",
-    "summary": "Cursor supports models and API keys from multiple AI providers.",
+    "title": "Tencent unveils AI model it says outperforms Z.ai, Moonshot",
+    "summary": "Tencent demonstrated Hy4 Preview for game creation, 3D web design, and accounting compliance.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/openai-releases-chatgpt-desktop-app-preview-linux"
+    "url": "https://www.techinasia.com/tencent-cloud-expands-ai-agent-suite-indonesia"
   },
   {
     "date": "2026-08-29",
-    "title": "A16z launches $1.1b fund for AI hardware, infrastructure",
-    "summary": "Its bets span chips, robots, memory, data centers, and the infrastructure around them.",
+    "title": "Blue Owl leads $2.4b debt deal to fund IREN’s Nvidia chips",
+    "summary": "The debt package carries a 9% interest rate and matures in two and a half years.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/microsoft-to-buy-nearly-9-7b-ai-cloud-capacity-from-australian-firm"
+  },
+  {
+    "date": "2026-08-29",
+    "title": "China’s CXMT revenue soars as AI lifts memory prices",
+    "summary": "CXMT has delivered its next-generation LPDDR6 chips to customers for validation.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI",
-      "Semiconductor",
-      "Automation"
+      "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/a16z-raises-15b-for-ai-defense-funds"
+    "url": "https://www.techinasia.com/tencent-cxmt-sign-multiyear-29b-dram-deal"
   },
   {
     "date": "2026-08-29",
-    "title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash",
-    "summary": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash",
+    "title": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk",
+    "summary": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/openai-end-agreement-spacexs-ai-coding-tool-cursor-deepening-musk-altman-clash-6348951"
+    "url": "https://www.channelnewsasia.com/business/openai-cut-ai-models-spacex-owned-cursor-escalating-feud-musk-6348951"
   },
   {
     "date": "2026-08-29",
-    "title": "Research Insight: Humanoid robots near mass production as suppliers face precision, ramp-up test",
-    "summary": "Research Insight: Humanoid robots near mass production as suppliers face precision and ramp-up test",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Automation"
-    ],
-    "url": "https://www.digitimes.com/news/a20260826PD223/production-robot-development-component-manufacturing.html"
-  },
-  {
-    "date": "2026-08-29",
-    "title": "Inside TSMC's 238-page sustainability report: nine things that matter more than they look",
-    "summary": "Buried in 238 pages of targets and inventories are the things nobody puts in a press release: a formal corporate policy on shoe soles, a fish that lives in a fab, a lizard evacuation in Germany, and a workforce that is quietly out-reproducing the rest of Taiwan by a factor of four. Nine small stories from the world's m",
+    "title": "Apple's M6 marks a transitional step before wider 2nm adoption",
+    "summary": "Apple on August 25 unveiled the M6 and M5 Ultra chips without holding a launch event, with the M6 becoming the company's first processor built on TSMC's 2nm process and debuting in the new Mac mini. But industry watchers say the M6's short-term significance lies mainly in showcasing 2nm design technology, not in delive",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260826VL224/tsmc-2025-taiwan-fab.html"
+    "url": "https://www.digitimes.com/news/a20260828PD233/apple-chips-mac-mini-performance-capacity.html"
   },
   {
     "date": "2026-08-29",
-    "title": "Foxconn eyes higher margins with push beyond contract manufacturing",
-    "summary": "AI adoption continues to expand, but putting the technology to work and integrating it into everyday operations remain key hurdles. Speaking at the 2026 Taiwan Sustainability Summit, Yung-Hui Li, director of the Artificial Intelligence Research Center at the Hon Hai Research Institute, outlined Foxconn's approach to th",
+    "title": "China chip profits jump 18.5-fold on AI demand; advanced-node self-sufficiency seen at 66% by 2035",
+    "summary": "China's AI investment boom is translating into sharply higher semiconductor profits while accelerating a longer-term expansion of domestic advanced-node capacity, memory production and chipmaking equipment.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
+      "Semiconductor",
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260828PD212/foxconn-manufacturing-technology-adoption-data.html"
+    "url": "https://www.digitimes.com/news/a20260828VL205/demand-2035-self-sufficiency-investment-capacity.html"
+  },
+  {
+    "date": "2026-08-29",
+    "title": "Jingwei Hirain targets Malaysia, ASEAN smart mobility supply chains",
+    "summary": "China's largest domestic Tier 1 auto parts supplier, Jingwei Hirain, is stepping up its push into Malaysia and the ASEAN market, with President Chengjian Fan saying the region will become an important window for auto supply chain planning over the next 3-5 years.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260828PD219/asean-tier-1-market-sales-supply-chain.html"
   },
   {
     "date": "2026-08-28",
