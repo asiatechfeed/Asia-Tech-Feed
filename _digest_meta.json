@@ -1,38 +1,37 @@
 {
-  "date": "2026-08-28",
-  "count": 9,
+  "date": "2026-08-29",
+  "count": 6,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-08-28-asia-tech-news-digest.md",
+  "post_file": "2026-08-29-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Marvell shares slide as concerns over timing of Google AI deal revenue eclipse strong results",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/marvell-shares-slide-concerns-over-timing-google-ai-deal-revenue-eclipse-strong-results-6347796"
-    },
-    {
-      "title": "Siemens EDA Tools Now Certified for Intel 14A, 18A-P Process Technologies",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/siemens-eda-tools-now-certified-for-intel-14a-18a-p-process-technologies/"
-    },
-    {
-      "title": "AI data center 800VDC power architecture takes shape; future hurdles require balancing multiple key factors",
+      "title": "Commentary: China's robot games offer Taiwan a reality check",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260819RS400/data-center-power-supply-digitimes-gan-nvidia-2026.html?chid=2"
+      "url": "https://www.digitimes.com/news/a20260828PD202/taiwan-robot-2026-beijing-robotics.html?chid=10"
     },
     {
-      "title": "Winstar's AI push gains momentum with some orders extending into 2027",
+      "title": "China's dexterous-hand makers take center stage as three technology paths vie for humanoid robotics",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260828PD232/winstar-2027-2026-expansion-ai-applications.html"
+      "url": "https://www.digitimes.com/news/a20260828PD206/robot-robotics-technology-data-2026.html?chid=10"
     },
     {
-      "title": "Humanoid robot demand boosts planetary gear reducers",
+      "title": "Qualcomm's HBC play pulls Samsung and SK hynix into a new race beyond HBM",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260828PD229/apex-robot-demand-market-business.html"
+      "url": "https://www.digitimes.com/news/a20260828VL218/qualcomm-hbm-samsung-infrastructure-bandwidth.html"
+    },
+    {
+      "title": "If you can\u2019t beat \u2019em, host \u2019em",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/if-you-cant-beat-em-host-em"
+    },
+    {
+      "title": "Marvell forecasts Q3 revenue above estimates on AI demand",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/google-talks-marvell-ai-chips"
     }
   ],
   "source_stats": [
@@ -49,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -129,8 +128,8 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
-      "relevant": 1,
+      "fetched": 0,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -150,14 +149,14 @@
       "fetched": 10,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 60,
-      "relevant": 46,
+      "fetched": 35,
+      "relevant": 24,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -195,7 +194,7 @@
       "fetched": 36,
       "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
