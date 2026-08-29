@@ -1,5 +1,71 @@
 [
   {
+    "date": "2026-08-29",
+    "title": "Commentary: China's robot games offer Taiwan a reality check",
+    "summary": "China's second humanoid robot games, held in Beijing from August 22 to August 26, 2026, sent videos and clips racing across social media and underscored how fast humanoid robotics is advancing. For Taiwan, the spectacle also highlighted both the promise and the risks of robots in policing, firefighting, and even warfar",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260828PD202/taiwan-robot-2026-beijing-robotics.html?chid=10"
+  },
+  {
+    "date": "2026-08-29",
+    "title": "China's dexterous-hand makers take center stage as three technology paths vie for humanoid robotics",
+    "summary": "China's humanoid robot industry is flourishing, and the recently concluded World Robot Conference (WRC) 2026 in Beijing revealed a notable shift in focus. Unlike previous years, when walking and motion capabilities dominated the competition, attention is increasingly moving toward robots' end-effectors.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260828PD206/robot-robotics-technology-data-2026.html?chid=10"
+  },
+  {
+    "date": "2026-08-29",
+    "title": "Qualcomm's HBC play pulls Samsung and SK hynix into a new race beyond HBM",
+    "summary": "The AI infrastructure race has spent the past few years fixated on high-bandwidth memory as one of the most indispensable building blocks of accelerated compute. Yet as model sizes, context windows and inference workloads continue to expand, the bottleneck is increasingly shifting from how much memory can be stacked to",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260828VL218/qualcomm-hbm-samsung-infrastructure-bandwidth.html"
+  },
+  {
+    "date": "2026-08-29",
+    "title": "If you can’t beat ’em, host ’em",
+    "summary": "Why AI labs are hosting Chinese models to fund their frontier ambitions. Plus, we take a look at MiniMax’s revenue surge.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/if-you-cant-beat-em-host-em"
+  },
+  {
+    "date": "2026-08-29",
+    "title": "Marvell forecasts Q3 revenue above estimates on AI demand",
+    "summary": "Marvell’s shares fell more than 1% in extended trading after the results.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/google-talks-marvell-ai-chips"
+  },
+  {
+    "date": "2026-08-29",
+    "title": "Robot from Japan lightens load of restocking New York grocery store",
+    "summary": "Robot from Japan lightens load of restocking New York grocery store",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/robot-from-japan-lightens-load-of-restocking-new-york-grocery-store"
+  },
+  {
     "date": "2026-08-28",
     "title": "Marvell shares slide as concerns over timing of Google AI deal revenue eclipse strong results",
     "summary": "Marvell shares slide as concerns over timing of Google AI deal revenue eclipse strong results",
