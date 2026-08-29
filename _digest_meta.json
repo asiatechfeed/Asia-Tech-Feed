@@ -1,37 +1,37 @@
 {
   "date": "2026-08-29",
-  "count": 6,
+  "count": 7,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-29-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Commentary: China's robot games offer Taiwan a reality check",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260828PD202/taiwan-robot-2026-beijing-robotics.html?chid=10"
-    },
-    {
-      "title": "China's dexterous-hand makers take center stage as three technology paths vie for humanoid robotics",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260828PD206/robot-robotics-technology-data-2026.html?chid=10"
-    },
-    {
-      "title": "Qualcomm's HBC play pulls Samsung and SK hynix into a new race beyond HBM",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260828VL218/qualcomm-hbm-samsung-infrastructure-bandwidth.html"
-    },
-    {
-      "title": "If you can\u2019t beat \u2019em, host \u2019em",
+      "title": "Pentagon sued by Chinese chipmaker CXMT over military listing",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/if-you-cant-beat-em-host-em"
+      "url": "https://www.techinasia.com/apple-tests-chips-chinese-dram-maker-cxmt"
     },
     {
-      "title": "Marvell forecasts Q3 revenue above estimates on AI demand",
+      "title": "OpenAI plans to end AI deal with SpaceX-bound Cursor",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/google-talks-marvell-ai-chips"
+      "url": "https://www.techinasia.com/openai-releases-chatgpt-desktop-app-preview-linux"
+    },
+    {
+      "title": "A16z launches $1.1b fund for AI hardware, infrastructure",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/a16z-raises-15b-for-ai-defense-funds"
+    },
+    {
+      "title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/openai-end-agreement-spacexs-ai-coding-tool-cursor-deepening-musk-altman-clash-6348951"
+    },
+    {
+      "title": "Research Insight: Humanoid robots near mass production as suppliers face precision, ramp-up test",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260826PD223/production-robot-development-component-manufacturing.html"
     }
   ],
   "source_stats": [
@@ -48,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -128,8 +128,8 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
-      "relevant": 0,
+      "fetched": 10,
+      "relevant": 1,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -167,7 +167,7 @@
       "fetched": 50,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -192,9 +192,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
