@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-29T00:35:37+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 29, 2026</title><link href="https://asiatechfeed.com/2026/08/29/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 29, 2026" /><published>2026-08-29T00:34:59+00:00</published><updated>2026-08-29T00:34:59+00:00</updated><id>https://asiatechfeed.com/2026/08/29/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/29/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-29T06:50:01+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 29, 2026</title><link href="https://asiatechfeed.com/2026/08/29/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 29, 2026" /><published>2026-08-29T06:49:22+00:00</published><updated>2026-08-29T06:49:22+00:00</updated><id>https://asiatechfeed.com/2026/08/29/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/29/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,54 +12,62 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Commentary: China's robot games offer Taiwan a reality check</span></td>
-  <td class="col-summary">China's second humanoid robot games, held in Beijing from August 22 to August 26, 2026, sent videos and clips racing across social media and underscored how fast humanoid robotics is advancing. For Taiwan, the spectacle also highlighted both the promise and the risks of robots in policing, firefighting, and even warfar</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260828PD202/taiwan-robot-2026-beijing-robotics.html?chid=10" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Pentagon sued by Chinese chipmaker CXMT over military listing</span></td>
+  <td class="col-summary">CXMT says its DRAM chips are designed for civilian and commercial use.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/apple-tests-chips-chinese-dram-maker-cxmt" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">China's dexterous-hand makers take center stage as three technology paths vie for humanoid robotics</span></td>
-  <td class="col-summary">China's humanoid robot industry is flourishing, and the recently concluded World Robot Conference (WRC) 2026 in Beijing revealed a notable shift in focus. Unlike previous years, when walking and motion capabilities dominated the competition, attention is increasingly moving toward robots' end-effectors.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260828PD206/robot-robotics-technology-data-2026.html?chid=10" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">OpenAI plans to end AI deal with SpaceX-bound Cursor</span></td>
+  <td class="col-summary">Cursor supports models and API keys from multiple AI providers.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-releases-chatgpt-desktop-app-preview-linux" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Qualcomm's HBC play pulls Samsung and SK hynix into a new race beyond HBM</span></td>
-  <td class="col-summary">The AI infrastructure race has spent the past few years fixated on high-bandwidth memory as one of the most indispensable building blocks of accelerated compute. Yet as model sizes, context windows and inference workloads continue to expand, the bottleneck is increasingly shifting from how much memory can be stacked to</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260828VL218/qualcomm-hbm-samsung-infrastructure-bandwidth.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">A16z launches $1.1b fund for AI hardware, infrastructure</span></td>
+  <td class="col-summary">Its bets span chips, robots, memory, data centers, and the infrastructure around them.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/a16z-raises-15b-for-ai-defense-funds" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">If you can’t beat ’em, host ’em</span></td>
-  <td class="col-summary">Why AI labs are hosting Chinese models to fund their frontier ambitions. Plus, we take a look at MiniMax’s revenue surge.</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash</span></td>
+  <td class="col-summary">OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/if-you-cant-beat-em-host-em" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/openai-end-agreement-spacexs-ai-coding-tool-cursor-deepening-musk-altman-clash-6348951" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Marvell forecasts Q3 revenue above estimates on AI demand</span></td>
-  <td class="col-summary">Marvell’s shares fell more than 1% in extended trading after the results.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/google-talks-marvell-ai-chips" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Research Insight: Humanoid robots near mass production as suppliers face precision, ramp-up test</span></td>
+  <td class="col-summary">Research Insight: Humanoid robots near mass production as suppliers face precision and ramp-up test</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260826PD223/production-robot-development-component-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Robot from Japan lightens load of restocking New York grocery store</span></td>
-  <td class="col-summary">Robot from Japan lightens load of restocking New York grocery store</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/robot-from-japan-lightens-load-of-restocking-new-york-grocery-store" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Inside TSMC's 238-page sustainability report: nine things that matter more than they look</span></td>
+  <td class="col-summary">Buried in 238 pages of targets and inventories are the things nobody puts in a press release: a formal corporate policy on shoe soles, a fish that lives in a fab, a lizard evacuation in Germany, and a workforce that is quietly out-reproducing the rest of Taiwan by a factor of four. Nine small stories from the world's m</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260826VL224/tsmc-2025-taiwan-fab.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Foxconn eyes higher margins with push beyond contract manufacturing</span></td>
+  <td class="col-summary">AI adoption continues to expand, but putting the technology to work and integrating it into everyday operations remain key hurdles. Speaking at the 2026 Taiwan Sustainability Summit, Yung-Hui Li, director of the Artificial Intelligence Research Center at the Hon Hai Research Institute, outlined Foxconn's approach to th</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260828PD212/foxconn-manufacturing-technology-adoption-data.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Commentary: China's robot games offer Taiwan a reality check China's second humanoid robot games, held in Beijing from August 22 to August 26, 2026, sent videos and clips racing across social media and underscored how fast humanoid robotics is advancing. For Taiwan, the spectacle also highlighted both the promise and the risks of robots in policing, firefighting, and even warfar Automation Read 2 DigiTimes China's dexterous-hand makers take center stage as three technology paths vie for humanoid robotics China's humanoid robot industry is flourishing, and the recently concluded World Robot Conference (WRC) 2026 in Beijing revealed a notable shift in focus. Unlike previous years, when walking and motion capabilities dominated the competition, attention is increasingly moving toward robots' end-effectors. Automation Read 3 DigiTimes Qualcomm's HBC play pulls Samsung and SK hynix into a new race beyond HBM The AI infrastructure race has spent the past few years fixated on high-bandwidth memory as one of the most indispensable building blocks of accelerated compute. Yet as model sizes, context windows and inference workloads continue to expand, the bottleneck is increasingly shifting from how much memory can be stacked to AI Read 4 TechAsia If you can’t beat ’em, host ’em Why AI labs are hosting Chinese models to fund their frontier ambitions. Plus, we take a look at MiniMax’s revenue surge. AI Read 5 TechAsia Marvell forecasts Q3 revenue above estimates on AI demand Marvell’s shares fell more than 1% in extended trading after the results. AI Read 6 NikkeiAsia Robot from Japan lightens load of restocking New York grocery store Robot from Japan lightens load of restocking New York grocery store Automation Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 28, 2026</title><link href="https://asiatechfeed.com/2026/08/28/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 28, 2026" /><published>2026-08-28T11:04:22+00:00</published><updated>2026-08-28T11:04:22+00:00</updated><id>https://asiatechfeed.com/2026/08/28/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/28/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Pentagon sued by Chinese chipmaker CXMT over military listing CXMT says its DRAM chips are designed for civilian and commercial use. Semiconductor Read 2 TechAsia OpenAI plans to end AI deal with SpaceX-bound Cursor Cursor supports models and API keys from multiple AI providers. AI Read 3 TechAsia A16z launches $1.1b fund for AI hardware, infrastructure Its bets span chips, robots, memory, data centers, and the infrastructure around them. AISemiconductorAutomation Read 4 CNA OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash AI Read 5 DigiTimes Research Insight: Humanoid robots near mass production as suppliers face precision, ramp-up test Research Insight: Humanoid robots near mass production as suppliers face precision and ramp-up test Automation Read 6 DigiTimes Inside TSMC's 238-page sustainability report: nine things that matter more than they look Buried in 238 pages of targets and inventories are the things nobody puts in a press release: a formal corporate policy on shoe soles, a fish that lives in a fab, a lizard evacuation in Germany, and a workforce that is quietly out-reproducing the rest of Taiwan by a factor of four. Nine small stories from the world's m Semiconductor Read 7 DigiTimes Foxconn eyes higher margins with push beyond contract manufacturing AI adoption continues to expand, but putting the technology to work and integrating it into everyday operations remain key hurdles. Speaking at the 2026 Taiwan Sustainability Summit, Yung-Hui Li, director of the Artificial Intelligence Research Center at the Hon Hai Research Institute, outlined Foxconn's approach to th AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 28, 2026</title><link href="https://asiatechfeed.com/2026/08/28/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 28, 2026" /><published>2026-08-28T11:04:22+00:00</published><updated>2026-08-28T11:04:22+00:00</updated><id>https://asiatechfeed.com/2026/08/28/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/28/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
