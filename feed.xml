@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-30T05:03:07+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 30, 2026</title><link href="https://asiatechfeed.com/2026/08/30/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 30, 2026" /><published>2026-08-30T05:02:32+00:00</published><updated>2026-08-30T05:02:32+00:00</updated><id>https://asiatechfeed.com/2026/08/30/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/30/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-30T08:01:25+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 30, 2026</title><link href="https://asiatechfeed.com/2026/08/30/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 30, 2026" /><published>2026-08-30T08:00:48+00:00</published><updated>2026-08-30T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/08/30/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/30/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,46 +12,38 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">South Korea taps SK Telecom, Kakao, KT for free AI plan</span></td>
-  <td class="col-summary">SK Telecom’s AI service will handle restaurant bookings and issue 83 types of certificates.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-telecom-partners-defense-ministry-military-ai" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">SemiEng</span></td>
+  <td class="col-title"><span class="article-title">Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford)</span></td>
+  <td class="col-summary">Researchers at the University of Oxford published a technical paper titled “Hardware-Managed Heterogeneous High-Bandwidth Memory and Flash in LLM Inference Systems.” Abstract Excerpt: “ High-Bandwidth Flash (HBF) offers a denser alternative, providing 16x more capacity per stack at comparable bandwidth. In this work, w</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://semiengineering.com/hybrid-hbm-hbf-architecture-in-llm-inference-university-of-oxford/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Humanoid robot shipments top 22,000 in 1H26 as industrial use gains ground</span></td>
-  <td class="col-summary">As embodied intelligence takes physical form amid widespread production-capacity expansion in the humanoid robot sector, it is becoming increasingly possible to envision a society in which the boundaries between human intelligence and machine activity grow progressively blurred under AI's expanding reach.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260828VL213/robot-industrial-shipments-data-expansion.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Huawei's Ascend 910C sold out in China, but Nvidia's H200 supply gap persists</span></td>
+  <td class="col-summary">Huawei's Ascend 910C is already sold out in China, but domestic chips still cannot fully replace Nvidia's H200s. The shortage matters beyond China because AI compute constraints, pricing, and supply chain shifts are reshaping how quickly companies worldwide can deploy advanced inference systems.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260828PD207/huawei-ascend-nvidia-chips-china-2026.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">KKCompany taps PressPlay to expand into knowledge learning, creator economy</span></td>
-  <td class="col-summary">KKCompany Technologies, parent of KKBOX, will officially list on the Taipei Exchange's Emerging Stock Board on August 31, with chairman and CEO Steve Wang detailing, for the first time, the group's integration of PressPlay during a pre-listing investor briefing. The transaction, completed in the second quarter of 2026,</td>
+  <td class="col-title"><span class="article-title">Nvidia forms PAC to expand Washington lobbying</span></td>
+  <td class="col-summary">According to Bloomberg , Nvidia has formed a federal political action committee (PAC), expanding its Washington presence as governments debate artificial intelligence rules that could affect businesses, workers, and consumers worldwide. The move underscores how major technology firms are preparing for a longer policy b</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260828PD215/economy-kkbox-taipei-advertising-2026.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260828PD223/nvidia-market-policy-bloomberg-regulation.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Anthropic sets sights on custom hardware to fuel AI ambitions, reportedly eyed $7B MatX deal</span></td>
-  <td class="col-summary">In an effort to accelerate its custom silicon initiative and curb reliance on external hardware suppliers, artificial intelligence developer Anthropic held discussions to acquire AI chip startup MatX for roughly US$7 billion, according to Reuters . While the acquisition talks have since evolved into potential partnersh</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260828VL215/hardware-anthropic-silicon-startup-google.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">Go master Shin cracks AI barrier with win over KataGo, sets up series decider</span></td>
-  <td class="col-summary">Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Nvidia's upbeat outlook points to tighter AI supply chains ahead</span></td>
+  <td class="col-summary">Nvidia's latest earnings and forecast suggest AI demand remains far ahead of available supply, with implications for memory, power, cooling, and networking worldwide. The chipmaker's guidance points to continued price pressure and a broader buildout of infrastructure that will shape AI adoption across markets and indus</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260828PD205/nvidia-ai-demand-earnings-forecast.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia South Korea taps SK Telecom, Kakao, KT for free AI plan SK Telecom’s AI service will handle restaurant bookings and issue 83 types of certificates. AI Read 2 DigiTimes Humanoid robot shipments top 22,000 in 1H26 as industrial use gains ground As embodied intelligence takes physical form amid widespread production-capacity expansion in the humanoid robot sector, it is becoming increasingly possible to envision a society in which the boundaries between human intelligence and machine activity grow progressively blurred under AI's expanding reach. Automation Read 3 DigiTimes KKCompany taps PressPlay to expand into knowledge learning, creator economy KKCompany Technologies, parent of KKBOX, will officially list on the Taipei Exchange's Emerging Stock Board on August 31, with chairman and CEO Steve Wang detailing, for the first time, the group's integration of PressPlay during a pre-listing investor briefing. The transaction, completed in the second quarter of 2026, AI Read 4 DigiTimes Anthropic sets sights on custom hardware to fuel AI ambitions, reportedly eyed $7B MatX deal In an effort to accelerate its custom silicon initiative and curb reliance on external hardware suppliers, artificial intelligence developer Anthropic held discussions to acquire AI chip startup MatX for roughly US$7 billion, according to Reuters . While the acquisition talks have since evolved into potential partnersh AISemiconductor Read 5 KED Go master Shin cracks AI barrier with win over KataGo, sets up series decider Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 29, 2026</title><link href="https://asiatechfeed.com/2026/08/29/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 29, 2026" /><published>2026-08-29T08:00:45+00:00</published><updated>2026-08-29T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/08/29/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/29/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 SemiEng Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford) Researchers at the University of Oxford published a technical paper titled “Hardware-Managed Heterogeneous High-Bandwidth Memory and Flash in LLM Inference Systems.” Abstract Excerpt: “ High-Bandwidth Flash (HBF) offers a denser alternative, providing 16x more capacity per stack at comparable bandwidth. In this work, w Semiconductor Read 2 DigiTimes Huawei's Ascend 910C sold out in China, but Nvidia's H200 supply gap persists Huawei's Ascend 910C is already sold out in China, but domestic chips still cannot fully replace Nvidia's H200s. The shortage matters beyond China because AI compute constraints, pricing, and supply chain shifts are reshaping how quickly companies worldwide can deploy advanced inference systems. AISemiconductorLogistics Read 3 DigiTimes Nvidia forms PAC to expand Washington lobbying According to Bloomberg , Nvidia has formed a federal political action committee (PAC), expanding its Washington presence as governments debate artificial intelligence rules that could affect businesses, workers, and consumers worldwide. The move underscores how major technology firms are preparing for a longer policy b AI Read 4 DigiTimes Nvidia's upbeat outlook points to tighter AI supply chains ahead Nvidia's latest earnings and forecast suggest AI demand remains far ahead of available supply, with implications for memory, power, cooling, and networking worldwide. The chipmaker's guidance points to continued price pressure and a broader buildout of infrastructure that will shape AI adoption across markets and indus AISemiconductorLogistics Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 29, 2026</title><link href="https://asiatechfeed.com/2026/08/29/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 29, 2026" /><published>2026-08-29T08:00:45+00:00</published><updated>2026-08-29T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/08/29/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/29/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
