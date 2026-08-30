@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-29T08:01:25+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 29, 2026</title><link href="https://asiatechfeed.com/2026/08/29/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 29, 2026" /><published>2026-08-29T08:00:45+00:00</published><updated>2026-08-29T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/08/29/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/29/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-08-30T00:03:38+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - August 30, 2026</title><link href="https://asiatechfeed.com/2026/08/30/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 30, 2026" /><published>2026-08-30T00:03:04+00:00</published><updated>2026-08-30T00:03:04+00:00</updated><id>https://asiatechfeed.com/2026/08/30/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/30/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">These are Asia’s most active investors in AI</span></td>
+  <td class="col-summary">We've compiled a list of investors that are pouring money into Asia’s AI startups.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/these-are-asias-most-active-investors-in-ai" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Innodisk says AI demand is lifting margins while memory supply remains tight</span></td>
+  <td class="col-summary">Innodisk said its AI-focused product mix is driving stronger revenue and profitability, a sign that global demand for memory and infrastructure hardware remains robust. The company also warned that tight supply and rising prices may continue for years, with implications for AI builders, industrial users, and enterprise</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260828PD221/innodisk-demand-revenue-infrastructure-2026.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Shinkong Synthetic Fibers eyes cautious 2H26 on higher-value, recycled materials</span></td>
+  <td class="col-summary">Shinkong Synthetic Fibers Corporation (SSFC) is taking a cautiously optimistic view of operations in the second half of 2026. Despite geopolitical volatility and disruption to Middle East oil supply keeping international crude prices elevated in the short term, the company said its business should gain support from the</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260828PD200/materials-ssfc-business-2026-disruption.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">China writes its first national liquid-cooling standard as AI racks approach 1MW</span></td>
+  <td class="col-summary">AI infrastructure is entering a phase in which GPUs are no longer the only constraint. Nvidia's Vera Rubin generation is pushing rack power high enough to force parallel changes in cooling, power delivery and data center design.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260828VL206/cooling-nvidia-rubin-infrastructure-data-center.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: US$13 billion Hugging Face deal would crown Nvidia king of AI</span></td>
+  <td class="col-summary">Nvidia wants open AI models to thrive, but for a self-interested reason, says Parmy Olson for Bloomberg Opinion.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/nvidia-hugging-face-ai-openai-chips-6347461" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">AI robots and drones to assist in Fukushima nuclear plant cleanup</span></td>
+  <td class="col-summary">AI robots and drones to assist in Fukushima nuclear plant cleanup</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/ai-robots-and-drones-to-assist-in-fukushima-nuclear-plant-cleanup" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia These are Asia’s most active investors in AI We've compiled a list of investors that are pouring money into Asia’s AI startups. AI Read 2 DigiTimes Innodisk says AI demand is lifting margins while memory supply remains tight Innodisk said its AI-focused product mix is driving stronger revenue and profitability, a sign that global demand for memory and infrastructure hardware remains robust. The company also warned that tight supply and rising prices may continue for years, with implications for AI builders, industrial users, and enterprise AI Read 3 DigiTimes Shinkong Synthetic Fibers eyes cautious 2H26 on higher-value, recycled materials Shinkong Synthetic Fibers Corporation (SSFC) is taking a cautiously optimistic view of operations in the second half of 2026. Despite geopolitical volatility and disruption to Middle East oil supply keeping international crude prices elevated in the short term, the company said its business should gain support from the AI Read 4 DigiTimes China writes its first national liquid-cooling standard as AI racks approach 1MW AI infrastructure is entering a phase in which GPUs are no longer the only constraint. Nvidia's Vera Rubin generation is pushing rack power high enough to force parallel changes in cooling, power delivery and data center design. AI Read 5 CNA Commentary: US$13 billion Hugging Face deal would crown Nvidia king of AI Nvidia wants open AI models to thrive, but for a self-interested reason, says Parmy Olson for Bloomberg Opinion. AI Read 6 NikkeiAsia AI robots and drones to assist in Fukushima nuclear plant cleanup AI robots and drones to assist in Fukushima nuclear plant cleanup Automation Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 29, 2026</title><link href="https://asiatechfeed.com/2026/08/29/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 29, 2026" /><published>2026-08-29T08:00:45+00:00</published><updated>2026-08-29T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/08/29/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/29/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -691,113 +752,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-startup-rolls-out-robot-arms-in-logistics-warehouses2" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia A16z partner: High ad spend is a warning sign for AI startups Andreessen Horowitz's Anish Acharya explains why high marketing spend is a red flag for AI startups, and why premium pricing signals real demand. AI Read 2 DigiTimes Lee Jae-myung meets SK chief Chey Tae-won with US chip investment pressure in focus South Korean President Lee Jae-myung has begun a fresh round of talks with the country's leading business figures, starting with a private dinner with SK Group chairman Chey Tae-won, at a time when semiconductor investment, artificial intelligence and US demands for more local manufacturing are becoming increasingly in SemiconductorAI Read 3 DigiTimes Analyst: Upstream memory giants eye threefold 2026 revenue as 2027 capacity eases price surge The global memory market is entering a sharp upcycle as cloud providers boost capital spending and demand for AI infrastructure lifts DRAM, NAND, and HBM prices. According to DIGITIMES, the three largest upstream memory chip makers are headed for a more than threefold jump in combined DRAM and NAND revenue in 2026, wit AISemiconductor Read 4 DigiTimes CoWoS boom lifts Taiwan semiconductor equipment makers, Bosch Rexroth targets 2027 volume growth Bosch Rexroth, the industrial technology subsidiary of Bosch, showcased advanced semiconductor and smart manufacturing solutions at the 2026 Taipei International Industrial Automation Exhibition, held from August 19 to 22. SemiconductorAutomation Read 5 CNA LTA to roll out AI system using bus cameras to detect bus lane encroachments, road defects The system achieved an average accuracy of 90 per cent in trials, with deployment starting in the fourth quarter of 2026 and expansion to all bus routes by 2030. AI Read 6 EETAsia LitePoint Validates STMicroelectronics UWB Chipset for IEEE 802.15.4ab LitePoint validates ST's ST64UWB family, confirming PHY performance against IEEE 802.15.4ab requirements for next-gen UWB applications. The post LitePoint Validates STMicroelectronics UWB Chipset for IEEE 802.15.4ab appeared first on EE Times Asia . ElectronicsSemiconductor Read 7 TechAsia SMEs want AI too, but not the kind Big Tech is selling Big Tech's AI tools were built for enterprises, but SMEs want AI that’s cheaper, simpler, and predictable - creating an opening for tailored solutions. AI Read 8 EETAsia MacDermid Alpha Targets Greater Attach Consistency for High-Power Electronics MacDermid Alpha will showcase solder and sintering technologies designed to improve attach consistency across high-volume power electronics manufacturing. The post MacDermid Alpha Targets Greater Attach Consistency for High-Power Electronics appeared first on EE Times Asia . Electronics Read 9 TechAsia Bringing brand inventory directly to AI assistants TruCommerce bridges the gap between brands and AI assistants, enabling in-chat discovery and transactions. AI Read 10 NikkeiAsia Chinese startup rolls out robot arms in logistics warehouses Chinese startup rolls out robot arms in logistics warehouses LogisticsAutomation Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 20, 2026</title><link href="https://asiatechfeed.com/2026/08/20/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 20, 2026" /><published>2026-08-20T08:00:48+00:00</published><updated>2026-08-20T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/08/20/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/20/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Singapore and India discuss bilateral cooperation on semiconductors, food security at ministerial meeting</span></td>
-  <td class="col-summary">The two countries signed Memorandums of Understanding on food safety and maritime heritage at the fourth India-Singapore Ministerial Roundtable held in Singapore.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/india-singapore-semiconductors-food-safety-6330246" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">The real risk for AI companies is running out of cash</span></td>
-  <td class="col-summary">Stratechery founder Ben Thompson explains why AI companies could run out of cash before demand fades, and how pricing and supply chains factor in.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/the-real-risk-for-ai-companies-is-running-out-of-cash" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Meta launches AI tools for small businesses</span></td>
-  <td class="col-summary">Meta said the features are free to use now.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-launches-seller-app-facebook-marketplace" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SoftBank, Ericsson validate AI software on 5G</span></td>
-  <td class="col-summary">The companies said the AI-native scheduler adjusts downlink transmission settings in real time inside the radio access network, or RAN.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/softbank-openai-launch-japan-cyber-service-3000-firms" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AMEC profit jumps 300%: China chip equipment maker expands beyond etch with US$520M plan</span></td>
-  <td class="col-summary">Advanced Micro-Fabrication Equipment Inc. China (AMEC) posted a 300% surge in first-half 2026 profit and announced a CNY3.5 billion (US$520 million) capacity expansion, accelerating its shift from an etch specialist into a broader semiconductor equipment supplier.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260820VL204/amec-equipment-profit-production-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Why the suit is making a comeback – and becoming easier to wear</span></td>
-  <td class="col-summary">Women’s tailoring is loosening up, with softer cuts, oversized silhouettes and lighter fabrics making the suit more versatile than ever.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/obsessions/womens-suits-tailoring-trend-6330371" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AI drives network equipment demand as parts shortages deepen</span></td>
-  <td class="col-summary">AI data center expansion and rising demand for enterprise network upgrades continue to lift the network equipment market, giving several vendors better order visibility. But surging prices for key components such as memory and PCBs, along with hyperscalers drawing heavily on supply-chain resources, are squeezing parts </td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260820PD214/network-equipment-expansion-materials-demand.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SK Hynix's new HBM team lands in Nvidia and AMD's backyard — co-design is becoming the way to win HBM4 orders</span></td>
-  <td class="col-summary">SK Hynix is reported to be assembling a high-bandwidth memory (HBM) design team in Silicon Valley, a move that would deepen its co-design work with major US chip customers. Analysts see it as evidence that HBM competition is shifting into a customized, jointly developed phase.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260820PD219/sk-hynix-hbm-hbm4-design-amd.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Robots poised for 'ChatGPT moment', says Unitree CEO</span></td>
-  <td class="col-summary">The industry is nearing a breakthrough where robots can be placed in unfamiliar environments and complete most tasks through simple voice or text instructions, says Unitree CEO Wang Xingxing.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/china-unitree-wang-xingxing-humanoid-robot-chatgpt-6330271" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Protecting Semiconductor Yield Through High-Purity Fastener Selection</span></td>
-  <td class="col-summary">High-purity fastener materials and vented designs can help semiconductor manufacturers manage corrosion, thermal stress, contamination and vacuum-related risks across demanding fabrication environments The post Protecting Semiconductor Yield Through High-Purity Fastener Selection appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/protecting-semiconductor-yield-through-high-purity-fastener-selection/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">NFC Market Set to Reach $37.4B by 2032</span></td>
-  <td class="col-summary">NFC adoption is accelerating across payments, consumer electronics and connected devices, driving sustained global market growth through 2032. The post NFC Market Set to Reach $37.4B by 2032 appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/nfc-market-set-to-reach-37-4b-by-2032/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">AI Workloads Reshaping the Memory Hierarchy</span></td>
-  <td class="col-summary">AI workloads are driving memory diversification, with HBM, LPDDR, DDR, and storage balancing capacity, latency, power, and cost. The post AI Workloads Reshaping the Memory Hierarchy appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ai-workloads-reshaping-the-memory-hierarchy/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Singapore and India discuss bilateral cooperation on semiconductors, food security at ministerial meeting The two countries signed Memorandums of Understanding on food safety and maritime heritage at the fourth India-Singapore Ministerial Roundtable held in Singapore. Semiconductor Read 2 TechAsia The real risk for AI companies is running out of cash Stratechery founder Ben Thompson explains why AI companies could run out of cash before demand fades, and how pricing and supply chains factor in. AILogistics Read 3 TechAsia Meta launches AI tools for small businesses Meta said the features are free to use now. AI Read 4 TechAsia SoftBank, Ericsson validate AI software on 5G The companies said the AI-native scheduler adjusts downlink transmission settings in real time inside the radio access network, or RAN. AI Read 5 DigiTimes AMEC profit jumps 300%: China chip equipment maker expands beyond etch with US$520M plan Advanced Micro-Fabrication Equipment Inc. China (AMEC) posted a 300% surge in first-half 2026 profit and announced a CNY3.5 billion (US$520 million) capacity expansion, accelerating its shift from an etch specialist into a broader semiconductor equipment supplier. Semiconductor Read 6 CNA Why the suit is making a comeback – and becoming easier to wear Women’s tailoring is loosening up, with softer cuts, oversized silhouettes and lighter fabrics making the suit more versatile than ever. Semiconductor Read 7 DigiTimes AI drives network equipment demand as parts shortages deepen AI data center expansion and rising demand for enterprise network upgrades continue to lift the network equipment market, giving several vendors better order visibility. But surging prices for key components such as memory and PCBs, along with hyperscalers drawing heavily on supply-chain resources, are squeezing parts ElectronicsAI Read 8 DigiTimes SK Hynix's new HBM team lands in Nvidia and AMD's backyard — co-design is becoming the way to win HBM4 orders SK Hynix is reported to be assembling a high-bandwidth memory (HBM) design team in Silicon Valley, a move that would deepen its co-design work with major US chip customers. Analysts see it as evidence that HBM competition is shifting into a customized, jointly developed phase. Semiconductor Read 9 CNA Robots poised for 'ChatGPT moment', says Unitree CEO The industry is nearing a breakthrough where robots can be placed in unfamiliar environments and complete most tasks through simple voice or text instructions, says Unitree CEO Wang Xingxing. Automation Read 10 EETAsia Protecting Semiconductor Yield Through High-Purity Fastener Selection High-purity fastener materials and vented designs can help semiconductor manufacturers manage corrosion, thermal stress, contamination and vacuum-related risks across demanding fabrication environments The post Protecting Semiconductor Yield Through High-Purity Fastener Selection appeared first on EE Times Asia . Semiconductor Read 11 EETAsia NFC Market Set to Reach $37.4B by 2032 NFC adoption is accelerating across payments, consumer electronics and connected devices, driving sustained global market growth through 2032. The post NFC Market Set to Reach $37.4B by 2032 appeared first on EE Times Asia . Electronics Read 12 EETAsia AI Workloads Reshaping the Memory Hierarchy AI workloads are driving memory diversification, with HBM, LPDDR, DDR, and storage balancing capacity, latency, power, and cost. The post AI Workloads Reshaping the Memory Hierarchy appeared first on EE Times Asia . AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia A16z partner: High ad spend is a warning sign for AI startups Andreessen Horowitz's Anish Acharya explains why high marketing spend is a red flag for AI startups, and why premium pricing signals real demand. AI Read 2 DigiTimes Lee Jae-myung meets SK chief Chey Tae-won with US chip investment pressure in focus South Korean President Lee Jae-myung has begun a fresh round of talks with the country's leading business figures, starting with a private dinner with SK Group chairman Chey Tae-won, at a time when semiconductor investment, artificial intelligence and US demands for more local manufacturing are becoming increasingly in SemiconductorAI Read 3 DigiTimes Analyst: Upstream memory giants eye threefold 2026 revenue as 2027 capacity eases price surge The global memory market is entering a sharp upcycle as cloud providers boost capital spending and demand for AI infrastructure lifts DRAM, NAND, and HBM prices. According to DIGITIMES, the three largest upstream memory chip makers are headed for a more than threefold jump in combined DRAM and NAND revenue in 2026, wit AISemiconductor Read 4 DigiTimes CoWoS boom lifts Taiwan semiconductor equipment makers, Bosch Rexroth targets 2027 volume growth Bosch Rexroth, the industrial technology subsidiary of Bosch, showcased advanced semiconductor and smart manufacturing solutions at the 2026 Taipei International Industrial Automation Exhibition, held from August 19 to 22. SemiconductorAutomation Read 5 CNA LTA to roll out AI system using bus cameras to detect bus lane encroachments, road defects The system achieved an average accuracy of 90 per cent in trials, with deployment starting in the fourth quarter of 2026 and expansion to all bus routes by 2030. AI Read 6 EETAsia LitePoint Validates STMicroelectronics UWB Chipset for IEEE 802.15.4ab LitePoint validates ST's ST64UWB family, confirming PHY performance against IEEE 802.15.4ab requirements for next-gen UWB applications. The post LitePoint Validates STMicroelectronics UWB Chipset for IEEE 802.15.4ab appeared first on EE Times Asia . ElectronicsSemiconductor Read 7 TechAsia SMEs want AI too, but not the kind Big Tech is selling Big Tech's AI tools were built for enterprises, but SMEs want AI that’s cheaper, simpler, and predictable - creating an opening for tailored solutions. AI Read 8 EETAsia MacDermid Alpha Targets Greater Attach Consistency for High-Power Electronics MacDermid Alpha will showcase solder and sintering technologies designed to improve attach consistency across high-volume power electronics manufacturing. The post MacDermid Alpha Targets Greater Attach Consistency for High-Power Electronics appeared first on EE Times Asia . Electronics Read 9 TechAsia Bringing brand inventory directly to AI assistants TruCommerce bridges the gap between brands and AI assistants, enabling in-chat discovery and transactions. AI Read 10 NikkeiAsia Chinese startup rolls out robot arms in logistics warehouses Chinese startup rolls out robot arms in logistics warehouses LogisticsAutomation Read]]></summary></entry></feed>
