@@ -1,38 +1,37 @@
 {
   "date": "2026-08-30",
-  "count": 6,
+  "count": 5,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "NikkeiAsia",
+    "KED",
     "TechAsia"
   ],
   "post_file": "2026-08-30-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "These are Asia\u2019s most active investors in AI",
+      "title": "South Korea taps SK Telecom, Kakao, KT for free AI plan",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/these-are-asias-most-active-investors-in-ai"
+      "url": "https://www.techinasia.com/sk-telecom-partners-defense-ministry-military-ai"
     },
     {
-      "title": "Innodisk says AI demand is lifting margins while memory supply remains tight",
+      "title": "Humanoid robot shipments top 22,000 in 1H26 as industrial use gains ground",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260828PD221/innodisk-demand-revenue-infrastructure-2026.html"
+      "url": "https://www.digitimes.com/news/a20260828VL213/robot-industrial-shipments-data-expansion.html"
     },
     {
-      "title": "Shinkong Synthetic Fibers eyes cautious 2H26 on higher-value, recycled materials",
+      "title": "KKCompany taps PressPlay to expand into knowledge learning, creator economy",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260828PD200/materials-ssfc-business-2026-disruption.html"
+      "url": "https://www.digitimes.com/news/a20260828PD215/economy-kkbox-taipei-advertising-2026.html"
     },
     {
-      "title": "China writes its first national liquid-cooling standard as AI racks approach 1MW",
+      "title": "Anthropic sets sights on custom hardware to fuel AI ambitions, reportedly eyed $7B MatX deal",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260828VL206/cooling-nvidia-rubin-infrastructure-data-center.html"
+      "url": "https://www.digitimes.com/news/a20260828VL215/hardware-anthropic-silicon-startup-google.html"
     },
     {
-      "title": "Commentary: US$13 billion Hugging Face deal would crown Nvidia king of AI",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/nvidia-hugging-face-ai-openai-chips-6347461"
+      "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
+      "source": "KED",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001"
     }
   ],
   "source_stats": [
@@ -51,7 +50,7 @@
       "fetched": 20,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -148,7 +147,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 4,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -168,7 +167,7 @@
       "fetched": 50,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -177,7 +176,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -193,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 11,
+      "relevant": 10,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
