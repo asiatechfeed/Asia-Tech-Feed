@@ -1,59 +1,51 @@
 [
   {
     "date": "2026-08-30",
-    "title": "South Korea taps SK Telecom, Kakao, KT for free AI plan",
-    "summary": "SK Telecom’s AI service will handle restaurant bookings and issue 83 types of certificates.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford)",
+    "summary": "Researchers at the University of Oxford published a technical paper titled “Hardware-Managed Heterogeneous High-Bandwidth Memory and Flash in LLM Inference Systems.” Abstract Excerpt: “ High-Bandwidth Flash (HBF) offers a denser alternative, providing 16x more capacity per stack at comparable bandwidth. In this work, w",
+    "source": "Semiconductor Engineering",
+    "short": "SemiEng",
     "tags": [
-      "AI"
+      "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/sk-telecom-partners-defense-ministry-military-ai"
+    "url": "https://semiengineering.com/hybrid-hbm-hbf-architecture-in-llm-inference-university-of-oxford/"
   },
   {
     "date": "2026-08-30",
-    "title": "Humanoid robot shipments top 22,000 in 1H26 as industrial use gains ground",
-    "summary": "As embodied intelligence takes physical form amid widespread production-capacity expansion in the humanoid robot sector, it is becoming increasingly possible to envision a society in which the boundaries between human intelligence and machine activity grow progressively blurred under AI's expanding reach.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Automation"
-    ],
-    "url": "https://www.digitimes.com/news/a20260828VL213/robot-industrial-shipments-data-expansion.html"
-  },
-  {
-    "date": "2026-08-30",
-    "title": "KKCompany taps PressPlay to expand into knowledge learning, creator economy",
-    "summary": "KKCompany Technologies, parent of KKBOX, will officially list on the Taipei Exchange's Emerging Stock Board on August 31, with chairman and CEO Steve Wang detailing, for the first time, the group's integration of PressPlay during a pre-listing investor briefing. The transaction, completed in the second quarter of 2026,",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260828PD215/economy-kkbox-taipei-advertising-2026.html"
-  },
-  {
-    "date": "2026-08-30",
-    "title": "Anthropic sets sights on custom hardware to fuel AI ambitions, reportedly eyed $7B MatX deal",
-    "summary": "In an effort to accelerate its custom silicon initiative and curb reliance on external hardware suppliers, artificial intelligence developer Anthropic held discussions to acquire AI chip startup MatX for roughly US$7 billion, according to Reuters . While the acquisition talks have since evolved into potential partnersh",
+    "title": "Huawei's Ascend 910C sold out in China, but Nvidia's H200 supply gap persists",
+    "summary": "Huawei's Ascend 910C is already sold out in China, but domestic chips still cannot fully replace Nvidia's H200s. The shortage matters beyond China because AI compute constraints, pricing, and supply chain shifts are reshaping how quickly companies worldwide can deploy advanced inference systems.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI",
-      "Semiconductor"
+      "Semiconductor",
+      "Logistics"
     ],
-    "url": "https://www.digitimes.com/news/a20260828VL215/hardware-anthropic-silicon-startup-google.html"
+    "url": "https://www.digitimes.com/news/a20260828PD207/huawei-ascend-nvidia-chips-china-2026.html"
   },
   {
     "date": "2026-08-30",
-    "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
-    "summary": "Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio",
-    "source": "KED Global",
-    "short": "KED",
+    "title": "Nvidia forms PAC to expand Washington lobbying",
+    "summary": "According to Bloomberg , Nvidia has formed a federal political action committee (PAC), expanding its Washington presence as governments debate artificial intelligence rules that could affect businesses, workers, and consumers worldwide. The move underscores how major technology firms are preparing for a longer policy b",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001"
+    "url": "https://www.digitimes.com/news/a20260828PD223/nvidia-market-policy-bloomberg-regulation.html"
+  },
+  {
+    "date": "2026-08-30",
+    "title": "Nvidia's upbeat outlook points to tighter AI supply chains ahead",
+    "summary": "Nvidia's latest earnings and forecast suggest AI demand remains far ahead of available supply, with implications for memory, power, cooling, and networking worldwide. The chipmaker's guidance points to continued price pressure and a broader buildout of infrastructure that will shape AI adoption across markets and indus",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260828PD205/nvidia-ai-demand-earnings-forecast.html"
   },
   {
     "date": "2026-08-29",
