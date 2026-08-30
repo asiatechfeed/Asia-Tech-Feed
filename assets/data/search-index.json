@@ -1,5 +1,71 @@
 [
   {
+    "date": "2026-08-30",
+    "title": "These are Asia’s most active investors in AI",
+    "summary": "We've compiled a list of investors that are pouring money into Asia’s AI startups.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/these-are-asias-most-active-investors-in-ai"
+  },
+  {
+    "date": "2026-08-30",
+    "title": "Innodisk says AI demand is lifting margins while memory supply remains tight",
+    "summary": "Innodisk said its AI-focused product mix is driving stronger revenue and profitability, a sign that global demand for memory and infrastructure hardware remains robust. The company also warned that tight supply and rising prices may continue for years, with implications for AI builders, industrial users, and enterprise",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260828PD221/innodisk-demand-revenue-infrastructure-2026.html"
+  },
+  {
+    "date": "2026-08-30",
+    "title": "Shinkong Synthetic Fibers eyes cautious 2H26 on higher-value, recycled materials",
+    "summary": "Shinkong Synthetic Fibers Corporation (SSFC) is taking a cautiously optimistic view of operations in the second half of 2026. Despite geopolitical volatility and disruption to Middle East oil supply keeping international crude prices elevated in the short term, the company said its business should gain support from the",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260828PD200/materials-ssfc-business-2026-disruption.html"
+  },
+  {
+    "date": "2026-08-30",
+    "title": "China writes its first national liquid-cooling standard as AI racks approach 1MW",
+    "summary": "AI infrastructure is entering a phase in which GPUs are no longer the only constraint. Nvidia's Vera Rubin generation is pushing rack power high enough to force parallel changes in cooling, power delivery and data center design.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260828VL206/cooling-nvidia-rubin-infrastructure-data-center.html"
+  },
+  {
+    "date": "2026-08-30",
+    "title": "Commentary: US$13 billion Hugging Face deal would crown Nvidia king of AI",
+    "summary": "Nvidia wants open AI models to thrive, but for a self-interested reason, says Parmy Olson for Bloomberg Opinion.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/nvidia-hugging-face-ai-openai-chips-6347461"
+  },
+  {
+    "date": "2026-08-30",
+    "title": "AI robots and drones to assist in Fukushima nuclear plant cleanup",
+    "summary": "AI robots and drones to assist in Fukushima nuclear plant cleanup",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-robots-and-drones-to-assist-in-fukushima-nuclear-plant-cleanup"
+  },
+  {
     "date": "2026-08-29",
     "title": "Tencent unveils AI model it says outperforms Z.ai, Moonshot",
     "summary": "Tencent demonstrated Hy4 Preview for game creation, 3D web design, and accounting compliance.",

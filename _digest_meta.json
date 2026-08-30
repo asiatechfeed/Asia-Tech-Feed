@@ -1,37 +1,38 @@
 {
-  "date": "2026-08-29",
-  "count": 7,
+  "date": "2026-08-30",
+  "count": 6,
   "sources": [
     "CNA",
     "DigiTimes",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-08-29-asia-tech-news-digest.md",
+  "post_file": "2026-08-30-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Tencent unveils AI model it says outperforms Z.ai, Moonshot",
+      "title": "These are Asia\u2019s most active investors in AI",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/tencent-cloud-expands-ai-agent-suite-indonesia"
+      "url": "https://www.techinasia.com/these-are-asias-most-active-investors-in-ai"
     },
     {
-      "title": "Blue Owl leads $2.4b debt deal to fund IREN\u2019s Nvidia chips",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/microsoft-to-buy-nearly-9-7b-ai-cloud-capacity-from-australian-firm"
-    },
-    {
-      "title": "China\u2019s CXMT revenue soars as AI lifts memory prices",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/tencent-cxmt-sign-multiyear-29b-dram-deal"
-    },
-    {
-      "title": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/openai-cut-ai-models-spacex-owned-cursor-escalating-feud-musk-6348951"
-    },
-    {
-      "title": "Apple's M6 marks a transitional step before wider 2nm adoption",
+      "title": "Innodisk says AI demand is lifting margins while memory supply remains tight",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260828PD233/apple-chips-mac-mini-performance-capacity.html"
+      "url": "https://www.digitimes.com/news/a20260828PD221/innodisk-demand-revenue-infrastructure-2026.html"
+    },
+    {
+      "title": "Shinkong Synthetic Fibers eyes cautious 2H26 on higher-value, recycled materials",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260828PD200/materials-ssfc-business-2026-disruption.html"
+    },
+    {
+      "title": "China writes its first national liquid-cooling standard as AI racks approach 1MW",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260828VL206/cooling-nvidia-rubin-infrastructure-data-center.html"
+    },
+    {
+      "title": "Commentary: US$13 billion Hugging Face deal would crown Nvidia king of AI",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/nvidia-hugging-face-ai-openai-chips-6347461"
     }
   ],
   "source_stats": [
@@ -156,7 +157,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 24,
+      "relevant": 25,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 4,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -194,7 +195,7 @@
       "fetched": 36,
       "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
