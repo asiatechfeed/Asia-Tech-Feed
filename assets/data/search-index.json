@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-08-31",
+    "title": "MIPS Expands RISC-V Role to Advance Open Architectures for Physical AI",
+    "summary": "MIPS joins RISC-V International as a Premier Member, targeting open, workload-optimized computing for physical AI applications. The post MIPS Expands RISC-V Role to Advance Open Architectures for Physical AI appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/mips-expands-risc-v-role-to-advance-open-architectures-for-physical-ai/"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Samsung launches Galaxy S26 FE with lower price",
+    "summary": "Samsung Electronics launched its Galaxy S26 Fan Edition in the second half of 2026 with a starting price of 1.045 million won in South Korea, or about US$714, as it sought to round out its smartphone lineup and address rising component costs. According to ET News and Bloomberg, global sales of the 256GB model were set ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260828PD239/samsung-galaxy-price-mediatek-camera.html"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "India roundup: India broadens semiconductor and AI ambitions across manufacturing, design, materials and data centers",
+    "summary": "India's semiconductor ambitions are expanding from packaging and testing to chip design, materials, mobile devices and data centers. New investments by CG Power, Infineon, Foxconn, Samsung and LG highlight rising industrial activity, while skills shortages, environmental constraints and import dependence remain challen",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260828VL209/design-data-manufacturing-materials-packaging.html"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Podcast highlights: Xiaomi's 3nm chip cap, HBM in Malaysia, and Nvidia's margin tradeoff",
+    "summary": "Can Xiaomi's in-house chip reach 2nm? Is HBM rerouting to Malaysia TSMC giving Intel a pass? Can Nvidia hold a 75% gross margin or protect market share? Ahead of Apple's September 10 event, the pre-event technology lull was anything but quiet, and DIGITIMES analyst Luke Lin broke down three stories and the industry log",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260828PD237/xiaomi-hbm-malaysia-nvidia-tsmc-chips.html"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "MacDermid Alpha Showcases Materials Enabling Next-gen Packaging at SEMICON Taiwan 2026",
+    "summary": "MacDermid Alpha will showcase materials for advanced interconnects, die attach and wafer-level packaging at SEMICON Taiwan. The post MacDermid Alpha Showcases Materials Enabling Next-gen Packaging at SEMICON Taiwan 2026 appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/macdermid-alpha-showcases-materials-enabling-next-gen-packaging-at-semicon-taiwan-2026/"
+  },
+  {
     "date": "2026-08-30",
     "title": "Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford)",
     "summary": "Researchers at the University of Oxford published a technical paper titled “Hardware-Managed Heterogeneous High-Bandwidth Memory and Flash in LLM Inference Systems.” Abstract Excerpt: “ High-Bandwidth Flash (HBF) offers a denser alternative, providing 16x more capacity per stack at comparable bandwidth. In this work, w",

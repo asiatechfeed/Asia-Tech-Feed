@@ -1,31 +1,36 @@
 {
-  "date": "2026-08-30",
-  "count": 4,
+  "date": "2026-08-31",
+  "count": 5,
   "sources": [
     "DigiTimes",
-    "SemiEng"
+    "EETAsia"
   ],
-  "post_file": "2026-08-30-asia-tech-news-digest.md",
+  "post_file": "2026-08-31-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford)",
-      "source": "SemiEng",
-      "url": "https://semiengineering.com/hybrid-hbm-hbf-architecture-in-llm-inference-university-of-oxford/"
+      "title": "MIPS Expands RISC-V Role to Advance Open Architectures for Physical AI",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/mips-expands-risc-v-role-to-advance-open-architectures-for-physical-ai/"
     },
     {
-      "title": "Huawei's Ascend 910C sold out in China, but Nvidia's H200 supply gap persists",
+      "title": "Samsung launches Galaxy S26 FE with lower price",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260828PD207/huawei-ascend-nvidia-chips-china-2026.html"
+      "url": "https://www.digitimes.com/news/a20260828PD239/samsung-galaxy-price-mediatek-camera.html"
     },
     {
-      "title": "Nvidia forms PAC to expand Washington lobbying",
+      "title": "India roundup: India broadens semiconductor and AI ambitions across manufacturing, design, materials and data centers",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260828PD223/nvidia-market-policy-bloomberg-regulation.html"
+      "url": "https://www.digitimes.com/news/a20260828VL209/design-data-manufacturing-materials-packaging.html"
     },
     {
-      "title": "Nvidia's upbeat outlook points to tighter AI supply chains ahead",
+      "title": "Podcast highlights: Xiaomi's 3nm chip cap, HBM in Malaysia, and Nvidia's margin tradeoff",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260828PD205/nvidia-ai-demand-earnings-forecast.html"
+      "url": "https://www.digitimes.com/news/a20260828PD237/xiaomi-hbm-malaysia-nvidia-tsmc-chips.html"
+    },
+    {
+      "title": "MacDermid Alpha Showcases Materials Enabling Next-gen Packaging at SEMICON Taiwan 2026",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/macdermid-alpha-showcases-materials-enabling-next-gen-packaging-at-semicon-taiwan-2026/"
     }
   ],
   "source_stats": [
@@ -122,8 +127,8 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
-      "relevant": 1,
+      "fetched": 0,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -141,16 +146,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 3,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 25,
+      "relevant": 26,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -159,7 +164,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 3,
+      "relevant": 2,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -206,7 +211,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     }
   ]
