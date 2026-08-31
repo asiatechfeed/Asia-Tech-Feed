@@ -1,38 +1,37 @@
 {
   "date": "2026-08-31",
-  "count": 9,
+  "count": 7,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
     "TechAsia"
   ],
   "post_file": "2026-08-31-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "MetaX posts first-half profit while China's AI GPU rivals split",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260831VL207/metax-china-ai-gpu-profit-revenue.html"
-    },
-    {
-      "title": "OpenAI to pull its models from Cursor, highlighting tension with SpaceX's Elon Musk",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260831VL212/openai-spacex-elon-musk-acquisition-lawsuit.html"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold8 demand surges, straining UMC 22nm DDI supply",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260831PD204/samsung-galaxy-ddi-umc-22nm.html"
-    },
-    {
-      "title": "Life\u2019s a game, and AI agents are Animoca\u2019s new play",
+      "title": "Why token prices are the wrong way to judge AI",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/lifes-game-animocas-agents-play"
+      "url": "https://www.techinasia.com/why-token-prices-are-the-wrong-way-to-judge-ai"
     },
     {
-      "title": "SMBC, Singtel back SG automation startup FileAI",
+      "title": "\u2018Hazardous\u2019 levels of air quality in parts of Indonesia\u2019s Borneo",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-kalimantan-forest-fires-air-quality-6351716"
+    },
+    {
+      "title": "Gudeng chairman says trust underpins Taiwan supply chains amid Unimicron row",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260831PD220/taiwan-chairman-unimicron-supply-chain-2026.html"
+    },
+    {
+      "title": "Meet the AI platform that helps brands evaluate content creators",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/sg-automation-firm-fileai-enters-japan-with-jre-ventures-backing"
+      "url": "https://www.techinasia.com/meet-ai-platform-helps-brands-evaluate-content-creators"
+    },
+    {
+      "title": "Unimicron falls 10% daily limit, says origin probe covers PCBs not substrates",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260831VL217/unimicron-taiwan-investigation-pcb-abf-substrate.html"
     }
   ],
   "source_stats": [
@@ -129,8 +128,8 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
-      "relevant": 1,
+      "fetched": 0,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -150,14 +149,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 26,
+      "fetched": 40,
+      "relevant": 27,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -193,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
