@@ -1,59 +1,103 @@
 [
   {
     "date": "2026-08-31",
-    "title": "MIPS Expands RISC-V Role to Advance Open Architectures for Physical AI",
-    "summary": "MIPS joins RISC-V International as a Premier Member, targeting open, workload-optimized computing for physical AI applications. The post MIPS Expands RISC-V Role to Advance Open Architectures for Physical AI appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "MetaX posts first-half profit while China's AI GPU rivals split",
+    "summary": "MetaX posted its first half-year profit since listing, with rising GPU shipments and the mass production of its C600 accelerator strengthening its commercial position while China's domestic AI chip sector increasingly splits between profitable vendors and peers still absorbing heavy R&D costs.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "AI"
+      "AI",
+      "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/mips-expands-risc-v-role-to-advance-open-architectures-for-physical-ai/"
+    "url": "https://www.digitimes.com/news/a20260831VL207/metax-china-ai-gpu-profit-revenue.html"
   },
   {
     "date": "2026-08-31",
-    "title": "Samsung launches Galaxy S26 FE with lower price",
-    "summary": "Samsung Electronics launched its Galaxy S26 Fan Edition in the second half of 2026 with a starting price of 1.045 million won in South Korea, or about US$714, as it sought to round out its smartphone lineup and address rising component costs. According to ET News and Bloomberg, global sales of the 256GB model were set ",
+    "title": "OpenAI to pull its models from Cursor, highlighting tension with SpaceX's Elon Musk",
+    "summary": "OpenAI announced that it will end its contract allowing its models to be used on Cursor due to the latter's acquisition by SpaceX. The development indicates the tense personal relationship between AI leaders Sam Altman and Elon Musk months after an acrimonious lawsuit between the two and as both companies pursue the lu",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260831VL212/openai-spacex-elon-musk-acquisition-lawsuit.html"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Samsung Galaxy Z Fold8 demand surges, straining UMC 22nm DDI supply",
+    "summary": "Samsung Electronics' first passport-style foldable, the Galaxy Z Fold8, is reportedly facing tight display driver IC (DDI) supply as demand exceeds expectations. Samsung has continued to raise component orders, but the related 22nm process capacity at United Microelectronics Corporation (UMC) has reached its limit.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20260828PD239/samsung-galaxy-price-mediatek-camera.html"
+    "url": "https://www.digitimes.com/news/a20260831PD204/samsung-galaxy-ddi-umc-22nm.html"
   },
   {
     "date": "2026-08-31",
-    "title": "India roundup: India broadens semiconductor and AI ambitions across manufacturing, design, materials and data centers",
-    "summary": "India's semiconductor ambitions are expanding from packaging and testing to chip design, materials, mobile devices and data centers. New investments by CG Power, Infineon, Foxconn, Samsung and LG highlight rising industrial activity, while skills shortages, environmental constraints and import dependence remain challen",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Life’s a game, and AI agents are Animoca’s new play",
+    "summary": "Long known for blockchain gaming, Animoca has launched an AI agent platform. Co-founder and chairman Yat Siu tells Tech in Asia what he’s planning.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "Semiconductor",
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260828VL209/design-data-manufacturing-materials-packaging.html"
+    "url": "https://www.techinasia.com/lifes-game-animocas-agents-play"
   },
   {
     "date": "2026-08-31",
-    "title": "Podcast highlights: Xiaomi's 3nm chip cap, HBM in Malaysia, and Nvidia's margin tradeoff",
-    "summary": "Can Xiaomi's in-house chip reach 2nm? Is HBM rerouting to Malaysia TSMC giving Intel a pass? Can Nvidia hold a 75% gross margin or protect market share? Ahead of Apple's September 10 event, the pre-event technology lull was anything but quiet, and DIGITIMES analyst Luke Lin broke down three stories and the industry log",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "SMBC, Singtel back SG automation startup FileAI",
+    "summary": "FileAI also introduced fileScout, which it said is an AI-native unstructured data mapping tool.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "Semiconductor"
+      "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20260828PD237/xiaomi-hbm-malaysia-nvidia-tsmc-chips.html"
+    "url": "https://www.techinasia.com/sg-automation-firm-fileai-enters-japan-with-jre-ventures-backing"
   },
   {
     "date": "2026-08-31",
-    "title": "MacDermid Alpha Showcases Materials Enabling Next-gen Packaging at SEMICON Taiwan 2026",
-    "summary": "MacDermid Alpha will showcase materials for advanced interconnects, die attach and wafer-level packaging at SEMICON Taiwan. The post MacDermid Alpha Showcases Materials Enabling Next-gen Packaging at SEMICON Taiwan 2026 appeared first on EE Times Asia .",
+    "title": "SK hynix eyes Japan memory plant as AI demand rises",
+    "summary": "SK Inc Chairman Chey Tae-won said in Sendai that SK hynix is considering locations in Japan with reliable power and water.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/sk-hynix-sell-shares-raise-investment"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "AI-Driven Memory Crunch Weighs on Global FPD Shipments",
+    "summary": "Global flat panel display (FPD) shipments are forecast to decline by 4.7% year-on-year (YoY) in 2026, according to Counterpoint Technology Market Research’s Flat Panel Display Tracker & Forecast. The sharp increase in memory prices caused by booming demand from AI data centers is being passed through to end device pric",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.eetasia.com/macdermid-alpha-showcases-materials-enabling-next-gen-packaging-at-semicon-taiwan-2026/"
+    "url": "https://www.eetasia.com/ai-driven-memory-crunch-weighs-on-global-fpd-shipments/"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "AMD Bets on Heterogeneous SoCs to Break GPU Dominance in Robotics",
+    "summary": "AMD targets robotics with heterogeneous compute, unified memory, deterministic latency and open ecosystems to challenge GPU-centric architectures. The post AMD Bets on Heterogeneous SoCs to Break GPU Dominance in Robotics appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.eetasia.com/amd-bets-on-heterogeneous-socs-to-break-gpu-dominance-in-robotics/"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "How practical AI skills are helping workers tackle real job demands",
+    "summary": "Through NTUC LearningHub, learners are leveraging AI to analyse data, automate routine tasks and improve workplace decision-making.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/advertorial/how-practical-ai-skills-are-helping-workers-tackle-real-job-demands-6325476"
   },
   {
     "date": "2026-08-30",

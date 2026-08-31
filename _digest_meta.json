@@ -1,36 +1,38 @@
 {
   "date": "2026-08-31",
-  "count": 5,
+  "count": 9,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "EETAsia"
+    "EETAsia",
+    "TechAsia"
   ],
   "post_file": "2026-08-31-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "MIPS Expands RISC-V Role to Advance Open Architectures for Physical AI",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/mips-expands-risc-v-role-to-advance-open-architectures-for-physical-ai/"
-    },
-    {
-      "title": "Samsung launches Galaxy S26 FE with lower price",
+      "title": "MetaX posts first-half profit while China's AI GPU rivals split",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260828PD239/samsung-galaxy-price-mediatek-camera.html"
+      "url": "https://www.digitimes.com/news/a20260831VL207/metax-china-ai-gpu-profit-revenue.html"
     },
     {
-      "title": "India roundup: India broadens semiconductor and AI ambitions across manufacturing, design, materials and data centers",
+      "title": "OpenAI to pull its models from Cursor, highlighting tension with SpaceX's Elon Musk",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260828VL209/design-data-manufacturing-materials-packaging.html"
+      "url": "https://www.digitimes.com/news/a20260831VL212/openai-spacex-elon-musk-acquisition-lawsuit.html"
     },
     {
-      "title": "Podcast highlights: Xiaomi's 3nm chip cap, HBM in Malaysia, and Nvidia's margin tradeoff",
+      "title": "Samsung Galaxy Z Fold8 demand surges, straining UMC 22nm DDI supply",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260828PD237/xiaomi-hbm-malaysia-nvidia-tsmc-chips.html"
+      "url": "https://www.digitimes.com/news/a20260831PD204/samsung-galaxy-ddi-umc-22nm.html"
     },
     {
-      "title": "MacDermid Alpha Showcases Materials Enabling Next-gen Packaging at SEMICON Taiwan 2026",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/macdermid-alpha-showcases-materials-enabling-next-gen-packaging-at-semicon-taiwan-2026/"
+      "title": "Life\u2019s a game, and AI agents are Animoca\u2019s new play",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/lifes-game-animocas-agents-play"
+    },
+    {
+      "title": "SMBC, Singtel back SG automation startup FileAI",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/sg-automation-firm-fileai-enters-japan-with-jre-ventures-backing"
     }
   ],
   "source_stats": [
@@ -47,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -127,8 +129,8 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
-      "relevant": 0,
+      "fetched": 10,
+      "relevant": 1,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -146,7 +148,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 6,
       "sponsored_skipped": 0,
       "published": 2,
       "error": null
@@ -191,9 +193,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 9,
+      "relevant": 14,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
