@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="en" id="html-root">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>What is Co-Packaged Optics — and Why It Matters for the Next Generation of AI Networking? | Asia Tech Feed</title>
+  <meta name="description" content="The GPU isn't the bottleneck anymore — the optical transceiver plugged into the switch is. Here's how moving lasers and modulators inside the chip package cu...">
+  
+  <link rel="stylesheet" href="/assets/css/style.css?v=4">
+  <style>
+    .nav-new-badge {
+      display: inline-block;
+      background: #f6c90e;
+      color: #0f2744;
+      font-size: 0.55rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      padding: 1px 5px;
+      border-radius: 3px;
+      vertical-align: middle;
+      margin-left: 3px;
+      line-height: 1.6;
+      text-transform: uppercase;
+    }
+  </style>
+  <script>
+    // Apply saved preference before paint to avoid flash
+    (function() {
+      var saved = localStorage.getItem('theme');
+      var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (saved === 'dark' || (!saved && prefersDark)) {
+        document.documentElement.classList.add('dark');
+      } else if (saved === 'light') {
+        document.documentElement.classList.add('light');
+      }
+    })();
+  </script>
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="theme-color" content="#1a3a5c">
+  <link rel="alternate" type="application/rss+xml" title="Asia Tech Feed" href="/feed.xml">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5549175788718429" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="site-title" href="/">
+      <img src="/assets/images/logo-light.svg" alt="Asia Tech Feed" class="site-logo site-logo-light">
+      <img src="/assets/images/logo-dark.svg" alt="Asia Tech Feed" class="site-logo site-logo-dark">
+    </a>
+    <button class="dark-toggle" id="dark-toggle" onclick="toggleDark()" aria-label="Toggle dark mode">
+      <span id="dark-icon">&#127769;</span> <span id="dark-label">Dark</span>
+    </button>
+  </div>
+</header>
+
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a href="/" >Latest</a>
+    <a href="/reports/" >Reports <span class="nav-new-badge" id="reports-new-badge">NEW</span></a>
+    <a href="/archive" >Archive</a>
+    <a href="/search" >Search</a>
+    <a href="/about" >About</a>
+    <a href="/contact" >Contact</a>
+  </div>
+</nav>
+
+<!-- Stock Ticker -->
+<div id="ticker-wrap" style="background:var(--card-bg,#fff);border-bottom:1px solid var(--border,#dde3ec);overflow:hidden;min-height:46px;"></div>
+
+<main>
+  <div class="post-body explainer-page">
+
+  <div class="post-header explainer-header">
+    <span class="explainer-badge">&#128218; Explainer</span>
+    
+    <div class="explainer-tags">
+      <span class="explainer-tag">AI</span><span class="explainer-tag">Semiconductor</span>
+    </div>
+    
+    <h1>What is Co-Packaged Optics — and Why It Matters for the Next Generation of AI Networking?</h1>
+    <div class="post-meta">
+      <span>&#128197; August 31, 2026</span>
+      <span>&#128100; Colin Tan</span>
+    </div>
+  </div>
+
+  <div class="explainer-content">
+    <p class="xp-lede">The GPU is not the bottleneck. In the AI data centres being built this year, the component most likely to limit how much compute actually reaches the chip is neither silicon nor memory — it is the interconnect. Specifically, the optical transceiver modules plugged into the front panel of every network switch, consuming more power than the switch logic itself, and approaching the physical limits of copper signal transmission at scale.</p>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>What co-packaged optics is.</b> Co-packaged optics (CPO) moves the optical conversion components — lasers, modulators, photodetectors — from an external pluggable faceplate module to inside the same package as the switching ASIC or GPU. Instead of routing an electrical signal from the chip through 30 centimetres of printed circuit board traces to a SerDes retimer and then to an external optical module, the electrical path is reduced to approximately 3 millimetres. The optics sit adjacent to the logic die that drives them.</p>
+    <p>The physics is unambiguous. Electrical signals degrade with distance; the higher the data rate, the faster they degrade. At 400G, external pluggable transceivers are acceptable. At 800G, power climbs to roughly 15 watts per port and signal integrity becomes costly to maintain. At 1.6T — the threshold that next-generation AI training clusters require for their all-reduce communication fabric — pluggable optics consume approximately 30 watts per module and require power-hungry digital signal processors to clean degraded signals. A 51.2 Tbps switch fully equipped with pluggable 1.6T modules requires cooling infrastructure that constrains the entire rack design.</p>
+  </div>
+  <div>
+    <p><b>What CPO achieves.</b> By integrating optical engines directly alongside switch silicon, interconnect power consumption drops from roughly 15 picojoules per bit to 5 pJ/bit — a threefold improvement — with roadmaps targeting below 1 pJ/bit. Broadcom's 51.2 Tbps CPO platform demonstrates 70% lower energy dissipation than equivalent pluggable architectures. Intel's optical I/O chiplet delivers 4 Tbps bidirectional throughput at exactly 5 pJ/bit, a milestone that validates CPO's power economics at commercially relevant scale.</p>
+    <p>The bandwidth ceiling also rises. Front-panel pluggable modules are physically constrained by faceplate port count and copper trace density. CPO removes the faceplate constraint. Marvell's Photonic Fabric concept packs 102.4 Tbps of bandwidth into a 1U AI compute tray using 1,024 optical fibres routed directly from the package — more than twice the bandwidth density achievable with pluggable architecture at any price point. The switch no longer ends at the faceplate.</p>
+  </div>
+</div>
+
+<!-- ── EXHIBIT 1: Power per port — pluggable vs CPO ──────── -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 1</div>
+  <h3>The power wall: CPO delivers 3× the energy efficiency — and the gap widens at every generation</h3>
+  <p class="xp-exhibit-sub">Estimated power consumption per optical port (W), pluggable vs co-packaged optics, by data rate generation</p>
+
+  <svg viewBox="0 0 720 268" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Grouped bar chart comparing pluggable vs CPO power consumption per port across four data rate generations">
+    <defs>
+      <style>
+        .pa{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10.5px;fill:#5B6675}
+        .pb{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#0A2240}
+        .pc{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#C0392B}
+        .pd{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#00A6A6}
+        .pe{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9px;fill:#F2620F}
+        .pf{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9.5px;fill:#5B6675}
+        .pg{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:9.5px;fill:#F2620F}
+      </style>
+      <marker id="pArr" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+        <polygon points="0 0,6 3,0 6" fill="#F2620F" />
+      </marker>
+    </defs>
+
+    <!-- Chart: y_bottom=220, height=170px (y=50–220), max=65W, scale=2.615px/W -->
+    <!-- Gridlines at 15W=y181, 30W=y141, 45W=y102, 60W=y63 -->
+    <line x1="84" y1="220" x2="668" y2="220" stroke="#D8DEE6" stroke-width="0.8" />
+    <line x1="84" y1="181" x2="668" y2="181" stroke="#D8DEE6" stroke-width="0.6" />
+    <line x1="84" y1="141" x2="668" y2="141" stroke="#D8DEE6" stroke-width="0.6" />
+    <line x1="84" y1="102" x2="668" y2="102" stroke="#D8DEE6" stroke-width="0.6" />
+    <line x1="84" y1="63" x2="668" y2="63" stroke="#D8DEE6" stroke-width="0.5" opacity="0.6" />
+
+    <!-- Y-axis labels -->
+    <text x="78" y="224" text-anchor="end" class="pa">0W</text>
+    <text x="78" y="185" text-anchor="end" class="pa">15W</text>
+    <text x="78" y="145" text-anchor="end" class="pa">30W</text>
+    <text x="78" y="106" text-anchor="end" class="pa">45W</text>
+    <text x="78" y="67" text-anchor="end" class="pa">60W</text>
+
+    <!-- GROUPS: 4 groups, each: [Plug bar width=52][gap=10][CPO bar width=52] = 114px inner + 5.5px padding each side = 125px
+         Inter-group gap: 28px
+         Starts: G1=84, G2=237, G3=390, G4=543
+         Plug bars at: group+6; CPO bars at: group+68
+         Bar centers: Plug=group+32, CPO=group+94 -->
+
+    <!-- GROUP 1: 400G — Plug 7W, CPO 2.5W -->
+    <!-- 7W → 18.3px; y=201.7≈202 | 2.5W → 6.5px; y=213.5≈214 -->
+    <rect x="90" y="202" width="52" height="18" fill="#C0392B" rx="1" />
+    <rect x="152" y="214" width="52" height="6" fill="#00A6A6" rx="1" />
+    <text x="116" y="197" text-anchor="middle" class="pc">7W</text>
+    <text x="178" y="209" text-anchor="middle" class="pd">2.5W</text>
+    <text x="147" y="238" text-anchor="middle" class="pf">400G</text>
+    <text x="147" y="250" text-anchor="middle" class="pf">(deployed)</text>
+
+    <!-- GROUP 2: 800G — Plug 15W, CPO 5W -->
+    <!-- 15W → 39.2px; y=180.8≈181 | 5W → 13.1px; y=206.9≈207 -->
+    <rect x="243" y="181" width="52" height="39" fill="#C0392B" rx="1" />
+    <rect x="305" y="207" width="52" height="13" fill="#00A6A6" rx="1" />
+    <text x="269" y="176" text-anchor="middle" class="pc">15W</text>
+    <text x="331" y="202" text-anchor="middle" class="pd">5W</text>
+    <text x="300" y="238" text-anchor="middle" class="pf">800G</text>
+    <text x="300" y="250" text-anchor="middle" class="pf">(deployed)</text>
+
+    <!-- GROUP 3: 1.6T — Plug 30W, CPO 10W — THE CRITICAL INFLECTION POINT -->
+    <!-- 30W → 78.5px; y=141.5≈142 | 10W → 26.2px; y=193.8≈194 -->
+    <rect x="396" y="142" width="52" height="78" fill="#C0392B" rx="1" />
+    <rect x="458" y="194" width="52" height="26" fill="#00A6A6" rx="1" />
+    <text x="422" y="137" text-anchor="middle" class="pc">30W</text>
+    <text x="484" y="189" text-anchor="middle" class="pd">10W</text>
+    <text x="453" y="238" text-anchor="middle" class="pf" font-weight="700">1.6T</text>
+    <text x="453" y="250" text-anchor="middle" class="pe" font-weight="700">(2026F ramp)</text>
+    <!-- 3× annotation bracket between the two bar tops -->
+    <line x1="516" y1="142" x2="526" y2="142" stroke="#F2620F" stroke-width="1.3" />
+    <line x1="516" y1="194" x2="526" y2="194" stroke="#F2620F" stroke-width="1.3" />
+    <line x1="521" y1="142" x2="521" y2="194" stroke="#F2620F" stroke-width="1.3" />
+    <text x="527" y="162" class="pg">3&#215;</text>
+    <text x="527" y="175" class="pg">saving</text>
+
+    <!-- GROUP 4: 3.2T — Plug ~60W, CPO ~18W (projected) -->
+    <!-- 60W → 156.9px; y=63.1≈63 | 18W → 47.1px; y=172.9≈173 -->
+    <rect x="549" y="63" width="52" height="157" fill="#C0392B" rx="1" opacity="0.70" />
+    <rect x="611" y="173" width="52" height="47" fill="#00A6A6" rx="1" opacity="0.70" />
+    <text x="575" y="58" text-anchor="middle" class="pc">~60W</text>
+    <text x="637" y="168" text-anchor="middle" class="pd">~18W</text>
+    <text x="606" y="238" text-anchor="middle" class="pf">3.2T</text>
+    <text x="606" y="250" text-anchor="middle" class="pf">(2028F+)</text>
+
+    <!-- Lighter opacity = projected -->
+    <text x="84" y="258" class="pf" font-size="9">Lighter bars = projected</text>
+
+    <!-- Legend -->
+    <rect x="420" y="258" width="12" height="8" fill="#C0392B" rx="1" />
+    <text x="436" y="265" class="pf">Pluggable optics (power per port)</text>
+    <rect x="612" y="258" width="12" height="8" fill="#00A6A6" rx="1" />
+    <text x="628" y="265" class="pf">CPO</text>
+  </svg>
+
+  <p class="xp-exhibit-source">Source: Broadcom CPO platform data (51.2Tbps, 70% energy reduction vs pluggable); Intel optical I/O chiplet spec (5 pJ/bit, 4Tbps); ResearchAndMarkets CPO market report (15→5 pJ/bit reduction, Jan 2026); HDinResearch 1.6T CPO analysis; ATF estimates for 3.2T projected values. Power per port = optical transceiver system power including DSP/retimer.</p>
+</figure>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>2026: from pilots to production.</b> Broadcom and NVIDIA are the first two companies to deploy CPO in initial commercial production on scale-out network switches. Jensen Huang announced NVIDIA's first CPO-enabled switch at GTC 2025; Broadcom's "Bailly" 51.2 Tbps CPO platform has confirmed hyperscaler deployments. Marvell's Teralynx 10 switch ASIC supports 800G CPO electrical interfaces natively, with 1.6T interfaces targeted for 2027. Google and Microsoft are piloting 800G CPO-equipped top-of-rack and spine switches in their latest AI pod designs, per published hyperscaler infrastructure disclosures.</p>
+    <p>The OIF (Optical Internetworking Forum) and CPO Consortium published interoperability standards in 2024 that gave hyperscale procurement teams the multi-vendor baseline they needed to commit. Annual production of 1.6T modules is projected to exceed 5 million units in 2026 — a scale that signals genuine commercial commitment, not just technology validation.</p>
+  </div>
+  <div>
+    <p><b>The serviceability concern — and how it was answered.</b> The primary objection to CPO deployment was operational: if the optical engine fails in a pluggable switch, you swap the module in minutes. If it fails in a CPO switch, you potentially replace the entire unit. That argument dominated networking discussions through 2024 and into 2025.</p>
+    <p>Meta presented reliability data at OFC 2026 that directly challenged it. In Meta's measured production deployments, CPO optical transceivers proved more reliable than traditional pluggable products — not marginally, but meaningfully. The integrated design eliminates the mechanical connector interface, the primary failure point in pluggable optics. This data point matters structurally: it converts CPO's assumed serviceability risk from liability into tested advantage, removing the last credible operational objection to hyperscale deployment.</p>
+  </div>
+</div>
+
+<!-- ── EXHIBIT 2: Architecture diagram ──────────────────── -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 2</div>
+  <h3>Why CPO works: moving the optical conversion 27 centimetres closer to the chip</h3>
+  <p class="xp-exhibit-sub">Signal path comparison — traditional pluggable vs co-packaged optics architecture</p>
+
+  <svg viewBox="0 0 720 276" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Side-by-side architecture diagram comparing traditional pluggable optics and co-packaged optics signal paths">
+    <defs>
+      <style>
+        .da{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10px;fill:#ffffff;font-weight:700}
+        .db{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9.5px;fill:#5B6675}
+        .dc{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9.5px;fill:#C0392B}
+        .dd{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9.5px;fill:#00A6A6}
+        .de{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#0A2240;font-style:italic}
+        .df{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:9px;fill:#ffffff}
+        .dg{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9px;fill:#ffffff;opacity:0.80}
+      </style>
+    </defs>
+
+    <!-- PANEL DIVIDER line -->
+    <line x1="360" y1="32" x2="360" y2="276" stroke="#D8DEE6" stroke-width="1.2" />
+
+    <!-- ════ LEFT PANEL: Traditional Pluggable (x=0–360) ════ -->
+    <rect x="0" y="0" width="360" height="276" fill="rgba(192,57,43,0.03)" />
+    <!-- Header bar -->
+    <rect x="0" y="0" width="360" height="32" fill="#C0392B" rx="0" />
+    <text x="180" y="14" text-anchor="middle" class="da">TRADITIONAL PLUGGABLE</text>
+    <text x="180" y="26" text-anchor="middle" class="dg">Separate components, long electrical path</text>
+
+    <!-- Step 1: Switch ASIC -->
+    <rect x="100" y="48" width="160" height="30" fill="#0A2240" rx="2" />
+    <text x="180" y="67" text-anchor="middle" class="da">Switch ASIC</text>
+
+    <!-- Long electrical path (lossy) -->
+    <!-- Vertical path indicator: thick orange dashed line -->
+    <line x1="180" y1="78" x2="180" y2="136" stroke="#C0392B" stroke-width="3" stroke-dasharray="5,3" />
+    <text x="198" y="99" class="dc">&#x21A7; ~30 cm PCB traces</text>
+    <text x="198" y="112" class="dc">&#x21A7; SerDes retimer needed</text>
+    <text x="198" y="125" class="dc">&#x21A7; Signal degradation</text>
+
+    <!-- Step 2: SerDes box -->
+    <rect x="110" y="136" width="140" height="26" fill="#8A94A6" rx="2" />
+    <text x="180" y="153" text-anchor="middle" class="da" font-size="9">SerDes / Retimer chip</text>
+
+    <!-- Connector (short line) -->
+    <line x1="180" y1="162" x2="180" y2="177" stroke="#C0392B" stroke-width="2" />
+    <text x="194" y="173" class="dc" font-size="8.5">connector</text>
+
+    <!-- Step 3: Pluggable module (faceplate) -->
+    <rect x="40" y="178" width="240" height="32" fill="#C0392B" rx="2" />
+    <text x="160" y="195" text-anchor="middle" class="da">Pluggable QSFP/OSFP module</text>
+    <text x="160" y="206" text-anchor="middle" class="da" font-size="8">(at switch faceplate)</text>
+
+    <!-- Fiber exit -->
+    <line x1="180" y1="210" x2="180" y2="232" stroke="#5B6675" stroke-width="1.5" />
+    <text x="193" y="229" class="db">&#x2192; Fiber</text>
+
+    <!-- Power label -->
+    <rect x="80" y="242" width="200" height="22" fill="rgba(192,57,43,0.10)" rx="2" />
+    <text x="180" y="253" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9.5" font-weight="700" fill="#C0392B">15 pJ/bit &nbsp;&#xB7;&nbsp; ~30W per 1.6T port</text>
+    <text x="180" y="265" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" fill="#C0392B">3 separate components to manage and cool</text>
+
+    <!-- ════ RIGHT PANEL: Co-Packaged Optics (x=362–720) ════ -->
+    <rect x="362" y="0" width="358" height="276" fill="rgba(0,166,166,0.04)" />
+    <!-- Header bar -->
+    <rect x="362" y="0" width="358" height="32" fill="#00A6A6" rx="0" />
+    <text x="541" y="14" text-anchor="middle" class="da">CO-PACKAGED OPTICS (CPO)</text>
+    <text x="541" y="26" text-anchor="middle" class="dg">Integrated package, minimal electrical path</text>
+
+    <!-- Package boundary (dotted) -->
+    <rect x="383" y="44" width="316" height="126" fill="rgba(10,34,64,0.03)" stroke="#0A2240" stroke-width="1.8" stroke-dasharray="6,4" rx="3" />
+    <text x="541" y="41" text-anchor="middle" class="de">&#x2510; Integrated co-package &#x250C;</text>
+
+    <!-- Step 1: Switch ASIC (inside package) -->
+    <rect x="420" y="56" width="242" height="30" fill="#0A2240" rx="2" />
+    <text x="541" y="75" text-anchor="middle" class="da">Switch ASIC</text>
+
+    <!-- SHORT electrical path (3mm) -->
+    <line x1="541" y1="86" x2="541" y2="100" stroke="#00A6A6" stroke-width="3" />
+    <text x="556" y="97" class="dd" font-weight="700">~3 mm path only</text>
+
+    <!-- Step 2: Optical Engine (inside same package) -->
+    <rect x="420" y="102" width="242" height="30" fill="#00A6A6" rx="2" />
+    <text x="541" y="121" text-anchor="middle" class="da">Silicon photonics engine</text>
+
+    <!-- Notch showing "all inside one package" -->
+    <text x="383" y="145" class="dd" font-size="8.5">&#x2514;&#x2500; integrated in same substrate &#x2500;&#x2518;</text>
+
+    <!-- Package closes -->
+    <!-- Fiber exits package immediately -->
+    <line x1="541" y1="170" x2="541" y2="232" stroke="#5B6675" stroke-width="1.5" />
+    <text x="556" y="195" class="dd" font-size="8.5">Fiber exits</text>
+    <text x="556" y="207" class="dd" font-size="8.5">directly from</text>
+    <text x="556" y="219" class="dd" font-size="8.5">package</text>
+    <text x="556" y="229" class="db">&#x2192; Fiber</text>
+
+    <!-- Power label -->
+    <rect x="420" y="242" width="242" height="22" fill="rgba(0,166,166,0.10)" rx="2" />
+    <text x="541" y="253" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9.5" font-weight="700" fill="#00A6A6">5 pJ/bit &nbsp;&#xB7;&nbsp; ~10W per 1.6T port</text>
+    <text x="541" y="265" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" fill="#00A6A6">1 integrated component &nbsp;&#xB7;&nbsp; 3&#215; more efficient</text>
+  </svg>
+
+  <p class="xp-exhibit-source">Source: Intel optical I/O chiplet (5 pJ/bit milestone); Broadcom CPO platform specifications; Marvell Photonic Fabric blog (Nov 2025); OIF CPO architecture standards (2024). Diagram is schematic; actual package geometry varies by vendor implementation. Path length comparison: industry consensus (~30cm pluggable vs ~3mm CPO electrical path).</p>
+</figure>
+
+<blockquote class="xp-pull-quote">
+  <p>&#8220;All AI data centre interconnects will be optical within five years. The only question is whether the optics sit inside the package — or at the faceplate.&#8221;</p>
+  <cite>SemiEngineering analysis, OFC 2026 — citing Broadcom and NVIDIA deployment trajectories</cite>
+</blockquote>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>The startup ecosystem and Asia's role.</b> The CPO landscape extends well beyond the incumbents. Ayar Labs' TeraPHY chiplets integrate optical engines with customer ASICs and FPGAs at 1.6T bandwidth, with manufacturing partnerships at TSMC and Alchip (Taiwan). Marvell's acquisition of Celestial AI adds 3D photonic integration capability. Lightmatter's photonic fabric technology targets compute-to-compute connections, not just switch fabrics. AMD absorbed Enosemi for optical integration expertise.</p>
+    <p>The Asia supply chain runs deep. TSMC fabricates the silicon photonics chiplets that form the optical engine core. Taiwan's Alchip handles ASIC integration work for Ayar Labs. Furukawa Electric and Sumitomo Electric (Japan) supply the specialised multi-core fibres that CPO packages require at higher densities than standard data centre cabling. ASE Group's advanced packaging capability in Taiwan is relevant for the complex co-substrate assembly that CPO demands.</p>
+  </div>
+  <div>
+    <p><b>Scale-out today, scale-up next.</b> CPO's first production wave targets scale-out networks — the switch fabric that connects GPU nodes to each other and to storage. That is already in production. The more technically demanding next phase is scale-up: integrating CPO directly into GPU or XPU packages to enable chip-to-chip optical interconnect within a single compute tray. Marvell's VP of Network Switching stated the case directly: "Integrating co-packaged optics into custom XPUs is the logical next step to scale performance with higher interconnect bandwidths and longer reach."</p>
+    <p>NVIDIA's NVLink Fusion strategy — allowing third-party ASICs to interconnect with NVIDIA's fabric — creates an implicit roadmap for scale-up CPO as a path beyond copper NVLink distances. When that happens, the boundary between "networking" and "compute packaging" dissolves. The switch becomes part of the processor package, and the processor package becomes the network.</p>
+  </div>
+</div>
+
+<!-- ── EXHIBIT 3: CPO market growth ─────────────────────── -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 3</div>
+  <h3>The CPO market accelerates through a critical 2026 commercialisation threshold</h3>
+  <p class="xp-exhibit-sub">Co-packaged optics + near-package optics market for AI data centres, $ billion; 2026F onward are forecasts</p>
+
+  <svg viewBox="0 0 720 268" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bar chart of CPO and near-package optics market size 2023 to 2030">
+    <defs>
+      <style>
+        .ma{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10.5px;fill:#5B6675}
+        .mb{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#0A2240}
+        .mc{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#F2620F}
+        .md{font-family:'Helvetica Neue',Arial,sans-serif;font-size:8.5px;fill:#5B6675}
+        .me{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#0A2240}
+        .mf{font-family:'Helvetica Neue',Arial,sans-serif;font-size:8.5px;fill:#F2620F;font-weight:700}
+      </style>
+      <marker id="mArr" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+        <polygon points="0 0,6 3,0 6" fill="#F2620F" />
+      </marker>
+    </defs>
+
+    <!-- Chart: y_bottom=225, height=175px (y=50–225), max=$40B, scale=4.375px/$B -->
+    <!-- Gridlines at $10B=y=181.25≈181, $20B=y=137.5≈138, $30B=y=93.75≈94, $40B=y=50 -->
+    <line x1="66" y1="225" x2="656" y2="225" stroke="#D8DEE6" stroke-width="0.8" />
+    <line x1="66" y1="181" x2="656" y2="181" stroke="#D8DEE6" stroke-width="0.6" />
+    <line x1="66" y1="138" x2="656" y2="138" stroke="#D8DEE6" stroke-width="0.6" />
+    <line x1="66" y1="94" x2="656" y2="94" stroke="#D8DEE6" stroke-width="0.6" />
+
+    <!-- Y-axis labels -->
+    <text x="60" y="229" text-anchor="end" class="ma">$0</text>
+    <text x="60" y="185" text-anchor="end" class="ma">$10B</text>
+    <text x="60" y="142" text-anchor="end" class="ma">$20B</text>
+    <text x="60" y="98" text-anchor="end" class="ma">$30B</text>
+    <text x="60" y="54" text-anchor="end" class="ma">$40B</text>
+
+    <!-- 7 bars: width=62, gap=22
+         x: 80,164,248,332,416,500,584
+         values: $1B→4.4px y=220.6≈221, $3B→13.1 y=211.9≈212, $6B→26.3 y=198.7≈199
+                $11B→48.1 y=176.9≈177, $16B→70 y=155, $22B→96.3 y=128.7≈129, $35B→153.1 y=71.9≈72 -->
+
+    <!-- 2023: $1B pilot stage -->
+    <rect x="80" y="221" width="62" height="4" fill="#C8D4E0" rx="1" />
+    <text x="111" y="216" text-anchor="middle" class="mb">$1B</text>
+    <text x="111" y="242" text-anchor="middle" class="ma">2023</text>
+    <text x="111" y="254" text-anchor="middle" class="md">Pilots</text>
+
+    <!-- 2024: $3B early production -->
+    <rect x="164" y="212" width="62" height="13" fill="#A8B8CA" rx="1" />
+    <text x="195" y="207" text-anchor="middle" class="mb">$3B</text>
+    <text x="195" y="242" text-anchor="middle" class="ma">2024</text>
+    <text x="195" y="254" text-anchor="middle" class="md">Early prod.</text>
+
+    <!-- 2025: $6B first deployments -->
+    <rect x="248" y="199" width="62" height="26" fill="#6B84A3" rx="1" />
+    <text x="279" y="194" text-anchor="middle" class="mb">$6B</text>
+    <text x="279" y="242" text-anchor="middle" class="ma">2025</text>
+    <text x="279" y="254" text-anchor="middle" class="md">1st deploy.</text>
+
+    <!-- 2026F: $11B — commercial ramp (teal, highlighted) -->
+    <rect x="332" y="177" width="62" height="48" fill="#00A6A6" rx="1" />
+    <text x="363" y="172" text-anchor="middle" class="mc">$11B</text>
+    <text x="363" y="242" text-anchor="middle" class="me">2026F</text>
+    <text x="363" y="254" text-anchor="middle" class="mf">Commercial ramp</text>
+
+    <!-- 2027F: $16B mainstream -->
+    <rect x="416" y="155" width="62" height="70" fill="#00A6A6" rx="1" opacity="0.85" />
+    <text x="447" y="150" text-anchor="middle" class="mc">$16B</text>
+    <text x="447" y="242" text-anchor="middle" class="me">2027F</text>
+    <text x="447" y="254" text-anchor="middle" class="md">Mainstream</text>
+
+    <!-- 2028F: $22B -->
+    <rect x="500" y="129" width="62" height="96" fill="#00A6A6" rx="1" opacity="0.75" />
+    <text x="531" y="124" text-anchor="middle" class="mc">$22B</text>
+    <text x="531" y="242" text-anchor="middle" class="me">2028F</text>
+    <text x="531" y="254" text-anchor="middle" class="md">Scale-up CPO</text>
+
+    <!-- 2030F: $35B dominant -->
+    <rect x="584" y="72" width="62" height="153" fill="#0A2240" rx="1" opacity="0.80" />
+    <text x="615" y="67" text-anchor="middle" class="mc">$35B+</text>
+    <text x="615" y="242" text-anchor="middle" class="me">2030F</text>
+    <text x="615" y="254" text-anchor="middle" class="md">Standard arch.</text>
+
+    <!-- CAGR arc annotation (2025→2030F) -->
+    <path d="M 290 168 Q 420 58 572 65" stroke="#F2620F" stroke-width="1.5" fill="none" marker-end="url(#mArr)" />
+    <text x="390" y="72" text-anchor="middle" class="mf">~35% CAGR</text>
+    <text x="390" y="84" text-anchor="middle" class="mf">2025 → 2030F</text>
+
+    <!-- Reference context annotation -->
+    <text x="66" y="40" class="md" font-weight="700">Context: Total AI optical transceiver market (LightCounting): $26B in 2026F (+60% YoY)</text>
+    <text x="66" y="52" class="md">CPO + near-package share grows from ~23% (2025) to ~60%+ (2030F) of total AI optical market</text>
+  </svg>
+
+  <p class="xp-exhibit-source">Source: DataIntelo near-package optics market ($3.8B in 2025, 19.3% CAGR to 2034); HDinResearch CPO market analysis ($2.2–4.2B CPO market 2026F); LightCounting optical transceiver forecast ($26B total AI optics 2026F, 60% YoY); ResearchAndMarkets CPO 2026–2036 report; ATF estimates and segment share extrapolation. Market includes CPO and near-package optics for AI data centre applications.</p>
+</figure>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>Three predictions for 2026–27.</b> First: by end-2027, 1.6T CPO-equipped switches become the standard specification for new hyperscaler AI pod builds — pluggable 1.6T remains for retrofit and legacy estates only. Broadcom, NVIDIA, and Marvell all have production-ready platforms; the question is now procurement velocity, not technology readiness.</p>
+    <p>Second: a Japanese or Korean optical component company — Furukawa Electric, Sumitomo Electric, or Samsung Electro-Mechanics — announces a major CPO supply agreement with a Tier 1 switch vendor by end-2026. The specialised multi-core fibre and connector market for CPO is underpopulated, and Asian materials companies are the natural incumbents.</p>
+  </div>
+  <div>
+    <p>Third: the "CPO vs LPO" debate that consumed networking conference agendas through 2025 resolves with distinct market segmentation rather than a winner. Linear-drive pluggable optics (LPO) — which cuts power by removing the DSP but keeps the pluggable form factor — serves enterprise Ethernet and moderate-density AI clusters. CPO wins for 200Tbps-class AI training fabrics where power density and signal integrity are non-negotiable. The market is large enough for both.</p>
+    <p>The optical interconnect market reaching $26 billion in 2026 makes photonics, for the first time, a semiconductor-scale business. The engineers and companies that understand light — that know how to build lasers, shape waveguides, and couple fibres at sub-micron precision — will be as commercially consequential as those who understand transistors.</p>
+  </div>
+</div>
+
+<div class="xp-callout">
+  <div class="xp-callout-label">The Bottom Line</div>
+  <p>AI clusters are not compute-limited for much longer — they are interconnect-limited. Every gigabyte of all-reduce bandwidth matters for large model training; every watt of interconnect power is a watt not available for compute. Co-packaged optics is not an incremental optical upgrade. It is the rewiring of how AI processes data at scale — moving the fundamental conversion between electrical and optical signals from the edge of the switch to inside the chip package itself. That 27-centimetre reduction in electrical path length is the most consequential distance in AI networking today.</p>
+</div>
+
+<div class="xp-author-bio">
+  <div class="xp-author-name">Colin Tan &nbsp;·&nbsp; Editor, Asia Tech Feed</div>
+  <p>Colin covers semiconductors, AI infrastructure and supply-chain dynamics across the Asia-Pacific region. He has tracked the optical interconnect transition through OFC 2025 and 2026 and writes the daily ATF digest. Reach him at <a href="mailto:colin.tan@asiatechfeed.com" style="color:#00A6A6">colin.tan@asiatechfeed.com</a> or connect on LinkedIn.</p>
+</div>
+
+<div class="xp-footer-grid">
+  <div class="xp-key-numbers">
+    <div class="xp-kn-label">Key Numbers</div>
+    <div class="xp-kn-item"><div class="xp-kn-val">15→5</div><div class="xp-kn-desc">pJ/bit: pluggable<br />to CPO power</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">70%</div><div class="xp-kn-desc">Lower energy vs<br />pluggable (Broadcom)</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">~3mm</div><div class="xp-kn-desc">CPO electrical path<br />vs ~30cm pluggable</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">102.4T</div><div class="xp-kn-desc">Marvell Photonic<br />Fabric bandwidth (1U)</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">$26B</div><div class="xp-kn-desc">AI optical market<br />2026F (LightCounting)</div></div>
+  </div>
+  <div class="xp-related">
+    <div class="xp-related-label">Related Coverage</div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">EXPLAINER</span>
+      <h4>What is a custom AI chip — and why are Google, Amazon and Meta all building their own?</h4>
+      <p>Custom ASICs are the compute layer; CPO is the interconnect layer. How the two trends combine in next-generation AI clusters.</p>
+    </div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">EXPLAINER</span>
+      <h4>What is a chiplet, and why has packaging become the real chokepoint in chipmaking?</h4>
+      <p>CPO is the networking answer to the same packaging problem chiplets address in compute — integrating more capability into a single substrate.</p>
+    </div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">REPORT</span>
+      <h4>Asia Tech Feed on Semiconductors: Outlook H2 2026–2027</h4>
+      <p>Our semiconductor outlook — including predictions on AI infrastructure capex, packaging capacity, and the power constraint that CPO is built to address.</p>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+</div>
+
+</main>
+
+<footer>
+  <p>Asia Tech Feed &middot; Auto-updated daily via GitHub Actions &middot; Filtered for Asia</p>
+  <p>Keywords: Semiconductor &middot; Electronics &middot; Logistics &middot; Pharmaceutical &middot; Biotechnology &middot; AI &middot; Machine Vision &middot; Automation</p>
+</footer>
+
+<script>
+// Stock ticker
+var TICKER_SYMBOLS = [
+  {"proName":"NASDAQ:NVDA","title":"Nvidia"},
+  {"proName":"NASDAQ:MU","title":"Micron"},
+  {"proName":"NYSE:TSM","title":"TSMC"},
+  {"proName":"NASDAQ:ASML","title":"ASML"},
+  {"proName":"NASDAQ:AMD","title":"AMD"},
+  {"proName":"NASDAQ:AVGO","title":"Broadcom"},
+  {"proName":"NASDAQ:QCOM","title":"Qualcomm"},
+  {"proName":"NASDAQ:AMAT","title":"Applied Materials"},
+  {"proName":"NASDAQ:INTC","title":"Intel"},
+  {"proName":"NASDAQ:TXN","title":"Texas Instruments"}
+];
+
+function renderTicker() {
+  var wrap = document.getElementById('ticker-wrap');
+  if (!wrap) return;
+  wrap.innerHTML = '';
+  var isDark = document.documentElement.classList.contains('dark');
+  var container = document.createElement('div');
+  container.className = 'tradingview-widget-container';
+  var inner = document.createElement('div');
+  inner.className = 'tradingview-widget-container__widget';
+  container.appendChild(inner);
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js';
+  script.async = true;
+  script.innerHTML = JSON.stringify({
+    symbols: TICKER_SYMBOLS,
+    showSymbolLogo: true,
+    isTransparent: true,
+    displayMode: "adaptive",
+    colorTheme: isDark ? "dark" : "light",
+    locale: "en"
+  });
+  container.appendChild(script);
+  wrap.appendChild(container);
+}
+
+// Dark mode toggle
+function toggleDark() {
+  var html = document.documentElement;
+  var isDark = html.classList.contains('dark');
+  if (isDark) {
+    html.classList.remove('dark');
+    html.classList.add('light');
+    localStorage.setItem('theme', 'light');
+  } else {
+    html.classList.remove('light');
+    html.classList.add('dark');
+    localStorage.setItem('theme', 'dark');
+  }
+  updateToggleLabel();
+  renderTicker();
+}
+
+function updateToggleLabel() {
+  var isDark = document.documentElement.classList.contains('dark');
+  var icon = document.getElementById('dark-icon');
+  var label = document.getElementById('dark-label');
+  if (icon) icon.innerHTML = isDark ? '&#9728;&#xFE0F;' : '&#127769;';
+  if (label) label.textContent = isDark ? 'Light' : 'Dark';
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  updateToggleLabel();
+  renderTicker();
+});
+
+// Auto-hide "NEW" badge after 30 days
+(function() {
+  var badge = document.getElementById('reports-new-badge');
+  if (!badge) return;
+  var first = localStorage.getItem('reports-tab-first-seen');
+  if (!first) { localStorage.setItem('reports-tab-first-seen', Date.now()); return; }
+  if (Date.now() - parseInt(first) > 30 * 24 * 60 * 60 * 1000) badge.style.display = 'none';
+})();
+
+// Keyword filter
+function filterTable(keyword) {
+  const rows = document.querySelectorAll('.news-table tbody tr');
+  const btns = document.querySelectorAll('.filter-btn');
+  btns.forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+
+  rows.forEach(row => {
+    if (!keyword || keyword === 'all') {
+      row.style.display = '';
+    } else {
+      const text = row.innerText.toLowerCase();
+      row.style.display = text.includes(keyword.toLowerCase()) ? '' : 'none';
+    }
+  });
+}
+
+// CSV download
+function downloadCSV() {
+  const table = document.querySelector('.news-table');
+  if (!table) return;
+  let csv = [];
+  const rows = table.querySelectorAll('tr');
+  rows.forEach(row => {
+    const cols = row.querySelectorAll('th, td');
+    const rowData = Array.from(cols).map(col => {
+      const link = col.querySelector('a');
+      let text = link && col.classList.contains('col-link') ? link.href : col.innerText;
+      return '"' + text.replace(/"/g, '""').replace(/\n/g, ' ') + '"';
+    });
+    csv.push(rowData.join('\t'));
+  });
+  const blob = new Blob([csv.join('\n')], { type: 'text/csv' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'asia-news-' + new Date().toISOString().slice(0,10) + '.csv';
+  a.click();
+}
+</script>
+
+</body>
+</html>
