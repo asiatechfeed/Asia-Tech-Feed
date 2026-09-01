@@ -1,40 +1,38 @@
 {
   "date": "2026-09-01",
-  "count": 15,
+  "count": 9,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
-    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-09-01-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Microchip Shrinks PolarFire Ethernet Sensor Bridge for Edge AI Systems",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/microchip-shrinks-polarfire-ethernet-sensor-bridge-for-edge-ai-systems/"
-    },
-    {
-      "title": "Huawei H1 profit drops 36% as costs, R&D spending rise",
+      "title": "Instagram to rename AI label for generated profiles",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/huawei-ascend-910c-chips-deepseek-posttraining"
+      "url": "https://www.techinasia.com/shopee-meta-launch-instagram-affiliate-partnerships"
     },
     {
-      "title": "Anthropic resumes AI cyber evaluations after Claude hacking incidents",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/anthropic-resumes-ai-cyber-evaluations-after-claude-hacking-incidents-6353261"
+      "title": "Z.ai runs GLM inference on 100,000 Chinese AI chips, eyes overseas CSPs",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260901PD224/z.ai-ai-training-chips-infrastructure-cost.html"
     },
     {
-      "title": "TrendForce Sees Start of MLCC Industry Upcycle",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/trendforce-sees-start-of-mlcc-industry-upcycle/"
+      "title": "Chinese court freezes US$318M in Nexperia assets, further escalating corp rift",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260901VL213/nexperia-dutch-2025-equipment-ceo.html?chid=10"
     },
     {
-      "title": "Ares raises $4 billion for Japan logistics fund in unit's largest fundraise",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/ares-raises-4-billion-japan-logistics-fund-in-units-largest-fundraise-6353151"
+      "title": "Imec maps chip scaling to 2040, says AI's next gains need full-stack integration",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260901PD229/roadmap-design-cmos-hardware-ceo.html"
+    },
+    {
+      "title": "Adobe to offer free AI tools to Saudi Arabia in $4b deal",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/adobe-launches-ai-suite-for-enterprises-marketing"
     }
   ],
   "source_stats": [
@@ -51,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -152,14 +150,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 56,
-      "relevant": 37,
+      "fetched": 47,
+      "relevant": 35,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -170,14 +168,14 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
       "source": "KED",
       "name": "KED Global",
       "fetched": 20,
-      "relevant": 4,
+      "relevant": 3,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -195,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -215,7 +213,7 @@
       "fetched": 10,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     }
   ]
