@@ -1,104 +1,94 @@
 [
   {
     "date": "2026-09-01",
-    "title": "Instagram to rename AI label for generated profiles",
-    "summary": "AI edits to photos, captions, or graphics won't trigger Instagram's new profile label.",
+    "title": "Broadcom to add AI data tools to VMware Tanzu",
+    "summary": "TrueSource includes human-verified patches for more than 5,000 Java libraries.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/shopee-meta-launch-instagram-affiliate-partnerships"
+    "url": "https://www.techinasia.com/broadcom-sees-22b-q2-revenue-ai-chips-drive-growth"
   },
   {
     "date": "2026-09-01",
-    "title": "Z.ai runs GLM inference on 100,000 Chinese AI chips, eyes overseas CSPs",
-    "summary": "Chinese large-model developer Z.ai says it can now support large-scale inference using roughly 100,000 domestically produced AI chips, while its GLM models are also moving closer to overseas cloud deployment.",
+    "title": "Marvell CTO: power and density bottlenecks are driving CPO adoption in AI data centers",
+    "summary": "Speaking at the Silicon Photonics Global Summit ahead of Semicon Taiwan 2026, Marvell Technology CTO Radha Nagarajan highlighted that the core focus for upgrading connectivity in the AI data center era has shifted firmly to power consumption. He noted that the acceleration of co-packaged optics (CPO) adoption is primar",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI",
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260901PD224/z.ai-ai-training-chips-infrastructure-cost.html"
+    "url": "https://www.digitimes.com/news/a20260901PD231/marvell-cpo-siph-adoption-semicon-taiwan.html"
   },
   {
     "date": "2026-09-01",
-    "title": "Chinese court freezes US$318M in Nexperia assets, further escalating corp rift",
-    "summary": "A Chinese court has ordered the freezing of more than CNY2.14 billion (approx. US$318 million) in domestic assets belonging to Dutch semiconductor manufacturer Nexperia and its equipment division. The decision marks the latest escalation in an ongoing legal and geopolitical debate between the Netherlands-based chipmake",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260901VL213/nexperia-dutch-2025-equipment-ceo.html?chid=10"
-  },
-  {
-    "date": "2026-09-01",
-    "title": "Imec maps chip scaling to 2040, says AI's next gains need full-stack integration",
-    "summary": "Imec has extended its advanced semiconductor roadmap into the early 2040s, arguing that sustained AI scaling will depend on closer integration across logic, memory, interconnects and system architecture.",
+    "title": "South Korea CCL exports surge 42% on AI demand",
+    "summary": "South Korea's copper-clad laminate, or CCL, exports jumped sharply in the first seven months of 2026 as AI infrastructure investment and larger semiconductor packaging lifted demand, boosting revenue at suppliers including Doosan Electronic BG, LG Chem and Lotte Energy Materials.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260901PD229/roadmap-design-cmos-hardware-ceo.html"
+    "url": "https://www.digitimes.com/news/a20260901PD208/ccl-exports-demand-2026-revenue.html"
   },
   {
     "date": "2026-09-01",
-    "title": "Adobe to offer free AI tools to Saudi Arabia in $4b deal",
-    "summary": "Free access is set to begin rolling out to eligible users by the end of 2026.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/adobe-launches-ai-suite-for-enterprises-marketing"
-  },
-  {
-    "date": "2026-09-01",
-    "title": "Nvidia to invest $3.5b in MediaTek through bonds",
-    "summary": "MediaTek is competing with Broadcom and Marvell for more custom chip business.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/nvidia-groq-3-lpx-rack-enters-full-production"
-  },
-  {
-    "date": "2026-09-01",
-    "title": "South Korea proposes record $597 billion 2027 budget to supercharge AI investment",
-    "summary": "South Korea proposes record $597 billion 2027 budget to supercharge AI investment",
+    "title": "AI, working parents, growth markets: New Minister of State Foo Cexiang on his priorities",
+    "summary": "Mr Foo’s priorities include how firms can adopt AI without compromising workers’ development, and helping Singapore expand into promising overseas markets.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/south-korea-proposes-record-597-billion-2027-budget-supercharge-ai-investment-6353481"
+    "url": "https://www.channelnewsasia.com/singapore/foo-cexiang-minister-state-mti-mom-priorities-ai-working-parents-new-growth-markets-6354166"
   },
   {
     "date": "2026-09-01",
-    "title": "Japan's NTT Data teams with US company on AI for enterprise cybersecurity",
-    "summary": "Japan's NTT Data teams with US company on AI for enterprise cybersecurity",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "India’s Gupshup rolls out self-service Voice AI platform",
+    "summary": "The product extends Gupshup’s existing WhatsApp, Rich Communication Services, and SMS infrastructure into voice.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-s-ntt-data-teams-with-us-company-on-ai-for-enterprise-cybersecurity2"
+    "url": "https://www.techinasia.com/indias-bharti-airtel-google-to-launch-advanced-chat-messaging"
   },
   {
     "date": "2026-09-01",
-    "title": "China's robot lawn mowers flock to Europe as US import curbs bite",
-    "summary": "China's robot lawn mowers flock to Europe as US import curbs bite",
+    "title": "Samsung Electro-Mechanics discloses major MLCC supply deal tied to AI server demand",
+    "summary": "Samsung Electro-Mechanics disclosed on September 1 that it has concluded a single sales and supply contract worth KRW1.072 trillion (about US$778.9 million) for MLCCs, equal to 9.5% of the company's most recent annual revenue.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260901VL211/semco-mlcc-sales-2027-2026.html"
+  },
+  {
+    "date": "2026-09-01",
+    "title": "South Korea proposes $597b budget to boost chips, AI",
+    "summary": "The increase is tied to a semiconductor windfall as Samsung Electronics and SK hynix benefit from strong demand for AI-related chips.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor",
+      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/samsung-electronics-shares-jump-union-suspends-strike"
+  },
+  {
+    "date": "2026-09-01",
+    "title": "Exclusive: Ajinomoto, Daikin expand chip materials ties with Taiwan",
+    "summary": "Exclusive: Ajinomoto, Daikin expand chip materials ties with Taiwan",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "Automation"
+      "Semiconductor"
     ],
-    "url": "https://asia.nikkei.com/business/technology/china-s-robot-lawn-mowers-flock-to-europe-as-us-import-curbs-bite"
+    "url": "https://asia.nikkei.com/business/technology/exclusive-ajinomoto-daikin-expand-chip-materials-ties-with-taiwan"
   },
   {
     "date": "2026-08-31",
