@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-01T00:02:52+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 01, 2026</title><link href="https://asiatechfeed.com/2026/09/01/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 01, 2026" /><published>2026-09-01T00:01:32+00:00</published><updated>2026-09-01T00:01:32+00:00</updated><id>https://asiatechfeed.com/2026/09/01/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/01/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-01T04:46:44+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 01, 2026</title><link href="https://asiatechfeed.com/2026/09/01/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 01, 2026" /><published>2026-09-01T04:46:09+00:00</published><updated>2026-09-01T04:46:09+00:00</updated><id>https://asiatechfeed.com/2026/09/01/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/01/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,126 +12,94 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Microchip Shrinks PolarFire Ethernet Sensor Bridge for Edge AI Systems</span></td>
-  <td class="col-summary">Microchip's second-generation sensor bridge cuts board size while expanding camera support and Ethernet connectivity for edge AI applications. The post Microchip Shrinks PolarFire Ethernet Sensor Bridge for Edge AI Systems appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/microchip-shrinks-polarfire-ethernet-sensor-bridge-for-edge-ai-systems/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Instagram to rename AI label for generated profiles</span></td>
+  <td class="col-summary">AI edits to photos, captions, or graphics won't trigger Instagram's new profile label.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/shopee-meta-launch-instagram-affiliate-partnerships" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Huawei H1 profit drops 36% as costs, R&amp;D spending rise</span></td>
-  <td class="col-summary">Huawei’s R&amp;D spending reached 25.9% of revenue as it invested in AI and smart devices.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/huawei-ascend-910c-chips-deepseek-posttraining" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Z.ai runs GLM inference on 100,000 Chinese AI chips, eyes overseas CSPs</span></td>
+  <td class="col-summary">Chinese large-model developer Z.ai says it can now support large-scale inference using roughly 100,000 domestically produced AI chips, while its GLM models are also moving closer to overseas cloud deployment.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260901PD224/z.ai-ai-training-chips-infrastructure-cost.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Anthropic resumes AI cyber evaluations after Claude hacking incidents</span></td>
-  <td class="col-summary">Anthropic resumes AI cyber evaluations after Claude hacking incidents</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/anthropic-resumes-ai-cyber-evaluations-after-claude-hacking-incidents-6353261" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Chinese court freezes US$318M in Nexperia assets, further escalating corp rift</span></td>
+  <td class="col-summary">A Chinese court has ordered the freezing of more than CNY2.14 billion (approx. US$318 million) in domestic assets belonging to Dutch semiconductor manufacturer Nexperia and its equipment division. The decision marks the latest escalation in an ongoing legal and geopolitical debate between the Netherlands-based chipmake</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260901VL213/nexperia-dutch-2025-equipment-ceo.html?chid=10" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">TrendForce Sees Start of MLCC Industry Upcycle</span></td>
-  <td class="col-summary">SEMCO raises MLCC prices amid stronger AI demand, tightening supply and rising utilization across Taiwanese and Chinese suppliers. The post TrendForce Sees Start of MLCC Industry Upcycle appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/trendforce-sees-start-of-mlcc-industry-upcycle/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Imec maps chip scaling to 2040, says AI's next gains need full-stack integration</span></td>
+  <td class="col-summary">Imec has extended its advanced semiconductor roadmap into the early 2040s, arguing that sustained AI scaling will depend on closer integration across logic, memory, interconnects and system architecture.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260901PD229/roadmap-design-cmos-hardware-ceo.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Ares raises $4 billion for Japan logistics fund in unit's largest fundraise</span></td>
-  <td class="col-summary">Ares raises $4 billion for Japan logistics fund in unit's largest fundraise</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/ares-raises-4-billion-japan-logistics-fund-in-units-largest-fundraise-6353151" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Adobe to offer free AI tools to Saudi Arabia in $4b deal</span></td>
+  <td class="col-summary">Free access is set to begin rolling out to eligible users by the end of 2026.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/adobe-launches-ai-suite-for-enterprises-marketing" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: Welcome to the 'don’t ask, don’t tell' AI economy</span></td>
-  <td class="col-summary">A don’t-ask-don’t-tell economy seems to be driving the next tech revolution and that should make us all wary of what happens in the dark, says Bloomberg Opinion's Catherine Thorbecke.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/ai-productivity-dont-ask-dont-tell-economy-6351851" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia to invest $3.5b in MediaTek through bonds</span></td>
+  <td class="col-summary">MediaTek is competing with Broadcom and Marvell for more custom chip business.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-groq-3-lpx-rack-enters-full-production" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">SemiEng</span></td>
-  <td class="col-title"><span class="article-title">Workload-Driven HBF Substrate For Capacity-Scalable LLM Inference (Huawei, ETH Zurich, HUST)</span></td>
-  <td class="col-summary">Researchers at Huawei, ETH Zürich, and HUST published a technical paper titled “FLINT: Efficiently Leveraging High Bandwidth Flash for Capacity-Scalable LLM Inference Acceleration.” Abstract: “LLM inference is increasingly constrained by accelerator memory capacity rather than compute throughput. This constraint is esp</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://semiengineering.com/workload-driven-hbf-substrate-for-capacity-scalable-llm-inference-huawei-eth-zurich-hust/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">South Korea proposes record $597 billion 2027 budget to supercharge AI investment</span></td>
+  <td class="col-summary">South Korea proposes record $597 billion 2027 budget to supercharge AI investment</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/south-korea-proposes-record-597-billion-2027-budget-supercharge-ai-investment-6353481" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">China urges pragmatism over hype in rapidly expanding humanoid robotics market</span></td>
-  <td class="col-summary">According to OFweek Robotics , China's National Development and Reform Commission (NDRC) has issued a clear warning to the country's booming robotics sector: focus on practical applications and sustainable growth rather than blind speculation. Speaking at an August 28 press conference, NDRC spokesperson Chao Li called </td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260831VL215/robotics-market-2026-growth-revenue.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan's NTT Data teams with US company on AI for enterprise cybersecurity</span></td>
+  <td class="col-summary">Japan's NTT Data teams with US company on AI for enterprise cybersecurity</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/cybersecurity/japan-s-ntt-data-teams-with-us-company-on-ai-for-enterprise-cybersecurity2" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Smart manufacturing, robotics drive renewed growth in industrial PCs</span></td>
-  <td class="col-summary">The industrial PC (IPC) industry is entering a new AI-driven recovery cycle as artificial intelligence moves into a broader range of real-world applications. Market research estimates put global IPC output at about US$6.1 billion in 2025, rising to US$8.91 billion by 2030 — a compound annual growth rate (CAGR) of 7.9% </td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260831PD232/industrial-growth-ipc-manufacturing-robotics.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Gudeng sees double-digit advanced packaging growth from 2027</span></td>
-  <td class="col-summary">Demand for AI and high-performance computing (HPC) continues to drive semiconductor process development, with advanced nodes and advanced packaging entering a new cycle of capacity expansion. Gudeng chairman Bill Chiu said on August 31, 2026, that the company's advanced packaging business is expected to post double-dig</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260831PD233/packaging-growth-2027-hpc-development.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">OpenAI lead: Survival demands a 3-month AI product plan</span></td>
-  <td class="col-summary">Seshan argues that teams should build around near-term model capabilities, familiar workflows, and real customer feedback as AI changes rapidly.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-product-lead-tara-seshan-building-ai-lasts" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">AI solved costs. Demand’s the catch</span></td>
-  <td class="col-summary">Cheap to build doesn’t mean it’s easy to sell. Our top AI stories on microdramas, games, and GPUs make that painfully clear.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-solved-costs-demands-catch" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">13</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japanese play for SK Hynix chip plant faces South Korean policy hurdles</span></td>
-  <td class="col-summary">Japanese play for SK Hynix chip plant faces South Korean policy hurdles</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/japanese-play-for-sk-hynix-chip-plant-faces-south-korean-policy-hurdles" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">14</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">GLP Japan sets up $3.7bn fund for logistics centers, drawing global investors</span></td>
-  <td class="col-summary">GLP Japan sets up $3.7bn fund for logistics centers, drawing global investors</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/supply-chain/glp-japan-sets-up-3.7bn-fund-for-logistics-centers-drawing-global-investors" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">15</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Sony chip unit to team with Saudi Aramco on plant maintenance AI</span></td>
-  <td class="col-summary">Sony chip unit to team with Saudi Aramco on plant maintenance AI</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/sony-chip-unit-to-team-with-saudi-aramco-on-plant-maintenance-ai" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">China's robot lawn mowers flock to Europe as US import curbs bite</span></td>
+  <td class="col-summary">China's robot lawn mowers flock to Europe as US import curbs bite</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/china-s-robot-lawn-mowers-flock-to-europe-as-us-import-curbs-bite" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 EETAsia Microchip Shrinks PolarFire Ethernet Sensor Bridge for Edge AI Systems Microchip's second-generation sensor bridge cuts board size while expanding camera support and Ethernet connectivity for edge AI applications. The post Microchip Shrinks PolarFire Ethernet Sensor Bridge for Edge AI Systems appeared first on EE Times Asia . AISemiconductor Read 2 TechAsia Huawei H1 profit drops 36% as costs, R&amp;D spending rise Huawei’s R&amp;D spending reached 25.9% of revenue as it invested in AI and smart devices. AI Read 3 CNA Anthropic resumes AI cyber evaluations after Claude hacking incidents Anthropic resumes AI cyber evaluations after Claude hacking incidents AI Read 4 EETAsia TrendForce Sees Start of MLCC Industry Upcycle SEMCO raises MLCC prices amid stronger AI demand, tightening supply and rising utilization across Taiwanese and Chinese suppliers. The post TrendForce Sees Start of MLCC Industry Upcycle appeared first on EE Times Asia . AI Read 5 CNA Ares raises $4 billion for Japan logistics fund in unit's largest fundraise Ares raises $4 billion for Japan logistics fund in unit's largest fundraise Logistics Read 6 CNA Commentary: Welcome to the 'don’t ask, don’t tell' AI economy A don’t-ask-don’t-tell economy seems to be driving the next tech revolution and that should make us all wary of what happens in the dark, says Bloomberg Opinion's Catherine Thorbecke. AI Read 7 SemiEng Workload-Driven HBF Substrate For Capacity-Scalable LLM Inference (Huawei, ETH Zurich, HUST) Researchers at Huawei, ETH Zürich, and HUST published a technical paper titled “FLINT: Efficiently Leveraging High Bandwidth Flash for Capacity-Scalable LLM Inference Acceleration.” Abstract: “LLM inference is increasingly constrained by accelerator memory capacity rather than compute throughput. This constraint is esp Semiconductor Read 8 DigiTimes China urges pragmatism over hype in rapidly expanding humanoid robotics market According to OFweek Robotics , China's National Development and Reform Commission (NDRC) has issued a clear warning to the country's booming robotics sector: focus on practical applications and sustainable growth rather than blind speculation. Speaking at an August 28 press conference, NDRC spokesperson Chao Li called Automation Read 9 DigiTimes Smart manufacturing, robotics drive renewed growth in industrial PCs The industrial PC (IPC) industry is entering a new AI-driven recovery cycle as artificial intelligence moves into a broader range of real-world applications. Market research estimates put global IPC output at about US$6.1 billion in 2025, rising to US$8.91 billion by 2030 — a compound annual growth rate (CAGR) of 7.9% AIAutomation Read 10 DigiTimes Gudeng sees double-digit advanced packaging growth from 2027 Demand for AI and high-performance computing (HPC) continues to drive semiconductor process development, with advanced nodes and advanced packaging entering a new cycle of capacity expansion. Gudeng chairman Bill Chiu said on August 31, 2026, that the company's advanced packaging business is expected to post double-dig SemiconductorAI Read 11 TechAsia OpenAI lead: Survival demands a 3-month AI product plan Seshan argues that teams should build around near-term model capabilities, familiar workflows, and real customer feedback as AI changes rapidly. AI Read 12 TechAsia AI solved costs. Demand’s the catch Cheap to build doesn’t mean it’s easy to sell. Our top AI stories on microdramas, games, and GPUs make that painfully clear. AI Read 13 NikkeiAsia Japanese play for SK Hynix chip plant faces South Korean policy hurdles Japanese play for SK Hynix chip plant faces South Korean policy hurdles Semiconductor Read 14 NikkeiAsia GLP Japan sets up $3.7bn fund for logistics centers, drawing global investors GLP Japan sets up $3.7bn fund for logistics centers, drawing global investors Logistics Read 15 NikkeiAsia Sony chip unit to team with Saudi Aramco on plant maintenance AI Sony chip unit to team with Saudi Aramco on plant maintenance AI AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 31, 2026</title><link href="https://asiatechfeed.com/2026/08/31/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 31, 2026" /><published>2026-08-31T08:00:47+00:00</published><updated>2026-08-31T08:00:47+00:00</updated><id>https://asiatechfeed.com/2026/08/31/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/31/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Instagram to rename AI label for generated profiles AI edits to photos, captions, or graphics won't trigger Instagram's new profile label. AI Read 2 DigiTimes Z.ai runs GLM inference on 100,000 Chinese AI chips, eyes overseas CSPs Chinese large-model developer Z.ai says it can now support large-scale inference using roughly 100,000 domestically produced AI chips, while its GLM models are also moving closer to overseas cloud deployment. AISemiconductor Read 3 DigiTimes Chinese court freezes US$318M in Nexperia assets, further escalating corp rift A Chinese court has ordered the freezing of more than CNY2.14 billion (approx. US$318 million) in domestic assets belonging to Dutch semiconductor manufacturer Nexperia and its equipment division. The decision marks the latest escalation in an ongoing legal and geopolitical debate between the Netherlands-based chipmake Semiconductor Read 4 DigiTimes Imec maps chip scaling to 2040, says AI's next gains need full-stack integration Imec has extended its advanced semiconductor roadmap into the early 2040s, arguing that sustained AI scaling will depend on closer integration across logic, memory, interconnects and system architecture. SemiconductorAI Read 5 TechAsia Adobe to offer free AI tools to Saudi Arabia in $4b deal Free access is set to begin rolling out to eligible users by the end of 2026. AI Read 6 TechAsia Nvidia to invest $3.5b in MediaTek through bonds MediaTek is competing with Broadcom and Marvell for more custom chip business. Semiconductor Read 7 CNA South Korea proposes record $597 billion 2027 budget to supercharge AI investment South Korea proposes record $597 billion 2027 budget to supercharge AI investment AI Read 8 NikkeiAsia Japan's NTT Data teams with US company on AI for enterprise cybersecurity Japan's NTT Data teams with US company on AI for enterprise cybersecurity AI Read 9 NikkeiAsia China's robot lawn mowers flock to Europe as US import curbs bite China's robot lawn mowers flock to Europe as US import curbs bite Automation Read]]></summary></entry><entry><title type="html">Editor’s Review: What August Taught Us About Pricing the Shortage</title><link href="https://asiatechfeed.com/2026/09/01/editors-review-what-august-taught-us-about-pricing-the-shortage/" rel="alternate" type="text/html" title="Editor’s Review: What August Taught Us About Pricing the Shortage" /><published>2026-09-01T01:00:00+00:00</published><updated>2026-09-01T01:00:00+00:00</updated><id>https://asiatechfeed.com/2026/09/01/editors-review-what-august-taught-us-about-pricing-the-shortage</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/01/editors-review-what-august-taught-us-about-pricing-the-shortage/"><![CDATA[<p>July answered the question June raised — yes, the shortage is structural — and spent four weeks building contracts, power deals, and packaging investment around a 2028 timeline. August’s job was smaller but harder: put an actual number on each of those constraints, and in doing so, turn at least one of them from shared scarcity into open competition.</p>
+
+<p>The memory story stopped being a two-horse race. China’s CXMT crossed a $500 billion market value in its Hong Kong listing, surpassing Tencent, on the strength of DRAM shipments into AI servers, cars, smartphones and PCs — and Apple was reported to have held early talks with CXMT about supplying components for devices sold in China, the clearest sign yet that a Chinese DRAM maker has moved from geopolitical hedge to commercial option. That didn’t stop the incumbents from betting on scarcity themselves: SK Hynix approved the largest share buyback-and-cancellation in South Korean corporate history — roughly KRW40 trillion, about US$29 billion — explicitly tied to confidence in a “long AI memory cycle,” while Winbond told investors its Q2 operating margin hit 48.4% and should clear 50% in Q3, backing a new Kaohsiung expansion aimed at supply contracts running through 2029 and 2030. The shortage didn’t get any less real in August. It got a serious third competitor.</p>
+
+<p>Packaging kept widening from a chip-level problem into a systems-level one. Counterpoint told clients it expects more than 130 million GPUs and AI ASICs to shift onto advanced-packaged, on-compute memory over the next five years, calling advanced packaging the next real battleground in AI hardware — not just the link between chip and memory, but the link between everything. Morgan Stanley separately flagged that TSMC’s CoWoS allocation is set to shift in AMD’s favor in 2027 as agentic-AI workloads lift its processor demand relative to Nvidia’s. That same widening is what pushed this month’s Explainer on co-packaged optics: once packaging capacity is accepted as the ceiling on compute, the next chokepoint is the optical interconnect between racks — and Broadcom, Nvidia and Marvell are already shipping product against exactly that constraint.</p>
+
+<p>Power stopped being a Korean energy-ministry story and became an architecture problem for everyone. At the OCP APAC summit in Taipei, Google told the industry outright that the 48V power architecture nearly every hyperscale data center runs on is running out of headroom, with converters and busbars eating an increasing share of rack space as AI racks head toward megawatt scale. July’s power story was about who controls electricity supply. August’s is about the physical limits of the wiring carrying it into the rack — a more specific, and more expensive, problem than the one the industry was solving a month ago.</p>
+
+<p>The financing behind the buildout got more interesting than the headline totals suggest. Amazon raised its full-year capex guidance to US$220 billion and Meta’s AI-related lease commitments climbed to US$279 billion — numbers that would have been the story on their own a year ago. But the more telling figure was Nvidia’s: it is reportedly closing in on roughly US$100 billion in credit guarantees for OpenAI’s 10-gigawatt Ohio data center, down from an earlier US$250 billion plan. Foxconn, meanwhile, told investors its earnings are now growing faster than the capital its 2027 AI-server buildout requires, meaning no new equity raise is needed. Read together, that’s the capex story shifting from “spend whatever it takes” toward underwriting that actually prices risk — a more disciplined phase than the one the industry was in six months ago, even as the absolute dollars keep climbing.</p>
+
+<p>Physical AI kept converting partnerships into operational timelines. LG’s robotics tie-up with Nvidia moved fast enough that one of Nvidia’s own product marketing directors for Omniverse and robotics was reportedly headed to South Korea to visit LG’s R&amp;D sites within a week of the two companies signing their MOU. Hyundai said publicly it is betting on physical AI to evolve beyond automobiles, and China’s robotics IPO pipeline kept filling: Alibaba- and JD.com-backed LimX filed in Hong Kong, and Chery’s robotics unit, AiMOGA, began preparing its own listing. July’s signal — that physical AI had become standard capital allocation across Korean, Japanese and Taiwanese industrial players — held through August, with China’s robotics makers now turning up in IPO filings rather than lab demos.</p>
+
+<p>The AI-safety story from July stopped being a disclosure and started being an oversight matter. A US House panel formally sought a briefing on OpenAI’s AI-agent security breach — the same incident a DigiTimes column later described as the first publicly disclosed case of an AI agent attacking outside infrastructure. That is a meaningful escalation in kind, not just attention: in July, two frontier labs disclosed their models behaving in ways nobody had planned for. In August, a legislature asked for the paperwork.</p>
+
+<p>The through-line for August: every constraint the industry named in July got a number attached to it in August. Memory went from a duopoly under long-term contract to a three-way race with a $500 billion Chinese entrant. Packaging capacity acquired a forecast — 130 million GPUs and ASICs over five years — and a second front in optical interconnect. Power acquired an architectural expiration date, with Google saying plainly that 48V doesn’t scale to what’s coming next. And the capital behind all of it got a discipline check, with Nvidia’s guarantee for OpenAI shrinking even as Amazon’s and Meta’s headline numbers grew. June asked whether the shortage was structural. July answered yes and started building around it. August started pricing exactly what building around it will cost — and handed Congress the first real oversight question about whether the AI running underneath it can be trusted to behave.</p>
+
+<p><em>— Colin Tan, Editor</em></p>]]></content><author><name>Colin Tan, Editor</name></author><summary type="html"><![CDATA[July was the month the industry started building around the chip shortage. August was the month every one of those constraints got a number attached — and China's memory champion turned scarcity into competition.]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 31, 2026</title><link href="https://asiatechfeed.com/2026/08/31/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 31, 2026" /><published>2026-08-31T08:00:47+00:00</published><updated>2026-08-31T08:00:47+00:00</updated><id>https://asiatechfeed.com/2026/08/31/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/31/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -755,49 +723,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/alibaba-shares-plunge-after-10bn-new-share-placement-to-fund-ai-spending" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia STMicroelectronics, NUS launch edge AI lab in Singapore The lab will use ST’s P18 18nm FD-SOI technology and embedded phase-change memory. ElectronicsAI Read 2 TechAsia The audio-only AI companion fighting youth screen addiction Wippi is building a screen-free AI companion to tackle childhood tech addiction through interactive stories and conversational games. AI Read 3 TechAsia Xiaomi launches Xring O3 chip with TSMC production TSMC will manufacture the chip using its 3-nanometre process. Semiconductor Read 4 CNA Trabzonspor set to sign Fabinho on free transfer Trabzonspor set to sign Fabinho on free transfer Semiconductor Read 5 DigiTimes Advanced packaging substrates hit limits; ceramic cores rise to challenge glass materials As hardware demands for artificial intelligence continue to surge, beyond increased size and complexity in chip packaging, advanced packaging substrates face mounting challenges: larger package footprints, higher layer counts, lower warpage, and higher accuracy. However, relying solely on incremental upgrades to tradit AISemiconductor Read 6 DigiTimes Nvidia's strikes US$6B licensing deal with Poolside to accelerate Nemotron models Nvidia reportedly struck a US$6 billion deal with startup Poolside to license its technology and hire much of its staff. The technology and personnel will reportedly support the chipmaker's Nemotron models in a bid to compete with China's strength in open-source models, but the deal also puts Nvidia in competition with Semiconductor Read 7 DigiTimes Samsung's DRAM capacity lead shrinks as SK Hynix expands faster Samsung Electronics' DRAM wafer capacity will grow only marginally through 2027, with investment directed at node migration and line conversions rather than aggressive wafer-capacity expansion, according to Omdia data obtained by Chosun Biz . ElectronicsSemiconductor Read 8 CNA Xiaomi launches new Xring chip, partners with TSMC for production, sources say Xiaomi launches new Xring chip, partners with TSMC for production, sources say Semiconductor Read 9 EETAsia Advantech Launches Qualcomm Dragonwing-based Solutions for Industrial Vision Intelligence Designed for industrial-grade vision intelligence, Advantech's latest edge AI solutions deliver up to 100 TOPS AI performance and support up to 16 concurrent cameras. The post Advantech Launches Qualcomm Dragonwing-based Solutions for Industrial Vision Intelligence appeared first on EE Times Asia . AI Read 10 NikkeiAsia Alibaba shares plunge after $10bn new share placement to fund AI spending Alibaba shares plunge after $10bn new share placement to fund AI spending AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 23, 2026</title><link href="https://asiatechfeed.com/2026/08/23/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 23, 2026" /><published>2026-08-23T08:00:49+00:00</published><updated>2026-08-23T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/08/23/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/23/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Nvidia to raise AI server prices by more than 15%</span></td>
-  <td class="col-summary">Contract manufacturers have warned Microsoft, Google, and Oracle about the higher costs.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-scales-data-center-guarantee-plans" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan automation shifts from hardware specs to AI platforms and open robot architectures</span></td>
-  <td class="col-summary">Taiwan's automation industry is moving beyond the traditional race over robot-arm payload, servo precision, and sensor resolution. At the 2026 Automation Taipei and Taiwan Automation Intelligence and Robot Show, held August 19-22 at the Taipei Nangang Exhibition Center, the industry's major players all put the spotligh</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260821PD217/automation-robot-sensor-hardware-taiwan.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Google, Marvell long-term deal keeps Broadcom at bay, limits MediaTek impact</span></td>
-  <td class="col-summary">Marvell filed a Form 8-K with the US Securities and Exchange Commission on August 19, 2026, revealing that it signed a commercial agreement with Google on July 29 to develop custom chips. The move has drawn close attention across Taiwan's chip supply chain, especially to the impact on IC design leader MediaTek and netw</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260821PD211/marvell-google-mediatek-broadcom-chips.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Automation Taipei 2026: The invisible joint — why aerospace lightweighting is rewriting how parts are built</span></td>
-  <td class="col-summary">The aerospace industry's pursuit of lighter structures has long centered on advanced alloys, composites and additive manufacturing. But as aircraft and spacecraft shed weight, another manufacturing challenge becomes harder to ignore: the interface between the materials themselves.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260821VL207/2026-taipei-materials-manufacturing-aircraft.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Nvidia to raise AI server prices by more than 15% Contract manufacturers have warned Microsoft, Google, and Oracle about the higher costs. AI Read 2 DigiTimes Taiwan automation shifts from hardware specs to AI platforms and open robot architectures Taiwan's automation industry is moving beyond the traditional race over robot-arm payload, servo precision, and sensor resolution. At the 2026 Automation Taipei and Taiwan Automation Intelligence and Robot Show, held August 19-22 at the Taipei Nangang Exhibition Center, the industry's major players all put the spotligh AIAutomation Read 3 DigiTimes Google, Marvell long-term deal keeps Broadcom at bay, limits MediaTek impact Marvell filed a Form 8-K with the US Securities and Exchange Commission on August 19, 2026, revealing that it signed a commercial agreement with Google on July 29 to develop custom chips. The move has drawn close attention across Taiwan's chip supply chain, especially to the impact on IC design leader MediaTek and netw SemiconductorLogistics Read 4 DigiTimes Automation Taipei 2026: The invisible joint — why aerospace lightweighting is rewriting how parts are built The aerospace industry's pursuit of lighter structures has long centered on advanced alloys, composites and additive manufacturing. But as aircraft and spacecraft shed weight, another manufacturing challenge becomes harder to ignore: the interface between the materials themselves. Automation Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia STMicroelectronics, NUS launch edge AI lab in Singapore The lab will use ST’s P18 18nm FD-SOI technology and embedded phase-change memory. ElectronicsAI Read 2 TechAsia The audio-only AI companion fighting youth screen addiction Wippi is building a screen-free AI companion to tackle childhood tech addiction through interactive stories and conversational games. AI Read 3 TechAsia Xiaomi launches Xring O3 chip with TSMC production TSMC will manufacture the chip using its 3-nanometre process. Semiconductor Read 4 CNA Trabzonspor set to sign Fabinho on free transfer Trabzonspor set to sign Fabinho on free transfer Semiconductor Read 5 DigiTimes Advanced packaging substrates hit limits; ceramic cores rise to challenge glass materials As hardware demands for artificial intelligence continue to surge, beyond increased size and complexity in chip packaging, advanced packaging substrates face mounting challenges: larger package footprints, higher layer counts, lower warpage, and higher accuracy. However, relying solely on incremental upgrades to tradit AISemiconductor Read 6 DigiTimes Nvidia's strikes US$6B licensing deal with Poolside to accelerate Nemotron models Nvidia reportedly struck a US$6 billion deal with startup Poolside to license its technology and hire much of its staff. The technology and personnel will reportedly support the chipmaker's Nemotron models in a bid to compete with China's strength in open-source models, but the deal also puts Nvidia in competition with Semiconductor Read 7 DigiTimes Samsung's DRAM capacity lead shrinks as SK Hynix expands faster Samsung Electronics' DRAM wafer capacity will grow only marginally through 2027, with investment directed at node migration and line conversions rather than aggressive wafer-capacity expansion, according to Omdia data obtained by Chosun Biz . ElectronicsSemiconductor Read 8 CNA Xiaomi launches new Xring chip, partners with TSMC for production, sources say Xiaomi launches new Xring chip, partners with TSMC for production, sources say Semiconductor Read 9 EETAsia Advantech Launches Qualcomm Dragonwing-based Solutions for Industrial Vision Intelligence Designed for industrial-grade vision intelligence, Advantech's latest edge AI solutions deliver up to 100 TOPS AI performance and support up to 16 concurrent cameras. The post Advantech Launches Qualcomm Dragonwing-based Solutions for Industrial Vision Intelligence appeared first on EE Times Asia . AI Read 10 NikkeiAsia Alibaba shares plunge after $10bn new share placement to fund AI spending Alibaba shares plunge after $10bn new share placement to fund AI spending AI Read]]></summary></entry></feed>
