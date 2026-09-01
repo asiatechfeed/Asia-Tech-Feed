@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "count": 9,
+  "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -10,29 +10,29 @@
   "post_file": "2026-09-01-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Instagram to rename AI label for generated profiles",
+      "title": "Broadcom to add AI data tools to VMware Tanzu",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/shopee-meta-launch-instagram-affiliate-partnerships"
+      "url": "https://www.techinasia.com/broadcom-sees-22b-q2-revenue-ai-chips-drive-growth"
     },
     {
-      "title": "Z.ai runs GLM inference on 100,000 Chinese AI chips, eyes overseas CSPs",
+      "title": "Marvell CTO: power and density bottlenecks are driving CPO adoption in AI data centers",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260901PD224/z.ai-ai-training-chips-infrastructure-cost.html"
+      "url": "https://www.digitimes.com/news/a20260901PD231/marvell-cpo-siph-adoption-semicon-taiwan.html"
     },
     {
-      "title": "Chinese court freezes US$318M in Nexperia assets, further escalating corp rift",
+      "title": "South Korea CCL exports surge 42% on AI demand",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260901VL213/nexperia-dutch-2025-equipment-ceo.html?chid=10"
+      "url": "https://www.digitimes.com/news/a20260901PD208/ccl-exports-demand-2026-revenue.html"
     },
     {
-      "title": "Imec maps chip scaling to 2040, says AI's next gains need full-stack integration",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260901PD229/roadmap-design-cmos-hardware-ceo.html"
+      "title": "AI, working parents, growth markets: New Minister of State Foo Cexiang on his priorities",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/foo-cexiang-minister-state-mti-mom-priorities-ai-working-parents-new-growth-markets-6354166"
     },
     {
-      "title": "Adobe to offer free AI tools to Saudi Arabia in $4b deal",
+      "title": "India\u2019s Gupshup rolls out self-service Voice AI platform",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/adobe-launches-ai-suite-for-enterprises-marketing"
+      "url": "https://www.techinasia.com/indias-bharti-airtel-google-to-launch-advanced-chat-messaging"
     }
   ],
   "source_stats": [
@@ -156,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 47,
-      "relevant": 35,
+      "fetched": 63,
+      "relevant": 43,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +168,7 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
