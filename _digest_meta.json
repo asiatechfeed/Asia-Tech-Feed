@@ -1,37 +1,40 @@
 {
-  "date": "2026-08-31",
-  "count": 7,
+  "date": "2026-09-01",
+  "count": 15,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
+    "NikkeiAsia",
+    "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-08-31-asia-tech-news-digest.md",
+  "post_file": "2026-09-01-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Why token prices are the wrong way to judge AI",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/why-token-prices-are-the-wrong-way-to-judge-ai"
+      "title": "Microchip Shrinks PolarFire Ethernet Sensor Bridge for Edge AI Systems",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/microchip-shrinks-polarfire-ethernet-sensor-bridge-for-edge-ai-systems/"
     },
     {
-      "title": "\u2018Hazardous\u2019 levels of air quality in parts of Indonesia\u2019s Borneo",
+      "title": "Huawei H1 profit drops 36% as costs, R&D spending rise",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/huawei-ascend-910c-chips-deepseek-posttraining"
+    },
+    {
+      "title": "Anthropic resumes AI cyber evaluations after Claude hacking incidents",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-kalimantan-forest-fires-air-quality-6351716"
+      "url": "https://www.channelnewsasia.com/business/anthropic-resumes-ai-cyber-evaluations-after-claude-hacking-incidents-6353261"
     },
     {
-      "title": "Gudeng chairman says trust underpins Taiwan supply chains amid Unimicron row",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260831PD220/taiwan-chairman-unimicron-supply-chain-2026.html"
+      "title": "TrendForce Sees Start of MLCC Industry Upcycle",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/trendforce-sees-start-of-mlcc-industry-upcycle/"
     },
     {
-      "title": "Meet the AI platform that helps brands evaluate content creators",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/meet-ai-platform-helps-brands-evaluate-content-creators"
-    },
-    {
-      "title": "Unimicron falls 10% daily limit, says origin probe covers PCBs not substrates",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260831VL217/unimicron-taiwan-investigation-pcb-abf-substrate.html"
+      "title": "Ares raises $4 billion for Japan logistics fund in unit's largest fundraise",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/ares-raises-4-billion-japan-logistics-fund-in-units-largest-fundraise-6353151"
     }
   ],
   "source_stats": [
@@ -48,9 +51,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -128,7 +131,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -149,14 +152,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 40,
-      "relevant": 27,
+      "fetched": 56,
+      "relevant": 37,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +168,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 2,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -192,7 +195,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -210,9 +213,9 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     }
   ]
