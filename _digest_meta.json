@@ -1,37 +1,39 @@
 {
   "date": "2026-09-02",
-  "count": 7,
+  "count": 9,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "EETAsia",
+    "NikkeiAsia",
+    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-09-02-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Manus resumes independent operations after Meta deal collapses",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260902VL214/manus-ai-agent-business-data-meta.html"
+      "title": "Extending 18A With Significant Power And Performance Gains",
+      "source": "SemiEng",
+      "url": "https://semiengineering.com/extending-18a-with-significant-power-and-performance-gains/"
     },
     {
-      "title": "Nvidia B200s to power SK Biopharma AI drug research",
+      "title": "This startup builds real-time guardrails for AI agents",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/sk-biopharma-taps-insilico-for-2-5b-ai-drug-deal"
+      "url": "https://www.techinasia.com/startup-builds-realtime-guardrails-ai-agents"
     },
     {
-      "title": "CrowdStrike, Nvidia launch SafeMind AI security tools",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/crowdstrike-taps-nvidia-ai-to-speed-cyber-threat-detection"
-    },
-    {
-      "title": "European chip ambitions hinge on more than subsidies, says TSMC",
+      "title": "India reportedly readies AI agent payments on UPI, its national payment rails",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260902PD211/eu-tsmc-subsidies-taiwan-fab.html"
+      "url": "https://www.digitimes.com/news/a20260902VL207.html"
     },
     {
-      "title": "ByteDance-ZTE Nubia NaviX Ultra clears launch hurdle, takes agentic AI beyond smartphone assistants",
+      "title": "TSMC reportedly asks suppliers to develop 5\u03bcm HBM microbumps",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260902PD229/bytedance-zte-ai-smartphone-launch.html"
+      "url": "https://www.digitimes.com/news/a20260902VL218/tsmc-hbm-materials-equipment-technology.html"
+    },
+    {
+      "title": "Certain Micro targets AI test-interface demand with three Semicon products",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260902PD224/ic-testing-interface-probe-card-demand-semicon-taiwan-2026.html"
     }
   ],
   "source_stats": [
@@ -48,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -149,14 +151,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 38,
-      "relevant": 23,
+      "fetched": 48,
+      "relevant": 29,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +169,7 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -192,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 13,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -210,9 +212,9 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     }
   ]
