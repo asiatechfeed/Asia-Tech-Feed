@@ -1,136 +1,82 @@
 [
   {
     "date": "2026-09-02",
-    "title": "LG fights Chinese brands with innovation, business model shifts",
-    "summary": "LG Electronics is bolstering sales of home appliances, TVs and other consumer products through innovation and product segmentation. On the 1st, LG said it will launch new air purifiers and edge purifiers to meet air-care demand in small homes and other diverse living spaces.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260902PD202/lg-lg-electronics-business-sales-market.html"
-  },
-  {
-    "date": "2026-09-02",
-    "title": "Chinese MRAM chipmaker ICY Tech rethinks HBM for rack-scale AI inference",
-    "summary": "China-based ICY Tech has introduced its uHBM and uLPU AI inference architectures, extending persistent MRAM computing from validation silicon into a product roadmap spanning compute-memory dies, chips, modules, 2U trays, and racks.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260901VL209/ai-inference-mram-hbm-silicon-roadmap.html"
-  },
-  {
-    "date": "2026-09-02",
-    "title": "Qisda builds physical AI ecosystem from land to space",
-    "summary": "Qisda has been expanding its display, commercial, and industrial businesses beyond traditional desktop monitors into medical, rugged, automotive, unmanned vehicle, drone, and low-Earth-orbit (LEO) satellite applications. Its Commercial and Industrial Group (CIG) has now made physical AI a core priority. CIG aims to ext",
+    "title": "Manus resumes independent operations after Meta deal collapses",
+    "summary": "Manus has resumed independent operations under its founding team, closing a turbulent chapter that began with Meta Platforms' multibillion-dollar acquisition of the AI agent startup and ended after Chinese regulators ordered the transaction canceled.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260901PD217/qisda-display-medical-commercial-desktop.html"
+    "url": "https://www.digitimes.com/news/a20260902VL214/manus-ai-agent-business-data-meta.html"
   },
   {
     "date": "2026-09-02",
-    "title": "Diodes Expands ATE Portfolio with ElevATE Semiconductor Acquisition",
-    "summary": "Acquisition adds low-power analog and mixed-signal capabilities as semiconductor complexity drives higher automated test demand. The post Diodes Expands ATE Portfolio with ElevATE Semiconductor Acquisition appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "Nvidia B200s to power SK Biopharma AI drug research",
+    "summary": "SK Biopharmaceuticals President Lee Dong-hoon said AI will be an important factor in competitiveness in new drug development.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.eetasia.com/diodes-expands-ate-portfolio-with-elevate-semiconductor-acquisition/"
-  },
-  {
-    "date": "2026-09-02",
-    "title": "Rigaku, Tohoku University Target Next-Generation X-Ray Metrology for Semiconductors",
-    "summary": "New research institute will combine soft X-ray capabilities, information science and industrial expertise to advance semiconductor metrology. The post Rigaku, Tohoku University Target Next-Generation X-Ray Metrology for Semiconductors appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.eetasia.com/rigaku-tohoku-university-target-next-generation-x-ray-metrology-for-semiconductors/"
-  },
-  {
-    "date": "2026-09-02",
-    "title": "Global Semiconductor Revenue to Reach $1.6T in 2026",
-    "summary": "Global semiconductor revenue is expected to reach $1.6 trillion in 2026 and $1.9 trillion in 2027, according to Gartner. The post Global Semiconductor Revenue to Reach $1.6T in 2026 appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.eetasia.com/global-semiconductor-revenue-to-reach-1-6t-in-2026/"
-  },
-  {
-    "date": "2026-09-02",
-    "title": "Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console",
-    "summary": "Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
+      "Pharmaceutical",
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/palo-alto-networks-beats-quarterly-earnings-estimates-acquires-ai-platform-console-6355986"
+    "url": "https://www.techinasia.com/sk-biopharma-taps-insilico-for-2-5b-ai-drug-deal"
   },
   {
     "date": "2026-09-02",
-    "title": "India’s payments body preps UPI rules for AI agents: sources",
-    "summary": "UPI, run by the National Payments Corporation of India, handled 24.51 billion transactions worth 29.8 trillion rupees, or about US$314.21 billion, in August.",
+    "title": "CrowdStrike, Nvidia launch SafeMind AI security tools",
+    "summary": "CoreWeave, a US cloud infrastructure provider focused on AI workloads, supplied cloud infrastructure for training and inference.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/indian-ecommerce-firms-build-agentic-ai-storefronts"
+    "url": "https://www.techinasia.com/crowdstrike-taps-nvidia-ai-to-speed-cyber-threat-detection"
   },
   {
     "date": "2026-09-02",
-    "title": "Indian consumer app AI Fiesta expands in Southeast Asia",
-    "summary": "AI Fiesta added that it had more than 1 million registered users across India, Nepal, Bhutan, Singapore, and the Philippines.",
+    "title": "European chip ambitions hinge on more than subsidies, says TSMC",
+    "summary": "The EU is pressing ahead with the European Chips Act and discussing a second phase, but TSMC says public money alone will not secure a durable semiconductor base. The company argues that long-term demand, operating conditions, and administrative coordination will matter more than incentives if Europe wants lasting manu",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260902PD211/eu-tsmc-subsidies-taiwan-fab.html"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "ByteDance-ZTE Nubia NaviX Ultra clears launch hurdle, takes agentic AI beyond smartphone assistants",
+    "summary": "ByteDance and ZTE are preparing to launch the Nubia NaviX Ultra in September after the AI smartphone received China's network access approval, clearing the regulatory process from large-model filing to device certification.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260902PD229/bytedance-zte-ai-smartphone-launch.html"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Alibaba Cloud backs Malaysia’s AI untuk Rakyat",
+    "summary": "AI untuk Rakyat aims to expand access to AI tools and learning opportunities for young people, and targets 100,000 Malaysians aged 18 to 30.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/asias-telcos-betting-ai-payoff-unclear"
+    "url": "https://www.techinasia.com/alibaba-cloud-expands-ai-capacity-malaysia"
   },
   {
     "date": "2026-09-02",
-    "title": "When minutes replaces weeks",
-    "summary": "Here’s an inside look at how AI analysts cut enterprise compliance and audit from weeks to days and spot the risks tired human teams miss.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Sony-TSMC Venture Strengthens Image Sensor Supply Chain Amid Rising AI, Robotics Demand",
+    "summary": "The new joint venture combines Sony's sensor expertise and TSMC manufacturing capacity to target emerging imaging markets. The post Sony-TSMC Venture Strengthens Image Sensor Supply Chain Amid Rising AI, Robotics Demand appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
-      "AI"
+      "Logistics",
+      "Automation"
     ],
-    "url": "https://www.techinasia.com/video/when-minutes-replace-weeks"
-  },
-  {
-    "date": "2026-09-02",
-    "title": "China's Xi pitches AI hub as SCO casts itself as pillar of stability",
-    "summary": "China's Xi pitches AI hub as SCO casts itself as pillar of stability",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/politics/international-relations/china-s-xi-pitches-ai-hub-as-sco-casts-itself-as-pillar-of-stability"
-  },
-  {
-    "date": "2026-09-02",
-    "title": "Ares sets up $4bn fund for logistics centers, drawing global investors",
-    "summary": "Ares sets up $4bn fund for logistics centers, drawing global investors",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Logistics"
-    ],
-    "url": "https://asia.nikkei.com/spotlight/supply-chain/ares-sets-up-4bn-fund-for-logistics-centers-drawing-global-investors"
+    "url": "https://www.eetasia.com/sony-tsmc-venture-strengthens-image-sensor-supply-chain-amid-rising-ai-robotics-demand/"
   },
   {
     "date": "2026-09-01",

@@ -1,39 +1,37 @@
 {
   "date": "2026-09-02",
-  "count": 12,
+  "count": 7,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-02-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "LG fights Chinese brands with innovation, business model shifts",
+      "title": "Manus resumes independent operations after Meta deal collapses",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260902PD202/lg-lg-electronics-business-sales-market.html"
+      "url": "https://www.digitimes.com/news/a20260902VL214/manus-ai-agent-business-data-meta.html"
     },
     {
-      "title": "Chinese MRAM chipmaker ICY Tech rethinks HBM for rack-scale AI inference",
+      "title": "Nvidia B200s to power SK Biopharma AI drug research",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/sk-biopharma-taps-insilico-for-2-5b-ai-drug-deal"
+    },
+    {
+      "title": "CrowdStrike, Nvidia launch SafeMind AI security tools",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/crowdstrike-taps-nvidia-ai-to-speed-cyber-threat-detection"
+    },
+    {
+      "title": "European chip ambitions hinge on more than subsidies, says TSMC",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260901VL209/ai-inference-mram-hbm-silicon-roadmap.html"
+      "url": "https://www.digitimes.com/news/a20260902PD211/eu-tsmc-subsidies-taiwan-fab.html"
     },
     {
-      "title": "Qisda builds physical AI ecosystem from land to space",
+      "title": "ByteDance-ZTE Nubia NaviX Ultra clears launch hurdle, takes agentic AI beyond smartphone assistants",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260901PD217/qisda-display-medical-commercial-desktop.html"
-    },
-    {
-      "title": "Diodes Expands ATE Portfolio with ElevATE Semiconductor Acquisition",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/diodes-expands-ate-portfolio-with-elevate-semiconductor-acquisition/"
-    },
-    {
-      "title": "Rigaku, Tohoku University Target Next-Generation X-Ray Metrology for Semiconductors",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/rigaku-tohoku-university-target-next-generation-x-ray-metrology-for-semiconductors/"
+      "url": "https://www.digitimes.com/news/a20260902PD229/bytedance-zte-ai-smartphone-launch.html"
     }
   ],
   "source_stats": [
@@ -50,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -130,7 +128,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -151,14 +149,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 17,
+      "fetched": 38,
+      "relevant": 23,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +167,7 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
