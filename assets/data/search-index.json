@@ -1,92 +1,73 @@
 [
   {
     "date": "2026-09-03",
-    "title": "CXMT expands global hiring to Japan for DDR5, LPDDR technology upgrade",
-    "summary": "Chinese DRAM maker CXMT has launched its 2027 global recruitment campaign, opening roles across circuit design, R&D, mass-production technology, manufacturing operations, information technology and artificial intelligence. Positions are based in Hefei, Beijing, Shanghai, Xi'an and overseas markets including Japan.",
+    "title": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say",
+    "summary": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/chinese-ai-firm-moonshot-files-confidentially-hong-kong-ipo-sources-say-6359846"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Fei-Fei Li's World Labs unveils Atlas world model for 3D AI and robotics",
+    "summary": "World Labs, the startup founded by Stanford professor Fei-Fei Li, has unveiled Atlas, a multimodal world model designed to generate, reconstruct, and simulate three-dimensional environments from text, images, and video. The launch marks a shift from conventional generative AI toward systems that reason about geometry, ",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI"
+      "AI",
+      "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20260903PD229/cxmt-ddr5-dram-manufacturing-talent.html"
+    "url": "https://www.digitimes.com/news/a20260903VL213/atlas-3d-robotics-startup-camera.html"
   },
   {
     "date": "2026-09-03",
-    "title": "Australian AI firm Firmus bets $300m on trans-Pacific cable",
-    "summary": "The companies said the deal would give Firmus dedicated trans-Pacific connectivity for AI training and inference.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/nvidia-backed-ai-infra-startup-firmus-hits-3-9b-valuation"
-  },
-  {
-    "date": "2026-09-03",
-    "title": "Zeiss deepens Taiwan bet as advanced chip packaging raises the stakes for inspection tools",
-    "summary": "Zeiss is expanding its Taiwan presence as artificial intelligence (AI) accelerates demand for smaller chips, vertical stacking, and 2.5D and 3D heterogeneous integration. The shift is increasing the need for metrology, inspection, and failure analysis, and Zeiss is planning a semiconductor innovation center in northern",
+    "title": "Niching validates 500-ton press for large heat spreaders",
+    "summary": "Niching Industrial is expanding its heat-spreader capacity as AI and high-performance computing demand pushes up orders across the global semiconductor supply chain. The company said larger stamping equipment, tighter plating control, and future liquid-cooling technologies are being developed to support chips that gene",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
-      "AI"
+      "AI",
+      "Logistics"
     ],
-    "url": "https://www.digitimes.com/news/a20260903PD212/carl-zeiss-3d-inspection-packaging-development-taiwan.html"
+    "url": "https://www.digitimes.com/news/a20260903PD221/niching-heat-spreaders-capacity-demand-chips-2026.html"
   },
   {
     "date": "2026-09-03",
-    "title": "Rad-Hard Electronics Market Set to Reach Almost $3B by 2032",
-    "summary": "Rising satellite deployments, defense modernization and space missions are driving demand for reliable radiation-hardened electronics worldwide. The post Rad-Hard Electronics Market Set to Reach Almost $3B by 2032 appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.eetasia.com/rad-hard-electronics-market-set-to-reach-almost-3b-by-2032/"
-  },
-  {
-    "date": "2026-09-03",
-    "title": "Huawei, Xiaomi to launch new foldable smartphones ahead of Apple",
-    "summary": "Samsung Electronics launched its new Galaxy Z series foldable smartphones, including its first wide-folding model, kicking off this year's foldable smartphone battle. With attention on the upcoming release of Apple's debut foldable smartphone, the market reported on September 2 that Xiaomi and Huawei will unveil new fo",
+    "title": "Semiconductor sustainability shifts to cost control as fab resource demand surges",
+    "summary": "Sustainability is not just good for communities and the environment but also good for business. This is the message from a sustainability summit that took place at SEMICON Taiwan this week, with water management and equipment providers seeking to link water recycling, tool upgrades, and efficiency-improving automation ",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
+      "Semiconductor",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260903VL216/sustainability-fab-cost-water-business.html"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Bots, bills, and data scraping: Inside Cloudflare’s AI plan",
+    "summary": "Cloudflare's Matthew Prince explains why the old internet deal is dead, and how publishers can get paid for data, protect content, and build digital trust.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/bots-bills-data-scraping-cloudflare-plan-ai"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Skeleton and Infineon hook up on SSTs",
+    "summary": "Infineon and supercapacitor specialist Skeleton Technologies have signed an MoU to collaborate on high-efficiency, resilient power solutions for modern data centers. The rapid growth of AI, increasing power demand and […] The post Skeleton and Infineon hook up on SSTs appeared first on Electronics Weekly .",
+    "source": "Electronics Weekly",
+    "short": "EW",
+    "tags": [
       "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20260902PD247/foldable-smartphone-apple-huawei-samsung-xiaomi.html"
-  },
-  {
-    "date": "2026-09-03",
-    "title": "K&S Targets AI Networking Growth with Thermo-Compression Bonding for CPO",
-    "summary": "Kulicke & Soffa expands advanced packaging capabilities as co-packaged optics drives demand for higher-density heterogeneous integration. The post K&S Targets AI Networking Growth with Thermo-Compression Bonding for CPO appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/ks-targets-ai-networking-growth-with-thermo-compression-bonding-for-cpo/"
-  },
-  {
-    "date": "2026-09-03",
-    "title": "Palo Alto Networks buys AI startup Console: sources",
-    "summary": "Two people with knowledge of the deal said it was worth US$500 million in cash and stock.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/palo-alto-to-acquire-israeli-ai-security-firm-koi"
-  },
-  {
-    "date": "2026-09-03",
-    "title": "Singapore startup launches AI platform for corporate taxes",
-    "summary": "The company said the platform reads accounting and tax data, analyses transactions, and produces a structured draft corporate tax computation.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/3-biggest-mistakes-founders-business-finance-tool"
+    "url": "https://www.electronicsweekly.com/news/business/skeleton-and-infineon-hook-up-on-ssts-2026-09/"
   },
   {
     "date": "2026-09-03",
@@ -97,30 +78,74 @@
     "tags": [
       "AI"
     ],
-    "url": "https://www.eetasia.com/sirin-software-joins-infineon-partner-ecosystem-to-expand-embedded-engineering-support/"
+    "url": "https://www.eetasia.com/embeddednews-sirin-software-joins-infineon-partner-ecosystem-to-expand-embedded-engineering-support/"
   },
   {
     "date": "2026-09-03",
-    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
-    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
-    "source": "KED Global",
-    "short": "KED",
+    "title": "SEMI, Silicon Catalyst Ink Partnership to Accelerate Global Semiconductor Innovation",
+    "summary": "SEMI and Silicon Catalyst partner to connect semiconductor startups with investors, manufacturers, and technology leaders worldwide. The post SEMI, Silicon Catalyst Ink Partnership to Accelerate Global Semiconductor Innovation appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/semi-silicon-catalyst-ink-partnership-to-accelerate-global-semiconductor-innovation/"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Equinix unveils AI infrastructure services with Nvidia, AWS",
+    "summary": "One is Equinix Inference Exchange, developed with Nvidia and Together AI, a US-based AI cloud company.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/chinese-ai-firms-push-hong-kong-data-center-leasing"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "DEEPX Bets on Open Ecosystems to Take Edge AI from Silicon to Physical Infrastructure",
+    "summary": "DEEPX sees open software, portable models and ultra-low-power inference as critical to scaling physical AI beyond centralized data centers. The post DEEPX Bets on Open Ecosystems to Take Edge AI from Silicon to Physical Infrastructure appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/embeddedblog-deepx-bets-on-open-ecosystems-to-take-edge-ai-from-silicon-to-physical-infrastructure/"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "TSMC nearly doubles tool spending forecast for AI",
+    "summary": "Deputy Co-COO Cliff Hou said TSMC is trying to build and equip about 20 factories in Taiwan and overseas.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/tsmc-build-3-packaging-plants-chiayi"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Solvay to double chip chemical output in Taiwan amid AI boom: CEO",
+    "summary": "Solvay to double chip chemical output in Taiwan amid AI boom: CEO",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/solvay-to-double-chip-chemical-output-in-taiwan-amid-ai-boom-ceo"
   },
   {
     "date": "2026-09-03",
-    "title": "No career ambition, no ego: AI plays devil's advocate at Audax Private Equity",
-    "summary": "Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass",
-    "source": "KED Global",
-    "short": "KED",
+    "title": "Vietnam exports and imports soar to record levels on AI boom",
+    "summary": "Vietnam exports and imports soar to record levels on AI boom",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.kedglobal.com/private-equity/newsView/ked202603120002"
+    "url": "https://asia.nikkei.com/spotlight/supply-chain/vietnam-exports-and-imports-soar-to-record-levels-on-ai-boom"
   },
   {
     "date": "2026-09-02",
