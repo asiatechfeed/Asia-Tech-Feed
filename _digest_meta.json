@@ -1,39 +1,39 @@
 {
-  "date": "2026-09-02",
-  "count": 9,
+  "date": "2026-09-03",
+  "count": 13,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
-    "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-09-02-asia-tech-news-digest.md",
+  "post_file": "2026-09-03-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Extending 18A With Significant Power And Performance Gains",
-      "source": "SemiEng",
-      "url": "https://semiengineering.com/extending-18a-with-significant-power-and-performance-gains/"
-    },
-    {
-      "title": "This startup builds real-time guardrails for AI agents",
+      "title": "Meta releases Muse Spark 1.3 with coding upgrades",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/startup-builds-realtime-guardrails-ai-agents"
+      "url": "https://www.techinasia.com/meta-unveils-muse-glimmer-singlegpu"
     },
     {
-      "title": "India reportedly readies AI agent payments on UPI, its national payment rails",
+      "title": "CPO material race widens as Taiwan eyes key role",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260902VL207.html"
+      "url": "https://www.digitimes.com/news/a20260902PD244/2026-taiwan-semicon-marvell-cpo.html"
     },
     {
-      "title": "TSMC reportedly asks suppliers to develop 5\u03bcm HBM microbumps",
+      "title": "Auras sees ASIC revenue reaching 50% in 2027, eyes microchannel cooling production in 2028",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260902VL218/tsmc-hbm-materials-equipment-technology.html"
+      "url": "https://www.digitimes.com/news/a20260902PD234/cooling-auras-production-revenue-2027.html"
     },
     {
-      "title": "Certain Micro targets AI test-interface demand with three Semicon products",
+      "title": "JPC Connectivity sees AI demand driving orders into 2027 as margins benefit from longer lead times",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260902PD224/ic-testing-interface-probe-card-demand-semicon-taiwan-2026.html"
+      "url": "https://www.digitimes.com/news/a20260902PD226/jpc-demand-2027-infrastructure-2026.html"
+    },
+    {
+      "title": "Uber and AI-firm Wayve launch London's first robotaxis",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/uber-and-ai-firm-wayve-launch-londons-first-robotaxis-6358941"
     }
   ],
   "source_stats": [
@@ -149,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 7,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 48,
-      "relevant": 29,
+      "fetched": 35,
+      "relevant": 24,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +169,7 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -194,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -214,7 +214,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     }
   ]
