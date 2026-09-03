@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-03T00:03:40+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 03, 2026</title><link href="https://asiatechfeed.com/2026/09/03/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 03, 2026" /><published>2026-09-03T00:02:13+00:00</published><updated>2026-09-03T00:02:13+00:00</updated><id>https://asiatechfeed.com/2026/09/03/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/03/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-03T04:05:56+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 03, 2026</title><link href="https://asiatechfeed.com/2026/09/03/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 03, 2026" /><published>2026-09-03T04:04:32+00:00</published><updated>2026-09-03T04:04:32+00:00</updated><id>https://asiatechfeed.com/2026/09/03/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/03/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,110 +12,94 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Meta releases Muse Spark 1.3 with coding upgrades</span></td>
-  <td class="col-summary">The release comes as Meta increases spending on AI infrastructure and hiring to strengthen its position against OpenAI and Anthropic.</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">CXMT expands global hiring to Japan for DDR5, LPDDR technology upgrade</span></td>
+  <td class="col-summary">Chinese DRAM maker CXMT has launched its 2027 global recruitment campaign, opening roles across circuit design, R&amp;D, mass-production technology, manufacturing operations, information technology and artificial intelligence. Positions are based in Hefei, Beijing, Shanghai, Xi'an and overseas markets including Japan.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-unveils-muse-glimmer-singlegpu" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD229/cxmt-ddr5-dram-manufacturing-talent.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">CPO material race widens as Taiwan eyes key role</span></td>
-  <td class="col-summary">At the Semicon Network Summit 2026, speakers from Marvell, the Netherlands Organisation for Applied Scientific Research's Holst Centre, the UK Semiconductor Centre, and the Taiwan Semiconductor Industry Association (TSIA) discussed the future of silicon photonics (SiPh). They said the industry's bottlenecks have shifte</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260902PD244/2026-taiwan-semicon-marvell-cpo.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Australian AI firm Firmus bets $300m on trans-Pacific cable</span></td>
+  <td class="col-summary">The companies said the deal would give Firmus dedicated trans-Pacific connectivity for AI training and inference.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-backed-ai-infra-startup-firmus-hits-3-9b-valuation" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Auras sees ASIC revenue reaching 50% in 2027, eyes microchannel cooling production in 2028</span></td>
-  <td class="col-summary">Cooling specialist Auras Technology is expanding from GPU platforms to ASIC-related products as its next growth driver, amid the ongoing shift toward liquid cooling in AI servers, with chairman Steve Lin highlighting sustained progress in projects for major international cloud service providers (CSP) such as AWS and Me</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260902PD234/cooling-auras-production-revenue-2027.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Zeiss deepens Taiwan bet as advanced chip packaging raises the stakes for inspection tools</span></td>
+  <td class="col-summary">Zeiss is expanding its Taiwan presence as artificial intelligence (AI) accelerates demand for smaller chips, vertical stacking, and 2.5D and 3D heterogeneous integration. The shift is increasing the need for metrology, inspection, and failure analysis, and Zeiss is planning a semiconductor innovation center in northern</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD212/carl-zeiss-3d-inspection-packaging-development-taiwan.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">JPC Connectivity sees AI demand driving orders into 2027 as margins benefit from longer lead times</span></td>
-  <td class="col-summary">JPC Connectivity said demand tied to artificial intelligence infrastructure continued to strengthen in the second quarter of 2026, lifting orders for optical communications, high-speed transmission, and high-power products. The connector and cable maker said visibility now stretched into 2027, and in some cases into 20</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260902PD226/jpc-demand-2027-infrastructure-2026.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Rad-Hard Electronics Market Set to Reach Almost $3B by 2032</span></td>
+  <td class="col-summary">Rising satellite deployments, defense modernization and space missions are driving demand for reliable radiation-hardened electronics worldwide. The post Rad-Hard Electronics Market Set to Reach Almost $3B by 2032 appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/rad-hard-electronics-market-set-to-reach-almost-3b-by-2032/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Uber and AI-firm Wayve launch London's first robotaxis</span></td>
-  <td class="col-summary">Uber and AI-firm Wayve launch London's first robotaxis</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/uber-and-ai-firm-wayve-launch-londons-first-robotaxis-6358941" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Huawei, Xiaomi to launch new foldable smartphones ahead of Apple</span></td>
+  <td class="col-summary">Samsung Electronics launched its new Galaxy Z series foldable smartphones, including its first wide-folding model, kicking off this year's foldable smartphone battle. With attention on the upcoming release of Apple's debut foldable smartphone, the market reported on September 2 that Xiaomi and Huawei will unveil new fo</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260902PD247/foldable-smartphone-apple-huawei-samsung-xiaomi.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">How AI-Powered Sensor Fusion Improves Drone Navigation and Detection</span></td>
-  <td class="col-summary">Drones and counter-drone systems rarely rely on one sensor. By fusing radar, optical, LiDAR, and inertial data with real-time AI algorithms, sensor fusion turns partial signals into one reliable picture—improving navigation, obstacle avoidance, target tracking, and threat classification in GPS-denied or visually clutte</td>
+  <td class="col-title"><span class="article-title">K&amp;S Targets AI Networking Growth with Thermo-Compression Bonding for CPO</span></td>
+  <td class="col-summary">Kulicke &amp; Soffa expands advanced packaging capabilities as co-packaged optics drives demand for higher-density heterogeneous integration. The post K&amp;S Targets AI Networking Growth with Thermo-Compression Bonding for CPO appeared first on EE Times Asia .</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddedblog-how-ai-powered-sensor-fusion-improves-drone-navigation-and-detection/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ks-targets-ai-networking-growth-with-thermo-compression-bonding-for-cpo/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">How AI Infrastructure Spans Multiple Semiconductor Process Nodes</span></td>
-  <td class="col-summary">AI infrastructure increasingly depends on multiple fabs and semiconductor technologies converging through advanced packaging, power, memory, and connectivity. The post How AI Infrastructure Spans Multiple Semiconductor Process Nodes appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddedblog-how-ai-infrastructure-spans-multiple-semiconductor-process-nodes/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Palo Alto Networks buys AI startup Console: sources</span></td>
+  <td class="col-summary">Two people with knowledge of the deal said it was worth US$500 million in cash and stock.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/palo-alto-to-acquire-israeli-ai-security-firm-koi" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">US AI startup Cognition in talks to raise $1b at $47b valuation</span></td>
-  <td class="col-summary">Investors have indicated nearly US$10 billion of interest in the round.</td>
+  <td class="col-title"><span class="article-title">Singapore startup launches AI platform for corporate taxes</span></td>
+  <td class="col-summary">The company said the platform reads accounting and tax data, analyses transactions, and produces a structured draft corporate tax computation.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/us-ai-coding-startup-cognition-raises-over-1b" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/3-biggest-mistakes-founders-business-finance-tool" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Dell shares jump 10% after raising revenue outlook</span></td>
-  <td class="col-summary">Dell’s AI server backlog reached US$95 billion at the end of its fiscal second quarter.</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Sirin Software Joins Infineon Partner Ecosystem to Expand Embedded Engineering Support</span></td>
+  <td class="col-summary">Sirin Software expands Infineon-based engineering support spanning wireless connectivity, industrial control, security and Edge AI applications. The post Sirin Software Joins Infineon Partner Ecosystem to Expand Embedded Engineering Support appeared first on EE Times Asia .</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/dell-adds-corporate-clients-infrastructure-ai-gear" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/sirin-software-joins-infineon-partner-ecosystem-to-expand-embedded-engineering-support/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Microchip Shrinks PolarFire Ethernet Sensor Bridge for Edge AI Systems</span></td>
-  <td class="col-summary">Microchip's second-generation sensor bridge cuts board size while expanding camera support and Ethernet connectivity for edge AI applications. The post Microchip Shrinks PolarFire Ethernet Sensor Bridge for Edge AI Systems appeared first on EE Times Asia .</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">AI trade isn’t just about tech stocks but also power, TCW says</span></td>
+  <td class="col-summary">The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun</td>
   <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddednews-microchip-shrinks-polarfire-ethernet-sensor-bridge-for-edge-ai-systems/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">'Cyborg' rescue roaches take another leap forward with AI</span></td>
-  <td class="col-summary">'Cyborg' rescue roaches take another leap forward with AI</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">No career ambition, no ego: AI plays devil's advocate at Audax Private Equity</span></td>
+  <td class="col-summary">Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/cyborg-rescue-roaches-take-another-leap-forward-with-ai" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Marubeni should focus on long-term needs, not chase chip trends: CEO</span></td>
-  <td class="col-summary">Marubeni should focus on long-term needs, not chase chip trends: CEO</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/editor-s-picks/interview/marubeni-should-focus-on-long-term-needs-not-chase-chip-trends-ceo" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">13</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">More memory chips not the solution to AI bottlenecks: Microsoft exec</span></td>
-  <td class="col-summary">More memory chips not the solution to AI bottlenecks: Microsoft exec</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/more-memory-chips-not-the-solution-to-ai-bottlenecks-microsoft-exec" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/private-equity/newsView/ked202603120002" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Meta releases Muse Spark 1.3 with coding upgrades The release comes as Meta increases spending on AI infrastructure and hiring to strengthen its position against OpenAI and Anthropic. AI Read 2 DigiTimes CPO material race widens as Taiwan eyes key role At the Semicon Network Summit 2026, speakers from Marvell, the Netherlands Organisation for Applied Scientific Research's Holst Centre, the UK Semiconductor Centre, and the Taiwan Semiconductor Industry Association (TSIA) discussed the future of silicon photonics (SiPh). They said the industry's bottlenecks have shifte Semiconductor Read 3 DigiTimes Auras sees ASIC revenue reaching 50% in 2027, eyes microchannel cooling production in 2028 Cooling specialist Auras Technology is expanding from GPU platforms to ASIC-related products as its next growth driver, amid the ongoing shift toward liquid cooling in AI servers, with chairman Steve Lin highlighting sustained progress in projects for major international cloud service providers (CSP) such as AWS and Me AI Read 4 DigiTimes JPC Connectivity sees AI demand driving orders into 2027 as margins benefit from longer lead times JPC Connectivity said demand tied to artificial intelligence infrastructure continued to strengthen in the second quarter of 2026, lifting orders for optical communications, high-speed transmission, and high-power products. The connector and cable maker said visibility now stretched into 2027, and in some cases into 20 AI Read 5 CNA Uber and AI-firm Wayve launch London's first robotaxis Uber and AI-firm Wayve launch London's first robotaxis Automation Read 6 EETAsia How AI-Powered Sensor Fusion Improves Drone Navigation and Detection Drones and counter-drone systems rarely rely on one sensor. By fusing radar, optical, LiDAR, and inertial data with real-time AI algorithms, sensor fusion turns partial signals into one reliable picture—improving navigation, obstacle avoidance, target tracking, and threat classification in GPS-denied or visually clutte AI Read 7 EETAsia How AI Infrastructure Spans Multiple Semiconductor Process Nodes AI infrastructure increasingly depends on multiple fabs and semiconductor technologies converging through advanced packaging, power, memory, and connectivity. The post How AI Infrastructure Spans Multiple Semiconductor Process Nodes appeared first on EE Times Asia . SemiconductorAI Read 8 TechAsia US AI startup Cognition in talks to raise $1b at $47b valuation Investors have indicated nearly US$10 billion of interest in the round. AI Read 9 TechAsia Dell shares jump 10% after raising revenue outlook Dell’s AI server backlog reached US$95 billion at the end of its fiscal second quarter. AI Read 10 EETAsia Microchip Shrinks PolarFire Ethernet Sensor Bridge for Edge AI Systems Microchip's second-generation sensor bridge cuts board size while expanding camera support and Ethernet connectivity for edge AI applications. The post Microchip Shrinks PolarFire Ethernet Sensor Bridge for Edge AI Systems appeared first on EE Times Asia . AISemiconductor Read 11 NikkeiAsia 'Cyborg' rescue roaches take another leap forward with AI 'Cyborg' rescue roaches take another leap forward with AI AI Read 12 NikkeiAsia Marubeni should focus on long-term needs, not chase chip trends: CEO Marubeni should focus on long-term needs, not chase chip trends: CEO Semiconductor Read 13 NikkeiAsia More memory chips not the solution to AI bottlenecks: Microsoft exec More memory chips not the solution to AI bottlenecks: Microsoft exec AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 02, 2026</title><link href="https://asiatechfeed.com/2026/09/02/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 02, 2026" /><published>2026-09-02T08:00:53+00:00</published><updated>2026-09-02T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/09/02/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/02/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes CXMT expands global hiring to Japan for DDR5, LPDDR technology upgrade Chinese DRAM maker CXMT has launched its 2027 global recruitment campaign, opening roles across circuit design, R&amp;D, mass-production technology, manufacturing operations, information technology and artificial intelligence. Positions are based in Hefei, Beijing, Shanghai, Xi'an and overseas markets including Japan. AI Read 2 TechAsia Australian AI firm Firmus bets $300m on trans-Pacific cable The companies said the deal would give Firmus dedicated trans-Pacific connectivity for AI training and inference. AI Read 3 DigiTimes Zeiss deepens Taiwan bet as advanced chip packaging raises the stakes for inspection tools Zeiss is expanding its Taiwan presence as artificial intelligence (AI) accelerates demand for smaller chips, vertical stacking, and 2.5D and 3D heterogeneous integration. The shift is increasing the need for metrology, inspection, and failure analysis, and Zeiss is planning a semiconductor innovation center in northern SemiconductorAI Read 4 EETAsia Rad-Hard Electronics Market Set to Reach Almost $3B by 2032 Rising satellite deployments, defense modernization and space missions are driving demand for reliable radiation-hardened electronics worldwide. The post Rad-Hard Electronics Market Set to Reach Almost $3B by 2032 appeared first on EE Times Asia . Electronics Read 5 DigiTimes Huawei, Xiaomi to launch new foldable smartphones ahead of Apple Samsung Electronics launched its new Galaxy Z series foldable smartphones, including its first wide-folding model, kicking off this year's foldable smartphone battle. With attention on the upcoming release of Apple's debut foldable smartphone, the market reported on September 2 that Xiaomi and Huawei will unveil new fo Electronics Read 6 EETAsia K&amp;S Targets AI Networking Growth with Thermo-Compression Bonding for CPO Kulicke &amp; Soffa expands advanced packaging capabilities as co-packaged optics drives demand for higher-density heterogeneous integration. The post K&amp;S Targets AI Networking Growth with Thermo-Compression Bonding for CPO appeared first on EE Times Asia . AI Read 7 TechAsia Palo Alto Networks buys AI startup Console: sources Two people with knowledge of the deal said it was worth US$500 million in cash and stock. AI Read 8 TechAsia Singapore startup launches AI platform for corporate taxes The company said the platform reads accounting and tax data, analyses transactions, and produces a structured draft corporate tax computation. AI Read 9 EETAsia Sirin Software Joins Infineon Partner Ecosystem to Expand Embedded Engineering Support Sirin Software expands Infineon-based engineering support spanning wireless connectivity, industrial control, security and Edge AI applications. The post Sirin Software Joins Infineon Partner Ecosystem to Expand Embedded Engineering Support appeared first on EE Times Asia . AI Read 10 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun AISemiconductor Read 11 KED No career ambition, no ego: AI plays devil's advocate at Audax Private Equity Generative AI is challenging traditional investment theses, acting as a devil's advocate to sharpen decision-making, particularly when it comes to ass AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 02, 2026</title><link href="https://asiatechfeed.com/2026/09/02/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 02, 2026" /><published>2026-09-02T08:00:53+00:00</published><updated>2026-09-02T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/09/02/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/02/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
