@@ -1,38 +1,40 @@
 {
   "date": "2026-09-03",
-  "count": 11,
+  "count": 13,
   "sources": [
+    "CNA",
     "DigiTimes",
     "EETAsia",
-    "KED",
+    "EW",
+    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-03-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "CXMT expands global hiring to Japan for DDR5, LPDDR technology upgrade",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260903PD229/cxmt-ddr5-dram-manufacturing-talent.html"
+      "title": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/chinese-ai-firm-moonshot-files-confidentially-hong-kong-ipo-sources-say-6359846"
     },
     {
-      "title": "Australian AI firm Firmus bets $300m on trans-Pacific cable",
+      "title": "Fei-Fei Li's World Labs unveils Atlas world model for 3D AI and robotics",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260903VL213/atlas-3d-robotics-startup-camera.html"
+    },
+    {
+      "title": "Niching validates 500-ton press for large heat spreaders",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260903PD221/niching-heat-spreaders-capacity-demand-chips-2026.html"
+    },
+    {
+      "title": "Semiconductor sustainability shifts to cost control as fab resource demand surges",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260903VL216/sustainability-fab-cost-water-business.html"
+    },
+    {
+      "title": "Bots, bills, and data scraping: Inside Cloudflare\u2019s AI plan",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-backed-ai-infra-startup-firmus-hits-3-9b-valuation"
-    },
-    {
-      "title": "Zeiss deepens Taiwan bet as advanced chip packaging raises the stakes for inspection tools",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260903PD212/carl-zeiss-3d-inspection-packaging-development-taiwan.html"
-    },
-    {
-      "title": "Rad-Hard Electronics Market Set to Reach Almost $3B by 2032",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/rad-hard-electronics-market-set-to-reach-almost-3b-by-2032/"
-    },
-    {
-      "title": "Huawei, Xiaomi to launch new foldable smartphones ahead of Apple",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260902PD247/foldable-smartphone-apple-huawei-samsung-xiaomi.html"
+      "url": "https://www.techinasia.com/bots-bills-data-scraping-cloudflare-plan-ai"
     }
   ],
   "source_stats": [
@@ -49,9 +51,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -130,9 +132,9 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -156,8 +158,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 46,
-      "relevant": 37,
+      "fetched": 51,
+      "relevant": 40,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +168,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 4,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -177,7 +179,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -193,7 +195,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -211,7 +213,7 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
