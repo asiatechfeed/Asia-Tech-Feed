@@ -1,40 +1,38 @@
 {
-  "date": "2026-09-03",
-  "count": 13,
+  "date": "2026-09-04",
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "EW",
-    "NikkeiAsia",
-    "TechAsia"
+    "NikkeiAsia"
   ],
-  "post_file": "2026-09-03-asia-tech-news-digest.md",
+  "post_file": "2026-09-04-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say",
+      "title": "South Korea says US companies to invest $2 billion in chip, energy sectors",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/chinese-ai-firm-moonshot-files-confidentially-hong-kong-ipo-sources-say-6359846"
+      "url": "https://www.channelnewsasia.com/business/south-korea-says-us-companies-invest-2-billion-in-chip-energy-sectors-6361691"
     },
     {
-      "title": "Fei-Fei Li's World Labs unveils Atlas world model for 3D AI and robotics",
+      "title": "As AI reaches rural India, health workers are putting it to the test",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/ai-reaches-rural-india-health-workers-are-putting-it-test-6356946"
+    },
+    {
+      "title": "Commentary: China\u2019s real robot revolution is not about humanoids",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/china-humanoid-robot-revolution-6360141"
+    },
+    {
+      "title": "CHPT spans wafer to system-level testing",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260903VL213/atlas-3d-robotics-startup-camera.html"
+      "url": "https://www.digitimes.com/news/a20260902PD245/testing-chpt-test-interface-chips-probe.html"
     },
     {
-      "title": "Niching validates 500-ton press for large heat spreaders",
+      "title": "SanDisk pushes HBF ecosystem as AI inference reshapes token economics",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260903PD221/niching-heat-spreaders-capacity-demand-chips-2026.html"
-    },
-    {
-      "title": "Semiconductor sustainability shifts to cost control as fab resource demand surges",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260903VL216/sustainability-fab-cost-water-business.html"
-    },
-    {
-      "title": "Bots, bills, and data scraping: Inside Cloudflare\u2019s AI plan",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/bots-bills-data-scraping-cloudflare-plan-ai"
+      "url": "https://www.digitimes.com/news/a20260902PD243/ai-inference-sandisk-hbm-nand-flash-capacity.html"
     }
   ],
   "source_stats": [
@@ -51,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -131,10 +129,10 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
-      "relevant": 1,
+      "fetched": 0,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -150,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 51,
-      "relevant": 40,
+      "fetched": 59,
+      "relevant": 46,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -195,9 +193,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {

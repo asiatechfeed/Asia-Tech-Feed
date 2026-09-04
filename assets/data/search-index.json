@@ -1,5 +1,120 @@
 [
   {
+    "date": "2026-09-04",
+    "title": "South Korea says US companies to invest $2 billion in chip, energy sectors",
+    "summary": "South Korea says US companies to invest $2 billion in chip, energy sectors",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/south-korea-says-us-companies-invest-2-billion-in-chip-energy-sectors-6361691"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "As AI reaches rural India, health workers are putting it to the test",
+    "summary": "From screening for tuberculosis to monitoring newborns, AI is reaching rural India amid healthcare workforce shortages. But scaling it means fitting the technology into already stretched workers’ routines.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/asia/ai-reaches-rural-india-health-workers-are-putting-it-test-6356946"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "Commentary: China’s real robot revolution is not about humanoids",
+    "summary": "The country is using its superpower of scaling and building supply chains to challenge the global industry, says Zijing Wu for the Financial Times.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Logistics",
+      "Automation"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/china-humanoid-robot-revolution-6360141"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "CHPT spans wafer to system-level testing",
+    "summary": "Chunghwa Precision Test Tech showcased a range of test interface solutions for AI chips and high-performance computing (HPC) at SEMICON Taiwan 2026, including AI probe cards, memory probe cards, high-pin-count probe cards, and a high-power burn-in board for AI ASICs.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260902PD245/testing-chpt-test-interface-chips-probe.html"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "SanDisk pushes HBF ecosystem as AI inference reshapes token economics",
+    "summary": "The rapid rise of AI inference, multimodal inputs, and AI agents is giving NAND flash a new strategic role.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260902PD243/ai-inference-sandisk-hbm-nand-flash-capacity.html"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "Infineon sees AI data centers, physical AI as growth drivers",
+    "summary": "Infineon said the rapid buildout of AI data centers and emerging Physical AI applications could reshape semiconductor demand worldwide. The shift signals higher infrastructure spending, faster power technology adoption, and new competition in robotics, vehicles, and industrial systems that may influence future chip mar",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260903PD220/infineon-ai-data-center-growth-infrastructure.html"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "Beyond Fabs: Building India’s Semiconductor Ecosystem",
+    "summary": "India's semiconductor build-out is creating demand not only for manufacturing capacity, but also for materials expertise, engineering capabilities and technology partnerships across the value chain. The post Beyond Fabs: Building India’s Semiconductor Ecosystem appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/beyond-fabs-building-indias-semiconductor-ecosystem/"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "Japanese robots go beyond factory floor to take on tree cutting, lab work",
+    "summary": "Japanese robots go beyond factory floor to take on tree cutting, lab work",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/japanese-robots-go-beyond-factory-floor-to-take-on-tree-cutting-lab-work"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "Kioxia outlines plan to capture AI demand with its new high-speed memory chip",
+    "summary": "Kioxia outlines plan to capture AI demand with its new high-speed memory chip",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/kioxia-outlines-plan-to-capture-ai-demand-with-its-new-high-speed-memory-chip"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "ASML to expand Japan workforce to aid next-gen chipmakers Rapidus, TSMC",
+    "summary": "ASML to expand Japan workforce to aid next-gen chipmakers Rapidus, TSMC",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/asml-to-expand-japan-workforce-to-aid-next-gen-chipmakers-rapidus-tsmc"
+  },
+  {
     "date": "2026-09-03",
     "title": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say",
     "summary": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say",
