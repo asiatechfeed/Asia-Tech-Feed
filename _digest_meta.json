@@ -1,38 +1,38 @@
 {
   "date": "2026-09-04",
-  "count": 10,
+  "count": 8,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-04-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Micron reportedly targets 2\u00d7 HBM capacity by end-2026; Samsung, SK Hynix keep the scale edge",
+      "title": "MSScorps August revenue hits new high on silicon photonics gains",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260904VL206/micron-hbm-capacity-sk-hynix-samsung.html"
+      "url": "https://www.digitimes.com/news/a20260904PD200/msscorps-siph-revenue-2026.html"
     },
     {
-      "title": "CPO high-density optical interconnects drive E&R's submicron 2D FAU breakthrough",
+      "title": "Trusval Technology eyes NT$23 billion order backlog, US 4Q26 ramp",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260903PD242/cpo-demand-laser-silicon-probe.html"
+      "url": "https://www.digitimes.com/news/a20260904PD201/trusval-fab-revenue-semicon-taiwan-2026.html"
     },
     {
-      "title": "Taiwan to expand AI compute capacity as supercomputer at research institute hits full load",
+      "title": "Cloudflare, OpenAI team up on AI vulnerability service",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/cloudflare-mastercard-partner-cyber-tools-small-businesses"
+    },
+    {
+      "title": "SEMICON Taiwan 2026: QuantumDiamonds cracks the hybrid bonding blind spot with new inline metrology",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260904PD213/taiwan-capacity-supercomputer-infrastructure-investment.html"
+      "url": "https://www.digitimes.com/news/a20260904VL212/taiwan-2026-metrology-semiconductor-industry-wafer.html"
     },
     {
-      "title": "Enterprise SSD Revenue Doubles to Over $37B in 2Q 2026 as AI Demand Lifts Prices, Shipments",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/enterprise-ssd-revenue-doubles-to-over-37b-in-2q-2026-as-ai-demand-lifts-prices-shipments/"
-    },
-    {
-      "title": "Baya Systems Taps Singapore-based AdoreSys to Expand APAC Reach",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/baya-systems-taps-singapore-based-adoresys-to-expand-apac-reach/"
+      "title": "South Korea says chip investments under discussion with US amid tariff concerns",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/south-korea-says-chip-investments-under-discussion-us-amid-tariff-concerns-6362261"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -130,7 +130,7 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -150,14 +150,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 47,
-      "relevant": 31,
+      "fetched": 56,
+      "relevant": 39,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +166,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 9,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 11,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
