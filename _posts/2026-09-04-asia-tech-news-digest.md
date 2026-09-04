@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - September 04, 2026"
-date: 2026-09-04 08:01:45 +0800
+date: 2026-09-04 12:09:55 +0800
 articles_count: 10
 sources_count: 4
-sources: ["CNA", "DigiTimes", "EETAsia", "NikkeiAsia"]
+sources: ["DigiTimes", "EETAsia", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-09-04.tsv
-featured_title: "South Korea says US companies to invest $2 billion in chip, energy sectors"
-featured_url: "https://www.channelnewsasia.com/business/south-korea-says-us-companies-invest-2-billion-in-chip-energy-sectors-6361691"
-featured_source: "CNA"
-featured_summary: "South Korea says US companies to invest $2 billion in chip, energy sectors"
-featured_image: "https://dam.mediacorp.sg/image/upload/s--ZdHPGX9S--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=npguKy4y"
+featured_title: "Micron reportedly targets 2\u00d7 HBM capacity by end-2026; Samsung, SK Hynix keep the scale edge"
+featured_url: "https://www.digitimes.com/news/a20260904VL206/micron-hbm-capacity-sk-hynix-samsung.html"
+featured_source: "DigiTimes"
+featured_summary: "Micron is reportedly preparing to roughly double its high-bandwidth memory capacity by the end of 2026, targeting about 100,000 wafers a month while sharply increasing 12-high HBM4 output for Nvidia's Vera Rubin AI platform."
+featured_image: "https://img.digitimes.com/newsshow/20260904vl206_files/2_2b.jpg"
 ---
 
 <table class="news-table">
@@ -27,83 +27,83 @@ featured_image: "https://dam.mediacorp.sg/image/upload/s--ZdHPGX9S--/c_fill,g_au
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">South Korea says US companies to invest $2 billion in chip, energy sectors</span></td>
-  <td class="col-summary">South Korea says US companies to invest $2 billion in chip, energy sectors</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/south-korea-says-us-companies-invest-2-billion-in-chip-energy-sectors-6361691" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Micron reportedly targets 2× HBM capacity by end-2026; Samsung, SK Hynix keep the scale edge</span></td>
+  <td class="col-summary">Micron is reportedly preparing to roughly double its high-bandwidth memory capacity by the end of 2026, targeting about 100,000 wafers a month while sharply increasing 12-high HBM4 output for Nvidia's Vera Rubin AI platform.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260904VL206/micron-hbm-capacity-sk-hynix-samsung.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">As AI reaches rural India, health workers are putting it to the test</span></td>
-  <td class="col-summary">From screening for tuberculosis to monitoring newborns, AI is reaching rural India amid healthcare workforce shortages. But scaling it means fitting the technology into already stretched workers’ routines.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/ai-reaches-rural-india-health-workers-are-putting-it-test-6356946" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">CPO high-density optical interconnects drive E&R's submicron 2D FAU breakthrough</span></td>
+  <td class="col-summary">To meet next-generation high-speed optical interconnect demand, fiber array units (FAU) are moving from traditional one-dimensional layouts to high-density two-dimensional (2D) architectures, raising the bar for hole positioning accuracy, micro-hole size, packing density, and process stability. At SEMICON Taiwan 2026, </td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD242/cpo-demand-laser-silicon-probe.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: China’s real robot revolution is not about humanoids</span></td>
-  <td class="col-summary">The country is using its superpower of scaling and building supply chains to challenge the global industry, says Zijing Wu for the Financial Times.</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/china-humanoid-robot-revolution-6360141" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwan to expand AI compute capacity as supercomputer at research institute hits full load</span></td>
+  <td class="col-summary">Taiwan is racing to expand its AI compute capacity as demand for AI chips, GPUs and AI servers surges, with compute infrastructure now central to national competitiveness. According to data provided by the National Science and Technology Council (NSTC), the government-backed mainframe Nano 5 is already fully loaded, wh</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260904PD213/taiwan-capacity-supercomputer-infrastructure-investment.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">CHPT spans wafer to system-level testing</span></td>
-  <td class="col-summary">Chunghwa Precision Test Tech showcased a range of test interface solutions for AI chips and high-performance computing (HPC) at SEMICON Taiwan 2026, including AI probe cards, memory probe cards, high-pin-count probe cards, and a high-power burn-in board for AI ASICs.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260902PD245/testing-chpt-test-interface-chips-probe.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Enterprise SSD Revenue Doubles to Over $37B in 2Q 2026 as AI Demand Lifts Prices, Shipments</span></td>
+  <td class="col-summary">AI infrastructure expansion and higher NAND contract prices drove enterprise SSD revenue sharply higher in the second quarter. The post Enterprise SSD Revenue Doubles to Over $37B in 2Q 2026 as AI Demand Lifts Prices, Shipments appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/enterprise-ssd-revenue-doubles-to-over-37b-in-2q-2026-as-ai-demand-lifts-prices-shipments/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SanDisk pushes HBF ecosystem as AI inference reshapes token economics</span></td>
-  <td class="col-summary">The rapid rise of AI inference, multimodal inputs, and AI agents is giving NAND flash a new strategic role.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260902PD243/ai-inference-sandisk-hbm-nand-flash-capacity.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Baya Systems Taps Singapore-based AdoreSys to Expand APAC Reach</span></td>
+  <td class="col-summary">Baya Systems and AdoreSys combine fabric IP, architecture exploration, and ASIC expertise to address complex data-movement challenges. The post Baya Systems Taps Singapore-based AdoreSys to Expand APAC Reach appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/baya-systems-taps-singapore-based-adoresys-to-expand-apac-reach/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Infineon sees AI data centers, physical AI as growth drivers</span></td>
-  <td class="col-summary">Infineon said the rapid buildout of AI data centers and emerging Physical AI applications could reshape semiconductor demand worldwide. The shift signals higher infrastructure spending, faster power technology adoption, and new competition in robotics, vehicles, and industrial systems that may influence future chip mar</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD220/infineon-ai-data-center-growth-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Marvell Expands Memory Disaggregation Strategy to Ease AI Infrastructure Bottlenecks</span></td>
+  <td class="col-summary">Marvell's CXL, SSD and optical interconnect portfolio targets memory bottlenecks limiting scalability, efficiency and AI inference performance. The post Marvell Expands Memory Disaggregation Strategy to Ease AI Infrastructure Bottlenecks appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/marvell-expands-memory-disaggregation-strategy-to-ease-ai-infrastructure-bottlenecks/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Beyond Fabs: Building India’s Semiconductor Ecosystem</span></td>
-  <td class="col-summary">India's semiconductor build-out is creating demand not only for manufacturing capacity, but also for materials expertise, engineering capabilities and technology partnerships across the value chain. The post Beyond Fabs: Building India’s Semiconductor Ecosystem appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/beyond-fabs-building-indias-semiconductor-ecosystem/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Saudi AI firm Humain unveils Arabic model built on MiniMax M3</span></td>
+  <td class="col-summary">The launch comes as Saudi Arabia seeks more control over AI technology.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/saudi-arabia-bets-on-data-centers-to-support-ai-ambitions" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japanese robots go beyond factory floor to take on tree cutting, lab work</span></td>
-  <td class="col-summary">Japanese robots go beyond factory floor to take on tree cutting, lab work</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/japanese-robots-go-beyond-factory-floor-to-take-on-tree-cutting-lab-work" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">ServiceNow buys Israeli AI startup Sweep</span></td>
+  <td class="col-summary">The deal would support ServiceNow’s push into AI agents and autonomous enterprise work.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/firm-servicenow-buys-israeli-ai-startup-traceloop" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Kioxia outlines plan to capture AI demand with its new high-speed memory chip</span></td>
-  <td class="col-summary">Kioxia outlines plan to capture AI demand with its new high-speed memory chip</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/kioxia-outlines-plan-to-capture-ai-demand-with-its-new-high-speed-memory-chip" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">AMD, Delhi University to train 10,000 in AI tech</span></td>
+  <td class="col-summary">The program will give students and faculty access to AMD’s ROCm open-source AI software platform, technical workshops, learning materials.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/amd-roll-helios-gpu-platform-india-h2-2026" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">ASML to expand Japan workforce to aid next-gen chipmakers Rapidus, TSMC</span></td>
-  <td class="col-summary">ASML to expand Japan workforce to aid next-gen chipmakers Rapidus, TSMC</td>
+  <td class="col-title"><span class="article-title">Nobody likes data centers and chips, chips, chips</span></td>
+  <td class="col-summary">Nobody likes data centers and chips, chips, chips</td>
   <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/asml-to-expand-japan-workforce-to-aid-next-gen-chipmakers-rapidus-tsmc" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/techasia/nobody-likes-data-centers-and-chips-chips-chips" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
