@@ -1,4 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-03T08:02:01+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 03, 2026</title><link href="https://asiatechfeed.com/2026/09/03/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 03, 2026" /><published>2026-09-03T08:00:44+00:00</published><updated>2026-09-03T08:00:44+00:00</updated><id>https://asiatechfeed.com/2026/09/03/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/03/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-04T00:02:39+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 04, 2026</title><link href="https://asiatechfeed.com/2026/09/04/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 04, 2026" /><published>2026-09-04T00:01:45+00:00</published><updated>2026-09-04T00:01:45+00:00</updated><id>https://asiatechfeed.com/2026/09/04/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/04/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">South Korea says US companies to invest $2 billion in chip, energy sectors</span></td>
+  <td class="col-summary">South Korea says US companies to invest $2 billion in chip, energy sectors</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/south-korea-says-us-companies-invest-2-billion-in-chip-energy-sectors-6361691" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">As AI reaches rural India, health workers are putting it to the test</span></td>
+  <td class="col-summary">From screening for tuberculosis to monitoring newborns, AI is reaching rural India amid healthcare workforce shortages. But scaling it means fitting the technology into already stretched workers’ routines.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/ai-reaches-rural-india-health-workers-are-putting-it-test-6356946" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: China’s real robot revolution is not about humanoids</span></td>
+  <td class="col-summary">The country is using its superpower of scaling and building supply chains to challenge the global industry, says Zijing Wu for the Financial Times.</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/china-humanoid-robot-revolution-6360141" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">CHPT spans wafer to system-level testing</span></td>
+  <td class="col-summary">Chunghwa Precision Test Tech showcased a range of test interface solutions for AI chips and high-performance computing (HPC) at SEMICON Taiwan 2026, including AI probe cards, memory probe cards, high-pin-count probe cards, and a high-power burn-in board for AI ASICs.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260902PD245/testing-chpt-test-interface-chips-probe.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">SanDisk pushes HBF ecosystem as AI inference reshapes token economics</span></td>
+  <td class="col-summary">The rapid rise of AI inference, multimodal inputs, and AI agents is giving NAND flash a new strategic role.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260902PD243/ai-inference-sandisk-hbm-nand-flash-capacity.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Infineon sees AI data centers, physical AI as growth drivers</span></td>
+  <td class="col-summary">Infineon said the rapid buildout of AI data centers and emerging Physical AI applications could reshape semiconductor demand worldwide. The shift signals higher infrastructure spending, faster power technology adoption, and new competition in robotics, vehicles, and industrial systems that may influence future chip mar</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD220/infineon-ai-data-center-growth-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Beyond Fabs: Building India’s Semiconductor Ecosystem</span></td>
+  <td class="col-summary">India's semiconductor build-out is creating demand not only for manufacturing capacity, but also for materials expertise, engineering capabilities and technology partnerships across the value chain. The post Beyond Fabs: Building India’s Semiconductor Ecosystem appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/beyond-fabs-building-indias-semiconductor-ecosystem/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japanese robots go beyond factory floor to take on tree cutting, lab work</span></td>
+  <td class="col-summary">Japanese robots go beyond factory floor to take on tree cutting, lab work</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/japanese-robots-go-beyond-factory-floor-to-take-on-tree-cutting-lab-work" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Kioxia outlines plan to capture AI demand with its new high-speed memory chip</span></td>
+  <td class="col-summary">Kioxia outlines plan to capture AI demand with its new high-speed memory chip</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/kioxia-outlines-plan-to-capture-ai-demand-with-its-new-high-speed-memory-chip" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">ASML to expand Japan workforce to aid next-gen chipmakers Rapidus, TSMC</span></td>
+  <td class="col-summary">ASML to expand Japan workforce to aid next-gen chipmakers Rapidus, TSMC</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/asml-to-expand-japan-workforce-to-aid-next-gen-chipmakers-rapidus-tsmc" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA South Korea says US companies to invest $2 billion in chip, energy sectors South Korea says US companies to invest $2 billion in chip, energy sectors Semiconductor Read 2 CNA As AI reaches rural India, health workers are putting it to the test From screening for tuberculosis to monitoring newborns, AI is reaching rural India amid healthcare workforce shortages. But scaling it means fitting the technology into already stretched workers’ routines. AI Read 3 CNA Commentary: China’s real robot revolution is not about humanoids The country is using its superpower of scaling and building supply chains to challenge the global industry, says Zijing Wu for the Financial Times. LogisticsAutomation Read 4 DigiTimes CHPT spans wafer to system-level testing Chunghwa Precision Test Tech showcased a range of test interface solutions for AI chips and high-performance computing (HPC) at SEMICON Taiwan 2026, including AI probe cards, memory probe cards, high-pin-count probe cards, and a high-power burn-in board for AI ASICs. AISemiconductor Read 5 DigiTimes SanDisk pushes HBF ecosystem as AI inference reshapes token economics The rapid rise of AI inference, multimodal inputs, and AI agents is giving NAND flash a new strategic role. AI Read 6 DigiTimes Infineon sees AI data centers, physical AI as growth drivers Infineon said the rapid buildout of AI data centers and emerging Physical AI applications could reshape semiconductor demand worldwide. The shift signals higher infrastructure spending, faster power technology adoption, and new competition in robotics, vehicles, and industrial systems that may influence future chip mar SemiconductorAILogistics Read 7 EETAsia Beyond Fabs: Building India’s Semiconductor Ecosystem India's semiconductor build-out is creating demand not only for manufacturing capacity, but also for materials expertise, engineering capabilities and technology partnerships across the value chain. The post Beyond Fabs: Building India’s Semiconductor Ecosystem appeared first on EE Times Asia . Semiconductor Read 8 NikkeiAsia Japanese robots go beyond factory floor to take on tree cutting, lab work Japanese robots go beyond factory floor to take on tree cutting, lab work Automation Read 9 NikkeiAsia Kioxia outlines plan to capture AI demand with its new high-speed memory chip Kioxia outlines plan to capture AI demand with its new high-speed memory chip AISemiconductor Read 10 NikkeiAsia ASML to expand Japan workforce to aid next-gen chipmakers Rapidus, TSMC ASML to expand Japan workforce to aid next-gen chipmakers Rapidus, TSMC Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 03, 2026</title><link href="https://asiatechfeed.com/2026/09/03/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 03, 2026" /><published>2026-09-03T08:00:44+00:00</published><updated>2026-09-03T08:00:44+00:00</updated><id>https://asiatechfeed.com/2026/09/03/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/03/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -662,73 +755,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-openai-ohio-data-center-15b" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia SK Telecom plans AI data center spin-off with $2.2b SK Telecom will retain a 51% stake in SK Horizon, while KKR and the IMM consortium will hold 29% and 20%, respectively. AI Read 2 CNA China’s robots are leaving the exhibition floor. Now comes the hard part From factories to homes, Chinese companies are pushing robots into the real world. But turning increasingly capable machines into viable businesses remains a major test for the industry. Automation Read 3 TechAsia Inside Cloudflare’s fix for AI’s data problem Cloudflare strategy manager Justin Joyce explains why AI agents fail without structured data, and how treating knowledge as a product fixes it. AI Read 4 CNA Huawei plans for more AI pharma tie-ups, says healthcare president Huawei plans for more AI pharma tie-ups, says healthcare president AI Read 5 CNA Nvidia rises after signaling longer AI spending runway Nvidia rises after signaling longer AI spending runway AI Read 6 DigiTimes Commentary: YMTC's high-profile IPO masks three long-term hurdles Yangtze Memory Technologies (YMTC) has officially kicked off its STAR Market IPO process. In the first quarter of 2026, China's largest 3D NAND Flash manufacturer delivered an impressive performance, generating CNY47.042 billion (approx. US$7 billion) in revenue and CNY33.379 billion (approx. US$5 billion) in net profi Semiconductor Read 7 DigiTimes Ford adopts Apple Maps data for next-gen smart driving Ford Motor Company has announced that it will be adopting Apple's MapKit for Automotive software development kit (SDK) for its own universal EV platform, and feed Apple Maps data to its Latitude AI team, which is working on its next-gen BlueCruise advanced driver assistance system (ADAS). The move reflects a broader wi AI Read 8 DigiTimes Synopsys lifts 3QFY26 sales, raises full-year outlook Synopsys, a leading electronic design automation (EDA) company, reported stronger-than-expected fiscal third-quarter results for the 2026 fiscal year (3QFY26) as the AI boom drove higher spending on chips and infrastructure. The company said revenue rose 42.4% year-over-year to US$2.48 billion, topping market expectati AIAutomationSemiconductor Read 9 EETAsia Apple Moves to 2nm with M6, Quad-Die M5 Ultra for AI and Pro Workloads Apple's new M6 and M5 Ultra chips boost CPU, GPU, memory bandwidth and on-device AI across desktop workloads. The post Apple Moves to 2nm with M6, Quad-Die M5 Ultra for AI and Pro Workloads appeared first on EE Times Asia . AISemiconductor Read 10 EETAsia Uniform x86 Cores for Real-Time AI: Reducing the Hybrid-Core Tax in Physical AI Systems Why hybrid x86 cores miss robotics deadlines: timing drift from P/E core mixing, unequal AVX width, and CPU-GPU copies. AMD Ryzen AI Embedded X100 answers with 16 uniform Zen 5 cores, full AVX-512, unified CPU/GPU/NPU memory, 2.1x CoreMark vs Core Ultra S3, and 10-yr industrial lifecycle—purpose-built for consistent re AIAutomation Read 11 TechAsia AWS, Nvidia to deploy 2 million GPUs in AI infrastructure The company will deploy 2 million additional Nvidia graphics processing units (GPUs) across AWS’s global infrastructure in 2027 and 2028. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 26, 2026</title><link href="https://asiatechfeed.com/2026/08/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 26, 2026" /><published>2026-08-26T08:00:49+00:00</published><updated>2026-08-26T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/08/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">An AI assistant that joins sales calls and scores team skills</span></td>
-  <td class="col-summary">Founded by a former Uber AI lead, Proshort.ai turns sales conversations into live coaching and automated CRM updates.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-assistant-joins-sales-calls-scores-team-skills" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Who’s investing in India’s AI startups?</span></td>
-  <td class="col-summary">We've compiled a list of investors pouring money into India’s AI startups.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/whos-investing-indias-ai-startups" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Data center leader leaves OpenAI, latest in wave of high-level departures</span></td>
-  <td class="col-summary">A key figure responsible for OpenAI's data center plans left the company last week, the latest in a string of departures just as it invests heavily in its AI infrastructure build-out and prepares for an IPO next year. This also illustrates the challenges the industry faces in retaining talent, even among top companies </td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260826VL211/openai-data-center-infrastructure-talent-ipo.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Cook's parting shot: Apple takes AI compute out of data centers</span></td>
-  <td class="col-summary">Apple took pre-orders on August 25 for a new Mac mini and Mac Studio. Both will ship on September 22. Prices of the Mac mini start at US$899 with the M6 chip, or $1,699 with the M5 Pro. Mac Studio starts at $2,499 with M5 Max and $5,499 with M5 Ultra. The 512GB memory version comes in late October.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260826VL210/apple-mac-mini-ai-hardware-training.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Peak XV invests $15m in Indian voice startup Ringg AI</span></td>
-  <td class="col-summary">Ringg said it will use the funding to expand its voice, WhatsApp, and browser agents.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/peak-xv-talks-indian-voice-ai-firm-10m" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Star Trade to highlight power services for chips and AI at Semicon Taiwan 2026</span></td>
-  <td class="col-summary">Star Trade, a unit of HD Renewable Energy, is set to debut at Semicon Taiwan 2026 next week, offering power trading and energy management services for semiconductor and AI infrastructure. The move underscores how global chipmaking and data center growth is increasing pressure on grids, renewable integration, and electr</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260826PD213/hd-renewable-semicon-taiwan-2026-data-center-electricity-solar.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Lattice to Highlight Low-Power FPGA Solutions at FPGAWorld 2026</span></td>
-  <td class="col-summary">Lattice Semiconductor will showcase low-power FPGA technologies for industrial IoT and sensor bridging at FPGAWorld Conference 2026. The post Lattice to Highlight Low-Power FPGA Solutions at FPGAWorld 2026 appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/lattice-to-highlight-low-power-fpga-solutions-at-fpgaworld-2026/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia An AI assistant that joins sales calls and scores team skills Founded by a former Uber AI lead, Proshort.ai turns sales conversations into live coaching and automated CRM updates. AI Read 2 TechAsia Who’s investing in India’s AI startups? We've compiled a list of investors pouring money into India’s AI startups. AI Read 3 DigiTimes Data center leader leaves OpenAI, latest in wave of high-level departures A key figure responsible for OpenAI's data center plans left the company last week, the latest in a string of departures just as it invests heavily in its AI infrastructure build-out and prepares for an IPO next year. This also illustrates the challenges the industry faces in retaining talent, even among top companies AI Read 4 DigiTimes Cook's parting shot: Apple takes AI compute out of data centers Apple took pre-orders on August 25 for a new Mac mini and Mac Studio. Both will ship on September 22. Prices of the Mac mini start at US$899 with the M6 chip, or $1,699 with the M5 Pro. Mac Studio starts at $2,499 with M5 Max and $5,499 with M5 Ultra. The 512GB memory version comes in late October. AISemiconductor Read 5 TechAsia Peak XV invests $15m in Indian voice startup Ringg AI Ringg said it will use the funding to expand its voice, WhatsApp, and browser agents. AI Read 6 DigiTimes Star Trade to highlight power services for chips and AI at Semicon Taiwan 2026 Star Trade, a unit of HD Renewable Energy, is set to debut at Semicon Taiwan 2026 next week, offering power trading and energy management services for semiconductor and AI infrastructure. The move underscores how global chipmaking and data center growth is increasing pressure on grids, renewable integration, and electr SemiconductorAI Read 7 EETAsia Lattice to Highlight Low-Power FPGA Solutions at FPGAWorld 2026 Lattice Semiconductor will showcase low-power FPGA technologies for industrial IoT and sensor bridging at FPGAWorld Conference 2026. The post Lattice to Highlight Low-Power FPGA Solutions at FPGAWorld 2026 appeared first on EE Times Asia . Semiconductor Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia SK Telecom plans AI data center spin-off with $2.2b SK Telecom will retain a 51% stake in SK Horizon, while KKR and the IMM consortium will hold 29% and 20%, respectively. AI Read 2 CNA China’s robots are leaving the exhibition floor. Now comes the hard part From factories to homes, Chinese companies are pushing robots into the real world. But turning increasingly capable machines into viable businesses remains a major test for the industry. Automation Read 3 TechAsia Inside Cloudflare’s fix for AI’s data problem Cloudflare strategy manager Justin Joyce explains why AI agents fail without structured data, and how treating knowledge as a product fixes it. AI Read 4 CNA Huawei plans for more AI pharma tie-ups, says healthcare president Huawei plans for more AI pharma tie-ups, says healthcare president AI Read 5 CNA Nvidia rises after signaling longer AI spending runway Nvidia rises after signaling longer AI spending runway AI Read 6 DigiTimes Commentary: YMTC's high-profile IPO masks three long-term hurdles Yangtze Memory Technologies (YMTC) has officially kicked off its STAR Market IPO process. In the first quarter of 2026, China's largest 3D NAND Flash manufacturer delivered an impressive performance, generating CNY47.042 billion (approx. US$7 billion) in revenue and CNY33.379 billion (approx. US$5 billion) in net profi Semiconductor Read 7 DigiTimes Ford adopts Apple Maps data for next-gen smart driving Ford Motor Company has announced that it will be adopting Apple's MapKit for Automotive software development kit (SDK) for its own universal EV platform, and feed Apple Maps data to its Latitude AI team, which is working on its next-gen BlueCruise advanced driver assistance system (ADAS). The move reflects a broader wi AI Read 8 DigiTimes Synopsys lifts 3QFY26 sales, raises full-year outlook Synopsys, a leading electronic design automation (EDA) company, reported stronger-than-expected fiscal third-quarter results for the 2026 fiscal year (3QFY26) as the AI boom drove higher spending on chips and infrastructure. The company said revenue rose 42.4% year-over-year to US$2.48 billion, topping market expectati AIAutomationSemiconductor Read 9 EETAsia Apple Moves to 2nm with M6, Quad-Die M5 Ultra for AI and Pro Workloads Apple's new M6 and M5 Ultra chips boost CPU, GPU, memory bandwidth and on-device AI across desktop workloads. The post Apple Moves to 2nm with M6, Quad-Die M5 Ultra for AI and Pro Workloads appeared first on EE Times Asia . AISemiconductor Read 10 EETAsia Uniform x86 Cores for Real-Time AI: Reducing the Hybrid-Core Tax in Physical AI Systems Why hybrid x86 cores miss robotics deadlines: timing drift from P/E core mixing, unequal AVX width, and CPU-GPU copies. AMD Ryzen AI Embedded X100 answers with 16 uniform Zen 5 cores, full AVX-512, unified CPU/GPU/NPU memory, 2.1x CoreMark vs Core Ultra S3, and 10-yr industrial lifecycle—purpose-built for consistent re AIAutomation Read 11 TechAsia AWS, Nvidia to deploy 2 million GPUs in AI infrastructure The company will deploy 2 million additional Nvidia graphics processing units (GPUs) across AWS’s global infrastructure in 2027 and 2028. AI Read]]></summary></entry></feed>
