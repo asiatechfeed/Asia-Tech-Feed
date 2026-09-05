@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "count": 8,
   "sources": [
     "CNA",
@@ -7,32 +7,32 @@
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-09-04-asia-tech-news-digest.md",
+  "post_file": "2026-09-05-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "MSScorps August revenue hits new high on silicon photonics gains",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260904PD200/msscorps-siph-revenue-2026.html"
-    },
-    {
-      "title": "Trusval Technology eyes NT$23 billion order backlog, US 4Q26 ramp",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260904PD201/trusval-fab-revenue-semicon-taiwan-2026.html"
-    },
-    {
-      "title": "Cloudflare, OpenAI team up on AI vulnerability service",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/cloudflare-mastercard-partner-cyber-tools-small-businesses"
-    },
-    {
-      "title": "SEMICON Taiwan 2026: QuantumDiamonds cracks the hybrid bonding blind spot with new inline metrology",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260904VL212/taiwan-2026-metrology-semiconductor-industry-wafer.html"
-    },
-    {
-      "title": "South Korea says chip investments under discussion with US amid tariff concerns",
+      "title": "Can China\u2019s chip ambitions reshape the global tech landscape?",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/south-korea-says-chip-investments-under-discussion-us-amid-tariff-concerns-6362261"
+      "url": "https://www.channelnewsasia.com/interactive/china-chip-ambitions-semiconductor-duv-euv/%2E"
+    },
+    {
+      "title": "Cisco targets zero engineers writing code by end-October",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260904VL214/cisco-software-security-development-supply.html"
+    },
+    {
+      "title": "CPO testing shifts to mid-stage to avoid costly failures, Chroma says",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260904VL219/cpo-testing-optics-equipment-chipmakers.html"
+    },
+    {
+      "title": "Naver, Brookfield accelerate $9b AI factory in Korea",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/naver-samsung-sds-join-south-koreas-ai-project"
+    },
+    {
+      "title": "Commentary: Apple shifts to smart vehicle software layer as Ternus era arrives",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260904PD234/apple-vehicle-software-google-automotive-supply-chain.html"
     }
   ],
   "source_stats": [
@@ -156,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 56,
-      "relevant": 39,
+      "fetched": 65,
+      "relevant": 47,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +166,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 6,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null

@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-09-05",
+    "title": "Can China’s chip ambitions reshape the global tech landscape?",
+    "summary": "Can China’s chip ambitions reshape the global tech landscape?",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/interactive/china-chip-ambitions-semiconductor-duv-euv/%2E"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "Cisco targets zero engineers writing code by end-October",
+    "summary": "AI is forcing companies to rethink not only how software is built but how quickly ageing systems must be replaced, with Cisco warning that increasingly capable frontier models are turning technical debt into a board-level cybersecurity concern.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260904VL214/cisco-software-security-development-supply.html"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "CPO testing shifts to mid-stage to avoid costly failures, Chroma says",
+    "summary": "Co-packaged optics (CPO) is forcing chipmakers and equipment suppliers to rethink where testing should take place, as long optical test times and the high cost of downstream failures raise the importance of screening optical engines before final package integration, according to Chroma ATE.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260904VL219/cpo-testing-optics-equipment-chipmakers.html"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "Naver, Brookfield accelerate $9b AI factory in Korea",
+    "summary": "Brookfield agreed to invest up to US$9 billion in the initial 200-megawatt phase at Naver’s Gak Sejong data center in Sejong City.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/naver-samsung-sds-join-south-koreas-ai-project"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "Commentary: Apple shifts to smart vehicle software layer as Ternus era arrives",
+    "summary": "When Apple abandoned Project Titan, automotive supply chain insiders predicted the tech giant wouldn't bow out of the smart vehicle market entirely; it would simply approach the market from a different angle. Judging by its recent collaboration with Ford Motor, Apple is pivoting toward software-layer integration and ve",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260904PD234/apple-vehicle-software-google-automotive-supply-chain.html"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "Google launches WeatherNext 3 AI model for global forecasts",
+    "summary": "Google said WeatherNext 3 uses live geostationary satellite data to generate hourly forecasts.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/google-deepmind-ceo-steps-down-in-alphabet-ai-reshuffle"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "SEA founders need a better US pitch",
+    "summary": "SEA founders are flocking to the US to pursue their AI ambitions, but many are making costly mistakes.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/sea-founders-need-a-better-us-pitch"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "Japan AI data centers set to quadruple by 2033 with $60bn investment",
+    "summary": "Japan AI data centers set to quadruple by 2033 with $60bn investment",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-ai-data-centers-set-to-quadruple-by-2033-with-60bn-investment"
+  },
+  {
     "date": "2026-09-04",
     "title": "MSScorps August revenue hits new high on silicon photonics gains",
     "summary": "MSScorps saw August 2026 revenue post a new single-month high, as global artificial intelligence (AI) computing power continues to expand, driving demand for advanced process technologies, high-performance computing (HPC), advanced packaging, and high-speed optical interconnects, further raising the importance of semic",
