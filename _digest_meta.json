@@ -8,29 +8,29 @@
   "post_file": "2026-09-05-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "US AI startup micro1 to top Google bid for Spirit data",
+      "title": "Micron plans to double HBM output as AI demand grows",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+      "url": "https://www.techinasia.com/micron-reports-q2-revenue-of-23-9b-tops-estimates"
     },
     {
-      "title": "Kia India launches Sorento featuring generative AI assistant",
+      "title": "Chinese chipmaker YMTC enters review for $4.6b IPO",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/hyundai-motor-india-sales-rise-6-6-to-58702-units"
+      "url": "https://www.techinasia.com/chinese-chipmaker-ymtc-tops-kioxia-nand-shipments-report"
     },
     {
-      "title": "A16z leads $300m round for AI infrastructure startup Gimlet",
+      "title": "Moonshot AI files for up to $5b Hong Kong IPO",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/microsoftbacked-dmatrix-starts-shipping-ai-chip"
+      "url": "https://www.techinasia.com/chinas-moonshot-ai-targets-50b-valuation"
     },
     {
-      "title": "Exclusive: South Korea's safety AI boom is being built from the top down, BEXCO says",
+      "title": "Taiwan semiconductor output targets NT$8 trillion",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260904VL208/government-expo-technology.html"
+      "url": "https://www.digitimes.com/news/a20260904PD237/taiwan-semiconductors-equipment-development-moea-taipei.html"
     },
     {
-      "title": "Samsung, SK chiefs to meet Nvidia's Huang in New York amid US investment pressure",
+      "title": "Topco targets optical comms, cooling as copper gives way",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260904PD232/samsung-investment-nvidia-sk-group-sk-hynix.html?chid=10"
+      "url": "https://www.digitimes.com/news/a20260904PD235/topco-copper-cooling-ai-chip-transmission.html"
     }
   ],
   "source_stats": [
@@ -47,7 +47,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -164,7 +164,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 5,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -191,7 +191,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 12,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
