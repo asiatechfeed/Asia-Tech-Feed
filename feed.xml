@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-04T08:01:32+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 04, 2026</title><link href="https://asiatechfeed.com/2026/09/04/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 04, 2026" /><published>2026-09-04T08:00:48+00:00</published><updated>2026-09-04T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/09/04/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/04/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-05T00:01:51+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 05, 2026</title><link href="https://asiatechfeed.com/2026/09/05/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 05, 2026" /><published>2026-09-05T00:01:03+00:00</published><updated>2026-09-05T00:01:03+00:00</updated><id>https://asiatechfeed.com/2026/09/05/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/05/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Can China’s chip ambitions reshape the global tech landscape?</span></td>
+  <td class="col-summary">Can China’s chip ambitions reshape the global tech landscape?</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/interactive/china-chip-ambitions-semiconductor-duv-euv/%2E" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Cisco targets zero engineers writing code by end-October</span></td>
+  <td class="col-summary">AI is forcing companies to rethink not only how software is built but how quickly ageing systems must be replaced, with Cisco warning that increasingly capable frontier models are turning technical debt into a board-level cybersecurity concern.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260904VL214/cisco-software-security-development-supply.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">CPO testing shifts to mid-stage to avoid costly failures, Chroma says</span></td>
+  <td class="col-summary">Co-packaged optics (CPO) is forcing chipmakers and equipment suppliers to rethink where testing should take place, as long optical test times and the high cost of downstream failures raise the importance of screening optical engines before final package integration, according to Chroma ATE.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260904VL219/cpo-testing-optics-equipment-chipmakers.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Naver, Brookfield accelerate $9b AI factory in Korea</span></td>
+  <td class="col-summary">Brookfield agreed to invest up to US$9 billion in the initial 200-megawatt phase at Naver’s Gak Sejong data center in Sejong City.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/naver-samsung-sds-join-south-koreas-ai-project" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Commentary: Apple shifts to smart vehicle software layer as Ternus era arrives</span></td>
+  <td class="col-summary">When Apple abandoned Project Titan, automotive supply chain insiders predicted the tech giant wouldn't bow out of the smart vehicle market entirely; it would simply approach the market from a different angle. Judging by its recent collaboration with Ford Motor, Apple is pivoting toward software-layer integration and ve</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260904PD234/apple-vehicle-software-google-automotive-supply-chain.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Google launches WeatherNext 3 AI model for global forecasts</span></td>
+  <td class="col-summary">Google said WeatherNext 3 uses live geostationary satellite data to generate hourly forecasts.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/google-deepmind-ceo-steps-down-in-alphabet-ai-reshuffle" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">SEA founders need a better US pitch</span></td>
+  <td class="col-summary">SEA founders are flocking to the US to pursue their AI ambitions, but many are making costly mistakes.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sea-founders-need-a-better-us-pitch" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan AI data centers set to quadruple by 2033 with $60bn investment</span></td>
+  <td class="col-summary">Japan AI data centers set to quadruple by 2033 with $60bn investment</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-ai-data-centers-set-to-quadruple-by-2033-with-60bn-investment" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Can China’s chip ambitions reshape the global tech landscape? Can China’s chip ambitions reshape the global tech landscape? Semiconductor Read 2 DigiTimes Cisco targets zero engineers writing code by end-October AI is forcing companies to rethink not only how software is built but how quickly ageing systems must be replaced, with Cisco warning that increasingly capable frontier models are turning technical debt into a board-level cybersecurity concern. AI Read 3 DigiTimes CPO testing shifts to mid-stage to avoid costly failures, Chroma says Co-packaged optics (CPO) is forcing chipmakers and equipment suppliers to rethink where testing should take place, as long optical test times and the high cost of downstream failures raise the importance of screening optical engines before final package integration, according to Chroma ATE. Semiconductor Read 4 TechAsia Naver, Brookfield accelerate $9b AI factory in Korea Brookfield agreed to invest up to US$9 billion in the initial 200-megawatt phase at Naver’s Gak Sejong data center in Sejong City. AI Read 5 DigiTimes Commentary: Apple shifts to smart vehicle software layer as Ternus era arrives When Apple abandoned Project Titan, automotive supply chain insiders predicted the tech giant wouldn't bow out of the smart vehicle market entirely; it would simply approach the market from a different angle. Judging by its recent collaboration with Ford Motor, Apple is pivoting toward software-layer integration and ve Logistics Read 6 TechAsia Google launches WeatherNext 3 AI model for global forecasts Google said WeatherNext 3 uses live geostationary satellite data to generate hourly forecasts. AI Read 7 TechAsia SEA founders need a better US pitch SEA founders are flocking to the US to pursue their AI ambitions, but many are making costly mistakes. AI Read 8 NikkeiAsia Japan AI data centers set to quadruple by 2033 with $60bn investment Japan AI data centers set to quadruple by 2033 with $60bn investment AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 04, 2026</title><link href="https://asiatechfeed.com/2026/09/04/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 04, 2026" /><published>2026-09-04T08:00:48+00:00</published><updated>2026-09-04T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/09/04/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/04/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -638,105 +715,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/japan-tech-earnings-jump-on-ai-demand-in-data-centers" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Marvell shares slide as concerns over timing of Google AI deal revenue eclipse strong results Marvell shares slide as concerns over timing of Google AI deal revenue eclipse strong results AI Read 2 EETAsia Siemens EDA Tools Now Certified for Intel 14A, 18A-P Process Technologies Siemens expands EDA verification support for Intel Foundry's advanced nodes, packaging, and multi-chiplet design workflows. The post Siemens EDA Tools Now Certified for Intel 14A, 18A-P Process Technologies appeared first on EE Times Asia . Semiconductor Read 3 DigiTimes AI data center 800VDC power architecture takes shape; future hurdles require balancing multiple key factors DIGITIMES believes that 2026 will be a pivotal year in the stabilization of 800VDC power architectures for AI data centers. AI Read 4 DigiTimes Winstar's AI push gains momentum with some orders extending into 2027 Winstar Display is accelerating its expansion into AI applications, with its products already integrated into data centers, power management systems, controllers, testing equipment, and semiconductor facilities. The company projects AI-related orders to grow by 30% to 40% in 2026, with AI revenue share rising from 3–4% SemiconductorAI Read 5 DigiTimes Humanoid robot demand boosts planetary gear reducers Apex Dynamics is optimistic about its business outlook for the second half of 2026, with planetary gear reducers emerging as a key growth driver. The company said its results for the first half of the year posted double-digit profit growth, while the reducer business continued to lead expansion. Automation Read 6 EETAsia Baya Systems Expands Japan Presence to Target AI and Chiplet Design Baya Systems is strengthening its Japan presence as semiconductor companies adopt chiplets and scalable architectures for AI and HPC. The post Baya Systems Expands Japan Presence to Target AI and Chiplet Design appeared first on EE Times Asia . SemiconductorAI Read 7 TechAsia Nvidia adds $442b in market value on AI growth outlook Nvidia is now valued at about US$5.5 trillion. AI Read 8 TechAsia AI came for microdramas. Now it wants the whole picture With the microdrama industry set to rake in US$11 billion by late 2026, AI studios from China to India are racing to secure global dominance. AI Read 9 TechAsia Renesas opens Beijing physical AI, robotics lab The facility will let customers demonstrate, validate, and jointly develop next-generation robotic systems as Renesas expands its physical AI efforts. AIAutomation Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 27, 2026</title><link href="https://asiatechfeed.com/2026/08/27/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 27, 2026" /><published>2026-08-27T08:51:29+00:00</published><updated>2026-08-27T08:51:29+00:00</updated><id>https://asiatechfeed.com/2026/08/27/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/27/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SK Telecom plans AI data center spin-off with $2.2b</span></td>
-  <td class="col-summary">SK Telecom will retain a 51% stake in SK Horizon, while KKR and the IMM consortium will hold 29% and 20%, respectively.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-telecoms-ai-data-center-revenue-jumps-89" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">China’s robots are leaving the exhibition floor. Now comes the hard part</span></td>
-  <td class="col-summary">From factories to homes, Chinese companies are pushing robots into the real world. But turning increasingly capable machines into viable businesses remains a major test for the industry.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/china-robots-exhibitions-real-world-viable-business-6344666" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Inside Cloudflare’s fix for AI’s data problem</span></td>
-  <td class="col-summary">Cloudflare strategy manager Justin Joyce explains why AI agents fail without structured data, and how treating knowledge as a product fixes it.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/inside-cloudflares-fix-for-ais-data-problem" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Huawei plans for more AI pharma tie-ups, says healthcare president</span></td>
-  <td class="col-summary">Huawei plans for more AI pharma tie-ups, says healthcare president</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/huawei-plans-more-ai-pharma-tie-ups-says-healthcare-president-6344796" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Nvidia rises after signaling longer AI spending runway</span></td>
-  <td class="col-summary">Nvidia rises after signaling longer AI spending runway</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/nvidia-rises-after-signaling-longer-ai-spending-runway-6344771" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Commentary: YMTC's high-profile IPO masks three long-term hurdles</span></td>
-  <td class="col-summary">Yangtze Memory Technologies (YMTC) has officially kicked off its STAR Market IPO process. In the first quarter of 2026, China's largest 3D NAND Flash manufacturer delivered an impressive performance, generating CNY47.042 billion (approx. US$7 billion) in revenue and CNY33.379 billion (approx. US$5 billion) in net profi</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260827PD225/ymtc-ipo-nand-market-profit.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Ford adopts Apple Maps data for next-gen smart driving</span></td>
-  <td class="col-summary">Ford Motor Company has announced that it will be adopting Apple's MapKit for Automotive software development kit (SDK) for its own universal EV platform, and feed Apple Maps data to its Latitude AI team, which is working on its next-gen BlueCruise advanced driver assistance system (ADAS). The move reflects a broader wi</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260827PD229/apple-ford-software-adas-data-development.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Synopsys lifts 3QFY26 sales, raises full-year outlook</span></td>
-  <td class="col-summary">Synopsys, a leading electronic design automation (EDA) company, reported stronger-than-expected fiscal third-quarter results for the 2026 fiscal year (3QFY26) as the AI boom drove higher spending on chips and infrastructure. The company said revenue rose 42.4% year-over-year to US$2.48 billion, topping market expectati</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260827PD223/synopsys-eda-design-revenue-sales.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Apple Moves to 2nm with M6, Quad-Die M5 Ultra for AI and Pro Workloads</span></td>
-  <td class="col-summary">Apple's new M6 and M5 Ultra chips boost CPU, GPU, memory bandwidth and on-device AI across desktop workloads. The post Apple Moves to 2nm with M6, Quad-Die M5 Ultra for AI and Pro Workloads appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/apple-moves-to-2nm-with-m6-quad-die-m5-ultra-for-ai-and-pro-workloads/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Uniform x86 Cores for Real-Time AI: Reducing the Hybrid-Core Tax in Physical AI Systems</span></td>
-  <td class="col-summary">Why hybrid x86 cores miss robotics deadlines: timing drift from P/E core mixing, unequal AVX width, and CPU-GPU copies. AMD Ryzen AI Embedded X100 answers with 16 uniform Zen 5 cores, full AVX-512, unified CPU/GPU/NPU memory, 2.1x CoreMark vs Core Ultra S3, and 10-yr industrial lifecycle—purpose-built for consistent re</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddedblog-uniform-x86-cores-for-real-time-ai-reducing-the-hybrid-core-tax-in-physical-ai-systems/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">AWS, Nvidia to deploy 2 million GPUs in AI infrastructure</span></td>
-  <td class="col-summary">The company will deploy 2 million additional Nvidia graphics processing units (GPUs) across AWS’s global infrastructure in 2027 and 2028.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-openai-ohio-data-center-15b" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia SK Telecom plans AI data center spin-off with $2.2b SK Telecom will retain a 51% stake in SK Horizon, while KKR and the IMM consortium will hold 29% and 20%, respectively. AI Read 2 CNA China’s robots are leaving the exhibition floor. Now comes the hard part From factories to homes, Chinese companies are pushing robots into the real world. But turning increasingly capable machines into viable businesses remains a major test for the industry. Automation Read 3 TechAsia Inside Cloudflare’s fix for AI’s data problem Cloudflare strategy manager Justin Joyce explains why AI agents fail without structured data, and how treating knowledge as a product fixes it. AI Read 4 CNA Huawei plans for more AI pharma tie-ups, says healthcare president Huawei plans for more AI pharma tie-ups, says healthcare president AI Read 5 CNA Nvidia rises after signaling longer AI spending runway Nvidia rises after signaling longer AI spending runway AI Read 6 DigiTimes Commentary: YMTC's high-profile IPO masks three long-term hurdles Yangtze Memory Technologies (YMTC) has officially kicked off its STAR Market IPO process. In the first quarter of 2026, China's largest 3D NAND Flash manufacturer delivered an impressive performance, generating CNY47.042 billion (approx. US$7 billion) in revenue and CNY33.379 billion (approx. US$5 billion) in net profi Semiconductor Read 7 DigiTimes Ford adopts Apple Maps data for next-gen smart driving Ford Motor Company has announced that it will be adopting Apple's MapKit for Automotive software development kit (SDK) for its own universal EV platform, and feed Apple Maps data to its Latitude AI team, which is working on its next-gen BlueCruise advanced driver assistance system (ADAS). The move reflects a broader wi AI Read 8 DigiTimes Synopsys lifts 3QFY26 sales, raises full-year outlook Synopsys, a leading electronic design automation (EDA) company, reported stronger-than-expected fiscal third-quarter results for the 2026 fiscal year (3QFY26) as the AI boom drove higher spending on chips and infrastructure. The company said revenue rose 42.4% year-over-year to US$2.48 billion, topping market expectati AIAutomationSemiconductor Read 9 EETAsia Apple Moves to 2nm with M6, Quad-Die M5 Ultra for AI and Pro Workloads Apple's new M6 and M5 Ultra chips boost CPU, GPU, memory bandwidth and on-device AI across desktop workloads. The post Apple Moves to 2nm with M6, Quad-Die M5 Ultra for AI and Pro Workloads appeared first on EE Times Asia . AISemiconductor Read 10 EETAsia Uniform x86 Cores for Real-Time AI: Reducing the Hybrid-Core Tax in Physical AI Systems Why hybrid x86 cores miss robotics deadlines: timing drift from P/E core mixing, unequal AVX width, and CPU-GPU copies. AMD Ryzen AI Embedded X100 answers with 16 uniform Zen 5 cores, full AVX-512, unified CPU/GPU/NPU memory, 2.1x CoreMark vs Core Ultra S3, and 10-yr industrial lifecycle—purpose-built for consistent re AIAutomation Read 11 TechAsia AWS, Nvidia to deploy 2 million GPUs in AI infrastructure The company will deploy 2 million additional Nvidia graphics processing units (GPUs) across AWS’s global infrastructure in 2027 and 2028. AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Marvell shares slide as concerns over timing of Google AI deal revenue eclipse strong results Marvell shares slide as concerns over timing of Google AI deal revenue eclipse strong results AI Read 2 EETAsia Siemens EDA Tools Now Certified for Intel 14A, 18A-P Process Technologies Siemens expands EDA verification support for Intel Foundry's advanced nodes, packaging, and multi-chiplet design workflows. The post Siemens EDA Tools Now Certified for Intel 14A, 18A-P Process Technologies appeared first on EE Times Asia . Semiconductor Read 3 DigiTimes AI data center 800VDC power architecture takes shape; future hurdles require balancing multiple key factors DIGITIMES believes that 2026 will be a pivotal year in the stabilization of 800VDC power architectures for AI data centers. AI Read 4 DigiTimes Winstar's AI push gains momentum with some orders extending into 2027 Winstar Display is accelerating its expansion into AI applications, with its products already integrated into data centers, power management systems, controllers, testing equipment, and semiconductor facilities. The company projects AI-related orders to grow by 30% to 40% in 2026, with AI revenue share rising from 3–4% SemiconductorAI Read 5 DigiTimes Humanoid robot demand boosts planetary gear reducers Apex Dynamics is optimistic about its business outlook for the second half of 2026, with planetary gear reducers emerging as a key growth driver. The company said its results for the first half of the year posted double-digit profit growth, while the reducer business continued to lead expansion. Automation Read 6 EETAsia Baya Systems Expands Japan Presence to Target AI and Chiplet Design Baya Systems is strengthening its Japan presence as semiconductor companies adopt chiplets and scalable architectures for AI and HPC. The post Baya Systems Expands Japan Presence to Target AI and Chiplet Design appeared first on EE Times Asia . SemiconductorAI Read 7 TechAsia Nvidia adds $442b in market value on AI growth outlook Nvidia is now valued at about US$5.5 trillion. AI Read 8 TechAsia AI came for microdramas. Now it wants the whole picture With the microdrama industry set to rake in US$11 billion by late 2026, AI studios from China to India are racing to secure global dominance. AI Read 9 TechAsia Renesas opens Beijing physical AI, robotics lab The facility will let customers demonstrate, validate, and jointly develop next-generation robotic systems as Renesas expands its physical AI efforts. AIAutomation Read]]></summary></entry></feed>
