@@ -1,36 +1,37 @@
 {
   "date": "2026-09-06",
-  "count": 6,
+  "count": 5,
   "sources": [
     "DigiTimes",
+    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-06-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "LG Uplus forms alliance to develop modular AI data centers",
+      "title": "Foxconn expects Q3 to beat forecasts on AI demand",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/google-in-talks-with-lg-uplus-for-s-korea-data-center-sources"
+      "url": "https://www.techinasia.com/foxconn-sees-ai-demand-driving-growth-in-2026"
     },
     {
-      "title": "OpenAI says \u2018wiki incident\u2019 shows need for AI transparency",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/openai-tests-safety-system-detect-risky-ai-behavior"
-    },
-    {
-      "title": "India\u2019s TCS plans $7.4b AI data center campus",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/indias-tcs-tpg-partner-invest-2b-ai-data-centers"
-    },
-    {
-      "title": "TWM, SYSTEX debut at smart building expo",
+      "title": "Taiwan chip equipment maker Scientech sees orders into 2028, may turn away customers in 2027",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260903PD237/twm-management-systex-data-2026.html"
+      "url": "https://www.digitimes.com/news/a20260903PD236/equipment-taiwan-2027-2028-demand.html"
     },
     {
-      "title": "Tongtai doubles semiconductor orders on AI data-center demand",
+      "title": "G20 AI agenda: US champions light-touch regulation while data center backlash, China rivalry intensify",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260903PD230/demand-tongtai-equipment-expansion-packaging.html"
+      "url": "https://www.digitimes.com/news/a20260903PD233/g20-regulation-data-ceo-technology.html"
+    },
+    {
+      "title": "Trumpf CTO says advanced packaging reshapes semiconductor equipment race",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260903PD238/packaging-equipment-demand-technology-semiconductor-industry.html"
+    },
+    {
+      "title": "BRICS Summit, Okinawa election, Philippines AI plan",
+      "source": "NikkeiAsia",
+      "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/brics-summit-okinawa-election-philippines-ai-plan"
     }
   ],
   "source_stats": [
@@ -164,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 3,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -191,9 +192,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {

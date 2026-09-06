@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Asia Tech News Digest - September 06, 2026"
-date: 2026-09-06 12:13:32 +0800
-articles_count: 6
-sources_count: 2
-sources: ["DigiTimes", "TechAsia"]
+date: 2026-09-06 16:00:47 +0800
+articles_count: 5
+sources_count: 3
+sources: ["DigiTimes", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-09-06.tsv
-featured_title: "LG Uplus forms alliance to develop modular AI data centers"
-featured_url: "https://www.techinasia.com/google-in-talks-with-lg-uplus-for-s-korea-data-center-sources"
+featured_title: "Foxconn expects Q3 to beat forecasts on AI demand"
+featured_url: "https://www.techinasia.com/foxconn-sees-ai-demand-driving-growth-in-2026"
 featured_source: "TechAsia"
-featured_summary: "The alliance is reviewing a 100MW hyperscale model and a retrofit plan."
+featured_summary: "August revenue hit a record high, topping T$900 billion (US$28.48 billion) for the second month in a row."
 featured_image: ""
 ---
 
@@ -28,50 +28,42 @@ featured_image: ""
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">LG Uplus forms alliance to develop modular AI data centers</span></td>
-  <td class="col-summary">The alliance is reviewing a 100MW hyperscale model and a retrofit plan.</td>
+  <td class="col-title"><span class="article-title">Foxconn expects Q3 to beat forecasts on AI demand</span></td>
+  <td class="col-summary">August revenue hit a record high, topping T$900 billion (US$28.48 billion) for the second month in a row.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/google-in-talks-with-lg-uplus-for-s-korea-data-center-sources" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/foxconn-sees-ai-demand-driving-growth-in-2026" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">OpenAI says ‘wiki incident’ shows need for AI transparency</span></td>
-  <td class="col-summary">OpenAI said it is working with dozens of regulators worldwide.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-tests-safety-system-detect-risky-ai-behavior" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwan chip equipment maker Scientech sees orders into 2028, may turn away customers in 2027</span></td>
+  <td class="col-summary">AI and high-performance computing (HPC) demand is extending order visibility for Taiwanese semiconductor equipment supplier Scientech into 2028, while capacity constraints may force the company to become more selective about orders in 2027.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD236/equipment-taiwan-2027-2028-demand.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">India’s TCS plans $7.4b AI data center campus</span></td>
-  <td class="col-summary">The planned campus will span 264 acres and use liquid-cooled infrastructure.</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">G20 AI agenda: US champions light-touch regulation while data center backlash, China rivalry intensify</span></td>
+  <td class="col-summary">The G20 Innovation Ministerial was held in North Carolina, US, from September 1 to 2, with artificial intelligence (AI) taking center stage. The US urged governments to pursue a light-touch regulatory approach, while officials and technology executives also addressed data centers and copyright rules governing AI traini</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/indias-tcs-tpg-partner-invest-2b-ai-data-centers" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD233/g20-regulation-data-ceo-technology.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TWM, SYSTEX debut at smart building expo</span></td>
-  <td class="col-summary">Taiwan Mobile announced that it is participating for the first time with Systex in the "2026 Build for NextGen – International Sustainable Intelligent Building & Intelligent Materials Expo," where the two companies are jointly showcasing three smart and sustainable operations-management solutions: an AI digital twin sm</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD237/twm-management-systex-data-2026.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Trumpf CTO says advanced packaging reshapes semiconductor equipment race</span></td>
+  <td class="col-summary">AI and high-performance computing (HPC) demand is changing the semiconductor industry's technology and investment priorities. As chip power consumption, computing density, and data transfer requirements rise rapidly, competition is no longer limited to front-end process scaling; 3D stacking, advanced packaging, high-de</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD238/packaging-equipment-demand-technology-semiconductor-industry.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Tongtai doubles semiconductor orders on AI data-center demand</span></td>
-  <td class="col-summary">Facing rapid demand expansion across the semiconductor and AI industries, Tongtai Group (TT Group) has aggressively promoted an import-substitution and localization strategy in recent years. The group is extending its traditional machine tool expertise into hard and brittle material processing, advanced packaging, and </td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD230/demand-tongtai-equipment-expansion-packaging.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan thermal supplier I-Chiun launches AI chip cooling venture targeting US$19.2B liquid-cooling market</span></td>
-  <td class="col-summary">I-Chiun Precision Industry and Taiwan's Industrial Technology Research Institute (ITRI) have established Huizhi Advanced, the country's first startup focused on AI chip thermal design, targeting a global liquid-cooling market expected to reach US$19.2 billion by 2030.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD239/taiwan-cooling-i-chiun-ai-chip-market.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">BRICS Summit, Okinawa election, Philippines AI plan</span></td>
+  <td class="col-summary">BRICS Summit, Okinawa election, Philippines AI plan</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/your-week-in-asia/brics-summit-okinawa-election-philippines-ai-plan" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
