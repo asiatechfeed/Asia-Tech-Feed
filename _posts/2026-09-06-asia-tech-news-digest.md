@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - September 06, 2026"
-date: 2026-09-06 08:22:08 +0800
-articles_count: 4
+date: 2026-09-06 12:13:32 +0800
+articles_count: 6
 sources_count: 2
-sources: ["CNA", "DigiTimes"]
+sources: ["DigiTimes", "TechAsia"]
 csv_file: /assets/data/news-2026-09-06.tsv
-featured_title: "I-Chiun eyes Nvidia Vera Rubin supply chain as thermal business nears half of sales"
-featured_url: "https://www.digitimes.com/news/a20260903PD226/i-chiun-business-nvidia-supply-chain-rubin.html"
-featured_source: "DigiTimes"
-featured_summary: "I-Chiun Precision Industry is accelerating its shift from LED lead frames into high-end thermal solutions, with thermal products now accounting for 40-45% of revenue. The company expects the share to exceed 50% as early as the second half of 2026 or in 2027 and to rise above 60% over the medium to long term."
-featured_image: "https://img.digitimes.com/newsshow/20260903pd226_files/2_b.jpg"
+featured_title: "LG Uplus forms alliance to develop modular AI data centers"
+featured_url: "https://www.techinasia.com/google-in-talks-with-lg-uplus-for-s-korea-data-center-sources"
+featured_source: "TechAsia"
+featured_summary: "The alliance is reviewing a 100MW hyperscale model and a retrofit plan."
+featured_image: ""
 ---
 
 <table class="news-table">
@@ -27,35 +27,51 @@ featured_image: "https://img.digitimes.com/newsshow/20260903pd226_files/2_b.jpg"
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">I-Chiun eyes Nvidia Vera Rubin supply chain as thermal business nears half of sales</span></td>
-  <td class="col-summary">I-Chiun Precision Industry is accelerating its shift from LED lead frames into high-end thermal solutions, with thermal products now accounting for 40-45% of revenue. The company expects the share to exceed 50% as early as the second half of 2026 or in 2027 and to rise above 60% over the medium to long term.</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD226/i-chiun-business-nvidia-supply-chain-rubin.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">LG Uplus forms alliance to develop modular AI data centers</span></td>
+  <td class="col-summary">The alliance is reviewing a 100MW hyperscale model and a retrofit plan.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/google-in-talks-with-lg-uplus-for-s-korea-data-center-sources" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TEL sees AI-driven packaging, memory demand reshaping Taiwan strategy</span></td>
-  <td class="col-summary">Tokyo Electron's Taiwan president said AI is pushing semiconductor demand into new areas, with advanced packaging, DRAM, high-bandwidth memory, and NAND flash all gaining momentum. He said Taiwan remains central to the industry's supply chain, and TEL plans to deepen local technology, service, and research ties.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD215/tokyo-electron-taiwan-packaging-demand-development.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">OpenAI says ‘wiki incident’ shows need for AI transparency</span></td>
+  <td class="col-summary">OpenAI said it is working with dozens of regulators worldwide.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-tests-safety-system-detect-risky-ai-behavior" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Hanmi's 2.5D bonders pass Taiwan foundry qualification as packaging outsourcing expands</span></td>
-  <td class="col-summary">South Korea's Hanmi Semiconductor has reportedly begun supplying 2.5D packaging bonders to an unnamed Taiwanese foundry after the equipment passed mass-production qualification, giving the company an important production foothold as Taiwan's advanced-packaging supply chain expands beyond foundry-owned lines.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260904VL217/packaging-hanmi-taiwan-outsourcing-production.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">India’s TCS plans $7.4b AI data center campus</span></td>
+  <td class="col-summary">The planned campus will span 264 acres and use liquid-cooled infrastructure.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/indias-tcs-tpg-partner-invest-2b-ai-data-centers" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: The pushback against AI songs is music to my ears</span></td>
-  <td class="col-summary">For Bloomberg Opinion's Dave Lee, music generated entirely by AI is an abomination and finding it placed by algorithms into a playlist is a “deeply violating experience”.</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">TWM, SYSTEX debut at smart building expo</span></td>
+  <td class="col-summary">Taiwan Mobile announced that it is participating for the first time with Systex in the "2026 Build for NextGen – International Sustainable Intelligent Building & Intelligent Materials Expo," where the two companies are jointly showcasing three smart and sustainable operations-management solutions: an AI digital twin sm</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/ai-generated-songs-pushback-spotify-tidal-suno-6362676" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD237/twm-management-systex-data-2026.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Tongtai doubles semiconductor orders on AI data-center demand</span></td>
+  <td class="col-summary">Facing rapid demand expansion across the semiconductor and AI industries, Tongtai Group (TT Group) has aggressively promoted an import-substitution and localization strategy in recent years. The group is extending its traditional machine tool expertise into hard and brittle material processing, advanced packaging, and </td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD230/demand-tongtai-equipment-expansion-packaging.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwan thermal supplier I-Chiun launches AI chip cooling venture targeting US$19.2B liquid-cooling market</span></td>
+  <td class="col-summary">I-Chiun Precision Industry and Taiwan's Industrial Technology Research Institute (ITRI) have established Huizhi Advanced, the country's first startup focused on AI chip thermal design, targeting a global liquid-cooling market expected to reach US$19.2 billion by 2030.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD239/taiwan-cooling-i-chiun-ai-chip-market.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
