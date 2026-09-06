@@ -1,36 +1,31 @@
 {
-  "date": "2026-09-05",
-  "count": 6,
+  "date": "2026-09-06",
+  "count": 4,
   "sources": [
-    "DigiTimes",
-    "TechAsia"
+    "CNA",
+    "DigiTimes"
   ],
-  "post_file": "2026-09-05-asia-tech-news-digest.md",
+  "post_file": "2026-09-06-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Micron plans to double HBM output as AI demand grows",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/micron-reports-q2-revenue-of-23-9b-tops-estimates"
-    },
-    {
-      "title": "Chinese chipmaker YMTC enters review for $4.6b IPO",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinese-chipmaker-ymtc-tops-kioxia-nand-shipments-report"
-    },
-    {
-      "title": "Moonshot AI files for up to $5b Hong Kong IPO",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinas-moonshot-ai-targets-50b-valuation"
-    },
-    {
-      "title": "Taiwan semiconductor output targets NT$8 trillion",
+      "title": "I-Chiun eyes Nvidia Vera Rubin supply chain as thermal business nears half of sales",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260904PD237/taiwan-semiconductors-equipment-development-moea-taipei.html"
+      "url": "https://www.digitimes.com/news/a20260903PD226/i-chiun-business-nvidia-supply-chain-rubin.html"
     },
     {
-      "title": "Topco targets optical comms, cooling as copper gives way",
+      "title": "TEL sees AI-driven packaging, memory demand reshaping Taiwan strategy",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260904PD235/topco-copper-cooling-ai-chip-transmission.html"
+      "url": "https://www.digitimes.com/news/a20260903PD215/tokyo-electron-taiwan-packaging-demand-development.html"
+    },
+    {
+      "title": "Hanmi's 2.5D bonders pass Taiwan foundry qualification as packaging outsourcing expands",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260904VL217/packaging-hanmi-taiwan-outsourcing-production.html"
+    },
+    {
+      "title": "Commentary: The pushback against AI songs is music to my ears",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/ai-generated-songs-pushback-spotify-tidal-suno-6362676"
     }
   ],
   "source_stats": [
@@ -47,9 +42,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -155,7 +150,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 28,
+      "relevant": 25,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -191,9 +186,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
