@@ -1,105 +1,102 @@
 [
   {
     "date": "2026-09-07",
-    "title": "Xiaomi warns of more India price hikes as AI squeezes the phone from both sides",
-    "summary": "The same AI boom that is filling handsets with new features is draining the memory supply that makes cheap phones possible—and in India, the world's second-largest smartphone market, buyers are paying for both. Xiaomi India's leadership told HT Tech that prices will keep climbing through the second half of 2026 as the ",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260907VL202/price-xiaomi-market-smartphone-2026.html"
-  },
-  {
-    "date": "2026-09-07",
-    "title": "Analysis: Under tariff threats, Taiwan chipmakers hedge beyond US",
-    "summary": "Taiwanese companies are only at the start of a broader overseas investment cycle, as Washington signals possible new semiconductor tariffs and Taipei moves to deepen industrial links with Europe, Japan, and ASEAN. Officials say the island's chipmakers are responding to pressure from the US, while also broadening their ",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260907PD205/taiwan-investment-europe-supply-chain-taipei.html"
-  },
-  {
-    "date": "2026-09-07",
-    "title": "India's TCS unit secures land in Hyderabad for planned 1GW AI data center campus",
-    "summary": "HyperVault, a Tata Consultancy Services (TCS) subsidiary, has secured 264 acres in Hyderabad to build a large AI data center campus capable of reaching 1GW of capacity. The project could strengthen India's role in global artificial intelligence infrastructure, while influencing jobs, energy demand, and digital supply c",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260907PR200/hyderabad-data-center-infrastructure-subsidiary-telangana.html"
-  },
-  {
-    "date": "2026-09-07",
-    "title": "The view from inside India’s AI boom",
-    "summary": "India’s AI boom looks different up close. Plus, our take on the AI benchmarking frenzy and a quick interview with Runable.",
+    "title": "Ambition, loops, and TikTok: An a16z guide to scaling AI",
+    "summary": "Andreessen Horowitz's Anish Acharya explains why AI's biggest risk is thinking too small, and why consumer products need engagement, not just efficiency.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/view-indias-ai-boom"
+    "url": "https://www.techinasia.com/ambition-loops-tiktok-a16z-guide-scaling-ai"
   },
   {
     "date": "2026-09-07",
-    "title": "Silicon Motion Targets Agentic AI Storage with MonTitan SSD Reference Design Kit",
-    "summary": "Silicon Motion's MonTitan SSD RDK targets predictable QoS and persistent storage for demanding Agentic AI workloads. The post Silicon Motion Targets Agentic AI Storage with MonTitan SSD Reference Design Kit appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "UK's IQE posts half-year profit on AI infrastructure demand",
+    "summary": "UK's IQE posts half-year profit on AI infrastructure demand",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.eetasia.com/silicon-motion-targets-agentic-ai-storage-with-montitan-ssd-reference-design-kit/"
+    "url": "https://www.channelnewsasia.com/business/uks-iqe-posts-half-year-profit-ai-infrastructure-demand-6366826"
   },
   {
     "date": "2026-09-07",
-    "title": "Manz Asia and SUSS Partner to Advance Inkjet Technology for Semiconductor Packaging",
-    "summary": "Strategic collaboration combines inkjet and semiconductor process expertise to accelerate scalable advanced packaging manufacturing solutions. The post Manz Asia and SUSS Partner to Advance Inkjet Technology for Semiconductor Packaging appeared first on EE Times Asia .",
+    "title": "Exclusive: Infineon COO says chip shortage recovery will take longer",
+    "summary": "Infineon COO Alexander Gorski told DIGITIMES in an exclusive interview at Semicon Taiwan 2026 that the current global chip shortage is unlike the one during Covid-19 and will take longer to resolve. He also discussed progress on Infineon's new Dresden plant, in-house manufacturing, outsourcing, and the company's global",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260907PD209/infineon-chip-shortage-manufacturing-capacity-digitimes.html"
+  },
+  {
+    "date": "2026-09-07",
+    "title": "Phison snaps up low-cost China NAND inventory, AI revenue share set to top 40%",
+    "summary": "Phison CEO K.S. Pua expects NAND Flash supply to remain tight into 2027 despite capacity expansion across major memory makers, arguing that forecasts of a rapid return to oversupply are \"too naive.\"",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260907PD211/phison-nand-flash-inventory-revenue.html"
+  },
+  {
+    "date": "2026-09-07",
+    "title": "Beyond STEM: Why Singapore tertiary institutions are putting more emphasis on arts and social sciences",
+    "summary": "As AI takes on more technical and routine tasks, educators are placing greater emphasis on creativity, critical thinking, communication, empathy and real-world problem solving.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/singapore/beyond-stem-singapore-tertiary-emphasis-arts-social-sciences-6362811"
+  },
+  {
+    "date": "2026-09-07",
+    "title": "China’s iFlytek launches Spark X2.5 AI model for coding and agents",
+    "summary": "It also open-sourced 4B and 1.7B on-device models supporting million-token contexts.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/bytedance-tops-chinas-tech-hiring-ai-jobs-surge-report"
+  },
+  {
+    "date": "2026-09-07",
+    "title": "DeepSeek plans to buy 160,000 Huawei chips as China aims to wean itself off Nvidia",
+    "summary": "DeepSeek is reportedly planning to purchase 160,000 Huawei chips for its large 1 GW data center currently under construction in the Chinese province of Inner Mongolia. This would make it among the largest clusters of Huawei chips deployed to date, as the Chinese authorities attempt to wean the country off Nvidia chips,",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260907VL212/deepseek-huawei-chips-nvidia-bloomberg.html"
+  },
+  {
+    "date": "2026-09-07",
+    "title": "SEMI: Global IC Equipment Billings Up 23% YoY in 2Q 2026",
+    "summary": "Global semiconductor equipment billings increased by 23% year-over-year to $40.53 billion in the second quarter of 2026. The post SEMI: Global IC Equipment Billings Up 23% YoY in 2Q 2026 appeared first on EE Times Asia .",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/manz-asia-and-suss-partner-to-advance-inkjet-technology-for-semiconductor-packaging/"
+    "url": "https://www.eetasia.com/semi-global-ic-equipment-billings-up-23-yoy-in-2q-2026/"
   },
   {
     "date": "2026-09-07",
-    "title": "Marelli and Microchip Advance Open Display Connectivity for Software-Defined Vehicles",
-    "summary": "Marelli and Microchip demonstrate ASA Motion Link connectivity to simplify scalable, secure display architectures for SDVs. The post Marelli and Microchip Advance Open Display Connectivity for Software-Defined Vehicles appeared first on EE Times Asia .",
+    "title": "Synopsys Strengthens CXL 4.0 IP for AI Memory Expansion",
+    "summary": "Synopsys expands its CXL 4.0 IP portfolio to address AI infrastructure’s growing memory capacity and bandwidth demands. The post Synopsys Strengthens CXL 4.0 IP for AI Memory Expansion appeared first on EE Times Asia .",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.eetasia.com/marelli-and-microchip-advance-open-display-connectivity-for-software-defined-vehicles/"
-  },
-  {
-    "date": "2026-09-07",
-    "title": "US and China eye Trump-Xi talks on AI guardrails despite tech rift",
-    "summary": "US and China eye Trump-Xi talks on AI guardrails despite tech rift",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-and-china-eye-trump-xi-talks-on-ai-guardrails-despite-tech-rift"
-  },
-  {
-    "date": "2026-09-07",
-    "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
-    "summary": "Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio",
-    "source": "KED Global",
-    "short": "KED",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001"
+    "url": "https://www.eetasia.com/synopsys-strengthens-cxl-4-0-ip-for-ai-memory-expansion/"
   },
   {
     "date": "2026-09-06",

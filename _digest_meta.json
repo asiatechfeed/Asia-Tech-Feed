@@ -2,38 +2,37 @@
   "date": "2026-09-07",
   "count": 9,
   "sources": [
+    "CNA",
     "DigiTimes",
     "EETAsia",
-    "KED",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-07-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Xiaomi warns of more India price hikes as AI squeezes the phone from both sides",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260907VL202/price-xiaomi-market-smartphone-2026.html"
-    },
-    {
-      "title": "Analysis: Under tariff threats, Taiwan chipmakers hedge beyond US",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260907PD205/taiwan-investment-europe-supply-chain-taipei.html"
-    },
-    {
-      "title": "India's TCS unit secures land in Hyderabad for planned 1GW AI data center campus",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260907PR200/hyderabad-data-center-infrastructure-subsidiary-telangana.html"
-    },
-    {
-      "title": "The view from inside India\u2019s AI boom",
+      "title": "Ambition, loops, and TikTok: An a16z guide to scaling AI",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/view-indias-ai-boom"
+      "url": "https://www.techinasia.com/ambition-loops-tiktok-a16z-guide-scaling-ai"
     },
     {
-      "title": "Silicon Motion Targets Agentic AI Storage with MonTitan SSD Reference Design Kit",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/silicon-motion-targets-agentic-ai-storage-with-montitan-ssd-reference-design-kit/"
+      "title": "UK's IQE posts half-year profit on AI infrastructure demand",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/uks-iqe-posts-half-year-profit-ai-infrastructure-demand-6366826"
+    },
+    {
+      "title": "Exclusive: Infineon COO says chip shortage recovery will take longer",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260907PD209/infineon-chip-shortage-manufacturing-capacity-digitimes.html"
+    },
+    {
+      "title": "Phison snaps up low-cost China NAND inventory, AI revenue share set to top 40%",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260907PD211/phison-nand-flash-inventory-revenue.html"
+    },
+    {
+      "title": "Beyond STEM: Why Singapore tertiary institutions are putting more emphasis on arts and social sciences",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/beyond-stem-singapore-tertiary-emphasis-arts-social-sciences-6362811"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -130,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -151,14 +150,14 @@
       "fetched": 10,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 29,
+      "fetched": 38,
+      "relevant": 30,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +168,7 @@
       "fetched": 50,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -178,7 +177,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -196,7 +195,7 @@
       "fetched": 36,
       "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
