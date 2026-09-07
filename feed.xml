@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-06T08:01:29+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 06, 2026</title><link href="https://asiatechfeed.com/2026/09/06/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 06, 2026" /><published>2026-09-06T08:00:47+00:00</published><updated>2026-09-06T08:00:47+00:00</updated><id>https://asiatechfeed.com/2026/09/06/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/06/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-07T00:04:35+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 07, 2026</title><link href="https://asiatechfeed.com/2026/09/07/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 07, 2026" /><published>2026-09-07T00:03:55+00:00</published><updated>2026-09-07T00:03:55+00:00</updated><id>https://asiatechfeed.com/2026/09/07/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/07/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">SK hynix ramps up DRAM production for AI memory</span></td>
+  <td class="col-summary">SK hynix said on its second-quarter earnings call that supply of 1c DRAM began in the second quarter.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-hynix-eyes-record-q2-profit-ai-memory-boom" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Eaton expands AI data center stack from grid to chip</span></td>
+  <td class="col-summary">As AI data centers scale rapidly, Eaton is expanding beyond traditional power management into modular power deployment, next-generation DC conversion and liquid cooling, positioning itself to address infrastructure requirements from the electrical grid to AI chips.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD227/eaton-power-supply-management-cooling-data-center-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Wah Lee sees faster growth in 2027 as supply stays tight</span></td>
+  <td class="col-summary">Wah Lee Industrial expects growth to accelerate in 2027 as advanced packaging capacity comes online and foundries continue building overseas fabs, while tight supplies of semiconductor materials and manufacturing equipment are likely to keep pricing elevated.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD231/growth-2027-2026-equipment-packaging.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Every Chinese CPU maker grew in 1H26 but only one grew on processors</span></td>
+  <td class="col-summary">Revenue rose at every Chinese chip company examined in the first half of 2026 amid the domestic-substitution push, but the interim filings show three quite different businesses hiding under one label. One has reached real scale and is now funding its expansion from the balance sheet rather than from operations. One is </td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903VL208/cpu-revenue-processor-profit-growth.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: Altman's Opaque AI Is creating a new security dilemma</span></td>
+  <td class="col-summary">Despite loud pledges to prioritise safety, the OpenAI CEO has fired the starting gun on a dangerous AI arms race, says Parmy Olson Bloomberg Opinion.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/openai-astra-model-danger-safety-6365581" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">South Korea to combine 5 utilities to prepare for AI, chip power demand</span></td>
+  <td class="col-summary">South Korea to combine 5 utilities to prepare for AI, chip power demand</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/politics/south-korea-to-combine-5-utilities-to-prepare-for-ai-chip-power-demand" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia SK hynix ramps up DRAM production for AI memory SK hynix said on its second-quarter earnings call that supply of 1c DRAM began in the second quarter. AI Read 2 DigiTimes Eaton expands AI data center stack from grid to chip As AI data centers scale rapidly, Eaton is expanding beyond traditional power management into modular power deployment, next-generation DC conversion and liquid cooling, positioning itself to address infrastructure requirements from the electrical grid to AI chips. AISemiconductor Read 3 DigiTimes Wah Lee sees faster growth in 2027 as supply stays tight Wah Lee Industrial expects growth to accelerate in 2027 as advanced packaging capacity comes online and foundries continue building overseas fabs, while tight supplies of semiconductor materials and manufacturing equipment are likely to keep pricing elevated. Semiconductor Read 4 DigiTimes Every Chinese CPU maker grew in 1H26 but only one grew on processors Revenue rose at every Chinese chip company examined in the first half of 2026 amid the domestic-substitution push, but the interim filings show three quite different businesses hiding under one label. One has reached real scale and is now funding its expansion from the balance sheet rather than from operations. One is Semiconductor Read 5 CNA Commentary: Altman's Opaque AI Is creating a new security dilemma Despite loud pledges to prioritise safety, the OpenAI CEO has fired the starting gun on a dangerous AI arms race, says Parmy Olson Bloomberg Opinion. AI Read 6 NikkeiAsia South Korea to combine 5 utilities to prepare for AI, chip power demand South Korea to combine 5 utilities to prepare for AI, chip power demand Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 06, 2026</title><link href="https://asiatechfeed.com/2026/09/06/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 06, 2026" /><published>2026-09-06T08:00:47+00:00</published><updated>2026-09-06T08:00:47+00:00</updated><id>https://asiatechfeed.com/2026/09/06/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/06/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -598,73 +659,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260828PD205/nvidia-ai-demand-earnings-forecast.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 SemiEng Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford) Researchers at the University of Oxford published a technical paper titled “Hardware-Managed Heterogeneous High-Bandwidth Memory and Flash in LLM Inference Systems.” Abstract Excerpt: “ High-Bandwidth Flash (HBF) offers a denser alternative, providing 16x more capacity per stack at comparable bandwidth. In this work, w Semiconductor Read 2 DigiTimes Huawei's Ascend 910C sold out in China, but Nvidia's H200 supply gap persists Huawei's Ascend 910C is already sold out in China, but domestic chips still cannot fully replace Nvidia's H200s. The shortage matters beyond China because AI compute constraints, pricing, and supply chain shifts are reshaping how quickly companies worldwide can deploy advanced inference systems. AISemiconductorLogistics Read 3 DigiTimes Nvidia forms PAC to expand Washington lobbying According to Bloomberg , Nvidia has formed a federal political action committee (PAC), expanding its Washington presence as governments debate artificial intelligence rules that could affect businesses, workers, and consumers worldwide. The move underscores how major technology firms are preparing for a longer policy b AI Read 4 DigiTimes Nvidia's upbeat outlook points to tighter AI supply chains ahead Nvidia's latest earnings and forecast suggest AI demand remains far ahead of available supply, with implications for memory, power, cooling, and networking worldwide. The chipmaker's guidance points to continued price pressure and a broader buildout of infrastructure that will shape AI adoption across markets and indus AISemiconductorLogistics Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - August 29, 2026</title><link href="https://asiatechfeed.com/2026/08/29/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - August 29, 2026" /><published>2026-08-29T08:00:45+00:00</published><updated>2026-08-29T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/08/29/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/08/29/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Tencent unveils AI model it says outperforms Z.ai, Moonshot</span></td>
-  <td class="col-summary">Tencent demonstrated Hy4 Preview for game creation, 3D web design, and accounting compliance.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/tencent-cloud-expands-ai-agent-suite-indonesia" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Blue Owl leads $2.4b debt deal to fund IREN’s Nvidia chips</span></td>
-  <td class="col-summary">The debt package carries a 9% interest rate and matures in two and a half years.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/microsoft-to-buy-nearly-9-7b-ai-cloud-capacity-from-australian-firm" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">China’s CXMT revenue soars as AI lifts memory prices</span></td>
-  <td class="col-summary">CXMT has delivered its next-generation LPDDR6 chips to customers for validation.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/tencent-cxmt-sign-multiyear-29b-dram-deal" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk</span></td>
-  <td class="col-summary">OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/openai-cut-ai-models-spacex-owned-cursor-escalating-feud-musk-6348951" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Apple's M6 marks a transitional step before wider 2nm adoption</span></td>
-  <td class="col-summary">Apple on August 25 unveiled the M6 and M5 Ultra chips without holding a launch event, with the M6 becoming the company's first processor built on TSMC's 2nm process and debuting in the new Mac mini. But industry watchers say the M6's short-term significance lies mainly in showcasing 2nm design technology, not in delive</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260828PD233/apple-chips-mac-mini-performance-capacity.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">China chip profits jump 18.5-fold on AI demand; advanced-node self-sufficiency seen at 66% by 2035</span></td>
-  <td class="col-summary">China's AI investment boom is translating into sharply higher semiconductor profits while accelerating a longer-term expansion of domestic advanced-node capacity, memory production and chipmaking equipment.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260828VL205/demand-2035-self-sufficiency-investment-capacity.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Jingwei Hirain targets Malaysia, ASEAN smart mobility supply chains</span></td>
-  <td class="col-summary">China's largest domestic Tier 1 auto parts supplier, Jingwei Hirain, is stepping up its push into Malaysia and the ASEAN market, with President Chengjian Fan saying the region will become an important window for auto supply chain planning over the next 3-5 years.</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260828PD219/asean-tier-1-market-sales-supply-chain.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Tencent unveils AI model it says outperforms Z.ai, Moonshot Tencent demonstrated Hy4 Preview for game creation, 3D web design, and accounting compliance. AI Read 2 TechAsia Blue Owl leads $2.4b debt deal to fund IREN’s Nvidia chips The debt package carries a 9% interest rate and matures in two and a half years. Semiconductor Read 3 TechAsia China’s CXMT revenue soars as AI lifts memory prices CXMT has delivered its next-generation LPDDR6 chips to customers for validation. AISemiconductor Read 4 CNA OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk AI Read 5 DigiTimes Apple's M6 marks a transitional step before wider 2nm adoption Apple on August 25 unveiled the M6 and M5 Ultra chips without holding a launch event, with the M6 becoming the company's first processor built on TSMC's 2nm process and debuting in the new Mac mini. But industry watchers say the M6's short-term significance lies mainly in showcasing 2nm design technology, not in delive Semiconductor Read 6 DigiTimes China chip profits jump 18.5-fold on AI demand; advanced-node self-sufficiency seen at 66% by 2035 China's AI investment boom is translating into sharply higher semiconductor profits while accelerating a longer-term expansion of domestic advanced-node capacity, memory production and chipmaking equipment. SemiconductorAI Read 7 DigiTimes Jingwei Hirain targets Malaysia, ASEAN smart mobility supply chains China's largest domestic Tier 1 auto parts supplier, Jingwei Hirain, is stepping up its push into Malaysia and the ASEAN market, with President Chengjian Fan saying the region will become an important window for auto supply chain planning over the next 3-5 years. Logistics Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 SemiEng Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford) Researchers at the University of Oxford published a technical paper titled “Hardware-Managed Heterogeneous High-Bandwidth Memory and Flash in LLM Inference Systems.” Abstract Excerpt: “ High-Bandwidth Flash (HBF) offers a denser alternative, providing 16x more capacity per stack at comparable bandwidth. In this work, w Semiconductor Read 2 DigiTimes Huawei's Ascend 910C sold out in China, but Nvidia's H200 supply gap persists Huawei's Ascend 910C is already sold out in China, but domestic chips still cannot fully replace Nvidia's H200s. The shortage matters beyond China because AI compute constraints, pricing, and supply chain shifts are reshaping how quickly companies worldwide can deploy advanced inference systems. AISemiconductorLogistics Read 3 DigiTimes Nvidia forms PAC to expand Washington lobbying According to Bloomberg , Nvidia has formed a federal political action committee (PAC), expanding its Washington presence as governments debate artificial intelligence rules that could affect businesses, workers, and consumers worldwide. The move underscores how major technology firms are preparing for a longer policy b AI Read 4 DigiTimes Nvidia's upbeat outlook points to tighter AI supply chains ahead Nvidia's latest earnings and forecast suggest AI demand remains far ahead of available supply, with implications for memory, power, cooling, and networking worldwide. The chipmaker's guidance points to continued price pressure and a broader buildout of infrastructure that will shape AI adoption across markets and indus AISemiconductorLogistics Read]]></summary></entry></feed>
