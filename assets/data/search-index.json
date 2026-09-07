@@ -1,5 +1,72 @@
 [
   {
+    "date": "2026-09-07",
+    "title": "SK hynix ramps up DRAM production for AI memory",
+    "summary": "SK hynix said on its second-quarter earnings call that supply of 1c DRAM began in the second quarter.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/sk-hynix-eyes-record-q2-profit-ai-memory-boom"
+  },
+  {
+    "date": "2026-09-07",
+    "title": "Eaton expands AI data center stack from grid to chip",
+    "summary": "As AI data centers scale rapidly, Eaton is expanding beyond traditional power management into modular power deployment, next-generation DC conversion and liquid cooling, positioning itself to address infrastructure requirements from the electrical grid to AI chips.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260903PD227/eaton-power-supply-management-cooling-data-center-infrastructure.html"
+  },
+  {
+    "date": "2026-09-07",
+    "title": "Wah Lee sees faster growth in 2027 as supply stays tight",
+    "summary": "Wah Lee Industrial expects growth to accelerate in 2027 as advanced packaging capacity comes online and foundries continue building overseas fabs, while tight supplies of semiconductor materials and manufacturing equipment are likely to keep pricing elevated.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260903PD231/growth-2027-2026-equipment-packaging.html"
+  },
+  {
+    "date": "2026-09-07",
+    "title": "Every Chinese CPU maker grew in 1H26 but only one grew on processors",
+    "summary": "Revenue rose at every Chinese chip company examined in the first half of 2026 amid the domestic-substitution push, but the interim filings show three quite different businesses hiding under one label. One has reached real scale and is now funding its expansion from the balance sheet rather than from operations. One is ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260903VL208/cpu-revenue-processor-profit-growth.html"
+  },
+  {
+    "date": "2026-09-07",
+    "title": "Commentary: Altman's Opaque AI Is creating a new security dilemma",
+    "summary": "Despite loud pledges to prioritise safety, the OpenAI CEO has fired the starting gun on a dangerous AI arms race, says Parmy Olson Bloomberg Opinion.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/openai-astra-model-danger-safety-6365581"
+  },
+  {
+    "date": "2026-09-07",
+    "title": "South Korea to combine 5 utilities to prepare for AI, chip power demand",
+    "summary": "South Korea to combine 5 utilities to prepare for AI, chip power demand",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/politics/south-korea-to-combine-5-utilities-to-prepare-for-ai-chip-power-demand"
+  },
+  {
     "date": "2026-09-06",
     "title": "Foxconn expects Q3 to beat forecasts on AI demand",
     "summary": "August revenue hit a record high, topping T$900 billion (US$28.48 billion) for the second month in a row.",

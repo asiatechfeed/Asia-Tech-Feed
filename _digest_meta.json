@@ -1,37 +1,38 @@
 {
-  "date": "2026-09-06",
-  "count": 5,
+  "date": "2026-09-07",
+  "count": 6,
   "sources": [
+    "CNA",
     "DigiTimes",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-09-06-asia-tech-news-digest.md",
+  "post_file": "2026-09-07-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Foxconn expects Q3 to beat forecasts on AI demand",
+      "title": "SK hynix ramps up DRAM production for AI memory",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/foxconn-sees-ai-demand-driving-growth-in-2026"
+      "url": "https://www.techinasia.com/sk-hynix-eyes-record-q2-profit-ai-memory-boom"
     },
     {
-      "title": "Taiwan chip equipment maker Scientech sees orders into 2028, may turn away customers in 2027",
+      "title": "Eaton expands AI data center stack from grid to chip",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260903PD236/equipment-taiwan-2027-2028-demand.html"
+      "url": "https://www.digitimes.com/news/a20260903PD227/eaton-power-supply-management-cooling-data-center-infrastructure.html"
     },
     {
-      "title": "G20 AI agenda: US champions light-touch regulation while data center backlash, China rivalry intensify",
+      "title": "Wah Lee sees faster growth in 2027 as supply stays tight",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260903PD233/g20-regulation-data-ceo-technology.html"
+      "url": "https://www.digitimes.com/news/a20260903PD231/growth-2027-2026-equipment-packaging.html"
     },
     {
-      "title": "Trumpf CTO says advanced packaging reshapes semiconductor equipment race",
+      "title": "Every Chinese CPU maker grew in 1H26 but only one grew on processors",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260903PD238/packaging-equipment-demand-technology-semiconductor-industry.html"
+      "url": "https://www.digitimes.com/news/a20260903VL208/cpu-revenue-processor-profit-growth.html"
     },
     {
-      "title": "BRICS Summit, Okinawa election, Philippines AI plan",
-      "source": "NikkeiAsia",
-      "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/brics-summit-okinawa-election-philippines-ai-plan"
+      "title": "Commentary: Altman's Opaque AI Is creating a new security dilemma",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/openai-astra-model-danger-safety-6365581"
     }
   ],
   "source_stats": [
@@ -50,7 +51,7 @@
       "fetched": 20,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -156,7 +157,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 25,
+      "relevant": 29,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,7 +166,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 4,
+      "relevant": 5,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
