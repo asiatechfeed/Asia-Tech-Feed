@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - September 07, 2026"
-date: 2026-09-07 08:03:55 +0800
-articles_count: 6
-sources_count: 4
-sources: ["CNA", "DigiTimes", "NikkeiAsia", "TechAsia"]
+date: 2026-09-07 12:12:57 +0800
+articles_count: 9
+sources_count: 5
+sources: ["DigiTimes", "EETAsia", "KED", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-09-07.tsv
-featured_title: "SK hynix ramps up DRAM production for AI memory"
-featured_url: "https://www.techinasia.com/sk-hynix-eyes-record-q2-profit-ai-memory-boom"
-featured_source: "TechAsia"
-featured_summary: "SK hynix said on its second-quarter earnings call that supply of 1c DRAM began in the second quarter."
-featured_image: ""
+featured_title: "Xiaomi warns of more India price hikes as AI squeezes the phone from both sides"
+featured_url: "https://www.digitimes.com/news/a20260907VL202/price-xiaomi-market-smartphone-2026.html"
+featured_source: "DigiTimes"
+featured_summary: "The same AI boom that is filling handsets with new features is draining the memory supply that makes cheap phones possible\u2014and in India, the world's second-largest smartphone market, buyers are paying for both. Xiaomi India's leadership told HT Tech that prices will keep climbing through the second half of 2026 as the "
+featured_image: "https://img.digitimes.com/newsshow/20260907vl202_files/2_b.jpg"
 ---
 
 <table class="news-table">
@@ -27,51 +27,75 @@ featured_image: ""
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SK hynix ramps up DRAM production for AI memory</span></td>
-  <td class="col-summary">SK hynix said on its second-quarter earnings call that supply of 1c DRAM began in the second quarter.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-hynix-eyes-record-q2-profit-ai-memory-boom" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Xiaomi warns of more India price hikes as AI squeezes the phone from both sides</span></td>
+  <td class="col-summary">The same AI boom that is filling handsets with new features is draining the memory supply that makes cheap phones possible—and in India, the world's second-largest smartphone market, buyers are paying for both. Xiaomi India's leadership told HT Tech that prices will keep climbing through the second half of 2026 as the </td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260907VL202/price-xiaomi-market-smartphone-2026.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Eaton expands AI data center stack from grid to chip</span></td>
-  <td class="col-summary">As AI data centers scale rapidly, Eaton is expanding beyond traditional power management into modular power deployment, next-generation DC conversion and liquid cooling, positioning itself to address infrastructure requirements from the electrical grid to AI chips.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD227/eaton-power-supply-management-cooling-data-center-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Analysis: Under tariff threats, Taiwan chipmakers hedge beyond US</span></td>
+  <td class="col-summary">Taiwanese companies are only at the start of a broader overseas investment cycle, as Washington signals possible new semiconductor tariffs and Taipei moves to deepen industrial links with Europe, Japan, and ASEAN. Officials say the island's chipmakers are responding to pressure from the US, while also broadening their </td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260907PD205/taiwan-investment-europe-supply-chain-taipei.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Wah Lee sees faster growth in 2027 as supply stays tight</span></td>
-  <td class="col-summary">Wah Lee Industrial expects growth to accelerate in 2027 as advanced packaging capacity comes online and foundries continue building overseas fabs, while tight supplies of semiconductor materials and manufacturing equipment are likely to keep pricing elevated.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903PD231/growth-2027-2026-equipment-packaging.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">India's TCS unit secures land in Hyderabad for planned 1GW AI data center campus</span></td>
+  <td class="col-summary">HyperVault, a Tata Consultancy Services (TCS) subsidiary, has secured 264 acres in Hyderabad to build a large AI data center campus capable of reaching 1GW of capacity. The project could strengthen India's role in global artificial intelligence infrastructure, while influencing jobs, energy demand, and digital supply c</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260907PR200/hyderabad-data-center-infrastructure-subsidiary-telangana.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Every Chinese CPU maker grew in 1H26 but only one grew on processors</span></td>
-  <td class="col-summary">Revenue rose at every Chinese chip company examined in the first half of 2026 amid the domestic-substitution push, but the interim filings show three quite different businesses hiding under one label. One has reached real scale and is now funding its expansion from the balance sheet rather than from operations. One is </td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903VL208/cpu-revenue-processor-profit-growth.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">The view from inside India’s AI boom</span></td>
+  <td class="col-summary">India’s AI boom looks different up close. Plus, our take on the AI benchmarking frenzy and a quick interview with Runable.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/view-indias-ai-boom" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: Altman's Opaque AI Is creating a new security dilemma</span></td>
-  <td class="col-summary">Despite loud pledges to prioritise safety, the OpenAI CEO has fired the starting gun on a dangerous AI arms race, says Parmy Olson Bloomberg Opinion.</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Silicon Motion Targets Agentic AI Storage with MonTitan SSD Reference Design Kit</span></td>
+  <td class="col-summary">Silicon Motion's MonTitan SSD RDK targets predictable QoS and persistent storage for demanding Agentic AI workloads. The post Silicon Motion Targets Agentic AI Storage with MonTitan SSD Reference Design Kit appeared first on EE Times Asia .</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/openai-astra-model-danger-safety-6365581" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/silicon-motion-targets-agentic-ai-storage-with-montitan-ssd-reference-design-kit/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">South Korea to combine 5 utilities to prepare for AI, chip power demand</span></td>
-  <td class="col-summary">South Korea to combine 5 utilities to prepare for AI, chip power demand</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Manz Asia and SUSS Partner to Advance Inkjet Technology for Semiconductor Packaging</span></td>
+  <td class="col-summary">Strategic collaboration combines inkjet and semiconductor process expertise to accelerate scalable advanced packaging manufacturing solutions. The post Manz Asia and SUSS Partner to Advance Inkjet Technology for Semiconductor Packaging appeared first on EE Times Asia .</td>
   <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/politics/south-korea-to-combine-5-utilities-to-prepare-for-ai-chip-power-demand" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/manz-asia-and-suss-partner-to-advance-inkjet-technology-for-semiconductor-packaging/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Marelli and Microchip Advance Open Display Connectivity for Software-Defined Vehicles</span></td>
+  <td class="col-summary">Marelli and Microchip demonstrate ASA Motion Link connectivity to simplify scalable, secure display architectures for SDVs. The post Marelli and Microchip Advance Open Display Connectivity for Software-Defined Vehicles appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/marelli-and-microchip-advance-open-display-connectivity-for-software-defined-vehicles/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">US and China eye Trump-Xi talks on AI guardrails despite tech rift</span></td>
+  <td class="col-summary">US and China eye Trump-Xi talks on AI guardrails despite tech rift</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/us-and-china-eye-trump-xi-talks-on-ai-guardrails-despite-tech-rift" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">Go master Shin cracks AI barrier with win over KataGo, sets up series decider</span></td>
+  <td class="col-summary">Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>

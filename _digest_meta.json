@@ -1,38 +1,39 @@
 {
   "date": "2026-09-07",
-  "count": 6,
+  "count": 9,
   "sources": [
-    "CNA",
     "DigiTimes",
+    "EETAsia",
+    "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-07-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "SK hynix ramps up DRAM production for AI memory",
+      "title": "Xiaomi warns of more India price hikes as AI squeezes the phone from both sides",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260907VL202/price-xiaomi-market-smartphone-2026.html"
+    },
+    {
+      "title": "Analysis: Under tariff threats, Taiwan chipmakers hedge beyond US",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260907PD205/taiwan-investment-europe-supply-chain-taipei.html"
+    },
+    {
+      "title": "India's TCS unit secures land in Hyderabad for planned 1GW AI data center campus",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260907PR200/hyderabad-data-center-infrastructure-subsidiary-telangana.html"
+    },
+    {
+      "title": "The view from inside India\u2019s AI boom",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/sk-hynix-eyes-record-q2-profit-ai-memory-boom"
+      "url": "https://www.techinasia.com/view-indias-ai-boom"
     },
     {
-      "title": "Eaton expands AI data center stack from grid to chip",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260903PD227/eaton-power-supply-management-cooling-data-center-infrastructure.html"
-    },
-    {
-      "title": "Wah Lee sees faster growth in 2027 as supply stays tight",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260903PD231/growth-2027-2026-equipment-packaging.html"
-    },
-    {
-      "title": "Every Chinese CPU maker grew in 1H26 but only one grew on processors",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260903VL208/cpu-revenue-processor-profit-growth.html"
-    },
-    {
-      "title": "Commentary: Altman's Opaque AI Is creating a new security dilemma",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/openai-astra-model-danger-safety-6365581"
+      "title": "Silicon Motion Targets Agentic AI Storage with MonTitan SSD Reference Design Kit",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/silicon-motion-targets-agentic-ai-storage-with-montitan-ssd-reference-design-kit/"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -148,9 +149,9 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 3,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -177,7 +178,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
