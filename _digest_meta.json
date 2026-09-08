@@ -1,38 +1,37 @@
 {
   "date": "2026-09-08",
-  "count": 7,
+  "count": 9,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "NikkeiAsia",
+    "EETAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-08-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "US tech firms eye Australia for AI data centers",
+      "title": "Samsung SDS expands OpenAI, Anthropic partnerships for AI push",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/google-airtrunk-add-solar-power-ai-demand"
+      "url": "https://www.techinasia.com/samsung-sds-expands-chatgpt-enterprise-client-base-in-korea"
     },
     {
-      "title": "SK Hynix weighs Gwangju investment as Yongin buildout continues",
+      "title": "OpenAI to contract AI compute from Firmus\u2019 Malaysia sites",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/nvidia-backed-australian-ai-firm-firmus-eyes-ipo-after-gpu-deal"
+    },
+    {
+      "title": "Samsung allocates more than half of 4nm foundry capacity to HBM4",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260907VL209/sk-hynix-investment-equipment-infrastructure-development.html"
+      "url": "https://www.digitimes.com/news/a20260908VL205/samsung-hbm4-capacity-4nm-hbm.html"
     },
     {
-      "title": "SST market grows 32% as global players race to secure position",
+      "title": "Chicony targets 2027 robot startup shipments as notebook sales soften",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260907PD229/ai-server-market-data-center-infrastructure-data.html"
+      "url": "https://www.digitimes.com/news/a20260908PD208/chicony-2026-startup-robot-revenue.html"
     },
     {
-      "title": "TSMC's Germany fab draws Leipzig University rector to Taiwan",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260907PD238/tsmc-germany-taiwan-fab-investment.html"
-    },
-    {
-      "title": "Commentary: Why America\u2019s debt binge is starting to matter",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/us-national-debt-threatens-ai-market-boom-6367086"
+      "title": "ByteDance eyes real-time spatial AI model launch next month",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/bytedance-releases-seedance-25-multiinput-ai-video"
     }
   ],
   "source_stats": [
@@ -49,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -148,16 +147,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 25,
+      "fetched": 37,
+      "relevant": 26,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +167,7 @@
       "fetched": 50,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -193,9 +192,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 11,
+      "relevant": 16,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
