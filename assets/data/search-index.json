@@ -1,80 +1,107 @@
 [
   {
     "date": "2026-09-08",
-    "title": "US tech firms eye Australia for AI data centers",
-    "summary": "None of the 9 gigawatts of proposed data-center capacity had been commissioned by June.",
+    "title": "Samsung SDS expands OpenAI, Anthropic partnerships for AI push",
+    "summary": "The company said it would become the first South Korean company to join OpenAI’s Daybreak Partner Program.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/google-airtrunk-add-solar-power-ai-demand"
+    "url": "https://www.techinasia.com/samsung-sds-expands-chatgpt-enterprise-client-base-in-korea"
   },
   {
     "date": "2026-09-08",
-    "title": "SK Hynix weighs Gwangju investment as Yongin buildout continues",
-    "summary": "SK Hynix is considering accelerating investment in South Korea's planned Gwangju semiconductor cluster so that development proceeds alongside its ongoing Yongin buildout, rather than waiting for Yongin to advance further, according to Dealsite , citing industry sources. The potential overlap is raising a key question f",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260907VL209/sk-hynix-investment-equipment-infrastructure-development.html"
-  },
-  {
-    "date": "2026-09-08",
-    "title": "SST market grows 32% as global players race to secure position",
-    "summary": "As AI server computing power and per-rack power density continue to rise, traditional 54VDC power architectures are hitting bottlenecks such as excessive current, higher copper usage, and greater transmission losses. This is pushing next-generation AI data center power designs toward 800V high-voltage direct current (H",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260907PD229/ai-server-market-data-center-infrastructure-data.html"
-  },
-  {
-    "date": "2026-09-08",
-    "title": "TSMC's Germany fab draws Leipzig University rector to Taiwan",
-    "summary": "TSMC's investment in a fab in Germany's Free State of Saxony has drawn close attention from across Europe. Eva Ins Obergfell, Rector of Leipzig University, one of Germany's leading universities, recently visited Taiwan and toured National Taiwan University and National Tsing Hua University, among others, to explore ide",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260907PD238/tsmc-germany-taiwan-fab-investment.html"
-  },
-  {
-    "date": "2026-09-08",
-    "title": "Commentary: Why America’s debt binge is starting to matter",
-    "summary": "If long-term interest rates decisively breach the 5 per cent threshold, the impact could derail the AI boom, says Ruchir Sharma for the Financial Times.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/commentary/us-national-debt-threatens-ai-market-boom-6367086"
-  },
-  {
-    "date": "2026-09-08",
-    "title": "HSA registers healthtech firm Oral Link’s AI dental tool",
-    "summary": "Oral Link, a Singapore-based dental AI startup, said the product is Singapore’s first HSA-registered AI dental screening tool for direct consumer use.",
+    "title": "OpenAI to contract AI compute from Firmus’ Malaysia sites",
+    "summary": "Firmus’ contracted AI capacity across customers now exceeds 900 MW.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/openai-microsoft-sued-by-estate-in-connecticut-case"
+    "url": "https://www.techinasia.com/nvidia-backed-australian-ai-firm-firmus-eyes-ipo-after-gpu-deal"
   },
   {
     "date": "2026-09-08",
-    "title": "Huawei unveils first triple-fold phone with 'US-free' core chips",
-    "summary": "Huawei unveils first triple-fold phone with 'US-free' core chips",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "Samsung allocates more than half of 4nm foundry capacity to HBM4",
+    "summary": "Samsung Electronics is allocating more than half of its 4nm foundry capacity to base dies for sixth-generation high-bandwidth memory (HBM4) as it accelerates shipments to major AI chip customers. The share is estimated at 50–60% as of August, according to ZDNet Korea .",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260908VL205/samsung-hbm4-capacity-4nm-hbm.html"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "Chicony targets 2027 robot startup shipments as notebook sales soften",
+    "summary": "Chicony Electronics said August 2026 revenue came under pressure as higher raw-material costs and shortages of key semiconductor components slowed customer orders, with notebook shipments weakening in particular. The Taiwan-based supplier also said it had secured an exclusive position in the supply chain of a well-know",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Electronics",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260908PD208/chicony-2026-startup-robot-revenue.html"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "ByteDance eyes real-time spatial AI model launch next month",
+    "summary": "The system could reportedly run at 20 frames per second with 0.05 seconds of latency.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/bytedance-releases-seedance-25-multiinput-ai-video"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "Malaysia weighs Huawei Ascend 910C for MYR2 billion sovereign AI cloud",
+    "summary": "Malaysia is evaluating Huawei Technologies' Ascend 910C accelerators as the compute backbone of its MYR2 billion (US$494 million) sovereign AI initiative, which is designed to keep national data under domestic control, Bloomberg reported on Sept. 7, citing people familiar with the matter. The number of chips under cons",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260908VL202/huawei-ascend-nvidia-technology-chips.html"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "proteanTecs, MegaChips Target Deeper Silicon Visibility for Next-gen ASICs",
+    "summary": "The collaboration combines embedded monitoring and analytics with MegaChips' design expertise to improve ASIC performance, reliability and yield. The post proteanTecs, MegaChips Target Deeper Silicon Visibility for Next-gen ASICs appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://asia.nikkei.com/business/electronics/huawei-unveils-first-triple-fold-phone-with-us-free-core-chips"
+    "url": "https://www.eetasia.com/proteantecs-megachips-target-deeper-silicon-visibility-for-next-gen-asics/"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "Global Chip Sales Up 6.4% in July",
+    "summary": "Global chip sales reached $146.8 billion in July, up by 6.4% compared to the previous month and by 135.1% YoY, according to SIA. The post Global Chip Sales Up 6.4% in July appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/global-chip-sales-up-6-4-in-july/"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "Nvidia Eyes Rebellions as Its Strategic Push into AI Inference Accelerates",
+    "summary": "Nvidia's reported talks with Rebellions highlight its growing urgency to strengthen capabilities in memory-centric AI inference. The post Nvidia Eyes Rebellions as Its Strategic Push into AI Inference Accelerates appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/nvidia-eyes-rebellions-as-its-strategic-push-into-ai-inference-accelerates/"
   },
   {
     "date": "2026-09-07",
