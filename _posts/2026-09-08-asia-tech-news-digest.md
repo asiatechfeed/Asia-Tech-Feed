@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - September 08, 2026"
-date: 2026-09-08 12:13:50 +0800
-articles_count: 9
+date: 2026-09-08 16:00:44 +0800
+articles_count: 7
 sources_count: 3
-sources: ["DigiTimes", "EETAsia", "TechAsia"]
+sources: ["CNA", "DigiTimes", "TechAsia"]
 csv_file: /assets/data/news-2026-09-08.tsv
-featured_title: "Samsung SDS expands OpenAI, Anthropic partnerships for AI push"
-featured_url: "https://www.techinasia.com/samsung-sds-expands-chatgpt-enterprise-client-base-in-korea"
-featured_source: "TechAsia"
-featured_summary: "The company said it would become the first South Korean company to join OpenAI\u2019s Daybreak Partner Program."
-featured_image: ""
+featured_title: "AI can now help make entire films. What does that mean for Singapore\u2019s film industry?"
+featured_url: "https://www.channelnewsasia.com/singapore/ai-films-what-does-it-mean-singapore-film-industry-6367711"
+featured_source: "CNA"
+featured_summary: "As Singapore creators experiment with AI in filmmaking, questions are emerging over what it could mean for human creativity, jobs and authorship."
+featured_image: "https://dam.mediacorp.sg/image/upload/s--BMj-TYe9--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/07/pic-2-crooks.png?itok=mSl4E0YB"
 ---
 
 <table class="news-table">
@@ -27,75 +27,59 @@ featured_image: ""
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Samsung SDS expands OpenAI, Anthropic partnerships for AI push</span></td>
-  <td class="col-summary">The company said it would become the first South Korean company to join OpenAI’s Daybreak Partner Program.</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">AI can now help make entire films. What does that mean for Singapore’s film industry?</span></td>
+  <td class="col-summary">As Singapore creators experiment with AI in filmmaking, questions are emerging over what it could mean for human creativity, jobs and authorship.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/samsung-sds-expands-chatgpt-enterprise-client-base-in-korea" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/ai-films-what-does-it-mean-singapore-film-industry-6367711" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">OpenAI to contract AI compute from Firmus’ Malaysia sites</span></td>
-  <td class="col-summary">Firmus’ contracted AI capacity across customers now exceeds 900 MW.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-backed-australian-ai-firm-firmus-eyes-ipo-after-gpu-deal" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Samsung boosts Galaxy A series output as rivals cut lower-end phones</span></td>
+  <td class="col-summary">Samsung Electronics has moved to expand production of mid- to low-end smartphones from August to November 2026, according to South Korean media Maeil Business Newspaper . The plan comes as rising memory chip prices are forcing other handset makers to pull back on lower-margin models, and Samsung is looking to use the s</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260908PD225/samsung-production-galaxy-2026-shipments.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung allocates more than half of 4nm foundry capacity to HBM4</span></td>
-  <td class="col-summary">Samsung Electronics is allocating more than half of its 4nm foundry capacity to base dies for sixth-generation high-bandwidth memory (HBM4) as it accelerates shipments to major AI chip customers. The share is estimated at 50–60% as of August, according to ZDNet Korea .</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260908VL205/samsung-hbm4-capacity-4nm-hbm.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">OpenAI, Tenable unveil AI agent security review</span></td>
+  <td class="col-summary">Tenable said the process combines OpenAI GPT cyber models, skills inspection powered by Tenable One AI Exposure, and reviews by Tenable researchers.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/cybersecurity-stocks-fall-anthropic-tool-sparks-ai-fears" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Chicony targets 2027 robot startup shipments as notebook sales soften</span></td>
-  <td class="col-summary">Chicony Electronics said August 2026 revenue came under pressure as higher raw-material costs and shortages of key semiconductor components slowed customer orders, with notebook shipments weakening in particular. The Taiwan-based supplier also said it had secured an exclusive position in the supply chain of a well-know</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260908PD208/chicony-2026-startup-robot-revenue.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">ChenFull Precision expands from defense and semiconductor equipment into quantum computing</span></td>
+  <td class="col-summary">ChenFull Precision has expanded rapidly in recent years from traditional precision manufacturing operations such as welding and surface treatment into the semiconductor process equipment supply chain. Its overall business portfolio is also shifting increasingly toward semiconductors, with the company formally reclassif</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260908PD219/equipment-quantum-computing-business-revenue-production.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">ByteDance eyes real-time spatial AI model launch next month</span></td>
-  <td class="col-summary">The system could reportedly run at 20 frames per second with 0.05 seconds of latency.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/bytedance-releases-seedance-25-multiinput-ai-video" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">ASML lines up Intel, TSMC and Samsung behind 12-inch masks — TSMC alone sets a timeline</span></td>
+  <td class="col-summary">ASML issued joint statements with Intel Foundry, TSMC and Samsung Electronics on September 8, converging the three leading-edge chipmakers on a transition from the semiconductor industry's decades-old 6-inch photomask to a larger 12-inch format for High NA EUV lithography. Only TSMC attached a schedule to it.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260908VL208/tsmc-asml-12-inch-production-6-inch.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Malaysia weighs Huawei Ascend 910C for MYR2 billion sovereign AI cloud</span></td>
-  <td class="col-summary">Malaysia is evaluating Huawei Technologies' Ascend 910C accelerators as the compute backbone of its MYR2 billion (US$494 million) sovereign AI initiative, which is designed to keep national data under domestic control, Bloomberg reported on Sept. 7, citing people familiar with the matter. The number of chips under cons</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260908VL202/huawei-ascend-nvidia-technology-chips.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">NTT Data expands AI platform for global infrastructure</span></td>
+  <td class="col-summary">NTT Data previously won a global ERP support contract for Daimler.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ntt-data-ericsson-partner-expand-private-5g-physical-ai-apac" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">proteanTecs, MegaChips Target Deeper Silicon Visibility for Next-gen ASICs</span></td>
-  <td class="col-summary">The collaboration combines embedded monitoring and analytics with MegaChips' design expertise to improve ASIC performance, reliability and yield. The post proteanTecs, MegaChips Target Deeper Silicon Visibility for Next-gen ASICs appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/proteantecs-megachips-target-deeper-silicon-visibility-for-next-gen-asics/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Global Chip Sales Up 6.4% in July</span></td>
-  <td class="col-summary">Global chip sales reached $146.8 billion in July, up by 6.4% compared to the previous month and by 135.1% YoY, according to SIA. The post Global Chip Sales Up 6.4% in July appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/global-chip-sales-up-6-4-in-july/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Nvidia Eyes Rebellions as Its Strategic Push into AI Inference Accelerates</span></td>
-  <td class="col-summary">Nvidia's reported talks with Rebellions highlight its growing urgency to strengthen capabilities in memory-centric AI inference. The post Nvidia Eyes Rebellions as Its Strategic Push into AI Inference Accelerates appeared first on EE Times Asia .</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Trust Bank launches AI tool to track card spending</span></td>
+  <td class="col-summary">Trust said it can also return totals, counts, and summaries for card spending, and includes privacy and security safeguards.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/nvidia-eyes-rebellions-as-its-strategic-push-into-ai-inference-accelerates/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/fraud-claims-involving-digital-banks-rise-in-sg-reaching-1-9m" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>

@@ -1,37 +1,37 @@
 {
   "date": "2026-09-08",
-  "count": 9,
+  "count": 7,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "EETAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-08-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Samsung SDS expands OpenAI, Anthropic partnerships for AI push",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/samsung-sds-expands-chatgpt-enterprise-client-base-in-korea"
+      "title": "AI can now help make entire films. What does that mean for Singapore\u2019s film industry?",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/ai-films-what-does-it-mean-singapore-film-industry-6367711"
     },
     {
-      "title": "OpenAI to contract AI compute from Firmus\u2019 Malaysia sites",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-backed-australian-ai-firm-firmus-eyes-ipo-after-gpu-deal"
-    },
-    {
-      "title": "Samsung allocates more than half of 4nm foundry capacity to HBM4",
+      "title": "Samsung boosts Galaxy A series output as rivals cut lower-end phones",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260908VL205/samsung-hbm4-capacity-4nm-hbm.html"
+      "url": "https://www.digitimes.com/news/a20260908PD225/samsung-production-galaxy-2026-shipments.html"
     },
     {
-      "title": "Chicony targets 2027 robot startup shipments as notebook sales soften",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260908PD208/chicony-2026-startup-robot-revenue.html"
-    },
-    {
-      "title": "ByteDance eyes real-time spatial AI model launch next month",
+      "title": "OpenAI, Tenable unveil AI agent security review",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/bytedance-releases-seedance-25-multiinput-ai-video"
+      "url": "https://www.techinasia.com/cybersecurity-stocks-fall-anthropic-tool-sparks-ai-fears"
+    },
+    {
+      "title": "ChenFull Precision expands from defense and semiconductor equipment into quantum computing",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260908PD219/equipment-quantum-computing-business-revenue-production.html"
+    },
+    {
+      "title": "ASML lines up Intel, TSMC and Samsung behind 12-inch masks \u2014 TSMC alone sets a timeline",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260908VL208/tsmc-asml-12-inch-production-6-inch.html"
     }
   ],
   "source_stats": [
@@ -48,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -149,14 +149,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 37,
-      "relevant": 26,
+      "fetched": 51,
+      "relevant": 36,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,7 +165,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 4,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -192,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 19,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -209,7 +209,7 @@
     {
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
