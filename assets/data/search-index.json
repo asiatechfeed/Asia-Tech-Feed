@@ -1,5 +1,82 @@
 [
   {
+    "date": "2026-09-08",
+    "title": "US tech firms eye Australia for AI data centers",
+    "summary": "None of the 9 gigawatts of proposed data-center capacity had been commissioned by June.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/google-airtrunk-add-solar-power-ai-demand"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "SK Hynix weighs Gwangju investment as Yongin buildout continues",
+    "summary": "SK Hynix is considering accelerating investment in South Korea's planned Gwangju semiconductor cluster so that development proceeds alongside its ongoing Yongin buildout, rather than waiting for Yongin to advance further, according to Dealsite , citing industry sources. The potential overlap is raising a key question f",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260907VL209/sk-hynix-investment-equipment-infrastructure-development.html"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "SST market grows 32% as global players race to secure position",
+    "summary": "As AI server computing power and per-rack power density continue to rise, traditional 54VDC power architectures are hitting bottlenecks such as excessive current, higher copper usage, and greater transmission losses. This is pushing next-generation AI data center power designs toward 800V high-voltage direct current (H",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260907PD229/ai-server-market-data-center-infrastructure-data.html"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "TSMC's Germany fab draws Leipzig University rector to Taiwan",
+    "summary": "TSMC's investment in a fab in Germany's Free State of Saxony has drawn close attention from across Europe. Eva Ins Obergfell, Rector of Leipzig University, one of Germany's leading universities, recently visited Taiwan and toured National Taiwan University and National Tsing Hua University, among others, to explore ide",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260907PD238/tsmc-germany-taiwan-fab-investment.html"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "Commentary: Why America’s debt binge is starting to matter",
+    "summary": "If long-term interest rates decisively breach the 5 per cent threshold, the impact could derail the AI boom, says Ruchir Sharma for the Financial Times.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/us-national-debt-threatens-ai-market-boom-6367086"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "HSA registers healthtech firm Oral Link’s AI dental tool",
+    "summary": "Oral Link, a Singapore-based dental AI startup, said the product is Singapore’s first HSA-registered AI dental screening tool for direct consumer use.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/openai-microsoft-sued-by-estate-in-connecticut-case"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "Huawei unveils first triple-fold phone with 'US-free' core chips",
+    "summary": "Huawei unveils first triple-fold phone with 'US-free' core chips",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/electronics/huawei-unveils-first-triple-fold-phone-with-us-free-core-chips"
+  },
+  {
     "date": "2026-09-07",
     "title": "Ambition, loops, and TikTok: An a16z guide to scaling AI",
     "summary": "Andreessen Horowitz's Anish Acharya explains why AI's biggest risk is thinking too small, and why consumer products need engagement, not just efficiency.",
