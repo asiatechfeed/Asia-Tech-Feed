@@ -1,38 +1,38 @@
 {
-  "date": "2026-09-07",
-  "count": 9,
+  "date": "2026-09-08",
+  "count": 7,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-09-07-asia-tech-news-digest.md",
+  "post_file": "2026-09-08-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Ambition, loops, and TikTok: An a16z guide to scaling AI",
+      "title": "US tech firms eye Australia for AI data centers",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/ambition-loops-tiktok-a16z-guide-scaling-ai"
+      "url": "https://www.techinasia.com/google-airtrunk-add-solar-power-ai-demand"
     },
     {
-      "title": "UK's IQE posts half-year profit on AI infrastructure demand",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/uks-iqe-posts-half-year-profit-ai-infrastructure-demand-6366826"
-    },
-    {
-      "title": "Exclusive: Infineon COO says chip shortage recovery will take longer",
+      "title": "SK Hynix weighs Gwangju investment as Yongin buildout continues",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260907PD209/infineon-chip-shortage-manufacturing-capacity-digitimes.html"
+      "url": "https://www.digitimes.com/news/a20260907VL209/sk-hynix-investment-equipment-infrastructure-development.html"
     },
     {
-      "title": "Phison snaps up low-cost China NAND inventory, AI revenue share set to top 40%",
+      "title": "SST market grows 32% as global players race to secure position",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260907PD211/phison-nand-flash-inventory-revenue.html"
+      "url": "https://www.digitimes.com/news/a20260907PD229/ai-server-market-data-center-infrastructure-data.html"
     },
     {
-      "title": "Beyond STEM: Why Singapore tertiary institutions are putting more emphasis on arts and social sciences",
+      "title": "TSMC's Germany fab draws Leipzig University rector to Taiwan",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260907PD238/tsmc-germany-taiwan-fab-investment.html"
+    },
+    {
+      "title": "Commentary: Why America\u2019s debt binge is starting to matter",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/beyond-stem-singapore-tertiary-emphasis-arts-social-sciences-6362811"
+      "url": "https://www.channelnewsasia.com/commentary/us-national-debt-threatens-ai-market-boom-6367086"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -129,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -150,14 +150,14 @@
       "fetched": 10,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 38,
-      "relevant": 30,
+      "fetched": 35,
+      "relevant": 25,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +168,7 @@
       "fetched": 50,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
