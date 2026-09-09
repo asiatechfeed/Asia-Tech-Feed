@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "count": 15,
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -11,29 +11,29 @@
   "post_file": "2026-09-09-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "EdgeCortix, Kawasaki Team Up on AI Computing for Future Aerial Defense Systems",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/edgecortix-kawasaki-team-up-on-ai-computing-for-future-aerial-defense-systems/"
+      "title": "Singapore firms race to adopt AI despite system gaps: report",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/hcltech-leads-indian-ai-startup-234m-funding"
     },
     {
-      "title": "SEEQC Taps Taiwan\u2019s Semiconductor Ecosystem to Expand Quantum Computing Supply Chain",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/seeqc-taps-taiwans-semiconductor-ecosystem-to-expand-quantum-computing-supply-chain/"
+      "title": "China's AI computing plan targets sixfold growth and 100,000-card clusters",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260909PD221/infrastructure-communications-6g-miit-investment.html"
     },
     {
-      "title": "Japan manufacturers' mood hits near 5-year high on semiconductor demand: Reuters poll",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/japan-manufacturers-mood-hits-near-5-year-high-semiconductor-demand-reuters-poll-6371221"
+      "title": "Palantir, Nebius partner on AI infrastructure for firms",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/lg-cns-palantir-partner-ai-data-projects"
     },
     {
-      "title": "DRAM Industry Revenue Up 60% QoQ in 2Q 2026",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/dram-industry-revenue-up-60-qoq-in-2q-2026/"
+      "title": "Cambricon takes a PyTorch Foundation board seat as China's chip challengers turn to software",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260909VL204/cambricon-software-linux-huawei-alibaba.html"
     },
     {
-      "title": "Forget champagne: How AI millionaires are rewriting the rules of luxury",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/obsessions/ai-millionaires-luxury-spending-6366616"
+      "title": "Exclusive Interview: WG Tech sees a faster route for TGV beyond displays",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260909PD220/display-packaging-communications-chips-capacity.html"
     }
   ],
   "source_stats": [
@@ -50,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -130,7 +130,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -151,14 +151,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 65,
-      "relevant": 47,
+      "fetched": 38,
+      "relevant": 26,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +169,7 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -194,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
