@@ -1,39 +1,36 @@
 {
   "date": "2026-09-10",
-  "count": 14,
+  "count": 6,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-10-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Alibaba\u2019s AI capex spike isn\u2019t the story investors think",
+      "title": "Foxsemicon hits record 2Q26 revenue on Thailand ramp-up",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260910PD201/revenue-foxsemicon-2026-equipment-demand.html"
+    },
+    {
+      "title": "Shinkong Synthetic Fibers partners with Earthbook, Jedsy to tap Taiwan's medical drone logistics market",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260909PD223/ssfc-medical-drone-logistics-taiwan.html"
+    },
+    {
+      "title": "Jeter August revenue rises on AI server shipments",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260909PD228/revenue-logistics-shipments-2026-demand.html"
+    },
+    {
+      "title": "Nvidia targets up to 2 GW AI capacity in Australia",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/alibabas-capex-spike-story-investors"
+      "url": "https://www.techinasia.com/nvidiabacked-lambda-talks-raise-3b-sources"
     },
     {
-      "title": "Loongson raises funds to expand CPU and GPU development as AI inference boosts domestic chip plans",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260910PD216/loongson-cpu-gpu-development-technology.html"
-    },
-    {
-      "title": "Apple just put a $700 premium on a hinge \u2014 seven takeaways for the supply chain",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260910VL210/iphone-apple-hinge-taiwan.html"
-    },
-    {
-      "title": "Apple's John Ternus puts iPhone at AI center stage",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260910PD223/apple-iphone-john-ternus-ceo-tim-cook.html"
-    },
-    {
-      "title": "OpenAI appoints AI safety expert to Foundation board",
+      "title": "An evening built for the people shaping AI in Asia",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/openai-limit-astras-advanced-cybersecurity-features"
+      "url": "https://www.techinasia.com/evening-built-people-shaping-ai-asia"
     }
   ],
   "source_stats": [
@@ -50,9 +47,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -151,14 +148,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 38,
-      "relevant": 27,
+      "fetched": 80,
+      "relevant": 60,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +164,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +191,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
