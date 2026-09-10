@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-10T00:01:48+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 10, 2026</title><link href="https://asiatechfeed.com/2026/09/10/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 10, 2026" /><published>2026-09-10T00:01:07+00:00</published><updated>2026-09-10T00:01:07+00:00</updated><id>https://asiatechfeed.com/2026/09/10/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/10/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-10T04:18:26+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 10, 2026</title><link href="https://asiatechfeed.com/2026/09/10/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 10, 2026" /><published>2026-09-10T04:17:11+00:00</published><updated>2026-09-10T04:17:11+00:00</updated><id>https://asiatechfeed.com/2026/09/10/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/10/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,86 +12,118 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">OpenAI pushes for mandatory national AI safety requirements</span></td>
-  <td class="col-summary">OpenAI pushes for mandatory national AI safety requirements</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/openai-pushes-mandatory-national-ai-safety-requirements-6374256" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba’s AI capex spike isn’t the story investors think</span></td>
+  <td class="col-summary">The market punished Alibaba's earnings. But a closer look at the firm’s chips, cloud, and AI model suggests the reaction got the story backward.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibabas-capex-spike-story-investors" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Apple names a 2nm node for the first time since 2024 — and raises prices on every iPhone it still sells</span></td>
-  <td class="col-summary">Apple used its 2026 iPhone launch to do two things it had avoided for years: it named the process node in its flagship chip, and it raised the price of phones already on sale. Both moves point to the same pressure. Memory is expensive, the packaging that binds memory to logic has become the hard part of building a phon</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260910VL200/apple-iphone-2nm-2026-launch.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Loongson raises funds to expand CPU and GPU development as AI inference boosts domestic chip plans</span></td>
+  <td class="col-summary">Chinese CPU maker Loongson recently announced a CNY2.3 billion (approx. US$342.7 million) capital increase, with the funds mainly going into information technology chips and core CPU and GPU technologies. More than CNY1.4 billion is allocated to CPU-related projects, making it the largest investment area in the fundrai</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260910PD216/loongson-cpu-gpu-development-technology.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Apple bets on new sensors and S11 chip to differentiate its 2026 watches</span></td>
-  <td class="col-summary">Behind the foldable, Apple used the same event to rebuild the sensing hardware in its wearables and to push active noise cancellation down to US$129. Apple announced the Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5 in Cupertino on 9 September, and the two watches share the key upgrades: an all-new Health S</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260910VL202/apple-foldable-2026-hardware-airpods.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Apple just put a $700 premium on a hinge — seven takeaways for the supply chain</span></td>
+  <td class="col-summary">1. iPhone Duo — US$1,999, October 16 pre-order, October 23 ship; Taiwan in the first wave</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260910VL210/iphone-apple-hinge-taiwan.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AI servers push Asus' August revenue up 51%</span></td>
-  <td class="col-summary">Asus reported consolidated revenue of NT$94.96 billion (US$3.02 billion) in August 2026, up 12.87% from July and 51.17% from a year earlier — the second-highest monthly figure in company history. Revenue for the first eight months reached NT$645.19 billion (US$20.5 billion), up 42.3% year over year. The company attribu</td>
+  <td class="col-title"><span class="article-title">Apple's John Ternus puts iPhone at AI center stage</span></td>
+  <td class="col-summary">Apple CEO John Ternus used his first major event as chief executive to signal where the company is headed after officially succeeding Tim Cook in September 2026. Speaking at the annual showcase, he framed the iPhone as the personal computing hub for the AI era and suggested Apple is not rushing to replace it.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260909PD249/asus-revenue-2026-pc-guidance.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260910PD223/apple-iphone-john-ternus-ceo-tim-cook.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">OpenAI, Samsung deepen next-gen chip and AI ties</span></td>
-  <td class="col-summary">The moves comes as OpenAI develops its own chips and expands ties with South Korean suppliers.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-plans-ai-deal-spacexbound-cursor" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">OpenAI appoints AI safety expert to Foundation board</span></td>
+  <td class="col-summary">Christiano is a senior tech adviser at the Center for AI Standards and Innovation within the US National Institute of Standards and Technology.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-limit-astras-advanced-cybersecurity-features" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Indonesia AI infrastructure firm Zankore secures $3.1b loan</span></td>
-  <td class="col-summary">Citi served as the exclusive debt adviser for the planned AI infrastructure.</td>
+  <td class="col-title"><span class="article-title">Ant International, Mastercard, Visa develop AI agent framework</span></td>
+  <td class="col-summary">The framework aims to streamline how card networks, digital-wallet ecosystems, agent platforms, and marketplaces onboard.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/indosat-nvidia-launch-ai-infrastructure-venture" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ant-international-launches-open-ai-payments-protocol" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">The OpenAI plan: Cheap AI tests will revive old research</span></td>
-  <td class="col-summary">OpenAI's Mark Sellke and Meethab Sawhney explain how cheap AI testing is reviving old research ideas, and how human roles are shifting toward verification.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-plan-cheap-ai-tests-revive-research" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">SK keyfoundry, Elmos Expand Partnership with 130nm Wafer Supply Deal</span></td>
+  <td class="col-summary">Long-term agreement extends automotive semiconductor collaboration through 2037 and supports new products based on 130nm technology. The post SK keyfoundry, Elmos Expand Partnership with 130nm Wafer Supply Deal appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/sk-keyfoundry-elmos-expand-partnership-with-130nm-wafer-supply-deal/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">South Korea's AI diplomacy needs Japan in the room</span></td>
-  <td class="col-summary">South Korea's AI diplomacy needs Japan in the room</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/opinion/south-korea-s-ai-diplomacy-needs-japan-in-the-room" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Analog Devices Strengthening Edge AI Capabilities by Acquiring Alif Semiconductor</span></td>
+  <td class="col-summary">Deal combines ADI's sensing expertise with Alif's AI-native processors for real-time physical intelligence systems. The post Analog Devices Strengthening Edge AI Capabilities by Acquiring Alif Semiconductor appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/analog-devices-strengthening-edge-ai-capabilities-by-acquiring-alif-semiconductor/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Mitsui to help speed cancer drug research in Asia with patient database</span></td>
-  <td class="col-summary">Mitsui to help speed cancer drug research in Asia with patient database</td>
-  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/pharmaceuticals/mitsui-to-help-speed-cancer-drug-research-in-asia-with-patient-database" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Synopsys, A*STAR IME Target Simulation-led Advanced Packaging Development</span></td>
+  <td class="col-summary">Synopsys and A*STAR IME will collaborate on advanced packaging, chiplet architectures, and simulation technologies. The post Synopsys, A*STAR IME Target Simulation-led Advanced Packaging Development appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/synopsys-astar-ime-target-simulation-led-advanced-packaging-development/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan's Daikin to use AI in A/C inspection training as cooling demand rises</span></td>
-  <td class="col-summary">Japan's Daikin to use AI in A/C inspection training as cooling demand rises</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">DOJ probes Nvidia's licensing deal with AI startup Groq, NYT reports</span></td>
+  <td class="col-summary">DOJ probes Nvidia's licensing deal with AI startup Groq, NYT reports</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/companies/japan-s-daikin-to-use-ai-in-a-c-inspection-training-as-cooling-demand-rises" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/doj-probes-nvidias-licensing-deal-ai-startup-groq-nyt-reports-6374416" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Nvidia plans major expansion of data centre capacity in Australia to meet AI demand</span></td>
+  <td class="col-summary">Nvidia plans major expansion of data centre capacity in Australia to meet AI demand</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/nvidia-plans-major-expansion-data-centre-capacity-in-australia-meet-ai-demand-6374396" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">OpenAI pushes for mandatory national AI safety rules</span></td>
+  <td class="col-summary">OpenAI pushes for mandatory national AI safety rules</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/openai-pushes-mandatory-national-ai-safety-rules-6374256" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">13</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba takes on Anthropic with 50% cheaper e-commerce AI agent</span></td>
+  <td class="col-summary">Alibaba takes on Anthropic with 50% cheaper e-commerce AI agent</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-takes-on-anthropic-with-50-cheaper-e-commerce-ai-agent" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">14</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Sumitomo partners with Sakana AI to push Japan-built AI model</span></td>
+  <td class="col-summary">Sumitomo partners with Sakana AI to push Japan-built AI model</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/sumitomo-partners-with-sakana-ai-to-push-japan-built-ai-model" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA OpenAI pushes for mandatory national AI safety requirements OpenAI pushes for mandatory national AI safety requirements AI Read 2 DigiTimes Apple names a 2nm node for the first time since 2024 — and raises prices on every iPhone it still sells Apple used its 2026 iPhone launch to do two things it had avoided for years: it named the process node in its flagship chip, and it raised the price of phones already on sale. Both moves point to the same pressure. Memory is expensive, the packaging that binds memory to logic has become the hard part of building a phon Semiconductor Read 3 DigiTimes Apple bets on new sensors and S11 chip to differentiate its 2026 watches Behind the foldable, Apple used the same event to rebuild the sensing hardware in its wearables and to push active noise cancellation down to US$129. Apple announced the Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5 in Cupertino on 9 September, and the two watches share the key upgrades: an all-new Health S Semiconductor Read 4 DigiTimes AI servers push Asus' August revenue up 51% Asus reported consolidated revenue of NT$94.96 billion (US$3.02 billion) in August 2026, up 12.87% from July and 51.17% from a year earlier — the second-highest monthly figure in company history. Revenue for the first eight months reached NT$645.19 billion (US$20.5 billion), up 42.3% year over year. The company attribu AI Read 5 TechAsia OpenAI, Samsung deepen next-gen chip and AI ties The moves comes as OpenAI develops its own chips and expands ties with South Korean suppliers. AISemiconductor Read 6 TechAsia Indonesia AI infrastructure firm Zankore secures $3.1b loan Citi served as the exclusive debt adviser for the planned AI infrastructure. AI Read 7 TechAsia The OpenAI plan: Cheap AI tests will revive old research OpenAI's Mark Sellke and Meethab Sawhney explain how cheap AI testing is reviving old research ideas, and how human roles are shifting toward verification. AI Read 8 NikkeiAsia South Korea's AI diplomacy needs Japan in the room South Korea's AI diplomacy needs Japan in the room AI Read 9 NikkeiAsia Mitsui to help speed cancer drug research in Asia with patient database Mitsui to help speed cancer drug research in Asia with patient database Pharmaceutical Read 10 NikkeiAsia Japan's Daikin to use AI in A/C inspection training as cooling demand rises Japan's Daikin to use AI in A/C inspection training as cooling demand rises AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 09, 2026</title><link href="https://asiatechfeed.com/2026/09/09/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 09, 2026" /><published>2026-09-09T08:00:45+00:00</published><updated>2026-09-09T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/09/09/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/09/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Alibaba’s AI capex spike isn’t the story investors think The market punished Alibaba's earnings. But a closer look at the firm’s chips, cloud, and AI model suggests the reaction got the story backward. AISemiconductor Read 2 DigiTimes Loongson raises funds to expand CPU and GPU development as AI inference boosts domestic chip plans Chinese CPU maker Loongson recently announced a CNY2.3 billion (approx. US$342.7 million) capital increase, with the funds mainly going into information technology chips and core CPU and GPU technologies. More than CNY1.4 billion is allocated to CPU-related projects, making it the largest investment area in the fundrai AISemiconductor Read 3 DigiTimes Apple just put a $700 premium on a hinge — seven takeaways for the supply chain 1. iPhone Duo — US$1,999, October 16 pre-order, October 23 ship; Taiwan in the first wave Logistics Read 4 DigiTimes Apple's John Ternus puts iPhone at AI center stage Apple CEO John Ternus used his first major event as chief executive to signal where the company is headed after officially succeeding Tim Cook in September 2026. Speaking at the annual showcase, he framed the iPhone as the personal computing hub for the AI era and suggested Apple is not rushing to replace it. AI Read 5 TechAsia OpenAI appoints AI safety expert to Foundation board Christiano is a senior tech adviser at the Center for AI Standards and Innovation within the US National Institute of Standards and Technology. AI Read 6 TechAsia Ant International, Mastercard, Visa develop AI agent framework The framework aims to streamline how card networks, digital-wallet ecosystems, agent platforms, and marketplaces onboard. AI Read 7 EETAsia SK keyfoundry, Elmos Expand Partnership with 130nm Wafer Supply Deal Long-term agreement extends automotive semiconductor collaboration through 2037 and supports new products based on 130nm technology. The post SK keyfoundry, Elmos Expand Partnership with 130nm Wafer Supply Deal appeared first on EE Times Asia . Semiconductor Read 8 EETAsia Analog Devices Strengthening Edge AI Capabilities by Acquiring Alif Semiconductor Deal combines ADI's sensing expertise with Alif's AI-native processors for real-time physical intelligence systems. The post Analog Devices Strengthening Edge AI Capabilities by Acquiring Alif Semiconductor appeared first on EE Times Asia . SemiconductorAI Read 9 EETAsia Synopsys, A*STAR IME Target Simulation-led Advanced Packaging Development Synopsys and A*STAR IME will collaborate on advanced packaging, chiplet architectures, and simulation technologies. The post Synopsys, A*STAR IME Target Simulation-led Advanced Packaging Development appeared first on EE Times Asia . Semiconductor Read 10 CNA DOJ probes Nvidia's licensing deal with AI startup Groq, NYT reports DOJ probes Nvidia's licensing deal with AI startup Groq, NYT reports AI Read 11 CNA Nvidia plans major expansion of data centre capacity in Australia to meet AI demand Nvidia plans major expansion of data centre capacity in Australia to meet AI demand AI Read 12 CNA OpenAI pushes for mandatory national AI safety rules OpenAI pushes for mandatory national AI safety rules AI Read 13 NikkeiAsia Alibaba takes on Anthropic with 50% cheaper e-commerce AI agent Alibaba takes on Anthropic with 50% cheaper e-commerce AI agent AI Read 14 NikkeiAsia Sumitomo partners with Sakana AI to push Japan-built AI model Sumitomo partners with Sakana AI to push Japan-built AI model AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 09, 2026</title><link href="https://asiatechfeed.com/2026/09/09/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 09, 2026" /><published>2026-09-09T08:00:45+00:00</published><updated>2026-09-09T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/09/09/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/09/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
