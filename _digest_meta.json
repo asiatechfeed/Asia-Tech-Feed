@@ -1,37 +1,38 @@
 {
-  "date": "2026-09-09",
-  "count": 7,
+  "date": "2026-09-10",
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-09-09-asia-tech-news-digest.md",
+  "post_file": "2026-09-10-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "US HR firm ADP expands AWS partnership for workforce AI",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/aipowered-mentorship-southeast-asias-talent"
-    },
-    {
-      "title": "Google to invest $15 billion in AI infrastructure in Finland",
+      "title": "OpenAI pushes for mandatory national AI safety requirements",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/google-invest-15-billion-in-ai-infrastructure-in-finland-6372206"
+      "url": "https://www.channelnewsasia.com/business/openai-pushes-mandatory-national-ai-safety-requirements-6374256"
     },
     {
-      "title": "BharatPe launches Gemini-powered AI assistant for merchants",
+      "title": "Apple names a 2nm node for the first time since 2024 \u2014 and raises prices on every iPhone it still sells",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260910VL200/apple-iphone-2nm-2026-launch.html"
+    },
+    {
+      "title": "Apple bets on new sensors and S11 chip to differentiate its 2026 watches",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260910VL202/apple-foldable-2026-hardware-airpods.html"
+    },
+    {
+      "title": "AI servers push Asus' August revenue up 51%",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260909PD249/asus-revenue-2026-pc-guidance.html"
+    },
+    {
+      "title": "OpenAI, Samsung deepen next-gen chip and AI ties",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/sg-finserve-launches-merchant-loans-bharatpe-money"
-    },
-    {
-      "title": "Quantinuum finalizes US$100 million CHIPS funding deal for quantum hardware",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260909PR207/worldwide-funding-quantum-computing-hardware-technology.html"
-    },
-    {
-      "title": "Amkor expands Arizona chip campus with phase 2 plan",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260909PR205/amkor-arizona-packaging-expansion-demand.html"
+      "url": "https://www.techinasia.com/openai-plans-ai-deal-spacexbound-cursor"
     }
   ],
   "source_stats": [
@@ -155,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 61,
-      "relevant": 39,
+      "fetched": 35,
+      "relevant": 24,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -192,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 16,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
