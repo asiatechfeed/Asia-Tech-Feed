@@ -1,38 +1,39 @@
 {
   "date": "2026-09-10",
-  "count": 10,
+  "count": 14,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-10-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "OpenAI pushes for mandatory national AI safety requirements",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/openai-pushes-mandatory-national-ai-safety-requirements-6374256"
-    },
-    {
-      "title": "Apple names a 2nm node for the first time since 2024 \u2014 and raises prices on every iPhone it still sells",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260910VL200/apple-iphone-2nm-2026-launch.html"
-    },
-    {
-      "title": "Apple bets on new sensors and S11 chip to differentiate its 2026 watches",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260910VL202/apple-foldable-2026-hardware-airpods.html"
-    },
-    {
-      "title": "AI servers push Asus' August revenue up 51%",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260909PD249/asus-revenue-2026-pc-guidance.html"
-    },
-    {
-      "title": "OpenAI, Samsung deepen next-gen chip and AI ties",
+      "title": "Alibaba\u2019s AI capex spike isn\u2019t the story investors think",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/openai-plans-ai-deal-spacexbound-cursor"
+      "url": "https://www.techinasia.com/alibabas-capex-spike-story-investors"
+    },
+    {
+      "title": "Loongson raises funds to expand CPU and GPU development as AI inference boosts domestic chip plans",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260910PD216/loongson-cpu-gpu-development-technology.html"
+    },
+    {
+      "title": "Apple just put a $700 premium on a hinge \u2014 seven takeaways for the supply chain",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260910VL210/iphone-apple-hinge-taiwan.html"
+    },
+    {
+      "title": "Apple's John Ternus puts iPhone at AI center stage",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260910PD223/apple-iphone-john-ternus-ceo-tim-cook.html"
+    },
+    {
+      "title": "OpenAI appoints AI safety expert to Foundation board",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/openai-limit-astras-advanced-cybersecurity-features"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -148,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 7,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 24,
+      "fetched": 38,
+      "relevant": 27,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -193,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
