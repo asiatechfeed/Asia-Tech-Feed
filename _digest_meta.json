@@ -1,39 +1,37 @@
 {
   "date": "2026-09-11",
-  "count": 11,
+  "count": 9,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
-    "KED",
     "TechAsia"
   ],
   "post_file": "2026-09-11-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Tencent-backed AI chipmaker Enflame jumps 188% on debut",
+      "title": "US listing could put Japan's Kioxia in global AI spotlight, Voya's Thomas says",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/us-listing-could-put-japans-kioxia-in-global-ai-spotlight-voyas-thomas-says-6378266"
+    },
+    {
+      "title": "Salesforce introduces Enterprise AI Harness foundation",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/shanghai-to-back-over-200-open-source-projects-by-2027"
+      "url": "https://www.techinasia.com/salesforce-agrees-buy-fin-36b-boost-ai"
     },
     {
-      "title": "Mapping the startups setting the pace in Korea\u2019s AI sector",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups"
-    },
-    {
-      "title": "Taiyo Achieves 700-nm RDL Features on 12-inch Wafers",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/taiyo-achieves-700-nm-rdl-features-on-12-inch-wafers/"
-    },
-    {
-      "title": "Huawei, Xiaomi, Apple take different bets on foldables",
+      "title": "CIOE: Hitachi relies on partnerships, not proprietary tech, to ride China's optical boom",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260911PD202/xiaomi-huawei-apple-market-foldable-smartphone.html"
+      "url": "https://www.digitimes.com/news/a20260911VL218/hitachi-optoelectronics-photonics-flagship-silicon.html"
     },
     {
-      "title": "DigiKey Sponsors electronica India Tech Challenge 2026",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/digikey-sponsors-electronica-india-tech-challenge-2026/"
+      "title": "Samsung's Exynos gains ground as Galaxy S26 lifts share to 9%",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260911VL215/samsung-exynos-galaxy-processor-flagship.html"
+    },
+    {
+      "title": "Taiwan govt boosts EDA R&D to target global gaps",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260911PD221/taiwan-eda-government-nstc-design.html"
     }
   ],
   "source_stats": [
@@ -50,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -131,7 +129,7 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -151,14 +149,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 30,
+      "fetched": 43,
+      "relevant": 33,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +165,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 4,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -178,7 +176,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 13,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
