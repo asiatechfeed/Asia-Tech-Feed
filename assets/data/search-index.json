@@ -1,5 +1,140 @@
 [
   {
+    "date": "2026-09-11",
+    "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
+    "summary": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/world/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-6377186"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "Rayzher rides semiconductor fab buildout to record revenue",
+    "summary": "Rayzher Industrial, a high-tech factory gas supply system solutions provider, reported consolidated revenue of NT$369 million (approx. US$11.7 million) in August 2026, up 83.26% year-over-year and a record monthly high. Cumulative consolidated revenue for the first eight months of 2026 reached NT$1.993 billion, up 27.9",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260910PD200/rayzher-revenue-2026-fab-management.html"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "Taiwan startup taps CMOS infrared chips to give robots an electronic 'nose'",
+    "summary": "Breaking from the industry's mainstream reliance on III-V compound semiconductors, Taiwanese startup Taiwan Nano & Micro-Photonics (N&M) is using complementary metal-oxide-semiconductor (CMOS) processes to develop a single chip capable of emitting more than four wavelengths of mid- to far-infrared light.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260910PD225/cmos-iii-v-startup-taiwan-chips.html"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "China's Shenzhen Kaifa plans CNY1.85 billion expansion for high-end memory packaging and testing",
+    "summary": "Chinese electronics manufacturer Shenzhen Kaifa Technology, also known as Shenzhen Kaifa or Kaifa, plans to invest CNY1.85 billion (about US$260 million) to expand high-end memory-chip packaging and testing capacity through its wholly owned subsidiary Payton Technology (Shenzhen), according to a company announcement.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260910VL223/shenzhen-packaging-high-end-testing-electronics.html"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
+    "summary": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/pentagon-in-talks-lend-5-billion-ai-cloud-startup-fluidstack-wsj-reports-6377316"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "AI can plan your holiday. But would you trust it to book the trip?",
+    "summary": "Travellers are increasingly using AI to find hotels, build itineraries and narrow their choices. When money, bookings and disruptions are involved, however, human judgement still matters.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/experiences/ai-travel-planning-booking-6366406"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "Malaysia pushes to become a regional semiconductor hub",
+    "summary": "Malaysia is a major base for outsourced semiconductor assembly and testing. It is now trying to build a broader role in the chip value chain, writes Amira Azman. The government’s […] The post Malaysia pushes to become a regional semiconductor hub appeared first on Electronics Weekly .",
+    "source": "Electronics Weekly",
+    "short": "EW",
+    "tags": [
+      "Semiconductor",
+      "Electronics"
+    ],
+    "url": "https://www.electronicsweekly.com/news/business/malaysia-pushes-to-become-a-regional-semiconductor-hub-2026-09/"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "DeepSeek V4.1-Flash targets lower AI agent costs",
+    "summary": "DeepSeek said the update would help it serve more users at lower cost and that it would pass those savings on to users.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/deepseek-nears-full-v4-ai-model-launch"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "Bybit rolls out AI tool for trading, account management",
+    "summary": "Activating the feature creates a separate Bybit AI sub-account that is isolated from the user’s main balance.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/north-korean-hackers-steal-crypto-worth-2b-report"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "Moonshot AI weighs Hong Kong, Shanghai listings",
+    "summary": "Since then, the company has hinted at a later mainland listing, likely on the Shanghai Stock Exchange’s tech-focused STAR Market.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/moonshot-ai-targets-1b-raise-eyes-18b-valuation"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "Giant robot arm to probe Fukushima nuclear debris after 5-year delay",
+    "summary": "Giant robot arm to probe Fukushima nuclear debris after 5-year delay",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://asia.nikkei.com/business/energy/giant-robot-arm-to-probe-fukushima-nuclear-debris-after-5-year-delay"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "Japan's Fanuc, Google team up on AI-automated welding robots",
+    "summary": "Japan's Fanuc, Google team up on AI-automated welding robots",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-fanuc-google-team-up-on-ai-automated-welding-robots"
+  },
+  {
     "date": "2026-09-10",
     "title": "Foxsemicon hits record 2Q26 revenue on Thailand ramp-up",
     "summary": "Foxsemicon Integrated Technology (FITI) posted record consolidated revenue of NT$6.3 billion (approx. US$200.0 million) in the second quarter of 2026, up 13.3% quarter-over-quarter and 21.1% year-over-year. The semiconductor equipment maker said second-half operations should outperform the first half as its Thailand pl",
