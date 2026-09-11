@@ -1,39 +1,39 @@
 {
   "date": "2026-09-11",
-  "count": 12,
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EW",
-    "NikkeiAsia",
+    "EETAsia",
+    "KED",
     "TechAsia"
   ],
   "post_file": "2026-09-11-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-6377186"
+      "title": "Tencent-backed AI chipmaker Enflame jumps 188% on debut",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/shanghai-to-back-over-200-open-source-projects-by-2027"
     },
     {
-      "title": "Rayzher rides semiconductor fab buildout to record revenue",
+      "title": "Mapping the startups setting the pace in Korea\u2019s AI sector",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups"
+    },
+    {
+      "title": "Taiyo Achieves 700-nm RDL Features on 12-inch Wafers",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/taiyo-achieves-700-nm-rdl-features-on-12-inch-wafers/"
+    },
+    {
+      "title": "Huawei, Xiaomi, Apple take different bets on foldables",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260910PD200/rayzher-revenue-2026-fab-management.html"
+      "url": "https://www.digitimes.com/news/a20260911PD202/xiaomi-huawei-apple-market-foldable-smartphone.html"
     },
     {
-      "title": "Taiwan startup taps CMOS infrared chips to give robots an electronic 'nose'",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260910PD225/cmos-iii-v-startup-taiwan-chips.html"
-    },
-    {
-      "title": "China's Shenzhen Kaifa plans CNY1.85 billion expansion for high-end memory packaging and testing",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260910VL223/shenzhen-packaging-high-end-testing-electronics.html"
-    },
-    {
-      "title": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/pentagon-in-talks-lend-5-billion-ai-cloud-startup-fluidstack-wsj-reports-6377316"
+      "title": "DigiKey Sponsors electronica India Tech Challenge 2026",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/digikey-sponsors-electronica-india-tech-challenge-2026/"
     }
   ],
   "source_stats": [
@@ -50,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -133,7 +133,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -151,14 +151,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 27,
+      "relevant": 30,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -178,7 +178,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
