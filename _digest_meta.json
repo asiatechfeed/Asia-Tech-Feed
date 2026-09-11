@@ -1,36 +1,39 @@
 {
-  "date": "2026-09-10",
-  "count": 6,
+  "date": "2026-09-11",
+  "count": 12,
   "sources": [
+    "CNA",
     "DigiTimes",
+    "EW",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-09-10-asia-tech-news-digest.md",
+  "post_file": "2026-09-11-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Foxsemicon hits record 2Q26 revenue on Thailand ramp-up",
+      "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-6377186"
+    },
+    {
+      "title": "Rayzher rides semiconductor fab buildout to record revenue",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260910PD201/revenue-foxsemicon-2026-equipment-demand.html"
+      "url": "https://www.digitimes.com/news/a20260910PD200/rayzher-revenue-2026-fab-management.html"
     },
     {
-      "title": "Shinkong Synthetic Fibers partners with Earthbook, Jedsy to tap Taiwan's medical drone logistics market",
+      "title": "Taiwan startup taps CMOS infrared chips to give robots an electronic 'nose'",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260909PD223/ssfc-medical-drone-logistics-taiwan.html"
+      "url": "https://www.digitimes.com/news/a20260910PD225/cmos-iii-v-startup-taiwan-chips.html"
     },
     {
-      "title": "Jeter August revenue rises on AI server shipments",
+      "title": "China's Shenzhen Kaifa plans CNY1.85 billion expansion for high-end memory packaging and testing",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260909PD228/revenue-logistics-shipments-2026-demand.html"
+      "url": "https://www.digitimes.com/news/a20260910VL223/shenzhen-packaging-high-end-testing-electronics.html"
     },
     {
-      "title": "Nvidia targets up to 2 GW AI capacity in Australia",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidiabacked-lambda-talks-raise-3b-sources"
-    },
-    {
-      "title": "An evening built for the people shaping AI in Asia",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/evening-built-people-shaping-ai-asia"
+      "title": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/pentagon-in-talks-lend-5-billion-ai-cloud-startup-fluidstack-wsj-reports-6377316"
     }
   ],
   "source_stats": [
@@ -47,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -128,9 +131,9 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -154,8 +157,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 80,
-      "relevant": 60,
+      "fetched": 35,
+      "relevant": 27,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -164,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -191,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
