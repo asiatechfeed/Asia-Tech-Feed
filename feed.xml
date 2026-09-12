@@ -1,4 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-11T08:01:26+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 11, 2026</title><link href="https://asiatechfeed.com/2026/09/11/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 11, 2026" /><published>2026-09-11T08:00:51+00:00</published><updated>2026-09-11T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/09/11/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/11/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-12T00:02:14+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 12, 2026</title><link href="https://asiatechfeed.com/2026/09/12/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 12, 2026" /><published>2026-09-12T00:01:20+00:00</published><updated>2026-09-12T00:01:20+00:00</updated><id>https://asiatechfeed.com/2026/09/12/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/12/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: Some Anthropic engineers think AI might end us. Why race ahead?</span></td>
+  <td class="col-summary">Anthropic was founded to be more safety-conscious than OpenAI, yet it clings to that mission statement while building ever more powerful agents, says Parmy Olson for Bloomberg Opinion.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/anthropic-claude-ai-agent-risks-6378466" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">SemiEng</span></td>
+  <td class="col-title"><span class="article-title">Heterogeneous Memory Chiplets Accelerate Multi-Request LLM Inference (NUS)</span></td>
+  <td class="col-summary">Researchers at the National University of Singapore published a technical paper titled “CHIPSMORE: Compute-in-Interconnect and -Memory Chiplets for Multi-Mode Multi-Request LLM Inference Acceleration.” Abstract Excerpt: “This paper presents CHIPSMORE, a multi-mode and multi-request LLM inference accelerator that integr</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://semiengineering.com/heterogeneous-memory-chiplets-accelerate-multi-request-llm-inference-nus/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Interview: Resonac maps five PLP hurdles, eyes 510x515mm pilot line</span></td>
+  <td class="col-summary">Advanced packaging is reshaping the semiconductor value chain, making materials innovation a key source of technical breakthroughs. As large-format panel-level packaging (PLP) gains traction, Resonac CTO for semiconductor materials Hidenori Abe told DIGITIMES that the company sees five major materials challenges: warpa</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260909PD233/resonac-materials-packaging-equipment-coating.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">SemiEng</span></td>
+  <td class="col-title"><span class="article-title">Characterizing Charge Components In TMD-based MOS Structures (imec, KU Leuven, ASM)</span></td>
+  <td class="col-summary">Researchers at imec, KU Leuven, and ASM published a technical paper titled “Dissecting the transition metal dichalcogenides-based metal-oxide-semiconductor structures charge components.” Abstract Excerpt: “Different variable charges such as interface traps, oxide border traps, and mobile carriers can contribute to the </td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://semiengineering.com/characterizing-charge-components-in-tmd-based-mos-structures-imec-ku-leuven-asm/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Luxshare eyes AR glasses breakthrough through car HUD model</span></td>
+  <td class="col-summary">At the 2026 China International Optoelectronic Exposition (CIOE), Luxshare and its lens module unit Luxvisions jointly showcased multiple optical and sensing technologies, including automotive camera modules, robot vision modules for autonomous guided vehicles (AGVs) and autonomous mobile robots (AMRs), as well as trac</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260911PD228/luxshare-ar-glasses-lens-module-2026-display.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Charts: Taiwan's AI supply chain growth moves from cooling to rack hardware</span></td>
+  <td class="col-summary">King Slide Works posted the fastest revenue growth in August among the 50 Taiwan-listed AI supply chain companies tracked by DIGITIMES , with sales up 318% from a year earlier. It marked the fourth consecutive month that the server rail kit maker more than doubled its revenue, following gains of 161% in May, 200% in Ju</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260911VL228/growth-revenue-king-slide-supply-chain-2025.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">A16z on AI scale: Why big funding builds moats</span></td>
+  <td class="col-summary">A16z's David George and Jen Kha, with Aram Verdiyan of Accolade Partners, explain why AI compute spending now builds a lasting competitive advantage.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/a16z-ai-scale-big-funding-builds-moats" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">ASEAN backs AI training for 1.7 million people by 2028</span></td>
+  <td class="col-summary">The program will run across ASEAN with AVPN, a Singapore-based social-impact network, with support from Google.org and the Asian Development Bank (ADB).</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/singapore-pushes-new-global-ai-testing-standard" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">MICROIP Lands $20M Smart Residential Edge AI Project in Taiwan</span></td>
+  <td class="col-summary">Three-year system integration project marks MICROIP's expansion from ASIC design into vertical Edge AI deployments. The post MICROIP Lands $20M Smart Residential Edge AI Project in Taiwan appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/microip-lands-20m-smart-residential-edge-ai-project-in-taiwan/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Alipay to launch wallet agent for AI payments</span></td>
+  <td class="col-summary">The company said “AI Collect” has added three capabilities, Vibe Pay, Skill Pay, and Machine Pay.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alipay-expands-ai-payment-tools-for-businesses-users" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Commentary: Some Anthropic engineers think AI might end us. Why race ahead? Anthropic was founded to be more safety-conscious than OpenAI, yet it clings to that mission statement while building ever more powerful agents, says Parmy Olson for Bloomberg Opinion. AI Read 2 SemiEng Heterogeneous Memory Chiplets Accelerate Multi-Request LLM Inference (NUS) Researchers at the National University of Singapore published a technical paper titled “CHIPSMORE: Compute-in-Interconnect and -Memory Chiplets for Multi-Mode Multi-Request LLM Inference Acceleration.” Abstract Excerpt: “This paper presents CHIPSMORE, a multi-mode and multi-request LLM inference accelerator that integr Semiconductor Read 3 DigiTimes Interview: Resonac maps five PLP hurdles, eyes 510x515mm pilot line Advanced packaging is reshaping the semiconductor value chain, making materials innovation a key source of technical breakthroughs. As large-format panel-level packaging (PLP) gains traction, Resonac CTO for semiconductor materials Hidenori Abe told DIGITIMES that the company sees five major materials challenges: warpa Semiconductor Read 4 SemiEng Characterizing Charge Components In TMD-based MOS Structures (imec, KU Leuven, ASM) Researchers at imec, KU Leuven, and ASM published a technical paper titled “Dissecting the transition metal dichalcogenides-based metal-oxide-semiconductor structures charge components.” Abstract Excerpt: “Different variable charges such as interface traps, oxide border traps, and mobile carriers can contribute to the Semiconductor Read 5 DigiTimes Luxshare eyes AR glasses breakthrough through car HUD model At the 2026 China International Optoelectronic Exposition (CIOE), Luxshare and its lens module unit Luxvisions jointly showcased multiple optical and sensing technologies, including automotive camera modules, robot vision modules for autonomous guided vehicles (AGVs) and autonomous mobile robots (AMRs), as well as trac Automation Read 6 DigiTimes Charts: Taiwan's AI supply chain growth moves from cooling to rack hardware King Slide Works posted the fastest revenue growth in August among the 50 Taiwan-listed AI supply chain companies tracked by DIGITIMES , with sales up 318% from a year earlier. It marked the fourth consecutive month that the server rail kit maker more than doubled its revenue, following gains of 161% in May, 200% in Ju AILogistics Read 7 TechAsia A16z on AI scale: Why big funding builds moats A16z's David George and Jen Kha, with Aram Verdiyan of Accolade Partners, explain why AI compute spending now builds a lasting competitive advantage. AI Read 8 TechAsia ASEAN backs AI training for 1.7 million people by 2028 The program will run across ASEAN with AVPN, a Singapore-based social-impact network, with support from Google.org and the Asian Development Bank (ADB). AI Read 9 EETAsia MICROIP Lands $20M Smart Residential Edge AI Project in Taiwan Three-year system integration project marks MICROIP's expansion from ASIC design into vertical Edge AI deployments. The post MICROIP Lands $20M Smart Residential Edge AI Project in Taiwan appeared first on EE Times Asia . AI Read 10 TechAsia Alipay to launch wallet agent for AI payments The company said “AI Collect” has added three capabilities, Vibe Pay, Skill Pay, and Machine Pay. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 11, 2026</title><link href="https://asiatechfeed.com/2026/09/11/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 11, 2026" /><published>2026-09-11T08:00:51+00:00</published><updated>2026-09-11T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/09/11/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/11/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -675,89 +768,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/supply-chain/vietnam-exports-and-imports-soar-to-record-levels-on-ai-boom" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say AI Read 2 DigiTimes Fei-Fei Li's World Labs unveils Atlas world model for 3D AI and robotics World Labs, the startup founded by Stanford professor Fei-Fei Li, has unveiled Atlas, a multimodal world model designed to generate, reconstruct, and simulate three-dimensional environments from text, images, and video. The launch marks a shift from conventional generative AI toward systems that reason about geometry, AIAutomation Read 3 DigiTimes Niching validates 500-ton press for large heat spreaders Niching Industrial is expanding its heat-spreader capacity as AI and high-performance computing demand pushes up orders across the global semiconductor supply chain. The company said larger stamping equipment, tighter plating control, and future liquid-cooling technologies are being developed to support chips that gene SemiconductorAILogistics Read 4 DigiTimes Semiconductor sustainability shifts to cost control as fab resource demand surges Sustainability is not just good for communities and the environment but also good for business. This is the message from a sustainability summit that took place at SEMICON Taiwan this week, with water management and equipment providers seeking to link water recycling, tool upgrades, and efficiency-improving automation SemiconductorAutomation Read 5 TechAsia Bots, bills, and data scraping: Inside Cloudflare’s AI plan Cloudflare's Matthew Prince explains why the old internet deal is dead, and how publishers can get paid for data, protect content, and build digital trust. AI Read 6 EW Skeleton and Infineon hook up on SSTs Infineon and supercapacitor specialist Skeleton Technologies have signed an MoU to collaborate on high-efficiency, resilient power solutions for modern data centers. The rapid growth of AI, increasing power demand and […] The post Skeleton and Infineon hook up on SSTs appeared first on Electronics Weekly . Electronics Read 7 EETAsia Sirin Software Joins Infineon Partner Ecosystem to Expand Embedded Engineering Support Sirin Software expands Infineon-based engineering support spanning wireless connectivity, industrial control, security and Edge AI applications. The post Sirin Software Joins Infineon Partner Ecosystem to Expand Embedded Engineering Support appeared first on EE Times Asia . AI Read 8 EETAsia SEMI, Silicon Catalyst Ink Partnership to Accelerate Global Semiconductor Innovation SEMI and Silicon Catalyst partner to connect semiconductor startups with investors, manufacturers, and technology leaders worldwide. The post SEMI, Silicon Catalyst Ink Partnership to Accelerate Global Semiconductor Innovation appeared first on EE Times Asia . Semiconductor Read 9 TechAsia Equinix unveils AI infrastructure services with Nvidia, AWS One is Equinix Inference Exchange, developed with Nvidia and Together AI, a US-based AI cloud company. AI Read 10 EETAsia DEEPX Bets on Open Ecosystems to Take Edge AI from Silicon to Physical Infrastructure DEEPX sees open software, portable models and ultra-low-power inference as critical to scaling physical AI beyond centralized data centers. The post DEEPX Bets on Open Ecosystems to Take Edge AI from Silicon to Physical Infrastructure appeared first on EE Times Asia . AI Read 11 TechAsia TSMC nearly doubles tool spending forecast for AI Deputy Co-COO Cliff Hou said TSMC is trying to build and equip about 20 factories in Taiwan and overseas. AI Read 12 NikkeiAsia Solvay to double chip chemical output in Taiwan amid AI boom: CEO Solvay to double chip chemical output in Taiwan amid AI boom: CEO AISemiconductor Read 13 NikkeiAsia Vietnam exports and imports soar to record levels on AI boom Vietnam exports and imports soar to record levels on AI boom AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 02, 2026</title><link href="https://asiatechfeed.com/2026/09/02/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 02, 2026" /><published>2026-09-02T08:00:53+00:00</published><updated>2026-09-02T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/09/02/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/02/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">SemiEng</span></td>
-  <td class="col-title"><span class="article-title">Extending 18A With Significant Power And Performance Gains</span></td>
-  <td class="col-summary">A dual contact architecture with ultra-low-resistance contacts increases drive current and enables higher frequencies at matched capacitance. The post Extending 18A With Significant Power And Performance Gains appeared first on Semiconductor Engineering .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://semiengineering.com/extending-18a-with-significant-power-and-performance-gains/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">This startup builds real-time guardrails for AI agents</span></td>
-  <td class="col-summary">Aethryx is building a direct control layer that translates corporate policies into executable safeguards for autonomous enterprise AI systems.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/startup-builds-realtime-guardrails-ai-agents" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">India reportedly readies AI agent payments on UPI, its national payment rails</span></td>
-  <td class="col-summary">India is preparing a framework that would allow AI agents to make small digital payments without requiring user approval for every transaction, three sources familiar with the matter told Reuters . This would be a step that would put one of the world's largest payment networks behind agentic commerce.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260902VL207.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TSMC reportedly asks suppliers to develop 5μm HBM microbumps</span></td>
-  <td class="col-summary">TSMC has asked materials and equipment suppliers to develop 5-micrometer-class microbump bonding and underfill technology for advanced HBM packaging, according to ETNews , signaling that the foundry may continue scaling conventional microbumps rather than shift immediately to hybrid bonding.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260902VL218/tsmc-hbm-materials-equipment-technology.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Certain Micro targets AI test-interface demand with three Semicon products</span></td>
-  <td class="col-summary">As Semicon Taiwan 2026 gets underway, semiconductor test-interface structural parts maker Certain Micro Application Technology (CMAT) announced three core product lines aimed at rising AI and high-performance computing (HPC) chip testing demand: fine drilling for upper and lower guide plates, probe card structural comp</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260902PD224/ic-testing-interface-probe-card-demand-semicon-taiwan-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">AI traffic is booming, but AWS says paywalls block revenue</span></td>
-  <td class="col-summary">AWS's Anil Nadiminti explains how publishers can monetize AI traffic without letting payment fees erase the value of their content.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-traffic-booming-aws-paywalls-block-revenue" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">India's Yotta targets Jan-March 2027 IPO, seeks up to $1.5 billion amid AI boom</span></td>
-  <td class="col-summary">India's Yotta targets Jan-March 2027 IPO, seeks up to $1.5 billion amid AI boom</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/indias-yotta-targets-jan-march-2027-ipo-seeks-up-15-billion-amid-ai-boom-6357021" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Cyberport 5: Supporting the future of AI in Asia and beyond</span></td>
-  <td class="col-summary">Computing resources, investment help, and global business opportunities converge under Cyberport's expanding umbrella.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/cyberport-5-supporting-future-ai-asia" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Google to speed up chip rollout to stay ahead in AI, technology chief says</span></td>
-  <td class="col-summary">Google to speed up chip rollout to stay ahead in AI, technology chief says</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/google-to-speed-up-chip-rollout-to-stay-ahead-in-ai-technology-chief-says" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 SemiEng Extending 18A With Significant Power And Performance Gains A dual contact architecture with ultra-low-resistance contacts increases drive current and enables higher frequencies at matched capacitance. The post Extending 18A With Significant Power And Performance Gains appeared first on Semiconductor Engineering . Semiconductor Read 2 TechAsia This startup builds real-time guardrails for AI agents Aethryx is building a direct control layer that translates corporate policies into executable safeguards for autonomous enterprise AI systems. AI Read 3 DigiTimes India reportedly readies AI agent payments on UPI, its national payment rails India is preparing a framework that would allow AI agents to make small digital payments without requiring user approval for every transaction, three sources familiar with the matter told Reuters . This would be a step that would put one of the world's largest payment networks behind agentic commerce. AI Read 4 DigiTimes TSMC reportedly asks suppliers to develop 5μm HBM microbumps TSMC has asked materials and equipment suppliers to develop 5-micrometer-class microbump bonding and underfill technology for advanced HBM packaging, according to ETNews , signaling that the foundry may continue scaling conventional microbumps rather than shift immediately to hybrid bonding. Semiconductor Read 5 DigiTimes Certain Micro targets AI test-interface demand with three Semicon products As Semicon Taiwan 2026 gets underway, semiconductor test-interface structural parts maker Certain Micro Application Technology (CMAT) announced three core product lines aimed at rising AI and high-performance computing (HPC) chip testing demand: fine drilling for upper and lower guide plates, probe card structural comp SemiconductorAI Read 6 TechAsia AI traffic is booming, but AWS says paywalls block revenue AWS's Anil Nadiminti explains how publishers can monetize AI traffic without letting payment fees erase the value of their content. AI Read 7 CNA India's Yotta targets Jan-March 2027 IPO, seeks up to $1.5 billion amid AI boom India's Yotta targets Jan-March 2027 IPO, seeks up to $1.5 billion amid AI boom AI Read 8 TechAsia Cyberport 5: Supporting the future of AI in Asia and beyond Computing resources, investment help, and global business opportunities converge under Cyberport's expanding umbrella. AI Read 9 NikkeiAsia Google to speed up chip rollout to stay ahead in AI, technology chief says Google to speed up chip rollout to stay ahead in AI, technology chief says Semiconductor Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say AI Read 2 DigiTimes Fei-Fei Li's World Labs unveils Atlas world model for 3D AI and robotics World Labs, the startup founded by Stanford professor Fei-Fei Li, has unveiled Atlas, a multimodal world model designed to generate, reconstruct, and simulate three-dimensional environments from text, images, and video. The launch marks a shift from conventional generative AI toward systems that reason about geometry, AIAutomation Read 3 DigiTimes Niching validates 500-ton press for large heat spreaders Niching Industrial is expanding its heat-spreader capacity as AI and high-performance computing demand pushes up orders across the global semiconductor supply chain. The company said larger stamping equipment, tighter plating control, and future liquid-cooling technologies are being developed to support chips that gene SemiconductorAILogistics Read 4 DigiTimes Semiconductor sustainability shifts to cost control as fab resource demand surges Sustainability is not just good for communities and the environment but also good for business. This is the message from a sustainability summit that took place at SEMICON Taiwan this week, with water management and equipment providers seeking to link water recycling, tool upgrades, and efficiency-improving automation SemiconductorAutomation Read 5 TechAsia Bots, bills, and data scraping: Inside Cloudflare’s AI plan Cloudflare's Matthew Prince explains why the old internet deal is dead, and how publishers can get paid for data, protect content, and build digital trust. AI Read 6 EW Skeleton and Infineon hook up on SSTs Infineon and supercapacitor specialist Skeleton Technologies have signed an MoU to collaborate on high-efficiency, resilient power solutions for modern data centers. The rapid growth of AI, increasing power demand and […] The post Skeleton and Infineon hook up on SSTs appeared first on Electronics Weekly . Electronics Read 7 EETAsia Sirin Software Joins Infineon Partner Ecosystem to Expand Embedded Engineering Support Sirin Software expands Infineon-based engineering support spanning wireless connectivity, industrial control, security and Edge AI applications. The post Sirin Software Joins Infineon Partner Ecosystem to Expand Embedded Engineering Support appeared first on EE Times Asia . AI Read 8 EETAsia SEMI, Silicon Catalyst Ink Partnership to Accelerate Global Semiconductor Innovation SEMI and Silicon Catalyst partner to connect semiconductor startups with investors, manufacturers, and technology leaders worldwide. The post SEMI, Silicon Catalyst Ink Partnership to Accelerate Global Semiconductor Innovation appeared first on EE Times Asia . Semiconductor Read 9 TechAsia Equinix unveils AI infrastructure services with Nvidia, AWS One is Equinix Inference Exchange, developed with Nvidia and Together AI, a US-based AI cloud company. AI Read 10 EETAsia DEEPX Bets on Open Ecosystems to Take Edge AI from Silicon to Physical Infrastructure DEEPX sees open software, portable models and ultra-low-power inference as critical to scaling physical AI beyond centralized data centers. The post DEEPX Bets on Open Ecosystems to Take Edge AI from Silicon to Physical Infrastructure appeared first on EE Times Asia . AI Read 11 TechAsia TSMC nearly doubles tool spending forecast for AI Deputy Co-COO Cliff Hou said TSMC is trying to build and equip about 20 factories in Taiwan and overseas. AI Read 12 NikkeiAsia Solvay to double chip chemical output in Taiwan amid AI boom: CEO Solvay to double chip chemical output in Taiwan amid AI boom: CEO AISemiconductor Read 13 NikkeiAsia Vietnam exports and imports soar to record levels on AI boom Vietnam exports and imports soar to record levels on AI boom AI Read]]></summary></entry></feed>
