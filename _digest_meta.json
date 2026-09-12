@@ -1,37 +1,39 @@
 {
-  "date": "2026-09-11",
-  "count": 9,
+  "date": "2026-09-12",
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
+    "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-09-11-asia-tech-news-digest.md",
+  "post_file": "2026-09-12-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "US listing could put Japan's Kioxia in global AI spotlight, Voya's Thomas says",
+      "title": "Commentary: Some Anthropic engineers think AI might end us. Why race ahead?",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/us-listing-could-put-japans-kioxia-in-global-ai-spotlight-voyas-thomas-says-6378266"
+      "url": "https://www.channelnewsasia.com/commentary/anthropic-claude-ai-agent-risks-6378466"
     },
     {
-      "title": "Salesforce introduces Enterprise AI Harness foundation",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/salesforce-agrees-buy-fin-36b-boost-ai"
+      "title": "Heterogeneous Memory Chiplets Accelerate Multi-Request LLM Inference (NUS)",
+      "source": "SemiEng",
+      "url": "https://semiengineering.com/heterogeneous-memory-chiplets-accelerate-multi-request-llm-inference-nus/"
     },
     {
-      "title": "CIOE: Hitachi relies on partnerships, not proprietary tech, to ride China's optical boom",
+      "title": "Interview: Resonac maps five PLP hurdles, eyes 510x515mm pilot line",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260911VL218/hitachi-optoelectronics-photonics-flagship-silicon.html"
+      "url": "https://www.digitimes.com/news/a20260909PD233/resonac-materials-packaging-equipment-coating.html"
     },
     {
-      "title": "Samsung's Exynos gains ground as Galaxy S26 lifts share to 9%",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260911VL215/samsung-exynos-galaxy-processor-flagship.html"
+      "title": "Characterizing Charge Components In TMD-based MOS Structures (imec, KU Leuven, ASM)",
+      "source": "SemiEng",
+      "url": "https://semiengineering.com/characterizing-charge-components-in-tmd-based-mos-structures-imec-ku-leuven-asm/"
     },
     {
-      "title": "Taiwan govt boosts EDA R&D to target global gaps",
+      "title": "Luxshare eyes AR glasses breakthrough through car HUD model",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260911PD221/taiwan-eda-government-nstc-design.html"
+      "url": "https://www.digitimes.com/news/a20260911PD228/luxshare-ar-glasses-lens-module-2026-display.html"
     }
   ],
   "source_stats": [
@@ -48,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -147,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 43,
-      "relevant": 33,
+      "fetched": 35,
+      "relevant": 20,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,7 +167,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 4,
+      "relevant": 2,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -192,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -210,9 +212,9 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     }
   ]
