@@ -1,39 +1,36 @@
 {
   "date": "2026-09-12",
-  "count": 10,
+  "count": 6,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
-    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-09-12-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Commentary: Some Anthropic engineers think AI might end us. Why race ahead?",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/anthropic-claude-ai-agent-risks-6378466"
+      "title": "Sequoia leads Mecka AI round at nearly $500m valuation",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/simulating-humanrobot-decision-making-embodied-ai"
     },
     {
-      "title": "Heterogeneous Memory Chiplets Accelerate Multi-Request LLM Inference (NUS)",
-      "source": "SemiEng",
-      "url": "https://semiengineering.com/heterogeneous-memory-chiplets-accelerate-multi-request-llm-inference-nus/"
+      "title": "Roblox expands AI game creation tools beyond its platform",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/roblox-demos-ai-tool-to-build-virtual-worlds-with-text-prompts"
     },
     {
-      "title": "Interview: Resonac maps five PLP hurdles, eyes 510x515mm pilot line",
+      "title": "Oracle adds $700m to restructuring costs as AI spending rises",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/oracle-shares-sink-19-ai-spending-debt-worries"
+    },
+    {
+      "title": "Rethinking defense perimeters, supply chain resilience in the AI era",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260909PD233/resonac-materials-packaging-equipment-coating.html"
+      "url": "https://www.digitimes.com/news/a20260911PD226/supply-chain-cybersecurity-software-technology-data.html"
     },
     {
-      "title": "Characterizing Charge Components In TMD-based MOS Structures (imec, KU Leuven, ASM)",
-      "source": "SemiEng",
-      "url": "https://semiengineering.com/characterizing-charge-components-in-tmd-based-mos-structures-imec-ku-leuven-asm/"
-    },
-    {
-      "title": "Luxshare eyes AR glasses breakthrough through car HUD model",
+      "title": "Analysis: Speed built Colossus, yet redundancy may decide whether SpaceX can scale it",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260911PD228/luxshare-ar-glasses-lens-module-2026-display.html"
+      "url": "https://www.digitimes.com/news/a20260911VL217/infrastructure-spacex-xai-cooling-capacity.html"
     }
   ],
   "source_stats": [
@@ -52,7 +49,7 @@
       "fetched": 20,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -151,14 +148,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 20,
+      "relevant": 22,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -194,7 +191,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 19,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -214,7 +211,7 @@
       "fetched": 10,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     }
   ]
