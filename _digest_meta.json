@@ -8,29 +8,29 @@
   "post_file": "2026-09-12-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Sequoia leads Mecka AI round at nearly $500m valuation",
+      "title": "UAE rethinks 5GW AI data center project after Iran war",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/simulating-humanrobot-decision-making-embodied-ai"
+      "url": "https://www.techinasia.com/uae-saudi-arabia-data-center-push-continues-war-risks"
     },
     {
-      "title": "Roblox expands AI game creation tools beyond its platform",
+      "title": "Moonshot AI targets $2b in annualized sales by year-end",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/roblox-demos-ai-tool-to-build-virtual-worlds-with-text-prompts"
+      "url": "https://www.techinasia.com/moonshot-ai-raises-35b-series-report"
     },
     {
-      "title": "Oracle adds $700m to restructuring costs as AI spending rises",
+      "title": "Insight Partners leads $13.3m round for pharma startup Graph AI",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/oracle-shares-sink-19-ai-spending-debt-worries"
+      "url": "https://www.techinasia.com/ai-agents-surge-enterprises-94-flag-sprawl-risks-report"
     },
     {
-      "title": "Rethinking defense perimeters, supply chain resilience in the AI era",
+      "title": "AI server boom reshuffles MLCC supply, opening a rare expansion window for Taiwan makers",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260911PD226/supply-chain-cybersecurity-software-technology-data.html"
+      "url": "https://www.digitimes.com/news/a20260911PD208/mlcc-demand-expansion-ai-server-capacity.html"
     },
     {
-      "title": "Analysis: Speed built Colossus, yet redundancy may decide whether SpaceX can scale it",
+      "title": "Murata targets mass production of its AI power substrate next year",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260911VL217/infrastructure-spacex-xai-cooling-capacity.html"
+      "url": "https://www.digitimes.com/news/a20260911VL202/murata-substrate-production-capacitor-sales.html"
     }
   ],
   "source_stats": [
@@ -47,7 +47,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
