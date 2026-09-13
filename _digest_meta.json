@@ -1,36 +1,38 @@
 {
-  "date": "2026-09-12",
-  "count": 6,
+  "date": "2026-09-13",
+  "count": 7,
   "sources": [
+    "CNA",
     "DigiTimes",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-09-12-asia-tech-news-digest.md",
+  "post_file": "2026-09-13-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "UAE rethinks 5GW AI data center project after Iran war",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/uae-saudi-arabia-data-center-push-continues-war-risks"
+      "title": "Managing 5 or more medications for an elderly family member? Here's what caregivers should know",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/wellness/senior-multiple-medications-caregiver-safety-6364221"
     },
     {
-      "title": "Moonshot AI targets $2b in annualized sales by year-end",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/moonshot-ai-raises-35b-series-report"
+      "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/openai-ipo-will-not-happen-in-2026-amid-ai-safety-fears-altman-says-6380731"
     },
     {
-      "title": "Insight Partners leads $13.3m round for pharma startup Graph AI",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/ai-agents-surge-enterprises-94-flag-sprawl-risks-report"
-    },
-    {
-      "title": "AI server boom reshuffles MLCC supply, opening a rare expansion window for Taiwan makers",
+      "title": "Commentary: Apple sends off Cook with a foldable flourish, but Ternus's trial is still ahead",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260911PD208/mlcc-demand-expansion-ai-server-capacity.html"
+      "url": "https://www.digitimes.com/news/a20260911PD227/apple-iphone-foldable-ceo-tim-cook.html"
     },
     {
-      "title": "Murata targets mass production of its AI power substrate next year",
+      "title": "Sugar, spice, and sprinkles of AI",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/sugar-spice-and-sprinkles-of-ai"
+    },
+    {
+      "title": "ViTrox sees chip inspection moving upstream as advanced packaging raises defect costs",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260911VL202/murata-substrate-production-capacitor-sales.html"
+      "url": "https://www.digitimes.com/news/a20260911VL230/inspection-packaging-production-equipment-taiwan.html"
     }
   ],
   "source_stats": [
@@ -47,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -164,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 2,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -191,9 +193,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 19,
+      "relevant": 18,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
