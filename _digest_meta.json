@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "count": 6,
+  "count": 5,
   "sources": [
     "DigiTimes",
     "TechAsia"
@@ -8,29 +8,29 @@
   "post_file": "2026-09-13-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Mapping the AI startups making waves in Japan",
+      "title": "Hyundai delays AI driver-assist system launch to 2029",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/visual-story/mapping-japans-leading-ai-startups"
+      "url": "https://www.techinasia.com/hyundai-maps-robotics-ai-push-beyond-cars"
     },
     {
-      "title": "Anthropic CEO urges AI firms to slow model development",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-plans-more-enterprise-control-over-ai-data"
-    },
-    {
-      "title": "Samsung, Qualcomm discuss broader 2nm chipmaking deal",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/samsung-electronics-shares-jump-union-suspends-strike"
-    },
-    {
-      "title": "China's robot champions can run; now they have to prove they can earn",
+      "title": "AI server exports to US slow; electronics parts jump 1.5 times in August",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260911VL212/robot-revenue-robotics-ipo-funding.html"
+      "url": "https://www.digitimes.com/news/a20260910PD202/exports-taiwan-electronics-2025-ai-server.html"
     },
     {
-      "title": "AI, 5G upgrades lift Taiwan's top three telecoms in August",
+      "title": "AI server tracker: Taiwan optics race beyond 1.6T",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260911PD206/demand-revenue-5g-taiwan-growth.html"
+      "url": "https://www.digitimes.com/news/a20260911VL216/taiwan-revenue-optics-cpo-communications.html"
+    },
+    {
+      "title": "Delays trim CAEC August sales, but UPS demand outlook stays firm",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260910PD221/ups-demand-2026-revenue-lithium.html"
+    },
+    {
+      "title": "Flipkart fintech arm Super.money launches AI shopping agents",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
     }
   ],
   "source_stats": [
@@ -191,9 +191,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 17,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
