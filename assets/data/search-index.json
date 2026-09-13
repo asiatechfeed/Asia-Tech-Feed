@@ -1,81 +1,70 @@
 [
   {
     "date": "2026-09-13",
-    "title": "Managing 5 or more medications for an elderly family member? Here's what caregivers should know",
-    "summary": "When seniors take multiple medicines, side effects and drug interactions can be harder to spot. Here's what caregivers should watch for and how to manage medications safely.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Pharmaceutical"
-    ],
-    "url": "https://www.channelnewsasia.com/wellness/senior-multiple-medications-caregiver-safety-6364221"
-  },
-  {
-    "date": "2026-09-13",
-    "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says",
-    "summary": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/openai-ipo-will-not-happen-in-2026-amid-ai-safety-fears-altman-says-6380731"
-  },
-  {
-    "date": "2026-09-13",
-    "title": "Commentary: Apple sends off Cook with a foldable flourish, but Ternus's trial is still ahead",
-    "summary": "Apple has finally unveiled the long-anticipated foldable iPhone Duo, with former CEO Tim Cook making a brief appearance at the start of the launch video. The moment suggested the device was Cook's farewell act, rather than John Ternus' first turn as chief executive, even as Apple used the 2026 fall event to frame its n",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260911PD227/apple-iphone-foldable-ceo-tim-cook.html"
-  },
-  {
-    "date": "2026-09-13",
-    "title": "Sugar, spice, and sprinkles of AI",
-    "summary": "Cylake, Pixxel, Algomatic Dynamics, and more raised funds this week.",
+    "title": "Mapping the AI startups making waves in Japan",
+    "summary": "Mapping Japan's AI sector: Key players, top investors, and funding insights in one report.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/sugar-spice-and-sprinkles-of-ai"
+    "url": "https://www.techinasia.com/visual-story/mapping-japans-leading-ai-startups"
   },
   {
     "date": "2026-09-13",
-    "title": "ViTrox sees chip inspection moving upstream as advanced packaging raises defect costs",
-    "summary": "Advanced packaging is stretching semiconductor inspection in two directions at once: packages are getting larger while the features inside them are getting smaller.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Anthropic CEO urges AI firms to slow model development",
+    "summary": "Anthropic plans to place embedded safety evaluators inside its offices.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/anthropic-plans-more-enterprise-control-over-ai-data"
+  },
+  {
+    "date": "2026-09-13",
+    "title": "Samsung, Qualcomm discuss broader 2nm chipmaking deal",
+    "summary": "Apple has reportedly secured more than half of TSMC’s early 2nm capacity.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260911VL230/inspection-packaging-production-equipment-taiwan.html"
+    "url": "https://www.techinasia.com/samsung-electronics-shares-jump-union-suspends-strike"
   },
   {
     "date": "2026-09-13",
-    "title": "Taiwan unfazed by Trump's renewed chip tariff threat as MOU already locks in preferential US treatment",
-    "summary": "Ahead of Chinese President Xi Jinping's expected visit to the US on September 24, US President Donald Trump has again discussed the issue of bringing chip manufacturing back to the US. Although he did not repeat his previous claim that Taiwan \"stole\" America's chip industry, Trump said Taiwan's chips should have been s",
+    "title": "China's robot champions can run; now they have to prove they can earn",
+    "summary": "China's humanoid robot boom is entering a harder phase. After years of headline-grabbing demonstrations and heavy private funding, companies are being pressed to prove something less theatrical but more consequential: that robots can perform reliable work, generate recurring revenue, and justify their valuations.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor"
+      "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20260910PD246/taiwan-xi-jinping-donald-trump-manufacturing-semiconductors.html"
+    "url": "https://www.digitimes.com/news/a20260911VL212/robot-revenue-robotics-ipo-funding.html"
   },
   {
     "date": "2026-09-13",
-    "title": "Fujitsu to export AI chips built on supercomputer tech to US, Asia",
-    "summary": "Fujitsu to export AI chips built on supercomputer tech to US, Asia",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "AI, 5G upgrades lift Taiwan's top three telecoms in August",
+    "summary": "Strong demand for AI and AI data centers, along with a wave of enterprise information and communications technology (ICT) projects moving into delivery, helped Taiwan's top three telecom operators extend growth in August 2026. Chunghwa Telecom posted record August revenue, operating profit, earnings before interest, ta",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260911PD206/demand-revenue-5g-taiwan-growth.html"
+  },
+  {
+    "date": "2026-09-13",
+    "title": "Column: What is SLAM? The first step in Physical AI",
+    "summary": "We previously discussed how automation removes environmental uncertainty, while autonomy requires systems to operate in complex settings. The biggest difference is that autonomous robots must enter unstructured environments and get work done, knowing where they are, what surrounds them, and how to move safely and effic",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI",
-      "Semiconductor"
+      "Automation"
     ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/fujitsu-to-export-ai-chips-built-on-supercomputer-tech-to-us-asia"
+    "url": "https://www.digitimes.com/news/a20260909PD215/automation-3d.html"
   },
   {
     "date": "2026-09-12",
