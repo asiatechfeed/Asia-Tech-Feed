@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-13T08:01:25+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 13, 2026</title><link href="https://asiatechfeed.com/2026/09/13/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 13, 2026" /><published>2026-09-13T08:00:49+00:00</published><updated>2026-09-13T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/09/13/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/13/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-14T00:06:05+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 14, 2026</title><link href="https://asiatechfeed.com/2026/09/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 14, 2026" /><published>2026-09-14T00:04:40+00:00</published><updated>2026-09-14T00:04:40+00:00</updated><id>https://asiatechfeed.com/2026/09/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">50 rising AI startups in Asia</span></td>
+  <td class="col-summary">These AI startups have a shot at becoming the next big thing.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/50-rising-ai-startups-in-asia" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">TrendForce: Top 10 Global Fabless IC Design Firms Post 73% YoY Revenue Growth in 2Q 2026</span></td>
+  <td class="col-summary">Combined revenue of the world’s top 10 fabless IC design companies surged by 73% YoY to more than $141.45 billion in 2Q 2026. The post TrendForce: Top 10 Global Fabless IC Design Firms Post 73% YoY Revenue Growth in 2Q 2026 appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/trendforce-top-10-global-fabless-ic-design-firms-post-73-yoy-revenue-growth-in-2q-2026/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Alif Semiconductor Launches Low-cost StartKits for Edge AI MCUs</span></td>
+  <td class="col-summary">New evaluation boards provide accessible hardware for developing low-power, on-device AI and machine-learning applications. The post Alif Semiconductor Launches Low-cost StartKits for Edge AI MCUs appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/alif-semiconductor-launches-low-cost-startkits-for-edge-ai-mcus/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Ceva and LG Partner to Advance UWB Integration for Automotive and IoT SoCs</span></td>
+  <td class="col-summary">Combined baseband, software and RF technologies target faster development of UWB-enabled automotive, industrial and consumer chips. The post Ceva and LG Partner to Advance UWB Integration for Automotive and IoT SoCs appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ceva-and-lg-partner-to-advance-uwb-integration-for-automotive-and-iot-socs/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwan's BTL builds new plant for high-power AI server testing, eyeing 4Q27 launch</span></td>
+  <td class="col-summary">Electronic testing and certification provider BTL Inc. has kicked off construction plans for Guishan Plant 3. The expansion targets high-power testing capacity for AI server systems, power delivery infrastructure, liquid-cooling equipment, and related peripherals, positioning the company to meet next-generation AI mark</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260911PD235/testing-btl-certification-revenue-high-power.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Artery secures spot in Arm ecosystem, pushing high-end MCUs into robotics, physical AI</span></td>
+  <td class="col-summary">As Arm targets expansion in physical AI, microcontroller (MCU) maker Artery Technology has emerged as a key ecosystem partner. Focusing on high-end 32-bit MCU applications, Artery has penetrated supply chains for robotics and unmanned aerial vehicles, with full-year 2026 revenue projected to double.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260911PD232/arm-robotics-high-end-expansion-revenue.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">HannStar to halve panel output as layoffs and a management exit fuel closure talk</span></td>
+  <td class="col-summary">HannStar Display is preparing to cut output at its only fab roughly in half, alongside a workforce reduction that industry sources put at as much as 70% — being carried out through a voluntary buyout program. The moves landed in the same week its general manager resigned, turning long-running speculation about a plant </td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260913PD200/hannstar-panel-management-fab-2026.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Applied Materials using AI to speed chip materials discovery, Japan chief says</span></td>
+  <td class="col-summary">Applied Materials using AI to speed chip materials discovery, Japan chief says</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/applied-materials-using-ai-to-speed-chip-materials-discovery-japan-chief-says" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia 50 rising AI startups in Asia These AI startups have a shot at becoming the next big thing. AI Read 2 EETAsia TrendForce: Top 10 Global Fabless IC Design Firms Post 73% YoY Revenue Growth in 2Q 2026 Combined revenue of the world’s top 10 fabless IC design companies surged by 73% YoY to more than $141.45 billion in 2Q 2026. The post TrendForce: Top 10 Global Fabless IC Design Firms Post 73% YoY Revenue Growth in 2Q 2026 appeared first on EE Times Asia . Semiconductor Read 3 EETAsia Alif Semiconductor Launches Low-cost StartKits for Edge AI MCUs New evaluation boards provide accessible hardware for developing low-power, on-device AI and machine-learning applications. The post Alif Semiconductor Launches Low-cost StartKits for Edge AI MCUs appeared first on EE Times Asia . SemiconductorAI Read 4 EETAsia Ceva and LG Partner to Advance UWB Integration for Automotive and IoT SoCs Combined baseband, software and RF technologies target faster development of UWB-enabled automotive, industrial and consumer chips. The post Ceva and LG Partner to Advance UWB Integration for Automotive and IoT SoCs appeared first on EE Times Asia . Semiconductor Read 5 DigiTimes Taiwan's BTL builds new plant for high-power AI server testing, eyeing 4Q27 launch Electronic testing and certification provider BTL Inc. has kicked off construction plans for Guishan Plant 3. The expansion targets high-power testing capacity for AI server systems, power delivery infrastructure, liquid-cooling equipment, and related peripherals, positioning the company to meet next-generation AI mark AI Read 6 DigiTimes Artery secures spot in Arm ecosystem, pushing high-end MCUs into robotics, physical AI As Arm targets expansion in physical AI, microcontroller (MCU) maker Artery Technology has emerged as a key ecosystem partner. Focusing on high-end 32-bit MCU applications, Artery has penetrated supply chains for robotics and unmanned aerial vehicles, with full-year 2026 revenue projected to double. AILogisticsAutomation Read 7 DigiTimes HannStar to halve panel output as layoffs and a management exit fuel closure talk HannStar Display is preparing to cut output at its only fab roughly in half, alongside a workforce reduction that industry sources put at as much as 70% — being carried out through a voluntary buyout program. The moves landed in the same week its general manager resigned, turning long-running speculation about a plant Semiconductor Read 8 NikkeiAsia Applied Materials using AI to speed chip materials discovery, Japan chief says Applied Materials using AI to speed chip materials discovery, Japan chief says AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 13, 2026</title><link href="https://asiatechfeed.com/2026/09/13/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 13, 2026" /><published>2026-09-13T08:00:49+00:00</published><updated>2026-09-13T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/09/13/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/13/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -595,81 +672,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903VL229/tsmc-roadmap-silicon-packaging-cowos.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Micron plans to double HBM output as AI demand grows Micron is installing additional HBM equipment at production sites in Taiwan and Singapore. AI Read 2 TechAsia Chinese chipmaker YMTC enters review for $4.6b IPO YMTC was added to the US Commerce Department’s Entity List in December 2022. Semiconductor Read 3 TechAsia Moonshot AI files for up to $5b Hong Kong IPO Moonshot AI recently reached a US$35 billion valuation after a US$3.5 billion funding round. AI Read 4 DigiTimes Taiwan semiconductor output targets NT$8 trillion As Semicon Taiwan kicked off at the Taipei Nangang Exhibition Center, the Ministry of Economic Affairs (MOEA) announced that, based on forecasts compiled from multiple research institutions, Taiwan's semiconductor industry output could top NT$8 trillion (approx. US$252.6 billion) in 2026. Advanced equipment and materia Semiconductor Read 5 DigiTimes Topco targets optical comms, cooling as copper gives way System integration remains a key hurdle as the AI chip industry pushes for higher power efficiency and faster transmission speeds, drawing intense attention to when short-reach optical communications between racks and chips will enter practical use. Industry players say the maturity of system integration is still the m AISemiconductor Read 6 DigiTimes TSMC's 3D packaging roadmap: engineering AI chips to think like the human brain TSMC is steering the future of artificial intelligence toward high-density three-dimensional advanced packaging designed to mimic the architectural connectivity of the human brain, as traditional two-dimensional silicon scaling approaches its physical limits, a top TSMC executive said at SEMICON Taiwan 2026. AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 04, 2026</title><link href="https://asiatechfeed.com/2026/09/04/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 04, 2026" /><published>2026-09-04T08:00:48+00:00</published><updated>2026-09-04T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/09/04/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/04/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">MSScorps August revenue hits new high on silicon photonics gains</span></td>
-  <td class="col-summary">MSScorps saw August 2026 revenue post a new single-month high, as global artificial intelligence (AI) computing power continues to expand, driving demand for advanced process technologies, high-performance computing (HPC), advanced packaging, and high-speed optical interconnects, further raising the importance of semic</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260904PD200/msscorps-siph-revenue-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Trusval Technology eyes NT$23 billion order backlog, US 4Q26 ramp</span></td>
-  <td class="col-summary">Trusval Technology is riding AI- and high-performance computing-driven semiconductor expansion overseas, but Taiwan's fab engineering firms face tougher labor shortages, regulations, materials constraints and rising costs abroad. Co-CEO Chu-chiao Kung said the company is turning years of high-spec project execution for</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260904PD201/trusval-fab-revenue-semicon-taiwan-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Cloudflare, OpenAI team up on AI vulnerability service</span></td>
-  <td class="col-summary">The service uses OpenAI's Daybreak models to analyze code.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/cloudflare-mastercard-partner-cyber-tools-small-businesses" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SEMICON Taiwan 2026: QuantumDiamonds cracks the hybrid bonding blind spot with new inline metrology</span></td>
-  <td class="col-summary">TAIPEI, Taiwan — The global semiconductor industry is hitting a physical wall. As artificial intelligence demands push architectures toward three-dimensional packaging, high-bandwidth memory (HBM) stacks, and complex hybrid bonding, traditional inspection tools are going blind.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260904VL212/taiwan-2026-metrology-semiconductor-industry-wafer.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">South Korea says chip investments under discussion with US amid tariff concerns</span></td>
-  <td class="col-summary">South Korea says chip investments under discussion with US amid tariff concerns</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/south-korea-says-chip-investments-under-discussion-us-amid-tariff-concerns-6362261" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Vertex Ventures leads $6m round in SG robotics firm Hivebotics</span></td>
-  <td class="col-summary">Hivebotics said the funding will support further development of its HiveIntelligence software.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/robot-cleans-toilets-humans-dont" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Moonshot AI targets Hong Kong IPO in early 2027: sources</span></td>
-  <td class="col-summary">Moonshot is seeking a final funding round before the IPO that could value the company at about US$50 billion.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-moonshot-seeks-hong-kong-ipo" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">South Korea curbs union leverage over AI, chip windfalls</span></td>
-  <td class="col-summary">South Korea curbs union leverage over AI, chip windfalls</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/south-korea-curbs-union-leverage-over-ai-chip-windfalls2" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes MSScorps August revenue hits new high on silicon photonics gains MSScorps saw August 2026 revenue post a new single-month high, as global artificial intelligence (AI) computing power continues to expand, driving demand for advanced process technologies, high-performance computing (HPC), advanced packaging, and high-speed optical interconnects, further raising the importance of semic SemiconductorAI Read 2 DigiTimes Trusval Technology eyes NT$23 billion order backlog, US 4Q26 ramp Trusval Technology is riding AI- and high-performance computing-driven semiconductor expansion overseas, but Taiwan's fab engineering firms face tougher labor shortages, regulations, materials constraints and rising costs abroad. Co-CEO Chu-chiao Kung said the company is turning years of high-spec project execution for Semiconductor Read 3 TechAsia Cloudflare, OpenAI team up on AI vulnerability service The service uses OpenAI's Daybreak models to analyze code. AI Read 4 DigiTimes SEMICON Taiwan 2026: QuantumDiamonds cracks the hybrid bonding blind spot with new inline metrology TAIPEI, Taiwan — The global semiconductor industry is hitting a physical wall. As artificial intelligence demands push architectures toward three-dimensional packaging, high-bandwidth memory (HBM) stacks, and complex hybrid bonding, traditional inspection tools are going blind. SemiconductorAI Read 5 CNA South Korea says chip investments under discussion with US amid tariff concerns South Korea says chip investments under discussion with US amid tariff concerns Semiconductor Read 6 TechAsia Vertex Ventures leads $6m round in SG robotics firm Hivebotics Hivebotics said the funding will support further development of its HiveIntelligence software. Automation Read 7 TechAsia Moonshot AI targets Hong Kong IPO in early 2027: sources Moonshot is seeking a final funding round before the IPO that could value the company at about US$50 billion. AI Read 8 NikkeiAsia South Korea curbs union leverage over AI, chip windfalls South Korea curbs union leverage over AI, chip windfalls Semiconductor Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Micron plans to double HBM output as AI demand grows Micron is installing additional HBM equipment at production sites in Taiwan and Singapore. AI Read 2 TechAsia Chinese chipmaker YMTC enters review for $4.6b IPO YMTC was added to the US Commerce Department’s Entity List in December 2022. Semiconductor Read 3 TechAsia Moonshot AI files for up to $5b Hong Kong IPO Moonshot AI recently reached a US$35 billion valuation after a US$3.5 billion funding round. AI Read 4 DigiTimes Taiwan semiconductor output targets NT$8 trillion As Semicon Taiwan kicked off at the Taipei Nangang Exhibition Center, the Ministry of Economic Affairs (MOEA) announced that, based on forecasts compiled from multiple research institutions, Taiwan's semiconductor industry output could top NT$8 trillion (approx. US$252.6 billion) in 2026. Advanced equipment and materia Semiconductor Read 5 DigiTimes Topco targets optical comms, cooling as copper gives way System integration remains a key hurdle as the AI chip industry pushes for higher power efficiency and faster transmission speeds, drawing intense attention to when short-reach optical communications between racks and chips will enter practical use. Industry players say the maturity of system integration is still the m AISemiconductor Read 6 DigiTimes TSMC's 3D packaging roadmap: engineering AI chips to think like the human brain TSMC is steering the future of artificial intelligence toward high-density three-dimensional advanced packaging designed to mimic the architectural connectivity of the human brain, as traditional two-dimensional silicon scaling approaches its physical limits, a top TSMC executive said at SEMICON Taiwan 2026. AISemiconductor Read]]></summary></entry></feed>
