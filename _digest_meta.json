@@ -1,36 +1,38 @@
 {
-  "date": "2026-09-13",
-  "count": 5,
+  "date": "2026-09-14",
+  "count": 8,
   "sources": [
     "DigiTimes",
+    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-09-13-asia-tech-news-digest.md",
+  "post_file": "2026-09-14-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Hyundai delays AI driver-assist system launch to 2029",
+      "title": "50 rising AI startups in Asia",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/hyundai-maps-robotics-ai-push-beyond-cars"
+      "url": "https://www.techinasia.com/50-rising-ai-startups-in-asia"
     },
     {
-      "title": "AI server exports to US slow; electronics parts jump 1.5 times in August",
+      "title": "TrendForce: Top 10 Global Fabless IC Design Firms Post 73% YoY Revenue Growth in 2Q 2026",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/trendforce-top-10-global-fabless-ic-design-firms-post-73-yoy-revenue-growth-in-2q-2026/"
+    },
+    {
+      "title": "Alif Semiconductor Launches Low-cost StartKits for Edge AI MCUs",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/alif-semiconductor-launches-low-cost-startkits-for-edge-ai-mcus/"
+    },
+    {
+      "title": "Ceva and LG Partner to Advance UWB Integration for Automotive and IoT SoCs",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/ceva-and-lg-partner-to-advance-uwb-integration-for-automotive-and-iot-socs/"
+    },
+    {
+      "title": "Taiwan's BTL builds new plant for high-power AI server testing, eyeing 4Q27 launch",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260910PD202/exports-taiwan-electronics-2025-ai-server.html"
-    },
-    {
-      "title": "AI server tracker: Taiwan optics race beyond 1.6T",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260911VL216/taiwan-revenue-optics-cpo-communications.html"
-    },
-    {
-      "title": "Delays trim CAEC August sales, but UPS demand outlook stays firm",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260910PD221/ups-demand-2026-revenue-lithium.html"
-    },
-    {
-      "title": "Flipkart fintech arm Super.money launches AI shopping agents",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+      "url": "https://www.digitimes.com/news/a20260911PD235/testing-btl-certification-revenue-high-power.html"
     }
   ],
   "source_stats": [
@@ -47,7 +49,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -127,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -146,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 3,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 23,
+      "relevant": 24,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -164,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 2,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -193,7 +195,7 @@
       "fetched": 36,
       "relevant": 17,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
