@@ -1,95 +1,115 @@
 [
   {
     "date": "2026-09-14",
-    "title": "50 rising AI startups in Asia",
-    "summary": "These AI startups have a shot at becoming the next big thing.",
+    "title": "Where enterprise AI comes together",
+    "summary": "Meet the partners shaping this year’s conference.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/50-rising-ai-startups-in-asia"
+    "url": "https://www.techinasia.com/conference-enterprise-ai"
   },
   {
     "date": "2026-09-14",
-    "title": "TrendForce: Top 10 Global Fabless IC Design Firms Post 73% YoY Revenue Growth in 2Q 2026",
-    "summary": "Combined revenue of the world’s top 10 fabless IC design companies surged by 73% YoY to more than $141.45 billion in 2Q 2026. The post TrendForce: Top 10 Global Fabless IC Design Firms Post 73% YoY Revenue Growth in 2Q 2026 appeared first on EE Times Asia .",
+    "title": "South Korea broadens espionage law to counter rising tech leaks",
+    "summary": "South Korea's revised Criminal Act took effect September 13, extending the scope of espionage offenses from acts benefiting North Korea to those benefiting any foreign country or equivalent organization, as South Korea strengthens protection of semiconductors and other strategic technologies.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260914VL210/technology-samsung-north-korea-cxmt.html"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "LG Display's AI transformation turns employees into AI builders, yielding 450+ in-house projects",
+    "summary": "LG Display announced on September 13 that it is expanding its company-wide artificial intelligence transformation (AX) initiative by scaling up its \"AX SQUAD\" program. Designed to empower employees across all operational tiers to build their own workflow automation solutions, the initiative bridges frontline operationa",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260914VL211/lg-display-staff-software.html"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "Taiwan taps Amazon Leo for next-generation government satellite network",
+    "summary": "Two Beyond 5G low-Earth orbit (LEO) satellites being developed by the Taiwan Space Agency (TASA) under a National Science and Technology Council (NSTC) program, along with four LEO communications satellites awarded to Wistron and Compal Electronics under an NT$1.178 billion (approx. US$37 million) contract, will not be",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260914PD215/amazon-leo-satellite-5g-taiwan-government.html"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "Hey Siri, split my rupiah bill",
+    "summary": "Apple’s AI is getting more personal — and more expensive. Plus, we get pitched by an AI agent, and the AI doomer drama continues.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/hey-siri-split-rupiah-bill"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "Asia’s airport ecosystem: Ready for take-off",
+    "summary": "From automation to new terminals, industry leaders at Passenger Terminal Expo Asia will explore how airports can keep pace with the region’s rapid aviation growth.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.channelnewsasia.com/advertorial/asias-airport-ecosystem-ready-take-6373896"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "DB HiTek Qualifies 1,200V SiC MOSFET Process on 8in Wafers",
+    "summary": "DB HiTek targets 2027 volume production as it advances 8-inch SiC process technology. The post DB HiTek Qualifies 1,200V SiC MOSFET Process on 8in Wafers appeared first on EE Times Asia .",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/trendforce-top-10-global-fabless-ic-design-firms-post-73-yoy-revenue-growth-in-2q-2026/"
+    "url": "https://www.eetasia.com/db-hitek-qualifies-1200v-sic-mosfet-process-on-8in-wafers/"
   },
   {
     "date": "2026-09-14",
-    "title": "Alif Semiconductor Launches Low-cost StartKits for Edge AI MCUs",
-    "summary": "New evaluation boards provide accessible hardware for developing low-power, on-device AI and machine-learning applications. The post Alif Semiconductor Launches Low-cost StartKits for Edge AI MCUs appeared first on EE Times Asia .",
+    "title": "AI Drives New Semiconductor Patent Race Across Computing, Memory and Custom Silicon",
+    "summary": "AI workloads are accelerating semiconductor patent activity, reshaping competition across architectures, memory, GPUs and inference technologies. The post AI Drives New Semiconductor Patent Race Across Computing, Memory and Custom Silicon appeared first on EE Times Asia .",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
       "Semiconductor",
       "AI"
     ],
-    "url": "https://www.eetasia.com/alif-semiconductor-launches-low-cost-startkits-for-edge-ai-mcus/"
+    "url": "https://www.eetasia.com/ai-drives-new-semiconductor-patent-race-across-computing-memory-and-custom-silicon/"
   },
   {
     "date": "2026-09-14",
-    "title": "Ceva and LG Partner to Advance UWB Integration for Automotive and IoT SoCs",
-    "summary": "Combined baseband, software and RF technologies target faster development of UWB-enabled automotive, industrial and consumer chips. The post Ceva and LG Partner to Advance UWB Integration for Automotive and IoT SoCs appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.eetasia.com/ceva-and-lg-partner-to-advance-uwb-integration-for-automotive-and-iot-socs/"
-  },
-  {
-    "date": "2026-09-14",
-    "title": "Taiwan's BTL builds new plant for high-power AI server testing, eyeing 4Q27 launch",
-    "summary": "Electronic testing and certification provider BTL Inc. has kicked off construction plans for Guishan Plant 3. The expansion targets high-power testing capacity for AI server systems, power delivery infrastructure, liquid-cooling equipment, and related peripherals, positioning the company to meet next-generation AI mark",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260911PD235/testing-btl-certification-revenue-high-power.html"
-  },
-  {
-    "date": "2026-09-14",
-    "title": "Artery secures spot in Arm ecosystem, pushing high-end MCUs into robotics, physical AI",
-    "summary": "As Arm targets expansion in physical AI, microcontroller (MCU) maker Artery Technology has emerged as a key ecosystem partner. Focusing on high-end 32-bit MCU applications, Artery has penetrated supply chains for robotics and unmanned aerial vehicles, with full-year 2026 revenue projected to double.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Logistics",
-      "Automation"
-    ],
-    "url": "https://www.digitimes.com/news/a20260911PD232/arm-robotics-high-end-expansion-revenue.html"
-  },
-  {
-    "date": "2026-09-14",
-    "title": "HannStar to halve panel output as layoffs and a management exit fuel closure talk",
-    "summary": "HannStar Display is preparing to cut output at its only fab roughly in half, alongside a workforce reduction that industry sources put at as much as 70% — being carried out through a voluntary buyout program. The moves landed in the same week its general manager resigned, turning long-running speculation about a plant ",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260913PD200/hannstar-panel-management-fab-2026.html"
-  },
-  {
-    "date": "2026-09-14",
-    "title": "Applied Materials using AI to speed chip materials discovery, Japan chief says",
-    "summary": "Applied Materials using AI to speed chip materials discovery, Japan chief says",
+    "title": "Tech stocks slump in Asia, driven by AI safety concerns",
+    "summary": "Tech stocks slump in Asia, driven by AI safety concerns",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "AI",
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/applied-materials-using-ai-to-speed-chip-materials-discovery-japan-chief-says"
+    "url": "https://asia.nikkei.com/business/markets/tech-stocks-slump-in-asia-driven-by-ai-safety-concerns"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "TDK to ramp up production of electronic components for AI servers",
+    "summary": "TDK to ramp up production of electronic components for AI servers",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/tdk-to-ramp-up-production-of-electronic-components-for-ai-servers"
   },
   {
     "date": "2026-09-13",

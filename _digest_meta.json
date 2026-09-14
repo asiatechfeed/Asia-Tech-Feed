@@ -1,7 +1,8 @@
 {
   "date": "2026-09-14",
-  "count": 8,
+  "count": 10,
   "sources": [
+    "CNA",
     "DigiTimes",
     "EETAsia",
     "NikkeiAsia",
@@ -10,29 +11,29 @@
   "post_file": "2026-09-14-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "50 rising AI startups in Asia",
+      "title": "Where enterprise AI comes together",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/50-rising-ai-startups-in-asia"
+      "url": "https://www.techinasia.com/conference-enterprise-ai"
     },
     {
-      "title": "TrendForce: Top 10 Global Fabless IC Design Firms Post 73% YoY Revenue Growth in 2Q 2026",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/trendforce-top-10-global-fabless-ic-design-firms-post-73-yoy-revenue-growth-in-2q-2026/"
-    },
-    {
-      "title": "Alif Semiconductor Launches Low-cost StartKits for Edge AI MCUs",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/alif-semiconductor-launches-low-cost-startkits-for-edge-ai-mcus/"
-    },
-    {
-      "title": "Ceva and LG Partner to Advance UWB Integration for Automotive and IoT SoCs",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/ceva-and-lg-partner-to-advance-uwb-integration-for-automotive-and-iot-socs/"
-    },
-    {
-      "title": "Taiwan's BTL builds new plant for high-power AI server testing, eyeing 4Q27 launch",
+      "title": "South Korea broadens espionage law to counter rising tech leaks",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260911PD235/testing-btl-certification-revenue-high-power.html"
+      "url": "https://www.digitimes.com/news/a20260914VL210/technology-samsung-north-korea-cxmt.html"
+    },
+    {
+      "title": "LG Display's AI transformation turns employees into AI builders, yielding 450+ in-house projects",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260914VL211/lg-display-staff-software.html"
+    },
+    {
+      "title": "Taiwan taps Amazon Leo for next-generation government satellite network",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260914PD215/amazon-leo-satellite-5g-taiwan-government.html"
+    },
+    {
+      "title": "Hey Siri, split my rupiah bill",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/hey-siri-split-rupiah-bill"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -129,7 +130,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -148,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 24,
+      "relevant": 28,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 3,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -193,9 +194,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
