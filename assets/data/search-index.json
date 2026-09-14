@@ -1,115 +1,80 @@
 [
   {
     "date": "2026-09-14",
-    "title": "Where enterprise AI comes together",
-    "summary": "Meet the partners shaping this year’s conference.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "More Singapore workers managing bots as firms ramp up AI use",
+    "summary": "As companies turn to AI agents to boost productivity, workers are increasingly taking on the role of managing them – raising questions about how jobs and on-the-job learning will change.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/conference-enterprise-ai"
+    "url": "https://www.channelnewsasia.com/singapore/more-singapore-workers-managing-bots-ai-agents-6382646"
   },
   {
     "date": "2026-09-14",
-    "title": "South Korea broadens espionage law to counter rising tech leaks",
-    "summary": "South Korea's revised Criminal Act took effect September 13, extending the scope of espionage offenses from acts benefiting North Korea to those benefiting any foreign country or equivalent organization, as South Korea strengthens protection of semiconductors and other strategic technologies.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260914VL210/technology-samsung-north-korea-cxmt.html"
-  },
-  {
-    "date": "2026-09-14",
-    "title": "LG Display's AI transformation turns employees into AI builders, yielding 450+ in-house projects",
-    "summary": "LG Display announced on September 13 that it is expanding its company-wide artificial intelligence transformation (AX) initiative by scaling up its \"AX SQUAD\" program. Designed to empower employees across all operational tiers to build their own workflow automation solutions, the initiative bridges frontline operationa",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Automation"
-    ],
-    "url": "https://www.digitimes.com/news/a20260914VL211/lg-display-staff-software.html"
-  },
-  {
-    "date": "2026-09-14",
-    "title": "Taiwan taps Amazon Leo for next-generation government satellite network",
-    "summary": "Two Beyond 5G low-Earth orbit (LEO) satellites being developed by the Taiwan Space Agency (TASA) under a National Science and Technology Council (NSTC) program, along with four LEO communications satellites awarded to Wistron and Compal Electronics under an NT$1.178 billion (approx. US$37 million) contract, will not be",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260914PD215/amazon-leo-satellite-5g-taiwan-government.html"
-  },
-  {
-    "date": "2026-09-14",
-    "title": "Hey Siri, split my rupiah bill",
-    "summary": "Apple’s AI is getting more personal — and more expensive. Plus, we get pitched by an AI agent, and the AI doomer drama continues.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/hey-siri-split-rupiah-bill"
-  },
-  {
-    "date": "2026-09-14",
-    "title": "Asia’s airport ecosystem: Ready for take-off",
-    "summary": "From automation to new terminals, industry leaders at Passenger Terminal Expo Asia will explore how airports can keep pace with the region’s rapid aviation growth.",
+    "title": "Exclusive-IPO for humanoid robot maker Boston Dynamics unlikely in 2027, executive says",
+    "summary": "Exclusive-IPO for humanoid robot maker Boston Dynamics unlikely in 2027, executive says",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "Automation"
     ],
-    "url": "https://www.channelnewsasia.com/advertorial/asias-airport-ecosystem-ready-take-6373896"
+    "url": "https://www.channelnewsasia.com/business/exclusive-ipo-humanoid-robot-maker-boston-dynamics-unlikely-in-2027-executive-says-6382796"
   },
   {
     "date": "2026-09-14",
-    "title": "DB HiTek Qualifies 1,200V SiC MOSFET Process on 8in Wafers",
-    "summary": "DB HiTek targets 2027 volume production as it advances 8-inch SiC process technology. The post DB HiTek Qualifies 1,200V SiC MOSFET Process on 8in Wafers appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "Solving the gap between complex ERPs and how teams really work",
+    "summary": "Breezlab uses AI to turn WhatsApp conversations into business tasks, helping SMEs automate orders, approvals, and document processing.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/solving-gap-complex-erps-teams-work"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "Foxconn subsidiary broadens AI interconnect role as 1.6T enters deployment",
+    "summary": "AI data centers are moving decisively toward 1.6T connectivity, with 800G now mainstream in AI clusters and 400G remaining common in general cloud and enterprise deployments.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260914PD225/data-design-fit-cpo-cooling.html"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "DIGITIMES Insight: China's GaN challengers are no longer playing catch-up",
+    "summary": "Chinese GaN power semiconductor maker Innoscience gained direct access to capital markets after listing in Hong Kong at the end of 2024, giving it fresh funding to expand GaN capacity and technology development.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/db-hitek-qualifies-1200v-sic-mosfet-process-on-8in-wafers/"
+    "url": "https://www.digitimes.com/news/a20260914PD223/china-gan-technology-innoscience-onsemi.html"
   },
   {
     "date": "2026-09-14",
-    "title": "AI Drives New Semiconductor Patent Race Across Computing, Memory and Custom Silicon",
-    "summary": "AI workloads are accelerating semiconductor patent activity, reshaping competition across architectures, memory, GPUs and inference technologies. The post AI Drives New Semiconductor Patent Race Across Computing, Memory and Custom Silicon appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "Z.ai reloads with US$5 billion for China's AI race",
+    "summary": "Chinese artificial intelligence developer Z.ai (formerly Zhipu AI) plans to raise about US$5 billion through a Hong Kong share placement and convertible bond sale, which would give the company fresh capital for next-generation model development, computing infrastructure and business expansion.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "Semiconductor",
       "AI"
     ],
-    "url": "https://www.eetasia.com/ai-drives-new-semiconductor-patent-race-across-computing-memory-and-custom-silicon/"
+    "url": "https://www.digitimes.com/news/a20260914VL209/z.ai-price-development-business-infrastructure.html"
   },
   {
     "date": "2026-09-14",
-    "title": "Tech stocks slump in Asia, driven by AI safety concerns",
-    "summary": "Tech stocks slump in Asia, driven by AI safety concerns",
+    "title": "Hong Kong IPO boom and Chinese AI race fuel frenzy of follow-on deals",
+    "summary": "Hong Kong IPO boom and Chinese AI race fuel frenzy of follow-on deals",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/markets/tech-stocks-slump-in-asia-driven-by-ai-safety-concerns"
-  },
-  {
-    "date": "2026-09-14",
-    "title": "TDK to ramp up production of electronic components for AI servers",
-    "summary": "TDK to ramp up production of electronic components for AI servers",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/tdk-to-ramp-up-production-of-electronic-components-for-ai-servers"
+    "url": "https://asia.nikkei.com/business/markets/equities/hong-kong-ipo-boom-and-chinese-ai-race-fuel-frenzy-of-follow-on-deals"
   },
   {
     "date": "2026-09-13",

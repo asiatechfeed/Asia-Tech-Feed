@@ -1,39 +1,38 @@
 {
   "date": "2026-09-14",
-  "count": 10,
+  "count": 7,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-14-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Where enterprise AI comes together",
+      "title": "More Singapore workers managing bots as firms ramp up AI use",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/more-singapore-workers-managing-bots-ai-agents-6382646"
+    },
+    {
+      "title": "Exclusive-IPO for humanoid robot maker Boston Dynamics unlikely in 2027, executive says",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/exclusive-ipo-humanoid-robot-maker-boston-dynamics-unlikely-in-2027-executive-says-6382796"
+    },
+    {
+      "title": "Solving the gap between complex ERPs and how teams really work",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/conference-enterprise-ai"
+      "url": "https://www.techinasia.com/solving-gap-complex-erps-teams-work"
     },
     {
-      "title": "South Korea broadens espionage law to counter rising tech leaks",
+      "title": "Foxconn subsidiary broadens AI interconnect role as 1.6T enters deployment",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260914VL210/technology-samsung-north-korea-cxmt.html"
+      "url": "https://www.digitimes.com/news/a20260914PD225/data-design-fit-cpo-cooling.html"
     },
     {
-      "title": "LG Display's AI transformation turns employees into AI builders, yielding 450+ in-house projects",
+      "title": "DIGITIMES Insight: China's GaN challengers are no longer playing catch-up",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260914VL211/lg-display-staff-software.html"
-    },
-    {
-      "title": "Taiwan taps Amazon Leo for next-generation government satellite network",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260914PD215/amazon-leo-satellite-5g-taiwan-government.html"
-    },
-    {
-      "title": "Hey Siri, split my rupiah bill",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/hey-siri-split-rupiah-bill"
+      "url": "https://www.digitimes.com/news/a20260914PD223/china-gan-technology-innoscience-onsemi.html"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -151,14 +150,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 28,
+      "fetched": 41,
+      "relevant": 29,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +168,7 @@
       "fetched": 50,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -194,9 +193,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
