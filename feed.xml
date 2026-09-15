@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-14T08:02:18+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 14, 2026</title><link href="https://asiatechfeed.com/2026/09/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 14, 2026" /><published>2026-09-14T08:01:03+00:00</published><updated>2026-09-14T08:01:03+00:00</updated><id>https://asiatechfeed.com/2026/09/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-15T00:01:33+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 15, 2026</title><link href="https://asiatechfeed.com/2026/09/15/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 15, 2026" /><published>2026-09-15T00:00:58+00:00</published><updated>2026-09-15T00:00:58+00:00</updated><id>https://asiatechfeed.com/2026/09/15/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/15/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">ByteDance lands $29.6b bank loan as it expands AI push</span></td>
+  <td class="col-summary">The three-year loan can be extended to five years.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/bytedance-folds-parts-lark-ai-cloud-teams" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Phoenix Pioneer Technology AI power substrate order visibility extends to 1Q27</span></td>
+  <td class="col-summary">IC substrate manufacturer Phoenix Pioneer Technology (PPt) turned profitable in the first half of 2026, driven by strong momentum in its advanced AI power substrate business. Production lines are running at full capacity, with order visibility clearly extending into the first quarter of 2027. Notably, end-system custom</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260914PD236/pioneer-ic-substrate-substrate-2026-revenue.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Nvidia, MediaTek deepen 20-year chip ties</span></td>
+  <td class="col-summary">Nvidia and MediaTek have recently drawn market attention after Nvidia invested US$3.5 billion in MediaTek convertible bonds, expanding cooperation into custom AI chips, AI PCs, automotive, and data centers. But their overlap began more than 20 years ago, during competition in the PC chipset market, when MediaTek, ALi, </td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260914PD229/nvidia-mediatek-market-chipset-gpu.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Robot supply strategies split between US in-house tech and Chinese local ecosystem</span></td>
+  <td class="col-summary">As humanoid robots gradually move from laboratory proofs-of-concept and enter industrial manufacturing and commercial service, their underlying motion control and environmental perception capabilities have become core indicators of product maturity. Major humanoid robot makers are actively seeking the best balance betw</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260914PD230/robot-manufacturing-industrial-development-commercial.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">US Senator Sanders and podcaster Bannon, longtime foes, to urge AI restrictions</span></td>
+  <td class="col-summary">US Senator Sanders and podcaster Bannon, longtime foes, to urge AI restrictions</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/us-senator-sanders-and-podcaster-bannon-longtime-foes-urge-ai-restrictions-6384426" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan sees slower inflow of foreign professionals as AI crimps hiring</span></td>
+  <td class="col-summary">Japan sees slower inflow of foreign professionals as AI crimps hiring</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/japan-immigration/japan-sees-slower-inflow-of-foreign-professionals-as-ai-crimps-hiring" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia ByteDance lands $29.6b bank loan as it expands AI push The three-year loan can be extended to five years. AI Read 2 DigiTimes Phoenix Pioneer Technology AI power substrate order visibility extends to 1Q27 IC substrate manufacturer Phoenix Pioneer Technology (PPt) turned profitable in the first half of 2026, driven by strong momentum in its advanced AI power substrate business. Production lines are running at full capacity, with order visibility clearly extending into the first quarter of 2027. Notably, end-system custom AI Read 3 DigiTimes Nvidia, MediaTek deepen 20-year chip ties Nvidia and MediaTek have recently drawn market attention after Nvidia invested US$3.5 billion in MediaTek convertible bonds, expanding cooperation into custom AI chips, AI PCs, automotive, and data centers. But their overlap began more than 20 years ago, during competition in the PC chipset market, when MediaTek, ALi, AISemiconductor Read 4 DigiTimes Robot supply strategies split between US in-house tech and Chinese local ecosystem As humanoid robots gradually move from laboratory proofs-of-concept and enter industrial manufacturing and commercial service, their underlying motion control and environmental perception capabilities have become core indicators of product maturity. Major humanoid robot makers are actively seeking the best balance betw Automation Read 5 CNA US Senator Sanders and podcaster Bannon, longtime foes, to urge AI restrictions US Senator Sanders and podcaster Bannon, longtime foes, to urge AI restrictions AI Read 6 NikkeiAsia Japan sees slower inflow of foreign professionals as AI crimps hiring Japan sees slower inflow of foreign professionals as AI crimps hiring AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 14, 2026</title><link href="https://asiatechfeed.com/2026/09/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 14, 2026" /><published>2026-09-14T08:01:03+00:00</published><updated>2026-09-14T08:01:03+00:00</updated><id>https://asiatechfeed.com/2026/09/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -603,65 +664,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/your-week-in-asia/brics-summit-okinawa-election-philippines-ai-plan" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Foxconn expects Q3 to beat forecasts on AI demand August revenue hit a record high, topping T$900 billion (US$28.48 billion) for the second month in a row. AI Read 2 DigiTimes Taiwan chip equipment maker Scientech sees orders into 2028, may turn away customers in 2027 AI and high-performance computing (HPC) demand is extending order visibility for Taiwanese semiconductor equipment supplier Scientech into 2028, while capacity constraints may force the company to become more selective about orders in 2027. SemiconductorAI Read 3 DigiTimes G20 AI agenda: US champions light-touch regulation while data center backlash, China rivalry intensify The G20 Innovation Ministerial was held in North Carolina, US, from September 1 to 2, with artificial intelligence (AI) taking center stage. The US urged governments to pursue a light-touch regulatory approach, while officials and technology executives also addressed data centers and copyright rules governing AI traini AI Read 4 DigiTimes Trumpf CTO says advanced packaging reshapes semiconductor equipment race AI and high-performance computing (HPC) demand is changing the semiconductor industry's technology and investment priorities. As chip power consumption, computing density, and data transfer requirements rise rapidly, competition is no longer limited to front-end process scaling; 3D stacking, advanced packaging, high-de SemiconductorAI Read 5 NikkeiAsia BRICS Summit, Okinawa election, Philippines AI plan BRICS Summit, Okinawa election, Philippines AI plan AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 05, 2026</title><link href="https://asiatechfeed.com/2026/09/05/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 05, 2026" /><published>2026-09-05T08:00:42+00:00</published><updated>2026-09-05T08:00:42+00:00</updated><id>https://asiatechfeed.com/2026/09/05/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/05/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Micron plans to double HBM output as AI demand grows</span></td>
-  <td class="col-summary">Micron is installing additional HBM equipment at production sites in Taiwan and Singapore.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/micron-reports-q2-revenue-of-23-9b-tops-estimates" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Chinese chipmaker YMTC enters review for $4.6b IPO</span></td>
-  <td class="col-summary">YMTC was added to the US Commerce Department’s Entity List in December 2022.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinese-chipmaker-ymtc-tops-kioxia-nand-shipments-report" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Moonshot AI files for up to $5b Hong Kong IPO</span></td>
-  <td class="col-summary">Moonshot AI recently reached a US$35 billion valuation after a US$3.5 billion funding round.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-moonshot-ai-targets-50b-valuation" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan semiconductor output targets NT$8 trillion</span></td>
-  <td class="col-summary">As Semicon Taiwan kicked off at the Taipei Nangang Exhibition Center, the Ministry of Economic Affairs (MOEA) announced that, based on forecasts compiled from multiple research institutions, Taiwan's semiconductor industry output could top NT$8 trillion (approx. US$252.6 billion) in 2026. Advanced equipment and materia</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260904PD237/taiwan-semiconductors-equipment-development-moea-taipei.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Topco targets optical comms, cooling as copper gives way</span></td>
-  <td class="col-summary">System integration remains a key hurdle as the AI chip industry pushes for higher power efficiency and faster transmission speeds, drawing intense attention to when short-reach optical communications between racks and chips will enter practical use. Industry players say the maturity of system integration is still the m</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260904PD235/topco-copper-cooling-ai-chip-transmission.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TSMC's 3D packaging roadmap: engineering AI chips to think like the human brain</span></td>
-  <td class="col-summary">TSMC is steering the future of artificial intelligence toward high-density three-dimensional advanced packaging designed to mimic the architectural connectivity of the human brain, as traditional two-dimensional silicon scaling approaches its physical limits, a top TSMC executive said at SEMICON Taiwan 2026.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260903VL229/tsmc-roadmap-silicon-packaging-cowos.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Micron plans to double HBM output as AI demand grows Micron is installing additional HBM equipment at production sites in Taiwan and Singapore. AI Read 2 TechAsia Chinese chipmaker YMTC enters review for $4.6b IPO YMTC was added to the US Commerce Department’s Entity List in December 2022. Semiconductor Read 3 TechAsia Moonshot AI files for up to $5b Hong Kong IPO Moonshot AI recently reached a US$35 billion valuation after a US$3.5 billion funding round. AI Read 4 DigiTimes Taiwan semiconductor output targets NT$8 trillion As Semicon Taiwan kicked off at the Taipei Nangang Exhibition Center, the Ministry of Economic Affairs (MOEA) announced that, based on forecasts compiled from multiple research institutions, Taiwan's semiconductor industry output could top NT$8 trillion (approx. US$252.6 billion) in 2026. Advanced equipment and materia Semiconductor Read 5 DigiTimes Topco targets optical comms, cooling as copper gives way System integration remains a key hurdle as the AI chip industry pushes for higher power efficiency and faster transmission speeds, drawing intense attention to when short-reach optical communications between racks and chips will enter practical use. Industry players say the maturity of system integration is still the m AISemiconductor Read 6 DigiTimes TSMC's 3D packaging roadmap: engineering AI chips to think like the human brain TSMC is steering the future of artificial intelligence toward high-density three-dimensional advanced packaging designed to mimic the architectural connectivity of the human brain, as traditional two-dimensional silicon scaling approaches its physical limits, a top TSMC executive said at SEMICON Taiwan 2026. AISemiconductor Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Foxconn expects Q3 to beat forecasts on AI demand August revenue hit a record high, topping T$900 billion (US$28.48 billion) for the second month in a row. AI Read 2 DigiTimes Taiwan chip equipment maker Scientech sees orders into 2028, may turn away customers in 2027 AI and high-performance computing (HPC) demand is extending order visibility for Taiwanese semiconductor equipment supplier Scientech into 2028, while capacity constraints may force the company to become more selective about orders in 2027. SemiconductorAI Read 3 DigiTimes G20 AI agenda: US champions light-touch regulation while data center backlash, China rivalry intensify The G20 Innovation Ministerial was held in North Carolina, US, from September 1 to 2, with artificial intelligence (AI) taking center stage. The US urged governments to pursue a light-touch regulatory approach, while officials and technology executives also addressed data centers and copyright rules governing AI traini AI Read 4 DigiTimes Trumpf CTO says advanced packaging reshapes semiconductor equipment race AI and high-performance computing (HPC) demand is changing the semiconductor industry's technology and investment priorities. As chip power consumption, computing density, and data transfer requirements rise rapidly, competition is no longer limited to front-end process scaling; 3D stacking, advanced packaging, high-de SemiconductorAI Read 5 NikkeiAsia BRICS Summit, Okinawa election, Philippines AI plan BRICS Summit, Okinawa election, Philippines AI plan AI Read]]></summary></entry></feed>
