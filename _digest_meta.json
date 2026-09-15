@@ -1,38 +1,38 @@
 {
-  "date": "2026-09-14",
-  "count": 7,
+  "date": "2026-09-15",
+  "count": 6,
   "sources": [
     "CNA",
     "DigiTimes",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-09-14-asia-tech-news-digest.md",
+  "post_file": "2026-09-15-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "More Singapore workers managing bots as firms ramp up AI use",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/more-singapore-workers-managing-bots-ai-agents-6382646"
-    },
-    {
-      "title": "Exclusive-IPO for humanoid robot maker Boston Dynamics unlikely in 2027, executive says",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/exclusive-ipo-humanoid-robot-maker-boston-dynamics-unlikely-in-2027-executive-says-6382796"
-    },
-    {
-      "title": "Solving the gap between complex ERPs and how teams really work",
+      "title": "ByteDance lands $29.6b bank loan as it expands AI push",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/solving-gap-complex-erps-teams-work"
+      "url": "https://www.techinasia.com/bytedance-folds-parts-lark-ai-cloud-teams"
     },
     {
-      "title": "Foxconn subsidiary broadens AI interconnect role as 1.6T enters deployment",
+      "title": "Phoenix Pioneer Technology AI power substrate order visibility extends to 1Q27",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260914PD225/data-design-fit-cpo-cooling.html"
+      "url": "https://www.digitimes.com/news/a20260914PD236/pioneer-ic-substrate-substrate-2026-revenue.html"
     },
     {
-      "title": "DIGITIMES Insight: China's GaN challengers are no longer playing catch-up",
+      "title": "Nvidia, MediaTek deepen 20-year chip ties",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260914PD223/china-gan-technology-innoscience-onsemi.html"
+      "url": "https://www.digitimes.com/news/a20260914PD229/nvidia-mediatek-market-chipset-gpu.html"
+    },
+    {
+      "title": "Robot supply strategies split between US in-house tech and Chinese local ecosystem",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260914PD230/robot-manufacturing-industrial-development-commercial.html"
+    },
+    {
+      "title": "US Senator Sanders and podcaster Bannon, longtime foes, to urge AI restrictions",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/us-senator-sanders-and-podcaster-bannon-longtime-foes-urge-ai-restrictions-6384426"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -148,7 +148,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 6,
+      "relevant": 5,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -156,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 41,
-      "relevant": 29,
+      "fetched": 35,
+      "relevant": 25,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +166,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 4,
+      "relevant": 5,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 10,
+      "relevant": 9,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -210,8 +210,8 @@
     {
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
-      "fetched": 10,
-      "relevant": 2,
+      "fetched": 0,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
