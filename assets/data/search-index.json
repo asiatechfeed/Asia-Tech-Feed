@@ -1,127 +1,139 @@
 [
   {
     "date": "2026-09-15",
-    "title": "Column: When digital trust breaks — quantum risk rewrites supply chain resilience",
-    "summary": "Supply chain resilience was once centred on raw materials, components, factories and logistics. AI, cloud services and the digital economy have expanded the risk perimeter. Companies now depend equally on software, data, computing power and the \"digital trust\" that underpins online transactions and cross-border collabo",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Turning B2B customer calls into viral content",
+    "summary": "Instead of generic AI writing, Posting Machine uses real meeting notes to generate executive content that drives B2B sales.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "Logistics"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260915PD213/quantum-supply-chain-security-software-materials.html"
+    "url": "https://www.techinasia.com/turning-b2b-customer-calls-viral-content"
   },
   {
     "date": "2026-09-15",
-    "title": "South Korea to develop new security guidelines for autonomous AI agents",
-    "summary": "South Korea to develop new security guidelines for autonomous AI agents",
+    "title": "China elevates HBM and HBF in five-year plan, opening a new front in AI memory",
+    "summary": "China's Ministry of Industry and Information Technology (MIIT) and National Development and Reform Commission (NDRC) have jointly released the 15th Five-Year Plan for the Development of the Electronic Information Manufacturing Industry. For the first time, the plan identifies high-bandwidth flash memory and high-bandwi",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260915PD228/hbm-policy-it-miit-industrial.html"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "Samsung's Cheonan plant reallocates packaging capacity from Exynos to HBM",
+    "summary": "Samsung Electronics is accelerating the restructuring of its semiconductor packaging footprint. Its Cheonan facility is gradually phasing out packaging operations for the Exynos mobile application processor (AP), and repurposing the equipment for high-bandwidth memory (HBM) production.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260915PD227/samsung-exynos-packaging-hbm-plant.html"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "Global semiconductor revenue hits record US$425B in 2Q26",
+    "summary": "Global semiconductor revenue reached a record US$425 billion in the second quarter of 2026, surging 31.4% quarter-over-quarter, as AI demand and strong memory pricing continued to drive the market, according to research firm Omdia.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260915VL216/revenue-market-2026-growth-omdia.html"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "Samsung backs Dutch AI chip startup Euclyd in $231m round",
+    "summary": "Euclyd plans to begin rolling out its physical chip systems in 2028.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/eu-ai-chip-startups-raise-funds-to-rival-nvidia-chips"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "Global AI startup Flam raises $40m in series B",
+    "summary": "Flam said companies use its platform for interactive video, three-dimensional content, and AI avatars.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/quickbytes-govtech-singapore-fighting-fire-fire-cybersecurity"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans'",
+    "summary": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans'",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/south-korea-develop-new-security-guidelines-autonomous-ai-agents-6385146"
+    "url": "https://www.channelnewsasia.com/business/ex-google-deepmind-researcher-adds-warnings-ai-could-kill-all-humans-6385286"
   },
   {
     "date": "2026-09-15",
-    "title": "ASML says AI demand fills EUV tool orders through 2027",
-    "summary": "Intel's High NA tools have processed more than 1 million wafers.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Ark's Wood says global AI leaders' pledge is positive for technology development",
+    "summary": "Ark's Wood says global AI leaders' pledge is positive for technology development",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/arks-wood-says-global-ai-leaders-pledge-positive-technology-development-6385216"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "2026 TIE to Put Spotlight on Taiwan’s Innovation Capabilities",
+    "summary": "TIE 2026 will showcase AI applications across industries while connecting technology developers with global investors and partners. The post 2026 TIE to Put Spotlight on Taiwan’s Innovation Capabilities appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/2026-tie-to-put-spotlight-on-taiwans-innovation-capabilities/"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "Fujitsu to Launch Japan-developed MONAKA CPU for Sovereign AI Infrastructure",
+    "summary": "Fujitsu's MONAKA CPU targets AI inference with higher throughput, power efficiency, and supply-chain transparency for sovereign infrastructure. The post Fujitsu to Launch Japan-developed MONAKA CPU for Sovereign AI Infrastructure appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/fujitsu-to-launch-japan-developed-monaka-cpu-for-sovereign-ai-infrastructure/"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "MediaTek says new AI phone chip reduces memory use amid supply crunch",
+    "summary": "MediaTek says new AI phone chip reduces memory use amid supply crunch",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/asml-highna-chips-due-months"
+    "url": "https://asia.nikkei.com/business/technology/mediatek-says-new-ai-phone-chip-reduces-memory-use-amid-supply-crunch"
   },
   {
     "date": "2026-09-15",
-    "title": "Taiwan's Ministry of Economic Affairs shares power grid experience at APEC Energy Ministerial Meeting",
-    "summary": "Vice Minister of Taiwan's Ministry of Economic Affairs (MOEA) Chien-hsin Lai recently led a delegation to Beijing, China, to attend the 16th APEC Energy Ministerial Meeting (EMM). Amid the rapid development of artificial intelligence (AI) and high-tech industries and a shifting global energy landscape driven by ongoing",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Australian tungsten miner joins US efforts to rebuild supply chain",
+    "summary": "Australian tungsten miner joins US efforts to rebuild supply chain",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
     "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260914PD247/taiwan-apec-moea-industrial-development.html"
-  },
-  {
-    "date": "2026-09-15",
-    "title": "TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity",
-    "summary": "TSMC's 3nm, 2nm, and CoWoS advanced packaging capacity remained in short supply in late 2026's third quarter, as changes in major customer orders and front-end and back-end supply models prompted the foundry to adjust its advanced capacity allocation. Supply chain sources said Nvidia and Apple continue to dominate TSMC",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Semiconductor",
       "Logistics"
     ],
-    "url": "https://www.digitimes.com/news/a20260915PD214/tsmc-3nm-2nm-capacity-cowos.html"
-  },
-  {
-    "date": "2026-09-15",
-    "title": "Navitas Extending GaN and SiC Strategy with Claros Acquisition",
-    "summary": "Navitas plans to acquire Claros for $232.8 million, targeting the final power-delivery stage from 800V infrastructure to AI processors. The post Navitas Extending GaN and SiC Strategy with Claros Acquisition appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/navitas-extending-gan-and-sic-strategy-with-claros-acquisition/"
-  },
-  {
-    "date": "2026-09-15",
-    "title": "Global Chip Revenue Surges 31% to Record $425B in 2Q 2026",
-    "summary": "Global semiconductor revenue surpassed $425 billion in 2Q 2026, reaching another all-time high as the market grew by a record 31.4% QoQ. The post Global Chip Revenue Surges 31% to Record $425B in 2Q 2026 appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.eetasia.com/global-chip-revenue-surges-31-to-record-425b-in-2q-2026/"
-  },
-  {
-    "date": "2026-09-15",
-    "title": "Rambus Extends Caliptra with Production-ready Root of Trust for AI and Data Center SoCs",
-    "summary": "Rambus combines Caliptra interoperability with hardware security, cryptographic agility, and lifecycle management for AI infrastructure SoCs. The post Rambus Extends Caliptra with Production-ready Root of Trust for AI and Data Center SoCs appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/rambus-extends-caliptra-with-production-ready-root-of-trust-for-ai-and-data-center-socs/"
-  },
-  {
-    "date": "2026-09-15",
-    "title": "Oracle starts new round of layoffs as AI spending rises",
-    "summary": "Oracle had 141,000 employees in May, down from 162,000 a year earlier.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/oracle-credit-risk-climbs-ai-spending-grows"
-  },
-  {
-    "date": "2026-09-15",
-    "title": "Australian AI firm Firmus seeks up to $5b in IPO",
-    "summary": "Last month, Firmus raised US$2 billion at a valuation above US$10.5 billion.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/blackstone-coatue-australian-ai-firm-firmus-10b-loan"
-  },
-  {
-    "date": "2026-09-15",
-    "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
-    "summary": "Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio",
-    "source": "KED Global",
-    "short": "KED",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001"
+    "url": "https://asia.nikkei.com/spotlight/supply-chain/australian-tungsten-miner-joins-us-efforts-to-rebuild-supply-chain"
   },
   {
     "date": "2026-09-14",
