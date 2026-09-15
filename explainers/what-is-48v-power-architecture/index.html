@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en" id="html-root">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>What is 48V Power Architecture — and Why Is the AI Industry Already Moving Past It? | Asia Tech Feed</title>
+  <meta name="description" content="Google built the modern data centre on 48 volts a decade ago. Now it says megawatt-scale AI racks are hitting the wall — and NVIDIA and the Open Compute Proj...">
+  
+  <link rel="stylesheet" href="/assets/css/style.css?v=4">
+  <style>
+    .nav-new-badge {
+      display: inline-block;
+      background: #f6c90e;
+      color: #0f2744;
+      font-size: 0.55rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      padding: 1px 5px;
+      border-radius: 3px;
+      vertical-align: middle;
+      margin-left: 3px;
+      line-height: 1.6;
+      text-transform: uppercase;
+    }
+  </style>
+  <script>
+    // Apply saved preference before paint to avoid flash
+    (function() {
+      var saved = localStorage.getItem('theme');
+      var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (saved === 'dark' || (!saved && prefersDark)) {
+        document.documentElement.classList.add('dark');
+      } else if (saved === 'light') {
+        document.documentElement.classList.add('light');
+      }
+    })();
+  </script>
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="theme-color" content="#1a3a5c">
+  <link rel="alternate" type="application/rss+xml" title="Asia Tech Feed" href="/feed.xml">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5549175788718429" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="site-title" href="/">
+      <img src="/assets/images/logo-light.svg" alt="Asia Tech Feed" class="site-logo site-logo-light">
+      <img src="/assets/images/logo-dark.svg" alt="Asia Tech Feed" class="site-logo site-logo-dark">
+    </a>
+    <button class="dark-toggle" id="dark-toggle" onclick="toggleDark()" aria-label="Toggle dark mode">
+      <span id="dark-icon">&#127769;</span> <span id="dark-label">Dark</span>
+    </button>
+  </div>
+</header>
+
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a href="/" >Latest</a>
+    <a href="/reports/" >Reports <span class="nav-new-badge" id="reports-new-badge">NEW</span></a>
+    <a href="/archive" >Archive</a>
+    <a href="/search" >Search</a>
+    <a href="/about" >About</a>
+    <a href="/contact" >Contact</a>
+  </div>
+</nav>
+
+<!-- Stock Ticker -->
+<div id="ticker-wrap" style="background:var(--card-bg,#fff);border-bottom:1px solid var(--border,#dde3ec);overflow:hidden;min-height:46px;"></div>
+
+<main>
+  <div class="post-body explainer-page">
+
+  <div class="post-header explainer-header">
+    <span class="explainer-badge">&#128218; Explainer</span>
+    
+    <div class="explainer-tags">
+      <span class="explainer-tag">AI</span><span class="explainer-tag">Semiconductor</span>
+    </div>
+    
+    <h1>What is 48V Power Architecture — and Why Is the AI Industry Already Moving Past It?</h1>
+    <div class="post-meta">
+      <span>&#128197; September 15, 2026</span>
+      <span>&#128100; Colin Tan</span>
+    </div>
+  </div>
+
+  <div class="explainer-content">
+    <p class="xp-lede">Google built the modern data centre on 12 volts. A decade ago, it pioneered a move to 48 volts — quadrupling the voltage, cutting wiring losses sixteen-fold, and enabling racks to scale from 10 kilowatts to 100. That shift quietly defined a generation of infrastructure. On 11 August 2026, at the OCP APAC Summit in Taipei, Google announced that 48 volts is hitting the wall — and that megawatt-scale AI racks now demand something the 48V standard was never built to handle.</p>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>What a power architecture is — and why voltage is the key variable.</b> A power architecture defines how electricity moves from the grid to the chips that need it. Alternating current (AC) from the utility arrives at the building, is converted to direct current (DC), and is distributed at a defined voltage across the facility. That voltage determines the amount of current required to deliver any given amount of power — and current is what heats cables, causes resistive losses, and limits how much power can be pushed through copper of a practical size.</p>
+    <p>The physics is captured in two laws. Power equals voltage times current (P = VI), so for the same power, higher voltage means lower current. Resistive losses scale as current squared times resistance (I&#178;R), so halving the current cuts losses by three-quarters. When Google and the Open Compute Project pioneered 48V DC distribution in the early 2010s, they applied this logic to replace 12V. Four times higher voltage meant one-quarter the current — and one-sixteenth the resistive losses. That improvement alone allowed racks to scale from roughly 10 kW to over 100 kW while keeping cabling practical.</p>
+  </div>
+  <div>
+    <p><b>Why AI has broken every prior assumption.</b> The problem is that AI chips have scaled power consumption faster than any previous generation of semiconductor technology. In 2022, a single AI processor consumed approximately 0.4 kW. By 2024, that figure had crossed 2 kW and single racks were approaching 150 kW. In 2026, NVIDIA's GB200 NVL72 racks run at roughly 120–140 kW — right at the practical ceiling of 48V architecture. NVIDIA's Vera Rubin Ultra, arriving in 2027, is projected to push single-rack demand toward 600 kW. The Feynman architecture targeted for 2028 reaches 1 megawatt per rack.</p>
+    <p>Delivering 1 MW through a 48V architecture requires over 200 kilograms of copper cabling. The currents involved — more than 20,000 amperes — demand conductor cross-sections that make physical deployment impractical. Google's statement at OCP APAC is the clearest public signal yet: 48V has become the 12V of the AI era. It served its generation well. It is now the constraint on the next one.</p>
+  </div>
+</div>
+
+<!-- ── EXHIBIT 1: Rack power demand by generation ────────── -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 1</div>
+  <h3>AI rack power demand has exploded past what 48V was designed to handle</h3>
+  <p class="xp-exhibit-sub">Peak rack-level power demand by GPU generation (kW, log scale); dashed line marks the 48V practical ceiling</p>
+
+  <svg viewBox="0 0 720 268" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Log-scale bar chart showing AI rack power demand growth from 8kW in 2022 to 1000kW by 2028">
+    <defs>
+      <style>
+        .ra{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10px;fill:#5B6675}
+        .rb{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#0A2240}
+        .rc{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#F2620F}
+        .rd{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#00A6A6}
+        .re{font-family:'Helvetica Neue',Arial,sans-serif;font-size:8.5px;fill:#5B6675}
+        .rf{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:8.5px;fill:#F2620F}
+        .rg{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9px;fill:#ffffff}
+      </style>
+    </defs>
+
+    <!-- Log scale: y(val) = 225 - log10(val)/3.301*175 -->
+    <!-- Gridlines at 10kW=y172, 100kW=y119, 1000kW=y66 -->
+    <!-- 48V ceiling at ~150kW: y=110 -->
+
+    <!-- "Beyond 48V" orange zone background (above ceiling) -->
+    <rect x="99" y="50" width="592" height="60" fill="rgba(242,98,15,0.07)" rx="2" />
+    <text x="330" y="66" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" font-weight="700" fill="#F2620F">800V HVDC territory (above 48V headroom)</text>
+
+    <!-- Y-axis gridlines -->
+    <line x1="99" y1="225" x2="691" y2="225" stroke="#D8DEE6" stroke-width="0.8" />
+    <line x1="99" y1="172" x2="691" y2="172" stroke="#D8DEE6" stroke-width="0.6" />
+    <line x1="99" y1="119" x2="691" y2="119" stroke="#D8DEE6" stroke-width="0.6" />
+    <line x1="99" y1="66" x2="691" y2="66" stroke="#D8DEE6" stroke-width="0.5" opacity="0.6" />
+
+    <!-- 48V ceiling dashed line at y=110 (~150 kW) -->
+    <line x1="99" y1="110" x2="691" y2="110" stroke="#F2620F" stroke-width="1.4" stroke-dasharray="6,4" />
+    <text x="101" y="106" class="rf">48V practical ceiling (~150 kW)</text>
+
+    <!-- Y-axis labels (log scale) -->
+    <text x="93" y="229" text-anchor="end" class="ra">1 kW</text>
+    <text x="93" y="176" text-anchor="end" class="ra">10 kW</text>
+    <text x="93" y="123" text-anchor="end" class="ra">100 kW</text>
+    <text x="93" y="70" text-anchor="end" class="ra">1,000 kW</text>
+    <text x="93" y="50" text-anchor="end" class="ra" font-size="8" font-style="italic">log scale</text>
+
+    <!-- 7 bars: width=62, gap=20, starts at x=99 -->
+    <!-- B1 Legacy (2022): 8kW → h=48, y=177 -->
+    <rect x="99" y="177" width="62" height="48" fill="#D8DEE6" rx="1" />
+    <text x="130" y="172" text-anchor="middle" class="rb">8 kW</text>
+    <text x="130" y="241" text-anchor="middle" class="ra">Legacy server</text>
+    <text x="130" y="253" text-anchor="middle" class="re">(2022 · 12/48V)</text>
+
+    <!-- B2 A100 (2023): 40kW → h=85, y=140 -->
+    <rect x="181" y="140" width="62" height="85" fill="#A8B8CA" rx="1" />
+    <text x="212" y="135" text-anchor="middle" class="rb">40 kW</text>
+    <text x="212" y="241" text-anchor="middle" class="ra">A100 era</text>
+    <text x="212" y="253" text-anchor="middle" class="re">(2023 · 48V)</text>
+
+    <!-- B3 H100 (2024): 80kW → h=101, y=124 -->
+    <rect x="263" y="124" width="62" height="101" fill="#6B84A3" rx="1" />
+    <text x="294" y="119" text-anchor="middle" class="rb">80 kW</text>
+    <text x="294" y="241" text-anchor="middle" class="ra">H100</text>
+    <text x="294" y="253" text-anchor="middle" class="re">(2024 · 48V)</text>
+
+    <!-- B4 H200 (2025): 130kW → h=112, y=113 — AT CEILING -->
+    <rect x="345" y="113" width="62" height="112" fill="#3D5A7A" rx="1" />
+    <text x="376" y="133" text-anchor="middle" class="rg" font-size="9">130 kW</text>
+    <text x="376" y="241" text-anchor="middle" class="ra">H200</text>
+    <text x="376" y="253" text-anchor="middle" class="re">(2025 · 48V)</text>
+
+    <!-- B5 GB200 NVL72 (2026): 140kW → h=114, y=111 — JUST AT CEILING -->
+    <rect x="427" y="111" width="62" height="114" fill="#0A2240" rx="1" />
+    <text x="458" y="131" text-anchor="middle" class="rg" font-size="9">140 kW</text>
+    <text x="458" y="241" text-anchor="middle" class="ra">GB200 NVL72</text>
+    <text x="458" y="253" text-anchor="middle" class="re">(2026 · 48V limit)</text>
+
+    <!-- B6 Vera Rubin Ultra (2027F): 600kW → h=147, y=78 — ABOVE CEILING, TEAL -->
+    <rect x="509" y="78" width="62" height="147" fill="#00A6A6" rx="1" opacity="0.90" />
+    <text x="540" y="73" text-anchor="middle" class="rc">600 kW</text>
+    <text x="540" y="241" text-anchor="middle" class="rd" font-weight="700">Vera Rubin Ultra</text>
+    <text x="540" y="253" text-anchor="middle" class="rd" font-size="8.5">(2027F · 800V)</text>
+
+    <!-- B7 Feynman (2028F): 1000kW → h=159, y=66 — FAR ABOVE, TEAL -->
+    <rect x="591" y="66" width="62" height="159" fill="#00A6A6" rx="1" opacity="0.75" />
+    <text x="622" y="61" text-anchor="middle" class="rc">1,000 kW</text>
+    <text x="622" y="241" text-anchor="middle" class="rd" font-weight="700">Feynman</text>
+    <text x="622" y="253" text-anchor="middle" class="rd" font-size="8.5">(2028F · 800V)</text>
+
+    <!-- Legend -->
+    <rect x="99" y="263" width="12" height="8" fill="#3D5A7A" rx="1" />
+    <text x="115" y="270" class="re">48V era</text>
+    <rect x="195" y="263" width="12" height="8" fill="#00A6A6" rx="1" />
+    <text x="211" y="270" class="re">800V HVDC era (forecast)</text>
+    <text x="395" y="270" class="re" font-style="italic">Source: NVIDIA GTC 2025 / Feynman roadmap; Google OCP APAC Aug 2026</text>
+  </svg>
+
+  <p class="xp-exhibit-source">Source: NVIDIA GTC 2025 (Kyber NVL576 / Vera Rubin Ultra roadmap); NVIDIA 800V HVDC technical blog (Jan 2026); Google OCP APAC keynote, Taipei (11 Aug 2026); DataCentreDynamics analysis (Jul 2026); cobtel.com 800V architecture analysis (Jul 2026). 2027F and 2028F are NVIDIA roadmap projections. Log scale: bars proportional to log&#8322;(kW).</p>
+</figure>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>NVIDIA's 800V answer — and why it changes data centre design.</b> NVIDIA's solution, previewed at GTC 2025 with the Kyber NVL576 system and formally detailed in January 2026, is 800V high-voltage direct current (HVDC). In this architecture, AC from the grid is converted to 800V DC at the rack perimeter in a dedicated sidecar unit — not inside the compute rack. Inside the rack, DC-to-DC converters step voltage down to what GPU chips actually need (approximately 1–3V). The sidecar approach frees the compute rack entirely of bulk power electronics, replacing 200-kilogram copper busbars with lighter, more efficient conductors.</p>
+    <p>At 800V, delivering 1 MW requires 1,250 amperes of current — compared to 20,833 amperes at 48V. The copper weight falls from over 200 kg to approximately 12 kg for the same power delivery. The space freed inside the rack, the reduction in heat from resistive losses, and the elimination of AC-to-DC conversion stages inside the compute unit together explain why NVIDIA's partners — including Delta Electronics, Lite-On, Eaton, Schneider Electric, and Vertiv — are building 800V supply infrastructure for 2027 deployments.</p>
+  </div>
+  <div>
+    <p><b>The OCP alternative: Mount Diablo and &#xB1;400V DC.</b> Google, Meta, and Microsoft have taken a parallel path. Through the Open Compute Project, the three hyperscalers are co-developing "Mount Diablo" — a bipolar &#xB1;400V DC architecture. Instead of a single 800V rail, Mount Diablo uses two opposing 400V rails with a centre ground point. Total potential across the system is 800V, but the bipolar design offers different grounding and safety characteristics than NVIDIA's unipolar approach. A sidecar power unit handles AC-to-DC conversion outside the compute rack, disaggregating power from compute in a way that hyperscalers with mixed-vendor compute fleets prefer.</p>
+    <p>Meta's Prometheus datacenter — a multi-gigawatt facility coming online in 2026 — and the planned Hyperion supercluster targeting 5 gigawatts are the scale at which these architectural choices become existential for infrastructure teams. The choice between NVIDIA's 800V track and the OCP's &#xB1;400V DC track is the most consequential unresolved variable in data centre design today. Until the industry standardises on shared connectors, grounding conventions, and safety codes, data centre operators building infrastructure for both ecosystems carry genuine integration risk.</p>
+  </div>
+</div>
+
+<!-- ── EXHIBIT 2: Current at each voltage level ───────────── -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 2</div>
+  <h3>The physics argument: current drops 16&#215; from 48V to 800V — and copper follows</h3>
+  <p class="xp-exhibit-sub">Current required (amperes) to deliver 100 kW at each voltage level; log scale; copper weight shown for 1 MW delivery</p>
+
+  <svg viewBox="0 0 720 268" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Log-scale bar chart showing current in amps required for 100kW at 12V 48V 400V and 800V">
+    <defs>
+      <style>
+        .ca{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10px;fill:#5B6675}
+        .cb{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#0A2240}
+        .cc{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#C0392B}
+        .cd{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#F2620F}
+        .ce{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#E8A33D}
+        .cf{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#00A6A6}
+        .cg{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9px;fill:#5B6675}
+        .ch{font-family:'Helvetica Neue',Arial,sans-serif;font-size:8.5px;fill:#F2620F;font-weight:700}
+        .ci{font-family:'Helvetica Neue',Arial,sans-serif;font-size:8.5px;fill:#00A6A6;font-weight:700}
+        .cj{font-family:'Helvetice Neue',Arial,sans-serif;font-size:8px;fill:#5B6675;font-style:italic}
+      </style>
+    </defs>
+
+    <!-- Log scale: y_bottom=220, log_min=1.744 (55A), range=2.256, scale=77.6px/log unit -->
+    <!-- y(val) = 220 - (log10(val)-1.744)/2.256*175 -->
+    <!-- y(8333)=51, y(2083)=98, y(250)=169, y(125)=193 -->
+
+    <!-- Y-axis gridlines -->
+    <line x1="109" y1="220" x2="654" y2="220" stroke="#D8DEE6" stroke-width="0.8" />
+    <!-- 100A: y=220-(2.0-1.744)/2.256*175 = 220-19.9 = 200.1≈200 -->
+    <line x1="109" y1="200" x2="654" y2="200" stroke="#D8DEE6" stroke-width="0.6" />
+    <!-- 1000A: y=220-(3.0-1.744)/2.256*175 = 220-97.4 = 122.6≈123 -->
+    <line x1="109" y1="123" x2="654" y2="123" stroke="#D8DEE6" stroke-width="0.6" />
+    <!-- 10000A: y=220-(4.0-1.744)/2.256*175 = 220-174.9 = 45.1≈45 -->
+    <line x1="109" y1="45" x2="654" y2="45" stroke="#D8DEE6" stroke-width="0.5" opacity="0.6" />
+
+    <!-- Y-axis labels -->
+    <text x="103" y="204" text-anchor="end" class="ca">100A</text>
+    <text x="103" y="127" text-anchor="end" class="ca">1,000A</text>
+    <text x="103" y="49" text-anchor="end" class="ca">10,000A</text>
+    <text x="103" y="26" text-anchor="end" class="ca" font-size="8" font-style="italic">log scale</text>
+
+    <!-- 4 bars: width=100, gap=45, starts at x=109 -->
+    <!-- B1 (12V): 8333A → h=169, y=51 -->
+    <rect x="109" y="51" width="100" height="169" fill="#8A94A6" rx="1" />
+    <text x="159" y="46" text-anchor="middle" class="cc">8,333A</text>
+    <text x="159" y="237" text-anchor="middle" class="cg" font-weight="700">12V</text>
+    <text x="159" y="249" text-anchor="middle" class="cg">(legacy)</text>
+
+    <!-- B2 (48V): 2083A → h=122, y=98 -->
+    <rect x="254" y="98" width="100" height="122" fill="#F2620F" rx="1" />
+    <text x="304" y="93" text-anchor="middle" class="cd">2,083A</text>
+    <text x="304" y="237" text-anchor="middle" class="cd" font-weight="700">48V</text>
+    <text x="304" y="249" text-anchor="middle" class="cd">(current OCP)</text>
+    <!-- Copper annotation above bar -->
+    <text x="304" y="72" text-anchor="middle" class="ch">&gt;200 kg copper</text>
+    <text x="304" y="83" text-anchor="middle" class="ch">for 1 MW delivery</text>
+
+    <!-- B3 (±400V): 250A → h=51, y=169 -->
+    <rect x="399" y="169" width="100" height="51" fill="#E8A33D" rx="1" />
+    <text x="449" y="164" text-anchor="middle" class="ce">250A</text>
+    <text x="449" y="237" text-anchor="middle" class="ce" font-weight="700">&#xB1;400V DC</text>
+    <text x="449" y="249" text-anchor="middle" class="cg">(Mt. Diablo)</text>
+
+    <!-- B4 (800V): 125A → h=27, y=193 -->
+    <rect x="544" y="193" width="100" height="27" fill="#00A6A6" rx="1" />
+    <text x="594" y="188" text-anchor="middle" class="cf">125A</text>
+    <text x="594" y="237" text-anchor="middle" class="cf" font-weight="700">800V HVDC</text>
+    <text x="594" y="249" text-anchor="middle" class="cg">(NVIDIA 2027F)</text>
+    <!-- Copper annotation -->
+    <text x="594" y="215" text-anchor="middle" class="ci">~12 kg copper</text>
+    <text x="594" y="226" text-anchor="middle" class="ci">for 1 MW delivery</text>
+
+    <!-- 16× bracket between 48V and 800V bars -->
+    <line x1="369" y1="98" x2="379" y2="98" stroke="#F2620F" stroke-width="1.2" />
+    <line x1="369" y1="193" x2="379" y2="193" stroke="#F2620F" stroke-width="1.2" />
+    <line x1="374" y1="98" x2="374" y2="193" stroke="#F2620F" stroke-width="1.2" />
+    <text x="384" y="143" font-family="'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#F2620F">16&#215;</text>
+    <text x="384" y="157" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9" fill="#F2620F">less current</text>
+    <text x="384" y="168" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9" fill="#F2620F">vs 48V</text>
+
+    <!-- Subtitle: I²R law note -->
+    <rect x="109" y="26" width="268" height="16" fill="#EEF2F7" rx="2" />
+    <text x="116" y="37" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" fill="#5B6675">Physics: Power = V&#xD7;I; Losses = I&#xB2;&#xD7;R &nbsp;&#xB7;&nbsp; Higher voltage = less current = far less heat</text>
+  </svg>
+
+  <p class="xp-exhibit-source">Source: Neuberger Berman AI data centre analysis (&#8220;more than 200 kg of copper cabling&#8221; for 48V at 1 MW); NVIDIA 800V HVDC architecture blog (Jan 2026); ATF calculations using P=VI for 100 kW at each voltage level. Copper weight estimates for 1 MW delivery use linear relationship (copper mass &#x221D; current) with Neuberger 200 kg as the 48V calibration point. &#xB1;400V (Mt. Diablo) copper estimate ATF derived.</p>
+</figure>
+
+<blockquote class="xp-pull-quote">
+  <p>&#8220;48V was a revolution that lasted a decade. Now the racks are hitting one megawatt. The industry needs to go to higher voltages — there is no other way.&#8221;</p>
+  <cite>Google infrastructure team keynote, OCP APAC Summit, Taipei — 11 August 2026</cite>
+</blockquote>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>Who builds the power semiconductors Asia's data centres need.</b> The voltage transition is a substantial tailwind for Asia's power semiconductor industry. The GaN (gallium nitride) devices that dominate 48V power conversion — in the 40–65V breakdown class — are produced primarily by Navitas Semiconductor, EPC, GaN Systems, and Infineon, with GaN-on-Silicon manufacturing concentrated in Asia. For the 800V conversion stage, silicon carbide (SiC) MOSFETs from onsemi, STMicroelectronics, ROHM (Japan), and Infineon are the preferred switching devices. ROHM in particular has deep foundry relationships across Japan and Southeast Asia.</p>
+    <p>Taiwan's ODM power supply manufacturers are directly in the commercial path. Delta Electronics and Lite-On Technology are both explicitly named NVIDIA partners for 800V rack power systems. AcBel Polytech and Chicony Power Technology are positioned for sidecar PSU production. Japan's Murata and TDK supply the passive components — capacitors, inductors, magnetics — that every power conversion stage depends on. The data centre power transition is not a story about US chip companies alone. It is a story about Asia's power component and manufacturing ecosystem becoming critical infrastructure for AI.</p>
+  </div>
+  <div>
+    <p><b>Three predictions for 2026–27.</b> First: NVIDIA's 800V DC architecture enters production deployments at neocloud operators and frontier AI labs by Q2 2027 — ahead of the hyperscaler mainstream, which waits for Mount Diablo interoperability standards to mature. Second: the standards fork between NVIDIA's 800V unipolar and OCP's &#xB1;400V bipolar is not resolved before end-2027; data centres built for one ecosystem will require active bridging equipment to support the other.</p>
+    <p>Third — and this is the prediction most likely to matter commercially — Taiwan's power supply ODMs capture disproportionate share of the 800V sidecar unit market by end-2027 relative to their current 48V PSU share. The sidecar is a new category with no installed base; Delta, Lite-On, and Chicony are better positioned than their European and North American competitors to execute new-design production at the volumes hyperscalers require. Watch the ODM earnings calls from Q1 2027 for the first evidence of 800V revenue materialising at meaningful scale.</p>
+  </div>
+</div>
+
+<!-- ── EXHIBIT 3: Standards comparison table ─────────────── -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 3</div>
+  <h3>The 800V fork: NVIDIA&#8217;s unipolar approach vs the OCP&#8217;s Mt. Diablo — and why both matter</h3>
+  <p class="xp-exhibit-sub">Feature comparison of the two competing 800V-class power distribution architectures, as of August 2026</p>
+
+  <svg viewBox="0 0 720 272" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Comparison table of NVIDIA 800V DC vs OCP Mt Diablo 400V DC power architectures">
+    <defs>
+      <style>
+        .ta{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10px;fill:#ffffff;font-weight:700}
+        .tb{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#0A2240}
+        .tc{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9.5px;fill:#0A2240}
+        .td{font-family:'Helvetica Neue',Arial,sans-serif;font-size:8.5px;fill:#5B6675}
+        .te{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:9px;fill:#F2620F}
+        .tf{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:9px;fill:#00A6A6}
+      </style>
+    </defs>
+
+    <!-- Column boundaries: Label 0-170, NVIDIA 172-446, OCP 448-720 -->
+    <!-- Centers: 85, 309, 584 -->
+
+    <!-- HEADER ROW (y=0-32) -->
+    <!-- Label header: navy -->
+    <rect x="0" y="0" width="170" height="32" fill="#0A2240" />
+    <text x="85" y="20" text-anchor="middle" class="ta">FEATURE</text>
+    <!-- NVIDIA header: orange -->
+    <rect x="172" y="0" width="274" height="32" fill="#F2620F" />
+    <text x="309" y="13" text-anchor="middle" class="ta">NVIDIA 800V DC (HVDC)</text>
+    <text x="309" y="26" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8" fill="rgba(255,255,255,0.85)">Unipolar, single-rail architecture</text>
+    <!-- OCP header: teal -->
+    <rect x="448" y="0" width="272" height="32" fill="#00A6A6" />
+    <text x="584" y="13" text-anchor="middle" class="ta">OCP MT. DIABLO &#xB1;400V DC</text>
+    <text x="584" y="26" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8" fill="rgba(255,255,255,0.85)">Bipolar, dual-rail architecture</text>
+
+    <!-- Vertical dividers -->
+    <line x1="170" y1="32" x2="170" y2="272" stroke="#D8DEE6" stroke-width="0.8" />
+    <line x1="446" y1="32" x2="446" y2="272" stroke="#D8DEE6" stroke-width="0.8" />
+
+    <!-- 7 data rows × 34px = 238px + header 32 = 270 (fits in 272) -->
+
+    <!-- ROW 1: Champions (y=32-66) -->
+    <rect x="0" y="32" width="720" height="34" fill="#ffffff" />
+    <line x1="0" y1="66" x2="720" y2="66" stroke="#D8DEE6" stroke-width="0.6" />
+    <text x="10" y="47" class="tb">Champions</text>
+    <text x="10" y="60" class="td">Who is driving this</text>
+    <text x="182" y="47" class="te">NVIDIA</text>
+    <text x="182" y="60" class="td">Eaton · Delta · Schneider · Vertiv</text>
+    <text x="458" y="47" class="tf">Google · Meta · Microsoft</text>
+    <text x="458" y="60" class="td">OCP consortium · multi-vendor</text>
+
+    <!-- ROW 2: Architecture (y=66-100) -->
+    <rect x="0" y="66" width="720" height="34" fill="#F8F9FB" />
+    <line x1="0" y1="100" x2="720" y2="100" stroke="#D8DEE6" stroke-width="0.6" />
+    <text x="10" y="81" class="tb">DC architecture</text>
+    <text x="10" y="94" class="td">Rail configuration</text>
+    <text x="182" y="81" class="tc">Unipolar 800V single rail</text>
+    <text x="182" y="94" class="td">Direct 800V feed; DC/DC in rack</text>
+    <text x="458" y="81" class="tc">Bipolar &#xB1;400V dual rail</text>
+    <text x="458" y="94" class="td">Centre-grounded; AC/DC sidecar</text>
+
+    <!-- ROW 3: First production system (y=100-134) -->
+    <rect x="0" y="100" width="720" height="34" fill="#ffffff" />
+    <line x1="0" y1="134" x2="720" y2="134" stroke="#D8DEE6" stroke-width="0.6" />
+    <text x="10" y="115" class="tb">First system</text>
+    <text x="10" y="128" class="td">Production milestone</text>
+    <text x="182" y="115" class="tc">Kyber NVL576 (GTC 2025)</text>
+    <text x="182" y="128" class="td">576 B200 GPUs / sidecar PSU</text>
+    <text x="458" y="115" class="tc">Pilots starting 2026</text>
+    <text x="458" y="128" class="td">Meta Prometheus / Google AI pods</text>
+
+    <!-- ROW 4: Rack power target (y=134-168) -->
+    <rect x="0" y="134" width="720" height="34" fill="#F8F9FB" />
+    <line x1="0" y1="168" x2="720" y2="168" stroke="#D8DEE6" stroke-width="0.6" />
+    <text x="10" y="149" class="tb">Rack power</text>
+    <text x="10" y="162" class="td">Target density</text>
+    <text x="182" y="149" class="te">600 kW – 1 MW</text>
+    <text x="182" y="162" class="td">Feynman roadmap: 1 MW (2028F)</text>
+    <text x="458" y="149" class="tc">140 kW – 600 kW initially</text>
+    <text x="458" y="162" class="td">Scales with OCP adoption curve</text>
+
+    <!-- ROW 5: Key power silicon (y=168-202) -->
+    <rect x="0" y="168" width="720" height="34" fill="#ffffff" />
+    <line x1="0" y1="202" x2="720" y2="202" stroke="#D8DEE6" stroke-width="0.6" />
+    <text x="10" y="183" class="tb">Power silicon</text>
+    <text x="10" y="196" class="td">Key semiconductor</text>
+    <text x="182" y="183" class="tc">GaN (48V tier) + SiC (800V)</text>
+    <text x="182" y="196" class="td">Infineon · Navitas · TI · ON Semi</text>
+    <text x="458" y="183" class="tc">GaN (48V tier) + SiC (400V)</text>
+    <text x="458" y="196" class="td">Infineon · ON Semi · ROHM (JP)</text>
+
+    <!-- ROW 6: Standardisation (y=202-236) -->
+    <rect x="0" y="202" width="720" height="34" fill="#F8F9FB" />
+    <line x1="0" y1="236" x2="720" y2="236" stroke="#D8DEE6" stroke-width="0.6" />
+    <text x="10" y="217" class="tb">Standardisation</text>
+    <text x="10" y="230" class="td">Ecosystem model</text>
+    <text x="182" y="217" class="tc">NVIDIA-led proprietary ecosystem</text>
+    <text x="182" y="230" class="td">Partners commit to Feynman roadmap</text>
+    <text x="458" y="217" class="tc">OCP open standard · multi-vendor</text>
+    <text x="458" y="230" class="td">Shared connector / grounding specs</text>
+
+    <!-- ROW 7: Operator risk (y=236-272) -->
+    <rect x="0" y="236" width="720" height="36" fill="#ffffff" />
+    <text x="10" y="251" class="tb">Operator risk</text>
+    <text x="10" y="264" class="td">Key concern</text>
+    <text x="182" y="251" class="te">Vendor roadmap dependency</text>
+    <text x="182" y="264" class="td">Must track NVIDIA&#8217;s Feynman timeline</text>
+    <text x="458" y="251" class="tf">Standardisation timeline delays</text>
+    <text x="458" y="264" class="td">Multi-vendor convergence may lag</text>
+  </svg>
+
+  <p class="xp-exhibit-source">Source: NVIDIA 800V HVDC technical blog and partner announcement (Jan 2026); DataCentreDynamics Schneider / OCP Mt. Diablo analysis (Jul 2026); GPUSmith 800V architecture analysis (Jul 2026) on convergence risk between NVIDIA unipolar and OCP bipolar standards; Open Compute Project Mt. Diablo specification. The two architectures are not electrically compatible at the rack level without conversion equipment.</p>
+</figure>
+
+<div class="xp-callout">
+  <div class="xp-callout-label">The Bottom Line</div>
+  <p>48V was a decade-long revolution that enabled the first generation of hyperscale AI infrastructure. 800V is not a modest extension — it is a complete re-architecture of how electricity reaches the chip, demanded by the physics of power densities no previous computing generation ever approached. The question is not whether the industry migrates to 800V. It is which of the two competing 800V architectures wins standardisation — or whether both coexist permanently, splitting the market between NVIDIA's closed ecosystem and the OCP's open-standard path. Asia's power ODMs, GaN and SiC chipmakers, and passive component suppliers win either way: every joule of AI compute that ships through any 800V architecture runs through their products first.</p>
+</div>
+
+<div class="xp-author-bio">
+  <div class="xp-author-name">Colin Tan &nbsp;·&nbsp; Editor, Asia Tech Feed</div>
+  <p>Colin covers semiconductors, AI infrastructure and supply-chain dynamics across the Asia-Pacific region. He reported on the OCP APAC Summit in Taipei and writes the daily ATF digest on Asian technology. Reach him at <a href="mailto:colin.tan@asiatechfeed.com" style="color:#00A6A6">colin.tan@asiatechfeed.com</a> or connect on LinkedIn.</p>
+</div>
+
+<div class="xp-footer-grid">
+  <div class="xp-key-numbers">
+    <div class="xp-kn-label">Key Numbers</div>
+    <div class="xp-kn-item"><div class="xp-kn-val">16&#215;</div><div class="xp-kn-desc">Less current: 800V<br />vs 48V for same power</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">&gt;200 kg</div><div class="xp-kn-desc">Copper needed for<br />48V at 1 MW (impractical)</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">~12 kg</div><div class="xp-kn-desc">Copper for 800V<br />at 1 MW (practical)</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">1 MW</div><div class="xp-kn-desc">NVIDIA Feynman rack<br />target (2028F)</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">2027</div><div class="xp-kn-desc">NVIDIA 800V HVDC<br />production start</div></div>
+  </div>
+  <div class="xp-related">
+    <div class="xp-related-label">Related Coverage</div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">EXPLAINER</span>
+      <h4>What is co-packaged optics — and why it matters for the next generation of AI networking?</h4>
+      <p>Power is one bottleneck; interconnect bandwidth is another. CPO addresses the networking side of the same AI infrastructure scaling problem.</p>
+    </div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">EXPLAINER</span>
+      <h4>What is a custom AI chip — and why are Google, Amazon and Meta all building their own?</h4>
+      <p>The same hyperscalers building 800V power infrastructure are designing custom AI chips. How the two trends connect in next-generation AI factory design.</p>
+    </div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">REPORT</span>
+      <h4>Asia Tech Feed on Semiconductors: Outlook H2 2026–2027</h4>
+      <p>Our H2 2026–2027 semiconductor outlook — including the prediction that power and grid constraints will stop more AI cluster deployments than chip shortages.</p>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+</div>
+
+</main>
+
+<footer>
+  <p>Asia Tech Feed &middot; Auto-updated daily via GitHub Actions &middot; Filtered for Asia</p>
+  <p>Keywords: Semiconductor &middot; Electronics &middot; Logistics &middot; Pharmaceutical &middot; Biotechnology &middot; AI &middot; Machine Vision &middot; Automation</p>
+</footer>
+
+<script>
+// Stock ticker
+var TICKER_SYMBOLS = [
+  {"proName":"NASDAQ:NVDA","title":"Nvidia"},
+  {"proName":"NASDAQ:MU","title":"Micron"},
+  {"proName":"NYSE:TSM","title":"TSMC"},
+  {"proName":"NASDAQ:ASML","title":"ASML"},
+  {"proName":"NASDAQ:AMD","title":"AMD"},
+  {"proName":"NASDAQ:AVGO","title":"Broadcom"},
+  {"proName":"NASDAQ:QCOM","title":"Qualcomm"},
+  {"proName":"NASDAQ:AMAT","title":"Applied Materials"},
+  {"proName":"NASDAQ:INTC","title":"Intel"},
+  {"proName":"NASDAQ:TXN","title":"Texas Instruments"}
+];
+
+function renderTicker() {
+  var wrap = document.getElementById('ticker-wrap');
+  if (!wrap) return;
+  wrap.innerHTML = '';
+  var isDark = document.documentElement.classList.contains('dark');
+  var container = document.createElement('div');
+  container.className = 'tradingview-widget-container';
+  var inner = document.createElement('div');
+  inner.className = 'tradingview-widget-container__widget';
+  container.appendChild(inner);
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js';
+  script.async = true;
+  script.innerHTML = JSON.stringify({
+    symbols: TICKER_SYMBOLS,
+    showSymbolLogo: true,
+    isTransparent: true,
+    displayMode: "adaptive",
+    colorTheme: isDark ? "dark" : "light",
+    locale: "en"
+  });
+  container.appendChild(script);
+  wrap.appendChild(container);
+}
+
+// Dark mode toggle
+function toggleDark() {
+  var html = document.documentElement;
+  var isDark = html.classList.contains('dark');
+  if (isDark) {
+    html.classList.remove('dark');
+    html.classList.add('light');
+    localStorage.setItem('theme', 'light');
+  } else {
+    html.classList.remove('light');
+    html.classList.add('dark');
+    localStorage.setItem('theme', 'dark');
+  }
+  updateToggleLabel();
+  renderTicker();
+}
+
+function updateToggleLabel() {
+  var isDark = document.documentElement.classList.contains('dark');
+  var icon = document.getElementById('dark-icon');
+  var label = document.getElementById('dark-label');
+  if (icon) icon.innerHTML = isDark ? '&#9728;&#xFE0F;' : '&#127769;';
+  if (label) label.textContent = isDark ? 'Light' : 'Dark';
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  updateToggleLabel();
+  renderTicker();
+});
+
+// Auto-hide "NEW" badge after 30 days
+(function() {
+  var badge = document.getElementById('reports-new-badge');
+  if (!badge) return;
+  var first = localStorage.getItem('reports-tab-first-seen');
+  if (!first) { localStorage.setItem('reports-tab-first-seen', Date.now()); return; }
+  if (Date.now() - parseInt(first) > 30 * 24 * 60 * 60 * 1000) badge.style.display = 'none';
+})();
+
+// Keyword filter
+function filterTable(keyword) {
+  const rows = document.querySelectorAll('.news-table tbody tr');
+  const btns = document.querySelectorAll('.filter-btn');
+  btns.forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+
+  rows.forEach(row => {
+    if (!keyword || keyword === 'all') {
+      row.style.display = '';
+    } else {
+      const text = row.innerText.toLowerCase();
+      row.style.display = text.includes(keyword.toLowerCase()) ? '' : 'none';
+    }
+  });
+}
+
+// CSV download
+function downloadCSV() {
+  const table = document.querySelector('.news-table');
+  if (!table) return;
+  let csv = [];
+  const rows = table.querySelectorAll('tr');
+  rows.forEach(row => {
+    const cols = row.querySelectorAll('th, td');
+    const rowData = Array.from(cols).map(col => {
+      const link = col.querySelector('a');
+      let text = link && col.classList.contains('col-link') ? link.href : col.innerText;
+      return '"' + text.replace(/"/g, '""').replace(/\n/g, ' ') + '"';
+    });
+    csv.push(rowData.join('\t'));
+  });
+  const blob = new Blob([csv.join('\n')], { type: 'text/csv' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'asia-news-' + new Date().toISOString().slice(0,10) + '.csv';
+  a.click();
+}
+</script>
+
+</body>
+</html>
