@@ -1,38 +1,39 @@
 {
   "date": "2026-09-15",
-  "count": 6,
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
-    "NikkeiAsia",
+    "EETAsia",
+    "KED",
     "TechAsia"
   ],
   "post_file": "2026-09-15-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "ByteDance lands $29.6b bank loan as it expands AI push",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/bytedance-folds-parts-lark-ai-cloud-teams"
-    },
-    {
-      "title": "Phoenix Pioneer Technology AI power substrate order visibility extends to 1Q27",
+      "title": "Column: When digital trust breaks \u2014 quantum risk rewrites supply chain resilience",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260914PD236/pioneer-ic-substrate-substrate-2026-revenue.html"
+      "url": "https://www.digitimes.com/news/a20260915PD213/quantum-supply-chain-security-software-materials.html"
     },
     {
-      "title": "Nvidia, MediaTek deepen 20-year chip ties",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260914PD229/nvidia-mediatek-market-chipset-gpu.html"
-    },
-    {
-      "title": "Robot supply strategies split between US in-house tech and Chinese local ecosystem",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260914PD230/robot-manufacturing-industrial-development-commercial.html"
-    },
-    {
-      "title": "US Senator Sanders and podcaster Bannon, longtime foes, to urge AI restrictions",
+      "title": "South Korea to develop new security guidelines for autonomous AI agents",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/us-senator-sanders-and-podcaster-bannon-longtime-foes-urge-ai-restrictions-6384426"
+      "url": "https://www.channelnewsasia.com/business/south-korea-develop-new-security-guidelines-autonomous-ai-agents-6385146"
+    },
+    {
+      "title": "ASML says AI demand fills EUV tool orders through 2027",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/asml-highna-chips-due-months"
+    },
+    {
+      "title": "Taiwan's Ministry of Economic Affairs shares power grid experience at APEC Energy Ministerial Meeting",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260914PD247/taiwan-apec-moea-industrial-development.html"
+    },
+    {
+      "title": "TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260915PD214/tsmc-3nm-2nm-capacity-cowos.html"
     }
   ],
   "source_stats": [
@@ -148,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 25,
+      "fetched": 42,
+      "relevant": 28,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +169,7 @@
       "fetched": 50,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -177,7 +178,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -195,7 +196,7 @@
       "fetched": 36,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
