@@ -1,39 +1,40 @@
 {
-  "date": "2026-09-15",
-  "count": 12,
+  "date": "2026-09-16",
+  "count": 16,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
     "NikkeiAsia",
+    "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-09-15-asia-tech-news-digest.md",
+  "post_file": "2026-09-16-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Turning B2B customer calls into viral content",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/turning-b2b-customer-calls-viral-content"
+      "title": "MacDermid Alpha Showcases Materials for Reliable Electronics Manufacturing at productronica India 2026",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/macdermid-alpha-showcases-materials-for-reliable-electronics-manufacturing-at-productronica-india-2026/"
     },
     {
-      "title": "China elevates HBM and HBF in five-year plan, opening a new front in AI memory",
+      "title": "UK workers spend nearly \u00a31 billion of their own money on AI for work, Deloitte finds",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/uk-workers-spend-nearly-ps1-billion-their-own-money-ai-work-deloitte-finds-6387421"
+    },
+    {
+      "title": "OpenAI backs bills in US Congress on AI and biological weapon threats",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/openai-backs-bills-in-us-congress-ai-and-biological-weapon-threats-6387341"
+    },
+    {
+      "title": "Commentary: AI armageddon looks different from China",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/ai-governance-us-china-openai-anthropic-wechat-6385636"
+    },
+    {
+      "title": "AR glasses target 2 billion myopia users as China supply chain eyes doubling shipments",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260915PD228/hbm-policy-it-miit-industrial.html"
-    },
-    {
-      "title": "Samsung's Cheonan plant reallocates packaging capacity from Exynos to HBM",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260915PD227/samsung-exynos-packaging-hbm-plant.html"
-    },
-    {
-      "title": "Global semiconductor revenue hits record US$425B in 2Q26",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260915VL216/revenue-market-2026-growth-omdia.html"
-    },
-    {
-      "title": "Samsung backs Dutch AI chip startup Euclyd in $231m round",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/eu-ai-chip-startups-raise-funds-to-rival-nvidia-chips"
+      "url": "https://www.digitimes.com/news/a20260915PD231/ar-glasses-supply-chain-shipments-market-smart-glasses.html"
     }
   ],
   "source_stats": [
@@ -50,9 +51,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -130,7 +131,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -149,16 +150,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 10,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 53,
-      "relevant": 38,
+      "fetched": 35,
+      "relevant": 30,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +168,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -194,7 +195,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -211,10 +212,10 @@
     {
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
-      "fetched": 0,
-      "relevant": 0,
+      "fetched": 10,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     }
   ]
