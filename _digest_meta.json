@@ -1,40 +1,39 @@
 {
   "date": "2026-09-16",
-  "count": 16,
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
     "NikkeiAsia",
-    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-09-16-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "MacDermid Alpha Showcases Materials for Reliable Electronics Manufacturing at productronica India 2026",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/macdermid-alpha-showcases-materials-for-reliable-electronics-manufacturing-at-productronica-india-2026/"
+      "title": "Ant International\u2019s next payments bet: AI agents",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/ant-internationals-payments-bet-ai-agents"
     },
     {
-      "title": "UK workers spend nearly \u00a31 billion of their own money on AI for work, Deloitte finds",
+      "title": "Singapore launches over 200 training courses with free AI subscriptions, new skills centre",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/uk-workers-spend-nearly-ps1-billion-their-own-money-ai-work-deloitte-finds-6387421"
+      "url": "https://www.channelnewsasia.com/singapore/connect-swda-skillsfuture-careers-courses-free-ai-premium-tools-6387511"
     },
     {
-      "title": "OpenAI backs bills in US Congress on AI and biological weapon threats",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/openai-backs-bills-in-us-congress-ai-and-biological-weapon-threats-6387341"
-    },
-    {
-      "title": "Commentary: AI armageddon looks different from China",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/ai-governance-us-china-openai-anthropic-wechat-6385636"
-    },
-    {
-      "title": "AR glasses target 2 billion myopia users as China supply chain eyes doubling shipments",
+      "title": "Hanmi Semiconductor reportedly lands first back-end foothold at Terafab",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260915PD231/ar-glasses-supply-chain-shipments-market-smart-glasses.html"
+      "url": "https://www.digitimes.com/news/a20260916VL207/hanmi-equipment-packaging-manufacturing-investment.html"
+    },
+    {
+      "title": "TrendForce: AI Demand Drives Sharp Split in NOR Flash Pricing",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/trendforce-ai-demand-drives-sharp-split-in-nor-flash-pricing/"
+    },
+    {
+      "title": "Aleees locks in Tainan plant for 20-year North America order",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260916PD223/aleees-plant-materials-2027-production.html"
     }
   ],
   "source_stats": [
@@ -150,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 9,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 30,
+      "fetched": 40,
+      "relevant": 33,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,16 +167,16 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
       "source": "KED",
       "name": "KED Global",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 2,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -195,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -215,7 +214,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     }
   ]
