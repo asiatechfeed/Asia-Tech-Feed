@@ -1,137 +1,106 @@
 [
   {
     "date": "2026-09-16",
-    "title": "Ant International’s next payments bet: AI agents",
-    "summary": "Ant International president Douglas Feagin talks about AI in commerce, the future of payments, and taking the company’s fintech playbook beyond Asia.",
+    "title": "Tracking AI hiring in Singapore: OpenAI, Anthropic, and more",
+    "summary": "AI firms keep talking about Singapore. Their hiring data reveals who’s truly expanding in the region.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/ant-internationals-payments-bet-ai-agents"
+    "url": "https://www.techinasia.com/visual-story/openai-anthropic-hiring-singapore"
   },
   {
     "date": "2026-09-16",
-    "title": "Singapore launches over 200 training courses with free AI subscriptions, new skills centre",
-    "summary": "Speaking at the launch of the new centre, Prime Minister Lawrence Wong said people should not need to know which agency runs which scheme before receiving support.",
+    "title": "EU's von der Leyen to invite frontier labs for talks on tackling AI risks",
+    "summary": "EU's von der Leyen to invite frontier labs for talks on tackling AI risks",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/singapore/connect-swda-skillsfuture-careers-courses-free-ai-premium-tools-6387511"
+    "url": "https://www.channelnewsasia.com/business/eus-von-der-leyen-invite-frontier-labs-talks-tackling-ai-risks-6388496"
   },
   {
     "date": "2026-09-16",
-    "title": "Hanmi Semiconductor reportedly lands first back-end foothold at Terafab",
-    "summary": "Hanmi Semiconductor has reportedly secured an order to supply advanced packaging equipment to Elon Musk's Terafab, marking the first known entry by a South Korean back-end equipment supplier into the planned US semiconductor megaproject.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260916VL207/hanmi-equipment-packaging-manufacturing-investment.html"
-  },
-  {
-    "date": "2026-09-16",
-    "title": "TrendForce: AI Demand Drives Sharp Split in NOR Flash Pricing",
-    "summary": "NOR Flash prices are set to diverge sharply in 2H26 as AI demand strains supply, with high-capacity products facing increases of up to 110%. The post TrendForce: AI Demand Drives Sharp Split in NOR Flash Pricing appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "Pickle-flavoured tart? AI inspires Japan's convenience stores",
+    "summary": "Pickle-flavoured tart? AI inspires Japan's convenience stores",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.eetasia.com/trendforce-ai-demand-drives-sharp-split-in-nor-flash-pricing/"
+    "url": "https://www.channelnewsasia.com/east-asia/japan-convenience-store-ai-products-pickle-flavoured-tart-6388461"
   },
   {
     "date": "2026-09-16",
-    "title": "Aleees locks in Tainan plant for 20-year North America order",
-    "summary": "Lithium iron phosphate (LFP) cathode materials maker Aleees said its new precursor plant will be built in Tainan, with trial production set for January 2027 and commercial shipments in July 2027, as it prepares to fulfill a 20-year long-term agreement with a North American customer. The move marks a major turning point",
+    "title": "Blog Review: Sept. 16",
+    "summary": "First-silicon success falls; engineering capacity; minimum clock period; optimizing PyTorch; counterfeit electronics. The post Blog Review: Sept. 16 appeared first on Semiconductor Engineering .",
+    "source": "Semiconductor Engineering",
+    "short": "SemiEng",
+    "tags": [
+      "Semiconductor",
+      "Electronics"
+    ],
+    "url": "https://semiengineering.com/blog-review-sept-16-3/"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "A rural village upbringing inspired this cloud computing startup",
+    "summary": "ProjectX eliminates local hardware limits by keeping desktop apps, files, and AI agents in one persistent cloud workspace.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/rural-village-upbringing-inspired-cloud-computing-startup"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "CPO ramp pushes silicon photonics testing upstream to catch defects early",
+    "summary": "As AI servers drive demand for higher-speed optical interconnects and co-packaged optics (CPO) moves toward volume production, silicon photonics testing is shifting from component-performance verification toward wafer-yield protection and earlier risk screening.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Logistics"
+      "AI",
+      "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260916PD223/aleees-plant-materials-2027-production.html"
+    "url": "https://www.digitimes.com/news/a20260915PD211/testing-cpo-photonics-silicon-demand.html"
   },
   {
     "date": "2026-09-16",
-    "title": "Chinese AI chipmaker Biren weighs $1b share sale",
-    "summary": "Biren raised about US$900 million in July before considering another sale.",
+    "title": "Taiwan CCL makers ride Nvidia's M9 shift as AI servers move to 52-layer PCBs",
+    "summary": "Global cloud service providers are continuing to expand AI infrastructure, driving a surge in demand for high-frequency, high-speed PCBs and making copper-clad laminate (CCL) upgrades increasingly critical to system performance. With both PCB layer counts and material specifications rising, Taiwan suppliers including E",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260916PD222/ccl-taiwan-nvidia-infrastructure-revenue.html"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "Intel-backed chipmaker Altera confidentially files for US IPO",
+    "summary": "Its programmable chips power data centers, telecom networks, industrial gear, and AI systems.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/chinese-tech-listings-gain-hk-domestic-tech-support"
+    "url": "https://www.techinasia.com/intel-q3-revenue-rises-3-to-13-7b-posts-4-1b-profit"
   },
   {
     "date": "2026-09-16",
-    "title": "JETRO, Purdue University Expand Japan-U.S. Advanced Technology Collaboration",
-    "summary": "JETRO and Purdue University have signed an MOU to expand collaboration across semiconductors, quantum technologies, AI, advanced manufacturing and life sciences. The post JETRO, Purdue University Expand Japan-U.S. Advanced Technology Collaboration appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.eetasia.com/jetro-purdue-university-expand-japan-u-s-advanced-technology-collaboration/"
-  },
-  {
-    "date": "2026-09-16",
-    "title": "Kepler bets HBM can scale without EUV — chip giants are buying in",
-    "summary": "US memory chip startup Kepler Computing has emerged from stealth after seven years, disclosing US$468 million in total funding and a plan to rethink how high-density memory is manufactured.",
+    "title": "Samsung Exynos regains share as Galaxy phones test 2nm",
+    "summary": "Samsung Electronics' in-house Exynos application processors (APs) are steadily regaining lost ground in the global smartphone market. Samsung's share of the global smartphone AP market rose to 9% in the second quarter of 2026, up 2 percentage points from the previous quarter and 3 percentage points from a year earlier,",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor"
+      "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20260915PD217/kepler-hbm-euv-startup-globalfoundries.html"
-  },
-  {
-    "date": "2026-09-16",
-    "title": "Meta's Zuckerberg says AI labs have enough incentive to build safely",
-    "summary": "Meta's Zuckerberg says AI labs have enough incentive to build safely",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/world/ai-artificial-intelligence-zuckerberg-meta-6387866"
-  },
-  {
-    "date": "2026-09-16",
-    "title": "Salesforce unveils AIforce for AI-powered CRM access",
-    "summary": "Employees can ask AI to flag accounts, assign follow-ups, and draft emails.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/salesforces-anthropic-stake-worth-5b"
-  },
-  {
-    "date": "2026-09-16",
-    "title": "Anthropic to open Singapore office in October, hire locally",
-    "summary": "The Singapore office will be the AI company's fifth in the Asia-Pacific region.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/singapore/ai-anthropic-singapore-office-october-open-6387651"
-  },
-  {
-    "date": "2026-09-16",
-    "title": "Sharp takes orders for AI servers, backed by Foxconn's supply chain",
-    "summary": "Sharp takes orders for AI servers, backed by Foxconn's supply chain",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI",
-      "Logistics"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/sharp-takes-orders-for-ai-servers-backed-by-foxconn-s-supply-chain"
+    "url": "https://www.digitimes.com/news/a20260915PD235/samsung-exynos-galaxy-2nm-global-smartphone.html"
   },
   {
     "date": "2026-09-15",

@@ -1,39 +1,38 @@
 {
   "date": "2026-09-16",
-  "count": 12,
+  "count": 9,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
-    "NikkeiAsia",
+    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-09-16-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Ant International\u2019s next payments bet: AI agents",
+      "title": "Tracking AI hiring in Singapore: OpenAI, Anthropic, and more",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/ant-internationals-payments-bet-ai-agents"
+      "url": "https://www.techinasia.com/visual-story/openai-anthropic-hiring-singapore"
     },
     {
-      "title": "Singapore launches over 200 training courses with free AI subscriptions, new skills centre",
+      "title": "EU's von der Leyen to invite frontier labs for talks on tackling AI risks",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/connect-swda-skillsfuture-careers-courses-free-ai-premium-tools-6387511"
+      "url": "https://www.channelnewsasia.com/business/eus-von-der-leyen-invite-frontier-labs-talks-tackling-ai-risks-6388496"
     },
     {
-      "title": "Hanmi Semiconductor reportedly lands first back-end foothold at Terafab",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260916VL207/hanmi-equipment-packaging-manufacturing-investment.html"
+      "title": "Pickle-flavoured tart? AI inspires Japan's convenience stores",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/japan-convenience-store-ai-products-pickle-flavoured-tart-6388461"
     },
     {
-      "title": "TrendForce: AI Demand Drives Sharp Split in NOR Flash Pricing",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/trendforce-ai-demand-drives-sharp-split-in-nor-flash-pricing/"
+      "title": "Blog Review: Sept. 16",
+      "source": "SemiEng",
+      "url": "https://semiengineering.com/blog-review-sept-16-3/"
     },
     {
-      "title": "Aleees locks in Tainan plant for 20-year North America order",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260916PD223/aleees-plant-materials-2027-production.html"
+      "title": "A rural village upbringing inspired this cloud computing startup",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/rural-village-upbringing-inspired-cloud-computing-startup"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -151,14 +150,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 40,
-      "relevant": 33,
+      "fetched": 53,
+      "relevant": 44,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +168,7 @@
       "fetched": 50,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 20,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -212,9 +211,9 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     }
   ]
