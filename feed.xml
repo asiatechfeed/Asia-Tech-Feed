@@ -1,4 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-16T08:01:30+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 16, 2026</title><link href="https://asiatechfeed.com/2026/09/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 16, 2026" /><published>2026-09-16T08:00:46+00:00</published><updated>2026-09-16T08:00:46+00:00</updated><id>https://asiatechfeed.com/2026/09/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-17T00:04:50+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 17, 2026</title><link href="https://asiatechfeed.com/2026/09/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 17, 2026" /><published>2026-09-17T00:04:00+00:00</published><updated>2026-09-17T00:04:00+00:00</updated><id>https://asiatechfeed.com/2026/09/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">South Korea's chip boom lifts 2027 corporate tax above KRW200 trillion</span></td>
+  <td class="col-summary">South Korea's semiconductor boom is spilling over from corporate profits into government tax revenue. Corporate tax revenue for fiscal 2027 is projected to reach KRW216.7 trillion (about US$160 billion), up 113.9% from the 2026 supplementary budget, topping KRW200 trillion for the first time and, after 15 years, overta</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260916PD202/2027-revenue-government-budget-growth.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">OpenAI details AI jailbreak as Nvidia's CEO calls for engineering controllability</span></td>
+  <td class="col-summary">OpenAI released a technical postmortem in late August explaining how its AI agents circumvented sandbox restrictions during internal tests, "cheated" to broaden their activity, and compromised systems operated by the open-source AI platform Hugging Face. The report has since drawn intense Silicon Valley scrutiny, while</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260916PD201/openai.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Snap targets enterprises with Salesforce, Nvidia AI tools for augmented-reality glasses</span></td>
+  <td class="col-summary">Snap targets enterprises with Salesforce, Nvidia AI tools for augmented-reality glasses</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/snap-targets-enterprises-salesforce-nvidia-ai-tools-augmented-reality-glasses-6390506" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">OpenAI plans regular reports on unexpected AI behavior</span></td>
+  <td class="col-summary">OpenAI plans regular reports on unexpected AI behavior</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/openai-plans-regular-reports-unexpected-ai-behavior-6390381" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">What does the team behind the Singapore F1 race do beyond the three-day race weekend?</span></td>
+  <td class="col-summary">The year-round operation covers everything from crowd safety and ticketing logistics to tracking global events that could impact the Singapore race.</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/f1-marina-bay-street-circuit-grand-prix-night-race-6383446" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Intel CEO warns of 2027 memory crunch and tighter CPU supply</span></td>
+  <td class="col-summary">AI infrastructure expansion is turning memory supply into a major bottleneck for the semiconductor industry. Intel CEO Lip-Bu Tan warned that the memory shortage in 2027 could be worse than in 2026, with cost pressure already spreading to smartphones and notebook PCs.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260916PD238/2027-intel-lip-bu-tan-memory-chips-cpu-packaging.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Arrow Electronics Enables Early Evaluation of NXP’s Ara240 Edge AI Accelerator</span></td>
+  <td class="col-summary">Arrow Electronics has made NXP's Ara240 solutions available through its Digital Test Drive platform. The post Arrow Electronics Enables Early Evaluation of NXP’s Ara240 Edge AI Accelerator appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/arrow-electronics-enables-early-evaluation-of-nxps-ara240-edge-ai-accelerator/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">SK hynix in talks with Intel on Ohio chip plan: sources</span></td>
+  <td class="col-summary">If a deal goes ahead, it would be SK hynix’s first time making memory chips in the US.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-hynix-invest-383b-chip-fabs" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Series SEA: Who’s investing in the region’s AI startups?</span></td>
+  <td class="col-summary">We've compiled a list of investors that are pouring money into Southeast Asia’s AI startups.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/top-sea-investors-ai" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Cloudflare launches tool to block AI training but keep search</span></td>
+  <td class="col-summary">Mixed-use crawlers account for 36.6% of verified crawler traffic on Cloudflare’s network.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/cloudflare-teams-google-clouds-wiz-ai-security" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">The US needs a data strategy for the AI era, but should not copy China</span></td>
+  <td class="col-summary">The US needs a data strategy for the AI era, but should not copy China</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/opinion/the-us-needs-a-data-strategy-for-the-ai-era-but-should-not-copy-china" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan's Resonac, Nitto Denko to invest in US fund for AI hardware</span></td>
+  <td class="col-summary">Japan's Resonac, Nitto Denko to invest in US fund for AI hardware</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-resonac-nitto-denko-to-invest-in-us-fund-for-ai-hardware" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">13</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Mitsubishi Heavy to boost Preferred Networks AI tie-up with investment</span></td>
+  <td class="col-summary">Mitsubishi Heavy to boost Preferred Networks AI tie-up with investment</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/mitsubishi-heavy-to-boost-preferred-networks-ai-tie-up-with-investment" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes South Korea's chip boom lifts 2027 corporate tax above KRW200 trillion South Korea's semiconductor boom is spilling over from corporate profits into government tax revenue. Corporate tax revenue for fiscal 2027 is projected to reach KRW216.7 trillion (about US$160 billion), up 113.9% from the 2026 supplementary budget, topping KRW200 trillion for the first time and, after 15 years, overta Semiconductor Read 2 DigiTimes OpenAI details AI jailbreak as Nvidia's CEO calls for engineering controllability OpenAI released a technical postmortem in late August explaining how its AI agents circumvented sandbox restrictions during internal tests, "cheated" to broaden their activity, and compromised systems operated by the open-source AI platform Hugging Face. The report has since drawn intense Silicon Valley scrutiny, while AI Read 3 CNA Snap targets enterprises with Salesforce, Nvidia AI tools for augmented-reality glasses Snap targets enterprises with Salesforce, Nvidia AI tools for augmented-reality glasses AI Read 4 CNA OpenAI plans regular reports on unexpected AI behavior OpenAI plans regular reports on unexpected AI behavior AI Read 5 CNA What does the team behind the Singapore F1 race do beyond the three-day race weekend? The year-round operation covers everything from crowd safety and ticketing logistics to tracking global events that could impact the Singapore race. Logistics Read 6 DigiTimes Intel CEO warns of 2027 memory crunch and tighter CPU supply AI infrastructure expansion is turning memory supply into a major bottleneck for the semiconductor industry. Intel CEO Lip-Bu Tan warned that the memory shortage in 2027 could be worse than in 2026, with cost pressure already spreading to smartphones and notebook PCs. SemiconductorAI Read 7 EETAsia Arrow Electronics Enables Early Evaluation of NXP’s Ara240 Edge AI Accelerator Arrow Electronics has made NXP's Ara240 solutions available through its Digital Test Drive platform. The post Arrow Electronics Enables Early Evaluation of NXP’s Ara240 Edge AI Accelerator appeared first on EE Times Asia . ElectronicsAI Read 8 TechAsia SK hynix in talks with Intel on Ohio chip plan: sources If a deal goes ahead, it would be SK hynix’s first time making memory chips in the US. Semiconductor Read 9 TechAsia Series SEA: Who’s investing in the region’s AI startups? We've compiled a list of investors that are pouring money into Southeast Asia’s AI startups. AI Read 10 TechAsia Cloudflare launches tool to block AI training but keep search Mixed-use crawlers account for 36.6% of verified crawler traffic on Cloudflare’s network. AI Read 11 NikkeiAsia The US needs a data strategy for the AI era, but should not copy China The US needs a data strategy for the AI era, but should not copy China AI Read 12 NikkeiAsia Japan's Resonac, Nitto Denko to invest in US fund for AI hardware Japan's Resonac, Nitto Denko to invest in US fund for AI hardware AI Read 13 NikkeiAsia Mitsubishi Heavy to boost Preferred Networks AI tie-up with investment Mitsubishi Heavy to boost Preferred Networks AI tie-up with investment AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 16, 2026</title><link href="https://asiatechfeed.com/2026/09/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 16, 2026" /><published>2026-09-16T08:00:46+00:00</published><updated>2026-09-16T08:00:46+00:00</updated><id>https://asiatechfeed.com/2026/09/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -659,89 +776,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/fraud-claims-involving-digital-banks-rise-in-sg-reaching-1-9m" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA AI can now help make entire films. What does that mean for Singapore’s film industry? As Singapore creators experiment with AI in filmmaking, questions are emerging over what it could mean for human creativity, jobs and authorship. AI Read 2 DigiTimes Samsung boosts Galaxy A series output as rivals cut lower-end phones Samsung Electronics has moved to expand production of mid- to low-end smartphones from August to November 2026, according to South Korean media Maeil Business Newspaper . The plan comes as rising memory chip prices are forcing other handset makers to pull back on lower-margin models, and Samsung is looking to use the s ElectronicsSemiconductor Read 3 TechAsia OpenAI, Tenable unveil AI agent security review Tenable said the process combines OpenAI GPT cyber models, skills inspection powered by Tenable One AI Exposure, and reviews by Tenable researchers. AI Read 4 DigiTimes ChenFull Precision expands from defense and semiconductor equipment into quantum computing ChenFull Precision has expanded rapidly in recent years from traditional precision manufacturing operations such as welding and surface treatment into the semiconductor process equipment supply chain. Its overall business portfolio is also shifting increasingly toward semiconductors, with the company formally reclassif SemiconductorLogistics Read 5 DigiTimes ASML lines up Intel, TSMC and Samsung behind 12-inch masks — TSMC alone sets a timeline ASML issued joint statements with Intel Foundry, TSMC and Samsung Electronics on September 8, converging the three leading-edge chipmakers on a transition from the semiconductor industry's decades-old 6-inch photomask to a larger 12-inch format for High NA EUV lithography. Only TSMC attached a schedule to it. SemiconductorElectronics Read 6 TechAsia NTT Data expands AI platform for global infrastructure NTT Data previously won a global ERP support contract for Daimler. AI Read 7 TechAsia Trust Bank launches AI tool to track card spending Trust said it can also return totals, counts, and summaries for card spending, and includes privacy and security safeguards. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 07, 2026</title><link href="https://asiatechfeed.com/2026/09/07/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 07, 2026" /><published>2026-09-07T08:00:45+00:00</published><updated>2026-09-07T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/09/07/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/07/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Ambition, loops, and TikTok: An a16z guide to scaling AI</span></td>
-  <td class="col-summary">Andreessen Horowitz's Anish Acharya explains why AI's biggest risk is thinking too small, and why consumer products need engagement, not just efficiency.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ambition-loops-tiktok-a16z-guide-scaling-ai" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">UK's IQE posts half-year profit on AI infrastructure demand</span></td>
-  <td class="col-summary">UK's IQE posts half-year profit on AI infrastructure demand</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/uks-iqe-posts-half-year-profit-ai-infrastructure-demand-6366826" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Exclusive: Infineon COO says chip shortage recovery will take longer</span></td>
-  <td class="col-summary">Infineon COO Alexander Gorski told DIGITIMES in an exclusive interview at Semicon Taiwan 2026 that the current global chip shortage is unlike the one during Covid-19 and will take longer to resolve. He also discussed progress on Infineon's new Dresden plant, in-house manufacturing, outsourcing, and the company's global</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260907PD209/infineon-chip-shortage-manufacturing-capacity-digitimes.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Phison snaps up low-cost China NAND inventory, AI revenue share set to top 40%</span></td>
-  <td class="col-summary">Phison CEO K.S. Pua expects NAND Flash supply to remain tight into 2027 despite capacity expansion across major memory makers, arguing that forecasts of a rapid return to oversupply are "too naive."</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260907PD211/phison-nand-flash-inventory-revenue.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Beyond STEM: Why Singapore tertiary institutions are putting more emphasis on arts and social sciences</span></td>
-  <td class="col-summary">As AI takes on more technical and routine tasks, educators are placing greater emphasis on creativity, critical thinking, communication, empathy and real-world problem solving.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/beyond-stem-singapore-tertiary-emphasis-arts-social-sciences-6362811" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">China’s iFlytek launches Spark X2.5 AI model for coding and agents</span></td>
-  <td class="col-summary">It also open-sourced 4B and 1.7B on-device models supporting million-token contexts.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/bytedance-tops-chinas-tech-hiring-ai-jobs-surge-report" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">DeepSeek plans to buy 160,000 Huawei chips as China aims to wean itself off Nvidia</span></td>
-  <td class="col-summary">DeepSeek is reportedly planning to purchase 160,000 Huawei chips for its large 1 GW data center currently under construction in the Chinese province of Inner Mongolia. This would make it among the largest clusters of Huawei chips deployed to date, as the Chinese authorities attempt to wean the country off Nvidia chips,</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260907VL212/deepseek-huawei-chips-nvidia-bloomberg.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">SEMI: Global IC Equipment Billings Up 23% YoY in 2Q 2026</span></td>
-  <td class="col-summary">Global semiconductor equipment billings increased by 23% year-over-year to $40.53 billion in the second quarter of 2026. The post SEMI: Global IC Equipment Billings Up 23% YoY in 2Q 2026 appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/semi-global-ic-equipment-billings-up-23-yoy-in-2q-2026/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Synopsys Strengthens CXL 4.0 IP for AI Memory Expansion</span></td>
-  <td class="col-summary">Synopsys expands its CXL 4.0 IP portfolio to address AI infrastructure’s growing memory capacity and bandwidth demands. The post Synopsys Strengthens CXL 4.0 IP for AI Memory Expansion appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/synopsys-strengthens-cxl-4-0-ip-for-ai-memory-expansion/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Ambition, loops, and TikTok: An a16z guide to scaling AI Andreessen Horowitz's Anish Acharya explains why AI's biggest risk is thinking too small, and why consumer products need engagement, not just efficiency. AI Read 2 CNA UK's IQE posts half-year profit on AI infrastructure demand UK's IQE posts half-year profit on AI infrastructure demand AI Read 3 DigiTimes Exclusive: Infineon COO says chip shortage recovery will take longer Infineon COO Alexander Gorski told DIGITIMES in an exclusive interview at Semicon Taiwan 2026 that the current global chip shortage is unlike the one during Covid-19 and will take longer to resolve. He also discussed progress on Infineon's new Dresden plant, in-house manufacturing, outsourcing, and the company's global Semiconductor Read 4 DigiTimes Phison snaps up low-cost China NAND inventory, AI revenue share set to top 40% Phison CEO K.S. Pua expects NAND Flash supply to remain tight into 2027 despite capacity expansion across major memory makers, arguing that forecasts of a rapid return to oversupply are "too naive." AI Read 5 CNA Beyond STEM: Why Singapore tertiary institutions are putting more emphasis on arts and social sciences As AI takes on more technical and routine tasks, educators are placing greater emphasis on creativity, critical thinking, communication, empathy and real-world problem solving. AI Read 6 TechAsia China’s iFlytek launches Spark X2.5 AI model for coding and agents It also open-sourced 4B and 1.7B on-device models supporting million-token contexts. AI Read 7 DigiTimes DeepSeek plans to buy 160,000 Huawei chips as China aims to wean itself off Nvidia DeepSeek is reportedly planning to purchase 160,000 Huawei chips for its large 1 GW data center currently under construction in the Chinese province of Inner Mongolia. This would make it among the largest clusters of Huawei chips deployed to date, as the Chinese authorities attempt to wean the country off Nvidia chips, Semiconductor Read 8 EETAsia SEMI: Global IC Equipment Billings Up 23% YoY in 2Q 2026 Global semiconductor equipment billings increased by 23% year-over-year to $40.53 billion in the second quarter of 2026. The post SEMI: Global IC Equipment Billings Up 23% YoY in 2Q 2026 appeared first on EE Times Asia . Semiconductor Read 9 EETAsia Synopsys Strengthens CXL 4.0 IP for AI Memory Expansion Synopsys expands its CXL 4.0 IP portfolio to address AI infrastructure’s growing memory capacity and bandwidth demands. The post Synopsys Strengthens CXL 4.0 IP for AI Memory Expansion appeared first on EE Times Asia . AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA AI can now help make entire films. What does that mean for Singapore’s film industry? As Singapore creators experiment with AI in filmmaking, questions are emerging over what it could mean for human creativity, jobs and authorship. AI Read 2 DigiTimes Samsung boosts Galaxy A series output as rivals cut lower-end phones Samsung Electronics has moved to expand production of mid- to low-end smartphones from August to November 2026, according to South Korean media Maeil Business Newspaper . The plan comes as rising memory chip prices are forcing other handset makers to pull back on lower-margin models, and Samsung is looking to use the s ElectronicsSemiconductor Read 3 TechAsia OpenAI, Tenable unveil AI agent security review Tenable said the process combines OpenAI GPT cyber models, skills inspection powered by Tenable One AI Exposure, and reviews by Tenable researchers. AI Read 4 DigiTimes ChenFull Precision expands from defense and semiconductor equipment into quantum computing ChenFull Precision has expanded rapidly in recent years from traditional precision manufacturing operations such as welding and surface treatment into the semiconductor process equipment supply chain. Its overall business portfolio is also shifting increasingly toward semiconductors, with the company formally reclassif SemiconductorLogistics Read 5 DigiTimes ASML lines up Intel, TSMC and Samsung behind 12-inch masks — TSMC alone sets a timeline ASML issued joint statements with Intel Foundry, TSMC and Samsung Electronics on September 8, converging the three leading-edge chipmakers on a transition from the semiconductor industry's decades-old 6-inch photomask to a larger 12-inch format for High NA EUV lithography. Only TSMC attached a schedule to it. SemiconductorElectronics Read 6 TechAsia NTT Data expands AI platform for global infrastructure NTT Data previously won a global ERP support contract for Daimler. AI Read 7 TechAsia Trust Bank launches AI tool to track card spending Trust said it can also return totals, counts, and summaries for card spending, and includes privacy and security safeguards. AI Read]]></summary></entry></feed>
