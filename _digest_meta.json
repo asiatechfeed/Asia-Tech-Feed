@@ -11,29 +11,29 @@
   "post_file": "2026-09-17-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "South Korea's chip boom lifts 2027 corporate tax above KRW200 trillion",
+      "title": "Huawei unveils AI cluster linking up to 4,000 chips",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/huawei-kirin-2026-boosts-density-55-node"
+    },
+    {
+      "title": "Foxconn Interconnect Technology targets the scaling challenge in AI optical interconnects",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260916PD202/2027-revenue-government-budget-growth.html"
+      "url": "https://www.digitimes.com/news/a20260916PD233/fit-foxconn-subsidiary-communications-2026.html"
     },
     {
-      "title": "OpenAI details AI jailbreak as Nvidia's CEO calls for engineering controllability",
+      "title": "Taiwan to pilot ETS by end-2026, experts urge three safeguards",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260916PD201/openai.html"
+      "url": "https://www.digitimes.com/news/a20260916PD234/taiwan-launch-market-net-zero-2026.html"
     },
     {
-      "title": "Snap targets enterprises with Salesforce, Nvidia AI tools for augmented-reality glasses",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/snap-targets-enterprises-salesforce-nvidia-ai-tools-augmented-reality-glasses-6390506"
+      "title": "Huawei Connect 2026: Ascend 960 puts industry-first NPO supernode at heart of Huawei's AI scale-up bet",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260917VL215/huawei-ascend-2026-roadmap-accelerator.html"
     },
     {
-      "title": "OpenAI plans regular reports on unexpected AI behavior",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/openai-plans-regular-reports-unexpected-ai-behavior-6390381"
-    },
-    {
-      "title": "What does the team behind the Singapore F1 race do beyond the three-day race weekend?",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/f1-marina-bay-street-circuit-grand-prix-night-race-6383446"
+      "title": "US AI startup Plaud to invest $15.7m in Singapore",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/openai-anthropic-hiring-singapore"
     }
   ],
   "source_stats": [
@@ -50,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 4,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -149,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 27,
+      "fetched": 51,
+      "relevant": 39,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -194,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 19,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
