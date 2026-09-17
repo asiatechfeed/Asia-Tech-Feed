@@ -1,39 +1,38 @@
 {
   "date": "2026-09-17",
-  "count": 13,
+  "count": 9,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-17-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Huawei unveils AI cluster linking up to 4,000 chips",
+      "title": "Companies should be more transparent with workers about AI plans: Jasmin Lau",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/ai-artificial-intelligence-worker-anxiety-jobs-worries-jasmin-lau-6391241"
+    },
+    {
+      "title": "HubSpot, OpenAI expand partnership with AI bundle",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/huawei-kirin-2026-boosts-density-55-node"
+      "url": "https://www.techinasia.com/soma-ai-thinks-apac-marketers-deserve-chatgpt"
     },
     {
-      "title": "Foxconn Interconnect Technology targets the scaling challenge in AI optical interconnects",
+      "title": "Japan, US discussing chip factory construction as part of $550 billion investment talks, Nikkei reports",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/japan-us-discussing-chip-factory-construction-part-550-billion-investment-talks-nikkei-reports-6391286"
+    },
+    {
+      "title": "Humanoid robots could reshape MEMS demand as physical AI advances",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260916PD233/fit-foxconn-subsidiary-communications-2026.html"
+      "url": "https://www.digitimes.com/news/a20260917PD202/mems-demand-sensor-adoption-market.html"
     },
     {
-      "title": "Taiwan to pilot ETS by end-2026, experts urge three safeguards",
+      "title": "Ardentec, Sigurd race into silicon photonics TIA testing as US client books capacity",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260916PD234/taiwan-launch-market-net-zero-2026.html"
-    },
-    {
-      "title": "Huawei Connect 2026: Ascend 960 puts industry-first NPO supernode at heart of Huawei's AI scale-up bet",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260917VL215/huawei-ascend-2026-roadmap-accelerator.html"
-    },
-    {
-      "title": "US AI startup Plaud to invest $15.7m in Singapore",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/openai-anthropic-hiring-singapore"
+      "url": "https://www.digitimes.com/news/a20260917PD223/sigurd-ardentec-siph-testing-capacity.html"
     }
   ],
   "source_stats": [
@@ -50,7 +49,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 3,
       "sponsored_skipped": 0,
       "published": 2,
       "error": null
@@ -151,14 +150,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 51,
-      "relevant": 39,
+      "fetched": 61,
+      "relevant": 48,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -212,7 +211,7 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 2,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
