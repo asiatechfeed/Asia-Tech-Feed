@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-18T00:02:55+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 18, 2026</title><link href="https://asiatechfeed.com/2026/09/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 18, 2026" /><published>2026-09-18T00:02:02+00:00</published><updated>2026-09-18T00:02:02+00:00</updated><id>https://asiatechfeed.com/2026/09/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-18T04:22:11+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 18, 2026</title><link href="https://asiatechfeed.com/2026/09/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 18, 2026" /><published>2026-09-18T04:21:15+00:00</published><updated>2026-09-18T04:21:15+00:00</updated><id>https://asiatechfeed.com/2026/09/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,110 +12,78 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">GitLab 19.4 adds agentic automation tools</span></td>
-  <td class="col-summary">GitLab also launched Model Context Protocol (MCP) server tools in public beta under GitLab Duo Agent Platform.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropic-launches-claude-code-for-developers-in-slack" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Chip equipment makers face waits of up to 40 months for critical parts</span></td>
+  <td class="col-summary">The semiconductor industry's capacity crunch is moving deeper into the equipment supply chain, with shortages of specialized components stretching delivery times as chipmakers accelerate fab investment.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260918VL212/equipment-capacity-demand-supply-chain-chipmakers.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">OpenAI launches legal-focused AI platform, escalating race for law firm users</span></td>
-  <td class="col-summary">OpenAI launches legal-focused AI platform, escalating race for law firm users</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/openai-launches-legal-focused-ai-platform-escalating-race-law-firm-users-6393286" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Samsung deepens Euclyd ties as startup reportedly reaches test-chip stage</span></td>
+  <td class="col-summary">Samsung Electronics is deepening its relationship with Dutch chip startup Euclyd after the company reportedly reached the test-chip stage at Samsung Foundry, adding a manufacturing dimension to Samsung's recent investment in the two-year-old company.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260918VL214/samsung-startup-development-samsung-foundry-dutch.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Anthropic says Claude now leads a quarter of work building its next AI models</span></td>
-  <td class="col-summary">Anthropic says Claude now leads a quarter of work building its next AI models</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">King Charles tests AI's safety consensus as Nvidia keeps its foot on the accelerator</span></td>
+  <td class="col-summary">King Charles III has stepped into the intensifying debate over artificial intelligence, urging executives from Nvidia, Google DeepMind, OpenAI, and Anthropic to keep AI under human control and ensure the technology serves people and the planet.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/anthropic-says-claude-now-leads-quarter-work-building-its-next-ai-models-6393291" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260918VL213/nvidia-google-openai-development-deepmind.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">OpenAI, Microsoft executives' quotes on AI training threaten copyright defense, news outlets argue</span></td>
-  <td class="col-summary">OpenAI, Microsoft executives' quotes on AI training threaten copyright defense, news outlets argue</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/openai-microsoft-executives-quotes-ai-training-threaten-copyright-defense-news-outlets-argue-6393266" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Selecting Low-voltage Piezo Ceramic Stacks for Cost-sensitive Embedded Electronics</span></td>
+  <td class="col-summary">Selecting low-voltage piezo stacks requires balancing technical specifications with drive circuit costs and supplier capabilities. The post Selecting Low-voltage Piezo Ceramic Stacks for Cost-sensitive Embedded Electronics appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/selecting-low-voltage-piezo-ceramic-stacks-for-cost-sensitive-embedded-electronics/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">DeepSeek engineer's warning suggests AI may reshape, not simply eliminate, technical work</span></td>
-  <td class="col-summary">A DeepSeek engineer's viral reflection on AI's rapid progress has reignited debate over whether artificial intelligence will replace human workers or redefine their roles. His comments suggest the immediate risk for software engineers may be less about layoffs and more about a swift shift in how technical work is done.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260917PD214/deepseek-development-design.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Nexperia, Tata partner to make power chips in India</span></td>
+  <td class="col-summary">The companies will also work together on chip testing and assembly at Tata’s Jagiroad facility.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nexperias-china-unit-resumes-chip-sales-after-export-ban" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Winbond's Infineon buyout puts GigaDevice under pressure</span></td>
-  <td class="col-summary">Winbond Electronics' US$1.12 billion acquisition of Infineon's NOR Flash and ferroelectric RAM (F-RAM) businesses has drawn close attention from China's semiconductor industry.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260917PD221/infineon-winbond-gigadevice-acquisition-2027.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Chinese AI startup Moonshot launches Kimi for finance</span></td>
+  <td class="col-summary">Moonshot said Kimi can also access the International Monetary Fund, the World Bank, and the St. Louis Fed’s FRED database.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/moonshot-ai-targets-50b-valuation-sources" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Huawei launches AI computing system amid US export controls</span></td>
-  <td class="col-summary">Huawei says its agentic SuperCluster can scale to 1 million NPUs.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/huawei-isoftstone-unveil-guangxi-ai-platform" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Chinese robot maker PaXini raises $596m in cumulative funding</span></td>
+  <td class="col-summary">PaXini said it supplies its products and datasets to embodied AI companies, research institutions, and open-source communities.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/bydbacked-robot-maker-paxini-eyes-hk-ipo" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Physical AI drives autonomous driving upgrade; three efficiency factors lift AI accelerator demand</span></td>
-  <td class="col-summary">End-to-end autonomous driving has become the mainstream technology path, and the inference demand created by Physical AI in autonomous driving systems is, in turn, reshaping automotive system-on-chip (SoC) design.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260917RS400/automotive-soc-accelerator-autonomous-driving-demand-efficiency.html?chid=2" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Panasonic Energy gets in on AI demand boom</span></td>
+  <td class="col-summary">Panasonic Energy gets in on AI demand boom</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/panasonic-energy-gets-in-on-ai-demand-boom" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Global Edge AI Ecosystem Converges in Taipei for EDGE AI Taipei 2026 This October</span></td>
-  <td class="col-summary">The EDGE AI Taipei 2026 will connect global technology companies with Taiwan’s expanding edge AI ecosystem. The post Global Edge AI Ecosystem Converges in Taipei for EDGE AI Taipei 2026 This October appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/global-edge-ai-ecosystem-converges-in-taipei-for-edge-ai-taipei-2026-this-october/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">ZTE-backed Nubia taps CXMT for mobile memory</span></td>
-  <td class="col-summary">Nubia’s phone went on sale on September 16 with ByteDance’s Doubao AI assistant.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-cxmt-enters-high-end-memory-race-with-samsung-sk-hynix" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Toyota to deploy 400,000 humanoid robots to work alongside factory staff</span></td>
-  <td class="col-summary">Toyota to deploy 400,000 humanoid robots to work alongside factory staff</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/toyota-to-deploy-400-000-humanoid-robots-to-work-alongside-factory-staff" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Taiwan dollar, South Korea won strong among Asia currencies as AI booms</span></td>
-  <td class="col-summary">Taiwan dollar, South Korea won strong among Asia currencies as AI booms</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/currencies/taiwan-dollar-south-korea-won-strong-among-asia-currencies-as-ai-booms" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">13</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Applied Materials to invest $5bn in India as country ups chip support</span></td>
-  <td class="col-summary">Applied Materials to invest $5bn in India as country ups chip support</td>
+  <td class="col-title"><span class="article-title">Thailand must invest in front-end chip production, industry body says</span></td>
+  <td class="col-summary">Thailand must invest in front-end chip production, industry body says</td>
   <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/applied-materials-to-invest-5bn-in-india-as-country-ups-chip-support" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/thailand-must-invest-in-front-end-chip-production-industry-body-says" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia GitLab 19.4 adds agentic automation tools GitLab also launched Model Context Protocol (MCP) server tools in public beta under GitLab Duo Agent Platform. Automation Read 2 CNA OpenAI launches legal-focused AI platform, escalating race for law firm users OpenAI launches legal-focused AI platform, escalating race for law firm users AI Read 3 CNA Anthropic says Claude now leads a quarter of work building its next AI models Anthropic says Claude now leads a quarter of work building its next AI models AI Read 4 CNA OpenAI, Microsoft executives' quotes on AI training threaten copyright defense, news outlets argue OpenAI, Microsoft executives' quotes on AI training threaten copyright defense, news outlets argue AI Read 5 DigiTimes DeepSeek engineer's warning suggests AI may reshape, not simply eliminate, technical work A DeepSeek engineer's viral reflection on AI's rapid progress has reignited debate over whether artificial intelligence will replace human workers or redefine their roles. His comments suggest the immediate risk for software engineers may be less about layoffs and more about a swift shift in how technical work is done. AI Read 6 DigiTimes Winbond's Infineon buyout puts GigaDevice under pressure Winbond Electronics' US$1.12 billion acquisition of Infineon's NOR Flash and ferroelectric RAM (F-RAM) businesses has drawn close attention from China's semiconductor industry. SemiconductorElectronics Read 7 TechAsia Huawei launches AI computing system amid US export controls Huawei says its agentic SuperCluster can scale to 1 million NPUs. AI Read 8 DigiTimes Physical AI drives autonomous driving upgrade; three efficiency factors lift AI accelerator demand End-to-end autonomous driving has become the mainstream technology path, and the inference demand created by Physical AI in autonomous driving systems is, in turn, reshaping automotive system-on-chip (SoC) design. AISemiconductor Read 9 EETAsia Global Edge AI Ecosystem Converges in Taipei for EDGE AI Taipei 2026 This October The EDGE AI Taipei 2026 will connect global technology companies with Taiwan’s expanding edge AI ecosystem. The post Global Edge AI Ecosystem Converges in Taipei for EDGE AI Taipei 2026 This October appeared first on EE Times Asia . AI Read 10 TechAsia ZTE-backed Nubia taps CXMT for mobile memory Nubia’s phone went on sale on September 16 with ByteDance’s Doubao AI assistant. AI Read 11 NikkeiAsia Toyota to deploy 400,000 humanoid robots to work alongside factory staff Toyota to deploy 400,000 humanoid robots to work alongside factory staff Automation Read 12 NikkeiAsia Taiwan dollar, South Korea won strong among Asia currencies as AI booms Taiwan dollar, South Korea won strong among Asia currencies as AI booms AI Read 13 NikkeiAsia Applied Materials to invest $5bn in India as country ups chip support Applied Materials to invest $5bn in India as country ups chip support Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 17, 2026</title><link href="https://asiatechfeed.com/2026/09/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 17, 2026" /><published>2026-09-17T08:01:23+00:00</published><updated>2026-09-17T08:01:23+00:00</updated><id>https://asiatechfeed.com/2026/09/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Chip equipment makers face waits of up to 40 months for critical parts The semiconductor industry's capacity crunch is moving deeper into the equipment supply chain, with shortages of specialized components stretching delivery times as chipmakers accelerate fab investment. SemiconductorLogistics Read 2 DigiTimes Samsung deepens Euclyd ties as startup reportedly reaches test-chip stage Samsung Electronics is deepening its relationship with Dutch chip startup Euclyd after the company reportedly reached the test-chip stage at Samsung Foundry, adding a manufacturing dimension to Samsung's recent investment in the two-year-old company. ElectronicsSemiconductor Read 3 DigiTimes King Charles tests AI's safety consensus as Nvidia keeps its foot on the accelerator King Charles III has stepped into the intensifying debate over artificial intelligence, urging executives from Nvidia, Google DeepMind, OpenAI, and Anthropic to keep AI under human control and ensure the technology serves people and the planet. AI Read 4 EETAsia Selecting Low-voltage Piezo Ceramic Stacks for Cost-sensitive Embedded Electronics Selecting low-voltage piezo stacks requires balancing technical specifications with drive circuit costs and supplier capabilities. The post Selecting Low-voltage Piezo Ceramic Stacks for Cost-sensitive Embedded Electronics appeared first on EE Times Asia . Electronics Read 5 TechAsia Nexperia, Tata partner to make power chips in India The companies will also work together on chip testing and assembly at Tata’s Jagiroad facility. Semiconductor Read 6 TechAsia Chinese AI startup Moonshot launches Kimi for finance Moonshot said Kimi can also access the International Monetary Fund, the World Bank, and the St. Louis Fed’s FRED database. AI Read 7 TechAsia Chinese robot maker PaXini raises $596m in cumulative funding PaXini said it supplies its products and datasets to embodied AI companies, research institutions, and open-source communities. AIAutomation Read 8 NikkeiAsia Panasonic Energy gets in on AI demand boom Panasonic Energy gets in on AI demand boom AI Read 9 NikkeiAsia Thailand must invest in front-end chip production, industry body says Thailand must invest in front-end chip production, industry body says Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 17, 2026</title><link href="https://asiatechfeed.com/2026/09/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 17, 2026" /><published>2026-09-17T08:01:23+00:00</published><updated>2026-09-17T08:01:23+00:00</updated><id>https://asiatechfeed.com/2026/09/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
