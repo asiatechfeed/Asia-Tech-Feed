@@ -1,105 +1,172 @@
 [
   {
     "date": "2026-09-18",
-    "title": "Chip equipment makers face waits of up to 40 months for critical parts",
-    "summary": "The semiconductor industry's capacity crunch is moving deeper into the equipment supply chain, with shortages of specialized components stretching delivery times as chipmakers accelerate fab investment.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Toyota estimates factory automation could cost $6.4 billion per year from 2028",
+    "summary": "Toyota estimates factory automation could cost $6.4 billion per year from 2028",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
-      "Semiconductor",
-      "Logistics"
+      "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20260918VL212/equipment-capacity-demand-supply-chain-chipmakers.html"
+    "url": "https://www.channelnewsasia.com/business/toyota-estimates-factory-automation-could-cost-64-billion-year-2028-6394351"
   },
   {
     "date": "2026-09-18",
-    "title": "Samsung deepens Euclyd ties as startup reportedly reaches test-chip stage",
-    "summary": "Samsung Electronics is deepening its relationship with Dutch chip startup Euclyd after the company reportedly reached the test-chip stage at Samsung Foundry, adding a manufacturing dimension to Samsung's recent investment in the two-year-old company.",
+    "title": "How Certis builds employee trust to scale security bots",
+    "summary": "Certis Group CEO Tian Beng Ng explains why fast AI decisions need human accountability, and why digital employees require the same oversight as staff.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/certis-builds-employee-trust-scale-security-bots"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Chip Industry Week In Review",
+    "summary": "Major memory deal; AI Infra Summit news; U.S. chip capacity plans; 2nm & below advances; Huawei's chip offensive; RoT solution for data centers and AI SoCs; Chinese equipment makers gain share; India's chip build-out; McKinsey's tech trends; major funding rounds; Europe's AI infrastructure gaps. The post Chip Industry ",
+    "source": "Semiconductor Engineering",
+    "short": "SemiEng",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://semiengineering.com/chip-industry-week-in-review-156/"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Doosan commits KRW968 billion to CCL expansion as demand strains capacity",
+    "summary": "Doosan is investing KRW968.4 billion (approx. US$701 million) to expand high-end copper-clad laminate (CCL) production in South Korea and China, its largest-ever investment in the business, as growing demand for AI accelerators, network switches and optical modules pushes key production lines beyond full utilization.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260918VL217/doosan-ccl-demand-capacity-expansion.html"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "China's AI data center token costs hinge on access to advanced GPUs",
+    "summary": "China's AI data centers are confronting a severe chip access bottleneck, with the cost of producing tokens shaped less by model design than by geopolitics, according to a recent Caijing analysis. The report said restricted access to high-end GPUs has become the most critical cost burden in China's AI era.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260918PD219/cost-data-center-chips-data-high-end.html"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "AnalogAI Taps SST memBrain IP for Sub-Watt Edge AI Processors",
+    "summary": "AnalogAI adopts silicon-proven analog compute-in-memory IP to enable adaptive, ultra-low-power AI inference at edge. The post AnalogAI Taps SST memBrain IP for Sub-Watt Edge AI Processors appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/analogai-taps-sst-membrain-ip-for-sub-watt-edge-ai-processors/"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "SK Hynix's Solidigm unit is weighing NAND memory chip factory in US, sources say",
+    "summary": "SK Hynix's Solidigm unit is weighing NAND memory chip factory in US, sources say",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/sk-hynixs-solidigm-unit-weighing-nand-memory-chip-factory-in-us-sources-say-6394121"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "China's memory push gains ground across LPDDR6, advanced NAND, with HBM still the test",
+    "summary": "AI is reshaping the global memory industry, tightening supply while creating an opening for China's domestic suppliers. With Samsung Electronics, SK Hynix, and Micron prioritizing high-bandwidth memory (HBM) and high-end server memory, ChangXin Memory Technologies (CXMT) and Yangtze Memory Technologies (YMTC) are gaini",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Electronics",
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20260918VL214/samsung-startup-development-samsung-foundry-dutch.html"
-  },
-  {
-    "date": "2026-09-18",
-    "title": "King Charles tests AI's safety consensus as Nvidia keeps its foot on the accelerator",
-    "summary": "King Charles III has stepped into the intensifying debate over artificial intelligence, urging executives from Nvidia, Google DeepMind, OpenAI, and Anthropic to keep AI under human control and ensure the technology serves people and the planet.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260918VL213/nvidia-google-openai-development-deepmind.html"
+    "url": "https://www.digitimes.com/news/a20260918VL210/hbm-nand-dram-cxmt-samsung.html"
   },
   {
     "date": "2026-09-18",
-    "title": "Selecting Low-voltage Piezo Ceramic Stacks for Cost-sensitive Embedded Electronics",
-    "summary": "Selecting low-voltage piezo stacks requires balancing technical specifications with drive circuit costs and supplier capabilities. The post Selecting Low-voltage Piezo Ceramic Stacks for Cost-sensitive Embedded Electronics appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.eetasia.com/selecting-low-voltage-piezo-ceramic-stacks-for-cost-sensitive-embedded-electronics/"
-  },
-  {
-    "date": "2026-09-18",
-    "title": "Nexperia, Tata partner to make power chips in India",
-    "summary": "The companies will also work together on chip testing and assembly at Tata’s Jagiroad facility.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/nexperias-china-unit-resumes-chip-sales-after-export-ban"
-  },
-  {
-    "date": "2026-09-18",
-    "title": "Chinese AI startup Moonshot launches Kimi for finance",
-    "summary": "Moonshot said Kimi can also access the International Monetary Fund, the World Bank, and the St. Louis Fed’s FRED database.",
+    "title": "Huawei Cloud introduces AI cloud and agent tools",
+    "summary": "Huawei Cloud operates globally across multiple regions and data centers, supporting the rollout outside China.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/moonshot-ai-targets-50b-valuation-sources"
+    "url": "https://www.techinasia.com/huawei-launches-thailand-ai-ecosystem-initiative"
   },
   {
     "date": "2026-09-18",
-    "title": "Chinese robot maker PaXini raises $596m in cumulative funding",
-    "summary": "PaXini said it supplies its products and datasets to embodied AI companies, research institutions, and open-source communities.",
+    "title": "Chinese researchers map out five-stage plan for AI to improve without human intervention",
+    "summary": "Researchers from China’s leading universities and tech giants are exploring how increasingly autonomous systems could eventually refine their own capabilities, in a report titled “The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement”.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/east-asia/chinese-researchers-map-out-five-stage-plan-ai-improve-without-human-intervention-6393996"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "2026 AI spend to hit $2.7trn",
+    "summary": "Worldwide spending on AI is forecast to total $2.7 trillion in 2026, a 49.5% increase year-over-year, according to Gartner. “The buildout of AI data center capacity is the largest infrastructure […] The post 2026 AI spend to hit $2.7trn appeared first on Electronics Weekly .",
+    "source": "Electronics Weekly",
+    "short": "EW",
+    "tags": [
+      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.electronicsweekly.com/news/2026-ai-spend-to-hit-2-7trn-2026-09/"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "AWS, Salesforce expand AI and zero-copy integrations",
+    "summary": "It also brings AWS agents into Slack, starting with AWS DevOps Agent, and expands Agentforce access to Bedrock models.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "AI",
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/salesforce-expands-ai-agent-access-mcp-slack"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "US chip toolmaker Forge Nano bets on Taiwan for production: CEO",
+    "summary": "US chip toolmaker Forge Nano bets on Taiwan for production: CEO",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/us-chip-toolmaker-forge-nano-bets-on-taiwan-for-production-ceo"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "China rebuffs AI slowdown calls ahead of Trump-Xi summit: 5 things to know",
+    "summary": "China rebuffs AI slowdown calls ahead of Trump-Xi summit: 5 things to know",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-rebuffs-ai-slowdown-calls-ahead-of-trump-xi-summit-5-things-to-know"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Toyota to deploy 400,000 robots to work alongside factory staff",
+    "summary": "Toyota to deploy 400,000 robots to work alongside factory staff",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
       "Automation"
     ],
-    "url": "https://www.techinasia.com/bydbacked-robot-maker-paxini-eyes-hk-ipo"
-  },
-  {
-    "date": "2026-09-18",
-    "title": "Panasonic Energy gets in on AI demand boom",
-    "summary": "Panasonic Energy gets in on AI demand boom",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/panasonic-energy-gets-in-on-ai-demand-boom"
-  },
-  {
-    "date": "2026-09-18",
-    "title": "Thailand must invest in front-end chip production, industry body says",
-    "summary": "Thailand must invest in front-end chip production, industry body says",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/thailand-must-invest-in-front-end-chip-production-industry-body-says"
+    "url": "https://asia.nikkei.com/business/technology/toyota-to-deploy-400-000-robots-to-work-alongside-factory-staff"
   },
   {
     "date": "2026-09-17",
