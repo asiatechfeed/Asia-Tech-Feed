@@ -1,8 +1,7 @@
 {
   "date": "2026-09-18",
-  "count": 13,
+  "count": 9,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
     "NikkeiAsia",
@@ -11,29 +10,29 @@
   "post_file": "2026-09-18-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "GitLab 19.4 adds agentic automation tools",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-launches-claude-code-for-developers-in-slack"
-    },
-    {
-      "title": "OpenAI launches legal-focused AI platform, escalating race for law firm users",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/openai-launches-legal-focused-ai-platform-escalating-race-law-firm-users-6393286"
-    },
-    {
-      "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/anthropic-says-claude-now-leads-quarter-work-building-its-next-ai-models-6393291"
-    },
-    {
-      "title": "OpenAI, Microsoft executives' quotes on AI training threaten copyright defense, news outlets argue",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/openai-microsoft-executives-quotes-ai-training-threaten-copyright-defense-news-outlets-argue-6393266"
-    },
-    {
-      "title": "DeepSeek engineer's warning suggests AI may reshape, not simply eliminate, technical work",
+      "title": "Chip equipment makers face waits of up to 40 months for critical parts",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260917PD214/deepseek-development-design.html"
+      "url": "https://www.digitimes.com/news/a20260918VL212/equipment-capacity-demand-supply-chain-chipmakers.html"
+    },
+    {
+      "title": "Samsung deepens Euclyd ties as startup reportedly reaches test-chip stage",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260918VL214/samsung-startup-development-samsung-foundry-dutch.html"
+    },
+    {
+      "title": "King Charles tests AI's safety consensus as Nvidia keeps its foot on the accelerator",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260918VL213/nvidia-google-openai-development-deepmind.html"
+    },
+    {
+      "title": "Selecting Low-voltage Piezo Ceramic Stacks for Cost-sensitive Embedded Electronics",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/selecting-low-voltage-piezo-ceramic-stacks-for-cost-sensitive-embedded-electronics/"
+    },
+    {
+      "title": "Nexperia, Tata partner to make power chips in India",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/nexperias-china-unit-resumes-chip-sales-after-export-ban"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -157,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 28,
+      "fetched": 40,
+      "relevant": 32,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {

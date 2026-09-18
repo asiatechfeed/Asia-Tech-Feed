@@ -1,148 +1,105 @@
 [
   {
     "date": "2026-09-18",
-    "title": "GitLab 19.4 adds agentic automation tools",
-    "summary": "GitLab also launched Model Context Protocol (MCP) server tools in public beta under GitLab Duo Agent Platform.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Automation"
-    ],
-    "url": "https://www.techinasia.com/anthropic-launches-claude-code-for-developers-in-slack"
-  },
-  {
-    "date": "2026-09-18",
-    "title": "OpenAI launches legal-focused AI platform, escalating race for law firm users",
-    "summary": "OpenAI launches legal-focused AI platform, escalating race for law firm users",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/openai-launches-legal-focused-ai-platform-escalating-race-law-firm-users-6393286"
-  },
-  {
-    "date": "2026-09-18",
-    "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
-    "summary": "Anthropic says Claude now leads a quarter of work building its next AI models",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/anthropic-says-claude-now-leads-quarter-work-building-its-next-ai-models-6393291"
-  },
-  {
-    "date": "2026-09-18",
-    "title": "OpenAI, Microsoft executives' quotes on AI training threaten copyright defense, news outlets argue",
-    "summary": "OpenAI, Microsoft executives' quotes on AI training threaten copyright defense, news outlets argue",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/openai-microsoft-executives-quotes-ai-training-threaten-copyright-defense-news-outlets-argue-6393266"
-  },
-  {
-    "date": "2026-09-18",
-    "title": "DeepSeek engineer's warning suggests AI may reshape, not simply eliminate, technical work",
-    "summary": "A DeepSeek engineer's viral reflection on AI's rapid progress has reignited debate over whether artificial intelligence will replace human workers or redefine their roles. His comments suggest the immediate risk for software engineers may be less about layoffs and more about a swift shift in how technical work is done.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260917PD214/deepseek-development-design.html"
-  },
-  {
-    "date": "2026-09-18",
-    "title": "Winbond's Infineon buyout puts GigaDevice under pressure",
-    "summary": "Winbond Electronics' US$1.12 billion acquisition of Infineon's NOR Flash and ferroelectric RAM (F-RAM) businesses has drawn close attention from China's semiconductor industry.",
+    "title": "Chip equipment makers face waits of up to 40 months for critical parts",
+    "summary": "The semiconductor industry's capacity crunch is moving deeper into the equipment supply chain, with shortages of specialized components stretching delivery times as chipmakers accelerate fab investment.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
-      "Electronics"
+      "Logistics"
     ],
-    "url": "https://www.digitimes.com/news/a20260917PD221/infineon-winbond-gigadevice-acquisition-2027.html"
+    "url": "https://www.digitimes.com/news/a20260918VL212/equipment-capacity-demand-supply-chain-chipmakers.html"
   },
   {
     "date": "2026-09-18",
-    "title": "Huawei launches AI computing system amid US export controls",
-    "summary": "Huawei says its agentic SuperCluster can scale to 1 million NPUs.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/huawei-isoftstone-unveil-guangxi-ai-platform"
-  },
-  {
-    "date": "2026-09-18",
-    "title": "Physical AI drives autonomous driving upgrade; three efficiency factors lift AI accelerator demand",
-    "summary": "End-to-end autonomous driving has become the mainstream technology path, and the inference demand created by Physical AI in autonomous driving systems is, in turn, reshaping automotive system-on-chip (SoC) design.",
+    "title": "Samsung deepens Euclyd ties as startup reportedly reaches test-chip stage",
+    "summary": "Samsung Electronics is deepening its relationship with Dutch chip startup Euclyd after the company reportedly reached the test-chip stage at Samsung Foundry, adding a manufacturing dimension to Samsung's recent investment in the two-year-old company.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI",
+      "Electronics",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260917RS400/automotive-soc-accelerator-autonomous-driving-demand-efficiency.html?chid=2"
+    "url": "https://www.digitimes.com/news/a20260918VL214/samsung-startup-development-samsung-foundry-dutch.html"
   },
   {
     "date": "2026-09-18",
-    "title": "Global Edge AI Ecosystem Converges in Taipei for EDGE AI Taipei 2026 This October",
-    "summary": "The EDGE AI Taipei 2026 will connect global technology companies with Taiwan’s expanding edge AI ecosystem. The post Global Edge AI Ecosystem Converges in Taipei for EDGE AI Taipei 2026 This October appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "King Charles tests AI's safety consensus as Nvidia keeps its foot on the accelerator",
+    "summary": "King Charles III has stepped into the intensifying debate over artificial intelligence, urging executives from Nvidia, Google DeepMind, OpenAI, and Anthropic to keep AI under human control and ensure the technology serves people and the planet.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.eetasia.com/global-edge-ai-ecosystem-converges-in-taipei-for-edge-ai-taipei-2026-this-october/"
+    "url": "https://www.digitimes.com/news/a20260918VL213/nvidia-google-openai-development-deepmind.html"
   },
   {
     "date": "2026-09-18",
-    "title": "ZTE-backed Nubia taps CXMT for mobile memory",
-    "summary": "Nubia’s phone went on sale on September 16 with ByteDance’s Doubao AI assistant.",
+    "title": "Selecting Low-voltage Piezo Ceramic Stacks for Cost-sensitive Embedded Electronics",
+    "summary": "Selecting low-voltage piezo stacks requires balancing technical specifications with drive circuit costs and supplier capabilities. The post Selecting Low-voltage Piezo Ceramic Stacks for Cost-sensitive Embedded Electronics appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.eetasia.com/selecting-low-voltage-piezo-ceramic-stacks-for-cost-sensitive-embedded-electronics/"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Nexperia, Tata partner to make power chips in India",
+    "summary": "The companies will also work together on chip testing and assembly at Tata’s Jagiroad facility.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/nexperias-china-unit-resumes-chip-sales-after-export-ban"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Chinese AI startup Moonshot launches Kimi for finance",
+    "summary": "Moonshot said Kimi can also access the International Monetary Fund, the World Bank, and the St. Louis Fed’s FRED database.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/chinas-cxmt-enters-high-end-memory-race-with-samsung-sk-hynix"
+    "url": "https://www.techinasia.com/moonshot-ai-targets-50b-valuation-sources"
   },
   {
     "date": "2026-09-18",
-    "title": "Toyota to deploy 400,000 humanoid robots to work alongside factory staff",
-    "summary": "Toyota to deploy 400,000 humanoid robots to work alongside factory staff",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "Chinese robot maker PaXini raises $596m in cumulative funding",
+    "summary": "PaXini said it supplies its products and datasets to embodied AI companies, research institutions, and open-source communities.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
+      "AI",
       "Automation"
     ],
-    "url": "https://asia.nikkei.com/business/technology/toyota-to-deploy-400-000-humanoid-robots-to-work-alongside-factory-staff"
+    "url": "https://www.techinasia.com/bydbacked-robot-maker-paxini-eyes-hk-ipo"
   },
   {
     "date": "2026-09-18",
-    "title": "Taiwan dollar, South Korea won strong among Asia currencies as AI booms",
-    "summary": "Taiwan dollar, South Korea won strong among Asia currencies as AI booms",
+    "title": "Panasonic Energy gets in on AI demand boom",
+    "summary": "Panasonic Energy gets in on AI demand boom",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/markets/currencies/taiwan-dollar-south-korea-won-strong-among-asia-currencies-as-ai-booms"
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/panasonic-energy-gets-in-on-ai-demand-boom"
   },
   {
     "date": "2026-09-18",
-    "title": "Applied Materials to invest $5bn in India as country ups chip support",
-    "summary": "Applied Materials to invest $5bn in India as country ups chip support",
+    "title": "Thailand must invest in front-end chip production, industry body says",
+    "summary": "Thailand must invest in front-end chip production, industry body says",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/applied-materials-to-invest-5bn-in-india-as-country-ups-chip-support"
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/thailand-must-invest-in-front-end-chip-production-industry-body-says"
   },
   {
     "date": "2026-09-17",
