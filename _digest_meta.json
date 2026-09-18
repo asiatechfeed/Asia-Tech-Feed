@@ -1,38 +1,41 @@
 {
   "date": "2026-09-18",
-  "count": 9,
+  "count": 15,
   "sources": [
+    "CNA",
     "DigiTimes",
     "EETAsia",
+    "EW",
     "NikkeiAsia",
+    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-09-18-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Chip equipment makers face waits of up to 40 months for critical parts",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260918VL212/equipment-capacity-demand-supply-chain-chipmakers.html"
+      "title": "Toyota estimates factory automation could cost $6.4 billion per year from 2028",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/toyota-estimates-factory-automation-could-cost-64-billion-year-2028-6394351"
     },
     {
-      "title": "Samsung deepens Euclyd ties as startup reportedly reaches test-chip stage",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260918VL214/samsung-startup-development-samsung-foundry-dutch.html"
-    },
-    {
-      "title": "King Charles tests AI's safety consensus as Nvidia keeps its foot on the accelerator",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260918VL213/nvidia-google-openai-development-deepmind.html"
-    },
-    {
-      "title": "Selecting Low-voltage Piezo Ceramic Stacks for Cost-sensitive Embedded Electronics",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/selecting-low-voltage-piezo-ceramic-stacks-for-cost-sensitive-embedded-electronics/"
-    },
-    {
-      "title": "Nexperia, Tata partner to make power chips in India",
+      "title": "How Certis builds employee trust to scale security bots",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/nexperias-china-unit-resumes-chip-sales-after-export-ban"
+      "url": "https://www.techinasia.com/certis-builds-employee-trust-scale-security-bots"
+    },
+    {
+      "title": "Chip Industry Week In Review",
+      "source": "SemiEng",
+      "url": "https://semiengineering.com/chip-industry-week-in-review-156/"
+    },
+    {
+      "title": "Doosan commits KRW968 billion to CCL expansion as demand strains capacity",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260918VL217/doosan-ccl-demand-capacity-expansion.html"
+    },
+    {
+      "title": "China's AI data center token costs hinge on access to advanced GPUs",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260918PD219/cost-data-center-chips-data-high-end.html"
     }
   ],
   "source_stats": [
@@ -49,9 +52,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -130,9 +133,9 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -148,7 +151,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 7,
+      "relevant": 6,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -156,8 +159,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 40,
-      "relevant": 32,
+      "fetched": 46,
+      "relevant": 37,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +169,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 11,
+      "relevant": 13,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -211,9 +214,9 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     }
   ]
