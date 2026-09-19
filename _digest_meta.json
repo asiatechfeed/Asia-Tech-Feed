@@ -1,41 +1,38 @@
 {
-  "date": "2026-09-18",
-  "count": 15,
+  "date": "2026-09-19",
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
-    "EW",
     "NikkeiAsia",
-    "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-09-18-asia-tech-news-digest.md",
+  "post_file": "2026-09-19-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Toyota estimates factory automation could cost $6.4 billion per year from 2028",
+      "title": "Power grids can't keep pace with AI data center boom in EU, US",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260918PD206/aidc-eu-cost-supply-chain-electricity.html"
+    },
+    {
+      "title": "Memory recovery, price hikes lift Niching IC substrate outlook, order visibility through 2H27",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260918PD217/materials-niching-packaging-revenue-testing.html"
+    },
+    {
+      "title": "MediaTek, Vivo bring 30B MoE models on-device in next AI phone race",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260918PD224/mediatek-vivo-dimensity-smartphone-flagship.html"
+    },
+    {
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/toyota-estimates-factory-automation-could-cost-64-billion-year-2028-6394351"
+      "url": "https://www.channelnewsasia.com/business/gemini-hacked-three-companies-in-first-known-breakout-googles-ai-6396036"
     },
     {
-      "title": "How Certis builds employee trust to scale security bots",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/certis-builds-employee-trust-scale-security-bots"
-    },
-    {
-      "title": "Chip Industry Week In Review",
-      "source": "SemiEng",
-      "url": "https://semiengineering.com/chip-industry-week-in-review-156/"
-    },
-    {
-      "title": "Doosan commits KRW968 billion to CCL expansion as demand strains capacity",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260918VL217/doosan-ccl-demand-capacity-expansion.html"
-    },
-    {
-      "title": "China's AI data center token costs hinge on access to advanced GPUs",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260918PD219/cost-data-center-chips-data-high-end.html"
+      "title": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/anthropic-accenture-invest-2-billion-in-ai-model-evaluation-safety-concerns-rise-6395851"
     }
   ],
   "source_stats": [
@@ -135,7 +132,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -153,14 +150,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 46,
-      "relevant": 37,
+      "fetched": 35,
+      "relevant": 26,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -196,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 20,
+      "relevant": 19,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -216,7 +213,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     }
   ]
