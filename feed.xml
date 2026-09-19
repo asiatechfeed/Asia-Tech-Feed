@@ -1,4 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-18T08:02:08+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 18, 2026</title><link href="https://asiatechfeed.com/2026/09/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 18, 2026" /><published>2026-09-18T08:00:45+00:00</published><updated>2026-09-18T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/09/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-19T00:02:06+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 19, 2026</title><link href="https://asiatechfeed.com/2026/09/19/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 19, 2026" /><published>2026-09-19T00:01:26+00:00</published><updated>2026-09-19T00:01:26+00:00</updated><id>https://asiatechfeed.com/2026/09/19/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/19/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Power grids can't keep pace with AI data center boom in EU, US</span></td>
+  <td class="col-summary">According to supply chain players, most AI data center cost models used by analysts in both China and the West only count electricity consumption when estimating the cost of AI data centers or tokens, but do not take into account the cost of power generation, transmission, or grid infrastructure. As a result, actual AI</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260918PD206/aidc-eu-cost-supply-chain-electricity.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Memory recovery, price hikes lift Niching IC substrate outlook, order visibility through 2H27</span></td>
+  <td class="col-summary">Semiconductor packaging and testing materials distributor Niching Industrial hosted an investor conference on September 17. chief financial officer Chih Fang Chiu stated that full-year 2026 revenue is projected to grow by 20% to 30%. Beyond the consolidation benefits of acquiring Ming Chun Yuan Micro Precise Technology</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260918PD217/materials-niching-packaging-revenue-testing.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">MediaTek, Vivo bring 30B MoE models on-device in next AI phone race</span></td>
+  <td class="col-summary">MediaTek's new Dimensity 9600 Pro puts agentic AI at the center of its flagship smartphone strategy, supporting on-device mixture-of-experts (MoE) models with up to 30 billion parameters. Vivo, among the first Chinese handset makers to adopt the platform, has followed with an expanded AI software stack spanning BlueLM,</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260918PD224/mediatek-vivo-dimensity-smartphone-flagship.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Gemini hacked three companies in first known breakout by Google's AI</span></td>
+  <td class="col-summary">Gemini hacked three companies in first known breakout by Google's AI</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/gemini-hacked-three-companies-in-first-known-breakout-googles-ai-6396036" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise</span></td>
+  <td class="col-summary">Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/anthropic-accenture-invest-2-billion-in-ai-model-evaluation-safety-concerns-rise-6395851" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing</span></td>
+  <td class="col-summary">Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/nvidia-backed-ai-cloud-firm-nscale-reveals-revenue-surge-in-us-ipo-filing-6395776" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Chinese AI developers generated $10.7b ARR: report</span></td>
+  <td class="col-summary">ByteDance led with US$4 billion in July.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/bytedance-billionyuan-wedge-cloud-strategy" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Travel is proving too turbulent for AI</span></td>
+  <td class="col-summary">AI was supposed to radically change travel, but incumbents are learning to bend it to their advantage. Plus, we talk to Supabase CEO Paul Copplestone.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/travel-is-proving-too-turbulent-for-ai" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">OpenAI introduces Astra for Law legal AI tool</span></td>
+  <td class="col-summary">It combines GPT-6 Astra with legal search, analysis, and writing tools, plus controls for confidential client work.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-tenable-unveil-ai-agent-security-review" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">North Korean hackers disguise cyberattacks as job interviews with AI</span></td>
+  <td class="col-summary">North Korean hackers disguise cyberattacks as job interviews with AI</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/society/crime/north-korean-hackers-disguise-cyberattacks-as-job-interviews-with-ai" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan chip gear maker Screen to expand into India, eyeing growing industry</span></td>
+  <td class="col-summary">Japan chip gear maker Screen to expand into India, eyeing growing industry</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/japan-chip-gear-maker-screen-to-expand-into-india-eyeing-growing-industry" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan's Sojitz plans chip materials transport hub for Tata fab in India</span></td>
+  <td class="col-summary">Japan's Sojitz plans chip materials transport hub for Tata fab in India</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/supply-chain/japan-s-sojitz-plans-chip-materials-transport-hub-for-tata-fab-in-india" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Power grids can't keep pace with AI data center boom in EU, US According to supply chain players, most AI data center cost models used by analysts in both China and the West only count electricity consumption when estimating the cost of AI data centers or tokens, but do not take into account the cost of power generation, transmission, or grid infrastructure. As a result, actual AI AILogistics Read 2 DigiTimes Memory recovery, price hikes lift Niching IC substrate outlook, order visibility through 2H27 Semiconductor packaging and testing materials distributor Niching Industrial hosted an investor conference on September 17. chief financial officer Chih Fang Chiu stated that full-year 2026 revenue is projected to grow by 20% to 30%. Beyond the consolidation benefits of acquiring Ming Chun Yuan Micro Precise Technology Semiconductor Read 3 DigiTimes MediaTek, Vivo bring 30B MoE models on-device in next AI phone race MediaTek's new Dimensity 9600 Pro puts agentic AI at the center of its flagship smartphone strategy, supporting on-device mixture-of-experts (MoE) models with up to 30 billion parameters. Vivo, among the first Chinese handset makers to adopt the platform, has followed with an expanded AI software stack spanning BlueLM, AI Read 4 CNA Gemini hacked three companies in first known breakout by Google's AI Gemini hacked three companies in first known breakout by Google's AI AI Read 5 CNA Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise AI Read 6 CNA Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing AI Read 7 TechAsia Chinese AI developers generated $10.7b ARR: report ByteDance led with US$4 billion in July. AI Read 8 TechAsia Travel is proving too turbulent for AI AI was supposed to radically change travel, but incumbents are learning to bend it to their advantage. Plus, we talk to Supabase CEO Paul Copplestone. AI Read 9 TechAsia OpenAI introduces Astra for Law legal AI tool It combines GPT-6 Astra with legal search, analysis, and writing tools, plus controls for confidential client work. AI Read 10 NikkeiAsia North Korean hackers disguise cyberattacks as job interviews with AI North Korean hackers disguise cyberattacks as job interviews with AI AI Read 11 NikkeiAsia Japan chip gear maker Screen to expand into India, eyeing growing industry Japan chip gear maker Screen to expand into India, eyeing growing industry Semiconductor Read 12 NikkeiAsia Japan's Sojitz plans chip materials transport hub for Tata fab in India Japan's Sojitz plans chip materials transport hub for Tata fab in India Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 18, 2026</title><link href="https://asiatechfeed.com/2026/09/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 18, 2026" /><published>2026-09-18T08:00:45+00:00</published><updated>2026-09-18T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/09/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -739,73 +848,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/amazon-plans-25b-bond-sale-ai-expansion" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Foxsemicon hits record 2Q26 revenue on Thailand ramp-up Foxsemicon Integrated Technology (FITI) posted record consolidated revenue of NT$6.3 billion (approx. US$200.0 million) in the second quarter of 2026, up 13.3% quarter-over-quarter and 21.1% year-over-year. The semiconductor equipment maker said second-half operations should outperform the first half as its Thailand pl Semiconductor Read 2 DigiTimes Shinkong Synthetic Fibers partners with Earthbook, Jedsy to tap Taiwan's medical drone logistics market Shinkong Synthetic Fibers Corporation (SSFC) is stepping into Taiwan's emerging low-altitude economy, partnering with Taiwan-based drone-data and AI platform Earthbook and Swiss medical logistics company Delivery Glider AG (Jedsy) to develop commercial drone services, initially targeting medical logistics. LogisticsAI Read 3 DigiTimes Jeter August revenue rises on AI server shipments Soonest Express, a logistics and freight forwarding provider, reported August 2026 revenue of NT$799 million (approx. US$25.3 million), up 13.53% month on month and 7.80% year on year, a new 2026 high that the company said reflects recovering global supply-chain demand and the benefits of its overseas expansion. LogisticsAI Read 4 TechAsia Nvidia targets up to 2 GW AI capacity in Australia Nvidia said DSX is an AI Factory Design, Simulation, and Operations platform for data centers. AI Read 5 TechAsia An evening built for the people shaping AI in Asia This is where where the ideas raised on stage find room to develop further and the relationships built across two days get the space to deepen. AI Read 6 TechAsia Amazon set to raise $5.4b in first sterling bond sale Amazon has outlined about US$200 billion in long-term AI infrastructure spending. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 09, 2026</title><link href="https://asiatechfeed.com/2026/09/09/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 09, 2026" /><published>2026-09-09T08:00:45+00:00</published><updated>2026-09-09T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/09/09/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/09/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">US HR firm ADP expands AWS partnership for workforce AI</span></td>
-  <td class="col-summary">ADP says new onboarding tools have cut some steps by more than 50%.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/aipowered-mentorship-southeast-asias-talent" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Google to invest $15 billion in AI infrastructure in Finland</span></td>
-  <td class="col-summary">Google to invest $15 billion in AI infrastructure in Finland</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/google-invest-15-billion-in-ai-infrastructure-in-finland-6372206" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">BharatPe launches Gemini-powered AI assistant for merchants</span></td>
-  <td class="col-summary">BharatPe said its Agentic AI offers voice and chat support in multiple languages.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sg-finserve-launches-merchant-loans-bharatpe-money" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Quantinuum finalizes US$100 million CHIPS funding deal for quantum hardware</span></td>
-  <td class="col-summary">For readers worldwide, the deal underscores how governments are backing quantum computing as a strategic technology with implications for cybersecurity, advanced manufacturing, and scientific research. Quantinuum's US funding also highlights efforts to build more resilient semiconductor and photonics supply chains that</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260909PR207/worldwide-funding-quantum-computing-hardware-technology.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Amkor expands Arizona chip campus with phase 2 plan</span></td>
-  <td class="col-summary">Amkor Technology's latest Arizona expansion underscores how advanced packaging capacity is becoming a strategic issue for the US semiconductor supply chain. The larger campus aims to meet rising demand for advanced packaging, strengthen domestic production, and support next-generation devices worldwide.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260909PR205/amkor-arizona-packaging-expansion-demand.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">China's up to 99.2% anti-dumping duty on Japan DCS boosts local chip material suppliers</span></td>
-  <td class="col-summary">China has imposed provisional anti-dumping measures on Japanese dichlorosilane (DCS), a semiconductor material used in thin-film deposition, potentially accelerating Chinese wafer fabs' shift toward domestic suppliers.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260909VL213/production-silicon-capacity-2022-wafer.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Oracle plans HPE networking rollout for AI data centers</span></td>
-  <td class="col-summary">HPE completed its acquisition of Juniper Networks on July 2, 2025.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/oracle-nears-record-38b-loan-for-openai-data-centers" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia US HR firm ADP expands AWS partnership for workforce AI ADP says new onboarding tools have cut some steps by more than 50%. AI Read 2 CNA Google to invest $15 billion in AI infrastructure in Finland Google to invest $15 billion in AI infrastructure in Finland AI Read 3 TechAsia BharatPe launches Gemini-powered AI assistant for merchants BharatPe said its Agentic AI offers voice and chat support in multiple languages. AI Read 4 DigiTimes Quantinuum finalizes US$100 million CHIPS funding deal for quantum hardware For readers worldwide, the deal underscores how governments are backing quantum computing as a strategic technology with implications for cybersecurity, advanced manufacturing, and scientific research. Quantinuum's US funding also highlights efforts to build more resilient semiconductor and photonics supply chains that SemiconductorLogistics Read 5 DigiTimes Amkor expands Arizona chip campus with phase 2 plan Amkor Technology's latest Arizona expansion underscores how advanced packaging capacity is becoming a strategic issue for the US semiconductor supply chain. The larger campus aims to meet rising demand for advanced packaging, strengthen domestic production, and support next-generation devices worldwide. SemiconductorLogistics Read 6 DigiTimes China's up to 99.2% anti-dumping duty on Japan DCS boosts local chip material suppliers China has imposed provisional anti-dumping measures on Japanese dichlorosilane (DCS), a semiconductor material used in thin-film deposition, potentially accelerating Chinese wafer fabs' shift toward domestic suppliers. Semiconductor Read 7 TechAsia Oracle plans HPE networking rollout for AI data centers HPE completed its acquisition of Juniper Networks on July 2, 2025. AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Foxsemicon hits record 2Q26 revenue on Thailand ramp-up Foxsemicon Integrated Technology (FITI) posted record consolidated revenue of NT$6.3 billion (approx. US$200.0 million) in the second quarter of 2026, up 13.3% quarter-over-quarter and 21.1% year-over-year. The semiconductor equipment maker said second-half operations should outperform the first half as its Thailand pl Semiconductor Read 2 DigiTimes Shinkong Synthetic Fibers partners with Earthbook, Jedsy to tap Taiwan's medical drone logistics market Shinkong Synthetic Fibers Corporation (SSFC) is stepping into Taiwan's emerging low-altitude economy, partnering with Taiwan-based drone-data and AI platform Earthbook and Swiss medical logistics company Delivery Glider AG (Jedsy) to develop commercial drone services, initially targeting medical logistics. LogisticsAI Read 3 DigiTimes Jeter August revenue rises on AI server shipments Soonest Express, a logistics and freight forwarding provider, reported August 2026 revenue of NT$799 million (approx. US$25.3 million), up 13.53% month on month and 7.80% year on year, a new 2026 high that the company said reflects recovering global supply-chain demand and the benefits of its overseas expansion. LogisticsAI Read 4 TechAsia Nvidia targets up to 2 GW AI capacity in Australia Nvidia said DSX is an AI Factory Design, Simulation, and Operations platform for data centers. AI Read 5 TechAsia An evening built for the people shaping AI in Asia This is where where the ideas raised on stage find room to develop further and the relationships built across two days get the space to deepen. AI Read 6 TechAsia Amazon set to raise $5.4b in first sterling bond sale Amazon has outlined about US$200 billion in long-term AI infrastructure spending. AI Read]]></summary></entry></feed>

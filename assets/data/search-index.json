@@ -1,5 +1,138 @@
 [
   {
+    "date": "2026-09-19",
+    "title": "Power grids can't keep pace with AI data center boom in EU, US",
+    "summary": "According to supply chain players, most AI data center cost models used by analysts in both China and the West only count electricity consumption when estimating the cost of AI data centers or tokens, but do not take into account the cost of power generation, transmission, or grid infrastructure. As a result, actual AI",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260918PD206/aidc-eu-cost-supply-chain-electricity.html"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Memory recovery, price hikes lift Niching IC substrate outlook, order visibility through 2H27",
+    "summary": "Semiconductor packaging and testing materials distributor Niching Industrial hosted an investor conference on September 17. chief financial officer Chih Fang Chiu stated that full-year 2026 revenue is projected to grow by 20% to 30%. Beyond the consolidation benefits of acquiring Ming Chun Yuan Micro Precise Technology",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260918PD217/materials-niching-packaging-revenue-testing.html"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "MediaTek, Vivo bring 30B MoE models on-device in next AI phone race",
+    "summary": "MediaTek's new Dimensity 9600 Pro puts agentic AI at the center of its flagship smartphone strategy, supporting on-device mixture-of-experts (MoE) models with up to 30 billion parameters. Vivo, among the first Chinese handset makers to adopt the platform, has followed with an expanded AI software stack spanning BlueLM,",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260918PD224/mediatek-vivo-dimensity-smartphone-flagship.html"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Gemini hacked three companies in first known breakout by Google's AI",
+    "summary": "Gemini hacked three companies in first known breakout by Google's AI",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/gemini-hacked-three-companies-in-first-known-breakout-googles-ai-6396036"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise",
+    "summary": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/anthropic-accenture-invest-2-billion-in-ai-model-evaluation-safety-concerns-rise-6395851"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing",
+    "summary": "Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/nvidia-backed-ai-cloud-firm-nscale-reveals-revenue-surge-in-us-ipo-filing-6395776"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Chinese AI developers generated $10.7b ARR: report",
+    "summary": "ByteDance led with US$4 billion in July.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/bytedance-billionyuan-wedge-cloud-strategy"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Travel is proving too turbulent for AI",
+    "summary": "AI was supposed to radically change travel, but incumbents are learning to bend it to their advantage. Plus, we talk to Supabase CEO Paul Copplestone.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/travel-is-proving-too-turbulent-for-ai"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "OpenAI introduces Astra for Law legal AI tool",
+    "summary": "It combines GPT-6 Astra with legal search, analysis, and writing tools, plus controls for confidential client work.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/openai-tenable-unveil-ai-agent-security-review"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "North Korean hackers disguise cyberattacks as job interviews with AI",
+    "summary": "North Korean hackers disguise cyberattacks as job interviews with AI",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/spotlight/society/crime/north-korean-hackers-disguise-cyberattacks-as-job-interviews-with-ai"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Japan chip gear maker Screen to expand into India, eyeing growing industry",
+    "summary": "Japan chip gear maker Screen to expand into India, eyeing growing industry",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-chip-gear-maker-screen-to-expand-into-india-eyeing-growing-industry"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Japan's Sojitz plans chip materials transport hub for Tata fab in India",
+    "summary": "Japan's Sojitz plans chip materials transport hub for Tata fab in India",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-s-sojitz-plans-chip-materials-transport-hub-for-tata-fab-in-india"
+  },
+  {
     "date": "2026-09-18",
     "title": "Toyota estimates factory automation could cost $6.4 billion per year from 2028",
     "summary": "Toyota estimates factory automation could cost $6.4 billion per year from 2028",
