@@ -1,39 +1,36 @@
 {
   "date": "2026-09-19",
-  "count": 9,
+  "count": 6,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "KED",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-19-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Scammers are using AI to commit crimes at speed. How is Singapore police's new Cyber Command keeping up?",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/police-cyber-command-artificial-intelligence-scams-6394231"
-    },
-    {
-      "title": "OpenAI expects $278b negative free cash flow by 2030",
+      "title": "SK hynix weighs US NAND chip plant through Solidigm",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/openai-samsung-deepen-nextgen-chip-ai-ties"
+      "url": "https://www.techinasia.com/sk-hynix-weighs-investor-3b-china-chip-site"
     },
     {
-      "title": "Nvidia-backed AI startup Nscale files for US IPO",
+      "title": "Nvidia commits $2b to Brookfield\u2019s AI infrastructure fund",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-nokia-join-1-1b-series-b-for-uk-ai-firm-nscale"
+      "url": "https://www.techinasia.com/nvidiabacked-lambda-lands-1b-private-debt-deal"
     },
     {
-      "title": "Anthropic taps Accenture for independent AI model tests",
+      "title": "AI after the hype",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-drop-30day-data-rule-enterprises"
+      "url": "https://www.techinasia.com/ai-after-the-hype"
     },
     {
-      "title": "Interview: Advanced packaging shifts toward system-level co-design for AI",
+      "title": "Ventec invests NT$1.5 billion in Kunshan expansion for AI, HDI orders",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260918PD215/packaging-taiwan-2026-technology-materials.html"
+      "url": "https://www.digitimes.com/news/a20260917PD235/expansion-ccl-ventec-kunshan-laminate.html"
+    },
+    {
+      "title": "Compal takes Compal Broadband Networks private to fold networking into its edge AI stack",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260919PD201/compal-compal-broadband-business-wireless-manufacturing.html"
     }
   ],
   "source_stats": [
@@ -52,7 +49,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -169,7 +166,7 @@
       "fetched": 50,
       "relevant": 13,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -178,7 +175,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {

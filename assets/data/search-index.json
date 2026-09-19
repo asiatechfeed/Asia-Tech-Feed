@@ -1,104 +1,70 @@
 [
   {
     "date": "2026-09-19",
-    "title": "Scammers are using AI to commit crimes at speed. How is Singapore police's new Cyber Command keeping up?",
-    "summary": "Hackers are using AI to help write malicious code and find exploitable weaknesses, says a cybersecurity specialist with the Singapore Police Force's new Cyber Command.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/singapore/police-cyber-command-artificial-intelligence-scams-6394231"
-  },
-  {
-    "date": "2026-09-19",
-    "title": "OpenAI expects $278b negative free cash flow by 2030",
-    "summary": "OpenAI’s Stargate project includes five US data centers targeting 10 gigawatts of AI capacity.",
+    "title": "SK hynix weighs US NAND chip plant through Solidigm",
+    "summary": "SK Hynix acquired California-based Solidigm from Intel to run its storage business.",
     "source": "Tech in Asia",
     "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/openai-samsung-deepen-nextgen-chip-ai-ties"
-  },
-  {
-    "date": "2026-09-19",
-    "title": "Nvidia-backed AI startup Nscale files for US IPO",
-    "summary": "Nscale was spun out of a cryptocurrency mining operation in early 2024.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/nvidia-nokia-join-1-1b-series-b-for-uk-ai-firm-nscale"
-  },
-  {
-    "date": "2026-09-19",
-    "title": "Anthropic taps Accenture for independent AI model tests",
-    "summary": "Accenture’s AI unit Faculty will lead red-team testing of Anthropic’s models.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/anthropic-drop-30day-data-rule-enterprises"
-  },
-  {
-    "date": "2026-09-19",
-    "title": "Interview: Advanced packaging shifts toward system-level co-design for AI",
-    "summary": "Advanced packaging remains one of the semiconductor industry's hottest technology areas in 2026. In Taiwan, terms such as co-packaged optics (CPO), chiplets, and glass substrates are increasingly common as packaging moves deeper into system-level design.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260918PD215/packaging-taiwan-2026-technology-materials.html"
-  },
-  {
-    "date": "2026-09-19",
-    "title": "Charts: Taiwan's memory makers are outgrowing TSMC by a factor of eight",
-    "summary": "Taiwan's chipmakers are having their best year in a decade, and the headline number belongs to TSMC. The more interesting one does not.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260918VL221/taiwan-tsmc-revenue-chipmakers-demand.html"
+    "url": "https://www.techinasia.com/sk-hynix-weighs-investor-3b-china-chip-site"
   },
   {
     "date": "2026-09-19",
-    "title": "Ams OSRAM takes an automotive-qualified force sensor into robotic hands",
-    "summary": "Ams OSRAM is pushing its optical force sensor line into robotic hands on the argument that incumbent piezoelectric solutions cannot hold a reading, and it is using automotive qualification as the entry credential.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Nvidia commits $2b to Brookfield’s AI infrastructure fund",
+    "summary": "Brookfield is targeting US$10 billion for AI factories, power systems, and compute infrastructure.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/nvidiabacked-lambda-lands-1b-private-debt-deal"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "AI after the hype",
+    "summary": "D-robotics, Barq, Tabby, and more raised funds this week.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20260918VL222/sensor-production-automotive.html"
+    "url": "https://www.techinasia.com/ai-after-the-hype"
   },
   {
     "date": "2026-09-19",
-    "title": "India's chip ambitions open door for Fujifilm, Tokyo Electron",
-    "summary": "India's chip ambitions open door for Fujifilm, Tokyo Electron",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "Ventec invests NT$1.5 billion in Kunshan expansion for AI, HDI orders",
+    "summary": "Copper-clad laminate (CCL) manufacturer Ventec International Group has approved an expansion budget of NT$1.5 billion (approx. US$47.11 million) to lease and convert an idle factory in Kunshan, Jiangsu Province, China, as it moves to capture spillover demand for artificial intelligence (AI) and high-density interconnec",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/india-s-chip-ambitions-open-door-for-fujifilm-tokyo-electron"
+    "url": "https://www.digitimes.com/news/a20260917PD235/expansion-ccl-ventec-kunshan-laminate.html"
   },
   {
     "date": "2026-09-19",
-    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
-    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
-    "source": "KED Global",
-    "short": "KED",
+    "title": "Compal takes Compal Broadband Networks private to fold networking into its edge AI stack",
+    "summary": "Compal Electronics is buying out the shares of its listed networking arm, Compal Broadband Networks (CBN), in a cash deal that will end CBN's public listing and give Compal full control of a router and gateway business it wants to pair with its edge AI hardware.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "AI",
+      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260919PD201/compal-compal-broadband-business-wireless-manufacturing.html"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Solidigm weighs first US NAND fab, explores upstate New York",
+    "summary": "Solidigm, the US NAND flash subsidiary of SK Hynix, is considering building its first NAND manufacturing plant in the US, with upstate New York emerging as a leading candidate.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
+    "url": "https://www.digitimes.com/news/a20260918VL223/solidigm-nand-sk-hynix-manufacturing-fab.html"
   },
   {
     "date": "2026-09-18",
