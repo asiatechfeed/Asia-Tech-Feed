@@ -1,37 +1,31 @@
 {
   "date": "2026-09-20",
-  "count": 5,
+  "count": 4,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "TechAsia"
+    "NikkeiAsia"
   ],
   "post_file": "2026-09-20-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Australian PM seeks big tech backing for internet safety, AI rules",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/australian-pm-seeks-big-tech-backing-internet-safety-ai-rules-6397216"
-    },
-    {
-      "title": "OpenAI launches Australian youth safety blueprint",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/openai-appoints-ai-safety-expert-to-foundation-board"
-    },
-    {
-      "title": "Charts: Two-thirds of Taiwan's chip equipment growth comes from testing AI chips",
+      "title": "Wiwynn brings cobots to L10 server assembly as AI rack testing drives factory redesign",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260918VL220/equipment-taiwan-growth-testing-revenue.html"
+      "url": "https://www.digitimes.com/news/a20260918PD216/wiwynn-testing-manufacturing-plant-cooling.html"
     },
     {
-      "title": "OpenAI, Microsoft filings intensify copyright fight over AI training",
+      "title": "CoreWeave launches US$3 billion bond sale amid growing revenue, debt",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260918PD230/openai-microsoft-copyright-training-new-york-times.html"
+      "url": "https://www.digitimes.com/news/a20260918VL216/revenue-capacity-infrastructure-bloomberg-2030.html"
     },
     {
-      "title": "AI capacity crunch drives up consumer tech costs, deepening China's deflation",
+      "title": "High-end GPUs may be slowing China's AI compute expansion",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260918PD225/demand-ai-server-capacity-electronics-smartphone.html"
+      "url": "https://www.digitimes.com/news/a20260918PD211/expansion-high-end-2025-data-center-2026.html"
+    },
+    {
+      "title": "Asia's AI adoption outpaces perception, says Google executive",
+      "source": "NikkeiAsia",
+      "url": "https://asia.nikkei.com/business/technology/asia-s-ai-adoption-outpaces-perception-says-google-executive"
     }
   ],
   "source_stats": [
@@ -50,7 +44,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -128,8 +122,8 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
-      "relevant": 1,
+      "fetched": 0,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -165,9 +159,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 10,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -194,7 +188,7 @@
       "fetched": 36,
       "relevant": 15,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
