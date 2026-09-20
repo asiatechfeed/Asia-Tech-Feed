@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - September 20, 2026"
-date: 2026-09-20 08:01:26 +0800
+date: 2026-09-20 12:36:33 +0800
 articles_count: 5
-sources_count: 2
-sources: ["CNA", "DigiTimes"]
+sources_count: 3
+sources: ["CNA", "DigiTimes", "TechAsia"]
 csv_file: /assets/data/news-2026-09-20.tsv
-featured_title: "Natureland founder Fion Wu on why robot massages could be the chain\u2019s next big move"
-featured_url: "https://www.channelnewsasia.com/people/natureland-robot-massage-singapore-6388691"
+featured_title: "Australian PM seeks big tech backing for internet safety, AI rules"
+featured_url: "https://www.channelnewsasia.com/world/australian-pm-seeks-big-tech-backing-internet-safety-ai-rules-6397216"
 featured_source: "CNA"
-featured_summary: "After 13 years building a business around human hands, Wu is exploring AI and robotics to tackle manpower constraints and take Natureland into its next phase."
-featured_image: "https://dam.mediacorp.sg/image/upload/s--q3mv9z5Z--/c_crop,h_900,w_1600,x_0,y_90/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/16/h_natureland_founder_fion_wu.jpg?itok=rc6ZKzpA"
+featured_summary: "\"We're putting stronger rules in place to keep Australians safe online,\" says Prime Minister Anthony Albanese."
+featured_image: "https://dam.mediacorp.sg/image/upload/s--bbjlrM5X--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/20/000_c8td9t3.jpg?itok=06j3Dijv"
 ---
 
 <table class="news-table">
@@ -28,42 +28,42 @@ featured_image: "https://dam.mediacorp.sg/image/upload/s--q3mv9z5Z--/c_crop,h_90
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Natureland founder Fion Wu on why robot massages could be the chain’s next big move</span></td>
-  <td class="col-summary">After 13 years building a business around human hands, Wu is exploring AI and robotics to tackle manpower constraints and take Natureland into its next phase.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/people/natureland-robot-massage-singapore-6388691" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Australian PM seeks big tech backing for internet safety, AI rules</span></td>
+  <td class="col-summary">"We're putting stronger rules in place to keep Australians safe online," says Prime Minister Anthony Albanese.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/australian-pm-seeks-big-tech-backing-internet-safety-ai-rules-6397216" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Trump says he will appoint a new AI adviser, without providing details</span></td>
-  <td class="col-summary">Trump says he will appoint a new AI adviser, without providing details</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">OpenAI launches Australian youth safety blueprint</span></td>
+  <td class="col-summary">The blueprint outlines six pillars, including AI literacy and parental controls.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/trump-says-he-will-appoint-new-ai-adviser-without-providing-details-6396921" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-appoints-ai-safety-expert-to-foundation-board" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Analysis: China's 15th five-year plan spotlights diamond for AI chip thermal management</span></td>
-  <td class="col-summary">China's Ministry of Industry and Information Technology (MIIT) and National Development and Reform Commission (NDRC) have highlighted ultra-wide bandgap (UWBG) semiconductor materials, including gallium oxide (Ga₂O₃) and synthetic diamond, in their draft development plan for the electronic information manufacturing sec</td>
+  <td class="col-title"><span class="article-title">Charts: Two-thirds of Taiwan's chip equipment growth comes from testing AI chips</span></td>
+  <td class="col-summary">Taiwan's listed semiconductor equipment, components, and solutions suppliers are growing at nearly twice the pace of the chipmakers they serve, and most of that growth traces back to one step in the production flow: test.</td>
   <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260918PD222/ai-chip-management-miit-it-materials.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260918VL220/equipment-taiwan-growth-testing-revenue.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Winbond cements server NOR lead with Infineon deal</span></td>
-  <td class="col-summary">Winbond Electronics is expanding its NOR Flash footprint and has agreed to pay US$1.12 billion in cash to acquire Infineon's NOR Flash and F-RAM businesses, a move that will lift it to the top of the automotive NOR market while strengthening its position in AI data center and server NOR supply.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260918PD228/winbond-infineon-automotive-market-capacity.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">OpenAI, Microsoft filings intensify copyright fight over AI training</span></td>
+  <td class="col-summary">New court filings from The New York Times and other news organizations have put OpenAI and Microsoft's internal comments on AI and journalism at the center of a widening copyright dispute in the US. The documents, cited by Financial Times and Reuters, are being used to challenge the companies' fair use defense in a cas</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260918PD230/openai-microsoft-copyright-training-new-york-times.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Corning to raise display glass substrate prices 15% from 4Q26</span></td>
-  <td class="col-summary">Corning, the US glass substrate supplier, will raise prices for its yen-denominated display glass substrate products by 15% or more worldwide starting in the fourth quarter of 2026, according to industry sources. The company confirmed the move amid persistent cost pressure across the electronics supply chain.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260918PD226/corning-glass-substrate-display-panel-price.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">AI capacity crunch drives up consumer tech costs, deepening China's deflation</span></td>
+  <td class="col-summary">Surging AI server demand is reshaping consumer electronics. Memory costs have risen sharply this year, prompting Huawei, Oppo, Xiaomi and Apple to raise prices on some smartphones. A senior Chinese technology industry source said the increase reflects memory suppliers prioritising capacity and investment for AI product</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260918PD225/demand-ai-server-capacity-electronics-smartphone.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
