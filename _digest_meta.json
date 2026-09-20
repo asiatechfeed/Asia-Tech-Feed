@@ -1,36 +1,36 @@
 {
-  "date": "2026-09-19",
-  "count": 6,
+  "date": "2026-09-20",
+  "count": 5,
   "sources": [
-    "DigiTimes",
-    "TechAsia"
+    "CNA",
+    "DigiTimes"
   ],
-  "post_file": "2026-09-19-asia-tech-news-digest.md",
+  "post_file": "2026-09-20-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "SK hynix weighs US NAND chip plant through Solidigm",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/sk-hynix-weighs-investor-3b-china-chip-site"
+      "title": "Natureland founder Fion Wu on why robot massages could be the chain\u2019s next big move",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/people/natureland-robot-massage-singapore-6388691"
     },
     {
-      "title": "Nvidia commits $2b to Brookfield\u2019s AI infrastructure fund",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidiabacked-lambda-lands-1b-private-debt-deal"
+      "title": "Trump says he will appoint a new AI adviser, without providing details",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/trump-says-he-will-appoint-new-ai-adviser-without-providing-details-6396921"
     },
     {
-      "title": "AI after the hype",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/ai-after-the-hype"
-    },
-    {
-      "title": "Ventec invests NT$1.5 billion in Kunshan expansion for AI, HDI orders",
+      "title": "Analysis: China's 15th five-year plan spotlights diamond for AI chip thermal management",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260917PD235/expansion-ccl-ventec-kunshan-laminate.html"
+      "url": "https://www.digitimes.com/news/a20260918PD222/ai-chip-management-miit-it-materials.html"
     },
     {
-      "title": "Compal takes Compal Broadband Networks private to fold networking into its edge AI stack",
+      "title": "Winbond cements server NOR lead with Infineon deal",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260919PD201/compal-compal-broadband-business-wireless-manufacturing.html"
+      "url": "https://www.digitimes.com/news/a20260918PD228/winbond-infineon-automotive-market-capacity.html"
+    },
+    {
+      "title": "Corning to raise display glass substrate prices 15% from 4Q26",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260918PD226/corning-glass-substrate-display-panel-price.html"
     }
   ],
   "source_stats": [
@@ -49,7 +49,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -164,7 +164,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 13,
+      "relevant": 10,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -191,9 +191,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 15,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
