@@ -1,4 +1,89 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-20T08:01:15+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 20, 2026</title><link href="https://asiatechfeed.com/2026/09/20/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 20, 2026" /><published>2026-09-20T08:00:42+00:00</published><updated>2026-09-20T08:00:42+00:00</updated><id>https://asiatechfeed.com/2026/09/20/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/20/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-21T00:02:27+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 21, 2026</title><link href="https://asiatechfeed.com/2026/09/21/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 21, 2026" /><published>2026-09-21T00:01:06+00:00</published><updated>2026-09-21T00:01:06+00:00</updated><id>https://asiatechfeed.com/2026/09/21/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/21/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">MediaTek Moves Dimensity Flagship to 2nm with New AI Architecture</span></td>
+  <td class="col-summary">MediaTek's Dimensity 9600 Pro brings 2nm silicon, enhanced on-device AI, gaming, imaging and efficiency. The post MediaTek Moves Dimensity Flagship to 2nm with New AI Architecture appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/mediatek-moves-dimensity-flagship-to-2nm-with-new-ai-architecture/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Advantech Expands Edge AI Ecosystem with Intel, Qualcomm and AMD</span></td>
+  <td class="col-summary">Advantech expands its WEDA Edge AI ecosystem with Intel, Qualcomm and AMD to simplify deployment across industrial applications. The post Advantech Expands Edge AI Ecosystem with Intel, Qualcomm and AMD appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/advantech-expands-edge-ai-ecosystem-with-intel-qualcomm-and-amd/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Connectivity Moves to the Core of Edge AI System Design</span></td>
+  <td class="col-summary">Edge AI designers increasingly balance connectivity, compute, latency, security, power, and cloud resources across applications. The post Connectivity Moves to the Core of Edge AI System Design appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/connectivity-moves-to-the-core-of-edge-ai-system-design/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: The AI panic needs some nuclear metaphors</span></td>
+  <td class="col-summary">To wrap our minds around the AI threat, there are lessons we can draw from Cold War-era thinking of nuclear weapons, says Andreas Kluth for Bloomberg Opinion.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/will-ai-kill-us-all-nuclear-weapons-us-china-6397556" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Top US, Chinese economic officials meet ahead of Trump-Xi summit</span></td>
+  <td class="col-summary">US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng began talks Sunday (Sep 20), setting the stage for possible agreements on trade, AI and other issues before a summit of the countries' top leaders on Thursday.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/us-china-officials-meet-trump-xi-summit-6398086" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Mapping China’s biotech titans</span></td>
+  <td class="col-summary">Mapping China’s biotech sector: Key players, top investors, and funding insights in one report.</td>
+  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/mapping-chinas-biotech-titans" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">CPO raises PCB downgrade concerns but switches stick with M8 CCL</span></td>
+  <td class="col-summary">As the industry shifts toward greater use of optical interconnects and less reliance on copper, market speculation has emerged that wider adoption of co-packaged optics (CPO) could reduce high-speed transmission requirements for AI server motherboard printed circuit boards (PCBs).</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260918PD208/pcb-cpo-ccl-materials-copper.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">China's Unitree Robotics stock falls by half in month after listing</span></td>
+  <td class="col-summary">China's Unitree Robotics stock falls by half in month after listing</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/equities/china-s-unitree-robotics-stock-falls-by-half-in-month-after-listing" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan to tap industrial machinery for collecting physical AI data</span></td>
+  <td class="col-summary">Japan to tap industrial machinery for collecting physical AI data</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-to-tap-industrial-machinery-for-collecting-physical-ai-data" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 EETAsia MediaTek Moves Dimensity Flagship to 2nm with New AI Architecture MediaTek's Dimensity 9600 Pro brings 2nm silicon, enhanced on-device AI, gaming, imaging and efficiency. The post MediaTek Moves Dimensity Flagship to 2nm with New AI Architecture appeared first on EE Times Asia . AI Read 2 EETAsia Advantech Expands Edge AI Ecosystem with Intel, Qualcomm and AMD Advantech expands its WEDA Edge AI ecosystem with Intel, Qualcomm and AMD to simplify deployment across industrial applications. The post Advantech Expands Edge AI Ecosystem with Intel, Qualcomm and AMD appeared first on EE Times Asia . AI Read 3 EETAsia Connectivity Moves to the Core of Edge AI System Design Edge AI designers increasingly balance connectivity, compute, latency, security, power, and cloud resources across applications. The post Connectivity Moves to the Core of Edge AI System Design appeared first on EE Times Asia . AI Read 4 CNA Commentary: The AI panic needs some nuclear metaphors To wrap our minds around the AI threat, there are lessons we can draw from Cold War-era thinking of nuclear weapons, says Andreas Kluth for Bloomberg Opinion. AI Read 5 CNA Top US, Chinese economic officials meet ahead of Trump-Xi summit US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng began talks Sunday (Sep 20), setting the stage for possible agreements on trade, AI and other issues before a summit of the countries' top leaders on Thursday. AI Read 6 TechAsia Mapping China’s biotech titans Mapping China’s biotech sector: Key players, top investors, and funding insights in one report. Biotechnology Read 7 DigiTimes CPO raises PCB downgrade concerns but switches stick with M8 CCL As the industry shifts toward greater use of optical interconnects and less reliance on copper, market speculation has emerged that wider adoption of co-packaged optics (CPO) could reduce high-speed transmission requirements for AI server motherboard printed circuit boards (PCBs). AIElectronics Read 8 NikkeiAsia China's Unitree Robotics stock falls by half in month after listing China's Unitree Robotics stock falls by half in month after listing Automation Read 9 NikkeiAsia Japan to tap industrial machinery for collecting physical AI data Japan to tap industrial machinery for collecting physical AI data AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 20, 2026</title><link href="https://asiatechfeed.com/2026/09/20/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 20, 2026" /><published>2026-09-20T08:00:42+00:00</published><updated>2026-09-20T08:00:42+00:00</updated><id>https://asiatechfeed.com/2026/09/20/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/20/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -699,89 +784,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260911PD230/pegatron-revenue-apple-2026-business.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia UAE rethinks 5GW AI data center project after Iran war The original plan called for a 26-square-kilometer campus in Abu Dhabi. AI Read 2 TechAsia Moonshot AI targets $2b in annualized sales by year-end Moonshot is expanding beyond coders to clients like AsiaInfo and Kingsoft Cloud. AI Read 3 TechAsia Insight Partners leads $13.3m round for pharma startup Graph AI Its software cuts case-processing time from over three hours to under 10 minutes. AI Read 4 DigiTimes AI server boom reshuffles MLCC supply, opening a rare expansion window for Taiwan makers Strong demand for AI computing is creating a capacity squeeze across the passive-component industry, opening new opportunities for Taiwanese suppliers. AI Read 5 DigiTimes Murata targets mass production of its AI power substrate next year Murata Manufacturing plans to begin mass production next year of iPaS, the power substrate it has spent several years developing for AI chips, a step that would carry the world's largest multilayer ceramic capacitor maker out of the passive components it dominates and into the substrate layer itself. The company is tar AISemiconductor Read 6 DigiTimes Pegatron's AI server engine starts to outweigh notebook drag, with Apple adding lift Pegatron reported consolidated revenue of NT$88.31 billion (approx. US$2.8 billion) in August 2026, up 2.66% from the previous month and 34.11% from a year earlier, supported by its information and communications technology businesses. The company expects stronger second-half shipments, led by expanding server volumes AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 11, 2026</title><link href="https://asiatechfeed.com/2026/09/11/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 11, 2026" /><published>2026-09-11T08:00:51+00:00</published><updated>2026-09-11T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/09/11/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/11/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">US listing could put Japan's Kioxia in global AI spotlight, Voya's Thomas says</span></td>
-  <td class="col-summary">US listing could put Japan's Kioxia in global AI spotlight, Voya's Thomas says</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/us-listing-could-put-japans-kioxia-in-global-ai-spotlight-voyas-thomas-says-6378266" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Salesforce introduces Enterprise AI Harness foundation</span></td>
-  <td class="col-summary">Salesforce said new capabilities and a unified interface are scheduled to roll out sequentially from early fiscal 2028.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/salesforce-agrees-buy-fin-36b-boost-ai" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">CIOE: Hitachi relies on partnerships, not proprietary tech, to ride China's optical boom</span></td>
-  <td class="col-summary">At an optoelectronics trade expo in China, Hitachi High-Tech used its booth not to unveil a flagship product of its own, but to showcase a growing web of partnerships. This is a strategy the company says reflects both its late entry into the photonics race and its long-term goals in the region.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260911VL218/hitachi-optoelectronics-photonics-flagship-silicon.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung's Exynos gains ground as Galaxy S26 lifts share to 9%</span></td>
-  <td class="col-summary">Samsung Electronics is regaining ground in the global smartphone processor market, with its Exynos share rising to 9% in the second quarter of 2026 from 7% in the previous quarter as the Galaxy S26 brought Samsung's in-house chips back to its flagship lineup.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260911VL215/samsung-exynos-galaxy-processor-flagship.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan govt boosts EDA R&amp;D to target global gaps</span></td>
-  <td class="col-summary">Taiwan's National Science and Technology Council (NSTC) briefed Premier Jung-tai Cho on September 10, 2026, at an Executive Yuan meeting on the Chip-Driven, Taiwan-wide semiconductor core facility buildout and advanced chip design software development initiative, with the biggest focus on breakthroughs in Taiwan's next</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260911PD221/taiwan-eda-government-nstc-design.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">AI firm Anthropic says it disrupted election manipulation operation targeting voters in Malaysia</span></td>
-  <td class="col-summary">Anthropic says its Claude AI was used to build a voter-targeting system covering all 222 parliamentary constituencies in Malaysia, while the threat actor also unsuccessfully pursued a contract with the country’s communications regulator.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/anthropic-disrupt-malaysia-election-manipulation-operation-6377936" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Anthropic says China AI labs used Claude to train models</span></td>
-  <td class="col-summary">Anthropic also alleged that some companies routed user prompts to Claude without notifying users.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropic-eyes-6b-israeli-ai-startup-decart-sources" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Fabregas delighted as Como live up to Champions League standard in dream debut</span></td>
-  <td class="col-summary">Fabregas delighted as Como live up to Champions League standard in dream debut</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/sport/fabregas-delighted-como-live-up-champions-league-standard-in-dream-debut-6377991" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">India’s Wipro says AI boosted productivity by 20,000 workers</span></td>
-  <td class="col-summary">Wipro is the only IT company among India's top four that does not disclose AI revenue.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/india-it-firms-see-ai-demand-rise-as-spending-slows" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA US listing could put Japan's Kioxia in global AI spotlight, Voya's Thomas says US listing could put Japan's Kioxia in global AI spotlight, Voya's Thomas says AI Read 2 TechAsia Salesforce introduces Enterprise AI Harness foundation Salesforce said new capabilities and a unified interface are scheduled to roll out sequentially from early fiscal 2028. AI Read 3 DigiTimes CIOE: Hitachi relies on partnerships, not proprietary tech, to ride China's optical boom At an optoelectronics trade expo in China, Hitachi High-Tech used its booth not to unveil a flagship product of its own, but to showcase a growing web of partnerships. This is a strategy the company says reflects both its late entry into the photonics race and its long-term goals in the region. Electronics Read 4 DigiTimes Samsung's Exynos gains ground as Galaxy S26 lifts share to 9% Samsung Electronics is regaining ground in the global smartphone processor market, with its Exynos share rising to 9% in the second quarter of 2026 from 7% in the previous quarter as the Galaxy S26 brought Samsung's in-house chips back to its flagship lineup. ElectronicsSemiconductor Read 5 DigiTimes Taiwan govt boosts EDA R&amp;D to target global gaps Taiwan's National Science and Technology Council (NSTC) briefed Premier Jung-tai Cho on September 10, 2026, at an Executive Yuan meeting on the Chip-Driven, Taiwan-wide semiconductor core facility buildout and advanced chip design software development initiative, with the biggest focus on breakthroughs in Taiwan's next SemiconductorAutomation Read 6 CNA AI firm Anthropic says it disrupted election manipulation operation targeting voters in Malaysia Anthropic says its Claude AI was used to build a voter-targeting system covering all 222 parliamentary constituencies in Malaysia, while the threat actor also unsuccessfully pursued a contract with the country’s communications regulator. AI Read 7 TechAsia Anthropic says China AI labs used Claude to train models Anthropic also alleged that some companies routed user prompts to Claude without notifying users. AI Read 8 CNA Fabregas delighted as Como live up to Champions League standard in dream debut Fabregas delighted as Como live up to Champions League standard in dream debut Semiconductor Read 9 TechAsia India’s Wipro says AI boosted productivity by 20,000 workers Wipro is the only IT company among India's top four that does not disclose AI revenue. AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia UAE rethinks 5GW AI data center project after Iran war The original plan called for a 26-square-kilometer campus in Abu Dhabi. AI Read 2 TechAsia Moonshot AI targets $2b in annualized sales by year-end Moonshot is expanding beyond coders to clients like AsiaInfo and Kingsoft Cloud. AI Read 3 TechAsia Insight Partners leads $13.3m round for pharma startup Graph AI Its software cuts case-processing time from over three hours to under 10 minutes. AI Read 4 DigiTimes AI server boom reshuffles MLCC supply, opening a rare expansion window for Taiwan makers Strong demand for AI computing is creating a capacity squeeze across the passive-component industry, opening new opportunities for Taiwanese suppliers. AI Read 5 DigiTimes Murata targets mass production of its AI power substrate next year Murata Manufacturing plans to begin mass production next year of iPaS, the power substrate it has spent several years developing for AI chips, a step that would carry the world's largest multilayer ceramic capacitor maker out of the passive components it dominates and into the substrate layer itself. The company is tar AISemiconductor Read 6 DigiTimes Pegatron's AI server engine starts to outweigh notebook drag, with Apple adding lift Pegatron reported consolidated revenue of NT$88.31 billion (approx. US$2.8 billion) in August 2026, up 2.66% from the previous month and 34.11% from a year earlier, supported by its information and communications technology businesses. The company expects stronger second-half shipments, led by expanding server volumes AI Read]]></summary></entry></feed>
