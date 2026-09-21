@@ -1,38 +1,38 @@
 {
   "date": "2026-09-21",
-  "count": 9,
+  "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
-    "NikkeiAsia",
+    "EETAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-21-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Chinese chipmaker Hygon to unveil robotics AI chip",
+      "title": "Australian AI firm Firmus plans $5b IPO",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+      "url": "https://www.techinasia.com/nvidia-backed-australian-ai-firm-firmus-eyes-ipo-after-gpu-deal"
     },
     {
-      "title": "Musk's Memphis move puts xAI at the center of his empire",
+      "title": "UN General Assembly: Wars, geopolitical divides, AI and climate change test global cooperation",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/un-general-assembly-wars-geopolitical-divides-ai-climate-change-global-cooperation-6398916"
+    },
+    {
+      "title": "Z.ai's ZCode crisis exposes AI coding's enterprise trust gap",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260921PD203/xai-elon-musk-data-center-spacex-2026.html"
+      "url": "https://www.digitimes.com/news/a20260921VL208/z.ai-data-api.html"
     },
     {
-      "title": "Samsung reportedly plans to double HBM4 output in 2027 as memory supply stays tight",
+      "title": "TSMC builds Kaohsiung hub to speed advanced packaging tests",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260921VL206/samsung-2027-hbm4-production-hbm.html"
+      "url": "https://www.digitimes.com/news/a20260921VL215/tsmc-packaging-equipment-kaohsiung-taiwan.html"
     },
     {
-      "title": "Wiwynn chair says AI hardware is being reshaped by power, cooling, interconnect demands",
+      "title": "Chinese image sensor maker GalaxyCore raises the stakes in high-end CIS",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260921PD201/cooling-hardware-wiwynn-taiwan-infrastructure.html"
-    },
-    {
-      "title": "Who wins when the frontier slows?",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/wins-frontier-slows"
+      "url": "https://www.digitimes.com/news/a20260921VL209/galaxycore-cis-sensor-12-inch-capacity.html"
     }
   ],
   "source_stats": [
@@ -129,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -150,14 +150,14 @@
       "fetched": 10,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 37,
-      "relevant": 26,
+      "fetched": 43,
+      "relevant": 30,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 11,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -211,7 +211,7 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
