@@ -4,36 +4,35 @@
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-21-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "MediaTek Moves Dimensity Flagship to 2nm with New AI Architecture",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/mediatek-moves-dimensity-flagship-to-2nm-with-new-ai-architecture/"
+      "title": "Chinese chipmaker Hygon to unveil robotics AI chip",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
     },
     {
-      "title": "Advantech Expands Edge AI Ecosystem with Intel, Qualcomm and AMD",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/advantech-expands-edge-ai-ecosystem-with-intel-qualcomm-and-amd/"
+      "title": "Musk's Memphis move puts xAI at the center of his empire",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260921PD203/xai-elon-musk-data-center-spacex-2026.html"
     },
     {
-      "title": "Connectivity Moves to the Core of Edge AI System Design",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/connectivity-moves-to-the-core-of-edge-ai-system-design/"
+      "title": "Samsung reportedly plans to double HBM4 output in 2027 as memory supply stays tight",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260921VL206/samsung-2027-hbm4-production-hbm.html"
     },
     {
-      "title": "Commentary: The AI panic needs some nuclear metaphors",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/will-ai-kill-us-all-nuclear-weapons-us-china-6397556"
+      "title": "Wiwynn chair says AI hardware is being reshaped by power, cooling, interconnect demands",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260921PD201/cooling-hardware-wiwynn-taiwan-infrastructure.html"
     },
     {
-      "title": "Top US, Chinese economic officials meet ahead of Trump-Xi summit",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/us-china-officials-meet-trump-xi-summit-6398086"
+      "title": "Who wins when the frontier slows?",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/wins-frontier-slows"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -130,8 +129,8 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
-      "relevant": 1,
+      "fetched": 0,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -149,18 +148,18 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 25,
+      "fetched": 37,
+      "relevant": 26,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -196,7 +195,7 @@
       "fetched": 36,
       "relevant": 14,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {

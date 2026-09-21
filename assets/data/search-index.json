@@ -1,103 +1,104 @@
 [
   {
     "date": "2026-09-21",
-    "title": "MediaTek Moves Dimensity Flagship to 2nm with New AI Architecture",
-    "summary": "MediaTek's Dimensity 9600 Pro brings 2nm silicon, enhanced on-device AI, gaming, imaging and efficiency. The post MediaTek Moves Dimensity Flagship to 2nm with New AI Architecture appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/mediatek-moves-dimensity-flagship-to-2nm-with-new-ai-architecture/"
-  },
-  {
-    "date": "2026-09-21",
-    "title": "Advantech Expands Edge AI Ecosystem with Intel, Qualcomm and AMD",
-    "summary": "Advantech expands its WEDA Edge AI ecosystem with Intel, Qualcomm and AMD to simplify deployment across industrial applications. The post Advantech Expands Edge AI Ecosystem with Intel, Qualcomm and AMD appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/advantech-expands-edge-ai-ecosystem-with-intel-qualcomm-and-amd/"
-  },
-  {
-    "date": "2026-09-21",
-    "title": "Connectivity Moves to the Core of Edge AI System Design",
-    "summary": "Edge AI designers increasingly balance connectivity, compute, latency, security, power, and cloud resources across applications. The post Connectivity Moves to the Core of Edge AI System Design appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/connectivity-moves-to-the-core-of-edge-ai-system-design/"
-  },
-  {
-    "date": "2026-09-21",
-    "title": "Commentary: The AI panic needs some nuclear metaphors",
-    "summary": "To wrap our minds around the AI threat, there are lessons we can draw from Cold War-era thinking of nuclear weapons, says Andreas Kluth for Bloomberg Opinion.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/commentary/will-ai-kill-us-all-nuclear-weapons-us-china-6397556"
-  },
-  {
-    "date": "2026-09-21",
-    "title": "Top US, Chinese economic officials meet ahead of Trump-Xi summit",
-    "summary": "US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng began talks Sunday (Sep 20), setting the stage for possible agreements on trade, AI and other issues before a summit of the countries' top leaders on Thursday.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/world/us-china-officials-meet-trump-xi-summit-6398086"
-  },
-  {
-    "date": "2026-09-21",
-    "title": "Mapping China’s biotech titans",
-    "summary": "Mapping China’s biotech sector: Key players, top investors, and funding insights in one report.",
+    "title": "Chinese chipmaker Hygon to unveil robotics AI chip",
+    "summary": "The launch slogan is “Let computing power reach the physical world.”",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "Biotechnology"
+      "AI",
+      "Semiconductor",
+      "Automation"
     ],
-    "url": "https://www.techinasia.com/visual-story/mapping-chinas-biotech-titans"
+    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
   },
   {
     "date": "2026-09-21",
-    "title": "CPO raises PCB downgrade concerns but switches stick with M8 CCL",
-    "summary": "As the industry shifts toward greater use of optical interconnects and less reliance on copper, market speculation has emerged that wider adoption of co-packaged optics (CPO) could reduce high-speed transmission requirements for AI server motherboard printed circuit boards (PCBs).",
+    "title": "Musk's Memphis move puts xAI at the center of his empire",
+    "summary": "Elon Musk is personally overseeing construction at xAI's Memphis data center, moving into an Airstream trailer beside the site as he takes a more hands-on role in the company's AI buildout. The move underscores how central Memphis has become to Musk's latest infrastructure push, while his renewed talk of a possible Tes",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI",
-      "Electronics"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260918PD208/pcb-cpo-ccl-materials-copper.html"
+    "url": "https://www.digitimes.com/news/a20260921PD203/xai-elon-musk-data-center-spacex-2026.html"
   },
   {
     "date": "2026-09-21",
-    "title": "China's Unitree Robotics stock falls by half in month after listing",
-    "summary": "China's Unitree Robotics stock falls by half in month after listing",
+    "title": "Samsung reportedly plans to double HBM4 output in 2027 as memory supply stays tight",
+    "summary": "Samsung Electronics is reportedly preparing to at least double production of its HBM4-family memory in 2027, accelerating a shift toward higher-value products as supply constraints persist across the broader memory market.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260921VL206/samsung-2027-hbm4-production-hbm.html"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "Wiwynn chair says AI hardware is being reshaped by power, cooling, interconnect demands",
+    "summary": "AI computing is changing how global hardware is designed, built, and deployed, with implications that extend well beyond Taiwan's tech sector. At a September 19 event, Wiwynn chair Emily Hong said the industry now faces three central challenges: power, cooling, and high-speed interconnect, as demand for AI infrastructu",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260921PD201/cooling-hardware-wiwynn-taiwan-infrastructure.html"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "Who wins when the frontier slows?",
+    "summary": "We cover the recent calls for a US AI slowdown, SG’s AI flurry, AI keypads flying under the radar, and an interview with Flam’s cofounder.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/wins-frontier-slows"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "Kakao drops AI chatbot Kanana after weak user growth",
+    "summary": "Kanana’s monthly users fell from 69,631 to 10,488 in a year.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/kakao-mobility-lg-innotek-team-on-self-driving-tech"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "US seeks 'AI dialogue' with China as officials set stage for Trump-Xi summit",
+    "summary": "US and Chinese officials discussed creating a communication channel for AI concerns ahead of a planned summit between the two countries’ leaders on Thursday.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/world/us-china-meeting-trade-ai-successful-bessent-he-lifeng-6398376"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "US says China talks yield progress on tariff carve-outs, AI dialogue",
+    "summary": "US says China talks yield progress on tariff carve-outs, AI dialogue",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-says-china-talks-yield-progress-on-tariff-carve-outs-ai-dialogue"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "In Focus: Elder care, the warmth of robots, the wisdom of people",
+    "summary": "In Focus: Elder care, the warmth of robots, the wisdom of people",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "Automation"
     ],
-    "url": "https://asia.nikkei.com/business/markets/equities/china-s-unitree-robotics-stock-falls-by-half-in-month-after-listing"
-  },
-  {
-    "date": "2026-09-21",
-    "title": "Japan to tap industrial machinery for collecting physical AI data",
-    "summary": "Japan to tap industrial machinery for collecting physical AI data",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-to-tap-industrial-machinery-for-collecting-physical-ai-data"
+    "url": "https://asia.nikkei.com/photos/in-focus-elder-care-the-warmth-of-robots-the-wisdom-of-people"
   },
   {
     "date": "2026-09-20",
