@@ -1,108 +1,94 @@
 [
   {
     "date": "2026-09-23",
-    "title": "CME Group's GPU futures debut stalls as CFTC flags concerns",
-    "summary": "As artificial intelligence transitions into a primary driver of global economic growth, computing power is shifting from a basic cloud utility to an emerging financial asset class. However, Wall Street's first major attempt to turn AI chip rental rates into tradable futures contracts has run into regulatory delays.",
+    "title": "From cheap AI data to human judgment: A fund manager guide",
+    "summary": "TIFF Investment Management's Tom Duffy explains why fund managers need niche expertise, human judgment, and patience as AI commoditizes data.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/cheap-ai-data-human-judgment-fund-manager-guide"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Grab, OpenAI launch AI training aiming for 30,000 partners",
+    "summary": "The rollout builds on GrabAcademy’s existing training efforts, which already train merchants through an online portal.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/grab-backed-gxs-narrows-loss-on-business-lending"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "General Catalyst joins $4m round for Indian AI startup Sol",
+    "summary": "Sol said the tool runs in its own computer environment, where users can access a browser, and uses a library of more than 100 specialist skills.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/solo-founders-fix-unreliable-generative-ai-models"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "China's BeiDou eyes US$150 billion industry scale with AI, services at the core",
+    "summary": "China's BeiDou satellite navigation industry continues to expand rapidly, with applications spreading from chips and modules to end devices. Emerging technologies including artificial intelligence are increasingly being integrated with BeiDou, while the industry is shifting from hardware sales towards data, platforms, ",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260923VL208/gpu-cftc-economic-growth-market-infrastructure.html"
+    "url": "https://www.digitimes.com/news/a20260923PD228/beidou-chips-data-2025-hardware.html"
   },
   {
     "date": "2026-09-23",
-    "title": "Alibaba Cloud plans new regions for AI demand",
-    "summary": "Alibaba Cloud said it now operates 107 availability zones across 31 regions worldwide.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/alibaba-cloud-opens-france-region-to-expand-europe-push"
-  },
-  {
-    "date": "2026-09-23",
-    "title": "They built AI agents on WhatsApp. Then Meta entered the chat",
-    "summary": "Meta has turned from supplier to rival of AI agent startups built on WhatsApp. Founders and business owners share where the squeeze hits.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/built-ai-agents-whatsapp-meta-entered-chat"
-  },
-  {
-    "date": "2026-09-23",
-    "title": "Episil says AI demand marks structural shift in semiconductor epitaxy",
-    "summary": "Episil Precision said AI-related demand is reshaping semiconductor epitaxy for the long term, with effects reaching global power and optical supply chains. The Taiwan-based maker is expanding in silicon, GaN, SiC, and GeSi to serve AI servers, optical communications, and mature-node power components worldwide.",
+    "title": "ZDT prices US$800M ECB to expand AI server PCB push",
+    "summary": "Printed circuit board (PCB) maker Zhen Ding Technology (ZDT) Group completed pricing of its sixth overseas convertible bond issue on September 22, raising a total of US$800 million (about NT$25.224 billion). The company plans to issue the bonds on September 29 and list them on the Singapore Exchange, with proceeds to b",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor",
       "AI",
-      "Logistics"
+      "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20260923PD210/episil-demand-revenue-capacity-silicon.html"
+    "url": "https://www.digitimes.com/news/a20260923PD227/pcb-zhen-ding-convertible-bond-high-end-development.html"
   },
   {
     "date": "2026-09-23",
-    "title": "SK hynix's venture arm moves beyond memory into optical interconnect and system software",
-    "summary": "SK hynix has launched a corporate venture capital (CVC) brand, SK hynix Ventures, and widened its investment scope beyond semiconductors and emerging technology to include AI computing, data centers, system software and optical interconnect — areas that sit beside and above its own products rather than inside them.",
+    "title": "Taiwan tire maker Cheng Shin turns 'virtual tires' into an EV development weapon",
+    "summary": "Taiwanese tire maker Cheng Shin Rubber, best known for its Maxxis brand, is nearing its 60th anniversary and using AI and digital twins to compete in a faster-moving automotive market.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor",
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260923VL206/software-brand-venture-capital-technology-data.html"
+    "url": "https://www.digitimes.com/news/a20260923PD218/development-taiwan-dassault-performance-data.html"
   },
   {
     "date": "2026-09-23",
-    "title": "Qualcomm unveils 2nm AI chip for premium Android phones",
-    "summary": "The Extreme version can run AI models with up to 30 billion parameters.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "German and Dutch strategic innovation agencies to collaborate on AI chip design",
+    "summary": "German and Dutch strategic innovation agencies to collaborate on AI chip design",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/qualcomm-talks-buy-ai-chip-startup-modular"
+    "url": "https://www.channelnewsasia.com/business/german-and-dutch-strategic-innovation-agencies-collaborate-ai-chip-design-6404241"
   },
   {
     "date": "2026-09-23",
-    "title": "Cadence Strengthens ChipStack AI with RTL Generation Agent",
-    "summary": "Cadence's new RTL generation agent automates specification-to-code workflows, targeting early power, performance, and area optimization. The post Cadence Strengthens ChipStack AI with RTL Generation Agent appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "Singapore to get Waymo robotaxis in 2028 as autonomous race grows",
+    "summary": "Singapore to get Waymo robotaxis in 2028 as autonomous race grows",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
     "tags": [
-      "AI",
-      "Semiconductor"
+      "Automation"
     ],
-    "url": "https://www.eetasia.com/cadence-strengthens-chipstack-ai-with-rtl-generation-agent/"
-  },
-  {
-    "date": "2026-09-23",
-    "title": "Besxar Tests Space Vacuum for In-Space GaN Wafer Manufacturing",
-    "summary": "Besxar's first space mission tests vacuum-enabled wafer processing, laying groundwork for autonomous compound semiconductor manufacturing. The post Besxar Tests Space Vacuum for In-Space GaN Wafer Manufacturing appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.eetasia.com/besxar-tests-space-vacuum-for-in-space-gan-wafer-manufacturing/"
-  },
-  {
-    "date": "2026-09-23",
-    "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
-    "summary": "Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio",
-    "source": "KED Global",
-    "short": "KED",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001"
+    "url": "https://asia.nikkei.com/business/transportation/singapore-to-get-waymo-robotaxis-in-2028-as-autonomous-race-grows"
   },
   {
     "date": "2026-09-22",
