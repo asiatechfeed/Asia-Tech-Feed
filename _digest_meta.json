@@ -1,38 +1,38 @@
 {
   "date": "2026-09-23",
-  "count": 9,
+  "count": 8,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "EETAsia",
-    "KED",
+    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-23-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "CME Group's GPU futures debut stalls as CFTC flags concerns",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260923VL208/gpu-cftc-economic-growth-market-infrastructure.html"
-    },
-    {
-      "title": "Alibaba Cloud plans new regions for AI demand",
+      "title": "From cheap AI data to human judgment: A fund manager guide",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/alibaba-cloud-opens-france-region-to-expand-europe-push"
+      "url": "https://www.techinasia.com/cheap-ai-data-human-judgment-fund-manager-guide"
     },
     {
-      "title": "They built AI agents on WhatsApp. Then Meta entered the chat",
+      "title": "Grab, OpenAI launch AI training aiming for 30,000 partners",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/built-ai-agents-whatsapp-meta-entered-chat"
+      "url": "https://www.techinasia.com/grab-backed-gxs-narrows-loss-on-business-lending"
     },
     {
-      "title": "Episil says AI demand marks structural shift in semiconductor epitaxy",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260923PD210/episil-demand-revenue-capacity-silicon.html"
+      "title": "General Catalyst joins $4m round for Indian AI startup Sol",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/solo-founders-fix-unreliable-generative-ai-models"
     },
     {
-      "title": "SK hynix's venture arm moves beyond memory into optical interconnect and system software",
+      "title": "China's BeiDou eyes US$150 billion industry scale with AI, services at the core",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260923VL206/software-brand-venture-capital-technology-data.html"
+      "url": "https://www.digitimes.com/news/a20260923PD228/beidou-chips-data-2025-hardware.html"
+    },
+    {
+      "title": "ZDT prices US$800M ECB to expand AI server PCB push",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260923PD227/pcb-zhen-ding-convertible-bond-high-end-development.html"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -150,14 +150,14 @@
       "fetched": 10,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 23,
+      "fetched": 51,
+      "relevant": 34,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 12,
+      "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -177,7 +177,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 19,
+      "relevant": 20,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
