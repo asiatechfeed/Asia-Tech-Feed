@@ -1,38 +1,38 @@
 {
   "date": "2026-09-23",
-  "count": 10,
+  "count": 9,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "NikkeiAsia",
+    "EETAsia",
+    "KED",
     "TechAsia"
   ],
   "post_file": "2026-09-23-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Exclusive-Anthropic, OpenEvidence partner to bring medical AI worldwide",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/exclusive-anthropic-openevidence-partner-bring-medical-ai-worldwide-6403491"
-    },
-    {
-      "title": "Financial stocks fall with AI and flattening yield curve in focus",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/financial-stocks-fall-ai-and-flattening-yield-curve-in-focus-6403396"
-    },
-    {
-      "title": "SiPearl delivers first homegrown server chips for Europe's exascale supercomputer",
+      "title": "CME Group's GPU futures debut stalls as CFTC flags concerns",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260922VL217/processor-cpu-europe-supercomputer-manufacturing.html"
+      "url": "https://www.digitimes.com/news/a20260923VL208/gpu-cftc-economic-growth-market-infrastructure.html"
     },
     {
-      "title": "Anthropic, OpenAI expected to start buying memory directly in 2027",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260922VL215/anthropic-openai-2027-samsung-manufacturing.html"
-    },
-    {
-      "title": "What connected AI agents mean for the future of B2B sales",
+      "title": "Alibaba Cloud plans new regions for AI demand",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/standard-ai-fails-sales-custom-data-doubles-revenue"
+      "url": "https://www.techinasia.com/alibaba-cloud-opens-france-region-to-expand-europe-push"
+    },
+    {
+      "title": "They built AI agents on WhatsApp. Then Meta entered the chat",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/built-ai-agents-whatsapp-meta-entered-chat"
+    },
+    {
+      "title": "Episil says AI demand marks structural shift in semiconductor epitaxy",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260923PD210/episil-demand-revenue-capacity-silicon.html"
+    },
+    {
+      "title": "SK hynix's venture arm moves beyond memory into optical interconnect and system software",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260923VL206/software-brand-venture-capital-technology-data.html"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -129,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -148,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 4,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 24,
+      "relevant": 23,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 13,
+      "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -177,7 +177,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 19,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
