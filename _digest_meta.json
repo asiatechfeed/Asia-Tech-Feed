@@ -1,38 +1,38 @@
 {
-  "date": "2026-09-22",
-  "count": 11,
+  "date": "2026-09-23",
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-09-22-asia-tech-news-digest.md",
+  "post_file": "2026-09-23-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Tencent Cloud, AI Singapore launch hackathon",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/tencent-unveils-ai-model-outperforms-zai-moonshot"
-    },
-    {
-      "title": "Bain Capital leads $25m round for AI health startup Corridor",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/indias-health-ventures-closes-741m-fund-ii"
-    },
-    {
-      "title": "Amazon to invest $1.9b in delivery, expand AI tools",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/amazon-q2-net-sales-grow-20-2006b"
-    },
-    {
-      "title": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of world body itself",
+      "title": "Exclusive-Anthropic, OpenEvidence partner to bring medical AI worldwide",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/us-trump-un-iran-war-ai-6401241"
+      "url": "https://www.channelnewsasia.com/business/exclusive-anthropic-openevidence-partner-bring-medical-ai-worldwide-6403491"
     },
     {
-      "title": "Microsoft opens fourth India cloud region, casting Hyderabad as an AI hub for Asia and the Global South",
+      "title": "Financial stocks fall with AI and flattening yield curve in focus",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/financial-stocks-fall-ai-and-flattening-yield-curve-in-focus-6403396"
+    },
+    {
+      "title": "SiPearl delivers first homegrown server chips for Europe's exascale supercomputer",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260922VL212/microsoft-region-hyderabad-asia-data.html"
+      "url": "https://www.digitimes.com/news/a20260922VL217/processor-cpu-europe-supercomputer-manufacturing.html"
+    },
+    {
+      "title": "Anthropic, OpenAI expected to start buying memory directly in 2027",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260922VL215/anthropic-openai-2027-samsung-manufacturing.html"
+    },
+    {
+      "title": "What connected AI agents mean for the future of B2B sales",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/standard-ai-fails-sales-custom-data-doubles-revenue"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
-      "sponsored_skipped": 1,
-      "published": 3,
+      "relevant": 2,
+      "sponsored_skipped": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -131,7 +131,7 @@
       "name": "Electronics Weekly",
       "fetched": 10,
       "relevant": 0,
-      "sponsored_skipped": 1,
+      "sponsored_skipped": 0,
       "published": 0,
       "error": null
     },
@@ -156,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 49,
-      "relevant": 35,
+      "fetched": 35,
+      "relevant": 24,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +166,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 12,
+      "relevant": 13,
       "sponsored_skipped": 0,
       "published": 2,
       "error": null
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
