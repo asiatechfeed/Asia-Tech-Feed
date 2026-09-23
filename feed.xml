@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-23T00:07:49+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 23, 2026</title><link href="https://asiatechfeed.com/2026/09/23/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 23, 2026" /><published>2026-09-23T00:07:13+00:00</published><updated>2026-09-23T00:07:13+00:00</updated><id>https://asiatechfeed.com/2026/09/23/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/23/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-23T04:28:26+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 23, 2026</title><link href="https://asiatechfeed.com/2026/09/23/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 23, 2026" /><published>2026-09-23T04:27:22+00:00</published><updated>2026-09-23T04:27:22+00:00</updated><id>https://asiatechfeed.com/2026/09/23/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/23/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,86 +12,78 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Exclusive-Anthropic, OpenEvidence partner to bring medical AI worldwide</span></td>
-  <td class="col-summary">Exclusive-Anthropic, OpenEvidence partner to bring medical AI worldwide</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/exclusive-anthropic-openevidence-partner-bring-medical-ai-worldwide-6403491" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">CME Group's GPU futures debut stalls as CFTC flags concerns</span></td>
+  <td class="col-summary">As artificial intelligence transitions into a primary driver of global economic growth, computing power is shifting from a basic cloud utility to an emerging financial asset class. However, Wall Street's first major attempt to turn AI chip rental rates into tradable futures contracts has run into regulatory delays.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260923VL208/gpu-cftc-economic-growth-market-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Financial stocks fall with AI and flattening yield curve in focus</span></td>
-  <td class="col-summary">Financial stocks fall with AI and flattening yield curve in focus</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba Cloud plans new regions for AI demand</span></td>
+  <td class="col-summary">Alibaba Cloud said it now operates 107 availability zones across 31 regions worldwide.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/financial-stocks-fall-ai-and-flattening-yield-curve-in-focus-6403396" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-cloud-opens-france-region-to-expand-europe-push" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SiPearl delivers first homegrown server chips for Europe's exascale supercomputer</span></td>
-  <td class="col-summary">SiPearl, a fabless company backed by the European Union and France, has delivered the first Rhea1 CPU samples to Bull for integration into Europe's JUPITER supercomputer, moving the European-designed processor from bring-up and validation into customer system integration while benchmarking continues.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260922VL217/processor-cpu-europe-supercomputer-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">They built AI agents on WhatsApp. Then Meta entered the chat</span></td>
+  <td class="col-summary">Meta has turned from supplier to rival of AI agent startups built on WhatsApp. Founders and business owners share where the squeeze hits.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/built-ai-agents-whatsapp-meta-entered-chat" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Anthropic, OpenAI expected to start buying memory directly in 2027</span></td>
-  <td class="col-summary">Anthropic and OpenAI are expected to start buying memory directly from manufacturers in 2027 as model developers take greater control of chip and data-center design, potentially broadening the customer base for major memory suppliers beyond GPU and system vendors.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260922VL215/anthropic-openai-2027-samsung-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Episil says AI demand marks structural shift in semiconductor epitaxy</span></td>
+  <td class="col-summary">Episil Precision said AI-related demand is reshaping semiconductor epitaxy for the long term, with effects reaching global power and optical supply chains. The Taiwan-based maker is expanding in silicon, GaN, SiC, and GeSi to serve AI servers, optical communications, and mature-node power components worldwide.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260923PD210/episil-demand-revenue-capacity-silicon.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">What connected AI agents mean for the future of B2B sales</span></td>
-  <td class="col-summary">SaaStr's Amelia Ibarra and Jason Lemkin explain how custom AI tools built on past customer data doubled revenue and transformed renewal outreach.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/standard-ai-fails-sales-custom-data-doubles-revenue" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">SK hynix's venture arm moves beyond memory into optical interconnect and system software</span></td>
+  <td class="col-summary">SK hynix has launched a corporate venture capital (CVC) brand, SK hynix Ventures, and widened its investment scope beyond semiconductors and emerging technology to include AI computing, data centers, system software and optical interconnect — areas that sit beside and above its own products rather than inside them.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260923VL206/software-brand-venture-capital-technology-data.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Swiss AI firm Delvitech plans $10m Bengaluru hub</span></td>
-  <td class="col-summary">The company will initially invest US$10 million, as it expands in India.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/swiss-ai-firm-delvitech-nets-40m-plans-india-facility-by-2026" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Qualcomm unveils 2nm AI chip for premium Android phones</span></td>
+  <td class="col-summary">The Extreme version can run AI models with up to 30 billion parameters.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/qualcomm-talks-buy-ai-chip-startup-modular" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Changs Ascending eyes AI data center backup power, storage growth</span></td>
-  <td class="col-summary">Changs Ascending's board approved an operating plan on Sept. 21 to launch an energy systems integration push into the AI data center sector, betting on structurally rising demand from AI computing centers for stable power, backup power, and ESS. The lithium battery materials maker aims to extend its proven UPS, lithium</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260922PD220/aidc-growth-ups-infrastructure-lithium.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Cadence Strengthens ChipStack AI with RTL Generation Agent</span></td>
+  <td class="col-summary">Cadence's new RTL generation agent automates specification-to-code workflows, targeting early power, performance, and area optimization. The post Cadence Strengthens ChipStack AI with RTL Generation Agent appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/cadence-strengthens-chipstack-ai-with-rtl-generation-agent/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">This startup secures legal video data for physical AI</span></td>
-  <td class="col-summary">Clairva provides AI companies with licensed, real-world video showing how people interact with physical environments.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/startup-secures-legal-video-data-physical-ai" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Besxar Tests Space Vacuum for In-Space GaN Wafer Manufacturing</span></td>
+  <td class="col-summary">Besxar's first space mission tests vacuum-enabled wafer processing, laying groundwork for autonomous compound semiconductor manufacturing. The post Besxar Tests Space Vacuum for In-Space GaN Wafer Manufacturing appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/besxar-tests-space-vacuum-for-in-space-gan-wafer-manufacturing/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">El Nino, AI to widen economic growth gap in developing Asia: ADB</span></td>
-  <td class="col-summary">El Nino, AI to widen economic growth gap in developing Asia: ADB</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">Go master Shin cracks AI barrier with win over KataGo, sets up series decider</span></td>
+  <td class="col-summary">Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/economy/el-nino-ai-to-widen-economic-growth-gap-in-developing-asia-adb" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Amazon taps TBC to make AI models faster, cheaper with human neurons</span></td>
-  <td class="col-summary">Amazon taps TBC to make AI models faster, cheaper with human neurons</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/amazon-taps-tbc-to-make-ai-models-faster-cheaper-with-human-neurons" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Exclusive-Anthropic, OpenEvidence partner to bring medical AI worldwide Exclusive-Anthropic, OpenEvidence partner to bring medical AI worldwide AI Read 2 CNA Financial stocks fall with AI and flattening yield curve in focus Financial stocks fall with AI and flattening yield curve in focus AI Read 3 DigiTimes SiPearl delivers first homegrown server chips for Europe's exascale supercomputer SiPearl, a fabless company backed by the European Union and France, has delivered the first Rhea1 CPU samples to Bull for integration into Europe's JUPITER supercomputer, moving the European-designed processor from bring-up and validation into customer system integration while benchmarking continues. Semiconductor Read 4 DigiTimes Anthropic, OpenAI expected to start buying memory directly in 2027 Anthropic and OpenAI are expected to start buying memory directly from manufacturers in 2027 as model developers take greater control of chip and data-center design, potentially broadening the customer base for major memory suppliers beyond GPU and system vendors. Semiconductor Read 5 TechAsia What connected AI agents mean for the future of B2B sales SaaStr's Amelia Ibarra and Jason Lemkin explain how custom AI tools built on past customer data doubled revenue and transformed renewal outreach. AI Read 6 TechAsia Swiss AI firm Delvitech plans $10m Bengaluru hub The company will initially invest US$10 million, as it expands in India. AI Read 7 DigiTimes Changs Ascending eyes AI data center backup power, storage growth Changs Ascending's board approved an operating plan on Sept. 21 to launch an energy systems integration push into the AI data center sector, betting on structurally rising demand from AI computing centers for stable power, backup power, and ESS. The lithium battery materials maker aims to extend its proven UPS, lithium SemiconductorAI Read 8 TechAsia This startup secures legal video data for physical AI Clairva provides AI companies with licensed, real-world video showing how people interact with physical environments. AI Read 9 NikkeiAsia El Nino, AI to widen economic growth gap in developing Asia: ADB El Nino, AI to widen economic growth gap in developing Asia: ADB AI Read 10 NikkeiAsia Amazon taps TBC to make AI models faster, cheaper with human neurons Amazon taps TBC to make AI models faster, cheaper with human neurons AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 22, 2026</title><link href="https://asiatechfeed.com/2026/09/22/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 22, 2026" /><published>2026-09-22T08:00:49+00:00</published><updated>2026-09-22T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/09/22/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/22/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes CME Group's GPU futures debut stalls as CFTC flags concerns As artificial intelligence transitions into a primary driver of global economic growth, computing power is shifting from a basic cloud utility to an emerging financial asset class. However, Wall Street's first major attempt to turn AI chip rental rates into tradable futures contracts has run into regulatory delays. AISemiconductor Read 2 TechAsia Alibaba Cloud plans new regions for AI demand Alibaba Cloud said it now operates 107 availability zones across 31 regions worldwide. AI Read 3 TechAsia They built AI agents on WhatsApp. Then Meta entered the chat Meta has turned from supplier to rival of AI agent startups built on WhatsApp. Founders and business owners share where the squeeze hits. AI Read 4 DigiTimes Episil says AI demand marks structural shift in semiconductor epitaxy Episil Precision said AI-related demand is reshaping semiconductor epitaxy for the long term, with effects reaching global power and optical supply chains. The Taiwan-based maker is expanding in silicon, GaN, SiC, and GeSi to serve AI servers, optical communications, and mature-node power components worldwide. SemiconductorAILogistics Read 5 DigiTimes SK hynix's venture arm moves beyond memory into optical interconnect and system software SK hynix has launched a corporate venture capital (CVC) brand, SK hynix Ventures, and widened its investment scope beyond semiconductors and emerging technology to include AI computing, data centers, system software and optical interconnect — areas that sit beside and above its own products rather than inside them. SemiconductorAI Read 6 TechAsia Qualcomm unveils 2nm AI chip for premium Android phones The Extreme version can run AI models with up to 30 billion parameters. AISemiconductor Read 7 EETAsia Cadence Strengthens ChipStack AI with RTL Generation Agent Cadence's new RTL generation agent automates specification-to-code workflows, targeting early power, performance, and area optimization. The post Cadence Strengthens ChipStack AI with RTL Generation Agent appeared first on EE Times Asia . AISemiconductor Read 8 EETAsia Besxar Tests Space Vacuum for In-Space GaN Wafer Manufacturing Besxar's first space mission tests vacuum-enabled wafer processing, laying groundwork for autonomous compound semiconductor manufacturing. The post Besxar Tests Space Vacuum for In-Space GaN Wafer Manufacturing appeared first on EE Times Asia . Semiconductor Read 9 KED Go master Shin cracks AI barrier with win over KataGo, sets up series decider Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 22, 2026</title><link href="https://asiatechfeed.com/2026/09/22/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 22, 2026" /><published>2026-09-22T08:00:49+00:00</published><updated>2026-09-22T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/09/22/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/22/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
