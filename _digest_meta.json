@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "count": 14,
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -11,29 +11,29 @@
   "post_file": "2026-09-24-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Nexstrom Raises $12M to Scale 12in Single-crystal 2D Semiconductor Platform",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/nexstrom-raises-12m-to-scale-12in-single-crystal-2d-semiconductor-platform/"
+      "title": "Samsung reportedly shifts sub-10nm DRAM roadmap toward hybrid bonding",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260924VL206/samsung-dram-roadmap-technology-development.html"
     },
     {
-      "title": "Microcooling Emerges as Key Thermal Enabler for Agentic AI at the Edge",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/microcooling-emerges-as-key-thermal-enabler-for-agentic-ai-at-the-edge/"
+      "title": "Xi-Trump summit masks AI rift as Chinese AI leaders stay away",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260924PD200/xi-jinping-security-chips-deepseek-2015.html"
     },
     {
-      "title": "Global AI Glasses Shipments Surge 263% YoY in 1H 2026",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/global-ai-glasses-shipments-surge-263-yoy-in-1h-2026/"
+      "title": "Qualcomm pushes Snapdragon PCs further into Linux, GoogleBook as AI shifts to the device edge",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260924PD222/qualcomm-snapdragon-linux-pc-2026.html"
     },
     {
-      "title": "Commentary: How would AI kill all humans? Here are the top 5 scenarios",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/ai-anthropic-kill-humans-superintelligent-6404801"
+      "title": "AnyMind to add Alibaba Qwen to Asia live commerce",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/anymind-launches-platform-for-creator-livestream-campaigns"
     },
     {
-      "title": "Australia says OpenAI agent breached government health data portal",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411"
+      "title": "Meta, EssilorLuxottica expand Ray-Ban AI glasses to new markets",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/meta-releases-muse-spark-13-coding-upgrades"
     }
   ],
   "source_stats": [
@@ -130,9 +130,9 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
-      "sponsored_skipped": 0,
+      "sponsored_skipped": 1,
       "published": 0,
       "error": null
     },
@@ -151,14 +151,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 64,
-      "relevant": 40,
+      "fetched": 35,
+      "relevant": 24,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 11,
+      "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -194,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 22,
+      "relevant": 19,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
