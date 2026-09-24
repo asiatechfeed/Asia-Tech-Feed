@@ -1,39 +1,37 @@
 {
   "date": "2026-09-24",
-  "count": 11,
+  "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-24-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Samsung reportedly shifts sub-10nm DRAM roadmap toward hybrid bonding",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260924VL206/samsung-dram-roadmap-technology-development.html"
-    },
-    {
-      "title": "Xi-Trump summit masks AI rift as Chinese AI leaders stay away",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260924PD200/xi-jinping-security-chips-deepseek-2015.html"
-    },
-    {
-      "title": "Qualcomm pushes Snapdragon PCs further into Linux, GoogleBook as AI shifts to the device edge",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260924PD222/qualcomm-snapdragon-linux-pc-2026.html"
-    },
-    {
-      "title": "AnyMind to add Alibaba Qwen to Asia live commerce",
+      "title": "Why AI video is fine (and how YouTube judges the output)",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/anymind-launches-platform-for-creator-livestream-campaigns"
+      "url": "https://www.techinasia.com/ai-video-fine-youtube-judges-output"
     },
     {
-      "title": "Meta, EssilorLuxottica expand Ray-Ban AI glasses to new markets",
+      "title": "Singapore to support mRNA flu vaccine pilot to strengthen pandemic preparedness",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/mrna-flu-vaccine-pilot-pandemic-ebola-ong-ye-kung-6407351"
+    },
+    {
+      "title": "Engaging Gen Z women through character quizzes",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/meta-releases-muse-spark-13-coding-upgrades"
+      "url": "https://www.techinasia.com/engaging-gen-women-character-quizzes"
+    },
+    {
+      "title": "Series SEA: Who\u2019s investing in the region\u2019s biotech startups?",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/top-sea-investors-biotech"
+    },
+    {
+      "title": "Peking University Dean's rare Intel China appearance hails AI-plus edge adoption",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260924PD228/intel-development-industrial-manufacturing.html"
     }
   ],
   "source_stats": [
@@ -132,7 +130,7 @@
       "name": "Electronics Weekly",
       "fetched": 10,
       "relevant": 0,
-      "sponsored_skipped": 1,
+      "sponsored_skipped": 0,
       "published": 0,
       "error": null
     },
@@ -151,14 +149,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 24,
+      "fetched": 48,
+      "relevant": 33,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 10,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 19,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null

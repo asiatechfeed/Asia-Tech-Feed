@@ -1,125 +1,91 @@
 [
   {
     "date": "2026-09-24",
-    "title": "Samsung reportedly shifts sub-10nm DRAM roadmap toward hybrid bonding",
-    "summary": "Samsung Electronics has reportedly revised the roadmap for its first sub-10nm DRAM generation, making a wafer-to-wafer hybrid-bonding architecture the baseline for its D0a process while moving its vertical-channel-transistor (VCT) design to a separate D0a-V derivative.",
+    "title": "Why AI video is fine (and how YouTube judges the output)",
+    "summary": "YouTube CEO Neal Mohan explains why audience choice, not gatekeepers, decides success now, and how creators should approach AI content responsibly.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/ai-video-fine-youtube-judges-output"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Singapore to support mRNA flu vaccine pilot to strengthen pandemic preparedness",
+    "summary": "The initiative is part of Singapore's efforts to build adaptable vaccine capabilities, said Health Minister Ong Ye Kung.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Biotechnology"
+    ],
+    "url": "https://www.channelnewsasia.com/singapore/mrna-flu-vaccine-pilot-pandemic-ebola-ong-ye-kung-6407351"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Engaging Gen Z women through character quizzes",
+    "summary": "By combining AI chat and diagnostic quizzes, Love Chara inc offers a new way to build character IP.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/engaging-gen-women-character-quizzes"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Series SEA: Who’s investing in the region’s biotech startups?",
+    "summary": "We've compiled a list of investors that are pouring money into Southeast Asia’s biotech startups.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Biotechnology"
+    ],
+    "url": "https://www.techinasia.com/top-sea-investors-biotech"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Peking University Dean's rare Intel China appearance hails AI-plus edge adoption",
+    "summary": "Chinese macroeconomist Justin Lin, dean of Peking University's Institute of New Structural Economics, made a rare appearance at a tech industry event on September 22, speaking at the 2026 Intel Technology Innovation and Industry Ecosystem Conference about the AI revolution from an economic development perspective. Inte",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260924PD228/intel-development-industrial-manufacturing.html"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Chinese foundry CanSemi seeks US$918M ChiNext listing",
+    "summary": "Guangzhou-based wafer foundry CanSemi Technology has set its initial public offering (IPO) price at CNY12.01 per share on Shenzhen's ChiNext board. The company aims to raise CNY6.16 billion (approx. US$917.9 million) by issuing 512.6 million new shares.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260924VL206/samsung-dram-roadmap-technology-development.html"
+    "url": "https://www.digitimes.com/news/a20260924VL215/cansemi-wafer-shenzhen-ipo-revenue.html"
   },
   {
     "date": "2026-09-24",
-    "title": "Xi-Trump summit masks AI rift as Chinese AI leaders stay away",
-    "summary": "Chinese President Xi Jinping is set to make his first state visit to the US since 2015, with the Trump administration rolling out high-level welcoming ceremonies, a state dinner and other diplomatic pomp. But industry observers and think tanks say the real goal is not to settle structural disputes over trade, AI, rare ",
+    "title": "Cadence, Synopsys certify TSMC A14 design flows ahead of 2028 production",
+    "summary": "Cadence Design Systems and Synopsys have achieved certification for key design flows on TSMC's A14 process, expanding the design ecosystem for the foundry's next full node ahead of risk production in 2027 and volume production in 2028.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI"
+      "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260924PD200/xi-jinping-security-chips-deepseek-2015.html"
+    "url": "https://www.digitimes.com/news/a20260924VL216/synopsys-design-tsmc-production-certification.html"
   },
   {
     "date": "2026-09-24",
-    "title": "Qualcomm pushes Snapdragon PCs further into Linux, GoogleBook as AI shifts to the device edge",
-    "summary": "Qualcomm used the second day of its Snapdragon Summit 2026 to underline a broader shift for Snapdragon-powered PCs, announcing Linux support for the Snapdragon X2 Series while highlighting Googlebook laptops powered by the Snapdragon X Elite. The moves signal growing momentum for Qualcomm's PC business across operating",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20260924PD222/qualcomm-snapdragon-linux-pc-2026.html"
-  },
-  {
-    "date": "2026-09-24",
-    "title": "AnyMind to add Alibaba Qwen to Asia live commerce",
-    "summary": "AnyMind said Qwen, a family of large language and multimodal AI models developed by Alibaba, would be added to AnyLive’s multi-model architecture.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/anymind-launches-platform-for-creator-livestream-campaigns"
-  },
-  {
-    "date": "2026-09-24",
-    "title": "Meta, EssilorLuxottica expand Ray-Ban AI glasses to new markets",
-    "summary": "Ray-Ban Meta Audio starts at US$349 and ships on October 13. Ray-Ban Meta (Gen 3) is available now from US$449.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/meta-releases-muse-spark-13-coding-upgrades"
-  },
-  {
-    "date": "2026-09-24",
-    "title": "Samsung signed AI-RAN deals with KT, SK Telecom",
-    "summary": "AI-RAN generally integrates AI more deeply into the radio access network than conventional radio access networks.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/samsung-plans-humanoid-robot-reveal-ces-2027"
-  },
-  {
-    "date": "2026-09-24",
-    "title": "Meta launches camera-free AI glasses amid privacy pushback",
-    "summary": "Meta launches camera-free AI glasses amid privacy pushback",
+    "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
+    "summary": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/meta-new-smart-glasses-camera-free-6406896"
-  },
-  {
-    "date": "2026-09-24",
-    "title": "Larger firms must have certified HR staff by 2028; tripartite report urges 'people-centred AI transformation'",
-    "summary": "As technology makes workforce decisions more complex, the foundation of trust that workers have towards HR matters more, says Minister of State for Manpower Foo Cexiang.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/singapore/hr-human-resources-ai-transformation-workforce-business-6406756"
-  },
-  {
-    "date": "2026-09-24",
-    "title": "PATEO, Arm Partner on Physical AI for Intelligent Vehicles",
-    "summary": "PATEO and Arm will explore automotive physical AI workloads spanning perception, interaction, and intelligent vehicle control. The post PATEO, Arm Partner on Physical AI for Intelligent Vehicles appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/pateo-arm-partner-on-physical-ai-for-intelligent-vehicles/"
-  },
-  {
-    "date": "2026-09-24",
-    "title": "Israeli foundry Tower Semiconductor to make Japan main hub for optical chips",
-    "summary": "Israeli foundry Tower Semiconductor to make Japan main hub for optical chips",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/israeli-foundry-tower-semiconductor-to-make-japan-main-hub-for-optical-chips"
-  },
-  {
-    "date": "2026-09-24",
-    "title": "How 'affordability' makes Gen Z Americans open to Chinese EVs, chips",
-    "summary": "How 'affordability' makes Gen Z Americans open to Chinese EVs, chips",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://asia.nikkei.com/spotlight/comment/how-affordability-makes-gen-z-americans-open-to-chinese-evs-chips"
+    "url": "https://www.channelnewsasia.com/business/metas-charm-gadget-carries-ceo-zuckerbergs-big-ai-ambitions-6407276"
   },
   {
     "date": "2026-09-23",
