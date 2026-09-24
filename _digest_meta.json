@@ -1,38 +1,39 @@
 {
-  "date": "2026-09-23",
-  "count": 8,
+  "date": "2026-09-24",
+  "count": 14,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-09-23-asia-tech-news-digest.md",
+  "post_file": "2026-09-24-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "From cheap AI data to human judgment: A fund manager guide",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/cheap-ai-data-human-judgment-fund-manager-guide"
+      "title": "Nexstrom Raises $12M to Scale 12in Single-crystal 2D Semiconductor Platform",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/nexstrom-raises-12m-to-scale-12in-single-crystal-2d-semiconductor-platform/"
     },
     {
-      "title": "Grab, OpenAI launch AI training aiming for 30,000 partners",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/grab-backed-gxs-narrows-loss-on-business-lending"
+      "title": "Microcooling Emerges as Key Thermal Enabler for Agentic AI at the Edge",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/microcooling-emerges-as-key-thermal-enabler-for-agentic-ai-at-the-edge/"
     },
     {
-      "title": "General Catalyst joins $4m round for Indian AI startup Sol",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/solo-founders-fix-unreliable-generative-ai-models"
+      "title": "Global AI Glasses Shipments Surge 263% YoY in 1H 2026",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/global-ai-glasses-shipments-surge-263-yoy-in-1h-2026/"
     },
     {
-      "title": "China's BeiDou eyes US$150 billion industry scale with AI, services at the core",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260923PD228/beidou-chips-data-2025-hardware.html"
+      "title": "Commentary: How would AI kill all humans? Here are the top 5 scenarios",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/ai-anthropic-kill-humans-superintelligent-6404801"
     },
     {
-      "title": "ZDT prices US$800M ECB to expand AI server PCB push",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260923PD227/pcb-zhen-ding-convertible-bond-high-end-development.html"
+      "title": "Australia says OpenAI agent breached government health data portal",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -148,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 51,
-      "relevant": 34,
+      "fetched": 64,
+      "relevant": 40,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +169,7 @@
       "fetched": 50,
       "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -193,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 20,
+      "relevant": 22,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null

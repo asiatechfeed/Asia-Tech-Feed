@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-09-24",
+    "title": "Nexstrom Raises $12M to Scale 12in Single-crystal 2D Semiconductor Platform",
+    "summary": "Singapore-based Nexstrom will use new funding to scale wafer-level 2D material growth for advanced semiconductor manufacturing. The post Nexstrom Raises $12M to Scale 12in Single-crystal 2D Semiconductor Platform appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/nexstrom-raises-12m-to-scale-12in-single-crystal-2d-semiconductor-platform/"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Microcooling Emerges as Key Thermal Enabler for Agentic AI at the Edge",
+    "summary": "Continuous edge AI workloads are pushing thermal limits, making advanced microcooling critical for sustained performance in compact devices. The post Microcooling Emerges as Key Thermal Enabler for Agentic AI at the Edge appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/microcooling-emerges-as-key-thermal-enabler-for-agentic-ai-at-the-edge/"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Global AI Glasses Shipments Surge 263% YoY in 1H 2026",
+    "summary": "AI glasses shipments surged 263% in 1H 2026, with display-less models accounting for 96% of the global market. The post Global AI Glasses Shipments Surge 263% YoY in 1H 2026 appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/global-ai-glasses-shipments-surge-263-yoy-in-1h-2026/"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Commentary: How would AI kill all humans? Here are the top 5 scenarios",
+    "summary": "Most scenarios involve the concept of “superintelligent” AI, says a professor.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/ai-anthropic-kill-humans-superintelligent-6404801"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Australia says OpenAI agent breached government health data portal",
+    "summary": "The OpenAI agent gained unauthorised access to public and non-public files in what could be the first known instance of an AI agent hacking a government website.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Sea set to become first in SE Asia to adopt Nvidia’s Vera Rubin",
+    "summary": "The company said it would adopt the platform to boost its AI infrastructure and increase computing capacity for Garena, Shopee, and Monee.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/seas-data-laws-chase-investments-protect-data"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "US, China diverge on AI guardrails ahead of Trump-Xi summit",
+    "summary": "The US and China are moving toward different models for governing increasingly capable artificial intelligence, even as the US proposes a limited safety mechanism with China ahead of President Donald Trump and Chinese President Xi Jinping's September 24 summit in Washington. AI is expected to be among the issues discus",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260923VL220/development-technology-ceo.html"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Engineering over panic: Jensen Huang's pragmatic vision for the future of AI",
+    "summary": "In a 46-minute interview on CBS, Nvidia CEO Jensen Huang pushed back against apocalyptic warnings regarding artificial intelligence (AI). He urged the industry to focus on rigorous engineering and safe product delivery rather than apocalyptic fearmongering.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260923PD235/jensen-huang-nvidia-ceo-commercial.html"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "LG Electronics, Microsoft enter partnership on AI data centers, physical AI",
+    "summary": "LG Electronics entered a partnership with Microsoft to cooperate on a range of AI initiatives. The two firms agreed to work together on AI data centers, LG Electronics' AI data transformation, and physical AI as the company known for appliances taps into growing AI-related industries.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260923VL215/microsoft-lg-electronics-partnership-data-lg.html"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Shrinking AI chips for power-hungry wearables",
+    "summary": "By combining compute-in-memory with a tensor engine, Alpenglow Tek stops AI features from draining wearable batteries.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/shrinking-ai-chips-powerhungry-wearables"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Vast Data launches AI enclave in Singapore",
+    "summary": "Vast said DataEnclave cryptographically attests to the hardware environment before models or data are decrypted.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/nvidia-backed-ai-firm-vast-data-raises-1b-at-30b-valuation"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Japan's EdgeCortix looks to work with SpaceX on space data center chips",
+    "summary": "Japan's EdgeCortix looks to work with SpaceX on space data center chips",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-edgecortix-looks-to-work-with-spacex-on-space-data-center-chips"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "CXMT, SMIC power 620% surge in profits in China's chip industry",
+    "summary": "CXMT, SMIC power 620% surge in profits in China's chip industry",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/cxmt-smic-power-620-surge-in-profits-in-china-s-chip-industry"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Japan broadcasters roll out AI for explosion effects, other uses to cut costs",
+    "summary": "Japan broadcasters roll out AI for explosion effects, other uses to cut costs",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-broadcasters-roll-out-ai-for-explosion-effects-other-uses-to-cut-costs"
+  },
+  {
     "date": "2026-09-23",
     "title": "From cheap AI data to human judgment: A fund manager guide",
     "summary": "TIFF Investment Management's Tom Duffy explains why fund managers need niche expertise, human judgment, and patience as AI commoditizes data.",
