@@ -1,39 +1,38 @@
 {
   "date": "2026-09-25",
-  "count": 11,
+  "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-25-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Cognex Wafer Reader Helps IC Manufacturers Scale Production",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/cognex-wafer-reader-helps-ic-manufacturers-scale-production/"
-    },
-    {
-      "title": "Singapore Expands Semiconductor Talent Pipeline from Primary Schools to Regional Universities",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/singapore-expands-semiconductor-talent-pipeline-from-primary-schools-to-regional-universities/"
-    },
-    {
-      "title": "Analysis:Oracle, Blue Owl project delay sends ripples through AI financing, sources say",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/analysisoracle-blue-owl-project-delay-sends-ripples-through-ai-financing-sources-say-6409591"
-    },
-    {
-      "title": "Commentary: An OpenAI agent hacked an Australian government health data portal. Will anyone be held responsible?",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/commentary-openai-agent-hacked-australian-government-health-data-portal-will-anyone-be-held-responsible-6408121"
-    },
-    {
-      "title": "Microsoft to invest US$10B in Middle East AI infrastructure, despite war risks",
+      "title": "Trump, Xi back AI talks as hotline details remain unclear",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260924VL223/microsoft-infrastructure-war-region-data.html"
+      "url": "https://www.digitimes.com/news/a20260925VL200/technology-shenzhen-communications.html"
+    },
+    {
+      "title": "Beyond classrooms, AI is changing the game for educators",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/classrooms-ai-changing-game-educators"
+    },
+    {
+      "title": "Using AI to stay ahead of payment fraud",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/advertorial/using-ai-stay-ahead-payment-fraud-6385966"
+    },
+    {
+      "title": "Singapore finance firms aim to train 80,000 workers in AI",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/singapore-trial-tokenized-bills-2026"
+    },
+    {
+      "title": "US AI video startup Higgsfield eyes $1b annual sales",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/quiet-ai-video-platform-chasing-50m-sora-catches"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -151,14 +150,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 58,
-      "relevant": 41,
+      "fetched": 35,
+      "relevant": 25,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -194,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 19,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
