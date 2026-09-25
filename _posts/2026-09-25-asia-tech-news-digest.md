@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - September 25, 2026"
-date: 2026-09-25 12:35:32 +0800
-articles_count: 8
+date: 2026-09-25 16:00:45 +0800
+articles_count: 9
 sources_count: 4
 sources: ["CNA", "DigiTimes", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-09-25.tsv
-featured_title: "Trump, Xi back AI talks as hotline details remain unclear"
-featured_url: "https://www.digitimes.com/news/a20260925VL200/technology-shenzhen-communications.html"
-featured_source: "DigiTimes"
-featured_summary: "The US and China have brought artificial intelligence into their bilateral economic dialogue and received leader-level backing to continue talks. Still, details of an AI safety hotline described by US officials remain unclear after US President Donald Trump and Chinese President Xi Jinping met in Washington."
-featured_image: "https://img.digitimes.com/newsshow/20260925vl200_files/2_b.jpg"
+featured_title: "Bringing interactive 3D models to infrastructure maintenance"
+featured_url: "https://www.techinasia.com/bringing-interactive-3d-models-infrastructure-maintenance"
+featured_source: "TechAsia"
+featured_summary: "Niriksagara combines AI damage detection with economic impact data to help governments prioritize repairs after disasters."
+featured_image: ""
 ---
 
 <table class="news-table">
@@ -27,67 +27,75 @@ featured_image: "https://img.digitimes.com/newsshow/20260925vl200_files/2_b.jpg"
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Trump, Xi back AI talks as hotline details remain unclear</span></td>
-  <td class="col-summary">The US and China have brought artificial intelligence into their bilateral economic dialogue and received leader-level backing to continue talks. Still, details of an AI safety hotline described by US officials remain unclear after US President Donald Trump and Chinese President Xi Jinping met in Washington.</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Bringing interactive 3D models to infrastructure maintenance</span></td>
+  <td class="col-summary">Niriksagara combines AI damage detection with economic impact data to help governments prioritize repairs after disasters.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260925VL200/technology-shenzhen-communications.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/bringing-interactive-3d-models-infrastructure-maintenance" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Beyond classrooms, AI is changing the game for educators</span></td>
-  <td class="col-summary">A Vietnamese educator’s AI fluency is shaping how generations of students learn and think.</td>
+  <td class="col-title"><span class="article-title">Lightspeed targets $250m for India-SEA AI fund</span></td>
+  <td class="col-summary">The fund, Lightspeed India Partners V, is expected to begin investing within two months.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/classrooms-ai-changing-game-educators" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/lightspeed-cuts-india-fund-target-300m350m" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Using AI to stay ahead of payment fraud</span></td>
-  <td class="col-summary">Fraudsters are launching faster, more sophisticated scams. Visa Protect combines AI-driven tools with network intelligence to flag suspicious activity while keeping genuine payments moving.</td>
+  <td class="col-title"><span class="article-title">Australia steps up response to AI after OpenAI bot breaches health system database</span></td>
+  <td class="col-summary">Australia steps up response to AI after OpenAI bot breaches health system database</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/advertorial/using-ai-stay-ahead-payment-fraud-6385966" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/australia-steps-up-response-ai-after-openai-bot-breaches-health-system-database-6410296" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Singapore finance firms aim to train 80,000 workers in AI</span></td>
-  <td class="col-summary">The firms will study how AI is changing jobs and test training and job redesign for workers, including leaders, wealth managers, and operations staff.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/singapore-trial-tokenized-bills-2026" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Trump-Xi summit leaves rare-earth issue unresolved amid yttrium supply squeeze</span></td>
+  <td class="col-summary">The Trump-Xi summit left rare-earth supplies among the unresolved issues in US-China economic relations, as the US and Japan confront uneven access to yttrium, a little-known rare-earth metal used in heat-resistant coatings for semiconductor manufacturing tools.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260925VL202/manufacturing-materials.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">US AI video startup Higgsfield eyes $1b annual sales</span></td>
-  <td class="col-summary">Chief executive Alex Mashrabov said contracted revenue from business customers has increased 10x since June.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/quiet-ai-video-platform-chasing-50m-sora-catches" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwan keeps door open for Chinese parts in drones</span></td>
+  <td class="col-summary">Taiwan is leaving room for Chinese-made components in parts of its commercial drone supply chain, with non-critical items such as passive components, magnets, and optical lenses not required to be sourced entirely outside China even as the government pushes for non-China sourcing of critical technologies.</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260923PD217/taiwan-moea-commercial-supply-chain-government.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung, SK Hynix in the running for PS6 GDDR7 orders</span></td>
-  <td class="col-summary">Samsung Electronics and SK Hynix are reportedly in the running to supply 24Gb GDDR7 memory for Sony's next-generation PlayStation, as tight memory supply complicates planning for the Japanese company's next hardware platform.</td>
+  <td class="col-title"><span class="article-title">Bright LED Electronics rides PCBA rebound to double-digit growth</span></td>
+  <td class="col-summary">Bright LED Electronics said its core profit rebounded in the first half of 2026, helped by recovering printed circuit board assembly (PCBA) demand and a better product mix. The LED packaging maker expects second-half performance to be roughly in line with the first half, while seeing growth momentum extend into 2027.</td>
   <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260924VL224/samsung-sk-hynix-sony-demand-launch.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260923PD240/bright-led-electronics-pcba-growth-profit-2026.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">BOE supplies panel for LG's 5K Mini LED gaming monitor</span></td>
-  <td class="col-summary">China's BOE is supplying the panel for LG Electronics' 27-inch UltraGear evo 27GM950B, putting the display maker's technology in one of LG's premium gaming monitors as BOE expands its push into higher-resolution and ultra-high-refresh-rate displays.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260924VL225/boe-panel-gaming-lg-monitor.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Google plans to launch AI chip test satellite next week</span></td>
+  <td class="col-summary">Google said it had already tested the processors while running AI workloads at the University of California, Davis.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/google-cloud-opens-singapore-engineering-center" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Xi urges limits on US-China rivalry, human control of AI</span></td>
-  <td class="col-summary">Xi urges limits on US-China rivalry, human control of AI</td>
+  <td class="col-title"><span class="article-title">Philippine President Marcos pardons drug convict Mary Jane Veloso</span></td>
+  <td class="col-summary">Philippine President Marcos pardons drug convict Mary Jane Veloso</td>
+  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/politics/philippine-president-marcos-pardons-drug-convict-mary-jane-veloso2" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Xi urges limits on US-China rivalry, calls for human control of AI</span></td>
+  <td class="col-summary">Xi urges limits on US-China rivalry, calls for human control of AI</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/trump-xi-summit/xi-urges-limits-on-us-china-rivalry-human-control-of-ai" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/trump-xi-summit/xi-urges-limits-on-us-china-rivalry-calls-for-human-control-of-ai" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>

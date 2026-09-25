@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "count": 8,
+  "count": 9,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -10,29 +10,29 @@
   "post_file": "2026-09-25-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Trump, Xi back AI talks as hotline details remain unclear",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260925VL200/technology-shenzhen-communications.html"
-    },
-    {
-      "title": "Beyond classrooms, AI is changing the game for educators",
+      "title": "Bringing interactive 3D models to infrastructure maintenance",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/classrooms-ai-changing-game-educators"
+      "url": "https://www.techinasia.com/bringing-interactive-3d-models-infrastructure-maintenance"
     },
     {
-      "title": "Using AI to stay ahead of payment fraud",
+      "title": "Lightspeed targets $250m for India-SEA AI fund",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/lightspeed-cuts-india-fund-target-300m350m"
+    },
+    {
+      "title": "Australia steps up response to AI after OpenAI bot breaches health system database",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/advertorial/using-ai-stay-ahead-payment-fraud-6385966"
+      "url": "https://www.channelnewsasia.com/business/australia-steps-up-response-ai-after-openai-bot-breaches-health-system-database-6410296"
     },
     {
-      "title": "Singapore finance firms aim to train 80,000 workers in AI",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/singapore-trial-tokenized-bills-2026"
+      "title": "Trump-Xi summit leaves rare-earth issue unresolved amid yttrium supply squeeze",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260925VL202/manufacturing-materials.html"
     },
     {
-      "title": "US AI video startup Higgsfield eyes $1b annual sales",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/quiet-ai-video-platform-chasing-50m-sora-catches"
+      "title": "Taiwan keeps door open for Chinese parts in drones",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260923PD217/taiwan-moea-commercial-supply-chain-government.html"
     }
   ],
   "source_stats": [
@@ -157,7 +157,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 25,
+      "relevant": 26,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +168,7 @@
       "fetched": 50,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
