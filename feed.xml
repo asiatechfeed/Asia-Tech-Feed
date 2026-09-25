@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-24T08:02:09+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 24, 2026</title><link href="https://asiatechfeed.com/2026/09/24/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 24, 2026" /><published>2026-09-24T08:00:51+00:00</published><updated>2026-09-24T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/09/24/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/24/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-25T00:09:52+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 25, 2026</title><link href="https://asiatechfeed.com/2026/09/25/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 25, 2026" /><published>2026-09-25T00:08:34+00:00</published><updated>2026-09-25T00:08:34+00:00</updated><id>https://asiatechfeed.com/2026/09/25/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/25/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Cognex Wafer Reader Helps IC Manufacturers Scale Production</span></td>
+  <td class="col-summary">Cognex's In-Sight 1750 wafer and panel identification system helps chip makers reduce disruptions, improve traceability, and maintain throughput. The post Cognex Wafer Reader Helps IC Manufacturers Scale Production appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/cognex-wafer-reader-helps-ic-manufacturers-scale-production/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Singapore Expands Semiconductor Talent Pipeline from Primary Schools to Regional Universities</span></td>
+  <td class="col-summary">Singapore semiconductor sector expands early education, industry exposure and regional exchanges to develop future technical talent across Asia. The post Singapore Expands Semiconductor Talent Pipeline from Primary Schools to Regional Universities appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/singapore-expands-semiconductor-talent-pipeline-from-primary-schools-to-regional-universities/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Analysis:Oracle, Blue Owl project delay sends ripples through AI financing, sources say</span></td>
+  <td class="col-summary">Analysis:Oracle, Blue Owl project delay sends ripples through AI financing, sources say</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/analysisoracle-blue-owl-project-delay-sends-ripples-through-ai-financing-sources-say-6409591" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: An OpenAI agent hacked an Australian government health data portal. Will anyone be held responsible?</span></td>
+  <td class="col-summary">This appears to be the first time an AI agent breach of a government system has been made public, says this cybersecurity researcher.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/commentary-openai-agent-hacked-australian-government-health-data-portal-will-anyone-be-held-responsible-6408121" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Microsoft to invest US$10B in Middle East AI infrastructure, despite war risks</span></td>
+  <td class="col-summary">Microsoft announced that it will invest US$10 billion in expanding AI infrastructure in the Middle East by 2030. The commitment directs funding to a region facing threats from the war in Iran, where data center construction has continued despite the ongoing conflict.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260924VL223/microsoft-infrastructure-war-region-data.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Anduril's Taiwan supply chain to grow 15-fold in 2026</span></td>
+  <td class="col-summary">US defense tech unicorn Anduril plans to expand its overall investment in Taiwan, with procurement from its Taiwan supply chain expected to grow 15-fold in 2026, founder Palmer Luckey said at the International Forum of the Whole-of-Society Defense Resilience Committee.</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260924PD239/anduril-taiwan-2026-taiwan-supply-chain-unicorn.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">From finishing tasks to driving ROI: A VC product guide</span></td>
+  <td class="col-summary">Felicis' Peter Deng explains why products must solve real customer problems, and how AI is changing how companies hire and evaluate startups.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/finishing-tasks-driving-roi-vc-product-guide" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwan's homegrown trainer program ends with 66 Brave Eagles delivered</span></td>
+  <td class="col-summary">AIDC's Brave Eagle advanced jet trainer, a flagship "made-in-Taiwan" defense program, completed development and mass production on September 24, with AIDC chairman Chin-Pin Tsao personally leading the final delivery. The handover means all 66 production aircraft have now been delivered, marking a new chapter for Taiwan</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260924PD237/aidc-production-aircraft-taiwan-training.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Mapping the trailblazing startups in Australia’s AI sector</span></td>
+  <td class="col-summary">Mapping Australia's AI sector: Key players, top investors, and funding insights in one report.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/mapping-trailblazing-startups-australias-ai-sector" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Gobi-backed Bitsmedia lays off 21 employees</span></td>
+  <td class="col-summary">The company's managing director and CEO says AI was "not a factor in the decision" and that it has no plans for further restructuring at this time.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/gobibacked-bitsmedia-lays-21-employees" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Trump-Xi summit live: US, China should keep AI under human control, Xi says</span></td>
+  <td class="col-summary">Trump-Xi summit live: US, China should keep AI under human control, Xi says</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-us-china-should-keep-ai-under-human-control-xi-says" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 EETAsia Cognex Wafer Reader Helps IC Manufacturers Scale Production Cognex's In-Sight 1750 wafer and panel identification system helps chip makers reduce disruptions, improve traceability, and maintain throughput. The post Cognex Wafer Reader Helps IC Manufacturers Scale Production appeared first on EE Times Asia . Semiconductor Read 2 EETAsia Singapore Expands Semiconductor Talent Pipeline from Primary Schools to Regional Universities Singapore semiconductor sector expands early education, industry exposure and regional exchanges to develop future technical talent across Asia. The post Singapore Expands Semiconductor Talent Pipeline from Primary Schools to Regional Universities appeared first on EE Times Asia . Semiconductor Read 3 CNA Analysis:Oracle, Blue Owl project delay sends ripples through AI financing, sources say Analysis:Oracle, Blue Owl project delay sends ripples through AI financing, sources say AI Read 4 CNA Commentary: An OpenAI agent hacked an Australian government health data portal. Will anyone be held responsible? This appears to be the first time an AI agent breach of a government system has been made public, says this cybersecurity researcher. AI Read 5 DigiTimes Microsoft to invest US$10B in Middle East AI infrastructure, despite war risks Microsoft announced that it will invest US$10 billion in expanding AI infrastructure in the Middle East by 2030. The commitment directs funding to a region facing threats from the war in Iran, where data center construction has continued despite the ongoing conflict. AI Read 6 DigiTimes Anduril's Taiwan supply chain to grow 15-fold in 2026 US defense tech unicorn Anduril plans to expand its overall investment in Taiwan, with procurement from its Taiwan supply chain expected to grow 15-fold in 2026, founder Palmer Luckey said at the International Forum of the Whole-of-Society Defense Resilience Committee. Logistics Read 7 TechAsia From finishing tasks to driving ROI: A VC product guide Felicis' Peter Deng explains why products must solve real customer problems, and how AI is changing how companies hire and evaluate startups. AI Read 8 DigiTimes Taiwan's homegrown trainer program ends with 66 Brave Eagles delivered AIDC's Brave Eagle advanced jet trainer, a flagship "made-in-Taiwan" defense program, completed development and mass production on September 24, with AIDC chairman Chin-Pin Tsao personally leading the final delivery. The handover means all 66 production aircraft have now been delivered, marking a new chapter for Taiwan Logistics Read 9 TechAsia Mapping the trailblazing startups in Australia’s AI sector Mapping Australia's AI sector: Key players, top investors, and funding insights in one report. AI Read 10 TechAsia Gobi-backed Bitsmedia lays off 21 employees The company's managing director and CEO says AI was "not a factor in the decision" and that it has no plans for further restructuring at this time. AI Read 11 NikkeiAsia Trump-Xi summit live: US, China should keep AI under human control, Xi says Trump-Xi summit live: US, China should keep AI under human control, Xi says AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 24, 2026</title><link href="https://asiatechfeed.com/2026/09/24/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 24, 2026" /><published>2026-09-24T08:00:51+00:00</published><updated>2026-09-24T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/09/24/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/24/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -739,113 +840,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260915PD235/samsung-exynos-galaxy-2nm-global-smartphone.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Tracking AI hiring in Singapore: OpenAI, Anthropic, and more AI firms keep talking about Singapore. Their hiring data reveals who’s truly expanding in the region. AI Read 2 CNA EU's von der Leyen to invite frontier labs for talks on tackling AI risks EU's von der Leyen to invite frontier labs for talks on tackling AI risks AI Read 3 CNA Pickle-flavoured tart? AI inspires Japan's convenience stores Pickle-flavoured tart? AI inspires Japan's convenience stores AI Read 4 SemiEng Blog Review: Sept. 16 First-silicon success falls; engineering capacity; minimum clock period; optimizing PyTorch; counterfeit electronics. The post Blog Review: Sept. 16 appeared first on Semiconductor Engineering . SemiconductorElectronics Read 5 TechAsia A rural village upbringing inspired this cloud computing startup ProjectX eliminates local hardware limits by keeping desktop apps, files, and AI agents in one persistent cloud workspace. AI Read 6 DigiTimes CPO ramp pushes silicon photonics testing upstream to catch defects early As AI servers drive demand for higher-speed optical interconnects and co-packaged optics (CPO) moves toward volume production, silicon photonics testing is shifting from component-performance verification toward wafer-yield protection and earlier risk screening. AISemiconductor Read 7 DigiTimes Taiwan CCL makers ride Nvidia's M9 shift as AI servers move to 52-layer PCBs Global cloud service providers are continuing to expand AI infrastructure, driving a surge in demand for high-frequency, high-speed PCBs and making copper-clad laminate (CCL) upgrades increasingly critical to system performance. With both PCB layer counts and material specifications rising, Taiwan suppliers including E AIElectronics Read 8 TechAsia Intel-backed chipmaker Altera confidentially files for US IPO Its programmable chips power data centers, telecom networks, industrial gear, and AI systems. AISemiconductor Read 9 DigiTimes Samsung Exynos regains share as Galaxy phones test 2nm Samsung Electronics' in-house Exynos application processors (APs) are steadily regaining lost ground in the global smartphone market. Samsung's share of the global smartphone AP market rose to 9% in the second quarter of 2026, up 2 percentage points from the previous quarter and 3 percentage points from a year earlier, Electronics Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 15, 2026</title><link href="https://asiatechfeed.com/2026/09/15/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 15, 2026" /><published>2026-09-15T08:00:47+00:00</published><updated>2026-09-15T08:00:47+00:00</updated><id>https://asiatechfeed.com/2026/09/15/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/15/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Turning B2B customer calls into viral content</span></td>
-  <td class="col-summary">Instead of generic AI writing, Posting Machine uses real meeting notes to generate executive content that drives B2B sales.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/turning-b2b-customer-calls-viral-content" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">China elevates HBM and HBF in five-year plan, opening a new front in AI memory</span></td>
-  <td class="col-summary">China's Ministry of Industry and Information Technology (MIIT) and National Development and Reform Commission (NDRC) have jointly released the 15th Five-Year Plan for the Development of the Electronic Information Manufacturing Industry. For the first time, the plan identifies high-bandwidth flash memory and high-bandwi</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260915PD228/hbm-policy-it-miit-industrial.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung's Cheonan plant reallocates packaging capacity from Exynos to HBM</span></td>
-  <td class="col-summary">Samsung Electronics is accelerating the restructuring of its semiconductor packaging footprint. Its Cheonan facility is gradually phasing out packaging operations for the Exynos mobile application processor (AP), and repurposing the equipment for high-bandwidth memory (HBM) production.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260915PD227/samsung-exynos-packaging-hbm-plant.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Global semiconductor revenue hits record US$425B in 2Q26</span></td>
-  <td class="col-summary">Global semiconductor revenue reached a record US$425 billion in the second quarter of 2026, surging 31.4% quarter-over-quarter, as AI demand and strong memory pricing continued to drive the market, according to research firm Omdia.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260915VL216/revenue-market-2026-growth-omdia.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Samsung backs Dutch AI chip startup Euclyd in $231m round</span></td>
-  <td class="col-summary">Euclyd plans to begin rolling out its physical chip systems in 2028.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/eu-ai-chip-startups-raise-funds-to-rival-nvidia-chips" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Global AI startup Flam raises $40m in series B</span></td>
-  <td class="col-summary">Flam said companies use its platform for interactive video, three-dimensional content, and AI avatars.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/quickbytes-govtech-singapore-fighting-fire-fire-cybersecurity" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans'</span></td>
-  <td class="col-summary">Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans'</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/ex-google-deepmind-researcher-adds-warnings-ai-could-kill-all-humans-6385286" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Ark's Wood says global AI leaders' pledge is positive for technology development</span></td>
-  <td class="col-summary">Ark's Wood says global AI leaders' pledge is positive for technology development</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/arks-wood-says-global-ai-leaders-pledge-positive-technology-development-6385216" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">2026 TIE to Put Spotlight on Taiwan’s Innovation Capabilities</span></td>
-  <td class="col-summary">TIE 2026 will showcase AI applications across industries while connecting technology developers with global investors and partners. The post 2026 TIE to Put Spotlight on Taiwan’s Innovation Capabilities appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/2026-tie-to-put-spotlight-on-taiwans-innovation-capabilities/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Fujitsu to Launch Japan-developed MONAKA CPU for Sovereign AI Infrastructure</span></td>
-  <td class="col-summary">Fujitsu's MONAKA CPU targets AI inference with higher throughput, power efficiency, and supply-chain transparency for sovereign infrastructure. The post Fujitsu to Launch Japan-developed MONAKA CPU for Sovereign AI Infrastructure appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/fujitsu-to-launch-japan-developed-monaka-cpu-for-sovereign-ai-infrastructure/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">MediaTek says new AI phone chip reduces memory use amid supply crunch</span></td>
-  <td class="col-summary">MediaTek says new AI phone chip reduces memory use amid supply crunch</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/mediatek-says-new-ai-phone-chip-reduces-memory-use-amid-supply-crunch" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Australian tungsten miner joins US efforts to rebuild supply chain</span></td>
-  <td class="col-summary">Australian tungsten miner joins US efforts to rebuild supply chain</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/supply-chain/australian-tungsten-miner-joins-us-efforts-to-rebuild-supply-chain" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Turning B2B customer calls into viral content Instead of generic AI writing, Posting Machine uses real meeting notes to generate executive content that drives B2B sales. AI Read 2 DigiTimes China elevates HBM and HBF in five-year plan, opening a new front in AI memory China's Ministry of Industry and Information Technology (MIIT) and National Development and Reform Commission (NDRC) have jointly released the 15th Five-Year Plan for the Development of the Electronic Information Manufacturing Industry. For the first time, the plan identifies high-bandwidth flash memory and high-bandwi AI Read 3 DigiTimes Samsung's Cheonan plant reallocates packaging capacity from Exynos to HBM Samsung Electronics is accelerating the restructuring of its semiconductor packaging footprint. Its Cheonan facility is gradually phasing out packaging operations for the Exynos mobile application processor (AP), and repurposing the equipment for high-bandwidth memory (HBM) production. SemiconductorElectronics Read 4 DigiTimes Global semiconductor revenue hits record US$425B in 2Q26 Global semiconductor revenue reached a record US$425 billion in the second quarter of 2026, surging 31.4% quarter-over-quarter, as AI demand and strong memory pricing continued to drive the market, according to research firm Omdia. SemiconductorAI Read 5 TechAsia Samsung backs Dutch AI chip startup Euclyd in $231m round Euclyd plans to begin rolling out its physical chip systems in 2028. AISemiconductor Read 6 TechAsia Global AI startup Flam raises $40m in series B Flam said companies use its platform for interactive video, three-dimensional content, and AI avatars. AI Read 7 CNA Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' AI Read 8 CNA Ark's Wood says global AI leaders' pledge is positive for technology development Ark's Wood says global AI leaders' pledge is positive for technology development AI Read 9 EETAsia 2026 TIE to Put Spotlight on Taiwan’s Innovation Capabilities TIE 2026 will showcase AI applications across industries while connecting technology developers with global investors and partners. The post 2026 TIE to Put Spotlight on Taiwan’s Innovation Capabilities appeared first on EE Times Asia . AI Read 10 EETAsia Fujitsu to Launch Japan-developed MONAKA CPU for Sovereign AI Infrastructure Fujitsu's MONAKA CPU targets AI inference with higher throughput, power efficiency, and supply-chain transparency for sovereign infrastructure. The post Fujitsu to Launch Japan-developed MONAKA CPU for Sovereign AI Infrastructure appeared first on EE Times Asia . AI Read 11 NikkeiAsia MediaTek says new AI phone chip reduces memory use amid supply crunch MediaTek says new AI phone chip reduces memory use amid supply crunch AISemiconductor Read 12 NikkeiAsia Australian tungsten miner joins US efforts to rebuild supply chain Australian tungsten miner joins US efforts to rebuild supply chain Logistics Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Tracking AI hiring in Singapore: OpenAI, Anthropic, and more AI firms keep talking about Singapore. Their hiring data reveals who’s truly expanding in the region. AI Read 2 CNA EU's von der Leyen to invite frontier labs for talks on tackling AI risks EU's von der Leyen to invite frontier labs for talks on tackling AI risks AI Read 3 CNA Pickle-flavoured tart? AI inspires Japan's convenience stores Pickle-flavoured tart? AI inspires Japan's convenience stores AI Read 4 SemiEng Blog Review: Sept. 16 First-silicon success falls; engineering capacity; minimum clock period; optimizing PyTorch; counterfeit electronics. The post Blog Review: Sept. 16 appeared first on Semiconductor Engineering . SemiconductorElectronics Read 5 TechAsia A rural village upbringing inspired this cloud computing startup ProjectX eliminates local hardware limits by keeping desktop apps, files, and AI agents in one persistent cloud workspace. AI Read 6 DigiTimes CPO ramp pushes silicon photonics testing upstream to catch defects early As AI servers drive demand for higher-speed optical interconnects and co-packaged optics (CPO) moves toward volume production, silicon photonics testing is shifting from component-performance verification toward wafer-yield protection and earlier risk screening. AISemiconductor Read 7 DigiTimes Taiwan CCL makers ride Nvidia's M9 shift as AI servers move to 52-layer PCBs Global cloud service providers are continuing to expand AI infrastructure, driving a surge in demand for high-frequency, high-speed PCBs and making copper-clad laminate (CCL) upgrades increasingly critical to system performance. With both PCB layer counts and material specifications rising, Taiwan suppliers including E AIElectronics Read 8 TechAsia Intel-backed chipmaker Altera confidentially files for US IPO Its programmable chips power data centers, telecom networks, industrial gear, and AI systems. AISemiconductor Read 9 DigiTimes Samsung Exynos regains share as Galaxy phones test 2nm Samsung Electronics' in-house Exynos application processors (APs) are steadily regaining lost ground in the global smartphone market. Samsung's share of the global smartphone AP market rose to 9% in the second quarter of 2026, up 2 percentage points from the previous quarter and 3 percentage points from a year earlier, Electronics Read]]></summary></entry></feed>
