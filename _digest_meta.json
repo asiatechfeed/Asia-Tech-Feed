@@ -1,37 +1,39 @@
 {
-  "date": "2026-09-24",
-  "count": 8,
+  "date": "2026-09-25",
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-09-24-asia-tech-news-digest.md",
+  "post_file": "2026-09-25-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Why AI video is fine (and how YouTube judges the output)",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/ai-video-fine-youtube-judges-output"
+      "title": "Cognex Wafer Reader Helps IC Manufacturers Scale Production",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/cognex-wafer-reader-helps-ic-manufacturers-scale-production/"
     },
     {
-      "title": "Singapore to support mRNA flu vaccine pilot to strengthen pandemic preparedness",
+      "title": "Singapore Expands Semiconductor Talent Pipeline from Primary Schools to Regional Universities",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/singapore-expands-semiconductor-talent-pipeline-from-primary-schools-to-regional-universities/"
+    },
+    {
+      "title": "Analysis:Oracle, Blue Owl project delay sends ripples through AI financing, sources say",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/mrna-flu-vaccine-pilot-pandemic-ebola-ong-ye-kung-6407351"
+      "url": "https://www.channelnewsasia.com/business/analysisoracle-blue-owl-project-delay-sends-ripples-through-ai-financing-sources-say-6409591"
     },
     {
-      "title": "Engaging Gen Z women through character quizzes",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/engaging-gen-women-character-quizzes"
+      "title": "Commentary: An OpenAI agent hacked an Australian government health data portal. Will anyone be held responsible?",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/commentary-openai-agent-hacked-australian-government-health-data-portal-will-anyone-be-held-responsible-6408121"
     },
     {
-      "title": "Series SEA: Who\u2019s investing in the region\u2019s biotech startups?",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/top-sea-investors-biotech"
-    },
-    {
-      "title": "Peking University Dean's rare Intel China appearance hails AI-plus edge adoption",
+      "title": "Microsoft to invest US$10B in Middle East AI infrastructure, despite war risks",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260924PD228/intel-development-industrial-manufacturing.html"
+      "url": "https://www.digitimes.com/news/a20260924VL223/microsoft-infrastructure-war-region-data.html"
     }
   ],
   "source_stats": [
@@ -147,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 7,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 48,
-      "relevant": 33,
+      "fetched": 58,
+      "relevant": 41,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -192,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
