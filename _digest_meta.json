@@ -1,39 +1,36 @@
 {
   "date": "2026-09-26",
-  "count": 10,
+  "count": 6,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-26-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/anthropic-investor-lonsdale-says-ai-firms-stoking-fear-sway-policy-6411856"
-    },
-    {
-      "title": "SSIA, BOM Partner to Expand Singapore-Netherlands Semiconductor Links",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/ssia-bom-partner-to-expand-singapore-netherlands-semiconductor-links/"
-    },
-    {
-      "title": "Singapore deepens chip R&D ties with Applied Materials, KLA and GlobalFoundries",
+      "title": "DIGITIMES Insight: China's memory makers seek scale, funding to close the gap with global leaders",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260925PD201/kla-applied-materials-globalfoundries-manufacturing-silicon.html"
+      "url": "https://www.digitimes.com/news/a20260924PD227/funding-digitimes-cxmt-ymtc-market.html"
     },
     {
-      "title": "Dutch PM presses US to avoid tighter ASML China curbs",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260925VL203/dutch-asml-sales-equipment-revenue.html"
+      "title": "US startup Crusoe drops $1.25b turbine deal for AI data centers",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/oracle-openai-drop-texas-ai-data-center-expansion-plan"
     },
     {
-      "title": "Interview: Intel director talks physical AI, business models, and robotics' future",
+      "title": "OpenAI alerts organizations over AI model testing incidents",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/openai-early-funding-talks-12t-valuation"
+    },
+    {
+      "title": "US AI startup Cognition nears $1b annualized revenue",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/us-ai-coding-startup-cognition-raises-over-1b"
+    },
+    {
+      "title": "Samsung foundry recovery gains pace, but 2nm, Taylor fab remain hurdles",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260923VL223/intel-business-robotics-commercial-hardware.html"
+      "url": "https://www.digitimes.com/news/a20260923VL210/samsung-recovery-2nm-earnings-production.html"
     }
   ],
   "source_stats": [
@@ -50,9 +47,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -149,16 +146,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 25,
+      "relevant": 23,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +166,7 @@
       "fetched": 50,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -196,7 +193,7 @@
       "fetched": 36,
       "relevant": 18,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
