@@ -1,4 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-25T08:01:26+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 25, 2026</title><link href="https://asiatechfeed.com/2026/09/25/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 25, 2026" /><published>2026-09-25T08:00:45+00:00</published><updated>2026-09-25T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/09/25/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/25/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-26T00:14:20+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 26, 2026</title><link href="https://asiatechfeed.com/2026/09/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 26, 2026" /><published>2026-09-26T00:13:32+00:00</published><updated>2026-09-26T00:13:32+00:00</updated><id>https://asiatechfeed.com/2026/09/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Anthropic investor Lonsdale says AI firms stoking fear to sway policy</span></td>
+  <td class="col-summary">Anthropic investor Lonsdale says AI firms stoking fear to sway policy</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/anthropic-investor-lonsdale-says-ai-firms-stoking-fear-sway-policy-6411856" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">SSIA, BOM Partner to Expand Singapore-Netherlands Semiconductor Links</span></td>
+  <td class="col-summary">SSIA and BOM will connect semiconductor companies to strengthen supply chains and expand technology partnerships. The post SSIA, BOM Partner to Expand Singapore-Netherlands Semiconductor Links appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ssia-bom-partner-to-expand-singapore-netherlands-semiconductor-links/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Singapore deepens chip R&amp;D ties with Applied Materials, KLA and GlobalFoundries</span></td>
+  <td class="col-summary">Singapore is deepening semiconductor R&amp;D ties with Applied Materials, KLA, GlobalFoundries (GF) and other industry players across advanced packaging and silicon photonics, as the city-state builds on its manufacturing base to strengthen technology development, validation and commercialization.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260925PD201/kla-applied-materials-globalfoundries-manufacturing-silicon.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Dutch PM presses US to avoid tighter ASML China curbs</span></td>
+  <td class="col-summary">Dutch Prime Minister Rob Jetten is pressing Washington to avoid another round of export restrictions on ASML's China business as US lawmakers pursue legislation that could tighten controls on the chip-equipment maker's immersion lithography systems and servicing activities.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260925VL203/dutch-asml-sales-equipment-revenue.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Interview: Intel director talks physical AI, business models, and robotics' future</span></td>
+  <td class="col-summary">Physical AI is accelerating like never before. Autonomous intelligent machines can walk, run, fly, swim, and assemble car parts in under a minute. New advances in AI models and technologies like dexterous hands are also pushing the boundaries of how smart and useful humanoids can be.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260923VL223/intel-business-robotics-commercial-hardware.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Thailand approves first chip plan, targets $80b</span></td>
+  <td class="col-summary">The BOI said it received 879 investment-promotion applications worth about US$27.2 billion from 2023.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/german-semiconductor-hub-saxony-seeks-korean-chip-investment" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Google Cloud, BNP Paribas expand partnership on AI</span></td>
+  <td class="col-summary">BNP Paribas said it planned to integrate Gemini models into its internal assistant LLM@CIB.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/largest-ai-infra-debt-to-fund-38b-oracle-data-centers-projects" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan herbal remedy makers seek to reduce China from supply chain</span></td>
+  <td class="col-summary">Japan herbal remedy makers seek to reduce China from supply chain</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/supply-chain/japan-herbal-remedy-makers-seek-to-reduce-china-from-supply-chain" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Sony chip unit orders 8,000 workers back to office for physical AI push</span></td>
+  <td class="col-summary">Sony chip unit orders 8,000 workers back to office for physical AI push</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/work/sony-chip-unit-orders-8-000-workers-back-to-office-for-physical-ai-push" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">AI pioneer Schmidhuber to join Japan's Sakana AI as science adviser</span></td>
+  <td class="col-summary">AI pioneer Schmidhuber to join Japan's Sakana AI as science adviser</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/ai-pioneer-schmidhuber-to-join-japan-s-sakana-ai-as-science-adviser" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Anthropic investor Lonsdale says AI firms stoking fear to sway policy Anthropic investor Lonsdale says AI firms stoking fear to sway policy AI Read 2 EETAsia SSIA, BOM Partner to Expand Singapore-Netherlands Semiconductor Links SSIA and BOM will connect semiconductor companies to strengthen supply chains and expand technology partnerships. The post SSIA, BOM Partner to Expand Singapore-Netherlands Semiconductor Links appeared first on EE Times Asia . SemiconductorLogistics Read 3 DigiTimes Singapore deepens chip R&amp;D ties with Applied Materials, KLA and GlobalFoundries Singapore is deepening semiconductor R&amp;D ties with Applied Materials, KLA, GlobalFoundries (GF) and other industry players across advanced packaging and silicon photonics, as the city-state builds on its manufacturing base to strengthen technology development, validation and commercialization. Semiconductor Read 4 DigiTimes Dutch PM presses US to avoid tighter ASML China curbs Dutch Prime Minister Rob Jetten is pressing Washington to avoid another round of export restrictions on ASML's China business as US lawmakers pursue legislation that could tighten controls on the chip-equipment maker's immersion lithography systems and servicing activities. Semiconductor Read 5 DigiTimes Interview: Intel director talks physical AI, business models, and robotics' future Physical AI is accelerating like never before. Autonomous intelligent machines can walk, run, fly, swim, and assemble car parts in under a minute. New advances in AI models and technologies like dexterous hands are also pushing the boundaries of how smart and useful humanoids can be. AIAutomation Read 6 TechAsia Thailand approves first chip plan, targets $80b The BOI said it received 879 investment-promotion applications worth about US$27.2 billion from 2023. Semiconductor Read 7 TechAsia Google Cloud, BNP Paribas expand partnership on AI BNP Paribas said it planned to integrate Gemini models into its internal assistant LLM@CIB. AI Read 8 NikkeiAsia Japan herbal remedy makers seek to reduce China from supply chain Japan herbal remedy makers seek to reduce China from supply chain Logistics Read 9 NikkeiAsia Sony chip unit orders 8,000 workers back to office for physical AI push Sony chip unit orders 8,000 workers back to office for physical AI push AISemiconductor Read 10 NikkeiAsia AI pioneer Schmidhuber to join Japan's Sakana AI as science adviser AI pioneer Schmidhuber to join Japan's Sakana AI as science adviser AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 25, 2026</title><link href="https://asiatechfeed.com/2026/09/25/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 25, 2026" /><published>2026-09-25T08:00:45+00:00</published><updated>2026-09-25T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/09/25/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/25/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -739,89 +832,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/economy/trade-war/trump-tariffs/japan-us-in-talks-to-build-chip-factory-as-part-of-tariff-deal2" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Companies should be more transparent with workers about AI plans: Jasmin Lau Employers should not take "a quiet workforce for an agreeable workforce", says the senior minister of state for digital development and information. AI Read 2 TechAsia HubSpot, OpenAI expand partnership with AI bundle HubSpot said it was the first customer relationship management platform to integrate with ChatGPT Ads. AI Read 3 CNA Japan, US discussing chip factory construction as part of $550 billion investment talks, Nikkei reports Japan, US discussing chip factory construction as part of $550 billion investment talks, Nikkei reports Semiconductor Read 4 DigiTimes Humanoid robots could reshape MEMS demand as physical AI advances Humanoid robots have not yet reached mass adoption, but their sensor needs are already reshaping supply-chain expectations worldwide. Analysts and industry players say the next wave of physical AI could lift demand for MEMS chips, edge computing, and advanced sensing, with broader implications for robotics makers, comp AISemiconductorAutomation Read 5 DigiTimes Ardentec, Sigurd race into silicon photonics TIA testing as US client books capacity The global optical communications module market continues to grow, and Taiwan's test and packaging companies are moving to capture demand in silicon photonics (SiPh) transimpedance amplifier (TIA) testing as AI data-center networks shift toward faster optical interconnects. Ardentec and Sigurd are among the firms benef AI Read 6 DigiTimes Tier IV open-sources self-driving AI chip design to challenge Nvidia Japanese autonomous driving developer Tier IV is developing an AI chip and will release its chip design and related toolchain as open source, allowing semiconductor manufacturers to use them to develop autonomous driving chips. The company aims to break Nvidia's dominant position in the autonomous driving chip market. SemiconductorAI Read 7 TechAsia Manus nears $500m raise after Meta deal unravels Manus said it offers an AI agent for product management and research. AI Read 8 TechAsia Mirae Asset leads Chinese chipmaker D-Robotics’ $400m round D-Robotics said the platform is meant to support robot development across established categories and general-purpose humanoid robots. SemiconductorAutomation Read 9 NikkeiAsia Japan, US in talks to build chip factory as part of tariff deal Japan, US in talks to build chip factory as part of tariff deal Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 16, 2026</title><link href="https://asiatechfeed.com/2026/09/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 16, 2026" /><published>2026-09-16T08:00:46+00:00</published><updated>2026-09-16T08:00:46+00:00</updated><id>https://asiatechfeed.com/2026/09/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Tracking AI hiring in Singapore: OpenAI, Anthropic, and more</span></td>
-  <td class="col-summary">AI firms keep talking about Singapore. Their hiring data reveals who’s truly expanding in the region.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/openai-anthropic-hiring-singapore" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">EU's von der Leyen to invite frontier labs for talks on tackling AI risks</span></td>
-  <td class="col-summary">EU's von der Leyen to invite frontier labs for talks on tackling AI risks</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/eus-von-der-leyen-invite-frontier-labs-talks-tackling-ai-risks-6388496" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Pickle-flavoured tart? AI inspires Japan's convenience stores</span></td>
-  <td class="col-summary">Pickle-flavoured tart? AI inspires Japan's convenience stores</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/japan-convenience-store-ai-products-pickle-flavoured-tart-6388461" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">SemiEng</span></td>
-  <td class="col-title"><span class="article-title">Blog Review: Sept. 16</span></td>
-  <td class="col-summary">First-silicon success falls; engineering capacity; minimum clock period; optimizing PyTorch; counterfeit electronics. The post Blog Review: Sept. 16 appeared first on Semiconductor Engineering .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://semiengineering.com/blog-review-sept-16-3/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">A rural village upbringing inspired this cloud computing startup</span></td>
-  <td class="col-summary">ProjectX eliminates local hardware limits by keeping desktop apps, files, and AI agents in one persistent cloud workspace.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/rural-village-upbringing-inspired-cloud-computing-startup" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">CPO ramp pushes silicon photonics testing upstream to catch defects early</span></td>
-  <td class="col-summary">As AI servers drive demand for higher-speed optical interconnects and co-packaged optics (CPO) moves toward volume production, silicon photonics testing is shifting from component-performance verification toward wafer-yield protection and earlier risk screening.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260915PD211/testing-cpo-photonics-silicon-demand.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan CCL makers ride Nvidia's M9 shift as AI servers move to 52-layer PCBs</span></td>
-  <td class="col-summary">Global cloud service providers are continuing to expand AI infrastructure, driving a surge in demand for high-frequency, high-speed PCBs and making copper-clad laminate (CCL) upgrades increasingly critical to system performance. With both PCB layer counts and material specifications rising, Taiwan suppliers including E</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260916PD222/ccl-taiwan-nvidia-infrastructure-revenue.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Intel-backed chipmaker Altera confidentially files for US IPO</span></td>
-  <td class="col-summary">Its programmable chips power data centers, telecom networks, industrial gear, and AI systems.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/intel-q3-revenue-rises-3-to-13-7b-posts-4-1b-profit" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung Exynos regains share as Galaxy phones test 2nm</span></td>
-  <td class="col-summary">Samsung Electronics' in-house Exynos application processors (APs) are steadily regaining lost ground in the global smartphone market. Samsung's share of the global smartphone AP market rose to 9% in the second quarter of 2026, up 2 percentage points from the previous quarter and 3 percentage points from a year earlier,</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260915PD235/samsung-exynos-galaxy-2nm-global-smartphone.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Tracking AI hiring in Singapore: OpenAI, Anthropic, and more AI firms keep talking about Singapore. Their hiring data reveals who’s truly expanding in the region. AI Read 2 CNA EU's von der Leyen to invite frontier labs for talks on tackling AI risks EU's von der Leyen to invite frontier labs for talks on tackling AI risks AI Read 3 CNA Pickle-flavoured tart? AI inspires Japan's convenience stores Pickle-flavoured tart? AI inspires Japan's convenience stores AI Read 4 SemiEng Blog Review: Sept. 16 First-silicon success falls; engineering capacity; minimum clock period; optimizing PyTorch; counterfeit electronics. The post Blog Review: Sept. 16 appeared first on Semiconductor Engineering . SemiconductorElectronics Read 5 TechAsia A rural village upbringing inspired this cloud computing startup ProjectX eliminates local hardware limits by keeping desktop apps, files, and AI agents in one persistent cloud workspace. AI Read 6 DigiTimes CPO ramp pushes silicon photonics testing upstream to catch defects early As AI servers drive demand for higher-speed optical interconnects and co-packaged optics (CPO) moves toward volume production, silicon photonics testing is shifting from component-performance verification toward wafer-yield protection and earlier risk screening. AISemiconductor Read 7 DigiTimes Taiwan CCL makers ride Nvidia's M9 shift as AI servers move to 52-layer PCBs Global cloud service providers are continuing to expand AI infrastructure, driving a surge in demand for high-frequency, high-speed PCBs and making copper-clad laminate (CCL) upgrades increasingly critical to system performance. With both PCB layer counts and material specifications rising, Taiwan suppliers including E AIElectronics Read 8 TechAsia Intel-backed chipmaker Altera confidentially files for US IPO Its programmable chips power data centers, telecom networks, industrial gear, and AI systems. AISemiconductor Read 9 DigiTimes Samsung Exynos regains share as Galaxy phones test 2nm Samsung Electronics' in-house Exynos application processors (APs) are steadily regaining lost ground in the global smartphone market. Samsung's share of the global smartphone AP market rose to 9% in the second quarter of 2026, up 2 percentage points from the previous quarter and 3 percentage points from a year earlier, Electronics Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Companies should be more transparent with workers about AI plans: Jasmin Lau Employers should not take "a quiet workforce for an agreeable workforce", says the senior minister of state for digital development and information. AI Read 2 TechAsia HubSpot, OpenAI expand partnership with AI bundle HubSpot said it was the first customer relationship management platform to integrate with ChatGPT Ads. AI Read 3 CNA Japan, US discussing chip factory construction as part of $550 billion investment talks, Nikkei reports Japan, US discussing chip factory construction as part of $550 billion investment talks, Nikkei reports Semiconductor Read 4 DigiTimes Humanoid robots could reshape MEMS demand as physical AI advances Humanoid robots have not yet reached mass adoption, but their sensor needs are already reshaping supply-chain expectations worldwide. Analysts and industry players say the next wave of physical AI could lift demand for MEMS chips, edge computing, and advanced sensing, with broader implications for robotics makers, comp AISemiconductorAutomation Read 5 DigiTimes Ardentec, Sigurd race into silicon photonics TIA testing as US client books capacity The global optical communications module market continues to grow, and Taiwan's test and packaging companies are moving to capture demand in silicon photonics (SiPh) transimpedance amplifier (TIA) testing as AI data-center networks shift toward faster optical interconnects. Ardentec and Sigurd are among the firms benef AI Read 6 DigiTimes Tier IV open-sources self-driving AI chip design to challenge Nvidia Japanese autonomous driving developer Tier IV is developing an AI chip and will release its chip design and related toolchain as open source, allowing semiconductor manufacturers to use them to develop autonomous driving chips. The company aims to break Nvidia's dominant position in the autonomous driving chip market. SemiconductorAI Read 7 TechAsia Manus nears $500m raise after Meta deal unravels Manus said it offers an AI agent for product management and research. AI Read 8 TechAsia Mirae Asset leads Chinese chipmaker D-Robotics’ $400m round D-Robotics said the platform is meant to support robot development across established categories and general-purpose humanoid robots. SemiconductorAutomation Read 9 NikkeiAsia Japan, US in talks to build chip factory as part of tariff deal Japan, US in talks to build chip factory as part of tariff deal Semiconductor Read]]></summary></entry></feed>
