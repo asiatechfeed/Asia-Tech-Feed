@@ -1,5 +1,118 @@
 [
   {
+    "date": "2026-09-26",
+    "title": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy",
+    "summary": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/anthropic-investor-lonsdale-says-ai-firms-stoking-fear-sway-policy-6411856"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "SSIA, BOM Partner to Expand Singapore-Netherlands Semiconductor Links",
+    "summary": "SSIA and BOM will connect semiconductor companies to strengthen supply chains and expand technology partnerships. The post SSIA, BOM Partner to Expand Singapore-Netherlands Semiconductor Links appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor",
+      "Logistics"
+    ],
+    "url": "https://www.eetasia.com/ssia-bom-partner-to-expand-singapore-netherlands-semiconductor-links/"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Singapore deepens chip R&D ties with Applied Materials, KLA and GlobalFoundries",
+    "summary": "Singapore is deepening semiconductor R&D ties with Applied Materials, KLA, GlobalFoundries (GF) and other industry players across advanced packaging and silicon photonics, as the city-state builds on its manufacturing base to strengthen technology development, validation and commercialization.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260925PD201/kla-applied-materials-globalfoundries-manufacturing-silicon.html"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Dutch PM presses US to avoid tighter ASML China curbs",
+    "summary": "Dutch Prime Minister Rob Jetten is pressing Washington to avoid another round of export restrictions on ASML's China business as US lawmakers pursue legislation that could tighten controls on the chip-equipment maker's immersion lithography systems and servicing activities.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260925VL203/dutch-asml-sales-equipment-revenue.html"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Interview: Intel director talks physical AI, business models, and robotics' future",
+    "summary": "Physical AI is accelerating like never before. Autonomous intelligent machines can walk, run, fly, swim, and assemble car parts in under a minute. New advances in AI models and technologies like dexterous hands are also pushing the boundaries of how smart and useful humanoids can be.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260923VL223/intel-business-robotics-commercial-hardware.html"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Thailand approves first chip plan, targets $80b",
+    "summary": "The BOI said it received 879 investment-promotion applications worth about US$27.2 billion from 2023.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/german-semiconductor-hub-saxony-seeks-korean-chip-investment"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Google Cloud, BNP Paribas expand partnership on AI",
+    "summary": "BNP Paribas said it planned to integrate Gemini models into its internal assistant LLM@CIB.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/largest-ai-infra-debt-to-fund-38b-oracle-data-centers-projects"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Japan herbal remedy makers seek to reduce China from supply chain",
+    "summary": "Japan herbal remedy makers seek to reduce China from supply chain",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-herbal-remedy-makers-seek-to-reduce-china-from-supply-chain"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Sony chip unit orders 8,000 workers back to office for physical AI push",
+    "summary": "Sony chip unit orders 8,000 workers back to office for physical AI push",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/spotlight/work/sony-chip-unit-orders-8-000-workers-back-to-office-for-physical-ai-push"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "AI pioneer Schmidhuber to join Japan's Sakana AI as science adviser",
+    "summary": "AI pioneer Schmidhuber to join Japan's Sakana AI as science adviser",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-pioneer-schmidhuber-to-join-japan-s-sakana-ai-as-science-adviser"
+  },
+  {
     "date": "2026-09-25",
     "title": "Bringing interactive 3D models to infrastructure maintenance",
     "summary": "Niriksagara combines AI damage detection with economic impact data to help governments prioritize repairs after disasters.",

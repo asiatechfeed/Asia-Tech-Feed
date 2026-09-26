@@ -1,38 +1,39 @@
 {
-  "date": "2026-09-25",
-  "count": 9,
+  "date": "2026-09-26",
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-09-25-asia-tech-news-digest.md",
+  "post_file": "2026-09-26-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Bringing interactive 3D models to infrastructure maintenance",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/bringing-interactive-3d-models-infrastructure-maintenance"
-    },
-    {
-      "title": "Lightspeed targets $250m for India-SEA AI fund",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/lightspeed-cuts-india-fund-target-300m350m"
-    },
-    {
-      "title": "Australia steps up response to AI after OpenAI bot breaches health system database",
+      "title": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/australia-steps-up-response-ai-after-openai-bot-breaches-health-system-database-6410296"
+      "url": "https://www.channelnewsasia.com/business/anthropic-investor-lonsdale-says-ai-firms-stoking-fear-sway-policy-6411856"
     },
     {
-      "title": "Trump-Xi summit leaves rare-earth issue unresolved amid yttrium supply squeeze",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260925VL202/manufacturing-materials.html"
+      "title": "SSIA, BOM Partner to Expand Singapore-Netherlands Semiconductor Links",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/ssia-bom-partner-to-expand-singapore-netherlands-semiconductor-links/"
     },
     {
-      "title": "Taiwan keeps door open for Chinese parts in drones",
+      "title": "Singapore deepens chip R&D ties with Applied Materials, KLA and GlobalFoundries",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260923PD217/taiwan-moea-commercial-supply-chain-government.html"
+      "url": "https://www.digitimes.com/news/a20260925PD201/kla-applied-materials-globalfoundries-manufacturing-silicon.html"
+    },
+    {
+      "title": "Dutch PM presses US to avoid tighter ASML China curbs",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260925VL203/dutch-asml-sales-equipment-revenue.html"
+    },
+    {
+      "title": "Interview: Intel director talks physical AI, business models, and robotics' future",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260923VL223/intel-business-robotics-commercial-hardware.html"
     }
   ],
   "source_stats": [
@@ -150,14 +151,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 26,
+      "relevant": 25,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -193,9 +194,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 19,
+      "relevant": 18,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
