@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - September 26, 2026"
-date: 2026-09-26 12:39:23 +0800
-articles_count: 6
-sources_count: 2
-sources: ["DigiTimes", "TechAsia"]
+date: 2026-09-26 16:02:55 +0800
+articles_count: 7
+sources_count: 3
+sources: ["CNA", "DigiTimes", "TechAsia"]
 csv_file: /assets/data/news-2026-09-26.tsv
-featured_title: "DIGITIMES Insight: China's memory makers seek scale, funding to close the gap with global leaders"
-featured_url: "https://www.digitimes.com/news/a20260924PD227/funding-digitimes-cxmt-ymtc-market.html"
-featured_source: "DigiTimes"
-featured_summary: "China's two leading memory suppliers are moving to raise capital and expand output as demand for chips grows, a shift that could reshape the country's domestic supply chain. Their efforts reflect a new stage for the sector, but the long-term test will be whether fresh funding can translate into stronger technology, hig"
-featured_image: "https://img.digitimes.com/newsshow/20260924pd227_files/2_2b.jpg"
+featured_title: "US, China to set up 'communication channel' for AI incidents"
+featured_url: "https://www.channelnewsasia.com/world/united-states-china-ai-communication-channel-6412426"
+featured_source: "CNA"
+featured_summary: "The two countries established a \"US-China Super Intelligence (SI) Dialogue to exchange views on risks and benefits\" of AI, the White House said in a fact sheet."
+featured_image: "https://dam.mediacorp.sg/image/upload/s--IxhnijRr--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-24T205101Z_1_LYNXMPEM8N1X5_RTROPTP_3_USA-CHINA.JPG?itok=wMb3zgiU"
 ---
 
 <table class="news-table">
@@ -27,51 +27,59 @@ featured_image: "https://img.digitimes.com/newsshow/20260924pd227_files/2_2b.jpg
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">DIGITIMES Insight: China's memory makers seek scale, funding to close the gap with global leaders</span></td>
-  <td class="col-summary">China's two leading memory suppliers are moving to raise capital and expand output as demand for chips grows, a shift that could reshape the country's domestic supply chain. Their efforts reflect a new stage for the sector, but the long-term test will be whether fresh funding can translate into stronger technology, hig</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260924PD227/funding-digitimes-cxmt-ymtc-market.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">US, China to set up 'communication channel' for AI incidents</span></td>
+  <td class="col-summary">The two countries established a "US-China Super Intelligence (SI) Dialogue to exchange views on risks and benefits" of AI, the White House said in a fact sheet.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/united-states-china-ai-communication-channel-6412426" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">US startup Crusoe drops $1.25b turbine deal for AI data centers</span></td>
-  <td class="col-summary">Boom's turbines use technology adapted from its supersonic aircraft propulsion work.</td>
+  <td class="col-title"><span class="article-title">Who’s investing in India’s AI startups?</span></td>
+  <td class="col-summary">We've compiled a list of investors pouring money into India’s AI startups.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/oracle-openai-drop-texas-ai-data-center-expansion-plan" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/whos-investing-indias-ai-startups" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">OpenAI alerts organizations over AI model testing incidents</span></td>
-  <td class="col-summary">The review began after a model inadvertently hacked AI platform Hugging Face.</td>
+  <td class="col-title"><span class="article-title">Anthropic faces court setback over Pentagon risk label</span></td>
+  <td class="col-summary">Anthropic announced a US$200 million Defense Department AI deal in 2025.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-early-funding-talks-12t-valuation" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropic-ceo-urges-ai-firms-slow-model-development" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">US AI startup Cognition nears $1b annualized revenue</span></td>
-  <td class="col-summary">Cognition’s run-rate revenue climbed from US$492 million in May to US$900 million in September.</td>
+  <td class="col-title"><span class="article-title">Microsoft unveils Copilot app for code and AI agents</span></td>
+  <td class="col-summary">Fewer than 7% of Microsoft's 450 million commercial Office 365 seats use its AI add-on.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/us-ai-coding-startup-cognition-raises-over-1b" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/microsoft-reports-241b-openailinked-revenue" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung foundry recovery gains pace, but 2nm, Taylor fab remain hurdles</span></td>
-  <td class="col-summary">Samsung Electronics' foundry recovery is gaining pace as higher utilization, firmer pricing, and stronger advanced-node demand improve earnings, but a sustained return to profit will depend on 2nm yields and how quickly its Taylor fab in Texas ramps production.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260923VL210/samsung-recovery-2nm-earnings-production.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Interview: GMI Cloud bets on Taiwan as a proving ground for global AI expansion</span></td>
+  <td class="col-summary">GMI Cloud is making Taiwan a key part of its global AI infrastructure expansion, with a US$500 million investment in an AI factory powered by Nvidia's Blackwell GPUs. Announced in late 2025, the facility is expected to deploy roughly 7,000 GPUs and serve customers including Trend Micro and Wistron.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260921VL212/taiwan-cloud-infrastructure-data-center-investment.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Acer, Phison split on DRAM outlook as PC memory supply eases</span></td>
-  <td class="col-summary">Acer and Phison Electronics are offering sharply different readings of the DRAM market as supply conditions improve for mainstream PC memory while AI and server demand keep the broader market constrained.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260925VL205/acer-dram-phison-pc-capacity.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">From ISM 1.0 to Semicon 2.0—India's chip subsidy overhaul draws early interest, raises the bar for investors</span></td>
+  <td class="col-summary">India's new semiconductor incentive regime is putting more capital at risk for manufacturers, but the first wave of investment commitments suggests lower subsidies have not stopped companies from considering fresh projects.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260921VL213/semicon-investment-packaging-incentives-financing.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">ASRock Industrial revenue jumps 95% in 1H26 on North America deal</span></td>
+  <td class="col-summary">ASRock Industrial, the industrial PC (IPC) arm of ASRock, posted a 95.4% year-over-year surge in first-half 2026 revenue after winning a major North American streaming services contract. The company is also expanding into robotics, entertainment, cybersecurity and edge computing as the IPC sector rebounds and shifts to</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260923PD241/asrock-revenue-ipc-north-america-demand.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>

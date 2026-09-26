@@ -1,36 +1,37 @@
 {
   "date": "2026-09-26",
-  "count": 6,
+  "count": 7,
   "sources": [
+    "CNA",
     "DigiTimes",
     "TechAsia"
   ],
   "post_file": "2026-09-26-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "DIGITIMES Insight: China's memory makers seek scale, funding to close the gap with global leaders",
+      "title": "US, China to set up 'communication channel' for AI incidents",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/united-states-china-ai-communication-channel-6412426"
+    },
+    {
+      "title": "Who\u2019s investing in India\u2019s AI startups?",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/whos-investing-indias-ai-startups"
+    },
+    {
+      "title": "Anthropic faces court setback over Pentagon risk label",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/anthropic-ceo-urges-ai-firms-slow-model-development"
+    },
+    {
+      "title": "Microsoft unveils Copilot app for code and AI agents",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/microsoft-reports-241b-openailinked-revenue"
+    },
+    {
+      "title": "Interview: GMI Cloud bets on Taiwan as a proving ground for global AI expansion",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260924PD227/funding-digitimes-cxmt-ymtc-market.html"
-    },
-    {
-      "title": "US startup Crusoe drops $1.25b turbine deal for AI data centers",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/oracle-openai-drop-texas-ai-data-center-expansion-plan"
-    },
-    {
-      "title": "OpenAI alerts organizations over AI model testing incidents",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/openai-early-funding-talks-12t-valuation"
-    },
-    {
-      "title": "US AI startup Cognition nears $1b annualized revenue",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/us-ai-coding-startup-cognition-raises-over-1b"
-    },
-    {
-      "title": "Samsung foundry recovery gains pace, but 2nm, Taylor fab remain hurdles",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260923VL210/samsung-recovery-2nm-earnings-production.html"
+      "url": "https://www.digitimes.com/news/a20260921VL212/taiwan-cloud-infrastructure-data-center-investment.html"
     }
   ],
   "source_stats": [
@@ -47,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -191,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
