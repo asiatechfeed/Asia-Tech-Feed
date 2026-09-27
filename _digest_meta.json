@@ -1,39 +1,20 @@
 {
   "date": "2026-09-27",
-  "count": 6,
+  "count": 2,
   "sources": [
-    "CNA",
-    "DigiTimes",
-    "KED",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-27-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/openai-anthropic-ceos-called-appear-australian-ai-probe-6413341"
-    },
-    {
-      "title": "Singapore proposes UN framework for global AI safeguards",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/un-ai-safeguards-singapore-national-statement-6413236"
-    },
-    {
-      "title": "Citadel expands quant team, recruits from AI labs",
+      "title": "The 50 top-funded AI startups in Asia",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/kraken-confidentially-files-ipo-sources"
+      "url": "https://www.techinasia.com/the-50-top-funded-ai-startups-in-asia"
     },
     {
-      "title": "China AI's new moat: low-cost models meet a rapidly localising hardware stack",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260924PD216/hardware-equipment-competition-2025-2026.html"
-    },
-    {
-      "title": "China's exoskeleton robots muscle into the consumer mainstream",
-      "source": "NikkeiAsia",
-      "url": "https://asia.nikkei.com/business/china-tech/china-s-exoskeleton-robots-muscle-into-the-consumer-mainstream"
+      "title": "Singapore proposes UN framework for AI safety rules",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/ai-traffic-booming-aws-paywalls-block-revenue"
     }
   ],
   "source_stats": [
@@ -50,9 +31,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 4,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -158,9 +139,9 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 23,
+      "relevant": 18,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -169,7 +150,7 @@
       "fetched": 50,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -178,7 +159,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -194,9 +175,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 17,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
