@@ -1,37 +1,39 @@
 {
   "date": "2026-09-27",
-  "count": 7,
+  "count": 6,
   "sources": [
     "CNA",
     "DigiTimes",
-    "NikkeiAsia"
+    "KED",
+    "NikkeiAsia",
+    "TechAsia"
   ],
   "post_file": "2026-09-27-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Commentary: Zuckerberg\u2019s \u2018Tamagotchi-like\u2019 AI could be Meta\u2019s iPod moment",
+      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/mark-zuckerberg-meta-muse-ai-agent-6411051"
+      "url": "https://www.channelnewsasia.com/business/openai-anthropic-ceos-called-appear-australian-ai-probe-6413341"
     },
     {
-      "title": "China, US agree to AI dialogue, tariff cuts on US$30 billion in goods during Xi visit",
+      "title": "Singapore proposes UN framework for global AI safeguards",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/china-us-ai-tariff-cuts-xi-6413066"
+      "url": "https://www.channelnewsasia.com/singapore/un-ai-safeguards-singapore-national-statement-6413236"
     },
     {
-      "title": "CXMT gains ground in DRAM as Samsung, SK Hynix shift more capacity to HBM",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260924VL219/dram-cxmt-samsung-hbm-capacity.html"
+      "title": "Citadel expands quant team, recruits from AI labs",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/kraken-confidentially-files-ipo-sources"
     },
     {
-      "title": "LG sharpens focus on data centers, robotics, chip materials",
+      "title": "China AI's new moat: low-cost models meet a rapidly localising hardware stack",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260923VL221/lg-data-materials-robotics-nvidia.html"
+      "url": "https://www.digitimes.com/news/a20260924PD216/hardware-equipment-competition-2025-2026.html"
     },
     {
-      "title": "AI drives Episil GeSi, PMIC growth",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260923PD236/episil-demand-growth-silicon-photonics.html"
+      "title": "China's exoskeleton robots muscle into the consumer mainstream",
+      "source": "NikkeiAsia",
+      "url": "https://asia.nikkei.com/business/china-tech/china-s-exoskeleton-robots-muscle-into-the-consumer-mainstream"
     }
   ],
   "source_stats": [
@@ -48,7 +50,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 4,
       "sponsored_skipped": 0,
       "published": 2,
       "error": null
@@ -128,7 +130,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -158,16 +160,16 @@
       "fetched": 35,
       "relevant": 23,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -176,7 +178,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -194,7 +196,7 @@
       "fetched": 36,
       "relevant": 16,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
