@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - September 28, 2026"
-date: 2026-09-28 10:46:10 +0800
-articles_count: 7
-sources_count: 3
-sources: ["CNA", "DigiTimes", "TechAsia"]
+date: 2026-09-28 13:00:55 +0800
+articles_count: 5
+sources_count: 2
+sources: ["DigiTimes", "TechAsia"]
 csv_file: /assets/data/news-2026-09-28.tsv
-featured_title: "More than S$1 million worth of drugs seized following initial detection at Tuas Checkpoint"
-featured_url: "https://www.channelnewsasia.com/singapore/drugs-tuas-checkpoint-smuggling-1-million-two-men-arrested-6414576"
-featured_source: "CNA"
-featured_summary: "Two men, a Malaysian and a Singaporean, were arrested."
-featured_image: "https://dam.mediacorp.sg/image/upload/s--8TmtwRar--/c_crop,h_387,w_689,x_1,y_55/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/28/picture2.png?itok=F9Fu3gwS"
+featured_title: "Why this founder killed his AI startup despite early success"
+featured_url: "https://www.techinasia.com/founder-killed-startup-early-success"
+featured_source: "TechAsia"
+featured_summary: "His advice for other founders: Ask if you can do this for 10 years, don't fear a saturated market, and know when sunk cost is just sunk cost."
+featured_image: ""
 ---
 
 <table class="news-table">
@@ -27,59 +27,43 @@ featured_image: "https://dam.mediacorp.sg/image/upload/s--8TmtwRar--/c_crop,h_38
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">More than S$1 million worth of drugs seized following initial detection at Tuas Checkpoint</span></td>
-  <td class="col-summary">Two men, a Malaysian and a Singaporean, were arrested.</td>
-  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/drugs-tuas-checkpoint-smuggling-1-million-two-men-arrested-6414576" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Why this founder killed his AI startup despite early success</span></td>
+  <td class="col-summary">His advice for other founders: Ask if you can do this for 10 years, don't fear a saturated market, and know when sunk cost is just sunk cost.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/founder-killed-startup-early-success" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Hyundai Engineering lands $644m AI data center deal</span></td>
-  <td class="col-summary">KT Cloud, a South Korea-based cloud services provider, will manage the uninterruptible power supply, batteries, and automated controls.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/lg-cns-palantir-partner-ai-data-projects" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Apple keeps iPhone Duo in China, exposing limits of India's phone supply chain</span></td>
+  <td class="col-summary">Apple's first foldable iPhone has become a test of how far India has come as a manufacturing base, and the answer is sobering. As India-assembled iPhones reach record export levels, Apple kept development and assembly of its most complex phone, the iPhone Duo, in China. The decision points to a gap that Pune Times Mirr</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260924VL202/apple-iphone-supply-chain-foldable-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">The AI race looks very different in China</span></td>
-  <td class="col-summary">Senior editor Scott Shuey went to China last week expecting to see an AI sector racing to close the gap with the US. What he saw was more interesting.</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Meta's Muse faces security scrutiny over macOS zero-day, human-agent test</span></td>
+  <td class="col-summary">Meta's Muse AI agent is facing scrutiny over the breadth of access it requires after a security researcher identified a zero-day vulnerability in its macOS version, highlighting risks that can emerge when AI agents are given extensive control over a user's device.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-race-china" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260924VL211/meta-security-data.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Who’s investing in India’s biotech startups?</span></td>
-  <td class="col-summary">We've compiled a list of investors pouring money into India’s biotech startups.</td>
-  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/whos-investing-indias-biotech-startups" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">China's Micro Han Xin code takes aim at Data Matrix in semiconductor traceability</span></td>
+  <td class="col-summary">China is trying to carve out a foothold in semiconductor supply-chain standards with Micro Han Xin, a miniaturized version of its home-grown barcode designed for chips and other components too small for conventional labels.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260924VL213/manufacturing-production-chips-packaging-equipment.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Column: For physical AI, maps are turning into memory</span></td>
-  <td class="col-summary">A robot that can map a factory floor still cannot necessarily find the box it has been asked to move, or remember what it saw on its last visit. For autonomous robots, building the map is increasingly just the beginning. What comes next — searching for objects, navigating to specified locations, remembering what the ro</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260924PD210/robot-language-3d.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">South Korea's HBM-linked exports surge as Taiwan, Malaysia emerge as high-value destinations</span></td>
-  <td class="col-summary">South Korea's exports of the customs category that carries high-bandwidth memory (HBM) are no longer a two-destination story. Unit-value data show that the chips going to Taiwan and Malaysia are worth several times more per kilogram than those shipped to Hong Kong, China, or Vietnam. That points to a two-tier trade, wi</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260924VL201/exports-taiwan-hbm-packaging-data.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Weekly news roundup: China gains ground in memory and AI hardware as supply stays tight</span></td>
-  <td class="col-summary">China's AI sector is shifting from catch-up to commercialization, with value concentrating in hardware bottlenecks and large platforms rather than independent model labs. Across memory, DRAM and NAND shortages, HBM reallocation and rising Chinese capacity are reshaping pricing and share gains for CXMT and YMTC. Taiwan </td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260928VL200/2026-dram-cxmt-hardware-packaging.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">China weighs Nvidia chip purchases by ByteDance, Alibaba</span></td>
+  <td class="col-summary">The RTX PRO 5500 is a workstation GPU rather than a data-center AI accelerator.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-dmatrix-team-nextgen-ai-inference-chips" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>

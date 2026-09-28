@@ -1,37 +1,36 @@
 {
   "date": "2026-09-28",
-  "count": 7,
+  "count": 5,
   "sources": [
-    "CNA",
     "DigiTimes",
     "TechAsia"
   ],
   "post_file": "2026-09-28-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "More than S$1 million worth of drugs seized following initial detection at Tuas Checkpoint",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/drugs-tuas-checkpoint-smuggling-1-million-two-men-arrested-6414576"
-    },
-    {
-      "title": "Hyundai Engineering lands $644m AI data center deal",
+      "title": "Why this founder killed his AI startup despite early success",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/lg-cns-palantir-partner-ai-data-projects"
+      "url": "https://www.techinasia.com/founder-killed-startup-early-success"
     },
     {
-      "title": "The AI race looks very different in China",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/ai-race-china"
-    },
-    {
-      "title": "Who\u2019s investing in India\u2019s biotech startups?",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/whos-investing-indias-biotech-startups"
-    },
-    {
-      "title": "Column: For physical AI, maps are turning into memory",
+      "title": "Apple keeps iPhone Duo in China, exposing limits of India's phone supply chain",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260924PD210/robot-language-3d.html"
+      "url": "https://www.digitimes.com/news/a20260924VL202/apple-iphone-supply-chain-foldable-manufacturing.html"
+    },
+    {
+      "title": "Meta's Muse faces security scrutiny over macOS zero-day, human-agent test",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260924VL211/meta-security-data.html"
+    },
+    {
+      "title": "China's Micro Han Xin code takes aim at Data Matrix in semiconductor traceability",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260924VL213/manufacturing-production-chips-packaging-equipment.html"
+    },
+    {
+      "title": "China weighs Nvidia chip purchases by ByteDance, Alibaba",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/nvidia-dmatrix-team-nextgen-ai-inference-chips"
     }
   ],
   "source_stats": [
@@ -48,9 +47,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -156,7 +155,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 22,
+      "relevant": 21,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -194,7 +193,7 @@
       "fetched": 36,
       "relevant": 16,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
