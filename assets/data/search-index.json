@@ -1,25 +1,80 @@
 [
   {
     "date": "2026-09-28",
-    "title": "Trump confirms meeting with Anthropic's Amodei, repeats dismissal of AI fears",
-    "summary": "Trump confirms meeting with Anthropic's Amodei, repeats dismissal of AI fears",
+    "title": "More than S$1 million worth of drugs seized following initial detection at Tuas Checkpoint",
+    "summary": "Two men, a Malaysian and a Singaporean, were arrested.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
-      "AI"
+      "Pharmaceutical"
     ],
-    "url": "https://www.channelnewsasia.com/world/us-trump-meet-anthropic-amodei-ai-regulation-6413916"
+    "url": "https://www.channelnewsasia.com/singapore/drugs-tuas-checkpoint-smuggling-1-million-two-men-arrested-6414576"
   },
   {
     "date": "2026-09-28",
-    "title": "Commentary: Dystopia, Inc - would you like your news with or without hallucinations?",
-    "summary": "AI rarely pays for the expensively-produced professional journalism it hoovers up, says AFP Global News Director Phil Chetwynd on World News Day (Sep 28).",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "Hyundai Engineering lands $644m AI data center deal",
+    "summary": "KT Cloud, a South Korea-based cloud services provider, will manage the uninterruptible power supply, batteries, and automated controls.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/commentary/ai-world-news-day-fact-check-fake-images-6412936"
+    "url": "https://www.techinasia.com/lg-cns-palantir-partner-ai-data-projects"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "The AI race looks very different in China",
+    "summary": "Senior editor Scott Shuey went to China last week expecting to see an AI sector racing to close the gap with the US. What he saw was more interesting.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/ai-race-china"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "Who’s investing in India’s biotech startups?",
+    "summary": "We've compiled a list of investors pouring money into India’s biotech startups.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Biotechnology"
+    ],
+    "url": "https://www.techinasia.com/whos-investing-indias-biotech-startups"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "Column: For physical AI, maps are turning into memory",
+    "summary": "A robot that can map a factory floor still cannot necessarily find the box it has been asked to move, or remember what it saw on its last visit. For autonomous robots, building the map is increasingly just the beginning. What comes next — searching for objects, navigating to specified locations, remembering what the ro",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20260924PD210/robot-language-3d.html"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "South Korea's HBM-linked exports surge as Taiwan, Malaysia emerge as high-value destinations",
+    "summary": "South Korea's exports of the customs category that carries high-bandwidth memory (HBM) are no longer a two-destination story. Unit-value data show that the chips going to Taiwan and Malaysia are worth several times more per kilogram than those shipped to Hong Kong, China, or Vietnam. That points to a two-tier trade, wi",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20260924VL201/exports-taiwan-hbm-packaging-data.html"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "Weekly news roundup: China gains ground in memory and AI hardware as supply stays tight",
+    "summary": "China's AI sector is shifting from catch-up to commercialization, with value concentrating in hardware bottlenecks and large platforms rather than independent model labs. Across memory, DRAM and NAND shortages, HBM reallocation and rising Chinese capacity are reshaping pricing and share gains for CXMT and YMTC. Taiwan ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260928VL200/2026-dram-cxmt-hardware-packaging.html"
   },
   {
     "date": "2026-09-27",

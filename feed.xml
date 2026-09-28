@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-28T00:01:04+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 28, 2026</title><link href="https://asiatechfeed.com/2026/09/28/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 28, 2026" /><published>2026-09-28T00:00:37+00:00</published><updated>2026-09-28T00:00:37+00:00</updated><id>https://asiatechfeed.com/2026/09/28/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/28/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-28T02:46:45+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 28, 2026</title><link href="https://asiatechfeed.com/2026/09/28/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 28, 2026" /><published>2026-09-28T02:46:10+00:00</published><updated>2026-09-28T02:46:10+00:00</updated><id>https://asiatechfeed.com/2026/09/28/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/28/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -13,21 +13,61 @@
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Trump confirms meeting with Anthropic's Amodei, repeats dismissal of AI fears</span></td>
-  <td class="col-summary">Trump confirms meeting with Anthropic's Amodei, repeats dismissal of AI fears</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/us-trump-meet-anthropic-amodei-ai-regulation-6413916" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">More than S$1 million worth of drugs seized following initial detection at Tuas Checkpoint</span></td>
+  <td class="col-summary">Two men, a Malaysian and a Singaporean, were arrested.</td>
+  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/drugs-tuas-checkpoint-smuggling-1-million-two-men-arrested-6414576" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: Dystopia, Inc - would you like your news with or without hallucinations?</span></td>
-  <td class="col-summary">AI rarely pays for the expensively-produced professional journalism it hoovers up, says AFP Global News Director Phil Chetwynd on World News Day (Sep 28).</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Hyundai Engineering lands $644m AI data center deal</span></td>
+  <td class="col-summary">KT Cloud, a South Korea-based cloud services provider, will manage the uninterruptible power supply, batteries, and automated controls.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/ai-world-news-day-fact-check-fake-images-6412936" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/lg-cns-palantir-partner-ai-data-projects" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">The AI race looks very different in China</span></td>
+  <td class="col-summary">Senior editor Scott Shuey went to China last week expecting to see an AI sector racing to close the gap with the US. What he saw was more interesting.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-race-china" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Who’s investing in India’s biotech startups?</span></td>
+  <td class="col-summary">We've compiled a list of investors pouring money into India’s biotech startups.</td>
+  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/whos-investing-indias-biotech-startups" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Column: For physical AI, maps are turning into memory</span></td>
+  <td class="col-summary">A robot that can map a factory floor still cannot necessarily find the box it has been asked to move, or remember what it saw on its last visit. For autonomous robots, building the map is increasingly just the beginning. What comes next — searching for objects, navigating to specified locations, remembering what the ro</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260924PD210/robot-language-3d.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">South Korea's HBM-linked exports surge as Taiwan, Malaysia emerge as high-value destinations</span></td>
+  <td class="col-summary">South Korea's exports of the customs category that carries high-bandwidth memory (HBM) are no longer a two-destination story. Unit-value data show that the chips going to Taiwan and Malaysia are worth several times more per kilogram than those shipped to Hong Kong, China, or Vietnam. That points to a two-tier trade, wi</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260924VL201/exports-taiwan-hbm-packaging-data.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Weekly news roundup: China gains ground in memory and AI hardware as supply stays tight</span></td>
+  <td class="col-summary">China's AI sector is shifting from catch-up to commercialization, with value concentrating in hardware bottlenecks and large platforms rather than independent model labs. Across memory, DRAM and NAND shortages, HBM reallocation and rising Chinese capacity are reshaping pricing and share gains for CXMT and YMTC. Taiwan </td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260928VL200/2026-dram-cxmt-hardware-packaging.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Trump confirms meeting with Anthropic's Amodei, repeats dismissal of AI fears Trump confirms meeting with Anthropic's Amodei, repeats dismissal of AI fears AI Read 2 CNA Commentary: Dystopia, Inc - would you like your news with or without hallucinations? AI rarely pays for the expensively-produced professional journalism it hoovers up, says AFP Global News Director Phil Chetwynd on World News Day (Sep 28). AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 27, 2026</title><link href="https://asiatechfeed.com/2026/09/27/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 27, 2026" /><published>2026-09-27T08:00:43+00:00</published><updated>2026-09-27T08:00:43+00:00</updated><id>https://asiatechfeed.com/2026/09/27/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/27/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA More than S$1 million worth of drugs seized following initial detection at Tuas Checkpoint Two men, a Malaysian and a Singaporean, were arrested. Pharmaceutical Read 2 TechAsia Hyundai Engineering lands $644m AI data center deal KT Cloud, a South Korea-based cloud services provider, will manage the uninterruptible power supply, batteries, and automated controls. AI Read 3 TechAsia The AI race looks very different in China Senior editor Scott Shuey went to China last week expecting to see an AI sector racing to close the gap with the US. What he saw was more interesting. AI Read 4 TechAsia Who’s investing in India’s biotech startups? We've compiled a list of investors pouring money into India’s biotech startups. Biotechnology Read 5 DigiTimes Column: For physical AI, maps are turning into memory A robot that can map a factory floor still cannot necessarily find the box it has been asked to move, or remember what it saw on its last visit. For autonomous robots, building the map is increasingly just the beginning. What comes next — searching for objects, navigating to specified locations, remembering what the ro Automation Read 6 DigiTimes South Korea's HBM-linked exports surge as Taiwan, Malaysia emerge as high-value destinations South Korea's exports of the customs category that carries high-bandwidth memory (HBM) are no longer a two-destination story. Unit-value data show that the chips going to Taiwan and Malaysia are worth several times more per kilogram than those shipped to Hong Kong, China, or Vietnam. That points to a two-tier trade, wi Semiconductor Read 7 DigiTimes Weekly news roundup: China gains ground in memory and AI hardware as supply stays tight China's AI sector is shifting from catch-up to commercialization, with value concentrating in hardware bottlenecks and large platforms rather than independent model labs. Across memory, DRAM and NAND shortages, HBM reallocation and rising Chinese capacity are reshaping pricing and share gains for CXMT and YMTC. Taiwan AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 27, 2026</title><link href="https://asiatechfeed.com/2026/09/27/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 27, 2026" /><published>2026-09-27T08:00:43+00:00</published><updated>2026-09-27T08:00:43+00:00</updated><id>https://asiatechfeed.com/2026/09/27/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/27/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
