@@ -2,35 +2,36 @@
   "date": "2026-09-28",
   "count": 5,
   "sources": [
+    "CNA",
     "DigiTimes",
     "TechAsia"
   ],
   "post_file": "2026-09-28-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Why this founder killed his AI startup despite early success",
+      "title": "Flipkart Ventures backs AI startups Alive, Keploy",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/founder-killed-startup-early-success"
+      "url": "https://www.techinasia.com/peak-xv-backs-ai-concierge-startup-m-in-11m-seed-round"
     },
     {
-      "title": "Apple keeps iPhone Duo in China, exposing limits of India's phone supply chain",
+      "title": "Singapore semiconductor industry commits over S$500m to R&D as global chip race intensifies",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/semiconductor-chips-industry-research-development-6410456"
+    },
+    {
+      "title": "Beyond ASML: China rethinks EUV race with light-source strategy",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260924VL202/apple-iphone-supply-chain-foldable-manufacturing.html"
+      "url": "https://www.digitimes.com/news/a20260924VL217/euv-asml-efficiency-metrology-laser.html"
     },
     {
-      "title": "Meta's Muse faces security scrutiny over macOS zero-day, human-agent test",
+      "title": "India roundup: India's tech ambitions widen from electronics manufacturing to chips, cloud and talent",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260924VL211/meta-security-data.html"
+      "url": "https://www.digitimes.com/news/a20260924VL218/manufacturing-electronics-talent-technology-infrastructure.html"
     },
     {
-      "title": "China's Micro Han Xin code takes aim at Data Matrix in semiconductor traceability",
+      "title": "Keysight pushes design-to-deployment standard for AI cluster validation",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260924VL213/manufacturing-production-chips-packaging-equipment.html"
-    },
-    {
-      "title": "China weighs Nvidia chip purchases by ByteDance, Alibaba",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-dmatrix-team-nextgen-ai-inference-chips"
+      "url": "https://www.digitimes.com/news/a20260924PD225/ai-applications-testing-keysight-design-communications.html"
     }
   ],
   "source_stats": [
@@ -49,7 +50,7 @@
       "fetched": 20,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -155,7 +156,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 21,
+      "relevant": 20,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -164,7 +165,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 6,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -191,9 +192,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 17,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
