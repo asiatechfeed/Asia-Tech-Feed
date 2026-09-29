@@ -1,39 +1,36 @@
 {
   "date": "2026-09-29",
-  "count": 14,
+  "count": 6,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-09-29-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Solidigm weighs US IPO as AI storage demand lifts valuation",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260929PD232/solidigm-sk-hynix-demand-data-2026.html"
-    },
-    {
-      "title": "Fidelity leads $150m round for US AI chip startup SiMa.ai",
+      "title": "Atlassian CEO on AI teams: why uniform goals destroy ROI",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+      "url": "https://www.techinasia.com/atlassian-ceo-ai-teams-uniform-goals-destroy-roi"
     },
     {
-      "title": "Samsung Electro-Mechanics to invest US$5 billion in ABF substrate expansion",
+      "title": "Siemens, TSMC expand work on AI-powered chip design",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/huawei-supplier-sicarriers-unit-launches-chip-design-tools"
+    },
+    {
+      "title": "How this AI bot closes sales for service firms within 5 minutes",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/ai-bot-closes-sales-service-firms-5-minutes"
+    },
+    {
+      "title": "Cerebras to power Gimlet's push for faster AI inference",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260929PD231/semco-abf-substrate-nvidia-capacity-production.html"
+      "url": "https://www.digitimes.com/news/a20260929VL205/cerebras-ai-inference-infrastructure-demand-partnership.html"
     },
     {
-      "title": "Man charged over AI-generated image of crocodile that led to search operations at Pandan Reservoir",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/ai-generated-crocodile-image-pandan-reservoir-man-charged-6417156"
-    },
-    {
-      "title": "US, China eye US$60 billion in tariff relief, but chips stay off the table",
+      "title": "Column: Why Micron's US$250M venture fund is about more than HBM margins\u2014Taiwan has a stake in it",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260929VL204/chips-technology-semiconductors.html"
+      "url": "https://www.digitimes.com/news/a20260929PD229/micron-taiwan-manufacturing-2026-technology.html"
     }
   ],
   "source_stats": [
@@ -50,9 +47,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -151,14 +148,14 @@
       "fetched": 10,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 41,
-      "relevant": 31,
+      "fetched": 48,
+      "relevant": 37,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +166,7 @@
       "fetched": 50,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +191,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 13,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
