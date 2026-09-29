@@ -1,4 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-28T08:01:22+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 28, 2026</title><link href="https://asiatechfeed.com/2026/09/28/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 28, 2026" /><published>2026-09-28T08:00:48+00:00</published><updated>2026-09-28T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/09/28/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/28/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-09-29T00:01:50+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - September 29, 2026</title><link href="https://asiatechfeed.com/2026/09/29/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 29, 2026" /><published>2026-09-29T00:00:37+00:00</published><updated>2026-09-29T00:00:37+00:00</updated><id>https://asiatechfeed.com/2026/09/29/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/29/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Anthropic's path from AI startup to industry-defining IPO</span></td>
+  <td class="col-summary">Anthropic's path from AI startup to industry-defining IPO</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/anthropics-path-ai-startup-industry-defining-ipo-6416996" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Singapore Launches SG Semiconductor to Strengthen Chip Ecosystem</span></td>
+  <td class="col-summary">SG Semiconductor links R&amp;D and manufacturing in Singapore's chip ecosystem. The post Singapore Launches SG Semiconductor to Strengthen Chip Ecosystem appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/singapore-launches-sg-semiconductor-to-strengthen-chip-ecosystem/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Australia's Megaport wins $687 million AI infrastructure deals, raises 2027 earnings forecast</span></td>
+  <td class="col-summary">Australia's Megaport wins $687 million AI infrastructure deals, raises 2027 earnings forecast</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/australias-megaport-wins-687-million-ai-infrastructure-deals-raises-2027-earnings-forecast-6416976" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Blade Hydrogen Green Technology targets waste hydrogen power for AIDC</span></td>
+  <td class="col-summary">As electricity demand from AI data centers and the semiconductor industry climbs rapidly, Blade Hydrogen Green Technology is tapping industrial byproduct hydrogen and mixed-hydrogen fuel cell technology to turn waste hydrogen into power and support low-carbon electricity supplies for AI data centers (AIDCs) and other s</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260924PD211/electricity-blade-hydrogen-aidc-data-demand.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Column: Beyond Zero Trust – why AI supply chain resilience needs a plan B</span></td>
+  <td class="col-summary">Artificial intelligence is rapidly entering enterprise operations, blurring the lines between cybersecurity and supply chain management. In the AI era, Zero Trust is no longer only about who can access a system. Enterprises must also ask whom and what they depend on, how concentrated those dependencies are, and what ha</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260924PD209/supply-chain-management-cybersecurity-data-security.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwan PCB output hits record high on AI demand, putting NT$1 trillion year within reach</span></td>
+  <td class="col-summary">AI server, high-speed networking, and memory demand continued to lift Taiwan's PCB industry in the second quarter of 2026, boosting demand for substrates, high-layer-count boards, and HDI products. Tight supplies of advanced materials and rising raw-material costs also pushed PCB prices higher quarter by quarter.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260924PD230/pcb-demand-taiwan-ai-server-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Exclusive-Anthropic's IPO prospectus shows sweeping AI vision, surging costs</span></td>
+  <td class="col-summary">Exclusive-Anthropic's IPO prospectus shows sweeping AI vision, surging costs</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/exclusive-anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-6416961" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Microchip Targets 48V Systems with Energy-aware Power Monitors</span></td>
+  <td class="col-summary">Microchip's new 65V monitors combine transient protection with accumulated energy measurement for 48V power architectures. The post Microchip Targets 48V Systems with Energy-aware Power Monitors appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/microchip-targets-48v-systems-with-energy-aware-power-monitors/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">EW</span></td>
+  <td class="col-title"><span class="article-title">Q2 slowdown reports BEAMA</span></td>
+  <td class="col-summary">UK electrical manufacturers reported a sharp sales slowdown in Q2 2026, according to BEAMA’s latest Market Pulse. Four in ten (40.7%) manufacturers reported operating at 70% capacity or below, while […] The post Q2 slowdown reports BEAMA appeared first on Electronics Weekly .</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/q2-slowdown-reports-beama-2026-09/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan's Resonac develops large wafers that can yield 4 times as many chips</span></td>
+  <td class="col-summary">Japan's Resonac develops large wafers that can yield 4 times as many chips</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/japan-s-resonac-develops-large-wafers-that-can-yield-4-times-as-many-chips" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Kawasaki Heavy's hospital robots save 2,700 hours of work in Japan</span></td>
+  <td class="col-summary">Kawasaki Heavy's hospital robots save 2,700 hours of work in Japan</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/health-care/kawasaki-heavy-s-hospital-robots-save-2-700-hours-of-work-in-japan" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Half of new US-approved drugs remain unavailable to Japanese patients</span></td>
+  <td class="col-summary">Half of new US-approved drugs remain unavailable to Japanese patients</td>
+  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/pharmaceuticals/half-of-new-us-approved-drugs-remain-unavailable-to-japanese-patients" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Anthropic's path from AI startup to industry-defining IPO Anthropic's path from AI startup to industry-defining IPO AI Read 2 EETAsia Singapore Launches SG Semiconductor to Strengthen Chip Ecosystem SG Semiconductor links R&amp;D and manufacturing in Singapore's chip ecosystem. The post Singapore Launches SG Semiconductor to Strengthen Chip Ecosystem appeared first on EE Times Asia . Semiconductor Read 3 CNA Australia's Megaport wins $687 million AI infrastructure deals, raises 2027 earnings forecast Australia's Megaport wins $687 million AI infrastructure deals, raises 2027 earnings forecast AI Read 4 DigiTimes Blade Hydrogen Green Technology targets waste hydrogen power for AIDC As electricity demand from AI data centers and the semiconductor industry climbs rapidly, Blade Hydrogen Green Technology is tapping industrial byproduct hydrogen and mixed-hydrogen fuel cell technology to turn waste hydrogen into power and support low-carbon electricity supplies for AI data centers (AIDCs) and other s SemiconductorAI Read 5 DigiTimes Column: Beyond Zero Trust – why AI supply chain resilience needs a plan B Artificial intelligence is rapidly entering enterprise operations, blurring the lines between cybersecurity and supply chain management. In the AI era, Zero Trust is no longer only about who can access a system. Enterprises must also ask whom and what they depend on, how concentrated those dependencies are, and what ha AILogistics Read 6 DigiTimes Taiwan PCB output hits record high on AI demand, putting NT$1 trillion year within reach AI server, high-speed networking, and memory demand continued to lift Taiwan's PCB industry in the second quarter of 2026, boosting demand for substrates, high-layer-count boards, and HDI products. Tight supplies of advanced materials and rising raw-material costs also pushed PCB prices higher quarter by quarter. AIElectronics Read 7 CNA Exclusive-Anthropic's IPO prospectus shows sweeping AI vision, surging costs Exclusive-Anthropic's IPO prospectus shows sweeping AI vision, surging costs AI Read 8 EETAsia Microchip Targets 48V Systems with Energy-aware Power Monitors Microchip's new 65V monitors combine transient protection with accumulated energy measurement for 48V power architectures. The post Microchip Targets 48V Systems with Energy-aware Power Monitors appeared first on EE Times Asia . Semiconductor Read 9 EW Q2 slowdown reports BEAMA UK electrical manufacturers reported a sharp sales slowdown in Q2 2026, according to BEAMA’s latest Market Pulse. Four in ten (40.7%) manufacturers reported operating at 70% capacity or below, while […] The post Q2 slowdown reports BEAMA appeared first on Electronics Weekly . Electronics Read 10 NikkeiAsia Japan's Resonac develops large wafers that can yield 4 times as many chips Japan's Resonac develops large wafers that can yield 4 times as many chips Semiconductor Read 11 NikkeiAsia Kawasaki Heavy's hospital robots save 2,700 hours of work in Japan Kawasaki Heavy's hospital robots save 2,700 hours of work in Japan Automation Read 12 NikkeiAsia Half of new US-approved drugs remain unavailable to Japanese patients Half of new US-approved drugs remain unavailable to Japanese patients Pharmaceutical Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 28, 2026</title><link href="https://asiatechfeed.com/2026/09/28/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 28, 2026" /><published>2026-09-28T08:00:48+00:00</published><updated>2026-09-28T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/09/28/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/28/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -611,65 +720,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/asia-s-ai-adoption-outpaces-perception-says-google-executive" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Wiwynn brings cobots to L10 server assembly as AI rack testing drives factory redesign Wiwynn is introducing collaborative robots (cobots) at its El Paso, Texas, facility and third plant in Mexico, alongside a central heat exchange system designed to support liquid-cooled server rack testing. The upgrades reflect the company's efforts to modernize manufacturing as AI servers become more complex and deman AIAutomation Read 2 DigiTimes CoreWeave launches US$3 billion bond sale amid growing revenue, debt CoreWeave launched a debt sale worth US$3 billion in convertible bonds, which would allow buyers to turn their bonds into shares. The neocloud, which has sharply ramped up its infrastructure spending over the past year, has secured a growing customer base but faces concerns over financial sustainability amid intense co AI Read 3 DigiTimes High-end GPUs may be slowing China's AI compute expansion China's wide gap in token costs stems largely from domestic companies' difficulty in accessing Nvidia high-end GPUs, forcing them to squeeze more value from each token to recoup costs. But supply-chain sources say the scale of China and US AI compute investment may actually be roughly comparable, despite US hyperscaler AI Read 4 NikkeiAsia Asia's AI adoption outpaces perception, says Google executive Asia's AI adoption outpaces perception, says Google executive AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 19, 2026</title><link href="https://asiatechfeed.com/2026/09/19/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 19, 2026" /><published>2026-09-19T08:00:49+00:00</published><updated>2026-09-19T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/09/19/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/19/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SK hynix weighs US NAND chip plant through Solidigm</span></td>
-  <td class="col-summary">SK Hynix acquired California-based Solidigm from Intel to run its storage business.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-hynix-weighs-investor-3b-china-chip-site" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Nvidia commits $2b to Brookfield’s AI infrastructure fund</span></td>
-  <td class="col-summary">Brookfield is targeting US$10 billion for AI factories, power systems, and compute infrastructure.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidiabacked-lambda-lands-1b-private-debt-deal" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">AI after the hype</span></td>
-  <td class="col-summary">D-robotics, Barq, Tabby, and more raised funds this week.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-after-the-hype" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Ventec invests NT$1.5 billion in Kunshan expansion for AI, HDI orders</span></td>
-  <td class="col-summary">Copper-clad laminate (CCL) manufacturer Ventec International Group has approved an expansion budget of NT$1.5 billion (approx. US$47.11 million) to lease and convert an idle factory in Kunshan, Jiangsu Province, China, as it moves to capture spillover demand for artificial intelligence (AI) and high-density interconnec</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260917PD235/expansion-ccl-ventec-kunshan-laminate.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Compal takes Compal Broadband Networks private to fold networking into its edge AI stack</span></td>
-  <td class="col-summary">Compal Electronics is buying out the shares of its listed networking arm, Compal Broadband Networks (CBN), in a cash deal that will end CBN's public listing and give Compal full control of a router and gateway business it wants to pair with its edge AI hardware.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260919PD201/compal-compal-broadband-business-wireless-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Solidigm weighs first US NAND fab, explores upstate New York</span></td>
-  <td class="col-summary">Solidigm, the US NAND flash subsidiary of SK Hynix, is considering building its first NAND manufacturing plant in the US, with upstate New York emerging as a leading candidate.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260918VL223/solidigm-nand-sk-hynix-manufacturing-fab.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia SK hynix weighs US NAND chip plant through Solidigm SK Hynix acquired California-based Solidigm from Intel to run its storage business. Semiconductor Read 2 TechAsia Nvidia commits $2b to Brookfield’s AI infrastructure fund Brookfield is targeting US$10 billion for AI factories, power systems, and compute infrastructure. AI Read 3 TechAsia AI after the hype D-robotics, Barq, Tabby, and more raised funds this week. Automation Read 4 DigiTimes Ventec invests NT$1.5 billion in Kunshan expansion for AI, HDI orders Copper-clad laminate (CCL) manufacturer Ventec International Group has approved an expansion budget of NT$1.5 billion (approx. US$47.11 million) to lease and convert an idle factory in Kunshan, Jiangsu Province, China, as it moves to capture spillover demand for artificial intelligence (AI) and high-density interconnec AI Read 5 DigiTimes Compal takes Compal Broadband Networks private to fold networking into its edge AI stack Compal Electronics is buying out the shares of its listed networking arm, Compal Broadband Networks (CBN), in a cash deal that will end CBN's public listing and give Compal full control of a router and gateway business it wants to pair with its edge AI hardware. ElectronicsAI Read 6 DigiTimes Solidigm weighs first US NAND fab, explores upstate New York Solidigm, the US NAND flash subsidiary of SK Hynix, is considering building its first NAND manufacturing plant in the US, with upstate New York emerging as a leading candidate. Semiconductor Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Wiwynn brings cobots to L10 server assembly as AI rack testing drives factory redesign Wiwynn is introducing collaborative robots (cobots) at its El Paso, Texas, facility and third plant in Mexico, alongside a central heat exchange system designed to support liquid-cooled server rack testing. The upgrades reflect the company's efforts to modernize manufacturing as AI servers become more complex and deman AIAutomation Read 2 DigiTimes CoreWeave launches US$3 billion bond sale amid growing revenue, debt CoreWeave launched a debt sale worth US$3 billion in convertible bonds, which would allow buyers to turn their bonds into shares. The neocloud, which has sharply ramped up its infrastructure spending over the past year, has secured a growing customer base but faces concerns over financial sustainability amid intense co AI Read 3 DigiTimes High-end GPUs may be slowing China's AI compute expansion China's wide gap in token costs stems largely from domestic companies' difficulty in accessing Nvidia high-end GPUs, forcing them to squeeze more value from each token to recoup costs. But supply-chain sources say the scale of China and US AI compute investment may actually be roughly comparable, despite US hyperscaler AI Read 4 NikkeiAsia Asia's AI adoption outpaces perception, says Google executive Asia's AI adoption outpaces perception, says Google executive AI Read]]></summary></entry></feed>
