@@ -1,39 +1,39 @@
 {
   "date": "2026-09-29",
-  "count": 12,
+  "count": 14,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "EW",
-    "NikkeiAsia"
+    "NikkeiAsia",
+    "TechAsia"
   ],
   "post_file": "2026-09-29-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Anthropic's path from AI startup to industry-defining IPO",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/anthropics-path-ai-startup-industry-defining-ipo-6416996"
-    },
-    {
-      "title": "Singapore Launches SG Semiconductor to Strengthen Chip Ecosystem",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/singapore-launches-sg-semiconductor-to-strengthen-chip-ecosystem/"
-    },
-    {
-      "title": "Australia's Megaport wins $687 million AI infrastructure deals, raises 2027 earnings forecast",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/australias-megaport-wins-687-million-ai-infrastructure-deals-raises-2027-earnings-forecast-6416976"
-    },
-    {
-      "title": "Blade Hydrogen Green Technology targets waste hydrogen power for AIDC",
+      "title": "Solidigm weighs US IPO as AI storage demand lifts valuation",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260924PD211/electricity-blade-hydrogen-aidc-data-demand.html"
+      "url": "https://www.digitimes.com/news/a20260929PD232/solidigm-sk-hynix-demand-data-2026.html"
     },
     {
-      "title": "Column: Beyond Zero Trust \u2013 why AI supply chain resilience needs a plan B",
+      "title": "Fidelity leads $150m round for US AI chip startup SiMa.ai",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+    },
+    {
+      "title": "Samsung Electro-Mechanics to invest US$5 billion in ABF substrate expansion",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260924PD209/supply-chain-management-cybersecurity-data-security.html"
+      "url": "https://www.digitimes.com/news/a20260929PD231/semco-abf-substrate-nvidia-capacity-production.html"
+    },
+    {
+      "title": "Man charged over AI-generated image of crocodile that led to search operations at Pandan Reservoir",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/ai-generated-crocodile-image-pandan-reservoir-man-charged-6417156"
+    },
+    {
+      "title": "US, China eye US$60 billion in tariff relief, but chips stay off the table",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260929VL204/chips-technology-semiconductors.html"
     }
   ],
   "source_stats": [
@@ -50,7 +50,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 7,
+      "relevant": 3,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -130,10 +130,10 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
-      "relevant": 1,
+      "fetched": 0,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -149,7 +149,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 2,
+      "relevant": 4,
       "sponsored_skipped": 0,
       "published": 2,
       "error": null
@@ -157,8 +157,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 26,
+      "fetched": 41,
+      "relevant": 31,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +167,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 9,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -193,10 +193,10 @@
     {
       "source": "TechAsia",
       "name": "Tech in Asia",
-      "fetched": 0,
-      "relevant": 0,
+      "fetched": 36,
+      "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
