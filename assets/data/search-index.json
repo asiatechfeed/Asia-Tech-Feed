@@ -1,158 +1,92 @@
 [
   {
     "date": "2026-09-30",
-    "title": "Google Gemini, Antom offer free AI Plus trials in Indonesia",
-    "summary": "The initiative has reached about 10 million users since its July debut.",
+    "title": "OpenAI warns building for today will cause technical debt",
+    "summary": "OpenAI's Tara Seshan and Nan Yu share why AI teams need shorter planning horizons, rapid prototyping, and real user feedback.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/google-launches-gemini-38-live-voice-ai-models"
+    "url": "https://www.techinasia.com/openai-warns-building-today-technical-debt"
   },
   {
     "date": "2026-09-30",
-    "title": "DeepSeek brings software tools to Huawei's Ascend 950 to take on Nvidia",
-    "summary": "DeepSeek is bringing more of the software used to develop its AI models to Huawei Technologies' Ascend 950 processors, deepening cooperation as Chinese technology companies seek to reduce reliance on Nvidia's hardware and CUDA software ecosystem.",
+    "title": "Tatung pivots to AI infrastructure integration",
+    "summary": "Amid continued debate over AI, demand for computing power keeps climbing. Tatung Co. on September 30 unveiled its AI infrastructure solution, \"TTG AIDC CUBE,\" at a launch event titled \"Power Ready for AI,\" aiming to bring computing capacity online within 180 days.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260930VL214/deepseek-ascend-software-huawei-nvidia.html"
+    "url": "https://www.digitimes.com/news/a20260930PD234/tatung-infrastructure-demand-cooling-aidc.html"
   },
   {
     "date": "2026-09-30",
-    "title": "VSMC bets on value over cost as Singapore fab builds next-generation R&D and IP capabilities",
-    "summary": "VisionPower Semiconductor Manufacturing Company (VSMC), the joint venture between Vanguard International Semiconductor (VIS) and NXP Semiconductors, opened its 12-inch wafer fab in Tampines, Singapore, on September 28.",
+    "title": "Jensen Huang, Lisa Su join Tsinghua University advisory board, putting AI chip leaders closer to Beijing",
+    "summary": "Nvidia founder and CEO Jensen Huang and AMD chair and CEO Lisa Su have joined the advisory board of Tsinghua University's School of Economics and Management (SEM), putting two of the global AI chip industry's most prominent executives on the Beijing-based body.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
+      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260930PD212/singapore-fab-cost-nxp-vis-joint-venture.html"
+    "url": "https://www.digitimes.com/news/a20260930VL209/jensen-huang-lisa-su-ai-chip-academia-beijing.html"
   },
   {
     "date": "2026-09-30",
-    "title": "CXMT's US$5.2 billion buildout deepens China's push for domestic DRAM equipment",
-    "summary": "China's largest dynamic random-access memory (DRAM) maker ChangXin Memory Technologies (CXMT) is accelerating a CNY34.9 billion (US$5.2 billion) expansion aimed at chipmaking equipment, in-house testing and tighter control of its memory supply chain.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260930VL212/dram-cxmt-equipment-testing-capacity.html"
-  },
-  {
-    "date": "2026-09-30",
-    "title": "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia",
-    "summary": "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia",
+    "title": "Asia travel demand stays resilient despite Middle East conflict, volatile airfares: Skyscanner CEO",
+    "summary": "Artificial intelligence is changing how travellers plan their trips and challenging traditional travel search platforms, Skyscanner CEO Bryan Batista tells CNA’s Elizabeth Neo.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/deepseek-partners-huawei-develop-chip-programming-tools-reducing-reliance-nvidia-6420286"
+    "url": "https://www.channelnewsasia.com/asia/asia-travel-demand-resilient-despite-middle-east-conflict-volatile-airfares-skyscanner-ceo-6420636"
   },
   {
     "date": "2026-09-30",
-    "title": "Microchip Enables Scalable Edge Connectivity with Expand Single Pair Ethernet Portfolio",
-    "summary": "Microchip's latest devices support next-gen zonal architectures, delivering flexible, space-efficient connectivity that extends Ethernet to the network edge. The post Microchip Enables Scalable Edge Connectivity with Expand Single Pair Ethernet Portfolio appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "NSIG chair exit brings leadership succession into focus",
+    "summary": "National Silicon Industry Group (NSIG) chairman Haitao Jiang has resigned from all positions at the company, prompting the Shanghai-listed semiconductor materials supplier to begin a leadership transition.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/microchip-enables-scalable-edge-connectivity-with-expand-single-pair-ethernet-portfolio/"
+    "url": "https://www.digitimes.com/news/a20260930VL217/nsig-chairman-materials-wafer-supplier.html"
   },
   {
     "date": "2026-09-30",
-    "title": "Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification",
-    "summary": "Startup combines AI-based design and verification with internal tools to accelerate complex ASIC development from concept to silicon. The post Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.eetasia.com/architect-labs-targets-two-week-chip-design-cycle-with-ai-driven-verification/"
-  },
-  {
-    "date": "2026-09-30",
-    "title": "1L milkshakes for breakfast? How Desmond Tan gained 15kg for his role in the movie Pace",
-    "summary": "He stars as a rehabilitated drug addict in the new movie. HIs recipe for rapid weight gain? Full cream milkshakes, and double portions of nasi lemak and char kway teow.",
+    "title": "Thieves swipe drugs under nose of Fiji police, swap with flour",
+    "summary": "Thieves swipe drugs under nose of Fiji police, swap with flour",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "Pharmaceutical"
     ],
-    "url": "https://www.channelnewsasia.com/entertainment/desmond-tan-weight-gain-movie-pace-6417626"
+    "url": "https://www.channelnewsasia.com/world/fiji-police-thieves-drugs-swap-flour-6420331"
   },
   {
     "date": "2026-09-30",
-    "title": "Synopsys, TSMC Extend EDA and IP Enablement for Advanced AI Designs",
-    "summary": "Synopsys and TSMC expand AI-driven EDA, advanced packaging and silicon-proven IP for next-generation AI systems. The post Synopsys, TSMC Extend EDA and IP Enablement for Advanced AI Designs appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "Scalable high-density 2A LXI matrix for changing test requirements",
+    "summary": "Pickering Interfaces of Clacton-on-Sea has introduced the 65-217, a modular 2A Ethernet-controlled LXI matrix that lets test engineers expand system capacity as requirements change. Designed for the 65-200 scalable LXI […] The post Scalable high-density 2A LXI matrix for changing test requirements appeared first on Ele",
+    "source": "Electronics Weekly",
+    "short": "EW",
     "tags": [
-      "AI"
+      "Electronics"
     ],
-    "url": "https://www.eetasia.com/synopsys-tsmc-extend-eda-and-ip-enablement-for-advanced-ai-designs/"
+    "url": "https://www.electronicsweekly.com/news/business/pickering-interfaces-2026-09/"
   },
   {
     "date": "2026-09-30",
-    "title": "Can Meta charm you away from your phone?",
-    "summary": "Meta charms its way in the AI race. Also: Anthropic’s IPO prospectus, retailers’ AI shopping dilemma, and looking past DeepSeek’s cheap price tag.",
+    "title": "OpenAI unveils Dots AI assistant for background tasks",
+    "summary": "Dots can be reached through Slack and Teams, with text messaging support planned.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/meta-charm-phone"
-  },
-  {
-    "date": "2026-09-30",
-    "title": "ChatGPT maker wants to be the App Store for AI as safety concerns grow",
-    "summary": "ChatGPT maker wants to be the App Store for AI as safety concerns grow",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/world/openai-chatgpt-app-store-ai-safety-concerns-6420126"
-  },
-  {
-    "date": "2026-09-30",
-    "title": "Tesla lines up $30b credit as AI spending accelerates",
-    "summary": "Tesla had no borrowings under the facilities and does not plan to draw on them in 2026.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/tesla-chinamade-ev-sales-rise-394"
-  },
-  {
-    "date": "2026-09-30",
-    "title": "AI boom drives robot makers Fanuc, Yaskawa to step up shift from China to US",
-    "summary": "AI boom drives robot makers Fanuc, Yaskawa to step up shift from China to US",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Automation"
-    ],
-    "url": "https://asia.nikkei.com/business/business-trends/ai-boom-drives-robot-makers-fanuc-yaskawa-to-step-up-shift-from-china-to-us2"
-  },
-  {
-    "date": "2026-09-30",
-    "title": "South Korea's Lee orders officials to accelerate $589bn AI hub plans",
-    "summary": "South Korea's Lee orders officials to accelerate $589bn AI hub plans",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/politics/south-korea-s-lee-orders-officials-to-accelerate-589bn-ai-hub-plans"
+    "url": "https://www.techinasia.com/openai-introduces-astra-law-legal-ai-tool"
   },
   {
     "date": "2026-09-29",

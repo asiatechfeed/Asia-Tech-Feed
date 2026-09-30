@@ -1,39 +1,38 @@
 {
   "date": "2026-09-30",
-  "count": 14,
+  "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
-    "NikkeiAsia",
+    "EW",
     "TechAsia"
   ],
   "post_file": "2026-09-30-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Google Gemini, Antom offer free AI Plus trials in Indonesia",
+      "title": "OpenAI warns building for today will cause technical debt",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/google-launches-gemini-38-live-voice-ai-models"
+      "url": "https://www.techinasia.com/openai-warns-building-today-technical-debt"
     },
     {
-      "title": "DeepSeek brings software tools to Huawei's Ascend 950 to take on Nvidia",
+      "title": "Tatung pivots to AI infrastructure integration",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260930VL214/deepseek-ascend-software-huawei-nvidia.html"
+      "url": "https://www.digitimes.com/news/a20260930PD234/tatung-infrastructure-demand-cooling-aidc.html"
     },
     {
-      "title": "VSMC bets on value over cost as Singapore fab builds next-generation R&D and IP capabilities",
+      "title": "Jensen Huang, Lisa Su join Tsinghua University advisory board, putting AI chip leaders closer to Beijing",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260930PD212/singapore-fab-cost-nxp-vis-joint-venture.html"
+      "url": "https://www.digitimes.com/news/a20260930VL209/jensen-huang-lisa-su-ai-chip-academia-beijing.html"
     },
     {
-      "title": "CXMT's US$5.2 billion buildout deepens China's push for domestic DRAM equipment",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260930VL212/dram-cxmt-equipment-testing-capacity.html"
-    },
-    {
-      "title": "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia",
+      "title": "Asia travel demand stays resilient despite Middle East conflict, volatile airfares: Skyscanner CEO",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/deepseek-partners-huawei-develop-chip-programming-tools-reducing-reliance-nvidia-6420286"
+      "url": "https://www.channelnewsasia.com/asia/asia-travel-demand-resilient-despite-middle-east-conflict-volatile-airfares-skyscanner-ceo-6420636"
+    },
+    {
+      "title": "NSIG chair exit brings leadership succession into focus",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260930VL217/nsig-chairman-materials-wafer-supplier.html"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -133,7 +132,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -151,14 +150,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 51,
-      "relevant": 33,
+      "fetched": 57,
+      "relevant": 38,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 10,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -194,9 +193,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
