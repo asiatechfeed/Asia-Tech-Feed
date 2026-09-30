@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Asia Tech News Digest - September 30, 2026"
-date: 2026-09-30 08:02:43 +0800
-articles_count: 15
-sources_count: 6
-sources: ["CNA", "DigiTimes", "EETAsia", "EW", "NikkeiAsia", "TechAsia"]
+date: 2026-09-30 13:13:58 +0800
+articles_count: 14
+sources_count: 5
+sources: ["CNA", "DigiTimes", "EETAsia", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-09-30.tsv
-featured_title: "These are Asia\u2019s most active investors in AI"
-featured_url: "https://www.techinasia.com/these-are-asias-most-active-investors-in-ai"
+featured_title: "Google Gemini, Antom offer free AI Plus trials in Indonesia"
+featured_url: "https://www.techinasia.com/google-launches-gemini-38-live-voice-ai-models"
 featured_source: "TechAsia"
-featured_summary: "We've compiled a list of investors that are pouring money into Asia\u2019s AI startups."
+featured_summary: "The initiative has reached about 10 million users since its July debut."
 featured_image: ""
 ---
 
@@ -28,122 +28,114 @@ featured_image: ""
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">These are Asia’s most active investors in AI</span></td>
-  <td class="col-summary">We've compiled a list of investors that are pouring money into Asia’s AI startups.</td>
+  <td class="col-title"><span class="article-title">Google Gemini, Antom offer free AI Plus trials in Indonesia</span></td>
+  <td class="col-summary">The initiative has reached about 10 million users since its July debut.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/these-are-asias-most-active-investors-in-ai" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/google-launches-gemini-38-live-voice-ai-models" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">CoWoS-L to Remain Leading AI Chip Packaging Technology Through 2028</span></td>
-  <td class="col-summary">Growing AI chip sizes are pushing advanced packaging beyond reticle limits, increasing adoption of CoWoS-L and competing EMIB technologies. The post CoWoS-L to Remain Leading AI Chip Packaging Technology Through 2028 appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/cowos-l-to-remain-leading-ai-chip-packaging-technology-through-2028/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">DeepSeek brings software tools to Huawei's Ascend 950 to take on Nvidia</span></td>
+  <td class="col-summary">DeepSeek is bringing more of the software used to develop its AI models to Huawei Technologies' Ascend 950 processors, deepening cooperation as Chinese technology companies seek to reduce reliance on Nvidia's hardware and CUDA software ecosystem.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260930VL214/deepseek-ascend-software-huawei-nvidia.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">PATEO, Arm Expand Collaboration on Physical AI for Vehicles</span></td>
-  <td class="col-summary">PATEO and Arm will explore automotive physical AI applications spanning perception, interaction, computing and intelligent vehicle workloads. The post PATEO, Arm Expand Collaboration on Physical AI for Vehicles appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/pateo-arm-expand-collaboration-on-physical-ai-for-vehicles/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">VSMC bets on value over cost as Singapore fab builds next-generation R&D and IP capabilities</span></td>
+  <td class="col-summary">VisionPower Semiconductor Manufacturing Company (VSMC), the joint venture between Vanguard International Semiconductor (VIS) and NXP Semiconductors, opened its 12-inch wafer fab in Tampines, Singapore, on September 28.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260930PD212/singapore-fab-cost-nxp-vis-joint-venture.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Trump releases AI accord with tech executives</span></td>
-  <td class="col-summary">Trump releases AI accord with tech executives</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/trump-releases-ai-accord-tech-executives-6419886" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">CXMT's US$5.2 billion buildout deepens China's push for domestic DRAM equipment</span></td>
+  <td class="col-summary">China's largest dynamic random-access memory (DRAM) maker ChangXin Memory Technologies (CXMT) is accelerating a CNY34.9 billion (US$5.2 billion) expansion aimed at chipmaking equipment, in-house testing and tighter control of its memory supply chain.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260930VL212/dram-cxmt-equipment-testing-capacity.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">From cameras to cars, India’s chip startups chase an edge in AI</span></td>
-  <td class="col-summary">In the second of a two-part series on India’s chipmaking ambitions, CNA looks at how homegrown startups are developing specialised AI chips for cameras, cars and other devices.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/cameras-cars-indias-chip-startups-chase-edge-in-ai-6415791" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia</span></td>
+  <td class="col-summary">DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/deepseek-partners-huawei-develop-chip-programming-tools-reducing-reliance-nvidia-6420286" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: A meeting a day keeps the robots away</span></td>
-  <td class="col-summary">Predictions that white-collar work will soon be automated reveal an underappreciation of what other people’s jobs entail, says Sarah O’Connor for Financial Times.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/ai-jobs-meeting-office-white-collar-role-6418136" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Microchip Enables Scalable Edge Connectivity with Expand Single Pair Ethernet Portfolio</span></td>
+  <td class="col-summary">Microchip's latest devices support next-gen zonal architectures, delivering flexible, space-efficient connectivity that extends Ethernet to the network edge. The post Microchip Enables Scalable Edge Connectivity with Expand Single Pair Ethernet Portfolio appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/microchip-enables-scalable-edge-connectivity-with-expand-single-pair-ethernet-portfolio/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Amazon buys NT$1.59 billion stake in one of its Taiwanese AI server suppliers</span></td>
-  <td class="col-summary">Amazon will take an equity stake in Gold Circuit Electronics (GCE), a Taiwanese maker of printed circuit boards (PCBs) for AI servers and network switches. GCE's board approved the pricing of a NT$1.589 billion private share placement on September 29, with Amazon as the buyer. According to industry observers, it is rar</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260929PD251/amazon-gce-ai-server-private-placement-taiwan.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification</span></td>
+  <td class="col-summary">Startup combines AI-based design and verification with internal tools to accelerate complex ASIC development from concept to silicon. The post Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/architect-labs-targets-two-week-chip-design-cycle-with-ai-driven-verification/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">US AI recorder startup Plaud launches in Indonesia</span></td>
-  <td class="col-summary">Plaud said the Note Pro is priced at 3.5 million rupiah (US$200) while the NotePin S costs 3.4 million rupiah (US$190).</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-anthropic-hiring-singapore" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">1L milkshakes for breakfast? How Desmond Tan gained 15kg for his role in the movie Pace</span></td>
+  <td class="col-summary">He stars as a rehabilitated drug addict in the new movie. HIs recipe for rapid weight gain? Full cream milkshakes, and double portions of nasi lemak and char kway teow.</td>
+  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/entertainment/desmond-tan-weight-gain-movie-pace-6417626" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Anthropic's US$2 trillion IPO bet comes with 80 pages of warnings</span></td>
-  <td class="col-summary">Confidential details of Anthropic's initial public offering (IPO) prospectus, reviewed by Reuters , reveal an enterprise operating at an unprecedented scale and making a historic wager that artificial intelligence will transform the global economy far more profoundly than industrialization, electricity, or the internet</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Synopsys, TSMC Extend EDA and IP Enablement for Advanced AI Designs</span></td>
+  <td class="col-summary">Synopsys and TSMC expand AI-driven EDA, advanced packaging and silicon-proven IP for next-generation AI systems. The post Synopsys, TSMC Extend EDA and IP Enablement for Advanced AI Designs appeared first on EE Times Asia .</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260929VL208/anthropic-ipo-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/synopsys-tsmc-extend-eda-and-ip-enablement-for-advanced-ai-designs/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">TrendAI expands AI agent security with Nvidia platform</span></td>
-  <td class="col-summary">Nvidia described the platform as a reference for continuous in-silicon monitoring and said it is designed to secure AI agents from testing to deployment.</td>
+  <td class="col-title"><span class="article-title">Can Meta charm you away from your phone?</span></td>
+  <td class="col-summary">Meta charms its way in the AI race. Also: Anthropic’s IPO prospectus, retailers’ AI shopping dilemma, and looking past DeepSeek’s cheap price tag.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/trendai-teams-up-with-anthropic-for-ai-security-research" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-charm-phone" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">In global semiconductor race, Singapore bets on critical, mature technologies</span></td>
-  <td class="col-summary">Amid the ongoing restructuring of the global semiconductor supply chain, Singapore is focusing on advanced packaging, heterogeneous integration, silicon photonics, and optical interconnects, aiming to leverage nearly six decades' worth of manufacturing and supply chain expertise. In contrast with industry players in Ta</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260929PD244/packaging-manufacturing-equipment-supply-chain-materials.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">ChatGPT maker wants to be the App Store for AI as safety concerns grow</span></td>
+  <td class="col-summary">ChatGPT maker wants to be the App Store for AI as safety concerns grow</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/openai-chatgpt-app-store-ai-safety-concerns-6420126" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">Vanguard and NXP open jv fab and plan another</span></td>
-  <td class="col-summary">Yesterday, Vanguard International Semiconductor (VIS) and NXP inaugurated their jv fab in Singapore dubbed VisionPower Semiconductor Manufacturing Company (VSMC). . Volume production is planned for early 2027. The capacity of […] The post Vanguard and NXP open jv fab and plan another appeared first on Electronics Weekl</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/a-guard-and-nxp-open-new-jv-fab-and-plan-another-2026-09/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Tesla lines up $30b credit as AI spending accelerates</span></td>
+  <td class="col-summary">Tesla had no borrowings under the facilities and does not plan to draw on them in 2026.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/tesla-chinamade-ev-sales-rise-394" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">13</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan's TDK, Taiyo Yuden ally on next-generation AI components</span></td>
-  <td class="col-summary">Japan's TDK, Taiyo Yuden ally on next-generation AI components</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/electronics/japan-s-tdk-taiyo-yuden-ally-on-next-generation-ai-components" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">AI boom drives robot makers Fanuc, Yaskawa to step up shift from China to US</span></td>
+  <td class="col-summary">AI boom drives robot makers Fanuc, Yaskawa to step up shift from China to US</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/business-trends/ai-boom-drives-robot-makers-fanuc-yaskawa-to-step-up-shift-from-china-to-us2" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">14</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Tech supply chain shrugs off AI slowdown calls as demand booms</span></td>
-  <td class="col-summary">Tech supply chain shrugs off AI slowdown calls as demand booms</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/tech-asia/tech-supply-chain-shrugs-off-ai-slowdown-calls-as-demand-booms" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">15</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">OpenAI debuts personal AI agent Dot to rival Meta's Muse</span></td>
-  <td class="col-summary">OpenAI debuts personal AI agent Dot to rival Meta's Muse</td>
+  <td class="col-title"><span class="article-title">South Korea's Lee orders officials to accelerate $589bn AI hub plans</span></td>
+  <td class="col-summary">South Korea's Lee orders officials to accelerate $589bn AI hub plans</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/openai-debuts-personal-ai-agent-dot-to-rival-meta-s-muse" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/politics/south-korea-s-lee-orders-officials-to-accelerate-589bn-ai-hub-plans" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
