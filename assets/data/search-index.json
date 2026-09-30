@@ -1,5 +1,176 @@
 [
   {
+    "date": "2026-09-30",
+    "title": "These are Asia’s most active investors in AI",
+    "summary": "We've compiled a list of investors that are pouring money into Asia’s AI startups.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/these-are-asias-most-active-investors-in-ai"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "CoWoS-L to Remain Leading AI Chip Packaging Technology Through 2028",
+    "summary": "Growing AI chip sizes are pushing advanced packaging beyond reticle limits, increasing adoption of CoWoS-L and competing EMIB technologies. The post CoWoS-L to Remain Leading AI Chip Packaging Technology Through 2028 appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/cowos-l-to-remain-leading-ai-chip-packaging-technology-through-2028/"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "PATEO, Arm Expand Collaboration on Physical AI for Vehicles",
+    "summary": "PATEO and Arm will explore automotive physical AI applications spanning perception, interaction, computing and intelligent vehicle workloads. The post PATEO, Arm Expand Collaboration on Physical AI for Vehicles appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/pateo-arm-expand-collaboration-on-physical-ai-for-vehicles/"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Trump releases AI accord with tech executives",
+    "summary": "Trump releases AI accord with tech executives",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/trump-releases-ai-accord-tech-executives-6419886"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "From cameras to cars, India’s chip startups chase an edge in AI",
+    "summary": "In the second of a two-part series on India’s chipmaking ambitions, CNA looks at how homegrown startups are developing specialised AI chips for cameras, cars and other devices.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/asia/cameras-cars-indias-chip-startups-chase-edge-in-ai-6415791"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Commentary: A meeting a day keeps the robots away",
+    "summary": "Predictions that white-collar work will soon be automated reveal an underappreciation of what other people’s jobs entail, says Sarah O’Connor for Financial Times.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/ai-jobs-meeting-office-white-collar-role-6418136"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Amazon buys NT$1.59 billion stake in one of its Taiwanese AI server suppliers",
+    "summary": "Amazon will take an equity stake in Gold Circuit Electronics (GCE), a Taiwanese maker of printed circuit boards (PCBs) for AI servers and network switches. GCE's board approved the pricing of a NT$1.589 billion private share placement on September 29, with Amazon as the buyer. According to industry observers, it is rar",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260929PD251/amazon-gce-ai-server-private-placement-taiwan.html"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "US AI recorder startup Plaud launches in Indonesia",
+    "summary": "Plaud said the Note Pro is priced at 3.5 million rupiah (US$200) while the NotePin S costs 3.4 million rupiah (US$190).",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/openai-anthropic-hiring-singapore"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Anthropic's US$2 trillion IPO bet comes with 80 pages of warnings",
+    "summary": "Confidential details of Anthropic's initial public offering (IPO) prospectus, reviewed by Reuters , reveal an enterprise operating at an unprecedented scale and making a historic wager that artificial intelligence will transform the global economy far more profoundly than industrialization, electricity, or the internet",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20260929VL208/anthropic-ipo-infrastructure.html"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "TrendAI expands AI agent security with Nvidia platform",
+    "summary": "Nvidia described the platform as a reference for continuous in-silicon monitoring and said it is designed to secure AI agents from testing to deployment.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/trendai-teams-up-with-anthropic-for-ai-security-research"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "In global semiconductor race, Singapore bets on critical, mature technologies",
+    "summary": "Amid the ongoing restructuring of the global semiconductor supply chain, Singapore is focusing on advanced packaging, heterogeneous integration, silicon photonics, and optical interconnects, aiming to leverage nearly six decades' worth of manufacturing and supply chain expertise. In contrast with industry players in Ta",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20260929PD244/packaging-manufacturing-equipment-supply-chain-materials.html"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Vanguard and NXP open jv fab and plan another",
+    "summary": "Yesterday, Vanguard International Semiconductor (VIS) and NXP inaugurated their jv fab in Singapore dubbed VisionPower Semiconductor Manufacturing Company (VSMC). . Volume production is planned for early 2027. The capacity of […] The post Vanguard and NXP open jv fab and plan another appeared first on Electronics Weekl",
+    "source": "Electronics Weekly",
+    "short": "EW",
+    "tags": [
+      "Semiconductor",
+      "Electronics"
+    ],
+    "url": "https://www.electronicsweekly.com/news/business/a-guard-and-nxp-open-new-jv-fab-and-plan-another-2026-09/"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Japan's TDK, Taiyo Yuden ally on next-generation AI components",
+    "summary": "Japan's TDK, Taiyo Yuden ally on next-generation AI components",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/electronics/japan-s-tdk-taiyo-yuden-ally-on-next-generation-ai-components"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Tech supply chain shrugs off AI slowdown calls as demand booms",
+    "summary": "Tech supply chain shrugs off AI slowdown calls as demand booms",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI",
+      "Logistics"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/tech-asia/tech-supply-chain-shrugs-off-ai-slowdown-calls-as-demand-booms"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "OpenAI debuts personal AI agent Dot to rival Meta's Muse",
+    "summary": "OpenAI debuts personal AI agent Dot to rival Meta's Muse",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/openai-debuts-personal-ai-agent-dot-to-rival-meta-s-muse"
+  },
+  {
     "date": "2026-09-29",
     "title": "Atlassian CEO on AI teams: why uniform goals destroy ROI",
     "summary": "Atlassian's Mike Cannon-Brookes explains why AI affects teams differently, and why visual software still matters even as AI agents take on more work.",
