@@ -1,38 +1,37 @@
 {
   "date": "2026-10-01",
-  "count": 8,
+  "count": 7,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
-    "NikkeiAsia"
+    "KED",
+    "TechAsia"
   ],
   "post_file": "2026-10-01-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "\u2018Neither feasible nor desirable\u2019: Why AI slowdown debate looks different in India",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/ai-slowdown-safety-india-development-economy-6421396"
-    },
-    {
-      "title": "What's in Trump's AI deal and who has reacted?",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/trump-ai-deal-tech-ceos-whats-in-it-6422686"
-    },
-    {
-      "title": "TAIA and SAIA Sign MoU to Advance Taiwan-Singapore AI Talent Development and Business Cooperation",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/taia-and-saia-sign-mou-to-advance-taiwan-singapore-ai-talent-development-and-business-cooperation/"
-    },
-    {
-      "title": "'I tell myself every day it'll ease': Phison CEO sees years of memory shortage",
+      "title": "Analysis: China's AI data center buildout vaults to No. 2 as Big Tech capex races toward US$100 billion",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260930PD248/phison-ceo-demand-dram-acer.html"
+      "url": "https://www.digitimes.com/news/a20261001PD218/china-data-center-capex-capacity-expansion.html"
     },
     {
-      "title": "Gold Circuit turns Amazon into a shareholder for Trainium servers",
+      "title": "China's chip-tool localization accelerates: ACM Research backlog jumps 88%",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260930PD245/amazon-gce-pcb-aws-2026.html"
+      "url": "https://www.digitimes.com/news/a20261001VL211/acm-equipment-revenue-2026-expansion.html"
+    },
+    {
+      "title": "Samsung raises Galaxy S26 prices in South Korea seven months after launch",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261001PD226/samsung-galaxy-price-iphone-256gb.html"
+    },
+    {
+      "title": "Tencent signs Oracle deal for 100,000 AI chips abroad",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/tencentbacked-enflame-set-debut-913m-ipo"
+    },
+    {
+      "title": "Nvidia joins AI cloud startup GMI Cloud\u2019s $668m round",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/seas-ai-buildout-caught-global-memory-squeeze"
     }
   ],
   "source_stats": [
@@ -49,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -129,7 +128,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -150,14 +149,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 78,
-      "relevant": 53,
+      "fetched": 57,
+      "relevant": 47,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +167,7 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -177,7 +176,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -193,9 +192,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 11,
+      "relevant": 14,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {

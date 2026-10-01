@@ -1,93 +1,81 @@
 [
   {
     "date": "2026-10-01",
-    "title": "‘Neither feasible nor desirable’: Why AI slowdown debate looks different in India",
-    "summary": "Fears that increasingly powerful artificial intelligence could pose an existential threat have fuelled calls for a slowdown. India, however, is not yet pushing the AI frontier, making wider adoption - and managing its consequences - a more immediate concern, say analysts.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/asia/ai-slowdown-safety-india-development-economy-6421396"
-  },
-  {
-    "date": "2026-10-01",
-    "title": "What's in Trump's AI deal and who has reacted?",
-    "summary": "US President Donald Trump has signed a deal with tech companies to create voluntary rules for AI safety, including cybersecurity and biosecurity measures.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/world/trump-ai-deal-tech-ceos-whats-in-it-6422686"
-  },
-  {
-    "date": "2026-10-01",
-    "title": "TAIA and SAIA Sign MoU to Advance Taiwan-Singapore AI Talent Development and Business Cooperation",
-    "summary": "Taiwan and Singapore AI associations establish cooperation framework linking businesses, technical expertise, talent development and overseas expansion opportunities. The post TAIA and SAIA Sign MoU to Advance Taiwan-Singapore AI Talent Development and Business Cooperation appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/taia-and-saia-sign-mou-to-advance-taiwan-singapore-ai-talent-development-and-business-cooperation/"
-  },
-  {
-    "date": "2026-10-01",
-    "title": "'I tell myself every day it'll ease': Phison CEO sees years of memory shortage",
-    "summary": "Phison Electronics CEO Pua Khein-Seng says he tells himself every day that the memory shortage will ease tomorrow. In reality, he says, AI-driven demand has opened a gap between memory supply and demand that could take many years to close.",
+    "title": "Analysis: China's AI data center buildout vaults to No. 2 as Big Tech capex races toward US$100 billion",
+    "summary": "China's rapid expansion of AI applications is driving a fresh wave of data center construction. SemiAnalysis estimates that the country has already delivered more than 24GW of data center capacity and will remain above that level by the end of 2026, making China the world's second-largest data center market after the U",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Electronics"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20260930PD248/phison-ceo-demand-dram-acer.html"
+    "url": "https://www.digitimes.com/news/a20261001PD218/china-data-center-capex-capacity-expansion.html"
   },
   {
     "date": "2026-10-01",
-    "title": "Gold Circuit turns Amazon into a shareholder for Trainium servers",
-    "summary": "Gold Circuit Electronics (GCE) plans to bring in Amazon as a strategic investor through a private placement expected to raise NT$1.59 billion (US$49.88 million), lifting the two companies from a simple supply-chain relationship to a strategic partnership backed by equity. The deal would also turn a GCE customer into a ",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "Semiconductor",
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20260930PD245/amazon-gce-pcb-aws-2026.html"
-  },
-  {
-    "date": "2026-10-01",
-    "title": "Apple A20 Pro ditches PoP memory packaging for WMCM",
-    "summary": "Apple's A20 Pro chip has dropped traditional package-on-package (PoP) packaging in favor of Wafer-Level Multi-Chip Module (WMCM), with memory and processor dies laid out side by side to potentially improve packaging yield and thermal performance, according to a teardown analysis by TechInsights. The findings come as Qu",
+    "title": "China's chip-tool localization accelerates: ACM Research backlog jumps 88%",
+    "summary": "ACM Research (Shanghai)'s order backlog has surged alongside China's semiconductor equipment expansion, giving the Shanghai-listed chip-tool maker a larger base of future deliveries while AI-related capacity investment and localization continue to support demand.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20260930PD242/apple-packaging-processor-gaa-tsmc.html"
+    "url": "https://www.digitimes.com/news/a20261001VL211/acm-equipment-revenue-2026-expansion.html"
   },
   {
     "date": "2026-10-01",
-    "title": "The future of AI belongs to the orchestrators",
-    "summary": "The future of AI belongs to the orchestrators",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "Samsung raises Galaxy S26 prices in South Korea seven months after launch",
+    "summary": "Under pressure from rising memory prices, Samsung Electronics has raised the South Korean launch prices of its Galaxy S26 series about seven months after release. Most models went up by KRW149,600(US$110), while the top-end Galaxy S26 Ultra 1TB rose to KRW2.8215 million.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "AI"
+      "Electronics"
     ],
-    "url": "https://asia.nikkei.com/opinion/the-future-of-ai-belongs-to-the-orchestrators"
+    "url": "https://www.digitimes.com/news/a20261001PD226/samsung-galaxy-price-iphone-256gb.html"
   },
   {
     "date": "2026-10-01",
-    "title": "US fintech Stripe eyes AI shopping in Japan with launch of Meta's Muse",
-    "summary": "US fintech Stripe eyes AI shopping in Japan with launch of Meta's Muse",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "Tencent signs Oracle deal for 100,000 AI chips abroad",
+    "summary": "The reported deal would use a gap in the US export controls.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/tencentbacked-enflame-set-debut-913m-ipo"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "Nvidia joins AI cloud startup GMI Cloud’s $668m round",
+    "summary": "The company said the funding will help bring more computing capacity online in more parts of the world.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-fintech-stripe-eyes-ai-shopping-in-japan-with-launch-of-meta-s-muse"
+    "url": "https://www.techinasia.com/seas-ai-buildout-caught-global-memory-squeeze"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "Riding the tide against AI agent bust",
+    "summary": "Over 40% of agentic AI projects will fold by 2027. Axium Industries thinks it can beat the odds by connecting fragmented data before building agents.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/riding-tide-ai-agent-bust"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
+    "summary": "Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001"
   },
   {
     "date": "2026-09-30",
