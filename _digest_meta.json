@@ -1,37 +1,37 @@
 {
   "date": "2026-10-01",
-  "count": 7,
+  "count": 9,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "KED",
     "TechAsia"
   ],
   "post_file": "2026-10-01-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Analysis: China's AI data center buildout vaults to No. 2 as Big Tech capex races toward US$100 billion",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261001PD218/china-data-center-capex-capacity-expansion.html"
+      "title": "PUB says AI detection tools gave 'inconclusive' results on Pandan Reservoir crocodile image",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/fake-crocodile-image-pandan-reservoir-ai-generated-pub-6423711"
     },
     {
-      "title": "China's chip-tool localization accelerates: ACM Research backlog jumps 88%",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261001VL211/acm-equipment-revenue-2026-expansion.html"
+      "title": "South Korean shares end nearly 2% higher on record chip exports",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/south-korean-shares-end-nearly-2-higher-record-chip-exports-6423756"
     },
     {
-      "title": "Samsung raises Galaxy S26 prices in South Korea seven months after launch",
+      "title": "Meta's Muse lifts server CPU demand, with AMD EPYC orders extending into 2028",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261001PD226/samsung-galaxy-price-iphone-256gb.html"
+      "url": "https://www.digitimes.com/news/a20261001VL213/cpu-meta-demand-amd-2028.html"
     },
     {
-      "title": "Tencent signs Oracle deal for 100,000 AI chips abroad",
+      "title": "Voice AI startup Wiz.AI roars to US$3.9m profit in 2025",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/tencentbacked-enflame-set-debut-913m-ipo"
+      "url": "https://www.techinasia.com/voice-ai-startup-wizai-roars-us39m-profit-2025"
     },
     {
-      "title": "Nvidia joins AI cloud startup GMI Cloud\u2019s $668m round",
+      "title": "Huawei launches new Kirin chips after $250b R&D investment",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/seas-ai-buildout-caught-global-memory-squeeze"
+      "url": "https://www.techinasia.com/huawei-launches-mate-xt2-trifold-3k"
     }
   ],
   "source_stats": [
@@ -48,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -128,7 +128,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -155,8 +155,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 57,
-      "relevant": 47,
+      "fetched": 63,
+      "relevant": 51,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -176,7 +176,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -192,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
