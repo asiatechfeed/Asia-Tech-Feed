@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-10-02",
+    "title": "Nebius acquires Israeli AI startup Inferize in GPU deal",
+    "summary": "Nebius said that acquisition would add agentic search to its AI cloud platform.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/ai-infrastructure-firm-nebius-buys-eigen-ai-643m"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Broadcom to lend Anthropic up to $42b for AI infrastructure",
+    "summary": "Anthropic is also expected to become Broadcom’s largest compute customer in 2027.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/anthropic-picks-nasdaq-october-ipo"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "DigiKey’s Factory Tomorrow Season 6 Explores AI Infra, Industrial Connectivity, Smart Manufacturing",
+    "summary": "Season 6 of DigiKey's Factory Tomorrow series highlights how manufacturers and suppliers are building the foundation for next-gen industrial production. The post DigiKey’s Factory Tomorrow Season 6 Explores AI Infra, Industrial Connectivity, Smart Manufacturing appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/digikeys-factory-tomorrow-season-6-explores-ai-infra-industrial-connectivity-smart-manufacturing/"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Omdia Sees Four Forces Reshaping Technology Markets in 2027",
+    "summary": "Omdia expects AI monetization, supply-chain volatility, digital sovereignty and physical AI to influence technology investment in 2027. The post Omdia Sees Four Forces Reshaping Technology Markets in 2027 appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/omdia-sees-four-forces-reshaping-technology-markets-in-2027/"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Samsung SDI's new LFP battery shows how AI is reshaping battery markets beyond EVs",
+    "summary": "The aggressive rollout of large-scale infrastructure projects has brought increasingly visible changes across global economies and major technology supply chains, with much of that transformation now unfolding under the expanding influence of AI.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261001VL215/infrastructure-samsung-sdi-lfp-battery-market-technology.html"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Huawei leads global smartwatch market, but earbuds reveal different competitive picture",
+    "summary": "Huawei has regained momentum across its consumer device business, but its position in the global wearables market is becoming increasingly uneven: the Chinese technology giant has taken the global smartwatch crown, while its wireless earbuds remain a more distant fourth behind Apple, Xiaomi, and Samsung Electronics.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261001VL214/huawei-earphone-smartwatch-tws-2026.html"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Nanya Technology wins approval for Southern 3D packaging plant",
+    "summary": "The Science Park Review Committee under Taiwan's National Science and Technology Council (NSTC) approved 13 investment projects at its 35th meeting on the 1st, including Nanya Technology's plan to enter the Pingtung area of the Southern Taiwan Science Park and build advanced 3D semiconductor packaging and testing opera",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261001PD247/nanya-technology-taiwan-investment-nstc-southern-taiwan-science-park.html"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Renesas Targets 800V AI Data Centers with Dual-side-cooled 650V GaN",
+    "summary": "Renesas' 650V GaN device uses an 8x8mm dual-side-cooled package to increase power density in high-voltage data-center converters. The post Renesas Targets 800V AI Data Centers with Dual-side-cooled 650V GaN appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/renesas-targets-800v-ai-data-centers-with-dual-side-cooled-650v-gan/"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "OpenAI alerts more than 100 groups about rogue AI agent activity",
+    "summary": "OpenAI alerts more than 100 groups about rogue AI agent activity",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/openai-alerts-more-100-groups-about-rogue-ai-agent-activity-6425576"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Commentary: What happens when Chinese AI goes rogue?",
+    "summary": "Using China as the boogeyman is no longer a convincing excuse for inaction on AI regulations by US lawmakers, says Catherine Thorbecke for Bloomberg Opinion.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/china-ai-rogue-us-safety-regulation-6424166"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Infineon opens $114m semiconductor facility in Thailand",
+    "summary": "The company said its initial investment was more than 100 million euros, or about US$113.57 million.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/thailand-approves-chip-plan-targets-80b"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Toshiba to double hard disk drive supply to fill AI chip memory gap",
+    "summary": "Toshiba to double hard disk drive supply to fill AI chip memory gap",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/electronics/toshiba-to-double-hard-disk-drive-supply-to-fill-ai-chip-memory-gap"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Making AI work for workers",
+    "summary": "Making AI work for workers",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/opinion/making-ai-work-for-workers"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Japan banks uncover twice the vulnerabilities following Mythos AI release",
+    "summary": "Japan banks uncover twice the vulnerabilities following Mythos AI release",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-banks-uncover-twice-the-vulnerabilities-following-mythos-ai-release"
+  },
+  {
     "date": "2026-10-01",
     "title": "PUB says AI detection tools gave 'inconclusive' results on Pandan Reservoir crocodile image",
     "summary": "The man charged over an AI-generated crocodile image that triggered search operations at Pandan Reservoir worked for PUB's reservoir maintenance contractor, and the picture was reported by his supervisor.",
