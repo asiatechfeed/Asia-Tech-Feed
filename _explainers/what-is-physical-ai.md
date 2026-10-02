@@ -1,0 +1,333 @@
+---
+title: "What is Physical AI — and Why Does the Next Decade of the AI Revolution Happen in the Physical World?"
+tags: [AI, Semiconductor]
+date: 2026-10-01
+author: "Colin Tan"
+excerpt: "Every prior wave of AI lived behind a screen. Physical AI is what comes next — robots that perceive, reason and act in the real world — and NVIDIA, Tesla and China are already racing to build the stack underneath it."
+---
+
+<p class="xp-lede">Every previous wave of artificial intelligence has lived behind a screen. ChatGPT processes language. Stable Diffusion generates images. AlphaFold predicts proteins. None of them can pick up a box, weld a joint, or navigate a factory floor without human direction. Physical AI is the term for what comes next — AI systems that perceive, reason about, and act in the physical world. The robots being built right now in Shanghai, Austin, and Tokyo are the first infrastructure of that transition.</p>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>What physical AI is — and what it requires.</b> Physical AI, in Jensen Huang's definition from CES 2026, is "AI systems that understand physical laws and interact with the physical world." The concept has older roots — robotics researchers have worked on embodied intelligence for decades — but what has changed in 2025–26 is the convergence of three capabilities that previously did not exist at deployable quality simultaneously: models that can perceive and reason in three dimensions, edge compute powerful enough to run them in real time, and simulation environments realistic enough to generate the training data that generalises from virtual environments to real ones.</p>
+    <p>Physical AI requires things that screen-based AI does not. Perception: cameras, LiDAR, tactile sensors, and inertial measurement units that map the environment and the robot's own position within it in real time. Action: actuators, motors, and joints that translate AI decisions into physical movement with enough precision and force to be useful in an industrial setting. And the bridge: foundation models trained on vast physical interaction data that can generalise from what they learned in simulation to what they encounter in uncontrolled deployment. That last element — closing the sim-to-real gap — remains the field's defining challenge.</p>
+  </div>
+  <div>
+    <p><b>The model breakthrough that made it real.</b> The dominant technical approach in 2026 uses Vision-Language-Action (VLA) models — neural networks that take camera input and language instructions and output robot actions directly. ICLR 2026 received 164 VLA paper submissions, an 18&#215; increase from one year prior. NVIDIA's GR00T N1.6, announced at CES 2026, is a 32-layer diffusion transformer trained on thousands of hours of teleoperation data across multiple robot bodies. Physical Intelligence's pi&#8209;0.5 demonstrated meaningful open-world generalisation across 68 tasks on seven different robot platforms. These are not incremental improvements to industrial controllers — they are the same foundation model architecture that produced ChatGPT, adapted to perceive and act rather than predict text.</p>
+    <p>NVIDIA's Cosmos 3.0, previewed at GTC 2026, is the first world foundation model that unifies synthetic world generation, vision reasoning, and action simulation in a single architecture. It generates physically plausible synthetic training data at scale, directly addressing the data scarcity that has constrained robot learning since the beginning. NVIDIA's CEO declared at GTC 2026 that "every industrial company will become a robotics company" and announced that the big bang of physical AI had arrived, with $20 billion invested in humanoid robots to that point. The comparison to the arrival of ChatGPT in 2022 was not rhetorical.</p>
+  </div>
+</div>
+
+<!-- ── EXHIBIT 1: Physical AI market trajectory ───────────── -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 1</div>
+  <h3>The physical AI market — already larger than most people realise, growing faster than consensus expects</h3>
+  <p class="xp-exhibit-sub">Total physical AI market size including industrial automation, autonomous vehicles, and humanoid robots, $ billion; 2026F onward are forecasts</p>
+
+  <svg viewBox="0 0 720 268" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bar chart of physical AI total market size from 2023 to 2030">
+    <defs>
+      <style>
+        .ma{font-family:'Helvetice Neue',Arial,sans-serif;font-size:10.5px;fill:#5B6675}
+        .mb{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#0A2240}
+        .mc{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#F2620F}
+        .md{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9px;fill:#5B6675}
+        .me{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#0A2240}
+        .mf{font-family:'Helvetica Neue',Arial,sans-serif;font-size:8.5px;fill:#F2620F;font-weight:700}
+      </style>
+      <marker id="mArr2" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+        <polygon points="0 0,6 3,0 6" fill="#F2620F"/>
+      </marker>
+    </defs>
+
+    <!-- Chart: y_bottom=225, height=175px (y=50–225), max=$470B, scale=0.3723px/$B -->
+    <!-- Gridlines at $100B=y188, $200B=y151, $300B=y113, $400B=y76 -->
+    <line x1="102" y1="225" x2="650" y2="225" stroke="#D8DEE6" stroke-width="0.8"/>
+    <line x1="102" y1="188" x2="650" y2="188" stroke="#D8DEE6" stroke-width="0.6"/>
+    <line x1="102" y1="151" x2="650" y2="151" stroke="#D8DEE6" stroke-width="0.6"/>
+    <line x1="102" y1="113" x2="650" y2="113" stroke="#D8DEE6" stroke-width="0.6"/>
+    <line x1="102" y1="76"  x2="650" y2="76"  stroke="#D8DEE6" stroke-width="0.5" opacity="0.6"/>
+
+    <!-- Y-axis labels -->
+    <text x="96" y="229" text-anchor="end" class="ma">$0</text>
+    <text x="96" y="192" text-anchor="end" class="ma">$100B</text>
+    <text x="96" y="155" text-anchor="end" class="ma">$200B</text>
+    <text x="96" y="117" text-anchor="end" class="ma">$300B</text>
+    <text x="96" y="80"  text-anchor="end" class="ma">$400B</text>
+
+    <!-- 6 bars: width=68, gap=28, starts at x=102 -->
+    <!-- Values: $35B→h13→y212, $55B→h20→y205, $81B→h30→y195,
+                $108B→h40→y185, $192B→h71→y154, $430B→h160→y65 -->
+
+    <!-- 2023: $35B -->
+    <rect x="102" y="212" width="68" height="13"  fill="#D8DEE6" rx="1"/>
+    <text x="136" y="207" text-anchor="middle" class="mb">$35B</text>
+    <text x="136" y="242" text-anchor="middle" class="ma">2023</text>
+
+    <!-- 2024: $55B -->
+    <rect x="198" y="205" width="68" height="20"  fill="#9AAEC5" rx="1"/>
+    <text x="232" y="200" text-anchor="middle" class="mb">$55B</text>
+    <text x="232" y="242" text-anchor="middle" class="ma">2024</text>
+
+    <!-- 2025: $81B (confirmed) -->
+    <rect x="294" y="195" width="68" height="30"  fill="#0A2240" rx="1"/>
+    <text x="328" y="190" text-anchor="middle" class="mb">$81B</text>
+    <text x="328" y="242" text-anchor="middle" class="me">2025</text>
+    <text x="328" y="254" text-anchor="middle" class="md">(confirmed)</text>
+
+    <!-- 2026F: $108B -->
+    <rect x="390" y="185" width="68" height="40"  fill="#00A6A6" rx="1" opacity="0.95"/>
+    <text x="424" y="180" text-anchor="middle" class="mc">$108B</text>
+    <text x="424" y="242" text-anchor="middle" class="me">2026F</text>
+
+    <!-- 2028F: $192B -->
+    <rect x="486" y="154" width="68" height="71"  fill="#00A6A6" rx="1" opacity="0.85"/>
+    <text x="520" y="149" text-anchor="middle" class="mc">$192B</text>
+    <text x="520" y="242" text-anchor="middle" class="me">2028F</text>
+
+    <!-- 2030F: $430B (confirmed by multiple sources) -->
+    <rect x="582" y="65"  width="68" height="160" fill="#00A6A6" rx="1" opacity="0.75"/>
+    <text x="616" y="60"  text-anchor="middle" class="mc">$430B</text>
+    <text x="616" y="242" text-anchor="middle" class="me">2030F</text>
+
+    <!-- CAGR annotation arc (2025→2030F) -->
+    <path d="M 350 168 Q 470 60 580 58" stroke="#F2620F" stroke-width="1.5" fill="none"
+          marker-end="url(#mArr2)"/>
+    <text x="420" y="75"  text-anchor="middle" class="mf">~33% CAGR</text>
+    <text x="420" y="87"  text-anchor="middle" class="mf">2025 &#x2192; 2030F</text>
+
+    <!-- Jensen Huang $40T note -->
+    <rect x="102" y="30" width="260" height="18" fill="#EEF2F7" rx="2"/>
+    <text x="110" y="42" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" fill="#5B6675">Jensen Huang (NVIDIA): &#x201C;humanoid robots are a $40 trillion TAM&#x201D; — labour automation long-run</text>
+
+    <!-- Legend -->
+    <rect x="102" y="259" width="12" height="8" fill="#0A2240" rx="1"/>
+    <text x="118" y="266" class="md">Confirmed data</text>
+    <rect x="218" y="259" width="12" height="8" fill="#00A6A6" rx="1" opacity="0.85"/>
+    <text x="234" y="266" class="md">Forecast (33% CAGR)</text>
+  </svg>
+
+  <p class="xp-exhibit-source">Source: Kaiso Research (Physical AI Market 2026–2035, $81.4B confirmed 2025, 33.49% CAGR); FutureMarkets (physical AI surpasses $430B by 2030); Goldman Sachs ($50B humanoid robotics investment by 2030); ATF extrapolation for 2026F and 2028F. Market definition: industrial automation + autonomous vehicles + humanoid robots + healthcare robotics. Embodied AI sub-market (MarketsandMarkets): $4.44B (2025) &#x2192; $23.06B (2030), 39% CAGR.</p>
+</figure>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>NVIDIA: positioning as the CUDA of robots.</b> NVIDIA's strategy for physical AI is structurally identical to its strategy for generative AI: own the training compute, own the simulation environment, own the inference processor, and collect rent on every model trained and every robot deployed. At GTC 2026, NVIDIA announced Cosmos 3.0 — its world foundation model — alongside partnerships with ABB Robotics, FANUC, AGIBOT, Agility Robotics, and LG Electronics. Its reference humanoid "Isaac Root" stands 6 feet, weighs 150 pounds, has 31 degrees of freedom and 25 per hand, and is built in partnership with Unitree. The Jetson T4000, announced at CES 2026 at $1,999 per unit, delivers 1,200 TFLOPS within a 40–70W power envelope — the edge compute that makes real-time robot inference economically viable at manufacturing scale.</p>
+  </div>
+  <div>
+    <p><b>Tesla and China racing for production volume.</b> Tesla's Optimus Gen 3 entered mass production at Fremont in January 2026, with $20 billion in capital expenditure committed to humanoid output this year. The 2026 target is 100,000 units — a number that, if achieved, would dwarf all other manufacturers combined. China is not waiting. AgiBot has shipped 5,100 humanoid units with 39% global market share, operates a 3,000-square-metre Giga Data Factory in Shanghai where hundreds of robots are teleoperated to generate training data, and has released Lingqu OS — an embodied intelligence operating system. BYD targets 20,000 humanoid deployments in its own EV and battery manufacturing lines. TrendForce projects China will ship approximately 62,500 humanoid units in 2026, a 94% increase year-on-year, representing over 80% of global production.</p>
+  </div>
+</div>
+
+<!-- ── EXHIBIT 2: Physical AI technology stack ───────────── -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 2</div>
+  <h3>The physical AI technology stack — and who owns each layer</h3>
+  <p class="xp-exhibit-sub">Five-layer architecture from physical sensing to robot deployment; upward arrows show the training data and model flow</p>
+
+  <svg viewBox="0 0 720 262" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Layered diagram showing the physical AI technology stack from sensors to deployment">
+    <defs>
+      <style>
+        .la{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#ffffff;letter-spacing:.06em}
+        .lb{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9.5px;fill:rgba(255,255,255,0.85)}
+        .lc{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:9px;fill:#00A6A6}
+        .ld{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9px;fill:#AFC2DA}
+        .le{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:9px;fill:#F2620F}
+      </style>
+      <!-- Upward arrow marker -->
+      <marker id="upArr" markerWidth="8" markerHeight="8" refX="4" refY="6" orient="auto">
+        <polygon points="0 8,4 0,8 8" fill="#D8DEE6"/>
+      </marker>
+    </defs>
+
+    <!-- Layer rects (bottom to top): y positions: L1=212, L2=164, L3=116, L4=68, L5=20 -->
+    <!-- Each height=42px, gap=2px (visual connector) -->
+
+    <!-- L1: Physical World & Sensors (gray) y=212-254 -->
+    <rect x="20" y="212" width="680" height="42" fill="#5B6675" rx="2"/>
+    <text x="32"  y="228" class="la">1 &nbsp;&#xB7;&nbsp; PHYSICAL WORLD &amp; SENSORS</text>
+    <text x="32"  y="242" class="lb">LiDAR &nbsp;&#xB7;&nbsp; RGB cameras &nbsp;&#xB7;&nbsp; tactile sensors &nbsp;&#xB7;&nbsp; IMU &nbsp;&#xB7;&nbsp; force-torque sensors</text>
+    <text x="580" y="228" class="ld">Robot hardware supply</text>
+    <text x="580" y="242" class="ld">Japan (actuators) · China (arms)</text>
+
+    <!-- Upward arrow L1→L2 -->
+    <polygon points="356,206 364,206 360,210" fill="#D8DEE6"/>
+    <line x1="360" y1="206" x2="360" y2="210" stroke="#D8DEE6" stroke-width="1"/>
+
+    <!-- L2: Data Collection (blue-gray) y=164-206 -->
+    <rect x="20" y="164" width="680" height="42" fill="#2D5071" rx="2"/>
+    <text x="32"  y="180" class="la">2 &nbsp;&#xB7;&nbsp; DATA COLLECTION</text>
+    <text x="32"  y="194" class="lb">Teleoperation &nbsp;&#xB7;&nbsp; AgiBot AIDEA Giga Factory &nbsp;&#xB7;&nbsp; sim-to-real augmentation &nbsp;&#xB7;&nbsp; OSMO workflow</text>
+    <text x="580" y="180" class="lc">NVIDIA</text>
+    <text x="580" y="194" class="ld">Isaac ROS · OSMO</text>
+
+    <!-- Upward arrow L2→L3 -->
+    <polygon points="356,158 364,158 360,162" fill="#D8DEE6"/>
+
+    <!-- L3: Simulation & World Models (teal) y=116-158 -->
+    <rect x="20" y="116" width="680" height="42" fill="#00A6A6" rx="2"/>
+    <text x="32"  y="132" class="la">3 &nbsp;&#xB7;&nbsp; SIMULATION &amp; WORLD MODELS</text>
+    <text x="32"  y="146" class="lb">NVIDIA Cosmos 3.0 &nbsp;&#xB7;&nbsp; Omniverse &nbsp;&#xB7;&nbsp; Isaac Lab-Arena &nbsp;&#xB7;&nbsp; physics-based synthetic data generation</text>
+    <text x="580" y="132" class="la" style="fill:#0A2240">NVIDIA</text>
+    <text x="580" y="146" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9" fill="#0A2240">Cosmos 3.0 · Omniverse</text>
+
+    <!-- Upward arrow L3→L4 -->
+    <polygon points="356,110 364,110 360,114" fill="#D8DEE6"/>
+
+    <!-- L4: Foundation Models (navy2) y=68-110 -->
+    <rect x="20" y="68" width="680" height="42" fill="#13335E" rx="2"/>
+    <text x="32"  y="84" class="la">4 &nbsp;&#xB7;&nbsp; FOUNDATION MODELS (VLA)</text>
+    <text x="32"  y="98" class="lb">GR00T N1.6 (NVIDIA) &nbsp;&#xB7;&nbsp; pi-0.5 (Physical Intelligence) &nbsp;&#xB7;&nbsp; GR00T N2 (preview) &nbsp;&#xB7;&nbsp; Cosmos Predict 2.5</text>
+    <text x="580" y="84"  class="lc">NVIDIA</text>
+    <text x="580" y="98"  class="ld">GR00T · Isaac GR00T N</text>
+
+    <!-- Upward arrow L4→L5 -->
+    <polygon points="356,62 364,62 360,66" fill="#D8DEE6"/>
+
+    <!-- L5: Deployment (navy) y=20-62 -->
+    <rect x="20" y="20" width="680" height="42" fill="#0A2240" rx="2"/>
+    <text x="32"  y="36" class="la">5 &nbsp;&#xB7;&nbsp; EDGE INFERENCE &amp; DEPLOYMENT</text>
+    <text x="32"  y="50" class="lb">Jetson T4000 (1,200 TFLOPS · $1,999) &nbsp;&#xB7;&nbsp; Jetson Thor &nbsp;&#xB7;&nbsp; Robot body &nbsp;&#xB7;&nbsp; Real-world operation</text>
+    <text x="580" y="36" class="lc">NVIDIA</text>
+    <text x="580" y="50" class="ld">Jetson T4000 · Thor</text>
+
+    <!-- "NVIDIA owns layers 2–5" right-side callout -->
+    <!-- Orange bracket on the right: x=708, y=20 to y=206 -->
+    <line x1="706" y1="22"  x2="706" y2="206" stroke="#F2620F" stroke-width="2"/>
+    <line x1="706" y1="22"  x2="700" y2="22"  stroke="#F2620F" stroke-width="2"/>
+    <line x1="706" y1="206" x2="700" y2="206" stroke="#F2620F" stroke-width="2"/>
+    <text x="712" y="110" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="700" fill="#F2620F" writing-mode="vertical-rl" text-anchor="middle">NVIDIA FULL STACK</text>
+  </svg>
+
+  <p class="xp-exhibit-source">Source: NVIDIA GTC 2026 keynote (Cosmos 3.0, GR00T N2 preview, Isaac partnerships); NVIDIA CES 2026 (GR00T N1.6, Jetson T4000); AgiBot AIDEA Giga Factory (Reuters, Shanghai); Physical Intelligence pi-0.5 (company release); NVIDIA Cosmos Predict 2.5 / Transfer 2.5 (CES Jan 2026). VLA = Vision-Language-Action model, the dominant paradigm for robot intelligence in 2026.</p>
+</figure>
+
+<blockquote class="xp-pull-quote">
+  <p>&#8220;The ChatGPT moment for robotics is here. Breakthroughs in physical AI — models that understand the real world, reason and plan actions — are unlocking entirely new applications.&#8221;</p>
+  <cite>Jensen Huang, Founder and CEO, NVIDIA — CES 2026 / GTC 2026</cite>
+</blockquote>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>Asia's structural advantages in the physical AI race.</b> The hardware layer of physical AI plays directly to Asia's manufacturing strengths in a way that software-only AI never did. Harmonic drives — the precision gear reducers that give robot joints their accuracy and load capacity — are dominated by Japan's Harmonic Drive Systems and Sumitomo Heavy Industries. Brushless motors, torque sensors, and the actuator components that define a robot's physical capability are concentrated in Japan and increasingly in Shenzhen, where Unitree produces sub-$30,000 humanoids using a supply chain density that cannot be replicated outside the Pearl River Delta.</p>
+    <p>Japan has committed $65 billion to capture over 30% of the global robotics market by 2040, recognising that physical AI deployment is a structural match for an economy with an ageing workforce, world-leading factory automation heritage, and deep semiconductor and materials supply chains. BYD, CATL, and Foxconn — the world's largest demand pools for manufacturing labour — are not just customers of physical AI. They are the case study that will determine whether it works at industrial scale.</p>
+  </div>
+  <div>
+    <p><b>Three predictions for 2026–27.</b> First: by end-2027, cumulative humanoid deployments in Chinese EV and battery factories exceed 100,000 unit-instances, making China's auto sector the first industry to operate humanoids at genuine commercial scale. BYD and CATL's closed, known-environment production lines are structurally better suited to early deployment than the uncontrolled environments where general-purpose robots struggle.</p>
+    <p>Second: NVIDIA's Cosmos simulation platform becomes for physical AI what CUDA became for deep learning — the default training environment for 70%+ of robot development workflows by 2028. The data generation flywheel (more simulation data &#8594; better models &#8594; more deployments &#8594; more real-world data &#8594; better simulation) is already running, and NVIDIA controls the simulation environment that feeds it.</p>
+    <p>Third: a major Japanese robotics integrator — FANUC, Yaskawa, or a corporate spinout — announces a deep strategic alliance with a foundation model provider by mid-2027, accelerating the integration of VLA models into Japan's installed base of 276,000 annual industrial robot installations.</p>
+  </div>
+</div>
+
+<!-- ── EXHIBIT 3: Humanoid production race ────────────────── -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 3</div>
+  <h3>The 2026 humanoid production race — volume targets from leading manufacturers</h3>
+  <p class="xp-exhibit-sub">2026 humanoid unit production targets or projections; scale set at 30k to show relative ambitions — Tesla bar extends beyond scale</p>
+
+  <svg viewBox="0 0 720 236" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Horizontal bar chart comparing 2026 humanoid robot production targets by manufacturer">
+    <defs>
+      <style>
+        .ha{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10.5px;fill:#5B6675}
+        .hb{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10.5px;fill:#0A2240}
+        .hc{font-family:'Helvetica Neue',Arial,sans-serif;font-size:9px;fill:#5B6675}
+        .hd{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:9.5px;fill:#ffffff}
+        .he{font-family:'Helvetica Neue',Arial,sans-serif;font-size:8.5px;fill:#5B6675}
+        .hf{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:10px;fill:#F2620F}
+      </style>
+      <marker id="hArr" markerWidth="7" markerHeight="7" refX="0" refY="3.5" orient="auto">
+        <polygon points="0 0,7 3.5,0 7" fill="#F2620F"/>
+      </marker>
+    </defs>
+
+    <!-- Scale: max=30,000 units, bar area x=184 to x=684 (500px), scale=500/30000=0.01667px/unit -->
+    <!-- X-axis gridlines at 10k=x=350, 20k=x=517, 30k=x=684 -->
+    <line x1="184" y1="20"  x2="184" y2="200" stroke="#D8DEE6" stroke-width="0.8"/>
+    <line x1="350" y1="20"  x2="350" y2="200" stroke="#D8DEE6" stroke-width="0.6"/>
+    <line x1="517" y1="20"  x2="517" y2="200" stroke="#D8DEE6" stroke-width="0.6"/>
+    <line x1="684" y1="20"  x2="684" y2="200" stroke="#D8DEE6" stroke-width="0.6"/>
+
+    <!-- X-axis labels -->
+    <text x="184" y="213" text-anchor="middle" class="ha">0</text>
+    <text x="350" y="213" text-anchor="middle" class="ha">10,000</text>
+    <text x="517" y="213" text-anchor="middle" class="ha">20,000</text>
+    <text x="684" y="213" text-anchor="middle" class="ha">30,000+</text>
+    <text x="434" y="226" text-anchor="middle" class="he">Humanoid units (2026 target / projection)</text>
+
+    <!-- Row height=38px, gap=6px -->
+    <!-- ROW 1: Tesla (USA) — 100,000 target, bar capped at full width with arrow -->
+    <rect x="184" y="24"  width="500" height="30" fill="#F2620F" rx="1"/>
+    <!-- ">" indicator at bar end -->
+    <line x1="684" y1="29" x2="700" y2="39" stroke="#F2620F" stroke-width="2" marker-end="url(#hArr)"/>
+    <text x="192" y="44"  class="hd">Tesla Optimus Gen 3 (USA) — $20B capex in 2026</text>
+    <text x="178" y="225" text-anchor="end" class="hf">100,000 (target)</text>
+
+    <!-- ROW 2: China Total — 62,500 projection -->
+    <!-- 62,500 × 0.01667 = 1,042px... way over. Use visual representation. -->
+    <!-- Scale the bar: 62,500 > 30,000 → show at 30k cap with note -->
+    <rect x="184" y="68"  width="500" height="30" fill="#0A2240" rx="1" opacity="0.70"/>
+    <line x1="684" y1="73" x2="698" y2="83" stroke="#0A2240" stroke-width="2"/>
+    <text x="192" y="88"  class="hd">China (all manufacturers combined) — TrendForce</text>
+    <text x="687" y="88"  class="hb">&#8776;62,500</text>
+
+    <!-- ROW 3: BYD — 20,000 target: 20,000 × 0.01667 = 333px → x=184+333=517 -->
+    <rect x="184" y="112" width="333" height="30" fill="#C0392B" rx="1"/>
+    <text x="192" y="132" class="hd">BYD (China) — EV &amp; battery factory deployment</text>
+    <text x="522" y="132" class="hb">20,000 (target)</text>
+
+    <!-- ROW 4: AgiBot — 10,000 target: 10,000 × 0.01667 = 167px → x=184+167=351 -->
+    <rect x="184" y="156" width="167" height="30" fill="#00A6A6" rx="1"/>
+    <text x="192" y="176" class="hd">AgiBot (China) — 39% global market share</text>
+    <text x="356" y="176" class="hb">~10,000 (target)</text>
+
+    <!-- Country flags / labels -->
+    <text x="178" y="44"  text-anchor="end" class="ha">USA &#x1F1FA;&#x1F1F8;</text>
+    <text x="178" y="88"  text-anchor="end" class="ha">China &#x1F1E8;&#x1F1F3;</text>
+    <text x="178" y="132" text-anchor="end" class="ha">China &#x1F1E8;&#x1F1F3;</text>
+    <text x="178" y="176" text-anchor="end" class="ha">China &#x1F1E8;&#x1F1F3;</text>
+
+    <!-- Footnote -->
+    <text x="184" y="200" class="he" font-style="italic">Tesla and China total bars extend beyond 30k scale. All figures are targets or projections; actual 2026 shipments may vary materially.</text>
+  </svg>
+
+  <p class="xp-exhibit-source">Source: Tesla $20B capex commitment and 100,000-unit 2026 target (Reuters / Tesla IR); TrendForce China humanoid robot shipments projection ~62,500 units (+94% YoY, 2026); BYD humanoid target (Futuremarkets / industry disclosures); AgiBot 5,100 units shipped + 39% market share (RaisesSummit, RCSV Research China Robotics 2026). Targets represent stated company goals, not confirmed production outcomes. China total includes Unitree, UBTECH, Fourier, Agibot, and others.</p>
+</figure>
+
+<div class="xp-callout">
+  <div class="xp-callout-label">The Bottom Line</div>
+  <p>Physical AI is not a distant promise — it is a production ramp. BYD factories in Shenzhen are deploying humanoids on battery assembly lines. Tesla's Fremont plant has converted automotive production lines to humanoid manufacturing. NVIDIA is building the CUDA of robots. The next decade of the AI trade is not about making language models bigger. It is about whether machines can learn to handle the physical world reliably enough to replace structured human labour at scale. That question is being answered right now, in factories across Asia — and the answer, for specific environments and specific tasks, is increasingly yes.</p>
+</div>
+
+<div class="xp-author-bio">
+  <div class="xp-author-name">Colin Tan &nbsp;·&nbsp; Editor, Asia Tech Feed</div>
+  <p>Colin covers semiconductors, AI infrastructure and supply-chain dynamics across the Asia-Pacific region. He has tracked the embodied AI and humanoid robotics industry since NVIDIA's first GR00T announcement and writes the daily ATF digest. Reach him at <a href="mailto:colin.tan@asiatechfeed.com" style="color:#00A6A6">colin.tan@asiatechfeed.com</a> or connect on LinkedIn.</p>
+</div>
+
+<div class="xp-footer-grid">
+  <div class="xp-key-numbers">
+    <div class="xp-kn-label">Key Numbers</div>
+    <div class="xp-kn-item"><div class="xp-kn-val">$81B</div><div class="xp-kn-desc">Physical AI market<br>size, 2025 (confirmed)</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">$430B</div><div class="xp-kn-desc">Projected 2030<br>(multiple sources)</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">18&#xD7;</div><div class="xp-kn-desc">VLA paper growth<br>at ICLR 2026 vs 2025</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">~85%</div><div class="xp-kn-desc">China share of global<br>humanoid production</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">$40T</div><div class="xp-kn-desc">Jensen Huang&#8217;s TAM<br>for humanoid labour</div></div>
+  </div>
+  <div class="xp-related">
+    <div class="xp-related-label">Related Coverage</div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">EXPLAINER</span>
+      <h4>What is a custom AI chip — and why are Google, Amazon and Meta all building their own?</h4>
+      <p>The same custom silicon driving hyperscaler AI will power physical AI edge inference — and NVIDIA's Jetson strategy connects both markets.</p>
+    </div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">EXPLAINER</span>
+      <h4>What is 48V power architecture — and why is the AI industry already moving past it?</h4>
+      <p>Physical AI factories need dense, reliable power delivery. The same 800V power transition driving data centres will reshape robot manufacturing facilities.</p>
+    </div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">REPORT</span>
+      <h4>Asia Tech Feed on Semiconductors: Outlook H2 2026–2027</h4>
+      <p>The physical AI buildout is a major driver of edge silicon demand — our semiconductor outlook covers the Jetson, SiC, and GaN tailwinds that physical AI creates.</p>
+    </div>
+  </div>
+</div>
