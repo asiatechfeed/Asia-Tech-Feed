@@ -1,39 +1,38 @@
 {
   "date": "2026-10-02",
-  "count": 14,
+  "count": 9,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-02-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Nebius acquires Israeli AI startup Inferize in GPU deal",
+      "title": "Amazon explores $8b Nvidia chip sale to outside investors",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/ai-infrastructure-firm-nebius-buys-eigen-ai-643m"
+      "url": "https://www.techinasia.com/amazon-microsoft-keep-ai-spending-plans-on-track"
     },
     {
-      "title": "Broadcom to lend Anthropic up to $42b for AI infrastructure",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-picks-nasdaq-october-ipo"
-    },
-    {
-      "title": "DigiKey\u2019s Factory Tomorrow Season 6 Explores AI Infra, Industrial Connectivity, Smart Manufacturing",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/digikeys-factory-tomorrow-season-6-explores-ai-infra-industrial-connectivity-smart-manufacturing/"
-    },
-    {
-      "title": "Omdia Sees Four Forces Reshaping Technology Markets in 2027",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/omdia-sees-four-forces-reshaping-technology-markets-in-2027/"
-    },
-    {
-      "title": "Samsung SDI's new LFP battery shows how AI is reshaping battery markets beyond EVs",
+      "title": "AMD bets on AI demand by buying World Labs",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261001VL215/infrastructure-samsung-sdi-lfp-battery-market-technology.html"
+      "url": "https://www.digitimes.com/news/a20261001PD243/amd-lisa-su-demand-nvidia-market.html"
+    },
+    {
+      "title": "Tesla cuts AI5, AI6 memory specs to protect Optimus",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261002PD222/tesla-optimus-production-ceo-elon-musk.html"
+    },
+    {
+      "title": "Huawei turns to LogicFolding to keep its flagship chip race alive",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261002VL209/huawei-kirin-flagship-foldable-smartphone-performance.html"
+    },
+    {
+      "title": "LG Uplus, OptAI team up on AI token optimization",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/lg-uplus-to-unveil-ai-data-center-strategy-at-mwc-2026"
     }
   ],
   "source_stats": [
@@ -130,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -151,14 +150,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 26,
+      "fetched": 46,
+      "relevant": 38,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -194,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 11,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
