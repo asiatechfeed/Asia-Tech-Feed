@@ -1,38 +1,38 @@
 {
   "date": "2026-10-02",
-  "count": 9,
+  "count": 7,
   "sources": [
-    "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-02-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Amazon explores $8b Nvidia chip sale to outside investors",
+      "title": "Micron ramps up HBM capacity at Taiwan's four major sites",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261002PD224/micron-taiwan-capacity-hbm-2026.html"
+    },
+    {
+      "title": "Samsung Electro-Mechanics AI deals hit $2.6b",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/amazon-microsoft-keep-ai-spending-plans-on-track"
+      "url": "https://www.techinasia.com/samsung-electro-mechanics-eyes-ai-chip-packaging-expansion"
     },
     {
-      "title": "AMD bets on AI demand by buying World Labs",
+      "title": "LG Electronics, LS Electric target AI data center bottlenecks with US cooling capacity, 345kV power deals",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261001PD243/amd-lisa-su-demand-nvidia-market.html"
+      "url": "https://www.digitimes.com/news/a20261002VL210/data-center-cooling-lg-electronics-capacity-infrastructure.html"
     },
     {
-      "title": "Tesla cuts AI5, AI6 memory specs to protect Optimus",
+      "title": "California tech exec arrested in US$300M Nvidia AI server smuggling case",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261002PD222/tesla-optimus-production-ceo-elon-musk.html"
+      "url": "https://www.digitimes.com/news/a20261002PD225/california-nvidia-chips-technology-2023.html"
     },
     {
-      "title": "Huawei turns to LogicFolding to keep its flagship chip race alive",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261002VL209/huawei-kirin-flagship-foldable-smartphone-performance.html"
-    },
-    {
-      "title": "LG Uplus, OptAI team up on AI token optimization",
+      "title": "Temasek stays bullish on AI despite heavy infrastructure spending",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/lg-uplus-to-unveil-ai-data-center-strategy-at-mwc-2026"
+      "url": "https://www.techinasia.com/temaseks-net-portfolio-grows-10-401b-fy26"
     }
   ],
   "source_stats": [
@@ -51,7 +51,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -148,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 46,
-      "relevant": 38,
+      "fetched": 52,
+      "relevant": 42,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +166,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 6,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -195,7 +195,7 @@
       "fetched": 36,
       "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
