@@ -1,40 +1,37 @@
 {
   "date": "2026-10-03",
-  "count": 11,
+  "count": 6,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EW",
     "NikkeiAsia",
-    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-10-03-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Tennessee execution survivor Christa Pike on ventilator, attorneys say",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/christa-pike-murder-execution-failed-ventilator-6428356"
+      "title": "OpenClaw adds Tencent AI tool to security checks",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/chinas-openclaw-ai-sparks-security-warnings-startup-hype"
     },
     {
-      "title": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/apple-says-it-will-flag-ai-requests-mac-data-after-metas-muse-draws-complaints-6428346"
+      "title": "Anthropic to invest $100m in AI engineer academy",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/anthropic-taps-accenture-independent-ai-model-tests"
     },
     {
-      "title": "HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)",
-      "source": "SemiEng",
-      "url": "https://semiengineering.com/hbf-for-high-throughput-llm-serving-uc-berkeley-furiosaai/"
-    },
-    {
-      "title": "TDK DC-link film capacitors rated for up to +135 \u00b0C",
-      "source": "EW",
-      "url": "https://www.electronicsweekly.com/news/products/passives/dc-link-film-capacitors-rated-for-up-to-135-c-2026-10/"
-    },
-    {
-      "title": "Global annual AI server shipments, 2025-2026",
+      "title": "Elon Musk, Jensen Huang see China closing lithography gap by 2030",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261001RS400/high-end-ai-server-shipments-2026.html?chid=2"
+      "url": "https://www.digitimes.com/news/a20261002PD247/asml-elon-musk-jensen-huang-2030-euv.html"
+    },
+    {
+      "title": "Synopsys reshapes EDA, IP business models as AI shifts revenue from seats to customer output",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261002PD249/synopsys-revenue-ip-eda-business.html"
+    },
+    {
+      "title": "Interview: AI PCs reach 65% of Europe's notebook channel, but what brings buyers to the market?",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261002VL211/ai-notebooks-sales-data-europe-hardware-pc.html"
     }
   ],
   "source_stats": [
@@ -51,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -131,10 +128,10 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
-      "relevant": 1,
+      "fetched": 0,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -150,7 +147,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 5,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -158,8 +155,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 75,
-      "relevant": 60,
+      "fetched": 35,
+      "relevant": 28,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -170,7 +167,7 @@
       "fetched": 50,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -195,9 +192,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 10,
+      "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -215,7 +212,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     }
   ]
