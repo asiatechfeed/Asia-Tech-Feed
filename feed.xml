@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-03T00:02:12+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 03, 2026</title><link href="https://asiatechfeed.com/2026/10/03/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 03, 2026" /><published>2026-10-03T00:01:32+00:00</published><updated>2026-10-03T00:01:32+00:00</updated><id>https://asiatechfeed.com/2026/10/03/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/03/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-03T05:00:05+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 03, 2026</title><link href="https://asiatechfeed.com/2026/10/03/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 03, 2026" /><published>2026-10-03T04:59:29+00:00</published><updated>2026-10-03T04:59:29+00:00</updated><id>https://asiatechfeed.com/2026/10/03/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/03/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,94 +12,54 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Tennessee execution survivor Christa Pike on ventilator, attorneys say</span></td>
-  <td class="col-summary">Hospital staff are working to save convicted murderer Christa Pike's life and clear the lethal drug pentobarbital from her system.</td>
-  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/christa-pike-murder-execution-failed-ventilator-6428356" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">OpenClaw adds Tencent AI tool to security checks</span></td>
+  <td class="col-summary">The security setup was tested on a 556-case subset of Tencent’s SkillTrustBench.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-openclaw-ai-sparks-security-warnings-startup-hype" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints</span></td>
-  <td class="col-summary">Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Anthropic to invest $100m in AI engineer academy</span></td>
+  <td class="col-summary">The first cohorts include engineers from Accenture, Morgan Stanley, and Novo Nordisk.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/apple-says-it-will-flag-ai-requests-mac-data-after-metas-muse-draws-complaints-6428346" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropic-taps-accenture-independent-ai-model-tests" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">SemiEng</span></td>
-  <td class="col-title"><span class="article-title">HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)</span></td>
-  <td class="col-summary">Researchers at the UC Berkeley and FuriosaAI published a technical paper titled “Characterizing High Bandwidth Flash for LLM Serving.” Abstract “Large language model (LLM) serving requires substantial memory to store model weights and KV caches. As models grow larger and contexts become longer, memory capacity and band</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://semiengineering.com/hbf-for-high-throughput-llm-serving-uc-berkeley-furiosaai/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Elon Musk, Jensen Huang see China closing lithography gap by 2030</span></td>
+  <td class="col-summary">While ASML executives explore how to scale extreme ultraviolet (EUV) lithography output beyond 110 units by 2028, China is pursuing indigenous advanced lithography systems. ASML plans to produce at least 80 EUV tools in 2027 and is investigating a further capacity increase of approximately 30% in 2028 to satisfy massiv</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002PD247/asml-elon-musk-jensen-huang-2030-euv.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">TDK DC-link film capacitors rated for up to +135 °C</span></td>
-  <td class="col-summary">TDK is introducing its B3272*A/G/T series of DC-link film capacitors that are qualified for continuous operation at case temperatures of up to +135 °C, with no derating required up to […] The post TDK DC-link film capacitors rated for up to +135 °C appeared first on Electronics Weekly .</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/products/passives/dc-link-film-capacitors-rated-for-up-to-135-c-2026-10/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Synopsys reshapes EDA, IP business models as AI shifts revenue from seats to customer output</span></td>
+  <td class="col-summary">Synopsys is reshaping how it monetizes its two core businesses, electronic design automation (EDA) and semiconductor IP, as AI transforms engineering workflows. Announcements at the company's 2026 Investor Day in New York, including new partnerships with OpenAI and Amazon, point to revenue models increasingly tied to c</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002PD249/synopsys-revenue-ip-eda-business.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Global annual AI server shipments, 2025-2026</span></td>
-  <td class="col-summary">Continued advances in top-tier LLM capabilities, coupled with the potential for business automation enabled by agentic AI, are prompting major North American cloud providers, Neo Clouds, and leading AI labs to accelerate AI data center buildouts in 2026.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261001RS400/high-end-ai-server-shipments-2026.html?chid=2" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Interview: AI PCs reach 65% of Europe's notebook channel, but what brings buyers to the market?</span></td>
+  <td class="col-summary">The rapid iteration of AI-capable hardware, following an industry-wide push toward integrating AI-processing capabilities into PCs, is bringing renewed attention to what AI could offer as its presence extends further into the notebook market. But beneath the expanding promise of these machines lies a less straightforwa</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002VL211/ai-notebooks-sales-data-europe-hardware-pc.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Anthropic aims for mid-November IPO as it juggles relationship with Trump administration</span></td>
-  <td class="col-summary">Anthropic is reportedly eyeing an IPO as early as mid-November that could become the biggest IPO to date. The AI startup's run-up to the listing coincides with a shaky relationship with the US government, calls from its CEO Dario Amodei for more industry regulations, and nationwide public concerns about AI safety.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002VL214/anthropic-ipo-ai-regulation-usa-government.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">OpenAI notified 100+ organizations over AI agent activity</span></td>
-  <td class="col-summary">The company said it began a broad review of model activity after the accidental hacking of Hugging Face.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-alerts-organizations-ai-model-testing-incidents" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung's Galaxy Tab S12 taps MediaTek Dimensity 9500 as 2nm successor arrives</span></td>
-  <td class="col-summary">MediaTek announced on September 30 that its flagship Dimensity 9500 chip powers Samsung's new Galaxy Tab S12 Ultra and Galaxy Tab S12+ tablets. The deal continues a long-running partnership between the two companies across Samsung's Galaxy Tab line.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002VL215/mediatek-dimensity-galaxy-tab-samsung-2nm.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Once in decline, Japan's hard-drive suppliers ride soaring AI demand</span></td>
-  <td class="col-summary">Once in decline, Japan's hard-drive suppliers ride soaring AI demand</td>
+  <td class="col-title"><span class="article-title">Japan legal tech firm teams with AI provider Harvey to supply data</span></td>
+  <td class="col-summary">Japan legal tech firm teams with AI provider Harvey to supply data</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/electronics/once-in-decline-japan-s-hard-drive-suppliers-ride-soaring-ai-demand" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan's TEPCO to counter 'capacity squatters' in AI data center boom</span></td>
-  <td class="col-summary">Japan's TEPCO to counter 'capacity squatters' in AI data center boom</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/energy/japan-s-tepco-to-counter-capacity-squatters-in-ai-data-center-boom" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan local governments step up Taiwan outreach for chip investment</span></td>
-  <td class="col-summary">Japan local governments step up Taiwan outreach for chip investment</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/japan-local-governments-step-up-taiwan-outreach-for-chip-investment" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-legal-tech-firm-teams-with-ai-provider-harvey-to-supply-data" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Tennessee execution survivor Christa Pike on ventilator, attorneys say Hospital staff are working to save convicted murderer Christa Pike's life and clear the lethal drug pentobarbital from her system. Pharmaceutical Read 2 CNA Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints AI Read 3 SemiEng HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI) Researchers at the UC Berkeley and FuriosaAI published a technical paper titled “Characterizing High Bandwidth Flash for LLM Serving.” Abstract “Large language model (LLM) serving requires substantial memory to store model weights and KV caches. As models grow larger and contexts become longer, memory capacity and band Semiconductor Read 4 EW TDK DC-link film capacitors rated for up to +135 °C TDK is introducing its B3272*A/G/T series of DC-link film capacitors that are qualified for continuous operation at case temperatures of up to +135 °C, with no derating required up to […] The post TDK DC-link film capacitors rated for up to +135 °C appeared first on Electronics Weekly . Electronics Read 5 DigiTimes Global annual AI server shipments, 2025-2026 Continued advances in top-tier LLM capabilities, coupled with the potential for business automation enabled by agentic AI, are prompting major North American cloud providers, Neo Clouds, and leading AI labs to accelerate AI data center buildouts in 2026. AIAutomation Read 6 DigiTimes Anthropic aims for mid-November IPO as it juggles relationship with Trump administration Anthropic is reportedly eyeing an IPO as early as mid-November that could become the biggest IPO to date. The AI startup's run-up to the listing coincides with a shaky relationship with the US government, calls from its CEO Dario Amodei for more industry regulations, and nationwide public concerns about AI safety. AI Read 7 TechAsia OpenAI notified 100+ organizations over AI agent activity The company said it began a broad review of model activity after the accidental hacking of Hugging Face. AI Read 8 DigiTimes Samsung's Galaxy Tab S12 taps MediaTek Dimensity 9500 as 2nm successor arrives MediaTek announced on September 30 that its flagship Dimensity 9500 chip powers Samsung's new Galaxy Tab S12 Ultra and Galaxy Tab S12+ tablets. The deal continues a long-running partnership between the two companies across Samsung's Galaxy Tab line. Semiconductor Read 9 NikkeiAsia Once in decline, Japan's hard-drive suppliers ride soaring AI demand Once in decline, Japan's hard-drive suppliers ride soaring AI demand AI Read 10 NikkeiAsia Japan's TEPCO to counter 'capacity squatters' in AI data center boom Japan's TEPCO to counter 'capacity squatters' in AI data center boom AI Read 11 NikkeiAsia Japan local governments step up Taiwan outreach for chip investment Japan local governments step up Taiwan outreach for chip investment Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 02, 2026</title><link href="https://asiatechfeed.com/2026/10/02/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 02, 2026" /><published>2026-10-02T08:00:55+00:00</published><updated>2026-10-02T08:00:55+00:00</updated><id>https://asiatechfeed.com/2026/10/02/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/02/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia OpenClaw adds Tencent AI tool to security checks The security setup was tested on a 556-case subset of Tencent’s SkillTrustBench. AI Read 2 TechAsia Anthropic to invest $100m in AI engineer academy The first cohorts include engineers from Accenture, Morgan Stanley, and Novo Nordisk. AI Read 3 DigiTimes Elon Musk, Jensen Huang see China closing lithography gap by 2030 While ASML executives explore how to scale extreme ultraviolet (EUV) lithography output beyond 110 units by 2028, China is pursuing indigenous advanced lithography systems. ASML plans to produce at least 80 EUV tools in 2027 and is investigating a further capacity increase of approximately 30% in 2028 to satisfy massiv AI Read 4 DigiTimes Synopsys reshapes EDA, IP business models as AI shifts revenue from seats to customer output Synopsys is reshaping how it monetizes its two core businesses, electronic design automation (EDA) and semiconductor IP, as AI transforms engineering workflows. Announcements at the company's 2026 Investor Day in New York, including new partnerships with OpenAI and Amazon, point to revenue models increasingly tied to c SemiconductorAIAutomation Read 5 DigiTimes Interview: AI PCs reach 65% of Europe's notebook channel, but what brings buyers to the market? The rapid iteration of AI-capable hardware, following an industry-wide push toward integrating AI-processing capabilities into PCs, is bringing renewed attention to what AI could offer as its presence extends further into the notebook market. But beneath the expanding promise of these machines lies a less straightforwa AI Read 6 NikkeiAsia Japan legal tech firm teams with AI provider Harvey to supply data Japan legal tech firm teams with AI provider Harvey to supply data AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 02, 2026</title><link href="https://asiatechfeed.com/2026/10/02/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 02, 2026" /><published>2026-10-02T08:00:55+00:00</published><updated>2026-10-02T08:00:55+00:00</updated><id>https://asiatechfeed.com/2026/10/02/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/02/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
