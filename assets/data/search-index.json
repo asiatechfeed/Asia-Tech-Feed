@@ -1,5 +1,127 @@
 [
   {
+    "date": "2026-10-03",
+    "title": "Tennessee execution survivor Christa Pike on ventilator, attorneys say",
+    "summary": "Hospital staff are working to save convicted murderer Christa Pike's life and clear the lethal drug pentobarbital from her system.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Pharmaceutical"
+    ],
+    "url": "https://www.channelnewsasia.com/world/christa-pike-murder-execution-failed-ventilator-6428356"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints",
+    "summary": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/apple-says-it-will-flag-ai-requests-mac-data-after-metas-muse-draws-complaints-6428346"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)",
+    "summary": "Researchers at the UC Berkeley and FuriosaAI published a technical paper titled “Characterizing High Bandwidth Flash for LLM Serving.” Abstract “Large language model (LLM) serving requires substantial memory to store model weights and KV caches. As models grow larger and contexts become longer, memory capacity and band",
+    "source": "Semiconductor Engineering",
+    "short": "SemiEng",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://semiengineering.com/hbf-for-high-throughput-llm-serving-uc-berkeley-furiosaai/"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "TDK DC-link film capacitors rated for up to +135 °C",
+    "summary": "TDK is introducing its B3272*A/G/T series of DC-link film capacitors that are qualified for continuous operation at case temperatures of up to +135 °C, with no derating required up to […] The post TDK DC-link film capacitors rated for up to +135 °C appeared first on Electronics Weekly .",
+    "source": "Electronics Weekly",
+    "short": "EW",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.electronicsweekly.com/news/products/passives/dc-link-film-capacitors-rated-for-up-to-135-c-2026-10/"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "Global annual AI server shipments, 2025-2026",
+    "summary": "Continued advances in top-tier LLM capabilities, coupled with the potential for business automation enabled by agentic AI, are prompting major North American cloud providers, Neo Clouds, and leading AI labs to accelerate AI data center buildouts in 2026.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20261001RS400/high-end-ai-server-shipments-2026.html?chid=2"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "Anthropic aims for mid-November IPO as it juggles relationship with Trump administration",
+    "summary": "Anthropic is reportedly eyeing an IPO as early as mid-November that could become the biggest IPO to date. The AI startup's run-up to the listing coincides with a shaky relationship with the US government, calls from its CEO Dario Amodei for more industry regulations, and nationwide public concerns about AI safety.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261002VL214/anthropic-ipo-ai-regulation-usa-government.html"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "OpenAI notified 100+ organizations over AI agent activity",
+    "summary": "The company said it began a broad review of model activity after the accidental hacking of Hugging Face.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/openai-alerts-organizations-ai-model-testing-incidents"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "Samsung's Galaxy Tab S12 taps MediaTek Dimensity 9500 as 2nm successor arrives",
+    "summary": "MediaTek announced on September 30 that its flagship Dimensity 9500 chip powers Samsung's new Galaxy Tab S12 Ultra and Galaxy Tab S12+ tablets. The deal continues a long-running partnership between the two companies across Samsung's Galaxy Tab line.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261002VL215/mediatek-dimensity-galaxy-tab-samsung-2nm.html"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "Once in decline, Japan's hard-drive suppliers ride soaring AI demand",
+    "summary": "Once in decline, Japan's hard-drive suppliers ride soaring AI demand",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/electronics/once-in-decline-japan-s-hard-drive-suppliers-ride-soaring-ai-demand"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "Japan's TEPCO to counter 'capacity squatters' in AI data center boom",
+    "summary": "Japan's TEPCO to counter 'capacity squatters' in AI data center boom",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/energy/japan-s-tepco-to-counter-capacity-squatters-in-ai-data-center-boom"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "Japan local governments step up Taiwan outreach for chip investment",
+    "summary": "Japan local governments step up Taiwan outreach for chip investment",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-local-governments-step-up-taiwan-outreach-for-chip-investment"
+  },
+  {
     "date": "2026-10-02",
     "title": "Micron ramps up HBM capacity at Taiwan's four major sites",
     "summary": "Micron Technology's revenue and profit for the fourth quarter of fiscal 2026 both beat expectations, and the company expects capacity supply to be even tighter in 2027 and 2028 than in 2026. Donghui Lu, vice president of Micron's DRAM front-end manufacturing operations in Asia and chairman of Micron Taiwan, said AI is ",
