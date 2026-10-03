@@ -1,37 +1,25 @@
 {
   "date": "2026-10-03",
-  "count": 6,
+  "count": 3,
   "sources": [
-    "DigiTimes",
-    "NikkeiAsia",
-    "TechAsia"
+    "DigiTimes"
   ],
   "post_file": "2026-10-03-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "OpenClaw adds Tencent AI tool to security checks",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinas-openclaw-ai-sparks-security-warnings-startup-hype"
-    },
-    {
-      "title": "Anthropic to invest $100m in AI engineer academy",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-taps-accenture-independent-ai-model-tests"
-    },
-    {
-      "title": "Elon Musk, Jensen Huang see China closing lithography gap by 2030",
+      "title": "Biren readies BR20X, sharpening China's AI GPU challenge to Nvidia",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261002PD247/asml-elon-musk-jensen-huang-2030-euv.html"
+      "url": "https://www.digitimes.com/news/a20261002VL212/gpu-biren-nvidia-production-roadmap.html"
     },
     {
-      "title": "Synopsys reshapes EDA, IP business models as AI shifts revenue from seats to customer output",
+      "title": "LG Energy Solution and GM bet LMR can bridge the gap between LFP cost and high-nickel range",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261002PD249/synopsys-revenue-ip-eda-business.html"
+      "url": "https://www.digitimes.com/news/a20261001VL219/automakers-lges-general-motors-cost-affordable.html"
     },
     {
-      "title": "Interview: AI PCs reach 65% of Europe's notebook channel, but what brings buyers to the market?",
+      "title": "Bull's France factory doubles capacity to capture growing orders as EU pushes AI sovereignty",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261002VL211/ai-notebooks-sales-data-europe-hardware-pc.html"
+      "url": "https://www.digitimes.com/news/a20261002VL213/capacity-france-eu-europe-supercomputer.html"
     }
   ],
   "source_stats": [
@@ -48,7 +36,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -128,8 +116,8 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
-      "relevant": 0,
+      "fetched": 10,
+      "relevant": 1,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -167,7 +155,7 @@
       "fetched": 50,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -192,9 +180,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 11,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -209,8 +197,8 @@
     {
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
-      "fetched": 10,
-      "relevant": 1,
+      "fetched": 0,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null

@@ -1,71 +1,36 @@
 [
   {
     "date": "2026-10-03",
-    "title": "OpenClaw adds Tencent AI tool to security checks",
-    "summary": "The security setup was tested on a 556-case subset of Tencent’s SkillTrustBench.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/chinas-openclaw-ai-sparks-security-warnings-startup-hype"
-  },
-  {
-    "date": "2026-10-03",
-    "title": "Anthropic to invest $100m in AI engineer academy",
-    "summary": "The first cohorts include engineers from Accenture, Morgan Stanley, and Novo Nordisk.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/anthropic-taps-accenture-independent-ai-model-tests"
-  },
-  {
-    "date": "2026-10-03",
-    "title": "Elon Musk, Jensen Huang see China closing lithography gap by 2030",
-    "summary": "While ASML executives explore how to scale extreme ultraviolet (EUV) lithography output beyond 110 units by 2028, China is pursuing indigenous advanced lithography systems. ASML plans to produce at least 80 EUV tools in 2027 and is investigating a further capacity increase of approximately 30% in 2028 to satisfy massiv",
+    "title": "Biren readies BR20X, sharpening China's AI GPU challenge to Nvidia",
+    "summary": "Biren Technology is preparing its next-generation GPU for mass production, advancing a domestic AI accelerator roadmap built around broader low-precision support and locally available manufacturing.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261002PD247/asml-elon-musk-jensen-huang-2030-euv.html"
+    "url": "https://www.digitimes.com/news/a20261002VL212/gpu-biren-nvidia-production-roadmap.html"
   },
   {
     "date": "2026-10-03",
-    "title": "Synopsys reshapes EDA, IP business models as AI shifts revenue from seats to customer output",
-    "summary": "Synopsys is reshaping how it monetizes its two core businesses, electronic design automation (EDA) and semiconductor IP, as AI transforms engineering workflows. Announcements at the company's 2026 Investor Day in New York, including new partnerships with OpenAI and Amazon, point to revenue models increasingly tied to c",
+    "title": "LG Energy Solution and GM bet LMR can bridge the gap between LFP cost and high-nickel range",
+    "summary": "For years, automakers have grappled with an underlying paradox stemming from persistent EV raw-material pressures, as supply chains worldwide have been constrained by a familiar battery-chemistry trade-off: cost-effectiveness versus high-performance density.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor",
-      "AI",
-      "Automation"
+      "Logistics"
     ],
-    "url": "https://www.digitimes.com/news/a20261002PD249/synopsys-revenue-ip-eda-business.html"
+    "url": "https://www.digitimes.com/news/a20261001VL219/automakers-lges-general-motors-cost-affordable.html"
   },
   {
     "date": "2026-10-03",
-    "title": "Interview: AI PCs reach 65% of Europe's notebook channel, but what brings buyers to the market?",
-    "summary": "The rapid iteration of AI-capable hardware, following an industry-wide push toward integrating AI-processing capabilities into PCs, is bringing renewed attention to what AI could offer as its presence extends further into the notebook market. But beneath the expanding promise of these machines lies a less straightforwa",
+    "title": "Bull's France factory doubles capacity to capture growing orders as EU pushes AI sovereignty",
+    "summary": "Supercomputer maker Bull will double its production capacity using an expanded factory that reopened on October 1. The French creator of Europe's fastest supercomputers described unprecedented orders as the continent seeks to catch up to the US and China in AI infrastructure.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261002VL211/ai-notebooks-sales-data-europe-hardware-pc.html"
-  },
-  {
-    "date": "2026-10-03",
-    "title": "Japan legal tech firm teams with AI provider Harvey to supply data",
-    "summary": "Japan legal tech firm teams with AI provider Harvey to supply data",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-legal-tech-firm-teams-with-ai-provider-harvey-to-supply-data"
+    "url": "https://www.digitimes.com/news/a20261002VL213/capacity-france-eu-europe-supercomputer.html"
   },
   {
     "date": "2026-10-02",
