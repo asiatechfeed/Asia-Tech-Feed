@@ -1,25 +1,37 @@
 {
-  "date": "2026-10-03",
-  "count": 3,
+  "date": "2026-10-04",
+  "count": 8,
   "sources": [
-    "DigiTimes"
+    "CNA",
+    "DigiTimes",
+    "NikkeiAsia"
   ],
-  "post_file": "2026-10-03-asia-tech-news-digest.md",
+  "post_file": "2026-10-04-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Biren readies BR20X, sharpening China's AI GPU challenge to Nvidia",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261002VL212/gpu-biren-nvidia-production-roadmap.html"
+      "title": "Jay Clayton to lead Trump's AI task force, deliver report in 120 days, WSJ reports",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/jay-clayton-lead-trumps-ai-task-force-deliver-report-in-120-days-wsj-reports-6430231"
     },
     {
-      "title": "LG Energy Solution and GM bet LMR can bridge the gap between LFP cost and high-nickel range",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261001VL219/automakers-lges-general-motors-cost-affordable.html"
+      "title": "Commentary: AI can be more comforting than a person. Here's what humans can learn from it",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/ai-chatbot-friend-help-problems-comfort-6391616"
     },
     {
-      "title": "Bull's France factory doubles capacity to capture growing orders as EU pushes AI sovereignty",
+      "title": "Musk confirms talks with TSMC over his Texas chip factory project",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261002VL213/capacity-france-eu-europe-supercomputer.html"
+      "url": "https://www.digitimes.com/news/a20261003VL200/tsmc-texas-elon-musk-spacex-investment.html"
+    },
+    {
+      "title": "Meta to add Naver Map navigation to AI glasses in South Korea",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261002PD246/meta-naver-2026-samsung-google.html"
+    },
+    {
+      "title": "Huawei hikes flagship prices up to US$200 as memory shortages hit smartphone margins",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261002PD233/huawei-smartphone-flagship-price-galaxy.html"
     }
   ],
   "source_stats": [
@@ -36,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -116,8 +128,8 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
-      "relevant": 1,
+      "fetched": 0,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -135,7 +147,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 4,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -153,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -180,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 9,
+      "relevant": 8,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -197,8 +209,8 @@
     {
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
-      "fetched": 0,
-      "relevant": 0,
+      "fetched": 10,
+      "relevant": 1,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
