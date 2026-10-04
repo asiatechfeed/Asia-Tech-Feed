@@ -1,37 +1,25 @@
 {
   "date": "2026-10-04",
-  "count": 5,
+  "count": 3,
   "sources": [
-    "DigiTimes",
-    "NikkeiAsia",
-    "TechAsia"
+    "DigiTimes"
   ],
   "post_file": "2026-10-04-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "China\u2019s RoboParty unveils RP1 humanoid robot for developers",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/foxconn-iat-launch-joint-venture-scale-robot-production"
-    },
-    {
-      "title": "OpenAI fires 3 safety researchers for sharing confidential information",
+      "title": "Hitachi and Fanuc launch Physical AI partnership for factory automation",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261002PD237/openai-investigation-bloomberg-infrastructure-redwood.html"
+      "url": "https://www.digitimes.com/news/a20261002PD239/hitachi-fanuc-partnership-industrial-2026.html"
     },
     {
-      "title": "BMW to make 20% of senior management redundant with AI",
+      "title": "Taiwan pledges to help TSMC expand domestic investment amid Singapore rumors",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261002PD244/bmw-management-layoffs-2028.html"
+      "url": "https://www.digitimes.com/news/a20261002PD234/tsmc-investment-taiwan-government-moea.html"
     },
     {
-      "title": "ficonTEC, Hermes Testing target CPO testing scale-up with INS-2 platform",
+      "title": "Inside Volantis's photonic bid to break AI's memory wall after US$88 million raise",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261001PD245/testing-cpo-equipment-automation-manufacturing.html"
-    },
-    {
-      "title": "Hiroshima and Nagasaki disasters offer lesson for AI governance",
-      "source": "NikkeiAsia",
-      "url": "https://asia.nikkei.com/spotlight/comment/hiroshima-and-nagasaki-disasters-offer-lesson-for-ai-governance"
+      "url": "https://www.digitimes.com/news/a20261002PD236/startup-ai-inference-hardware-chips-funding.html"
     }
   ],
   "source_stats": [
@@ -48,7 +36,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -165,9 +153,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 11,
+      "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +182,7 @@
       "fetched": 36,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {

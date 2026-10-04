@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - October 04, 2026"
-date: 2026-10-04 13:32:01 +0800
-articles_count: 5
-sources_count: 3
-sources: ["DigiTimes", "NikkeiAsia", "TechAsia"]
+date: 2026-10-04 16:00:45 +0800
+articles_count: 3
+sources_count: 1
+sources: ["DigiTimes"]
 csv_file: /assets/data/news-2026-10-04.tsv
-featured_title: "China\u2019s RoboParty unveils RP1 humanoid robot for developers"
-featured_url: "https://www.techinasia.com/foxconn-iat-launch-joint-venture-scale-robot-production"
-featured_source: "TechAsia"
-featured_summary: "Visitors pushed and kicked RP1 as it demonstrated balance recovery."
-featured_image: ""
+featured_title: "Hitachi and Fanuc launch Physical AI partnership for factory automation"
+featured_url: "https://www.digitimes.com/news/a20261002PD239/hitachi-fanuc-partnership-industrial-2026.html"
+featured_source: "DigiTimes"
+featured_summary: "Hitachi and Fanuc announced on September 30, 2026, that they have formed a strategic partnership on Physical AI, with internal testing beginning immediately and customer promotion planned for fiscal 2027. The Japanese industrial companies said they intend to apply the technology in manufacturing and other sectors, incl"
+featured_image: "https://img.digitimes.com/newsshow/20261002pd239_files/1_2b.jpg"
 ---
 
 <table class="news-table">
@@ -27,43 +27,27 @@ featured_image: ""
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">China’s RoboParty unveils RP1 humanoid robot for developers</span></td>
-  <td class="col-summary">Visitors pushed and kicked RP1 as it demonstrated balance recovery.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/foxconn-iat-launch-joint-venture-scale-robot-production" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Hitachi and Fanuc launch Physical AI partnership for factory automation</span></td>
+  <td class="col-summary">Hitachi and Fanuc announced on September 30, 2026, that they have formed a strategic partnership on Physical AI, with internal testing beginning immediately and customer promotion planned for fiscal 2027. The Japanese industrial companies said they intend to apply the technology in manufacturing and other sectors, incl</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag bio">Pharmaceutical</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002PD239/hitachi-fanuc-partnership-industrial-2026.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">OpenAI fires 3 safety researchers for sharing confidential information</span></td>
-  <td class="col-summary">OpenAI fired three safety researchers after they shared confidential information with a third-party artificial intelligence safety group, according to The Wall Street Journal , which first reported the news. The case has drawn attention because a person familiar with the matter said some of the material concerned OpenA</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002PD237/openai-investigation-bloomberg-infrastructure-redwood.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Taiwan pledges to help TSMC expand domestic investment amid Singapore rumors</span></td>
+  <td class="col-summary">Rumors that TSMC is weighing a new semiconductor investment in Singapore have reignited concerns over its overseas expansion, while the Ministry of Economic Affairs (MOEA) said on October 2, 2026, that the government will help the chipmaker expand investment in Taiwan.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002PD234/tsmc-investment-taiwan-government-moea.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">BMW to make 20% of senior management redundant with AI</span></td>
-  <td class="col-summary">BMW AG said at its capital markets day on September 30 that it plans to use artificial intelligence (AI) to help streamline one-fifth of management roles by mid-2027. As BMW pushes to boost organizational agility through more efficient use of AI, the cuts will later extend to frontline ranks.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002PD244/bmw-management-layoffs-2028.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">ficonTEC, Hermes Testing target CPO testing scale-up with INS-2 platform</span></td>
-  <td class="col-summary">ficonTEC, a maker of optoelectronic automation assembly and test equipment, has announced a strategic partnership with Hermes Testing Solutions Inc. (HTSI) to support Taiwan's rapidly expanding co-packaged optics (CPO) ecosystem. The collaboration will initially focus on the INS-2 test platform, advancing ficonTEC's do</td>
-  <td class="col-tags"><span class="tag auto">Automation</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261001PD245/testing-cpo-equipment-automation-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Hiroshima and Nagasaki disasters offer lesson for AI governance</span></td>
-  <td class="col-summary">Hiroshima and Nagasaki disasters offer lesson for AI governance</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/comment/hiroshima-and-nagasaki-disasters-offer-lesson-for-ai-governance" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Inside Volantis's photonic bid to break AI's memory wall after US$88 million raise</span></td>
+  <td class="col-summary">Semiconductor startup Volantis has raised US$88 million in Series A funding to develop an AI inference architecture that uses photonic interconnect technology to address memory bottlenecks in AI chips. The round, announced on October 1, 2026, and reported by Reuters , is aimed at breaking through the memory wall that h</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002PD236/startup-ai-inference-hardware-chips-funding.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
