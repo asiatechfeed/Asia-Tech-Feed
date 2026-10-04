@@ -1,94 +1,59 @@
 [
   {
     "date": "2026-10-04",
-    "title": "Jay Clayton to lead Trump's AI task force, deliver report in 120 days, WSJ reports",
-    "summary": "Jay Clayton to lead Trump's AI task force, deliver report in 120 days, WSJ reports",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "China’s RoboParty unveils RP1 humanoid robot for developers",
+    "summary": "Visitors pushed and kicked RP1 as it demonstrated balance recovery.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/jay-clayton-lead-trumps-ai-task-force-deliver-report-in-120-days-wsj-reports-6430231"
-  },
-  {
-    "date": "2026-10-04",
-    "title": "Commentary: AI can be more comforting than a person. Here's what humans can learn from it",
-    "summary": "Used carefully, generative artificial intelligence could help us become better at supporting one another, say psychology researchers.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/commentary/ai-chatbot-friend-help-problems-comfort-6391616"
-  },
-  {
-    "date": "2026-10-04",
-    "title": "Musk confirms talks with TSMC over his Texas chip factory project",
-    "summary": "Elon Musk has confirmed that Terafab, the chipmaking venture backed by his SpaceX and Tesla, is in discussions with TSMC. The confirmation followed a report that the Taiwanese foundry is looking at running new chip factories in Texas.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261003VL200/tsmc-texas-elon-musk-spacex-investment.html"
-  },
-  {
-    "date": "2026-10-04",
-    "title": "Meta to add Naver Map navigation to AI glasses in South Korea",
-    "summary": "Meta will link Naver Map's walking-navigation feature to its Ray-Ban Meta and Oakley Meta AI glasses in 2026, as it moves to strengthen its presence in South Korea before rival AI glasses from Google and Samsung Electronics arrive. According to South Korean media outlets Seoul Economic Daily and ETNews , the deal would",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261002PD246/meta-naver-2026-samsung-google.html"
-  },
-  {
-    "date": "2026-10-04",
-    "title": "Huawei hikes flagship prices up to US$200 as memory shortages hit smartphone margins",
-    "summary": "Soaring memory procurement costs are pushing smartphone makers to pass expenses on to consumers. As artificial intelligence (AI) infrastructure expansion continues to squeeze global memory supplies, Huawei has officially raised device prices, citing an average US$200 increase in per-unit manufacturing costs. The move f",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261002PD233/huawei-smartphone-flagship-price-galaxy.html"
-  },
-  {
-    "date": "2026-10-04",
-    "title": "The unglamorous reality of winning the AI race",
-    "summary": "The unglamorous reality of winning the AI race",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/opinion/the-unglamorous-reality-of-winning-the-ai-race"
-  },
-  {
-    "date": "2026-10-04",
-    "title": "Kawasaki Heavy aims for fully autonomous humanoid AI robot by 2030",
-    "summary": "Kawasaki Heavy aims for fully autonomous humanoid AI robot by 2030",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI",
       "Automation"
     ],
-    "url": "https://asia.nikkei.com/business/technology/kawasaki-heavy-aims-for-fully-autonomous-humanoid-ai-robot-by-2030"
+    "url": "https://www.techinasia.com/foxconn-iat-launch-joint-venture-scale-robot-production"
   },
   {
     "date": "2026-10-04",
-    "title": "Airbnb unlikely to let AI agents like Muse make bookings, CEO says",
-    "summary": "Airbnb unlikely to let AI agents like Muse make bookings, CEO says",
+    "title": "OpenAI fires 3 safety researchers for sharing confidential information",
+    "summary": "OpenAI fired three safety researchers after they shared confidential information with a third-party artificial intelligence safety group, according to The Wall Street Journal , which first reported the news. The case has drawn attention because a person familiar with the matter said some of the material concerned OpenA",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261002PD237/openai-investigation-bloomberg-infrastructure-redwood.html"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "BMW to make 20% of senior management redundant with AI",
+    "summary": "BMW AG said at its capital markets day on September 30 that it plans to use artificial intelligence (AI) to help streamline one-fifth of management roles by mid-2027. As BMW pushes to boost organizational agility through more efficient use of AI, the cuts will later extend to frontline ranks.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261002PD244/bmw-management-layoffs-2028.html"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "ficonTEC, Hermes Testing target CPO testing scale-up with INS-2 platform",
+    "summary": "ficonTEC, a maker of optoelectronic automation assembly and test equipment, has announced a strategic partnership with Hermes Testing Solutions Inc. (HTSI) to support Taiwan's rapidly expanding co-packaged optics (CPO) ecosystem. The collaboration will initially focus on the INS-2 test platform, advancing ficonTEC's do",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Automation",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261001PD245/testing-cpo-equipment-automation-manufacturing.html"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "Hiroshima and Nagasaki disasters offer lesson for AI governance",
+    "summary": "Hiroshima and Nagasaki disasters offer lesson for AI governance",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/travel-leisure/airbnb-unlikely-to-let-ai-agents-like-muse-make-bookings-ceo-says"
+    "url": "https://asia.nikkei.com/spotlight/comment/hiroshima-and-nagasaki-disasters-offer-lesson-for-ai-governance"
   },
   {
     "date": "2026-10-03",

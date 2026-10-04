@@ -1,37 +1,37 @@
 {
   "date": "2026-10-04",
-  "count": 8,
+  "count": 5,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "NikkeiAsia"
+    "NikkeiAsia",
+    "TechAsia"
   ],
   "post_file": "2026-10-04-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Jay Clayton to lead Trump's AI task force, deliver report in 120 days, WSJ reports",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/jay-clayton-lead-trumps-ai-task-force-deliver-report-in-120-days-wsj-reports-6430231"
+      "title": "China\u2019s RoboParty unveils RP1 humanoid robot for developers",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/foxconn-iat-launch-joint-venture-scale-robot-production"
     },
     {
-      "title": "Commentary: AI can be more comforting than a person. Here's what humans can learn from it",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/ai-chatbot-friend-help-problems-comfort-6391616"
-    },
-    {
-      "title": "Musk confirms talks with TSMC over his Texas chip factory project",
+      "title": "OpenAI fires 3 safety researchers for sharing confidential information",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261003VL200/tsmc-texas-elon-musk-spacex-investment.html"
+      "url": "https://www.digitimes.com/news/a20261002PD237/openai-investigation-bloomberg-infrastructure-redwood.html"
     },
     {
-      "title": "Meta to add Naver Map navigation to AI glasses in South Korea",
+      "title": "BMW to make 20% of senior management redundant with AI",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261002PD246/meta-naver-2026-samsung-google.html"
+      "url": "https://www.digitimes.com/news/a20261002PD244/bmw-management-layoffs-2028.html"
     },
     {
-      "title": "Huawei hikes flagship prices up to US$200 as memory shortages hit smartphone margins",
+      "title": "ficonTEC, Hermes Testing target CPO testing scale-up with INS-2 platform",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261002PD233/huawei-smartphone-flagship-price-galaxy.html"
+      "url": "https://www.digitimes.com/news/a20261001PD245/testing-cpo-equipment-automation-manufacturing.html"
+    },
+    {
+      "title": "Hiroshima and Nagasaki disasters offer lesson for AI governance",
+      "source": "NikkeiAsia",
+      "url": "https://asia.nikkei.com/spotlight/comment/hiroshima-and-nagasaki-disasters-offer-lesson-for-ai-governance"
     }
   ],
   "source_stats": [
@@ -50,7 +50,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -128,8 +128,8 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
-      "relevant": 0,
+      "fetched": 10,
+      "relevant": 1,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -167,7 +167,7 @@
       "fetched": 50,
       "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -194,7 +194,7 @@
       "fetched": 36,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
