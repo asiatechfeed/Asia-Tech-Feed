@@ -1,114 +1,126 @@
 [
   {
     "date": "2026-10-05",
-    "title": "Climate tech investment cools, but green supply chains support long-term demand",
-    "summary": "Tighter green supply-chain requirements are driving demand for energy investment and infrastructure, while companies also face the challenge of matching power generation and consumption needs with operating costs and net-zero goals. Although global venture capital markets have entered a correction in recent years and c",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20261005PD226/investment-demand-policy-net-zero-market.html"
-  },
-  {
-    "date": "2026-10-05",
-    "title": "Bessent expects US-China AI incident channel as Washington leans on voluntary oversight",
-    "summary": "US Treasury Secretary Scott Bessent said Washington and Beijing are likely to agree on a way to alert each other when artificial intelligence goes wrong, signaling that AI safety is becoming a bilateral security issue even as the Trump administration relies on voluntary industry pledges rather than binding rules at hom",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261005VL208/anthropic-beijing-government.html"
-  },
-  {
-    "date": "2026-10-05",
-    "title": "Global AI servers shift production nearshore, slowing direct Taiwan exports to US",
-    "summary": "Taiwanese suppliers currently control approximately 90% of the global AI server market. However, a recent survey by Taiwan's Ministry of Economic Affairs showed that the proportion of export orders produced overseas rose in August 2026, a clear reflection of Taiwanese AI server makers accelerating capacity expansion in",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261005PD221/taiwan-production-exports-ai-server-growth.html"
-  },
-  {
-    "date": "2026-10-05",
-    "title": "BOJ says AI boom may have eased financial conditions, warns of market risks",
-    "summary": "BOJ says AI boom may have eased financial conditions, warns of market risks",
+    "title": "Singapore's digital economy grows to S$144.1 billion as AI adoption accelerates",
+    "summary": "Nearly one in four Singapore businesses adopted AI in 2025, up from about one in seven a year earlier, according to the Singapore Digital Economy Report.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/boj-says-ai-boom-may-have-eased-financial-conditions-warns-market-risks-6432176"
+    "url": "https://www.channelnewsasia.com/singapore/digital-economy-ai-adoption-2025-singapore-imda-6432161"
   },
   {
     "date": "2026-10-05",
-    "title": "MIPS, Xcelsa Target Faster Optimization of Workload-specific Custom Chips",
-    "summary": "MIPS and Xcelsa combine processor IP and verified optimization technology to accelerate workload-specific custom silicon development. The post MIPS, Xcelsa Target Faster Optimization of Workload-specific Custom Chips appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "Norway to propose temporary ban on AI glasses in some public places",
+    "summary": "Norway to propose temporary ban on AI glasses in some public places",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/norway-propose-temporary-ban-ai-glasses-in-some-public-places-6432561"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Multimodal AI app scales to 1m users by scanning meal photos",
+    "summary": "Kalguroo has already logged over 20 million meals by using AI vision models to eliminate tedious manual calorie counting.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/multimodal-ai-app-scales-1m-users-scanning-meal-photos"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Cheap SiC substrates ignite demand wave, reshape ecosystem",
+    "summary": "Prices for low-cost 6-inch silicon carbide (SiC) substrates, after years of capacity expansion and brutal price wars, are now showing clear signs of bottoming out in the second half of 2026. The cheap material has also unleashed wave after wave of demand, with China's domestic stimulus tightening SiC wafer fabrication ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261005PD227/sic-demand-6-inch-silicon-price.html"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Singapore’s digital economy hits $113b: report",
+    "summary": "Among small and medium-sized enterprises, AI adoption rose to 23.4%. In 2025, 12.1% of firms said they planned to adopt AI within 12 months.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/singapore-targets-100000-ai-bilingual-workers-by-2029"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030",
+    "summary": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.channelnewsasia.com/business/deutsche-telekom-sees-eu25-billion-in-savings-ai-automation-2030-6432461"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "AI hardware is propping up world trade, and pulling it toward East Asia and North America",
+    "summary": "The resilience of global goods trade amid tariff escalation and an energy shock is real, but it rests on a narrow base. A breakdown of ITC Trade Map export data shows that a handful of AI hardware categories, led by servers, processors and memory chips, account for well over a third of the growth in world exports, and ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261005VL203/hardware-asia-north-america-growth-exports.html"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Commentary: China's US$37.3B subsidy meets a weak smartphone market as new flagships test replacement demand",
+    "summary": "China's National Day holidays have opened one of the fourth quarter's most important promotional windows for consumer electronics. For smartphones, the timing is especially significant: Apple, Xiaomi, Vivo, Oppo and Honor have all launched new models since September, while Huawei introduced its Mate 90 series on Octobe",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261005PD225/smartphone-market-demand-subsidies-shipments.html"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Malaysia's SkyeChip targets Japan, joins Rapidus ecosystem",
+    "summary": "Malaysia's SkyeChip targets Japan, joins Rapidus ecosystem",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/mips-xcelsa-target-faster-optimization-of-workload-specific-custom-chips/"
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/malaysia-s-skyechip-targets-japan-joins-rapidus-ecosystem"
   },
   {
     "date": "2026-10-05",
-    "title": "Why developers are giving Jev a shot",
-    "summary": "A new AI model called Jev has developers buzzing. We cut through the hype to find out what makes it different - and why it matters.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Panasonic to make humanoid robots, leveraging its battery business",
+    "summary": "Panasonic to make humanoid robots, leveraging its battery business",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
     "tags": [
-      "AI"
+      "Automation"
     ],
-    "url": "https://www.techinasia.com/developers-giving-jev-shot"
+    "url": "https://asia.nikkei.com/business/technology/panasonic-to-make-humanoid-robots-leveraging-its-battery-business"
   },
   {
     "date": "2026-10-05",
-    "title": "Google pauses open source bug bounty program over AI spam",
-    "summary": "Google plans to provide an update on the pause in the first quarter of 2027.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/googles-gemini-hacked-3-companies-security-tests"
-  },
-  {
-    "date": "2026-10-05",
-    "title": "Autodesk links AI transparency cards to its assistant",
-    "summary": "Autodesk first launched its AI Transparency Cards in 2024.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/gen-harvard-dropout-builds-ai-platform-architects"
-  },
-  {
-    "date": "2026-10-05",
-    "title": "Japan's Nikkei average regains 70,000 mark as AI optimism returns",
-    "summary": "Japan's Nikkei average regains 70,000 mark as AI optimism returns",
+    "title": "Japan's Nikkei average briefly regains 70,000 mark as AI optimism returns",
+    "summary": "Japan's Nikkei average briefly regains 70,000 mark as AI optimism returns",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/markets/japan-s-nikkei-average-regains-70-000-mark-as-ai-optimism-returns"
-  },
-  {
-    "date": "2026-10-05",
-    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
-    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
-    "source": "KED Global",
-    "short": "KED",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
+    "url": "https://asia.nikkei.com/business/markets/japan-s-nikkei-average-briefly-regains-70-000-mark-as-ai-optimism-returns"
   },
   {
     "date": "2026-10-04",
