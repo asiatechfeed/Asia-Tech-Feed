@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-10-05",
+    "title": "DIGITIMES Insight: AI data demand surges as power and cooling become new bottlenecks",
+    "summary": "As the number of AI computing transistors integrated within a single CoWoS package rises rapidly, DIGITIMES observes that moving massive volumes of data to compute chips fast enough is becoming increasingly critical to fully utilizing available computing power.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261002PD250/data-cooling-demand-chips-hbm.html"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "AI system integration eclipses chip specs",
+    "summary": "As AI develops rapidly across both cloud and edge environments, major chipmakers are devoting less attention to chip specifications and more to system-level design and ecosystems. For IC design leaders, moving into the system layer has become a key factor for upgrading in the AI era, because simply supplying chips is n",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261002PD231/chipmakers-design-chips-competition-hardware.html"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Nanya Tech expands 3D OSAT to chase HBM-like demand",
+    "summary": "Nanya Technology is stepping up investment in new factory capacity to expand packaging and testing as some customers move into trial production for specification-based designs. The company said it has won approval from the National Science and Technology Council's (NSTC) park review committee to set up a 3D wafer packa",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261002PD230/nanya-technology-3d-demand-osat-plant.html"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "AI Infrastructure Demand Keeps DRAM Supply Tight Through 2027",
+    "summary": "AI infrastructure spending is keeping DRAM supply constrained, raising costs and squeezing consumer electronics manufacturers. The post AI Infrastructure Demand Keeps DRAM Supply Tight Through 2027 appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/ai-infrastructure-demand-keeps-dram-supply-tight-through-2027/"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "OpenAI's Altman says AI benefits warrant accepting some risks",
+    "summary": "OpenAI's Altman says AI benefits warrant accepting some risks",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/openais-altman-says-ai-benefits-warrant-accepting-some-risks-6431831"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports",
+    "summary": "Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/former-anthropic-researcher-coxon-testify-new-york-city-ai-hearing-bloomberg-news-reports-6431736"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Japan's Rapidus to help 17 companies design chips for clients",
+    "summary": "Japan's Rapidus to help 17 companies design chips for clients",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-rapidus-to-help-17-companies-design-chips-for-clients"
+  },
+  {
     "date": "2026-10-04",
     "title": "Hitachi and Fanuc launch Physical AI partnership for factory automation",
     "summary": "Hitachi and Fanuc announced on September 30, 2026, that they have formed a strategic partnership on Physical AI, with internal testing beginning immediately and customer promotion planned for fiscal 2027. The Japanese industrial companies said they intend to apply the technology in manufacturing and other sectors, incl",
