@@ -1,84 +1,114 @@
 [
   {
     "date": "2026-10-05",
-    "title": "DIGITIMES Insight: AI data demand surges as power and cooling become new bottlenecks",
-    "summary": "As the number of AI computing transistors integrated within a single CoWoS package rises rapidly, DIGITIMES observes that moving massive volumes of data to compute chips fast enough is becoming increasingly critical to fully utilizing available computing power.",
+    "title": "Climate tech investment cools, but green supply chains support long-term demand",
+    "summary": "Tighter green supply-chain requirements are driving demand for energy investment and infrastructure, while companies also face the challenge of matching power generation and consumption needs with operating costs and net-zero goals. Although global venture capital markets have entered a correction in recent years and c",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI",
-      "Semiconductor"
+      "Logistics"
     ],
-    "url": "https://www.digitimes.com/news/a20261002PD250/data-cooling-demand-chips-hbm.html"
+    "url": "https://www.digitimes.com/news/a20261005PD226/investment-demand-policy-net-zero-market.html"
   },
   {
     "date": "2026-10-05",
-    "title": "AI system integration eclipses chip specs",
-    "summary": "As AI develops rapidly across both cloud and edge environments, major chipmakers are devoting less attention to chip specifications and more to system-level design and ecosystems. For IC design leaders, moving into the system layer has become a key factor for upgrading in the AI era, because simply supplying chips is n",
+    "title": "Bessent expects US-China AI incident channel as Washington leans on voluntary oversight",
+    "summary": "US Treasury Secretary Scott Bessent said Washington and Beijing are likely to agree on a way to alert each other when artificial intelligence goes wrong, signaling that AI safety is becoming a bilateral security issue even as the Trump administration relies on voluntary industry pledges rather than binding rules at hom",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI",
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261002PD231/chipmakers-design-chips-competition-hardware.html"
+    "url": "https://www.digitimes.com/news/a20261005VL208/anthropic-beijing-government.html"
   },
   {
     "date": "2026-10-05",
-    "title": "Nanya Tech expands 3D OSAT to chase HBM-like demand",
-    "summary": "Nanya Technology is stepping up investment in new factory capacity to expand packaging and testing as some customers move into trial production for specification-based designs. The company said it has won approval from the National Science and Technology Council's (NSTC) park review committee to set up a 3D wafer packa",
+    "title": "Global AI servers shift production nearshore, slowing direct Taiwan exports to US",
+    "summary": "Taiwanese suppliers currently control approximately 90% of the global AI server market. However, a recent survey by Taiwan's Ministry of Economic Affairs showed that the proportion of export orders produced overseas rose in August 2026, a clear reflection of Taiwanese AI server makers accelerating capacity expansion in",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI",
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261002PD230/nanya-technology-3d-demand-osat-plant.html"
+    "url": "https://www.digitimes.com/news/a20261005PD221/taiwan-production-exports-ai-server-growth.html"
   },
   {
     "date": "2026-10-05",
-    "title": "AI Infrastructure Demand Keeps DRAM Supply Tight Through 2027",
-    "summary": "AI infrastructure spending is keeping DRAM supply constrained, raising costs and squeezing consumer electronics manufacturers. The post AI Infrastructure Demand Keeps DRAM Supply Tight Through 2027 appeared first on EE Times Asia .",
+    "title": "BOJ says AI boom may have eased financial conditions, warns of market risks",
+    "summary": "BOJ says AI boom may have eased financial conditions, warns of market risks",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/boj-says-ai-boom-may-have-eased-financial-conditions-warns-market-risks-6432176"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "MIPS, Xcelsa Target Faster Optimization of Workload-specific Custom Chips",
+    "summary": "MIPS and Xcelsa combine processor IP and verified optimization technology to accelerate workload-specific custom silicon development. The post MIPS, Xcelsa Target Faster Optimization of Workload-specific Custom Chips appeared first on EE Times Asia .",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
-      "Electronics",
-      "AI"
+      "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/ai-infrastructure-demand-keeps-dram-supply-tight-through-2027/"
+    "url": "https://www.eetasia.com/mips-xcelsa-target-faster-optimization-of-workload-specific-custom-chips/"
   },
   {
     "date": "2026-10-05",
-    "title": "OpenAI's Altman says AI benefits warrant accepting some risks",
-    "summary": "OpenAI's Altman says AI benefits warrant accepting some risks",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "Why developers are giving Jev a shot",
+    "summary": "A new AI model called Jev has developers buzzing. We cut through the hype to find out what makes it different - and why it matters.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/openais-altman-says-ai-benefits-warrant-accepting-some-risks-6431831"
+    "url": "https://www.techinasia.com/developers-giving-jev-shot"
   },
   {
     "date": "2026-10-05",
-    "title": "Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports",
-    "summary": "Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "Google pauses open source bug bounty program over AI spam",
+    "summary": "Google plans to provide an update on the pause in the first quarter of 2027.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/former-anthropic-researcher-coxon-testify-new-york-city-ai-hearing-bloomberg-news-reports-6431736"
+    "url": "https://www.techinasia.com/googles-gemini-hacked-3-companies-security-tests"
   },
   {
     "date": "2026-10-05",
-    "title": "Japan's Rapidus to help 17 companies design chips for clients",
-    "summary": "Japan's Rapidus to help 17 companies design chips for clients",
+    "title": "Autodesk links AI transparency cards to its assistant",
+    "summary": "Autodesk first launched its AI Transparency Cards in 2024.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/gen-harvard-dropout-builds-ai-platform-architects"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Japan's Nikkei average regains 70,000 mark as AI optimism returns",
+    "summary": "Japan's Nikkei average regains 70,000 mark as AI optimism returns",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/markets/japan-s-nikkei-average-regains-70-000-mark-as-ai-optimism-returns"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
+    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI",
       "Semiconductor"
     ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-rapidus-to-help-17-companies-design-chips-for-clients"
+    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
   },
   {
     "date": "2026-10-04",
