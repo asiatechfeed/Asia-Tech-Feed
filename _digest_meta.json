@@ -1,40 +1,38 @@
 {
   "date": "2026-10-05",
-  "count": 10,
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
-    "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-05-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Climate tech investment cools, but green supply chains support long-term demand",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261005PD226/investment-demand-policy-net-zero-market.html"
-    },
-    {
-      "title": "Bessent expects US-China AI incident channel as Washington leans on voluntary oversight",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261005VL208/anthropic-beijing-government.html"
-    },
-    {
-      "title": "Global AI servers shift production nearshore, slowing direct Taiwan exports to US",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261005PD221/taiwan-production-exports-ai-server-growth.html"
-    },
-    {
-      "title": "BOJ says AI boom may have eased financial conditions, warns of market risks",
+      "title": "Singapore's digital economy grows to S$144.1 billion as AI adoption accelerates",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/boj-says-ai-boom-may-have-eased-financial-conditions-warns-market-risks-6432176"
+      "url": "https://www.channelnewsasia.com/singapore/digital-economy-ai-adoption-2025-singapore-imda-6432161"
     },
     {
-      "title": "MIPS, Xcelsa Target Faster Optimization of Workload-specific Custom Chips",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/mips-xcelsa-target-faster-optimization-of-workload-specific-custom-chips/"
+      "title": "Norway to propose temporary ban on AI glasses in some public places",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/norway-propose-temporary-ban-ai-glasses-in-some-public-places-6432561"
+    },
+    {
+      "title": "Multimodal AI app scales to 1m users by scanning meal photos",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/multimodal-ai-app-scales-1m-users-scanning-meal-photos"
+    },
+    {
+      "title": "Cheap SiC substrates ignite demand wave, reshape ecosystem",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261005PD227/sic-demand-6-inch-silicon-price.html"
+    },
+    {
+      "title": "Singapore\u2019s digital economy hits $113b: report",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/singapore-targets-100000-ai-bilingual-workers-by-2029"
     }
   ],
   "source_stats": [
@@ -51,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -152,14 +150,14 @@
       "fetched": 10,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 48,
-      "relevant": 36,
+      "fetched": 50,
+      "relevant": 38,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 11,
+      "relevant": 14,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -179,7 +177,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -197,7 +195,7 @@
       "fetched": 36,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
