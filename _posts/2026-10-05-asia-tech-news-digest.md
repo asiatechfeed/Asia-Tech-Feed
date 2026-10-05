@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - October 05, 2026"
-date: 2026-10-05 08:00:52 +0800
-articles_count: 7
-sources_count: 4
-sources: ["CNA", "DigiTimes", "EETAsia", "NikkeiAsia"]
+date: 2026-10-05 13:15:06 +0800
+articles_count: 10
+sources_count: 6
+sources: ["CNA", "DigiTimes", "EETAsia", "KED", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-10-05.tsv
-featured_title: "DIGITIMES Insight: AI data demand surges as power and cooling become new bottlenecks"
-featured_url: "https://www.digitimes.com/news/a20261002PD250/data-cooling-demand-chips-hbm.html"
+featured_title: "Climate tech investment cools, but green supply chains support long-term demand"
+featured_url: "https://www.digitimes.com/news/a20261005PD226/investment-demand-policy-net-zero-market.html"
 featured_source: "DigiTimes"
-featured_summary: "As the number of AI computing transistors integrated within a single CoWoS package rises rapidly, DIGITIMES observes that moving massive volumes of data to compute chips fast enough is becoming increasingly critical to fully utilizing available computing power."
-featured_image: "https://img.digitimes.com/newsshow/20261002pd250_files/1_b.jpg"
+featured_summary: "Tighter green supply-chain requirements are driving demand for energy investment and infrastructure, while companies also face the challenge of matching power generation and consumption needs with operating costs and net-zero goals. Although global venture capital markets have entered a correction in recent years and c"
+featured_image: "https://img.digitimes.com/newsshow/20261005pd226_files/1_b.jpg"
 ---
 
 <table class="news-table">
@@ -28,58 +28,82 @@ featured_image: "https://img.digitimes.com/newsshow/20261002pd250_files/1_b.jpg"
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">DIGITIMES Insight: AI data demand surges as power and cooling become new bottlenecks</span></td>
-  <td class="col-summary">As the number of AI computing transistors integrated within a single CoWoS package rises rapidly, DIGITIMES observes that moving massive volumes of data to compute chips fast enough is becoming increasingly critical to fully utilizing available computing power.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002PD250/data-cooling-demand-chips-hbm.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Climate tech investment cools, but green supply chains support long-term demand</span></td>
+  <td class="col-summary">Tighter green supply-chain requirements are driving demand for energy investment and infrastructure, while companies also face the challenge of matching power generation and consumption needs with operating costs and net-zero goals. Although global venture capital markets have entered a correction in recent years and c</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261005PD226/investment-demand-policy-net-zero-market.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AI system integration eclipses chip specs</span></td>
-  <td class="col-summary">As AI develops rapidly across both cloud and edge environments, major chipmakers are devoting less attention to chip specifications and more to system-level design and ecosystems. For IC design leaders, moving into the system layer has become a key factor for upgrading in the AI era, because simply supplying chips is n</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002PD231/chipmakers-design-chips-competition-hardware.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Bessent expects US-China AI incident channel as Washington leans on voluntary oversight</span></td>
+  <td class="col-summary">US Treasury Secretary Scott Bessent said Washington and Beijing are likely to agree on a way to alert each other when artificial intelligence goes wrong, signaling that AI safety is becoming a bilateral security issue even as the Trump administration relies on voluntary industry pledges rather than binding rules at hom</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261005VL208/anthropic-beijing-government.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Nanya Tech expands 3D OSAT to chase HBM-like demand</span></td>
-  <td class="col-summary">Nanya Technology is stepping up investment in new factory capacity to expand packaging and testing as some customers move into trial production for specification-based designs. The company said it has won approval from the National Science and Technology Council's (NSTC) park review committee to set up a 3D wafer packa</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002PD230/nanya-technology-3d-demand-osat-plant.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Global AI servers shift production nearshore, slowing direct Taiwan exports to US</span></td>
+  <td class="col-summary">Taiwanese suppliers currently control approximately 90% of the global AI server market. However, a recent survey by Taiwan's Ministry of Economic Affairs showed that the proportion of export orders produced overseas rose in August 2026, a clear reflection of Taiwanese AI server makers accelerating capacity expansion in</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261005PD221/taiwan-production-exports-ai-server-growth.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">AI Infrastructure Demand Keeps DRAM Supply Tight Through 2027</span></td>
-  <td class="col-summary">AI infrastructure spending is keeping DRAM supply constrained, raising costs and squeezing consumer electronics manufacturers. The post AI Infrastructure Demand Keeps DRAM Supply Tight Through 2027 appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ai-infrastructure-demand-keeps-dram-supply-tight-through-2027/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">BOJ says AI boom may have eased financial conditions, warns of market risks</span></td>
+  <td class="col-summary">BOJ says AI boom may have eased financial conditions, warns of market risks</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/boj-says-ai-boom-may-have-eased-financial-conditions-warns-market-risks-6432176" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">OpenAI's Altman says AI benefits warrant accepting some risks</span></td>
-  <td class="col-summary">OpenAI's Altman says AI benefits warrant accepting some risks</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/openais-altman-says-ai-benefits-warrant-accepting-some-risks-6431831" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">MIPS, Xcelsa Target Faster Optimization of Workload-specific Custom Chips</span></td>
+  <td class="col-summary">MIPS and Xcelsa combine processor IP and verified optimization technology to accelerate workload-specific custom silicon development. The post MIPS, Xcelsa Target Faster Optimization of Workload-specific Custom Chips appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/mips-xcelsa-target-faster-optimization-of-workload-specific-custom-chips/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports</span></td>
-  <td class="col-summary">Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Why developers are giving Jev a shot</span></td>
+  <td class="col-summary">A new AI model called Jev has developers buzzing. We cut through the hype to find out what makes it different - and why it matters.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/former-anthropic-researcher-coxon-testify-new-york-city-ai-hearing-bloomberg-news-reports-6431736" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/developers-giving-jev-shot" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Google pauses open source bug bounty program over AI spam</span></td>
+  <td class="col-summary">Google plans to provide an update on the pause in the first quarter of 2027.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/googles-gemini-hacked-3-companies-security-tests" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Autodesk links AI transparency cards to its assistant</span></td>
+  <td class="col-summary">Autodesk first launched its AI Transparency Cards in 2024.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/gen-harvard-dropout-builds-ai-platform-architects" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan's Rapidus to help 17 companies design chips for clients</span></td>
-  <td class="col-summary">Japan's Rapidus to help 17 companies design chips for clients</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/japan-s-rapidus-to-help-17-companies-design-chips-for-clients" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Japan's Nikkei average regains 70,000 mark as AI optimism returns</span></td>
+  <td class="col-summary">Japan's Nikkei average regains 70,000 mark as AI optimism returns</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/japan-s-nikkei-average-regains-70-000-mark-as-ai-optimism-returns" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">AI trade isn’t just about tech stocks but also power, TCW says</span></td>
+  <td class="col-summary">The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>

@@ -1,38 +1,40 @@
 {
   "date": "2026-10-05",
-  "count": 7,
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "NikkeiAsia"
+    "KED",
+    "NikkeiAsia",
+    "TechAsia"
   ],
   "post_file": "2026-10-05-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "DIGITIMES Insight: AI data demand surges as power and cooling become new bottlenecks",
+      "title": "Climate tech investment cools, but green supply chains support long-term demand",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261002PD250/data-cooling-demand-chips-hbm.html"
+      "url": "https://www.digitimes.com/news/a20261005PD226/investment-demand-policy-net-zero-market.html"
     },
     {
-      "title": "AI system integration eclipses chip specs",
+      "title": "Bessent expects US-China AI incident channel as Washington leans on voluntary oversight",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261002PD231/chipmakers-design-chips-competition-hardware.html"
+      "url": "https://www.digitimes.com/news/a20261005VL208/anthropic-beijing-government.html"
     },
     {
-      "title": "Nanya Tech expands 3D OSAT to chase HBM-like demand",
+      "title": "Global AI servers shift production nearshore, slowing direct Taiwan exports to US",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261002PD230/nanya-technology-3d-demand-osat-plant.html"
+      "url": "https://www.digitimes.com/news/a20261005PD221/taiwan-production-exports-ai-server-growth.html"
     },
     {
-      "title": "AI Infrastructure Demand Keeps DRAM Supply Tight Through 2027",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/ai-infrastructure-demand-keeps-dram-supply-tight-through-2027/"
-    },
-    {
-      "title": "OpenAI's Altman says AI benefits warrant accepting some risks",
+      "title": "BOJ says AI boom may have eased financial conditions, warns of market risks",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/openais-altman-says-ai-benefits-warrant-accepting-some-risks-6431831"
+      "url": "https://www.channelnewsasia.com/business/boj-says-ai-boom-may-have-eased-financial-conditions-warns-market-risks-6432176"
+    },
+    {
+      "title": "MIPS, Xcelsa Target Faster Optimization of Workload-specific Custom Chips",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/mips-xcelsa-target-faster-optimization-of-workload-specific-custom-chips/"
     }
   ],
   "source_stats": [
@@ -49,9 +51,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -148,7 +150,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -156,8 +158,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 26,
+      "fetched": 48,
+      "relevant": 36,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +168,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 10,
+      "relevant": 11,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -177,7 +179,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -195,7 +197,7 @@
       "fetched": 36,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
