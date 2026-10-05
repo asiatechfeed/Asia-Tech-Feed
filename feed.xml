@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-04T08:01:22+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 04, 2026</title><link href="https://asiatechfeed.com/2026/10/04/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 04, 2026" /><published>2026-10-04T08:00:45+00:00</published><updated>2026-10-04T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/10/04/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/04/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-05T00:01:40+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 05, 2026</title><link href="https://asiatechfeed.com/2026/10/05/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 05, 2026" /><published>2026-10-05T00:00:52+00:00</published><updated>2026-10-05T00:00:52+00:00</updated><id>https://asiatechfeed.com/2026/10/05/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/05/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">DIGITIMES Insight: AI data demand surges as power and cooling become new bottlenecks</span></td>
+  <td class="col-summary">As the number of AI computing transistors integrated within a single CoWoS package rises rapidly, DIGITIMES observes that moving massive volumes of data to compute chips fast enough is becoming increasingly critical to fully utilizing available computing power.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002PD250/data-cooling-demand-chips-hbm.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">AI system integration eclipses chip specs</span></td>
+  <td class="col-summary">As AI develops rapidly across both cloud and edge environments, major chipmakers are devoting less attention to chip specifications and more to system-level design and ecosystems. For IC design leaders, moving into the system layer has become a key factor for upgrading in the AI era, because simply supplying chips is n</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002PD231/chipmakers-design-chips-competition-hardware.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Nanya Tech expands 3D OSAT to chase HBM-like demand</span></td>
+  <td class="col-summary">Nanya Technology is stepping up investment in new factory capacity to expand packaging and testing as some customers move into trial production for specification-based designs. The company said it has won approval from the National Science and Technology Council's (NSTC) park review committee to set up a 3D wafer packa</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002PD230/nanya-technology-3d-demand-osat-plant.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">AI Infrastructure Demand Keeps DRAM Supply Tight Through 2027</span></td>
+  <td class="col-summary">AI infrastructure spending is keeping DRAM supply constrained, raising costs and squeezing consumer electronics manufacturers. The post AI Infrastructure Demand Keeps DRAM Supply Tight Through 2027 appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ai-infrastructure-demand-keeps-dram-supply-tight-through-2027/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">OpenAI's Altman says AI benefits warrant accepting some risks</span></td>
+  <td class="col-summary">OpenAI's Altman says AI benefits warrant accepting some risks</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/openais-altman-says-ai-benefits-warrant-accepting-some-risks-6431831" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports</span></td>
+  <td class="col-summary">Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/former-anthropic-researcher-coxon-testify-new-york-city-ai-hearing-bloomberg-news-reports-6431736" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan's Rapidus to help 17 companies design chips for clients</span></td>
+  <td class="col-summary">Japan's Rapidus to help 17 companies design chips for clients</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/japan-s-rapidus-to-help-17-companies-design-chips-for-clients" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes DIGITIMES Insight: AI data demand surges as power and cooling become new bottlenecks As the number of AI computing transistors integrated within a single CoWoS package rises rapidly, DIGITIMES observes that moving massive volumes of data to compute chips fast enough is becoming increasingly critical to fully utilizing available computing power. AISemiconductor Read 2 DigiTimes AI system integration eclipses chip specs As AI develops rapidly across both cloud and edge environments, major chipmakers are devoting less attention to chip specifications and more to system-level design and ecosystems. For IC design leaders, moving into the system layer has become a key factor for upgrading in the AI era, because simply supplying chips is n AISemiconductor Read 3 DigiTimes Nanya Tech expands 3D OSAT to chase HBM-like demand Nanya Technology is stepping up investment in new factory capacity to expand packaging and testing as some customers move into trial production for specification-based designs. The company said it has won approval from the National Science and Technology Council's (NSTC) park review committee to set up a 3D wafer packa AISemiconductor Read 4 EETAsia AI Infrastructure Demand Keeps DRAM Supply Tight Through 2027 AI infrastructure spending is keeping DRAM supply constrained, raising costs and squeezing consumer electronics manufacturers. The post AI Infrastructure Demand Keeps DRAM Supply Tight Through 2027 appeared first on EE Times Asia . ElectronicsAI Read 5 CNA OpenAI's Altman says AI benefits warrant accepting some risks OpenAI's Altman says AI benefits warrant accepting some risks AI Read 6 CNA Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports AI Read 7 NikkeiAsia Japan's Rapidus to help 17 companies design chips for clients Japan's Rapidus to help 17 companies design chips for clients Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 04, 2026</title><link href="https://asiatechfeed.com/2026/10/04/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 04, 2026" /><published>2026-10-04T08:00:45+00:00</published><updated>2026-10-04T08:00:45+00:00</updated><id>https://asiatechfeed.com/2026/10/04/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/04/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -464,73 +533,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-traffic-booming-aws-paywalls-block-revenue" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia The 50 top-funded AI startups in Asia Here are the AI companies in Asia that have attracted tons of investors and have the resources to spend on software, talent, and expansion. AI Read 2 TechAsia Singapore proposes UN framework for AI safety rules Singapore also supports shared AI testing and cross-border reporting of serious incidents. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - September 26, 2026</title><link href="https://asiatechfeed.com/2026/09/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - September 26, 2026" /><published>2026-09-26T08:02:55+00:00</published><updated>2026-09-26T08:02:55+00:00</updated><id>https://asiatechfeed.com/2026/09/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/09/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">US, China to set up 'communication channel' for AI incidents</span></td>
-  <td class="col-summary">The two countries established a "US-China Super Intelligence (SI) Dialogue to exchange views on risks and benefits" of AI, the White House said in a fact sheet.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/united-states-china-ai-communication-channel-6412426" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Who’s investing in India’s AI startups?</span></td>
-  <td class="col-summary">We've compiled a list of investors pouring money into India’s AI startups.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/whos-investing-indias-ai-startups" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Anthropic faces court setback over Pentagon risk label</span></td>
-  <td class="col-summary">Anthropic announced a US$200 million Defense Department AI deal in 2025.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropic-ceo-urges-ai-firms-slow-model-development" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Microsoft unveils Copilot app for code and AI agents</span></td>
-  <td class="col-summary">Fewer than 7% of Microsoft's 450 million commercial Office 365 seats use its AI add-on.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/microsoft-reports-241b-openailinked-revenue" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Interview: GMI Cloud bets on Taiwan as a proving ground for global AI expansion</span></td>
-  <td class="col-summary">GMI Cloud is making Taiwan a key part of its global AI infrastructure expansion, with a US$500 million investment in an AI factory powered by Nvidia's Blackwell GPUs. Announced in late 2025, the facility is expected to deploy roughly 7,000 GPUs and serve customers including Trend Micro and Wistron.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260921VL212/taiwan-cloud-infrastructure-data-center-investment.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">From ISM 1.0 to Semicon 2.0—India's chip subsidy overhaul draws early interest, raises the bar for investors</span></td>
-  <td class="col-summary">India's new semiconductor incentive regime is putting more capital at risk for manufacturers, but the first wave of investment commitments suggests lower subsidies have not stopped companies from considering fresh projects.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260921VL213/semicon-investment-packaging-incentives-financing.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">ASRock Industrial revenue jumps 95% in 1H26 on North America deal</span></td>
-  <td class="col-summary">ASRock Industrial, the industrial PC (IPC) arm of ASRock, posted a 95.4% year-over-year surge in first-half 2026 revenue after winning a major North American streaming services contract. The company is also expanding into robotics, entertainment, cybersecurity and edge computing as the IPC sector rebounds and shifts to</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20260923PD241/asrock-revenue-ipc-north-america-demand.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA US, China to set up 'communication channel' for AI incidents The two countries established a "US-China Super Intelligence (SI) Dialogue to exchange views on risks and benefits" of AI, the White House said in a fact sheet. AI Read 2 TechAsia Who’s investing in India’s AI startups? We've compiled a list of investors pouring money into India’s AI startups. AI Read 3 TechAsia Anthropic faces court setback over Pentagon risk label Anthropic announced a US$200 million Defense Department AI deal in 2025. AI Read 4 TechAsia Microsoft unveils Copilot app for code and AI agents Fewer than 7% of Microsoft's 450 million commercial Office 365 seats use its AI add-on. AI Read 5 DigiTimes Interview: GMI Cloud bets on Taiwan as a proving ground for global AI expansion GMI Cloud is making Taiwan a key part of its global AI infrastructure expansion, with a US$500 million investment in an AI factory powered by Nvidia's Blackwell GPUs. Announced in late 2025, the facility is expected to deploy roughly 7,000 GPUs and serve customers including Trend Micro and Wistron. AI Read 6 DigiTimes From ISM 1.0 to Semicon 2.0—India's chip subsidy overhaul draws early interest, raises the bar for investors India's new semiconductor incentive regime is putting more capital at risk for manufacturers, but the first wave of investment commitments suggests lower subsidies have not stopped companies from considering fresh projects. Semiconductor Read 7 DigiTimes ASRock Industrial revenue jumps 95% in 1H26 on North America deal ASRock Industrial, the industrial PC (IPC) arm of ASRock, posted a 95.4% year-over-year surge in first-half 2026 revenue after winning a major North American streaming services contract. The company is also expanding into robotics, entertainment, cybersecurity and edge computing as the IPC sector rebounds and shifts to Automation Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia The 50 top-funded AI startups in Asia Here are the AI companies in Asia that have attracted tons of investors and have the resources to spend on software, talent, and expansion. AI Read 2 TechAsia Singapore proposes UN framework for AI safety rules Singapore also supports shared AI testing and cross-border reporting of serious incidents. AI Read]]></summary></entry></feed>
