@@ -1,38 +1,40 @@
 {
-  "date": "2026-10-05",
-  "count": 11,
+  "date": "2026-10-06",
+  "count": 15,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
+    "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-10-05-asia-tech-news-digest.md",
+  "post_file": "2026-10-06-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Singapore's digital economy grows to S$144.1 billion as AI adoption accelerates",
+      "title": "TrendForce Raises 2027 HBM Price Forecast as Supply Constraints Persist",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/trendforce-raises-2027-hbm-price-forecast-as-supply-constraints-persist/"
+    },
+    {
+      "title": "E&R Engineering Expands Packaging Materials Production in Malaysia",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/er-engineering-expands-packaging-materials-production-in-malaysia/"
+    },
+    {
+      "title": "Infineon, Eaton Target 800VDC AI Data Centers with SiC Solid-state Transformers",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/infineon-eaton-target-800vdc-ai-data-centers-with-sic-solid-state-transformers/"
+    },
+    {
+      "title": "Commentary: Why a booming economy is not helping Trump",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/digital-economy-ai-adoption-2025-singapore-imda-6432161"
+      "url": "https://www.channelnewsasia.com/commentary/us-economy-donald-trump-midterm-elections-6432736"
     },
     {
-      "title": "Norway to propose temporary ban on AI glasses in some public places",
+      "title": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/norway-propose-temporary-ban-ai-glasses-in-some-public-places-6432561"
-    },
-    {
-      "title": "Multimodal AI app scales to 1m users by scanning meal photos",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/multimodal-ai-app-scales-1m-users-scanning-meal-photos"
-    },
-    {
-      "title": "Cheap SiC substrates ignite demand wave, reshape ecosystem",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261005PD227/sic-demand-6-inch-silicon-price.html"
-    },
-    {
-      "title": "Singapore\u2019s digital economy hits $113b: report",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/singapore-targets-100000-ai-bilingual-workers-by-2029"
+      "url": "https://www.channelnewsasia.com/business/nvidia-backed-reflection-unveils-first-ai-model-take-chinese-open-models-6434466"
     }
   ],
   "source_stats": [
@@ -49,9 +51,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -130,7 +132,7 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -148,16 +150,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 2,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 50,
-      "relevant": 38,
+      "fetched": 66,
+      "relevant": 51,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +168,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 14,
+      "relevant": 13,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -193,9 +195,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 8,
+      "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -213,7 +215,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     }
   ]
