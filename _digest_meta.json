@@ -1,39 +1,37 @@
 {
   "date": "2026-10-06",
-  "count": 9,
+  "count": 7,
   "sources": [
     "DigiTimes",
-    "EETAsia",
-    "EW",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-06-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Indonesia\u2019s House passes data law covering AI, blockchain",
+      "title": "This startup bridges handwriting, voice, and AI",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/taiwan-passes-new-ai-law-to-strengthen-governance-innovation"
+      "url": "https://www.techinasia.com/this-startup-bridges-handwriting-voice-and-ai"
     },
     {
-      "title": "SkyeChip becomes Rapidus design associate",
-      "source": "EW",
-      "url": "https://www.electronicsweekly.com/news/business/skyechip-becomes-rapidus-design-associate-2026-10/"
-    },
-    {
-      "title": "Nittobo expands glass cloth output as AI chip demand strains global supply",
+      "title": "Taiwan's NSTC seeks AI data center power tech to reduce grid impact of load spikes",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261006PD221/nittobo-demand-ai-chip-production-market.html"
+      "url": "https://www.digitimes.com/news/a20261006PD232/taiwan-nstc-data-efficiency.html"
     },
     {
-      "title": "How RobCo and the robotics unicorn wave are redefining industrial automation",
+      "title": "Apple, Qualcomm renew patent deal, iPhone modem shift deepens",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261006VL208/robot-robotics-industrial-hardware-niche.html"
+      "url": "https://www.digitimes.com/news/a20261006PD229/qualcomm-apple-modem-patent-iphone.html"
     },
     {
-      "title": "Skyworks closes Qorvo deal, forming US RF and analog powerhouse",
+      "title": "Huawei's Kirin 9050 Pro reveals new logic folding chip design",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261006VL213/skyworks-qorvo-rf-ic-supplier.html"
+      "url": "https://www.digitimes.com/news/a20261006PD215/huawei-kirin-design-market-transistor.html"
+    },
+    {
+      "title": "LG signs chiller deal for 5GW+ AI data center projects",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/lg-electronics-expands-into-ai-data-center-cooling"
     }
   ],
   "source_stats": [
@@ -133,7 +131,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -151,14 +149,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 49,
-      "relevant": 36,
+      "fetched": 52,
+      "relevant": 37,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -194,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 13,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
