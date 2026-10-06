@@ -1,40 +1,39 @@
 {
   "date": "2026-10-06",
-  "count": 15,
+  "count": 9,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
+    "EW",
     "NikkeiAsia",
-    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-10-06-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "TrendForce Raises 2027 HBM Price Forecast as Supply Constraints Persist",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/trendforce-raises-2027-hbm-price-forecast-as-supply-constraints-persist/"
+      "title": "Indonesia\u2019s House passes data law covering AI, blockchain",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/taiwan-passes-new-ai-law-to-strengthen-governance-innovation"
     },
     {
-      "title": "E&R Engineering Expands Packaging Materials Production in Malaysia",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/er-engineering-expands-packaging-materials-production-in-malaysia/"
+      "title": "SkyeChip becomes Rapidus design associate",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/news/business/skyechip-becomes-rapidus-design-associate-2026-10/"
     },
     {
-      "title": "Infineon, Eaton Target 800VDC AI Data Centers with SiC Solid-state Transformers",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/infineon-eaton-target-800vdc-ai-data-centers-with-sic-solid-state-transformers/"
+      "title": "Nittobo expands glass cloth output as AI chip demand strains global supply",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261006PD221/nittobo-demand-ai-chip-production-market.html"
     },
     {
-      "title": "Commentary: Why a booming economy is not helping Trump",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/us-economy-donald-trump-midterm-elections-6432736"
+      "title": "How RobCo and the robotics unicorn wave are redefining industrial automation",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261006VL208/robot-robotics-industrial-hardware-niche.html"
     },
     {
-      "title": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/nvidia-backed-reflection-unveils-first-ai-model-take-chinese-open-models-6434466"
+      "title": "Skyworks closes Qorvo deal, forming US RF and analog powerhouse",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261006VL213/skyworks-qorvo-rf-ic-supplier.html"
     }
   ],
   "source_stats": [
@@ -51,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -132,9 +131,9 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -150,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 66,
-      "relevant": 51,
+      "fetched": 49,
+      "relevant": 36,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 13,
+      "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -195,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 10,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -215,7 +214,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     }
   ]
