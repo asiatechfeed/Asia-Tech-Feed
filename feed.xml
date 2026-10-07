@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-07T05:35:19+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 07, 2026</title><link href="https://asiatechfeed.com/2026/10/07/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 07, 2026" /><published>2026-10-07T05:34:35+00:00</published><updated>2026-10-07T05:34:35+00:00</updated><id>https://asiatechfeed.com/2026/10/07/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/07/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-07T08:01:49+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 07, 2026</title><link href="https://asiatechfeed.com/2026/10/07/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 07, 2026" /><published>2026-10-07T08:00:48+00:00</published><updated>2026-10-07T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/10/07/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/07/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,102 +12,94 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Financial institutions remain accountable for third-party AI under new MAS guidelines</span></td>
-  <td class="col-summary">Among other expectations, financial institutions will be accountable for AI used in delivered services, including AI developed, operated or provided by third parties.</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">MAS issues AI risk guidelines for finance</span></td>
+  <td class="col-summary">MAS also plans to consult the sector in 2027 on whether more guidance is needed for agentic AI.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/financial-institutions-ai-guidelines-mas-third-party-tools-6438406" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ripple-taps-singapore-sandbox-test-rlusd-trade-finance" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Indian medtech startup Sunfox raises $7m</span></td>
-  <td class="col-summary">The company said about 60,000 Spandan devices have been deployed in India.</td>
-  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">AMD CEO says continues to explore foundry partnership with Samsung Electronics</span></td>
+  <td class="col-summary">AMD CEO says continues to explore foundry partnership with Samsung Electronics</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/amd-ceo-says-continues-explore-foundry-partnership-samsung-electronics-6438731" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Singapore to push for deeper ASEAN integration, wider partnerships as bloc chair in 2027: Vivian Balakrishnan</span></td>
-  <td class="col-summary">Speaking at the Milken Institute Asia Summit, the Foreign Affairs Minister also discussed navigating the US-China rivalry and warned of the risks posed by increasingly autonomous AI agents</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/cna/vivian-balakrishnan-milken-asean-integration-chair-ai-agents-6437041" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Musk says TSMC won't run Terafab AI chip complex</span></td>
+  <td class="col-summary">Musk says TSMC won't run Terafab AI chip complex</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/musk-says-tsmc-wont-run-terafab-ai-chip-complex-6438461" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Singapore government running trials to understand how to implement AI agents responsibly: Tan Kiat How</span></td>
-  <td class="col-summary">The government is reviewing and strengthening its frameworks to account for increasingly autonomous agentic AI systems, said Senior Minister of State for Digital Development and Information Tan Kiat How.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/ai-agents-safety-mddi-tan-kiat-how-parliament-6438106" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">COVID-19 vaccination to be added to Singapore’s national immunisation schedules from Oct 12</span></td>
+  <td class="col-summary">COVID-19 vaccination has been offered under the National Vaccination Programme since 2020 to facilitate uptake of the vaccine during the pandemic.</td>
+  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/covid-19-vaccination-national-immunisation-schedule-cda-6438661" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung arms for memory price surge with AI, services, N-1 phone push</span></td>
-  <td class="col-summary">Rising memory prices are already weighing on 2026 smartphone and notebook shipments, and sustained AI infrastructure investments are expected to keep quotes climbing into 2027. To counter softer buying interest as retail prices rise, hardware vendors like Samsung are pivoting to fresh strategies. Alongside cost control</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261007PD225/samsung-smartphone-price-cost-2026.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Indian medtech firm replaces passive dressings with silk</span></td>
+  <td class="col-summary">Fibroheal converts silk proteins into active biomaterials to accelerate tissue regeneration for complex, chronic, and burn wounds.</td>
+  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/indian-medtech-replaces-passive-dressings-silk" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Exclusive: Chinese notebook ODMs win HP, Dell orders, pressuring Taiwanese suppliers</span></td>
-  <td class="col-summary">Chinese notebook original design manufacturers (ODMs) are rapidly catching up, with supply chain sources saying Huaqin and Luxshare have won major orders from HP and Dell, sending shock waves through Taiwan's supply chain and threatening the future position of Taiwanese ODMs. Industry sources said the impact extends be</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261007PD217/hp-dell-supply-chain-huaqin-revenue.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">How this founder went from designing shoes to AI agent workflows</span></td>
+  <td class="col-summary">In The Backstory, Mao Ting shares how a shoe brand's operational mess pushed her to build AI agents, and a startup, Maxify AI.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/founder-designing-shoes-ai-agent-workflows" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Chip price hikes loom as Taiwan IC designers brace to pass on costs through 2027</span></td>
-  <td class="col-summary">Taiwanese integrated circuit (IC) design firms report that passing on costs to customers will likely continue through 2027 as upstream foundry and outsourced semiconductor assembly and test (OSAT) price hikes take shape.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261007PD224/2027-price-ic-design-2026-design.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Commentary: Qualcomm patent deal puts spotlight on Huawei's broader IP push</span></td>
+  <td class="col-summary">Huawei and Qualcomm announced on Oct. 5 that they had signed a multi-year patent licensing agreement covering technologies including 5G, computing, AI and networking.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261007PD211/huawei-qualcomm-patent-ip-licensing.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">KT Cloud to build 50MW AI data center in South Korea</span></td>
-  <td class="col-summary">The facility will include a liquid-cooled AI zone for high-density graphics processing unit servers and separate space for general cloud services.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/south-koreas-kt-microsoft-launch-enterprise-ai-hub" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">LG Electronics 3Q26 operating profit up 13.5%, misses forecasts as cash shifts to AI cooling</span></td>
+  <td class="col-summary">LG Electronics' third-quarter results show a company whose mature businesses are generating steady cash, but not enough to meet raised expectations. The company says it will channel earnings from appliances and auto parts into AI data center cooling and robotics.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261007VL214/lg-electronics-profit-cooling-revenue-earnings.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Meta AI app parental supervision now available worldwide</span></td>
-  <td class="col-summary">Meta said its existing safeguards for teen users include declining certain questions or directing teens to resources.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-introduces-meta-one-subscription-across-its-apps" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">AMD expands Korea push after Taiwan supply talks</span></td>
+  <td class="col-summary">AMD CEO Lisa Su moved from supply-chain talks in Taiwan to South Korea this week, broadening the chipmaker's Asia push from efforts to secure more CPU, GPU and advanced-wafer capacity to building an open computing ecosystem around its processors, Korean AI accelerators and software.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261007VL213/amd-lisa-su-software-south-korea-taiwan.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Samsung takes Vietnam up semiconductor value chain with $5bn expansion</span></td>
-  <td class="col-summary">Samsung takes Vietnam up semiconductor value chain with $5bn expansion</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/samsung-takes-vietnam-up-semiconductor-value-chain-with-5bn-expansion" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Taiwan's AUO, Innolux bet on glass as next-gen AI chip material</span></td>
+  <td class="col-summary">Taiwan's AUO, Innolux bet on glass as next-gen AI chip material</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/materials/taiwan-s-auo-innolux-bet-on-glass-as-next-gen-ai-chip-material" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">11</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Tokyo Electron poised to log record profit on AI momentum: CFO</span></td>
-  <td class="col-summary">Tokyo Electron poised to log record profit on AI momentum: CFO</td>
+  <td class="col-title"><span class="article-title">Honda, Nissan each team with US AI startup on next-gen vehicle software</span></td>
+  <td class="col-summary">Honda, Nissan each team with US AI startup on next-gen vehicle software</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/tokyo-electron-poised-to-log-record-profit-on-ai-momentum-cfo" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">China's DeepSeek, peers launch 16 AI models in month despite Anthropic warning</span></td>
-  <td class="col-summary">China's DeepSeek, peers launch 16 AI models in month despite Anthropic warning</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-peers-launch-16-ai-models-in-month-despite-anthropic-warning" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/automobiles/honda-nissan-each-team-with-us-ai-startup-on-next-gen-vehicle-software" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Financial institutions remain accountable for third-party AI under new MAS guidelines Among other expectations, financial institutions will be accountable for AI used in delivered services, including AI developed, operated or provided by third parties. AI Read 2 TechAsia Indian medtech startup Sunfox raises $7m The company said about 60,000 Spandan devices have been deployed in India. Pharmaceutical Read 3 CNA Singapore to push for deeper ASEAN integration, wider partnerships as bloc chair in 2027: Vivian Balakrishnan Speaking at the Milken Institute Asia Summit, the Foreign Affairs Minister also discussed navigating the US-China rivalry and warned of the risks posed by increasingly autonomous AI agents AI Read 4 CNA Singapore government running trials to understand how to implement AI agents responsibly: Tan Kiat How The government is reviewing and strengthening its frameworks to account for increasingly autonomous agentic AI systems, said Senior Minister of State for Digital Development and Information Tan Kiat How. AI Read 5 DigiTimes Samsung arms for memory price surge with AI, services, N-1 phone push Rising memory prices are already weighing on 2026 smartphone and notebook shipments, and sustained AI infrastructure investments are expected to keep quotes climbing into 2027. To counter softer buying interest as retail prices rise, hardware vendors like Samsung are pivoting to fresh strategies. Alongside cost control AI Read 6 DigiTimes Exclusive: Chinese notebook ODMs win HP, Dell orders, pressuring Taiwanese suppliers Chinese notebook original design manufacturers (ODMs) are rapidly catching up, with supply chain sources saying Huaqin and Luxshare have won major orders from HP and Dell, sending shock waves through Taiwan's supply chain and threatening the future position of Taiwanese ODMs. Industry sources said the impact extends be Logistics Read 7 DigiTimes Chip price hikes loom as Taiwan IC designers brace to pass on costs through 2027 Taiwanese integrated circuit (IC) design firms report that passing on costs to customers will likely continue through 2027 as upstream foundry and outsourced semiconductor assembly and test (OSAT) price hikes take shape. Semiconductor Read 8 TechAsia KT Cloud to build 50MW AI data center in South Korea The facility will include a liquid-cooled AI zone for high-density graphics processing unit servers and separate space for general cloud services. AI Read 9 TechAsia Meta AI app parental supervision now available worldwide Meta said its existing safeguards for teen users include declining certain questions or directing teens to resources. AI Read 10 NikkeiAsia Samsung takes Vietnam up semiconductor value chain with $5bn expansion Samsung takes Vietnam up semiconductor value chain with $5bn expansion Semiconductor Read 11 NikkeiAsia Tokyo Electron poised to log record profit on AI momentum: CFO Tokyo Electron poised to log record profit on AI momentum: CFO AI Read 12 NikkeiAsia China's DeepSeek, peers launch 16 AI models in month despite Anthropic warning China's DeepSeek, peers launch 16 AI models in month despite Anthropic warning AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 06, 2026</title><link href="https://asiatechfeed.com/2026/10/06/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 06, 2026" /><published>2026-10-06T08:00:52+00:00</published><updated>2026-10-06T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/10/06/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/06/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia MAS issues AI risk guidelines for finance MAS also plans to consult the sector in 2027 on whether more guidance is needed for agentic AI. AI Read 2 CNA AMD CEO says continues to explore foundry partnership with Samsung Electronics AMD CEO says continues to explore foundry partnership with Samsung Electronics ElectronicsSemiconductor Read 3 CNA Musk says TSMC won't run Terafab AI chip complex Musk says TSMC won't run Terafab AI chip complex AISemiconductor Read 4 CNA COVID-19 vaccination to be added to Singapore’s national immunisation schedules from Oct 12 COVID-19 vaccination has been offered under the National Vaccination Programme since 2020 to facilitate uptake of the vaccine during the pandemic. Biotechnology Read 5 TechAsia Indian medtech firm replaces passive dressings with silk Fibroheal converts silk proteins into active biomaterials to accelerate tissue regeneration for complex, chronic, and burn wounds. Pharmaceutical Read 6 TechAsia How this founder went from designing shoes to AI agent workflows In The Backstory, Mao Ting shares how a shoe brand's operational mess pushed her to build AI agents, and a startup, Maxify AI. AI Read 7 DigiTimes Commentary: Qualcomm patent deal puts spotlight on Huawei's broader IP push Huawei and Qualcomm announced on Oct. 5 that they had signed a multi-year patent licensing agreement covering technologies including 5G, computing, AI and networking. AI Read 8 DigiTimes LG Electronics 3Q26 operating profit up 13.5%, misses forecasts as cash shifts to AI cooling LG Electronics' third-quarter results show a company whose mature businesses are generating steady cash, but not enough to meet raised expectations. The company says it will channel earnings from appliances and auto parts into AI data center cooling and robotics. ElectronicsAIAutomation Read 9 DigiTimes AMD expands Korea push after Taiwan supply talks AMD CEO Lisa Su moved from supply-chain talks in Taiwan to South Korea this week, broadening the chipmaker's Asia push from efforts to secure more CPU, GPU and advanced-wafer capacity to building an open computing ecosystem around its processors, Korean AI accelerators and software. AISemiconductor Read 10 NikkeiAsia Taiwan's AUO, Innolux bet on glass as next-gen AI chip material Taiwan's AUO, Innolux bet on glass as next-gen AI chip material AISemiconductor Read 11 NikkeiAsia Honda, Nissan each team with US AI startup on next-gen vehicle software Honda, Nissan each team with US AI startup on next-gen vehicle software AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 06, 2026</title><link href="https://asiatechfeed.com/2026/10/06/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 06, 2026" /><published>2026-10-06T08:00:52+00:00</published><updated>2026-10-06T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/10/06/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/06/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
