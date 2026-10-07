@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "count": 12,
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -10,29 +10,29 @@
   "post_file": "2026-10-07-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Financial institutions remain accountable for third-party AI under new MAS guidelines",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/financial-institutions-ai-guidelines-mas-third-party-tools-6438406"
-    },
-    {
-      "title": "Indian medtech startup Sunfox raises $7m",
+      "title": "MAS issues AI risk guidelines for finance",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+      "url": "https://www.techinasia.com/ripple-taps-singapore-sandbox-test-rlusd-trade-finance"
     },
     {
-      "title": "Singapore to push for deeper ASEAN integration, wider partnerships as bloc chair in 2027: Vivian Balakrishnan",
+      "title": "AMD CEO says continues to explore foundry partnership with Samsung Electronics",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/cna/vivian-balakrishnan-milken-asean-integration-chair-ai-agents-6437041"
+      "url": "https://www.channelnewsasia.com/business/amd-ceo-says-continues-explore-foundry-partnership-samsung-electronics-6438731"
     },
     {
-      "title": "Singapore government running trials to understand how to implement AI agents responsibly: Tan Kiat How",
+      "title": "Musk says TSMC won't run Terafab AI chip complex",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/ai-agents-safety-mddi-tan-kiat-how-parliament-6438106"
+      "url": "https://www.channelnewsasia.com/business/musk-says-tsmc-wont-run-terafab-ai-chip-complex-6438461"
     },
     {
-      "title": "Samsung arms for memory price surge with AI, services, N-1 phone push",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261007PD225/samsung-smartphone-price-cost-2026.html"
+      "title": "COVID-19 vaccination to be added to Singapore\u2019s national immunisation schedules from Oct 12",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/covid-19-vaccination-national-immunisation-schedule-cda-6438661"
+    },
+    {
+      "title": "Indian medtech firm replaces passive dressings with silk",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/indian-medtech-replaces-passive-dressings-silk"
     }
   ],
   "source_stats": [
@@ -49,7 +49,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 6,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -130,7 +130,7 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -156,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 54,
-      "relevant": 39,
+      "fetched": 59,
+      "relevant": 43,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +168,7 @@
       "fetched": 50,
       "relevant": 13,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 19,
+      "relevant": 20,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
