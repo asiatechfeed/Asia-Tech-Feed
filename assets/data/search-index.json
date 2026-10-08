@@ -1,129 +1,114 @@
 [
   {
     "date": "2026-10-08",
-    "title": "Hanmi wins rare Samsung order amid US$5 billion chip substrate expansion",
-    "summary": "South Korea's Hanmi Semiconductor has secured a KRW24.48 billion (approx. US$18.3 million) equipment order from Samsung Electro-Mechanics, a rare deal with a Samsung Group affiliate after years of limited business following a patent dispute. The contract comes a week after Samsung Electro-Mechanics announced a KRW6.78 ",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261008VL214/samsung-hanmi-substrate-expansion-equipment.html"
-  },
-  {
-    "date": "2026-10-08",
-    "title": "India's chip packaging plants start exporting, but scale, skills, and subsidies test the next phase",
-    "summary": "India's outsourced semiconductor assembly and test (OSAT) sector has moved from inaugurations to its first export shipments. The challenge now is scale. The new plants are small, still lean on foreign engineers and partners, and the government's second subsidy round offers less support for conventional packaging than t",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261007VL204/india-government-osat-packaging-plant.html"
-  },
-  {
-    "date": "2026-10-08",
-    "title": "China pushes six-network buildout as AI strains power links",
-    "summary": "China is accelerating construction of its so-called \"six networks\" — water, a new power grid, computing, next-generation communications, urban underground pipelines, and logistics — as data centers driven by AI and the digital economy create new demand for electricity and infrastructure. The latest push is turning coor",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Logistics",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261008PD227/infrastructure-demand-communications-data-water.html"
-  },
-  {
-    "date": "2026-10-08",
-    "title": "Singtel signs MOU with SIT on sovereign AI",
-    "summary": "RE:AI will also host an AI testbed at SIT’s campus in Punggol Digital District, using Nvidia graphics processing unit infrastructure and AI tools.",
+    "title": "Hong Kong fintech firm Reap to test AI purchasing setup",
+    "summary": "Reap would issue payment credentials limited by merchant, amount, and timeframe, then execute checkout.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/singtels-reai-partners-with-mistral-ai-in-singapore"
+    "url": "https://www.techinasia.com/kraken-parent-buys-hong-kong-fintech-reap-for-600m"
   },
   {
     "date": "2026-10-08",
-    "title": "CrowdStrike says China-based suspect used AI tools in South Korean bank hacks",
-    "summary": "CrowdStrike says China-based suspect used AI tools in South Korean bank hacks",
+    "title": "Tencent mulls $5 billion bond sale to push AI ambitions, Bloomberg News reports",
+    "summary": "Tencent mulls $5 billion bond sale to push AI ambitions, Bloomberg News reports",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/crowdstrike-says-china-based-suspect-used-ai-tools-in-south-korean-bank-hacks-6441386"
+    "url": "https://www.channelnewsasia.com/business/tencent-mulls-5-billion-bond-sale-push-ai-ambitions-bloomberg-news-reports-6441936"
   },
   {
     "date": "2026-10-08",
-    "title": "Zuckerberg-backed Biohub’s AI biology effort hits $1.8b",
-    "summary": "Meta, Google DeepMind, and Isomorphic Labs, a UK-based AI drug discovery startup, will jointly invest US$300 million.",
+    "title": "Manus maker Butterfly Effect lands over $500m funding",
+    "summary": "Manus is described as an AI agent that can execute tasks and workflows on a user’s behalf, rather than only generate text.",
     "source": "Tech in Asia",
     "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/china-blocks-metas-manus-acquisition"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "The platform helping academics cite 250m real research papers",
+    "summary": "Jenni AI rebuilt its writing assistant specifically for researchers after seeing the academic integrity risks of generic AI models.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/platform-helping-academics-cite-250m-real-research-papers"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "LG to test five commercial components in space aboard South Korea's fifth Nuri launch",
+    "summary": "LG Group is preparing to test five commercial components developed by LG Electronics, LG Innotek, and LG Energy Solution (LGES), including cameras and batteries, aboard a CubeSat carried as a secondary payload on South Korea's fifth Nuri rocket launch. The mission aims to assess whether commercially available component",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261008PD240/lg-commercial-launch-cubesat-lges.html"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "US and 14 nations issue statement on overcapacity, target semiconductors",
+    "summary": "The US and 14 other economies issued a joint statement after the G20 trade ministers' meeting in Milwaukee, pledging to work together on structural overcapacity and excess production in key industries. They singled out autos, EVs, batteries, chemicals, semiconductors and solar panels.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261008PD233/overcapacity-semiconductors-g20-policy-production.html"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Google, Meta, and others commit nearly US$2 billion to open AI biology data",
+    "summary": "A new international funding push aims to build the data backbone for AI systems that could model biology, sharpen disease research, and speed drug discovery worldwide. The effort may help researchers in many countries access shared datasets, tools, and computing resources needed to predict how cells respond to disease ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI",
       "Pharmaceutical"
     ],
-    "url": "https://www.techinasia.com/zuckerbergs-strategy-cure-disease-2100"
+    "url": "https://www.digitimes.com/news/a20261008PR200/google-meta-data-funding-partnership.html"
   },
   {
     "date": "2026-10-08",
-    "title": "Lenovo launches AI Express with Nvidia",
-    "summary": "Lenovo said the program offers a path to its Hybrid AI Factory with Nvidia.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/lenovo-posts-q3-revenue-of-22-2b-as-ai-sales-surge"
-  },
-  {
-    "date": "2026-10-08",
-    "title": "Taiwanese host Matilda Tao enrols in NUS EMBA after chance encounter on flight from Singapore",
-    "summary": "The Taiwanese host signed up because she wanted to learn about AI – only to find herself tackling accounting, business and interest rates.",
+    "title": "France's Sesterce plans $11 billion AI investment in Finland",
+    "summary": "France's Sesterce plans $11 billion AI investment in Finland",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/entertainment/matilda-tao-nus-emba-6441206"
+    "url": "https://www.channelnewsasia.com/business/frances-sesterce-plans-11-billion-ai-investment-in-finland-6441726"
   },
   {
     "date": "2026-10-08",
-    "title": "Infineon Completes Acquisition of C2i Semiconductors",
-    "summary": "Infineon adds C2i’s digital power expertise and Bengaluru engineering team to expand power solutions for AI infrastructure. The post Infineon Completes Acquisition of C2i Semiconductors appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "Asia shares slip, bonds submerged in tide of AI debt",
+    "summary": "Asia shares slip, bonds submerged in tide of AI debt",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
-      "Semiconductor",
       "AI"
     ],
-    "url": "https://www.eetasia.com/infineon-completes-acquisition-of-c2i-semiconductors/"
+    "url": "https://www.channelnewsasia.com/business/asia-shares-slip-bonds-submerged-in-tide-ai-debt-6441181"
   },
   {
     "date": "2026-10-08",
-    "title": "Germany blocks COSCO buy as Chinese logistics firms face EU scrutiny",
-    "summary": "Germany blocks COSCO buy as Chinese logistics firms face EU scrutiny",
+    "title": "Chinese AI startup Manus drums up over $500m in fresh funding",
+    "summary": "Chinese AI startup Manus drums up over $500m in fresh funding",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "Logistics"
+      "AI"
     ],
-    "url": "https://asia.nikkei.com/economy/trade-war/germany-blocks-cosco-buy-as-chinese-logistics-firms-face-eu-scrutiny"
-  },
-  {
-    "date": "2026-10-08",
-    "title": "Samsung Q3 profit jumps nearly 9 times to $80bn in AI chip boom",
-    "summary": "Samsung Q3 profit jumps nearly 9 times to $80bn in AI chip boom",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-q3-profit-jumps-nearly-9-times-to-80bn-in-ai-chip-boom"
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-ai-startup-manus-drums-up-over-500m-in-fresh-funding"
   },
   {
     "date": "2026-10-07",

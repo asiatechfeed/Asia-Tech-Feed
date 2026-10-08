@@ -1,39 +1,38 @@
 {
   "date": "2026-10-08",
-  "count": 11,
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-08-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Hanmi wins rare Samsung order amid US$5 billion chip substrate expansion",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008VL214/samsung-hanmi-substrate-expansion-equipment.html"
-    },
-    {
-      "title": "India's chip packaging plants start exporting, but scale, skills, and subsidies test the next phase",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261007VL204/india-government-osat-packaging-plant.html"
-    },
-    {
-      "title": "China pushes six-network buildout as AI strains power links",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008PD227/infrastructure-demand-communications-data-water.html"
-    },
-    {
-      "title": "Singtel signs MOU with SIT on sovereign AI",
+      "title": "Hong Kong fintech firm Reap to test AI purchasing setup",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/singtels-reai-partners-with-mistral-ai-in-singapore"
+      "url": "https://www.techinasia.com/kraken-parent-buys-hong-kong-fintech-reap-for-600m"
     },
     {
-      "title": "CrowdStrike says China-based suspect used AI tools in South Korean bank hacks",
+      "title": "Tencent mulls $5 billion bond sale to push AI ambitions, Bloomberg News reports",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/crowdstrike-says-china-based-suspect-used-ai-tools-in-south-korean-bank-hacks-6441386"
+      "url": "https://www.channelnewsasia.com/business/tencent-mulls-5-billion-bond-sale-push-ai-ambitions-bloomberg-news-reports-6441936"
+    },
+    {
+      "title": "Manus maker Butterfly Effect lands over $500m funding",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/china-blocks-metas-manus-acquisition"
+    },
+    {
+      "title": "The platform helping academics cite 250m real research papers",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/platform-helping-academics-cite-250m-real-research-papers"
+    },
+    {
+      "title": "LG to test five commercial components in space aboard South Korea's fifth Nuri launch",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261008PD240/lg-commercial-launch-cubesat-lges.html"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -151,14 +150,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 54,
-      "relevant": 40,
+      "fetched": 59,
+      "relevant": 44,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 11,
+      "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -194,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 16,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -212,7 +211,7 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
