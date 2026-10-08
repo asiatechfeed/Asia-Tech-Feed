@@ -11,29 +11,29 @@
   "post_file": "2026-10-08-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "VSMC Starts Risk Production at First 300mm Fab in Singapore",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/vsmc-starts-risk-production-at-first-300mm-fab-in-singapore/"
-    },
-    {
-      "title": "TrendForce: Global Datacenter Power Demand Capacity Expected to Rise 31% YoY in 2026",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/trendforce-global-datacenter-power-demand-capacity-expected-to-rise-31-yoy-in-2026/"
-    },
-    {
-      "title": "Renesas Adds 100V GaN FETs for AI and Industrial Power Conversion",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/renesas-adds-100v-gan-fets-for-ai-and-industrial-power-conversion/"
-    },
-    {
-      "title": "Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/samsung-q3-profit-jumps-nearly-nine-fold-ai-memory-boom-lifts-chip-earnings-6441041"
-    },
-    {
-      "title": "Anduril to invest US$3.7 billion in Maryland shipyard for submarine supply chain",
+      "title": "Hanmi wins rare Samsung order amid US$5 billion chip substrate expansion",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261007PD235/anduril-supply-chain-manufacturing-production-industrial.html"
+      "url": "https://www.digitimes.com/news/a20261008VL214/samsung-hanmi-substrate-expansion-equipment.html"
+    },
+    {
+      "title": "India's chip packaging plants start exporting, but scale, skills, and subsidies test the next phase",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261007VL204/india-government-osat-packaging-plant.html"
+    },
+    {
+      "title": "China pushes six-network buildout as AI strains power links",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261008PD227/infrastructure-demand-communications-data-water.html"
+    },
+    {
+      "title": "Singtel signs MOU with SIT on sovereign AI",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/singtels-reai-partners-with-mistral-ai-in-singapore"
+    },
+    {
+      "title": "CrowdStrike says China-based suspect used AI tools in South Korean bank hacks",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/crowdstrike-says-china-based-suspect-used-ai-tools-in-south-korean-bank-hacks-6441386"
     }
   ],
   "source_stats": [
@@ -50,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -151,14 +151,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 71,
-      "relevant": 52,
+      "fetched": 54,
+      "relevant": 40,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 10,
+      "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -194,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
