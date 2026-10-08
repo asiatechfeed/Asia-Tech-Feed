@@ -1,5 +1,129 @@
 [
   {
+    "date": "2026-10-08",
+    "title": "VSMC Starts Risk Production at First 300mm Fab in Singapore",
+    "summary": "VSMC’s first Singapore 300mm fab has entered risk production, with volume manufacturing scheduled for 2027. The post VSMC Starts Risk Production at First 300mm Fab in Singapore appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/vsmc-starts-risk-production-at-first-300mm-fab-in-singapore/"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "TrendForce: Global Datacenter Power Demand Capacity Expected to Rise 31% YoY in 2026",
+    "summary": "Global datacenter power demand capacity will reach 161GW in 2026, up by 31% YoY, mainly driven by AI servers. The post TrendForce: Global Datacenter Power Demand Capacity Expected to Rise 31% YoY in 2026 appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/trendforce-global-datacenter-power-demand-capacity-expected-to-rise-31-yoy-in-2026/"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Renesas Adds 100V GaN FETs for AI and Industrial Power Conversion",
+    "summary": "Renesas' 100V GaN FETs target power conversion in AI data centers, robotics, and industrial systems. The post Renesas Adds 100V GaN FETs for AI and Industrial Power Conversion appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.eetasia.com/renesas-adds-100v-gan-fets-for-ai-and-industrial-power-conversion/"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings",
+    "summary": "Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/samsung-q3-profit-jumps-nearly-nine-fold-ai-memory-boom-lifts-chip-earnings-6441041"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Anduril to invest US$3.7 billion in Maryland shipyard for submarine supply chain",
+    "summary": "Anduril Industries said it will spend US$3.7 billion to build Arsenal-2, a next-generation software-defined shipyard at Sparrows Point in Baltimore County, Maryland. The US Navy is backing the project with a contract worth up to US$2.9 billion tied to production results, bringing the total commitment to US$6.6 billion ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261007PD235/anduril-supply-chain-manufacturing-production-industrial.html"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Apple and LG Electronics reportedly team up on branded smart home devices",
+    "summary": "Apple and LG Electronics are reportedly pairing up to create a line of smart home devices, though the devices will carry the LG brand name. The two companies are expanding their reach into the smart home market as both face headwinds in their home product segments.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261007VL220/apple-smart-home-lg-electronics-lg-market.html"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Samsung SDI builds dual-track battery strategy with LFP supply deal, solid-state push",
+    "summary": "Samsung SDI is simultaneously expanding its lower-cost LFP supply chain and advancing its next-generation all-solid-state battery roadmap, signing separate agreements with POSCO Future M and EcoPro BM as it broadens its battery chemistry portfolio.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261007VL211/samsung-sdi-materials-technology-supply-chain-demand.html"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "OpenAI publishes AI math results on GitHub",
+    "summary": "OpenAI said the average result used computing power equivalent to roughly three hours of ChatGPT Pro thinking.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/openai-launches-gpt61-sol-nears-astra"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Mistral unveils Large 4 AI model ahead of wider release",
+    "summary": "Mistral said it trained the model over two months on 4,000 Nvidia Grace Blackwell GPU.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/mistral-ceo-warns-of-risks-from-ai-market-concentration"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Samsung Q3 profit seen up nearly 9x on AI chip demand",
+    "summary": "Samsung is expanding shipments of HBM4 chips, narrowing the gap with SK hynix.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/samsung-electronics-shares-jump-union-suspends-strike"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Japan bank to connect small businesses with US AI developers",
+    "summary": "Japan bank to connect small businesses with US AI developers",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/finance/japan-bank-to-connect-small-businesses-with-us-ai-developers"
+  },
+  {
     "date": "2026-10-07",
     "title": "MAS issues AI risk guidelines for finance",
     "summary": "MAS also plans to consult the sector in 2027 on whether more guidance is needed for agentic AI.",
