@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-09T05:48:19+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 09, 2026</title><link href="https://asiatechfeed.com/2026/10/09/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 09, 2026" /><published>2026-10-09T05:47:09+00:00</published><updated>2026-10-09T05:47:09+00:00</updated><id>https://asiatechfeed.com/2026/10/09/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/09/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-09T08:01:28+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 09, 2026</title><link href="https://asiatechfeed.com/2026/10/09/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 09, 2026" /><published>2026-10-09T08:00:46+00:00</published><updated>2026-10-09T08:00:46+00:00</updated><id>https://asiatechfeed.com/2026/10/09/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/09/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,102 +12,86 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">UOB signs AWS MOU to explore hybrid cloud, AI</span></td>
-  <td class="col-summary">UOB will also explore Amazon Bedrock for generative AI applications, as well as AWS programs to train employees in cloud and AI skills.</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals</span></td>
+  <td class="col-summary">Nine South Korean banks and two mega-churches are probing cyberattacks that may have involved AI tools, while Japanese companies including Daiwa Securities, SoftBank and the Lawson convenience store chain have been hit by a recent surge in cyber incidents.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/engineering-future-banking-asean" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/south-korea-japan-hacks-cyberattack-ai-6445141" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">SoftBank seeks up to $100 billion from Gulf investors for AI push, FT reports</span></td>
-  <td class="col-summary">SoftBank seeks up to $100 billion from Gulf investors for AI push, FT reports</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/softbank-seeks-up-100-billion-gulf-investors-ai-push-ft-reports-6445186" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Around 500 new jobs to be created as ST Engineering opens new aircraft maintenance facility</span></td>
+  <td class="col-summary">The Changi Creek facility will use drones and autonomous mobile robots to support operations.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/airplane-maintenance-aviation-st-engineering-6445166" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">India’s TCS shares rise 3.5% as AI revenue grows 20%</span></td>
-  <td class="col-summary">TCS said AI-related revenue rose nearly 20% from the previous quarter in July to September, to US$3.1 billion from US$2.6 billion.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/indias-tcs-beats-q4-estimates-profit-jumps-12" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">SK's Chey vows to build Gwangju chip plants as fast as possible, no start date set</span></td>
+  <td class="col-summary">SK's Chey vows to build Gwangju chip plants as fast as possible, no start date set</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/sks-chey-vows-build-gwangju-chip-plants-fast-possible-no-start-date-set-6445336" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Meta donates 1,000 AI glasses, $30k in Singapore</span></td>
-  <td class="col-summary">Meta advertises its broader AI glasses range as starting at US$249, but it did not disclose the retail value of the donation.</td>
+  <td class="col-title"><span class="article-title">EY revenue hits $57b, AI services up 49%</span></td>
+  <td class="col-summary">The firm said revenue from AI services rose 49% in FY2026.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-essilorluxottica-expand-rayban-ai-glasses-markets" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropic-eyes-2t-valuation-ipo-filing-reveals-costs" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap</span></td>
-  <td class="col-summary">GF said on October 8, 2026, that it has signed a multi-year, US$2 billion manufacturing agreement with TSMC to produce silicon interposers for TSMC's CoWoS ecosystem at its Malta, New York fab, which GF says will become the first US-based source of silicon interposers supporting advanced packaging.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261009VL200/tsmc-globalfoundries-packaging-cowos-silicon.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Applied Materials, Intel target AI chip bottlenecks with interconnect scaling and Foveros 3D</span></td>
+  <td class="col-summary">AI chip manufacturing demands are accelerating development of advanced logic and packaging technologies, prompting Applied Materials and Intel to expand their collaboration on next-generation transistors, interconnects, and advanced packaging.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261007PD242/applied-materials-intel-ai-chip-manufacturing-development.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung HBM4E wins NVIDIA nod for AI accelerator push</span></td>
-  <td class="col-summary">Samsung Electronics' next-generation 12-layer HBM4E product, a type of high-bandwidth memory (HBM), has reportedly cleared customer quality validation from Nvidia and major hyperscale data center operators. If confirmed, the result would strengthen Samsung's bid to supply memory for next-gen AI accelerators, though ord</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008PD231/samsung-hbm-production-data-data-center.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Innodisk, Apacer post September 2026 revenue growth on AI demand</span></td>
+  <td class="col-summary">Memory module makers Innodisk and Apacer both reported year-over-year and month-over-month revenue growth for September 2026, supported by steady demand from industrial control, edge computing and AI smart connectivity applications. Their cumulative revenue for the first three quarters of the year also set strong growt</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261007PD243/apacer-innodisk-memory-module-revenue-demand-2026.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Interview: How AI forecasting and energy scheduling are raising the bar for green power sellers</span></td>
-  <td class="col-summary">As the demand for green energy surges in parallel with order volumes and production capacity, scheduling for energy storage systems has become a critical technology to solve the problem of excess power for major tech firms, according to Kelsey Kuan, general manager of HD Renewable Energy subsidiary Star Trade. In an in</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261007PD230/demand-electricity-renewable-energy-data-production-capacity.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Advantech tops US$1 billion in third-quarter revenue as edge AI orders climb</span></td>
+  <td class="col-summary">Advantech reported on October 7 that third-quarter consolidated revenue reached NT$32.44 billion (approx. US$1.02 billion), a record high as demand for edge AI, semiconductor equipment, and robotics stayed strong. September consolidated revenue rose to NT$10.749 billion, up 73.14% year-over-year, while cumulative reven</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261007PD245/advantech-revenue-growth-2026-taiwan.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">SPA Warns of Supply Chain Pressures on Payment Card Production</span></td>
-  <td class="col-summary">AI-driven demand for semiconductor capacity and geopolitical instability are putting pressure on payment card chips, precious metals and PVC supplies. The post SPA Warns of Supply Chain Pressures on Payment Card Production appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/spa-warns-of-supply-chain-pressures-on-payment-card-production/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Australian AI firm Firmus withdraws planned IPO</span></td>
+  <td class="col-summary">Firmus had aimed to raise US$5 billion at A$11 (US$7.7) a share.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidiabacked-ai-firm-firmus-secures-2b-commitments" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Lattice Collaborates with Arm to Integrate FPGA-based Control for AI Servers</span></td>
-  <td class="col-summary">Lattice FPGAs and AMI firmware support secure management, platform connectivity and modular integration in Arm AGI CPU-based AI servers. The post Lattice Collaborates with Arm to Integrate FPGA-based Control for AI Servers appeared first on EE Times Asia .</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba AI cloud revenue seen up over 50%</span></td>
+  <td class="col-summary">Alibaba Cloud said in May 2026 that its cloud revenue growth had risen to 40%.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/lattice-collaborates-with-arm-to-integrate-fpga-based-control-for-ai-servers/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-executives-buy-15m-shares-85-drop" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Line aims to be Thailand's 'everyday AI app' in key market</span></td>
-  <td class="col-summary">Line aims to be Thailand's 'everyday AI app' in key market</td>
+  <td class="col-title"><span class="article-title">Editor's Choice: Has the AI race reached its speed limit?</span></td>
+  <td class="col-summary">Editor's Choice: Has the AI race reached its speed limit?</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/line-aims-to-be-thailand-s-everyday-ai-app-in-key-market" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">SoftBank and Grab to develop AI infrastructure in Malaysia's Sarawak</span></td>
-  <td class="col-summary">SoftBank and Grab to develop AI infrastructure in Malaysia's Sarawak</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/softbank-and-grab-to-develop-ai-infrastructure-in-malaysia-s-sarawak" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">Go master Shin cracks AI barrier with win over KataGo, sets up series decider</span></td>
-  <td class="col-summary">Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-has-the-ai-race-reached-its-speed-limit" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia UOB signs AWS MOU to explore hybrid cloud, AI UOB will also explore Amazon Bedrock for generative AI applications, as well as AWS programs to train employees in cloud and AI skills. AI Read 2 CNA SoftBank seeks up to $100 billion from Gulf investors for AI push, FT reports SoftBank seeks up to $100 billion from Gulf investors for AI push, FT reports AI Read 3 TechAsia India’s TCS shares rise 3.5% as AI revenue grows 20% TCS said AI-related revenue rose nearly 20% from the previous quarter in July to September, to US$3.1 billion from US$2.6 billion. AI Read 4 TechAsia Meta donates 1,000 AI glasses, $30k in Singapore Meta advertises its broader AI glasses range as starting at US$249, but it did not disclose the retail value of the donation. AI Read 5 DigiTimes GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap GF said on October 8, 2026, that it has signed a multi-year, US$2 billion manufacturing agreement with TSMC to produce silicon interposers for TSMC's CoWoS ecosystem at its Malta, New York fab, which GF says will become the first US-based source of silicon interposers supporting advanced packaging. Semiconductor Read 6 DigiTimes Samsung HBM4E wins NVIDIA nod for AI accelerator push Samsung Electronics' next-generation 12-layer HBM4E product, a type of high-bandwidth memory (HBM), has reportedly cleared customer quality validation from Nvidia and major hyperscale data center operators. If confirmed, the result would strengthen Samsung's bid to supply memory for next-gen AI accelerators, though ord ElectronicsAI Read 7 DigiTimes Interview: How AI forecasting and energy scheduling are raising the bar for green power sellers As the demand for green energy surges in parallel with order volumes and production capacity, scheduling for energy storage systems has become a critical technology to solve the problem of excess power for major tech firms, according to Kelsey Kuan, general manager of HD Renewable Energy subsidiary Star Trade. In an in AI Read 8 EETAsia SPA Warns of Supply Chain Pressures on Payment Card Production AI-driven demand for semiconductor capacity and geopolitical instability are putting pressure on payment card chips, precious metals and PVC supplies. The post SPA Warns of Supply Chain Pressures on Payment Card Production appeared first on EE Times Asia . SemiconductorLogistics Read 9 EETAsia Lattice Collaborates with Arm to Integrate FPGA-based Control for AI Servers Lattice FPGAs and AMI firmware support secure management, platform connectivity and modular integration in Arm AGI CPU-based AI servers. The post Lattice Collaborates with Arm to Integrate FPGA-based Control for AI Servers appeared first on EE Times Asia . AI Read 10 NikkeiAsia Line aims to be Thailand's 'everyday AI app' in key market Line aims to be Thailand's 'everyday AI app' in key market AI Read 11 NikkeiAsia SoftBank and Grab to develop AI infrastructure in Malaysia's Sarawak SoftBank and Grab to develop AI infrastructure in Malaysia's Sarawak AI Read 12 KED Go master Shin cracks AI barrier with win over KataGo, sets up series decider Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 08, 2026</title><link href="https://asiatechfeed.com/2026/10/08/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 08, 2026" /><published>2026-10-08T08:00:47+00:00</published><updated>2026-10-08T08:00:47+00:00</updated><id>https://asiatechfeed.com/2026/10/08/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/08/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals Nine South Korean banks and two mega-churches are probing cyberattacks that may have involved AI tools, while Japanese companies including Daiwa Securities, SoftBank and the Lawson convenience store chain have been hit by a recent surge in cyber incidents. AI Read 2 CNA Around 500 new jobs to be created as ST Engineering opens new aircraft maintenance facility The Changi Creek facility will use drones and autonomous mobile robots to support operations. Automation Read 3 CNA SK's Chey vows to build Gwangju chip plants as fast as possible, no start date set SK's Chey vows to build Gwangju chip plants as fast as possible, no start date set Semiconductor Read 4 TechAsia EY revenue hits $57b, AI services up 49% The firm said revenue from AI services rose 49% in FY2026. AI Read 5 DigiTimes Applied Materials, Intel target AI chip bottlenecks with interconnect scaling and Foveros 3D AI chip manufacturing demands are accelerating development of advanced logic and packaging technologies, prompting Applied Materials and Intel to expand their collaboration on next-generation transistors, interconnects, and advanced packaging. AISemiconductor Read 6 DigiTimes Innodisk, Apacer post September 2026 revenue growth on AI demand Memory module makers Innodisk and Apacer both reported year-over-year and month-over-month revenue growth for September 2026, supported by steady demand from industrial control, edge computing and AI smart connectivity applications. Their cumulative revenue for the first three quarters of the year also set strong growt AI Read 7 DigiTimes Advantech tops US$1 billion in third-quarter revenue as edge AI orders climb Advantech reported on October 7 that third-quarter consolidated revenue reached NT$32.44 billion (approx. US$1.02 billion), a record high as demand for edge AI, semiconductor equipment, and robotics stayed strong. September consolidated revenue rose to NT$10.749 billion, up 73.14% year-over-year, while cumulative reven SemiconductorAIAutomation Read 8 TechAsia Australian AI firm Firmus withdraws planned IPO Firmus had aimed to raise US$5 billion at A$11 (US$7.7) a share. AI Read 9 TechAsia Alibaba AI cloud revenue seen up over 50% Alibaba Cloud said in May 2026 that its cloud revenue growth had risen to 40%. AI Read 10 NikkeiAsia Editor's Choice: Has the AI race reached its speed limit? Editor's Choice: Has the AI race reached its speed limit? AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 08, 2026</title><link href="https://asiatechfeed.com/2026/10/08/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 08, 2026" /><published>2026-10-08T08:00:47+00:00</published><updated>2026-10-08T08:00:47+00:00</updated><id>https://asiatechfeed.com/2026/10/08/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/08/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
