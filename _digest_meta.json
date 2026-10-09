@@ -1,39 +1,40 @@
 {
   "date": "2026-10-09",
-  "count": 13,
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
+    "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-09-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "SoftBank, Grab explore AI infrastructure in Sarawak",
+      "title": "UOB signs AWS MOU to explore hybrid cloud, AI",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/softbank-launches-bond-sale-openai-investment"
+      "url": "https://www.techinasia.com/engineering-future-banking-asean"
     },
     {
-      "title": "Australian NVIDIA-backed AI data centre operator Firmus shelves IPO",
+      "title": "SoftBank seeks up to $100 billion from Gulf investors for AI push, FT reports",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/australian-nvidia-backed-ai-data-centre-operator-firmus-shelves-ipo-6444646"
+      "url": "https://www.channelnewsasia.com/business/softbank-seeks-up-100-billion-gulf-investors-ai-push-ft-reports-6445186"
     },
     {
-      "title": "Commentary: 'Pervert' eyewear or innovation? Norway's proposed ban lays down a line for AI glasses",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/norway-temporary-ban-ai-smart-glasses-eu-6442121"
-    },
-    {
-      "title": "Lawmakers raise alarm at Google plan to acquire Spirit Airlines data for AI models",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/lawmakers-raise-alarm-google-plan-acquire-spirit-airlines-data-ai-models-6444451"
-    },
-    {
-      "title": "Spain\u2019s Magnific launches AI image model for brands",
+      "title": "India\u2019s TCS shares rise 3.5% as AI revenue grows 20%",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/bytedance-billionyuan-wedge-cloud-strategy"
+      "url": "https://www.techinasia.com/indias-tcs-beats-q4-estimates-profit-jumps-12"
+    },
+    {
+      "title": "Meta donates 1,000 AI glasses, $30k in Singapore",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/meta-essilorluxottica-expand-rayban-ai-glasses-markets"
+    },
+    {
+      "title": "GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261009VL200/tsmc-globalfoundries-packaging-cowos-silicon.html"
     }
   ],
   "source_stats": [
@@ -50,9 +51,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -130,7 +131,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -151,14 +152,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 65,
-      "relevant": 49,
+      "fetched": 35,
+      "relevant": 28,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +168,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -178,7 +179,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -194,7 +195,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 13,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
