@@ -1,39 +1,25 @@
 {
   "date": "2026-10-10",
-  "count": 11,
+  "count": 3,
   "sources": [
-    "CNA",
-    "DigiTimes",
-    "EW",
-    "NikkeiAsia",
-    "TechAsia"
+    "DigiTimes"
   ],
   "post_file": "2026-10-10-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Exclusive-Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation, sources say",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/exclusive-sequoia-backed-chip-startup-nuvacore-raising-funds-about-25-billion-valuation-sources-say-6448066"
+      "title": "Infineon completes acquisition of C2i to expand AI data center power capabilities",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261008VL219/infineon-acquisition-data-efficiency-management.html"
     },
     {
-      "title": "Anthropic AI model submits false homicide tip to Philadelphia police website",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/anthropic-ai-model-submits-false-homicide-tip-philadelphia-police-website-6447846"
+      "title": "AI PCs face memory squeeze as server demand takes priority",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261008VL216/microsoft-demand-dram-pc-revenue.html"
     },
     {
-      "title": "Malaysia designates Penang as fintech hub under Budget 2027",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/validus-nets-30m-series-led-khazanah-nasional"
-    },
-    {
-      "title": "Indosat, F5 partner on AI suite for Asian businesses",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-indosat-launch-gadjah-mada-ai-center"
-    },
-    {
-      "title": "Globalfoundries to make silicon interposers for TSMC",
-      "source": "EW",
-      "url": "https://www.electronicsweekly.com/news/business/globalfoundries-to-make-interposers-for-tsmc-2026-10/"
+      "title": "AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261008PD220/auo-cpo-subsidiary-manufacturing-optics.html"
     }
   ],
   "source_stats": [
@@ -50,9 +36,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -133,7 +119,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -167,9 +153,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -196,7 +182,7 @@
       "fetched": 36,
       "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
