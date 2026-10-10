@@ -1,38 +1,39 @@
 {
-  "date": "2026-10-09",
-  "count": 10,
+  "date": "2026-10-10",
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EW",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-10-09-asia-tech-news-digest.md",
+  "post_file": "2026-10-10-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals",
+      "title": "Exclusive-Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation, sources say",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/south-korea-japan-hacks-cyberattack-ai-6445141"
+      "url": "https://www.channelnewsasia.com/business/exclusive-sequoia-backed-chip-startup-nuvacore-raising-funds-about-25-billion-valuation-sources-say-6448066"
     },
     {
-      "title": "Around 500 new jobs to be created as ST Engineering opens new aircraft maintenance facility",
+      "title": "Anthropic AI model submits false homicide tip to Philadelphia police website",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/airplane-maintenance-aviation-st-engineering-6445166"
+      "url": "https://www.channelnewsasia.com/business/anthropic-ai-model-submits-false-homicide-tip-philadelphia-police-website-6447846"
     },
     {
-      "title": "SK's Chey vows to build Gwangju chip plants as fast as possible, no start date set",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/sks-chey-vows-build-gwangju-chip-plants-fast-possible-no-start-date-set-6445336"
-    },
-    {
-      "title": "EY revenue hits $57b, AI services up 49%",
+      "title": "Malaysia designates Penang as fintech hub under Budget 2027",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-eyes-2t-valuation-ipo-filing-reveals-costs"
+      "url": "https://www.techinasia.com/validus-nets-30m-series-led-khazanah-nasional"
     },
     {
-      "title": "Applied Materials, Intel target AI chip bottlenecks with interconnect scaling and Foveros 3D",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261007PD242/applied-materials-intel-ai-chip-manufacturing-development.html"
+      "title": "Indosat, F5 partner on AI suite for Asian businesses",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/nvidia-indosat-launch-gadjah-mada-ai-center"
+    },
+    {
+      "title": "Globalfoundries to make silicon interposers for TSMC",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/news/business/globalfoundries-to-make-interposers-for-tsmc-2026-10/"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 4,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -129,10 +130,10 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
-      "relevant": 0,
+      "fetched": 10,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -148,7 +149,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 7,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -166,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -193,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 12,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
