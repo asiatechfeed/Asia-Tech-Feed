@@ -7,19 +7,19 @@
   "post_file": "2026-10-10-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Infineon completes acquisition of C2i to expand AI data center power capabilities",
+      "title": "Phison posts record September revenue as AI tops half of sales",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008VL219/infineon-acquisition-data-efficiency-management.html"
+      "url": "https://www.digitimes.com/news/a20261008PD250/phison-revenue-demand-data-medical.html"
     },
     {
-      "title": "AI PCs face memory squeeze as server demand takes priority",
+      "title": "Zhen Ding posts record September sales on mobile demand and AI applications",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008VL216/microsoft-demand-dram-pc-revenue.html"
+      "url": "https://www.digitimes.com/news/a20261008PD249/zhen-ding-revenue-mobile-2026-communications.html"
     },
     {
-      "title": "AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities",
+      "title": "TPCA Show 2026 to spotlight AI computing, Unimicron chair keynote",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008PD220/auo-cpo-subsidiary-manufacturing-optics.html"
+      "url": "https://www.digitimes.com/news/a20261008PD253/tpca-2026-unimicron-demand-hardware.html"
     }
   ],
   "source_stats": [
@@ -117,7 +117,7 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -144,7 +144,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 28,
+      "relevant": 26,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -180,7 +180,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 11,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
