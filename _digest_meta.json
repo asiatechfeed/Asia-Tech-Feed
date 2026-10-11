@@ -1,25 +1,37 @@
 {
-  "date": "2026-10-10",
-  "count": 3,
+  "date": "2026-10-11",
+  "count": 5,
   "sources": [
-    "DigiTimes"
+    "CNA",
+    "DigiTimes",
+    "NikkeiAsia"
   ],
-  "post_file": "2026-10-10-asia-tech-news-digest.md",
+  "post_file": "2026-10-11-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Phison posts record September revenue as AI tops half of sales",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008PD250/phison-revenue-demand-data-medical.html"
+      "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/nvidia-in-talks-invest-further-in-reflection-ai-or-buy-it-ft-reports-6449691"
     },
     {
-      "title": "Zhen Ding posts record September sales on mobile demand and AI applications",
+      "title": "Unified memory lifts AI PC ambitions as Chinese open models gain local-inference ground",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008PD249/zhen-ding-revenue-mobile-2026-communications.html"
+      "url": "https://www.digitimes.com/news/a20261008VL215/hardware-ai-pc-pc-market-windows.html?chid=10"
     },
     {
-      "title": "TPCA Show 2026 to spotlight AI computing, Unimicron chair keynote",
+      "title": "Semco moves glass substrates to package-level testing",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008PD253/tpca-2026-unimicron-demand-hardware.html"
+      "url": "https://www.digitimes.com/news/a20261008VL220/semco-glass-substrate-testing-expansion.html"
+    },
+    {
+      "title": "JNTC bets US$259 million on glass substrates ahead of 2028 ramp",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261008VL223/jntc-2028-manufacturing-glass-substrate-packaging.html"
+    },
+    {
+      "title": "Classrooms should ban digital textbooks and AI",
+      "source": "NikkeiAsia",
+      "url": "https://asia.nikkei.com/opinion/classrooms-should-ban-digital-textbooks-and-ai"
     }
   ],
   "source_stats": [
@@ -38,7 +50,7 @@
       "fetched": 20,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -135,7 +147,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 7,
+      "relevant": 3,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -153,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
