@@ -2,36 +2,36 @@
   "date": "2026-10-11",
   "count": 5,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "NikkeiAsia"
+    "NikkeiAsia",
+    "TechAsia"
   ],
   "post_file": "2026-10-11-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/nvidia-in-talks-invest-further-in-reflection-ai-or-buy-it-ft-reports-6449691"
+      "title": "Mapping the startups setting the pace in Korea\u2019s AI sector",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups"
     },
     {
-      "title": "Unified memory lifts AI PC ambitions as Chinese open models gain local-inference ground",
+      "title": "IPC makers expand US production as supply chains, tariffs shift",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008VL215/hardware-ai-pc-pc-market-windows.html?chid=10"
+      "url": "https://www.digitimes.com/news/a20261008PD238/production-manufacturing-pc-ipc-california.html"
     },
     {
-      "title": "Semco moves glass substrates to package-level testing",
+      "title": "Novatek quarterly revenue tops NT$30B as smartphone demand, edge AI chips lift results",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008VL220/semco-glass-substrate-testing-expansion.html"
+      "url": "https://www.digitimes.com/news/a20261008PD239/novatek-revenue-chips-smartphone-demand-2026.html"
     },
     {
-      "title": "JNTC bets US$259 million on glass substrates ahead of 2028 ramp",
+      "title": "Changs Ascending September revenue jumps 92% on semiconductor plant buildouts",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008VL223/jntc-2028-manufacturing-glass-substrate-packaging.html"
+      "url": "https://www.digitimes.com/news/a20261008PD229/revenue-plant-equipment-ups-aidc.html"
     },
     {
-      "title": "Classrooms should ban digital textbooks and AI",
+      "title": "Robot baristas and K-pop dancers lead South Korea's physical AI boom",
       "source": "NikkeiAsia",
-      "url": "https://asia.nikkei.com/opinion/classrooms-should-ban-digital-textbooks-and-ai"
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/robot-baristas-and-k-pop-dancers-lead-south-korea-s-physical-ai-boom"
     }
   ],
   "source_stats": [
@@ -48,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -156,7 +156,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 26,
+      "relevant": 23,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,7 +165,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 6,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -194,7 +194,7 @@
       "fetched": 36,
       "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
