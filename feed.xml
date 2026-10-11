@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-10T08:01:35+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 10, 2026</title><link href="https://asiatechfeed.com/2026/10/10/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 10, 2026" /><published>2026-10-10T08:00:52+00:00</published><updated>2026-10-10T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/10/10/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/10/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-11T00:01:18+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 11, 2026</title><link href="https://asiatechfeed.com/2026/10/11/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 11, 2026" /><published>2026-10-11T00:00:43+00:00</published><updated>2026-10-11T00:00:43+00:00</updated><id>https://asiatechfeed.com/2026/10/11/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/11/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Nvidia in talks to invest further in Reflection AI or buy it, FT reports</span></td>
+  <td class="col-summary">Nvidia in talks to invest further in Reflection AI or buy it, FT reports</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/nvidia-in-talks-invest-further-in-reflection-ai-or-buy-it-ft-reports-6449691" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Unified memory lifts AI PC ambitions as Chinese open models gain local-inference ground</span></td>
+  <td class="col-summary">The hardware boundary separating cloud-scale AI from local inference is becoming increasingly porous as PC vendors expand memory capacity and software platforms make larger open-weight models easier to run directly on devices.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008VL215/hardware-ai-pc-pc-market-windows.html?chid=10" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Semco moves glass substrates to package-level testing</span></td>
+  <td class="col-summary">Samsung Electro-Mechanics (Semco) has reportedly completed initial reliability testing of its 100mm glass substrates and moved to package-level verification using customer chips, marking progress toward commercializing next-generation packaging technology as AI accelerators grow larger and more complex. The development</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008VL220/semco-glass-substrate-testing-expansion.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">JNTC bets US$259 million on glass substrates ahead of 2028 ramp</span></td>
+  <td class="col-summary">South Korea's JNTC plans to invest KRW347 billion (approx. US$259 million) in glass substrate manufacturing as it reports a sharp reduction in copper-filling time for thick glass cores, potentially easing a major bottleneck in advanced semiconductor packaging. The investment comes as the company advances customer evalu</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008VL223/jntc-2028-manufacturing-glass-substrate-packaging.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Classrooms should ban digital textbooks and AI</span></td>
+  <td class="col-summary">Classrooms should ban digital textbooks and AI</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/opinion/classrooms-should-ban-digital-textbooks-and-ai" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Nvidia in talks to invest further in Reflection AI or buy it, FT reports Nvidia in talks to invest further in Reflection AI or buy it, FT reports AI Read 2 DigiTimes Unified memory lifts AI PC ambitions as Chinese open models gain local-inference ground The hardware boundary separating cloud-scale AI from local inference is becoming increasingly porous as PC vendors expand memory capacity and software platforms make larger open-weight models easier to run directly on devices. AI Read 3 DigiTimes Semco moves glass substrates to package-level testing Samsung Electro-Mechanics (Semco) has reportedly completed initial reliability testing of its 100mm glass substrates and moved to package-level verification using customer chips, marking progress toward commercializing next-generation packaging technology as AI accelerators grow larger and more complex. The development SemiconductorAI Read 4 DigiTimes JNTC bets US$259 million on glass substrates ahead of 2028 ramp South Korea's JNTC plans to invest KRW347 billion (approx. US$259 million) in glass substrate manufacturing as it reports a sharp reduction in copper-filling time for thick glass cores, potentially easing a major bottleneck in advanced semiconductor packaging. The investment comes as the company advances customer evalu Semiconductor Read 5 NikkeiAsia Classrooms should ban digital textbooks and AI Classrooms should ban digital textbooks and AI AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 10, 2026</title><link href="https://asiatechfeed.com/2026/10/10/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 10, 2026" /><published>2026-10-10T08:00:52+00:00</published><updated>2026-10-10T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/10/10/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/10/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -635,89 +688,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/electronics/three-fourths-of-electronics-firms-in-malaysia-to-lift-investment-amcham" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Micron ramps up HBM capacity at Taiwan's four major sites Micron Technology's revenue and profit for the fourth quarter of fiscal 2026 both beat expectations, and the company expects capacity supply to be even tighter in 2027 and 2028 than in 2026. Donghui Lu, vice president of Micron's DRAM front-end manufacturing operations in Asia and chairman of Micron Taiwan, said AI is AI Read 2 TechAsia Samsung Electro-Mechanics AI deals hit $2.6b The company announced on September 1 its largest-ever MLCC contract, worth 1.1 trillion won (US$792 million), also for 2027 delivery. AI Read 3 DigiTimes LG Electronics, LS Electric target AI data center bottlenecks with US cooling capacity, 345kV power deals South Korea's LG Electronics and LS Electric are expanding deeper into AI data center infrastructure, targeting two of the fastest-growing bottlenecks around high-density computing: cooling and power delivery. LG is adding chiller capacity in the US and South Korea, while LS Electric has secured a US$133.41 million con ElectronicsAI Read 4 DigiTimes California tech exec arrested in US$300M Nvidia AI server smuggling case US federal prosecutors on October 1 arrested a 38-year-old California man accused of violating US export controls by smuggling computer servers containing US$300 million worth of Nvidia artificial intelligence chips to China. AISemiconductor Read 5 TechAsia Temasek stays bullish on AI despite heavy infrastructure spending Temasek has overall holdings valued at about US$400 billion and owns stakes in OpenAI and Anthropic. AI Read 6 EETAsia Infineon Strengthens ASEAN Presence with Expanded Bangkok Site Infineon's new Bangkok backend facility adds assembly, test and wafer-test capacity, supporting expansion of its global manufacturing network. The post Infineon Strengthens ASEAN Presence with Expanded Bangkok Site appeared first on EE Times Asia . Semiconductor Read 7 NikkeiAsia Three fourths of electronics firms in Malaysia to lift investment: AmCham Three fourths of electronics firms in Malaysia to lift investment: AmCham Electronics Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 01, 2026</title><link href="https://asiatechfeed.com/2026/10/01/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 01, 2026" /><published>2026-10-01T08:00:51+00:00</published><updated>2026-10-01T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/10/01/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/01/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">PUB says AI detection tools gave 'inconclusive' results on Pandan Reservoir crocodile image</span></td>
-  <td class="col-summary">The man charged over an AI-generated crocodile image that triggered search operations at Pandan Reservoir worked for PUB's reservoir maintenance contractor, and the picture was reported by his supervisor.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/fake-crocodile-image-pandan-reservoir-ai-generated-pub-6423711" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">South Korean shares end nearly 2% higher on record chip exports</span></td>
-  <td class="col-summary">South Korean shares end nearly 2% higher on record chip exports</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/south-korean-shares-end-nearly-2-higher-record-chip-exports-6423756" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Meta's Muse lifts server CPU demand, with AMD EPYC orders extending into 2028</span></td>
-  <td class="col-summary">Meta's rapid rollout of its Muse AI agent is emerging as an early test of how agentic AI could reshape server infrastructure demand, with CPU suppliers already seeing longer lead times and AMD's latest EPYC processors reportedly booked deep into 2027.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261001VL213/cpu-meta-demand-amd-2028.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Voice AI startup Wiz.AI roars to US$3.9m profit in 2025</span></td>
-  <td class="col-summary">In his first year as CEO, Jianfeng Lu has steered the voice AI startup into profitability by focusing on projects that generate recurring revenue.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/voice-ai-startup-wizai-roars-us39m-profit-2025" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Huawei launches new Kirin chips after $250b R&amp;D investment</span></td>
-  <td class="col-summary">The new chips are part of Huawei's push to develop more of its core technology in-house.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/huawei-launches-mate-xt2-trifold-3k" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">JERA teams up with Dell, RHAELM on AI infrastructure development in Japan</span></td>
-  <td class="col-summary">JERA teams up with Dell, RHAELM on AI infrastructure development in Japan</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/jera-teams-up-dell-rhaelm-ai-infrastructure-development-in-japan-6423691" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Four glass makers converge on 510x515mm substrate, hinting at TSMC's next move</span></td>
-  <td class="col-summary">As AI chip sizes scale up, global glass leaders Corning, AGC, Nippon Electric Glass (NEG), and Schott have all centered their next-generation core substrate and through-glass via (TGV) roadmaps on a unified 510×515mm format. The tight alignment strongly suggests that Taiwan Semiconductor Manufacturing Co. (TSMC) is eye</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261001PD230/ai-chip-tsmc-corning-tgv-agc.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Synopsys and Amazon sign US$1 billion-plus deal to speed custom chip development</span></td>
-  <td class="col-summary">Synopsys announced a strategic agreement with Amazon on September 30, a multi-year deal valued at more than US$1 billion that is intended to speed up Amazon's custom silicon work and support the development of more complex AI-powered products and cloud infrastructure.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261001VL212/synopsys-amazon-silicon-ip-development.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Singtel launches token-based AI service on sovereign cloud</span></td>
-  <td class="col-summary">Singtel said the service targets enterprises that use multiple AI models and are adopting agentic AI.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/singtel-to-launch-sovereign-ai-data-security-service-in-sg" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA PUB says AI detection tools gave 'inconclusive' results on Pandan Reservoir crocodile image The man charged over an AI-generated crocodile image that triggered search operations at Pandan Reservoir worked for PUB's reservoir maintenance contractor, and the picture was reported by his supervisor. AI Read 2 CNA South Korean shares end nearly 2% higher on record chip exports South Korean shares end nearly 2% higher on record chip exports Semiconductor Read 3 DigiTimes Meta's Muse lifts server CPU demand, with AMD EPYC orders extending into 2028 Meta's rapid rollout of its Muse AI agent is emerging as an early test of how agentic AI could reshape server infrastructure demand, with CPU suppliers already seeing longer lead times and AMD's latest EPYC processors reportedly booked deep into 2027. AI Read 4 TechAsia Voice AI startup Wiz.AI roars to US$3.9m profit in 2025 In his first year as CEO, Jianfeng Lu has steered the voice AI startup into profitability by focusing on projects that generate recurring revenue. AI Read 5 TechAsia Huawei launches new Kirin chips after $250b R&amp;D investment The new chips are part of Huawei's push to develop more of its core technology in-house. Semiconductor Read 6 CNA JERA teams up with Dell, RHAELM on AI infrastructure development in Japan JERA teams up with Dell, RHAELM on AI infrastructure development in Japan AI Read 7 DigiTimes Four glass makers converge on 510x515mm substrate, hinting at TSMC's next move As AI chip sizes scale up, global glass leaders Corning, AGC, Nippon Electric Glass (NEG), and Schott have all centered their next-generation core substrate and through-glass via (TGV) roadmaps on a unified 510×515mm format. The tight alignment strongly suggests that Taiwan Semiconductor Manufacturing Co. (TSMC) is eye SemiconductorAI Read 8 DigiTimes Synopsys and Amazon sign US$1 billion-plus deal to speed custom chip development Synopsys announced a strategic agreement with Amazon on September 30, a multi-year deal valued at more than US$1 billion that is intended to speed up Amazon's custom silicon work and support the development of more complex AI-powered products and cloud infrastructure. Semiconductor Read 9 TechAsia Singtel launches token-based AI service on sovereign cloud Singtel said the service targets enterprises that use multiple AI models and are adopting agentic AI. AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Micron ramps up HBM capacity at Taiwan's four major sites Micron Technology's revenue and profit for the fourth quarter of fiscal 2026 both beat expectations, and the company expects capacity supply to be even tighter in 2027 and 2028 than in 2026. Donghui Lu, vice president of Micron's DRAM front-end manufacturing operations in Asia and chairman of Micron Taiwan, said AI is AI Read 2 TechAsia Samsung Electro-Mechanics AI deals hit $2.6b The company announced on September 1 its largest-ever MLCC contract, worth 1.1 trillion won (US$792 million), also for 2027 delivery. AI Read 3 DigiTimes LG Electronics, LS Electric target AI data center bottlenecks with US cooling capacity, 345kV power deals South Korea's LG Electronics and LS Electric are expanding deeper into AI data center infrastructure, targeting two of the fastest-growing bottlenecks around high-density computing: cooling and power delivery. LG is adding chiller capacity in the US and South Korea, while LS Electric has secured a US$133.41 million con ElectronicsAI Read 4 DigiTimes California tech exec arrested in US$300M Nvidia AI server smuggling case US federal prosecutors on October 1 arrested a 38-year-old California man accused of violating US export controls by smuggling computer servers containing US$300 million worth of Nvidia artificial intelligence chips to China. AISemiconductor Read 5 TechAsia Temasek stays bullish on AI despite heavy infrastructure spending Temasek has overall holdings valued at about US$400 billion and owns stakes in OpenAI and Anthropic. AI Read 6 EETAsia Infineon Strengthens ASEAN Presence with Expanded Bangkok Site Infineon's new Bangkok backend facility adds assembly, test and wafer-test capacity, supporting expansion of its global manufacturing network. The post Infineon Strengthens ASEAN Presence with Expanded Bangkok Site appeared first on EE Times Asia . Semiconductor Read 7 NikkeiAsia Three fourths of electronics firms in Malaysia to lift investment: AmCham Three fourths of electronics firms in Malaysia to lift investment: AmCham Electronics Read]]></summary></entry></feed>
