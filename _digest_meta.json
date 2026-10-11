@@ -1,37 +1,25 @@
 {
   "date": "2026-10-11",
-  "count": 5,
+  "count": 3,
   "sources": [
-    "DigiTimes",
-    "NikkeiAsia",
-    "TechAsia"
+    "DigiTimes"
   ],
   "post_file": "2026-10-11-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Mapping the startups setting the pace in Korea\u2019s AI sector",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups"
-    },
-    {
-      "title": "IPC makers expand US production as supply chains, tariffs shift",
+      "title": "Vicor widens AI server power patent fight, seeking new US import ban on Foxconn, Quanta and Delta",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008PD238/production-manufacturing-pc-ipc-california.html"
+      "url": "https://www.digitimes.com/news/a20261011VL200/ai-server-foxconn-quanta-ban-hardware.html"
     },
     {
-      "title": "Novatek quarterly revenue tops NT$30B as smartphone demand, edge AI chips lift results",
+      "title": "Everlight Chemical September revenue rises on strong electronic chemicals demand",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008PD239/novatek-revenue-chips-smartphone-demand-2026.html"
+      "url": "https://www.digitimes.com/news/a20261008PD215/revenue-everlight-demand-2026-growth.html"
     },
     {
-      "title": "Changs Ascending September revenue jumps 92% on semiconductor plant buildouts",
+      "title": "System integration emerges as Taiwan's next drone industry edge for defense scale-up",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008PD229/revenue-plant-equipment-ups-aidc.html"
-    },
-    {
-      "title": "Robot baristas and K-pop dancers lead South Korea's physical AI boom",
-      "source": "NikkeiAsia",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/robot-baristas-and-k-pop-dancers-lead-south-korea-s-physical-ai-boom"
+      "url": "https://www.digitimes.com/news/a20261008PD210/taiwan-technology-cost-component-semiconductors.html"
     }
   ],
   "source_stats": [
@@ -167,7 +155,7 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +182,7 @@
       "fetched": 36,
       "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {

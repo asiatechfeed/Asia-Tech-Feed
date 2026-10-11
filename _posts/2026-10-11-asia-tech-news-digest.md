@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - October 11, 2026"
-date: 2026-10-11 13:25:14 +0800
-articles_count: 5
-sources_count: 3
-sources: ["DigiTimes", "NikkeiAsia", "TechAsia"]
+date: 2026-10-11 16:00:53 +0800
+articles_count: 3
+sources_count: 1
+sources: ["DigiTimes"]
 csv_file: /assets/data/news-2026-10-11.tsv
-featured_title: "Mapping the startups setting the pace in Korea\u2019s AI sector"
-featured_url: "https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups"
-featured_source: "TechAsia"
-featured_summary: "Mapping Korea's AI sector: Key players, top investors, and funding insights in one report."
-featured_image: ""
+featured_title: "Vicor widens AI server power patent fight, seeking new US import ban on Foxconn, Quanta and Delta"
+featured_url: "https://www.digitimes.com/news/a20261011VL200/ai-server-foxconn-quanta-ban-hardware.html"
+featured_source: "DigiTimes"
+featured_summary: "Vicor Corporation is trying for the second time this year to get AI server power hardware from Taiwan's largest server makers barred from the US. It has won such a ban before."
+featured_image: "https://img.digitimes.com/newsshow/20261011vl200_files/2_2b.jpg"
 ---
 
 <table class="news-table">
@@ -27,43 +27,27 @@ featured_image: ""
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Mapping the startups setting the pace in Korea’s AI sector</span></td>
-  <td class="col-summary">Mapping Korea's AI sector: Key players, top investors, and funding insights in one report.</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Vicor widens AI server power patent fight, seeking new US import ban on Foxconn, Quanta and Delta</span></td>
+  <td class="col-summary">Vicor Corporation is trying for the second time this year to get AI server power hardware from Taiwan's largest server makers barred from the US. It has won such a ban before.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261011VL200/ai-server-foxconn-quanta-ban-hardware.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">IPC makers expand US production as supply chains, tariffs shift</span></td>
-  <td class="col-summary">Industrial PC (IPC) makers are adding US manufacturing as supply chains regionalize, tariff policy tightens, and government buyers press for local sourcing. For global readers, the shift signals a broader reordering of electronics production, with more high-value, time-sensitive work moving closer to North American cus</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008PD238/production-manufacturing-pc-ipc-california.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Everlight Chemical September revenue rises on strong electronic chemicals demand</span></td>
+  <td class="col-summary">Everlight Chemical reported higher September and year-to-date revenue, with electronic chemicals driving most of the growth. The results suggest continued resilience in industrial and specialty materials demand, a trend relevant to global manufacturers, supply chains, and investors watching Asian chemical producers ami</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008PD215/revenue-everlight-demand-2026-growth.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Novatek quarterly revenue tops NT$30B as smartphone demand, edge AI chips lift results</span></td>
-  <td class="col-summary">Novatek reported stronger September and third-quarter 2026 revenue, suggesting seasonal smartphone demand and growth in edge AI chips are supporting the global display and chip supply chain. The results matter for international readers because they reflect broader shifts in consumer electronics demand, inventory patter</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008PD239/novatek-revenue-chips-smartphone-demand-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Changs Ascending September revenue jumps 92% on semiconductor plant buildouts</span></td>
-  <td class="col-summary">Changs Ascending said orders tied to semiconductor customers' new plant construction, equipment arrivals, and project acceptance schedules were gradually fulfilled and recognized as revenue, lifting consolidated revenue to NT$79.2 million (approx. US$2.49 million) in September 2026, up 92% from a month earlier and 14% </td>
+  <td class="col-title"><span class="article-title">System integration emerges as Taiwan's next drone industry edge for defense scale-up</span></td>
+  <td class="col-summary">As defense technology and unmanned vehicles increasingly extend beyond traditional defense industries into the ICT and semiconductor sectors, Taiwan's manufacturers are being urged to go beyond the role of component suppliers and strengthen their system integration (SI) capabilities. That was the message from Lo Cheng-</td>
   <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008PD229/revenue-plant-equipment-ups-aidc.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Robot baristas and K-pop dancers lead South Korea's physical AI boom</span></td>
-  <td class="col-summary">Robot baristas and K-pop dancers lead South Korea's physical AI boom</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/robot-baristas-and-k-pop-dancers-lead-south-korea-s-physical-ai-boom" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008PD210/taiwan-technology-cost-component-semiconductors.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
