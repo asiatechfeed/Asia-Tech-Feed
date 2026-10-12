@@ -1,38 +1,38 @@
 {
   "date": "2026-10-12",
-  "count": 12,
+  "count": 9,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "NikkeiAsia"
+    "TechAsia"
   ],
   "post_file": "2026-10-12-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Huawei\u2019s Tau Scaling Law Moves Into Commercial Silicon",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/huaweis-tau-scaling-law-moves-into-commercial-silicon/"
-    },
-    {
-      "title": "US reverses course on Britain's testing of AI models, Telegraph says",
+      "title": "Better understanding of AI cybersecurity risks needed, says TikTok\u2019s Chew Shou Zi",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/us-reverses-course-britains-testing-ai-models-telegraph-says-6451601"
+      "url": "https://www.channelnewsasia.com/singapore/tiktok-ceo-shou-chew-ai-6451691"
     },
     {
-      "title": "India roundup: AI data center buildout accelerates as semiconductor push continues to broaden",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008VL217/ai-data-center-infrastructure-ip-packaging.html"
+      "title": "Sequoia-backed chip startup Nuvacore seeks $2.5b valuation",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/sequoia-backs-ex-apple-execs-new-ai-cpu-startup-nuvacore"
     },
     {
-      "title": "AI doubles Aker differential oscillator mix; 312.5MHz sample set for 4Q26",
+      "title": "Audi's defense pivot mirrors Taiwan supply chain's AI shift",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008PD247/2026-automotive-revenue-vehicle-demand.html"
+      "url": "https://www.digitimes.com/news/a20261012PD214/audi-automotive-taiwan-supply-chain-talent-data.html"
     },
     {
-      "title": "Episil chairman says SiC is not yet shifting from 6-inch to 8-inch",
+      "title": "Taiwan semiconductor industry eyes landmark geothermal power deal exceeding 20MW",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008PD244/episil-sic-6-inch-capacity-2026.html"
+      "url": "https://www.digitimes.com/news/a20261012PD211/geothermal-taiwan-electricity-development-market.html"
+    },
+    {
+      "title": "AI racks approach megawatt power levels as SiC, GaN, silicon divide power delivery roles",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261012PD210/gan-sic-silicon-expansion-infrastructure.html"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -148,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 6,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 25,
+      "fetched": 44,
+      "relevant": 35,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +168,7 @@
       "fetched": 50,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -193,9 +193,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 11,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
