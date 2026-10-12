@@ -1,38 +1,37 @@
 {
   "date": "2026-10-12",
-  "count": 9,
+  "count": 5,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
+    "EW",
     "TechAsia"
   ],
   "post_file": "2026-10-12-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Better understanding of AI cybersecurity risks needed, says TikTok\u2019s Chew Shou Zi",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/tiktok-ceo-shou-chew-ai-6451691"
+      "title": "Samsung could unseat SK Hynix as HBM leader in 2027",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261012VL220/samsung-sk-hynix-hbm-hbm4-2027.html"
     },
     {
-      "title": "Sequoia-backed chip startup Nuvacore seeks $2.5b valuation",
+      "title": "Cook makes first post-CEO visit to China, lauds Guangdong's role in Apple supply chain",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261012VL219/tim-cook-guangdong-apple-iphone-supply-chain.html"
+    },
+    {
+      "title": "SoftBank Robotics, SJ Group partner on AI facilities management",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/sequoia-backs-ex-apple-execs-new-ai-cpu-startup-nuvacore"
+      "url": "https://www.techinasia.com/temasek-leads-1-2m-round-in-singapore-healthtech-injewelme"
     },
     {
-      "title": "Audi's defense pivot mirrors Taiwan supply chain's AI shift",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261012PD214/audi-automotive-taiwan-supply-chain-talent-data.html"
+      "title": "Toray tests 150\u00b0C inverters",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/news/business/today-tests-150c-inverters-2026-10/"
     },
     {
-      "title": "Taiwan semiconductor industry eyes landmark geothermal power deal exceeding 20MW",
+      "title": "ELAN Microelectrics's 3Q26 PC momentum stalls on shortages, inventory overhang",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261012PD211/geothermal-taiwan-electricity-development-market.html"
-    },
-    {
-      "title": "AI racks approach megawatt power levels as SiC, GaN, silicon divide power delivery roles",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261012PD210/gan-sic-silicon-expansion-infrastructure.html"
+      "url": "https://www.digitimes.com/news/a20261012PD206/ic-inventory-pc-2026-revenue.html"
     }
   ],
   "source_stats": [
@@ -51,7 +50,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -129,10 +128,10 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
-      "relevant": 0,
+      "fetched": 10,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -150,14 +149,14 @@
       "fetched": 10,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 44,
-      "relevant": 35,
+      "fetched": 47,
+      "relevant": 37,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -195,7 +194,7 @@
       "fetched": 36,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
