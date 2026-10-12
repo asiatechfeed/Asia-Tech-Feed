@@ -1,4 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-11T08:01:25+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 11, 2026</title><link href="https://asiatechfeed.com/2026/10/11/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 11, 2026" /><published>2026-10-11T08:00:53+00:00</published><updated>2026-10-11T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/10/11/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/11/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-12T00:02:46+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 12, 2026</title><link href="https://asiatechfeed.com/2026/10/12/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 12, 2026" /><published>2026-10-12T00:01:21+00:00</published><updated>2026-10-12T00:01:21+00:00</updated><id>https://asiatechfeed.com/2026/10/12/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/12/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Huawei’s Tau Scaling Law Moves Into Commercial Silicon</span></td>
+  <td class="col-summary">Huawei's LogicFolding stacks silicon layers to improve chip density, timing and energy efficiency without EUV lithography. The post Huawei’s Tau Scaling Law Moves Into Commercial Silicon appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/huaweis-tau-scaling-law-moves-into-commercial-silicon/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">US reverses course on Britain's testing of AI models, Telegraph says</span></td>
+  <td class="col-summary">US reverses course on Britain's testing of AI models, Telegraph says</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/us-reverses-course-britains-testing-ai-models-telegraph-says-6451601" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">India roundup: AI data center buildout accelerates as semiconductor push continues to broaden</span></td>
+  <td class="col-summary">India's technology buildout is deepening across semiconductors and AI infrastructure, with chip IP, packaging and equipment initiatives advancing alongside data center expansion, high-density computing, optical connectivity and GPU deployments.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008VL217/ai-data-center-infrastructure-ip-packaging.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">AI doubles Aker differential oscillator mix; 312.5MHz sample set for 4Q26</span></td>
+  <td class="col-summary">Aker Technology said AI and electric vehicle demand are driving faster shipments, with automotive products accounting for 51.88% of sales in the first half of 2026. The quartz component maker also said its 312.5MHz product is scheduled to sample in the fourth quarter of 2026.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008PD247/2026-automotive-revenue-vehicle-demand.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Episil chairman says SiC is not yet shifting from 6-inch to 8-inch</span></td>
+  <td class="col-summary">Episil held an earnings call on October 7, saying silicon carbide (SiC) capacity utilization has rebounded quickly from 30% at a low point to nearly 90% now. If 6-inch order demand keeps rising in 2027, the company will add capacity through 8-inch production. That has raised questions over whether the industry is enter</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008PD244/episil-sic-6-inch-capacity-2026.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">PUFsecurity Puts Silicon Root of Trust at the Center of AI Agent Security</span></td>
+  <td class="col-summary">Hardware-based identity and attestation are critical to protecting credentials and workloads as AI agents gain autonomy across data centers and edge devices. The post PUFsecurity Puts Silicon Root of Trust at the Center of AI Agent Security appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/pufsecurity-puts-silicon-root-of-trust-at-the-center-of-ai-agent-security/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Global Semiconductor Sales Hit $1T Milestone in August</span></td>
+  <td class="col-summary">Global semiconductor sales reached $159.7 billion during the month of August 2026, an increase of 8% compared to the July 2026 total of $147.9 billion and 144.3% more than the August 2025 total of $65.4 billion, according to the Semiconductor Industry Association (SIA). Monthly sales are compiled by the World Semicondu</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/global-semiconductor-sales-hit-1t-milestone-in-august/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: What if the HR department's AI prefers resumes written by AI?</span></td>
+  <td class="col-summary">If AI is biased towards AI, it adds a fresh dimension of jeopardy in the dismal hiring arms race, says the Financial Times’ Pilita Clark.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/jobs-apply-resume-ai-use-skills-hr-6450116" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports</span></td>
+  <td class="col-summary">Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/amazon-in-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-6451486" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Inflation, AI and climate: IMF kicks off key meeting in Bangkok</span></td>
+  <td class="col-summary">Inflation, AI and climate: IMF kicks off key meeting in Bangkok</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/economy/inflation-ai-and-climate-imf-kicks-off-key-meeting-in-bangkok" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Former iPhone display plant in Japan to start new life in chip supply chain</span></td>
+  <td class="col-summary">Former iPhone display plant in Japan to start new life in chip supply chain</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/supply-chain/former-iphone-display-plant-in-japan-to-start-new-life-in-chip-supply-chain" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Solid-state battery maker ProLogium looks beyond EVs to AI and the skies</span></td>
+  <td class="col-summary">Solid-state battery maker ProLogium looks beyond EVs to AI and the skies</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/automobiles/electric-vehicles/solid-state-battery-maker-prologium-looks-beyond-evs-to-ai-and-the-skies" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 EETAsia Huawei’s Tau Scaling Law Moves Into Commercial Silicon Huawei's LogicFolding stacks silicon layers to improve chip density, timing and energy efficiency without EUV lithography. The post Huawei’s Tau Scaling Law Moves Into Commercial Silicon appeared first on EE Times Asia . Semiconductor Read 2 CNA US reverses course on Britain's testing of AI models, Telegraph says US reverses course on Britain's testing of AI models, Telegraph says AI Read 3 DigiTimes India roundup: AI data center buildout accelerates as semiconductor push continues to broaden India's technology buildout is deepening across semiconductors and AI infrastructure, with chip IP, packaging and equipment initiatives advancing alongside data center expansion, high-density computing, optical connectivity and GPU deployments. SemiconductorAI Read 4 DigiTimes AI doubles Aker differential oscillator mix; 312.5MHz sample set for 4Q26 Aker Technology said AI and electric vehicle demand are driving faster shipments, with automotive products accounting for 51.88% of sales in the first half of 2026. The quartz component maker also said its 312.5MHz product is scheduled to sample in the fourth quarter of 2026. AI Read 5 DigiTimes Episil chairman says SiC is not yet shifting from 6-inch to 8-inch Episil held an earnings call on October 7, saying silicon carbide (SiC) capacity utilization has rebounded quickly from 30% at a low point to nearly 90% now. If 6-inch order demand keeps rising in 2027, the company will add capacity through 8-inch production. That has raised questions over whether the industry is enter Semiconductor Read 6 EETAsia PUFsecurity Puts Silicon Root of Trust at the Center of AI Agent Security Hardware-based identity and attestation are critical to protecting credentials and workloads as AI agents gain autonomy across data centers and edge devices. The post PUFsecurity Puts Silicon Root of Trust at the Center of AI Agent Security appeared first on EE Times Asia . AI Read 7 EETAsia Global Semiconductor Sales Hit $1T Milestone in August Global semiconductor sales reached $159.7 billion during the month of August 2026, an increase of 8% compared to the July 2026 total of $147.9 billion and 144.3% more than the August 2025 total of $65.4 billion, according to the Semiconductor Industry Association (SIA). Monthly sales are compiled by the World Semicondu Semiconductor Read 8 CNA Commentary: What if the HR department's AI prefers resumes written by AI? If AI is biased towards AI, it adds a fresh dimension of jeopardy in the dismal hiring arms race, says the Financial Times’ Pilita Clark. AI Read 9 CNA Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports AI Read 10 NikkeiAsia Inflation, AI and climate: IMF kicks off key meeting in Bangkok Inflation, AI and climate: IMF kicks off key meeting in Bangkok AI Read 11 NikkeiAsia Former iPhone display plant in Japan to start new life in chip supply chain Former iPhone display plant in Japan to start new life in chip supply chain SemiconductorLogistics Read 12 NikkeiAsia Solid-state battery maker ProLogium looks beyond EVs to AI and the skies Solid-state battery maker ProLogium looks beyond EVs to AI and the skies AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 11, 2026</title><link href="https://asiatechfeed.com/2026/10/11/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 11, 2026" /><published>2026-10-11T08:00:53+00:00</published><updated>2026-10-11T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/10/11/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/11/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -603,73 +712,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002VL213/capacity-france-eu-europe-supercomputer.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Biren readies BR20X, sharpening China's AI GPU challenge to Nvidia Biren Technology is preparing its next-generation GPU for mass production, advancing a domestic AI accelerator roadmap built around broader low-precision support and locally available manufacturing. AI Read 2 DigiTimes LG Energy Solution and GM bet LMR can bridge the gap between LFP cost and high-nickel range For years, automakers have grappled with an underlying paradox stemming from persistent EV raw-material pressures, as supply chains worldwide have been constrained by a familiar battery-chemistry trade-off: cost-effectiveness versus high-performance density. Logistics Read 3 DigiTimes Bull's France factory doubles capacity to capture growing orders as EU pushes AI sovereignty Supercomputer maker Bull will double its production capacity using an expanded factory that reopened on October 1. The French creator of Europe's fastest supercomputers described unprecedented orders as the continent seeks to catch up to the US and China in AI infrastructure. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 02, 2026</title><link href="https://asiatechfeed.com/2026/10/02/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 02, 2026" /><published>2026-10-02T08:00:55+00:00</published><updated>2026-10-02T08:00:55+00:00</updated><id>https://asiatechfeed.com/2026/10/02/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/02/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Micron ramps up HBM capacity at Taiwan's four major sites</span></td>
-  <td class="col-summary">Micron Technology's revenue and profit for the fourth quarter of fiscal 2026 both beat expectations, and the company expects capacity supply to be even tighter in 2027 and 2028 than in 2026. Donghui Lu, vice president of Micron's DRAM front-end manufacturing operations in Asia and chairman of Micron Taiwan, said AI is </td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002PD224/micron-taiwan-capacity-hbm-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Samsung Electro-Mechanics AI deals hit $2.6b</span></td>
-  <td class="col-summary">The company announced on September 1 its largest-ever MLCC contract, worth 1.1 trillion won (US$792 million), also for 2027 delivery.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/samsung-electro-mechanics-eyes-ai-chip-packaging-expansion" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">LG Electronics, LS Electric target AI data center bottlenecks with US cooling capacity, 345kV power deals</span></td>
-  <td class="col-summary">South Korea's LG Electronics and LS Electric are expanding deeper into AI data center infrastructure, targeting two of the fastest-growing bottlenecks around high-density computing: cooling and power delivery. LG is adding chiller capacity in the US and South Korea, while LS Electric has secured a US$133.41 million con</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002VL210/data-center-cooling-lg-electronics-capacity-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">California tech exec arrested in US$300M Nvidia AI server smuggling case</span></td>
-  <td class="col-summary">US federal prosecutors on October 1 arrested a 38-year-old California man accused of violating US export controls by smuggling computer servers containing US$300 million worth of Nvidia artificial intelligence chips to China.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261002PD225/california-nvidia-chips-technology-2023.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Temasek stays bullish on AI despite heavy infrastructure spending</span></td>
-  <td class="col-summary">Temasek has overall holdings valued at about US$400 billion and owns stakes in OpenAI and Anthropic.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/temaseks-net-portfolio-grows-10-401b-fy26" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Infineon Strengthens ASEAN Presence with Expanded Bangkok Site</span></td>
-  <td class="col-summary">Infineon's new Bangkok backend facility adds assembly, test and wafer-test capacity, supporting expansion of its global manufacturing network. The post Infineon Strengthens ASEAN Presence with Expanded Bangkok Site appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/infineon-strengthens-asean-presence-with-expanded-bangkok-site/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Three fourths of electronics firms in Malaysia to lift investment: AmCham</span></td>
-  <td class="col-summary">Three fourths of electronics firms in Malaysia to lift investment: AmCham</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/electronics/three-fourths-of-electronics-firms-in-malaysia-to-lift-investment-amcham" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Micron ramps up HBM capacity at Taiwan's four major sites Micron Technology's revenue and profit for the fourth quarter of fiscal 2026 both beat expectations, and the company expects capacity supply to be even tighter in 2027 and 2028 than in 2026. Donghui Lu, vice president of Micron's DRAM front-end manufacturing operations in Asia and chairman of Micron Taiwan, said AI is AI Read 2 TechAsia Samsung Electro-Mechanics AI deals hit $2.6b The company announced on September 1 its largest-ever MLCC contract, worth 1.1 trillion won (US$792 million), also for 2027 delivery. AI Read 3 DigiTimes LG Electronics, LS Electric target AI data center bottlenecks with US cooling capacity, 345kV power deals South Korea's LG Electronics and LS Electric are expanding deeper into AI data center infrastructure, targeting two of the fastest-growing bottlenecks around high-density computing: cooling and power delivery. LG is adding chiller capacity in the US and South Korea, while LS Electric has secured a US$133.41 million con ElectronicsAI Read 4 DigiTimes California tech exec arrested in US$300M Nvidia AI server smuggling case US federal prosecutors on October 1 arrested a 38-year-old California man accused of violating US export controls by smuggling computer servers containing US$300 million worth of Nvidia artificial intelligence chips to China. AISemiconductor Read 5 TechAsia Temasek stays bullish on AI despite heavy infrastructure spending Temasek has overall holdings valued at about US$400 billion and owns stakes in OpenAI and Anthropic. AI Read 6 EETAsia Infineon Strengthens ASEAN Presence with Expanded Bangkok Site Infineon's new Bangkok backend facility adds assembly, test and wafer-test capacity, supporting expansion of its global manufacturing network. The post Infineon Strengthens ASEAN Presence with Expanded Bangkok Site appeared first on EE Times Asia . Semiconductor Read 7 NikkeiAsia Three fourths of electronics firms in Malaysia to lift investment: AmCham Three fourths of electronics firms in Malaysia to lift investment: AmCham Electronics Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Biren readies BR20X, sharpening China's AI GPU challenge to Nvidia Biren Technology is preparing its next-generation GPU for mass production, advancing a domestic AI accelerator roadmap built around broader low-precision support and locally available manufacturing. AI Read 2 DigiTimes LG Energy Solution and GM bet LMR can bridge the gap between LFP cost and high-nickel range For years, automakers have grappled with an underlying paradox stemming from persistent EV raw-material pressures, as supply chains worldwide have been constrained by a familiar battery-chemistry trade-off: cost-effectiveness versus high-performance density. Logistics Read 3 DigiTimes Bull's France factory doubles capacity to capture growing orders as EU pushes AI sovereignty Supercomputer maker Bull will double its production capacity using an expanded factory that reopened on October 1. The French creator of Europe's fastest supercomputers described unprecedented orders as the continent seeks to catch up to the US and China in AI infrastructure. AI Read]]></summary></entry></feed>
