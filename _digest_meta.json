@@ -1,25 +1,38 @@
 {
-  "date": "2026-10-11",
-  "count": 3,
+  "date": "2026-10-12",
+  "count": 12,
   "sources": [
-    "DigiTimes"
+    "CNA",
+    "DigiTimes",
+    "EETAsia",
+    "NikkeiAsia"
   ],
-  "post_file": "2026-10-11-asia-tech-news-digest.md",
+  "post_file": "2026-10-12-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Vicor widens AI server power patent fight, seeking new US import ban on Foxconn, Quanta and Delta",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261011VL200/ai-server-foxconn-quanta-ban-hardware.html"
+      "title": "Huawei\u2019s Tau Scaling Law Moves Into Commercial Silicon",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/huaweis-tau-scaling-law-moves-into-commercial-silicon/"
     },
     {
-      "title": "Everlight Chemical September revenue rises on strong electronic chemicals demand",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008PD215/revenue-everlight-demand-2026-growth.html"
+      "title": "US reverses course on Britain's testing of AI models, Telegraph says",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/us-reverses-course-britains-testing-ai-models-telegraph-says-6451601"
     },
     {
-      "title": "System integration emerges as Taiwan's next drone industry edge for defense scale-up",
+      "title": "India roundup: AI data center buildout accelerates as semiconductor push continues to broaden",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261008PD210/taiwan-technology-cost-component-semiconductors.html"
+      "url": "https://www.digitimes.com/news/a20261008VL217/ai-data-center-infrastructure-ip-packaging.html"
+    },
+    {
+      "title": "AI doubles Aker differential oscillator mix; 312.5MHz sample set for 4Q26",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261008PD247/2026-automotive-revenue-vehicle-demand.html"
+    },
+    {
+      "title": "Episil chairman says SiC is not yet shifting from 6-inch to 8-inch",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261008PD244/episil-sic-6-inch-capacity-2026.html"
     }
   ],
   "source_stats": [
@@ -36,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -116,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -135,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 3,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 23,
+      "relevant": 25,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -153,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
