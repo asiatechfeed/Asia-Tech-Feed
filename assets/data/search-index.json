@@ -1,5 +1,165 @@
 [
   {
+    "date": "2026-10-13",
+    "title": "Advanced Packaging Market Forecast to Reach $90B by 2031",
+    "summary": "Demand for chiplets, 3D ICs and hybrid bonding is expected to drive advanced packaging growth as AI and HPC systems scale. The post Advanced Packaging Market Forecast to Reach $90B by 2031 appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/advanced-packaging-market-forecast-to-reach-90b-by-2031/"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Rigaku to Showcase X-Ray Metrology for Semiconductor Manufacturing at SEMICON West 2026",
+    "summary": "Rigaku will demo X-ray metrology tools for wafer characterization, contamination analysis, thin films and advanced packaging at SEMICON West. The post Rigaku to Showcase X-Ray Metrology for Semiconductor Manufacturing at SEMICON West 2026 appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/rigaku-to-showcase-x-ray-metrology-for-semiconductor-manufacturing-at-semicon-west-2026/"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "SEMIFIVE to Develop Robotics AI Chip with Mobilint",
+    "summary": "SEMIFIVE and Mobilint will develop a robotics AI chip integrating advanced memory and interconnect technologies for autonomous operation. The post SEMIFIVE to Develop Robotics AI Chip with Mobilint appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI",
+      "Semiconductor",
+      "Automation"
+    ],
+    "url": "https://www.eetasia.com/semifive-to-develop-robotics-ai-chip-with-mobilint/"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "NYT, Economist among publishers joining coalition to curb unpaid AI use",
+    "summary": "NYT, Economist among publishers joining coalition to curb unpaid AI use",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/nyt-economist-among-publishers-joining-coalition-curb-unpaid-ai-use-6454436"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Commentary: Every investment portfolio looks like the same trade - AI",
+    "summary": "Investor portfolios have become alarmingly reliant on the fortunes of just one bet on the build-out of an uncertain technology, says Katie Martin for the Financial Times.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/ai-stock-market-investment-portfolio-risks-6452486"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "US AI testing agency officials to move to White House, The Information reports",
+    "summary": "US AI testing agency officials to move to White House, The Information reports",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/us-ai-testing-agency-officials-move-white-house-information-reports-6454176"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Interview: Microsoft's Maia GM on Maia 300, Taiwan and HBM supply",
+    "summary": "Microsoft's in-house Azure Maia chips will become the main platform for its own AI services, including Microsoft 365 Copilot, GitHub Copilot and Microsoft Foundry. However, the company will keep using GPUs from Nvidia and AMD, Andrew Wall, general manager of the Azure Maia program, told DIGITIMES .",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261012VL216/microsoft-taiwan-hbm-chips-copilot.html"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Microsoft's Maia 300 rack: 96 accelerators, HBM4, mostly liquid-cooled",
+    "summary": "Microsoft has released architecture details for Maia 300, its third-generation Azure AI accelerator. The design pairs 96 accelerators per rack with a two-tier network that links up to 12,288 accelerators into a single superpod. The company says the system is built for cloud-scale agentic inference, and that it co-desig",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261012VL207/microsoft-server-rack-hbm4-accelerator-switch.html"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Microsoft to scale Maia AI chips to multi-gigawatt deployments, unveils TSMC N2P-based Maia 300",
+    "summary": "Microsoft will scale its in-house Azure Maia AI accelerators to multi-gigawatt deployments starting in 2027, making Maia the primary AI inference system for its products and services. The company also unveiled Maia 300, the third generation of the chip family, which it says will start production deployments next year.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261012VL205/microsoft-azure-copilot-ai-chip-accelerator-bandwidth-tsmc.html"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Amazon in talks to buy AI startup Decart for $7b",
+    "summary": "Anthropic, which explored a US$6 billion deal, passed on buying Decart after due diligence.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/amazon-set-raise-54b-sterling-bond-sale"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Nvidia weighs investing in or buying Reflection AI",
+    "summary": "Founded in 2024 by ex-DeepMind researchers, Reflection AI recently launched its Beam model.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/nvidiabacked-ai-startup-nscale-files-ipo"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "A16z seeks South Korean chip, robotics partnerships",
+    "summary": "In December 2025, a16z crypto said it planned to open a Seoul office and hire SungMo Park.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor",
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/a16z-launches-11b-fund-ai-hardware-infrastructure"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Japan's Omron to buy US-based OnLogic for $630m in physical AI push",
+    "summary": "Japan's Omron to buy US-based OnLogic for $630m in physical AI push",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/business-deals/japan-s-omron-to-buy-us-based-onlogic-for-630m-in-physical-ai-push"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "US legal AI giant Harvey to open Japan office in 2027, CEO says",
+    "summary": "US legal AI giant Harvey to open Japan office in 2027, CEO says",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-legal-ai-giant-harvey-to-open-japan-office-in-2027-ceo-says"
+  },
+  {
     "date": "2026-10-12",
     "title": "Samsung could unseat SK Hynix as HBM leader in 2027",
     "summary": "Samsung Electronics could overtake SK Hynix as the world's largest supplier of high-bandwidth memory (HBM) in 2027, as HBM4 prices climb and memory manufacturers compete for limited DRAM production capacity, according to forecasts presented at an October 6 semiconductor industry forum in Seoul.",
