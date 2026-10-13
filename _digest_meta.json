@@ -1,39 +1,39 @@
 {
   "date": "2026-10-13",
-  "count": 14,
+  "count": 13,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
+    "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-13-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Advanced Packaging Market Forecast to Reach $90B by 2031",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/advanced-packaging-market-forecast-to-reach-90b-by-2031/"
+      "title": "AMEC chairman warns of AI bubble risk, sees consolidation ahead for China's chip equipment industry",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261013VL220/amec-equipment-chairman-demand-investment.html"
     },
     {
-      "title": "Rigaku to Showcase X-Ray Metrology for Semiconductor Manufacturing at SEMICON West 2026",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/rigaku-to-showcase-x-ray-metrology-for-semiconductor-manufacturing-at-semicon-west-2026/"
+      "title": "Formosa Smart Energy draws interest from global cloud providers for AI data centers",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261013PD217/data-electricity-taiwan-formosa-plastics-industrial.html"
     },
     {
-      "title": "SEMIFIVE to Develop Robotics AI Chip with Mobilint",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/semifive-to-develop-robotics-ai-chip-with-mobilint/"
+      "title": "AI demand squeezes capacitor, resistor capacity as Taiwan suppliers eye price hikes",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261013PD225/demand-taiwan-capacity-price-capacitor.html"
     },
     {
-      "title": "NYT, Economist among publishers joining coalition to curb unpaid AI use",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/nyt-economist-among-publishers-joining-coalition-curb-unpaid-ai-use-6454436"
+      "title": "Nvidia, Cisco plan new optics format for AI data centers",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/nvidia-aolani-expand-sea-ai-factories"
     },
     {
-      "title": "Commentary: Every investment portfolio looks like the same trade - AI",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/ai-stock-market-investment-portfolio-risks-6452486"
+      "title": "US cybersecurity firm Zscaler adds Claude Mythos 5.1",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/palo-alto-to-acquire-israeli-ai-security-firm-koi"
     }
   ],
   "source_stats": [
@@ -50,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 4,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -131,7 +131,7 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -149,7 +149,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 9,
+      "relevant": 10,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -157,8 +157,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 24,
+      "fetched": 64,
+      "relevant": 50,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -178,7 +178,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -194,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 20,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
