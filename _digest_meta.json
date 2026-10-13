@@ -1,39 +1,37 @@
 {
   "date": "2026-10-13",
-  "count": 13,
+  "count": 8,
   "sources": [
     "DigiTimes",
-    "EETAsia",
-    "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-13-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "AMEC chairman warns of AI bubble risk, sees consolidation ahead for China's chip equipment industry",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261013VL220/amec-equipment-chairman-demand-investment.html"
-    },
-    {
-      "title": "Formosa Smart Energy draws interest from global cloud providers for AI data centers",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261013PD217/data-electricity-taiwan-formosa-plastics-industrial.html"
-    },
-    {
-      "title": "AI demand squeezes capacitor, resistor capacity as Taiwan suppliers eye price hikes",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261013PD225/demand-taiwan-capacity-price-capacitor.html"
-    },
-    {
-      "title": "Nvidia, Cisco plan new optics format for AI data centers",
+      "title": "Nvidia\u2019s China AI-chip share falls to 34% as Huawei gains",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-aolani-expand-sea-ai-factories"
+      "url": "https://www.techinasia.com/nvidia-teams-yco-cloud-aolani-philippines-ai-project"
     },
     {
-      "title": "US cybersecurity firm Zscaler adds Claude Mythos 5.1",
+      "title": "SK Hynix unveils low-power processor design for SSDs",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261013VL221/sk-hynix-ssd-processor-design-2026.html"
+    },
+    {
+      "title": "Samsung's US$9B chip expansion faces funding, supply hurdles",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261013VL215/samsung-expansion-funding-investment-testing.html"
+    },
+    {
+      "title": "China's Blue Core Computing secures nearly US$300 million to challenge x86, Arm in AI servers",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261013VL218/arm-x86-risc-v-shenzhen-production.html"
+    },
+    {
+      "title": "DeepSeek to lead seed round for robotics startup Winverse AI",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/palo-alto-to-acquire-israeli-ai-security-firm-koi"
+      "url": "https://www.techinasia.com/deepseek-resumes-fundraising-74b-valuation"
     }
   ],
   "source_stats": [
@@ -130,7 +128,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -151,14 +149,14 @@
       "fetched": 10,
       "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 64,
-      "relevant": 50,
+      "fetched": 70,
+      "relevant": 52,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +167,7 @@
       "fetched": 50,
       "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -178,7 +176,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -211,7 +209,7 @@
     {
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
