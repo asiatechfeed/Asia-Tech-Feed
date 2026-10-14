@@ -1,39 +1,37 @@
 {
   "date": "2026-10-14",
-  "count": 10,
+  "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-14-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "50 rising AI startups in Asia",
+      "title": "Singapore\u2019s IMDA announces agentic AI testing kit, safety push",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/50-rising-ai-startups-in-asia"
+      "url": "https://www.techinasia.com/sg-unveils-model-governance-framework-for-agentic-ai-at-wef"
     },
     {
-      "title": "SoftBank junk bond sale raises stakes for CEO Son's all-in AI bet",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/softbank-junk-bond-sale-raises-stakes-ceo-sons-all-in-ai-bet-6457321"
-    },
-    {
-      "title": "AI could 'change the stakes' on bioweapons: UK spy chief",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/uk-mi5-spy-chief-ai-bioweapons-cyberattacks-6457066"
-    },
-    {
-      "title": "Engineering salaries deepen Taiwan's doctoral talent shortage",
+      "title": "LG, Bosch team up on automotive chiplets",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261013PD256/taiwan-technology-communications-ntu-university.html"
+      "url": "https://www.digitimes.com/news/a20261014PD208/lg-automotive-bosch-lg-electronics-soc.html"
     },
     {
-      "title": "OpenAI to add 200 Dublin jobs and launch applied AI laboratory",
+      "title": "TSMC and MediaTek alumni lead Taiwan's new wave of deep tech startups",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261013PD253/openai-2026-investment-technology-ireland.html"
+      "url": "https://www.digitimes.com/news/a20261013VL226/taiwan-startup-tsmc-mediatek-data.html"
+    },
+    {
+      "title": "Zuckerberg says Meta made $200b AI bet without certainty",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/meta-adds-safety-warning-muse-security-flaw-report"
+    },
+    {
+      "title": "Cisco expands AI networking with new chips, SONiC, cross-site deployment",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261014PD206/cisco-chips-capacity-technology-cooling.html"
     }
   ],
   "source_stats": [
@@ -130,7 +128,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -151,14 +149,14 @@
       "fetched": 10,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 83,
-      "relevant": 62,
+      "fetched": 55,
+      "relevant": 48,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 12,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
