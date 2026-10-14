@@ -1,37 +1,38 @@
 {
   "date": "2026-10-14",
-  "count": 8,
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-14-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Singapore\u2019s IMDA announces agentic AI testing kit, safety push",
+      "title": "SEMICON West 2026: SEMI Forecasts 300mm Fab Equipment Spending to Reach $227B by 2029",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/semicon-west-2026-semi-forecasts-300mm-fab-equipment-spending-to-reach-227b-by-2029/"
+    },
+    {
+      "title": "Move over generic homework solvers, this AI tutor tracks mastery",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/sg-unveils-model-governance-framework-for-agentic-ai-at-wef"
+      "url": "https://www.techinasia.com/move-generic-homework-solvers-ai-tutor-tracks-mastery"
     },
     {
-      "title": "LG, Bosch team up on automotive chiplets",
+      "title": "ASML's record 3Q26 sales expose a capacity gap for AI chip demand through 2028",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261014PD208/lg-automotive-bosch-lg-electronics-soc.html"
+      "url": "https://www.digitimes.com/news/a20261014VL212/asml-sales-2028-demand-capacity.html"
     },
     {
-      "title": "TSMC and MediaTek alumni lead Taiwan's new wave of deep tech startups",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261013VL226/taiwan-startup-tsmc-mediatek-data.html"
-    },
-    {
-      "title": "Zuckerberg says Meta made $200b AI bet without certainty",
+      "title": "India\u2019s Gupshup launches AI video avatars for customer service",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/meta-adds-safety-warning-muse-security-flaw-report"
+      "url": "https://www.techinasia.com/indias-bharti-airtel-google-to-launch-advanced-chat-messaging"
     },
     {
-      "title": "Cisco expands AI networking with new chips, SONiC, cross-site deployment",
+      "title": "Nvidia's share of China's AI chips falls by a third while Huawei gains",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261014PD206/cisco-chips-capacity-technology-cooling.html"
+      "url": "https://www.digitimes.com/news/a20261014VL210/nvidia-huawei-china-chips-sales.html"
     }
   ],
   "source_stats": [
@@ -128,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -149,14 +150,14 @@
       "fetched": 10,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 55,
-      "relevant": 48,
+      "fetched": 65,
+      "relevant": 56,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,7 +166,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 7,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -192,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
