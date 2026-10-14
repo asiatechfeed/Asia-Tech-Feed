@@ -1,93 +1,116 @@
 [
   {
     "date": "2026-10-14",
-    "title": "Singapore’s IMDA announces agentic AI testing kit, safety push",
-    "summary": "AI Verify Foundation, a Singapore-based nonprofit wholly owned by IMDA that develops AI governance testing tools, launched the AI Tester Accreditation Programme.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/sg-unveils-model-governance-framework-for-agentic-ai-at-wef"
-  },
-  {
-    "date": "2026-10-14",
-    "title": "LG, Bosch team up on automotive chiplets",
-    "summary": "LG Electronics is reportedly working with Bosch to develop automotive chiplets, a move that would mark LG's formal entry into the automotive semiconductor market if the technology reaches production and wins customers. The business could also create synergies with the LG Group's broad automotive electronics operations.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "Electronics"
-    ],
-    "url": "https://www.digitimes.com/news/a20261014PD208/lg-automotive-bosch-lg-electronics-soc.html"
-  },
-  {
-    "date": "2026-10-14",
-    "title": "TSMC and MediaTek alumni lead Taiwan's new wave of deep tech startups",
-    "summary": "At Plug and Play Taiwan's Batch 4 Selection Day, 21 startups made the case that Taiwan's next wave of innovation is being built by chip-industry veterans who are tackling problems faced by the world's biggest tech companies.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "SEMICON West 2026: SEMI Forecasts 300mm Fab Equipment Spending to Reach $227B by 2029",
+    "summary": "Global 300mm fab investment is set to accelerate through 2029, driven by expanding semiconductor manufacturing capacity and demand. The post SEMICON West 2026: SEMI Forecasts 300mm Fab Equipment Spending to Reach $227B by 2029 appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261013VL226/taiwan-startup-tsmc-mediatek-data.html"
+    "url": "https://www.eetasia.com/semicon-west-2026-semi-forecasts-300mm-fab-equipment-spending-to-reach-227b-by-2029/"
   },
   {
     "date": "2026-10-14",
-    "title": "Zuckerberg says Meta made $200b AI bet without certainty",
-    "summary": "Meta's personal AI assistant Muse has been publicly demonstrated controlling apps on a Mac.",
+    "title": "Move over generic homework solvers, this AI tutor tracks mastery",
+    "summary": "With over 1 million users since its late 2025 launch, Sovi AI is moving beyond standard homework solvers to build a persistent learning companion.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/meta-adds-safety-warning-muse-security-flaw-report"
+    "url": "https://www.techinasia.com/move-generic-homework-solvers-ai-tutor-tracks-mastery"
   },
   {
     "date": "2026-10-14",
-    "title": "Cisco expands AI networking with new chips, SONiC, cross-site deployment",
-    "summary": "As AI cluster sizes grow, networking systems face challenges beyond higher bandwidth, including power consumption, cooling, cross-site coordination, and large-scale device operations. Cisco is expanding its AI data center technology strategy from high-bandwidth switch chips to cross-site networking, open network operat",
+    "title": "ASML's record 3Q26 sales expose a capacity gap for AI chip demand through 2028",
+    "summary": "ASML reported record third-quarter 2026 net sales of EUR11.7 billion (approx. US$13.1 billion) and net income of EUR5 billion, while warning that its planned supply for 2027 and 2028 would fall short of customer demand. Growing AI investment is prompting the lithography equipment supplier to explore a larger capacity e",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261014PD206/cisco-chips-capacity-technology-cooling.html"
+    "url": "https://www.digitimes.com/news/a20261014VL212/asml-sales-2028-demand-capacity.html"
   },
   {
     "date": "2026-10-14",
-    "title": "The window for AI IPOs is shrinking",
-    "summary": "We look at how differently public markets and private investors value AI startups, plus Anthropic’s new office in Singapore.",
+    "title": "India’s Gupshup launches AI video avatars for customer service",
+    "summary": "It follows Gupshup’s recently launched voice AI offering.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/the-window-for-ai-ipos-is-shrinking"
+    "url": "https://www.techinasia.com/indias-bharti-airtel-google-to-launch-advanced-chat-messaging"
   },
   {
     "date": "2026-10-14",
-    "title": "Asia shares edge up as chip selloff eases; US CPI awaited",
-    "summary": "Asia shares edge up as chip selloff eases; US CPI awaited",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "Nvidia's share of China's AI chips falls by a third while Huawei gains",
+    "summary": "Nvidia's share of AI chips in China's data center market has fallen by 34% in the first half of this year, according to a new report. The drop follows months of US restrictions on advanced chip sales to the country, Chinese authorities' push to rely less on Nvidia imports, and domestic players like Huawei moving to fil",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
+      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.channelnewsasia.com/business/asia-shares-edge-up-chip-selloff-eases-us-cpi-awaited-6457516"
+    "url": "https://www.digitimes.com/news/a20261014VL210/nvidia-huawei-china-chips-sales.html"
   },
   {
     "date": "2026-10-14",
-    "title": "GovTech and Google DeepMind developing real-time detection of AI scams on devices",
-    "summary": "Organisations will also receive funding through a new grant to protect against quantum threats.",
+    "title": "Nvidia pledges $250 million to UK AI safety research",
+    "summary": "Nvidia pledges $250 million to UK AI safety research",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/singapore/govtech-google-deepmind-ai-scam-quantum-sicw-6455621"
+    "url": "https://www.channelnewsasia.com/business/nvidia-pledges-250-million-uk-ai-safety-research-6458176"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "Elon Musk says Micron is 'reasonable' on memory prices while others are 'extortionate'",
+    "summary": "Elon Musk has criticized memory chip suppliers for charging what he called \"extortionate\" prices while praising Micron Technology's approach to future pricing, highlighting tensions between chipmakers and customers as prolonged supply shortages strengthen manufacturers' bargaining power.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261014VL211/micron-dram-price-elon-musk.html"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "Singapore forms task force to strengthen defences against AI-enabled cyber threats",
+    "summary": "IMDA also launched the first version of a starter kit aimed at helping organisations test agentic AI systems for safety and reliability.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/singapore/singapore-task-force-ai-related-cyber-threats-6457921"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "Ex-Qoala execs’ AI firm Parallel Loop raises $6.6m",
+    "summary": "The company said the money will support enterprise AI adoption across Asia, Europe, and the Middle East.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/openais-codex-head-sees-incredible-adoption-across-asia"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "Automakers Explore Modular AI to Reduce ADAS Computing Costs",
+    "summary": "Rising chip costs and computing demands are driving automakers toward specialized AI architectures for more affordable, scalable driver assistance systems. The post Automakers Explore Modular AI to Reduce ADAS Computing Costs appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/automakers-explore-modular-ai-to-reduce-adas-computing-costs/"
   },
   {
     "date": "2026-10-13",
