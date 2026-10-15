@@ -1,38 +1,38 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-10-14-asia-tech-news-digest.md",
+  "post_file": "2026-10-15-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "SEMICON West 2026: SEMI Forecasts 300mm Fab Equipment Spending to Reach $227B by 2029",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/semicon-west-2026-semi-forecasts-300mm-fab-equipment-spending-to-reach-227b-by-2029/"
+      "title": "Commentary: Who\u2019s paying whom? The circular money machine behind the AI boom",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/ai-boom-circular-money-machine-6458506"
     },
     {
-      "title": "Move over generic homework solvers, this AI tutor tracks mastery",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/move-generic-homework-solvers-ai-tutor-tracks-mastery"
-    },
-    {
-      "title": "ASML's record 3Q26 sales expose a capacity gap for AI chip demand through 2028",
+      "title": "Energy Taiwan 2026 opens with record international participation",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261014VL212/asml-sales-2028-demand-capacity.html"
+      "url": "https://www.digitimes.com/news/a20261014VL222/taiwan-2026-electricity-government-demand.html"
     },
     {
-      "title": "India\u2019s Gupshup launches AI video avatars for customer service",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/indias-bharti-airtel-google-to-launch-advanced-chat-messaging"
-    },
-    {
-      "title": "Nvidia's share of China's AI chips falls by a third while Huawei gains",
+      "title": "300mm fab equipment spending to hit US$227 billion by 2029, SEMI says",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261014VL210/nvidia-huawei-china-chips-sales.html"
+      "url": "https://www.digitimes.com/news/a20261014VL216/300mm-equipment-semi-fab-2026.html"
+    },
+    {
+      "title": "AVC unveils 6MW In-Row CDU at OCP, adds predictive cooling",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261014PD246/avc-cooling-liquid-cooling-demand-technology.html"
+    },
+    {
+      "title": "Lenovo expands AI security offering in Singapore, APAC",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/lenovo-says-over-90-of-ai-pilots-fail-to-reach-deployment"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -148,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 9,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 65,
-      "relevant": 56,
+      "fetched": 84,
+      "relevant": 70,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
