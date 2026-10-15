@@ -1,39 +1,38 @@
 {
   "date": "2026-10-15",
-  "count": 12,
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-15-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Applied Materials unveils AI chip hub with TSMC, Intel",
+      "title": "Sea partners with Google AI fund to explore new applications",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/meta-broadcom-back-125m-ai-chip-hub-at-ucla"
+      "url": "https://www.techinasia.com/seas-q2-revenue-jumps-48-net-income-up-11"
     },
     {
-      "title": "Global financial watchdog calls for more human oversight of agentic AI",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/global-financial-watchdog-calls-more-human-oversight-agentic-ai-6461276"
-    },
-    {
-      "title": "SK hynix seeks US approval to ship equipment to China: sources",
+      "title": "Protecting creator voices from unauthorized AI training",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/sk-hynix-eyes-japan-memory-plant-ai-demand-rises"
+      "url": "https://www.techinasia.com/protecting-creator-voices-unauthorized-ai-training"
     },
     {
-      "title": "Taiwan Perovskite Solar Corp. deploys AI to optimize R&D, explore smart energy applications",
+      "title": "SK Hynix targets January 2027 for HBF standard, eyes DRAM stacked on AI chips",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261015PD226/taiwan-technology-materials-2026-development.html"
+      "url": "https://www.digitimes.com/news/a20261015PD218/sk-hynix-dram-ai-inference-capacity-2027.html"
     },
     {
-      "title": "Delta Electronics' 13.8kV SST gains traction in China, with US cloud giant testing AI data centre microgrids",
+      "title": "US AI data center power shortages drive demand for hybrid solar, natural gas and geothermal systems",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261015PD210/delta-electronics-data-testing-efficiency-2026.html"
+      "url": "https://www.digitimes.com/news/a20261014PD241/data-center-geothermal-solar-demand-expansion.html"
+    },
+    {
+      "title": "TSMC's AI-fuelled profit streak hits sixth straight record in 3Q26, but 2nm expansion weighs on margins",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261015VL218/tsmc-profit-2nm-revenue-2026.html"
     }
   ],
   "source_stats": [
@@ -130,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -151,14 +150,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 62,
-      "relevant": 46,
+      "fetched": 75,
+      "relevant": 59,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +166,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 7,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -194,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
