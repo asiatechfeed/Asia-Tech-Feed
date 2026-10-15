@@ -1,5 +1,115 @@
 [
   {
+    "date": "2026-10-15",
+    "title": "Commentary: Who’s paying whom? The circular money machine behind the AI boom",
+    "summary": "It’s not clear how much of the AI boom is being driven by real, end-user demand, say academics.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/ai-boom-circular-money-machine-6458506"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Energy Taiwan 2026 opens with record international participation",
+    "summary": "Energy Taiwan 2026 opened on October 14, bringing together more than 430 exhibitors across nearly 1,400 booths as the island seeks to strengthen energy resilience and accelerate decarbonization amid rising electricity demand from artificial intelligence (AI).",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261014VL222/taiwan-2026-electricity-government-demand.html"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "300mm fab equipment spending to hit US$227 billion by 2029, SEMI says",
+    "summary": "Global spending on 300mm front-end fab equipment is projected to reach US$149 billion in 2026, up 31% from a year earlier. Spending is expected to keep growing at double-digit rates and reach US$227 billion in 2029, SEMI said in its latest 300mm Fab Outlook, released October 13 at SEMICON West in San Francisco.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261014VL216/300mm-equipment-semi-fab-2026.html"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "AVC unveils 6MW In-Row CDU at OCP, adds predictive cooling",
+    "summary": "Asia Vital Components (AVC) unveiled new liquid-cooling solutions, including direct liquid cooling (DLC) and an In-Row CDU, at the Open Compute Project (OCP) Global Summit, held October 12–15 in San Jose, US. The company is expanding liquid cooling beyond AI GPUs and CPUs to support rising AI computing demand and incre",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261014PD246/avc-cooling-liquid-cooling-demand-technology.html"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Lenovo expands AI security offering in Singapore, APAC",
+    "summary": "Lenovo, which is listed in Hong Kong, said the tool would help companies monitor employee AI use and set data-sharing rules.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/lenovo-says-over-90-of-ai-pilots-fail-to-reach-deployment"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Anthropic opens Singapore office, signs AI safety pact",
+    "summary": "More than 1,500 GovTech engineers and technical staff use Claude Code, Anthropic said.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/anthropic-unveils-claude-opus-55-pricing"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "JD Industrials signs AI cooperation deal with AMD",
+    "summary": "The two firms plan AI terminal products for factories, workshops, and edge-computing settings.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/amd-helios-set-microsoft-azure-ai-inference"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Japanese data analytics startup Solafune to launch AI satellite",
+    "summary": "Japanese data analytics startup Solafune to launch AI satellite",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japanese-data-analytics-startup-solafune-to-launch-ai-satellite"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Mazda reshores wire harness production by rethinking it for robots",
+    "summary": "Mazda reshores wire harness production by rethinking it for robots",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://asia.nikkei.com/business/automobiles/mazda-reshores-wire-harness-production-by-rethinking-it-for-robots"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Memory breakthrough by China's CXMT puts chip rivals on back foot",
+    "summary": "Memory breakthrough by China's CXMT puts chip rivals on back foot",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/memory-breakthrough-by-china-s-cxmt-puts-chip-rivals-on-back-foot"
+  },
+  {
     "date": "2026-10-14",
     "title": "SEMICON West 2026: SEMI Forecasts 300mm Fab Equipment Spending to Reach $227B by 2029",
     "summary": "Global 300mm fab investment is set to accelerate through 2029, driven by expanding semiconductor manufacturing capacity and demand. The post SEMICON West 2026: SEMI Forecasts 300mm Fab Equipment Spending to Reach $227B by 2029 appeared first on EE Times Asia .",
