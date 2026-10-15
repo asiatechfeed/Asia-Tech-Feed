@@ -1,113 +1,141 @@
 [
   {
     "date": "2026-10-15",
-    "title": "Commentary: Who’s paying whom? The circular money machine behind the AI boom",
-    "summary": "It’s not clear how much of the AI boom is being driven by real, end-user demand, say academics.",
+    "title": "Applied Materials unveils AI chip hub with TSMC, Intel",
+    "summary": "The facility is intended to bring chipmakers, equipment suppliers, and university researchers together to develop chipmaking technologies for AI.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/meta-broadcom-back-125m-ai-chip-hub-at-ucla"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Global financial watchdog calls for more human oversight of agentic AI",
+    "summary": "Global financial watchdog calls for more human oversight of agentic AI",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/commentary/ai-boom-circular-money-machine-6458506"
+    "url": "https://www.channelnewsasia.com/business/global-financial-watchdog-calls-more-human-oversight-agentic-ai-6461276"
   },
   {
     "date": "2026-10-15",
-    "title": "Energy Taiwan 2026 opens with record international participation",
-    "summary": "Energy Taiwan 2026 opened on October 14, bringing together more than 430 exhibitors across nearly 1,400 booths as the island seeks to strengthen energy resilience and accelerate decarbonization amid rising electricity demand from artificial intelligence (AI).",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261014VL222/taiwan-2026-electricity-government-demand.html"
-  },
-  {
-    "date": "2026-10-15",
-    "title": "300mm fab equipment spending to hit US$227 billion by 2029, SEMI says",
-    "summary": "Global spending on 300mm front-end fab equipment is projected to reach US$149 billion in 2026, up 31% from a year earlier. Spending is expected to keep growing at double-digit rates and reach US$227 billion in 2029, SEMI said in its latest 300mm Fab Outlook, released October 13 at SEMICON West in San Francisco.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "SK hynix seeks US approval to ship equipment to China: sources",
+    "summary": "The push comes as Washington urges foreign chipmakers to expand manufacturing in the US and restricts chipmaking equipment exports to China.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261014VL216/300mm-equipment-semi-fab-2026.html"
+    "url": "https://www.techinasia.com/sk-hynix-eyes-japan-memory-plant-ai-demand-rises"
   },
   {
     "date": "2026-10-15",
-    "title": "AVC unveils 6MW In-Row CDU at OCP, adds predictive cooling",
-    "summary": "Asia Vital Components (AVC) unveiled new liquid-cooling solutions, including direct liquid cooling (DLC) and an In-Row CDU, at the Open Compute Project (OCP) Global Summit, held October 12–15 in San Jose, US. The company is expanding liquid cooling beyond AI GPUs and CPUs to support rising AI computing demand and incre",
+    "title": "Taiwan Perovskite Solar Corp. deploys AI to optimize R&D, explore smart energy applications",
+    "summary": "Taiwan Perovskite Solar Corp. (TPSC) showcased its theme, \"PEROVSKITE AI,\" at Energy Taiwan 2026, highlighting a two-way synergy between artificial intelligence and perovskite technology. In this paradigm, AI accelerates perovskite material and process development, while perovskite technology meets the AI era's demand ",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261014PD246/avc-cooling-liquid-cooling-demand-technology.html"
+    "url": "https://www.digitimes.com/news/a20261015PD226/taiwan-technology-materials-2026-development.html"
   },
   {
     "date": "2026-10-15",
-    "title": "Lenovo expands AI security offering in Singapore, APAC",
-    "summary": "Lenovo, which is listed in Hong Kong, said the tool would help companies monitor employee AI use and set data-sharing rules.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Delta Electronics' 13.8kV SST gains traction in China, with US cloud giant testing AI data centre microgrids",
+    "summary": "Delta Electronics unveiled its prefabricated solid-state transformer (SST) DC power solution at Energy Taiwan 2026 on October 14, targeting power efficiency, deployment speed and supply resilience in AI data centres, AI factories and energy-intensive manufacturing. The system integrates SSTs, DC/DC converters and contr",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "AI"
+      "Electronics",
+      "AI",
+      "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/lenovo-says-over-90-of-ai-pilots-fail-to-reach-deployment"
+    "url": "https://www.digitimes.com/news/a20261015PD210/delta-electronics-data-testing-efficiency-2026.html"
   },
   {
     "date": "2026-10-15",
-    "title": "Anthropic opens Singapore office, signs AI safety pact",
-    "summary": "More than 1,500 GovTech engineers and technical staff use Claude Code, Anthropic said.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Iridium and Altair team up to extend IoT connectivity beyond cellular networks",
+    "summary": "Iridium Communications and Altair Semiconductor are joining forces to help IoT devices stay connected outside terrestrial coverage, a move that could affect industries from logistics to wearables worldwide. The partnership aims to give manufacturers a simpler path to global satellite-enabled connectivity, without addin",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "AI"
+      "Semiconductor",
+      "Logistics"
     ],
-    "url": "https://www.techinasia.com/anthropic-unveils-claude-opus-55-pricing"
+    "url": "https://www.digitimes.com/news/a20261015PR201/iot-chipset-logistics-mobile-president.html"
   },
   {
     "date": "2026-10-15",
-    "title": "JD Industrials signs AI cooperation deal with AMD",
-    "summary": "The two firms plan AI terminal products for factories, workshops, and edge-computing settings.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports",
+    "summary": "ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
-      "AI"
+      "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/amd-helios-set-microsoft-azure-ai-inference"
+    "url": "https://www.channelnewsasia.com/business/bytedance-nears-chip-supply-deal-mediatek-data-centres-bloomberg-news-reports-6461136"
   },
   {
     "date": "2026-10-15",
-    "title": "Japanese data analytics startup Solafune to launch AI satellite",
-    "summary": "Japanese data analytics startup Solafune to launch AI satellite",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japanese-data-analytics-startup-solafune-to-launch-ai-satellite"
-  },
-  {
-    "date": "2026-10-15",
-    "title": "Mazda reshores wire harness production by rethinking it for robots",
-    "summary": "Mazda reshores wire harness production by rethinking it for robots",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "DigiKey to Invest $100M to Expand Distribution Capacity and Automation",
+    "summary": "The investment will add picking capacity and automated packing systems at DigiKey's Minnesota distribution center over 18 months. The post DigiKey to Invest $100M to Expand Distribution Capacity and Automation appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
       "Automation"
     ],
-    "url": "https://asia.nikkei.com/business/automobiles/mazda-reshores-wire-harness-production-by-rethinking-it-for-robots"
+    "url": "https://www.eetasia.com/digikey-to-invest-100m-to-expand-distribution-capacity-and-automation/"
   },
   {
     "date": "2026-10-15",
-    "title": "Memory breakthrough by China's CXMT puts chip rivals on back foot",
-    "summary": "Memory breakthrough by China's CXMT puts chip rivals on back foot",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing",
+    "summary": "NVIDIA and industry partners are applying accelerated computing and AI agents to chip simulation, process optimization, inspection and fab automation. The post SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor",
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.eetasia.com/nvidia-expands-gpu-libraries-for-ai-driven-semiconductor-manufacturing/"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Japan to invest $21b in GlobalFoundries chip plants in US",
+    "summary": "The project is part of Japan’s US$550 billion investment agreement with the US.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/memory-breakthrough-by-china-s-cxmt-puts-chip-rivals-on-back-foot"
+    "url": "https://www.techinasia.com/invests-2b-quantum-firms-rival-china"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Why legal AI must meet the same standards as the lawyers using it",
+    "summary": "As AI becomes part of everyday legal work, lawyers remain responsible for what they submit, making verifiable sources, transparent reasoning and professional oversight critical.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/advertorial/why-legal-ai-must-meet-same-standards-lawyers-using-it-6417031"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Asian stocks plummet as AI debt and inflation fears bite",
+    "summary": "Asian stocks plummet as AI debt and inflation fears bite",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/markets/asian-stocks-plummet-as-ai-debt-and-inflation-fears-bite"
   },
   {
     "date": "2026-10-14",
