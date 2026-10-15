@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-15T04:17:22+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 15, 2026</title><link href="https://asiatechfeed.com/2026/10/15/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 15, 2026" /><published>2026-10-15T04:16:19+00:00</published><updated>2026-10-15T04:16:19+00:00</updated><id>https://asiatechfeed.com/2026/10/15/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/15/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-15T08:01:41+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 15, 2026</title><link href="https://asiatechfeed.com/2026/10/15/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 15, 2026" /><published>2026-10-15T08:00:48+00:00</published><updated>2026-10-15T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/10/15/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/15/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -13,101 +13,85 @@
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Applied Materials unveils AI chip hub with TSMC, Intel</span></td>
-  <td class="col-summary">The facility is intended to bring chipmakers, equipment suppliers, and university researchers together to develop chipmaking technologies for AI.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-broadcom-back-125m-ai-chip-hub-at-ucla" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Sea partners with Google AI fund to explore new applications</span></td>
+  <td class="col-summary">The companies said the collaboration is the Google AI Futures Fund’s first partnership with an external AI lab.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/seas-q2-revenue-jumps-48-net-income-up-11" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Global financial watchdog calls for more human oversight of agentic AI</span></td>
-  <td class="col-summary">Global financial watchdog calls for more human oversight of agentic AI</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Protecting creator voices from unauthorized AI training</span></td>
+  <td class="col-summary">Sparkonomy found that fewer than 1% of creators are described accurately by all major AI models, costing them vital business opportunities.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/global-financial-watchdog-calls-more-human-oversight-agentic-ai-6461276" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/protecting-creator-voices-unauthorized-ai-training" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SK hynix seeks US approval to ship equipment to China: sources</span></td>
-  <td class="col-summary">The push comes as Washington urges foreign chipmakers to expand manufacturing in the US and restricts chipmaking equipment exports to China.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-hynix-eyes-japan-memory-plant-ai-demand-rises" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">SK Hynix targets January 2027 for HBF standard, eyes DRAM stacked on AI chips</span></td>
+  <td class="col-summary">SK Hynix aims to finalize the technical specifications for high-bandwidth flash (HBF) in January 2027 as it develops new memory technologies to address growing bottlenecks in AI inference systems. The South Korean chipmaker is also exploring ways to stack DRAM directly on AI processors to improve performance and energy</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261015PD218/sk-hynix-dram-ai-inference-capacity-2027.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan Perovskite Solar Corp. deploys AI to optimize R&amp;D, explore smart energy applications</span></td>
-  <td class="col-summary">Taiwan Perovskite Solar Corp. (TPSC) showcased its theme, "PEROVSKITE AI," at Energy Taiwan 2026, highlighting a two-way synergy between artificial intelligence and perovskite technology. In this paradigm, AI accelerates perovskite material and process development, while perovskite technology meets the AI era's demand </td>
+  <td class="col-title"><span class="article-title">US AI data center power shortages drive demand for hybrid solar, natural gas and geothermal systems</span></td>
+  <td class="col-summary">The rapid expansion of AI data centers in the US is placing growing pressure on conventional power grids, as their substantial and highly variable electricity requirements strain available supply in certain regions. Power shortages have even delayed the construction of some AI data center projects.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261015PD226/taiwan-technology-materials-2026-development.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261014PD241/data-center-geothermal-solar-demand-expansion.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Delta Electronics' 13.8kV SST gains traction in China, with US cloud giant testing AI data centre microgrids</span></td>
-  <td class="col-summary">Delta Electronics unveiled its prefabricated solid-state transformer (SST) DC power solution at Energy Taiwan 2026 on October 14, targeting power efficiency, deployment speed and supply resilience in AI data centres, AI factories and energy-intensive manufacturing. The system integrates SSTs, DC/DC converters and contr</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261015PD210/delta-electronics-data-testing-efficiency-2026.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">TSMC's AI-fuelled profit streak hits sixth straight record in 3Q26, but 2nm expansion weighs on margins</span></td>
+  <td class="col-summary">On October 15, 2026, TSMC reported its sixth consecutive quarter of record net profit, with third-quarter earnings rising 68.7% year-over-year to NT$763.06 billion (approx. US$23.6 billion), exceeding market expectations on sustained demand for advanced semiconductors used in artificial intelligence (AI).</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261015VL218/tsmc-profit-2nm-revenue-2026.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Iridium and Altair team up to extend IoT connectivity beyond cellular networks</span></td>
-  <td class="col-summary">Iridium Communications and Altair Semiconductor are joining forces to help IoT devices stay connected outside terrestrial coverage, a move that could affect industries from logistics to wearables worldwide. The partnership aims to give manufacturers a simpler path to global satellite-enabled connectivity, without addin</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261015PR201/iot-chipset-logistics-mobile-president.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba’s Taobao revamps cross-border shopping with AI tools</span></td>
+  <td class="col-summary">Taobao said the channel features more than 4,000 original-brand stores and 6 million curated products selected by AI and human curators.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-integrates-1688-alibabacom-single-operation" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports</span></td>
-  <td class="col-summary">ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/bytedance-nears-chip-supply-deal-mediatek-data-centres-bloomberg-news-reports-6461136" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Figma CFO says design platform willing to put margins on the line to boost AI demand</span></td>
+  <td class="col-summary">Figma CFO says design platform willing to put margins on the line to boost AI demand</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/figma-cfo-says-design-platform-willing-put-margins-line-boost-ai-demand-6461406" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">DigiKey to Invest $100M to Expand Distribution Capacity and Automation</span></td>
-  <td class="col-summary">The investment will add picking capacity and automated packing systems at DigiKey's Minnesota distribution center over 18 months. The post DigiKey to Invest $100M to Expand Distribution Capacity and Automation appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/digikey-to-invest-100m-to-expand-distribution-capacity-and-automation/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">South Korea's KOSPI closes at 6-month low as chipmakers slump on AI worries</span></td>
+  <td class="col-summary">South Korea's KOSPI closes at 6-month low as chipmakers slump on AI worries</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/south-koreas-kospi-closes-6-month-low-chipmakers-slump-ai-worries-6461381" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing</span></td>
-  <td class="col-summary">NVIDIA and industry partners are applying accelerated computing and AI agents to chip simulation, process optimization, inspection and fab automation. The post SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/nvidia-expands-gpu-libraries-for-ai-driven-semiconductor-manufacturing/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Asian markets sell off after US inflation fuels rate hike bets</span></td>
+  <td class="col-summary">Seoul and Tokyo bore the brunt of the selling as traders bailed out of once-imperious chipmakers.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/asian-markets-sell-us-inflation-rate-hike-kospi-nikkei-6460916" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan to invest $21b in GlobalFoundries chip plants in US</span></td>
-  <td class="col-summary">The project is part of Japan’s US$550 billion investment agreement with the US.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/invests-2b-quantum-firms-rival-china" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Why legal AI must meet the same standards as the lawyers using it</span></td>
-  <td class="col-summary">As AI becomes part of everyday legal work, lawyers remain responsible for what they submit, making verifiable sources, transparent reasoning and professional oversight critical.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/advertorial/why-legal-ai-must-meet-same-standards-lawyers-using-it-6417031" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Asian stocks plummet as AI debt and inflation fears bite</span></td>
-  <td class="col-summary">Asian stocks plummet as AI debt and inflation fears bite</td>
+  <td class="col-title"><span class="article-title">TSMC profit soars 69% in another record quarter fueled by AI boom</span></td>
+  <td class="col-summary">TSMC profit soars 69% in another record quarter fueled by AI boom</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/asian-stocks-plummet-as-ai-debt-and-inflation-fears-bite" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/tsmc-profit-soars-69-in-another-record-quarter-fueled-by-ai-boom" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Applied Materials unveils AI chip hub with TSMC, Intel The facility is intended to bring chipmakers, equipment suppliers, and university researchers together to develop chipmaking technologies for AI. AISemiconductor Read 2 CNA Global financial watchdog calls for more human oversight of agentic AI Global financial watchdog calls for more human oversight of agentic AI AI Read 3 TechAsia SK hynix seeks US approval to ship equipment to China: sources The push comes as Washington urges foreign chipmakers to expand manufacturing in the US and restricts chipmaking equipment exports to China. Semiconductor Read 4 DigiTimes Taiwan Perovskite Solar Corp. deploys AI to optimize R&amp;D, explore smart energy applications Taiwan Perovskite Solar Corp. (TPSC) showcased its theme, "PEROVSKITE AI," at Energy Taiwan 2026, highlighting a two-way synergy between artificial intelligence and perovskite technology. In this paradigm, AI accelerates perovskite material and process development, while perovskite technology meets the AI era's demand AI Read 5 DigiTimes Delta Electronics' 13.8kV SST gains traction in China, with US cloud giant testing AI data centre microgrids Delta Electronics unveiled its prefabricated solid-state transformer (SST) DC power solution at Energy Taiwan 2026 on October 14, targeting power efficiency, deployment speed and supply resilience in AI data centres, AI factories and energy-intensive manufacturing. The system integrates SSTs, DC/DC converters and contr ElectronicsAISemiconductor Read 6 DigiTimes Iridium and Altair team up to extend IoT connectivity beyond cellular networks Iridium Communications and Altair Semiconductor are joining forces to help IoT devices stay connected outside terrestrial coverage, a move that could affect industries from logistics to wearables worldwide. The partnership aims to give manufacturers a simpler path to global satellite-enabled connectivity, without addin SemiconductorLogistics Read 7 CNA ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports Semiconductor Read 8 EETAsia DigiKey to Invest $100M to Expand Distribution Capacity and Automation The investment will add picking capacity and automated packing systems at DigiKey's Minnesota distribution center over 18 months. The post DigiKey to Invest $100M to Expand Distribution Capacity and Automation appeared first on EE Times Asia . Automation Read 9 EETAsia SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing NVIDIA and industry partners are applying accelerated computing and AI agents to chip simulation, process optimization, inspection and fab automation. The post SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing appeared first on EE Times Asia . SemiconductorAIAutomation Read 10 TechAsia Japan to invest $21b in GlobalFoundries chip plants in US The project is part of Japan’s US$550 billion investment agreement with the US. Semiconductor Read 11 CNA Why legal AI must meet the same standards as the lawyers using it As AI becomes part of everyday legal work, lawyers remain responsible for what they submit, making verifiable sources, transparent reasoning and professional oversight critical. AI Read 12 NikkeiAsia Asian stocks plummet as AI debt and inflation fears bite Asian stocks plummet as AI debt and inflation fears bite AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 14, 2026</title><link href="https://asiatechfeed.com/2026/10/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 14, 2026" /><published>2026-10-14T08:00:52+00:00</published><updated>2026-10-14T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/10/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Sea partners with Google AI fund to explore new applications The companies said the collaboration is the Google AI Futures Fund’s first partnership with an external AI lab. AI Read 2 TechAsia Protecting creator voices from unauthorized AI training Sparkonomy found that fewer than 1% of creators are described accurately by all major AI models, costing them vital business opportunities. AI Read 3 DigiTimes SK Hynix targets January 2027 for HBF standard, eyes DRAM stacked on AI chips SK Hynix aims to finalize the technical specifications for high-bandwidth flash (HBF) in January 2027 as it develops new memory technologies to address growing bottlenecks in AI inference systems. The South Korean chipmaker is also exploring ways to stack DRAM directly on AI processors to improve performance and energy AISemiconductor Read 4 DigiTimes US AI data center power shortages drive demand for hybrid solar, natural gas and geothermal systems The rapid expansion of AI data centers in the US is placing growing pressure on conventional power grids, as their substantial and highly variable electricity requirements strain available supply in certain regions. Power shortages have even delayed the construction of some AI data center projects. AI Read 5 DigiTimes TSMC's AI-fuelled profit streak hits sixth straight record in 3Q26, but 2nm expansion weighs on margins On October 15, 2026, TSMC reported its sixth consecutive quarter of record net profit, with third-quarter earnings rising 68.7% year-over-year to NT$763.06 billion (approx. US$23.6 billion), exceeding market expectations on sustained demand for advanced semiconductors used in artificial intelligence (AI). SemiconductorAI Read 6 TechAsia Alibaba’s Taobao revamps cross-border shopping with AI tools Taobao said the channel features more than 4,000 original-brand stores and 6 million curated products selected by AI and human curators. AI Read 7 CNA Figma CFO says design platform willing to put margins on the line to boost AI demand Figma CFO says design platform willing to put margins on the line to boost AI demand AI Read 8 CNA South Korea's KOSPI closes at 6-month low as chipmakers slump on AI worries South Korea's KOSPI closes at 6-month low as chipmakers slump on AI worries AISemiconductor Read 9 CNA Asian markets sell off after US inflation fuels rate hike bets Seoul and Tokyo bore the brunt of the selling as traders bailed out of once-imperious chipmakers. Semiconductor Read 10 NikkeiAsia TSMC profit soars 69% in another record quarter fueled by AI boom TSMC profit soars 69% in another record quarter fueled by AI boom AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 14, 2026</title><link href="https://asiatechfeed.com/2026/10/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 14, 2026" /><published>2026-10-14T08:00:52+00:00</published><updated>2026-10-14T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/10/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>

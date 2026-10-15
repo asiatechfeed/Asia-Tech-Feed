@@ -1,141 +1,116 @@
 [
   {
     "date": "2026-10-15",
-    "title": "Applied Materials unveils AI chip hub with TSMC, Intel",
-    "summary": "The facility is intended to bring chipmakers, equipment suppliers, and university researchers together to develop chipmaking technologies for AI.",
+    "title": "Sea partners with Google AI fund to explore new applications",
+    "summary": "The companies said the collaboration is the Google AI Futures Fund’s first partnership with an external AI lab.",
     "source": "Tech in Asia",
     "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/seas-q2-revenue-jumps-48-net-income-up-11"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Protecting creator voices from unauthorized AI training",
+    "summary": "Sparkonomy found that fewer than 1% of creators are described accurately by all major AI models, costing them vital business opportunities.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/protecting-creator-voices-unauthorized-ai-training"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "SK Hynix targets January 2027 for HBF standard, eyes DRAM stacked on AI chips",
+    "summary": "SK Hynix aims to finalize the technical specifications for high-bandwidth flash (HBF) in January 2027 as it develops new memory technologies to address growing bottlenecks in AI inference systems. The South Korean chipmaker is also exploring ways to stack DRAM directly on AI processors to improve performance and energy",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/meta-broadcom-back-125m-ai-chip-hub-at-ucla"
+    "url": "https://www.digitimes.com/news/a20261015PD218/sk-hynix-dram-ai-inference-capacity-2027.html"
   },
   {
     "date": "2026-10-15",
-    "title": "Global financial watchdog calls for more human oversight of agentic AI",
-    "summary": "Global financial watchdog calls for more human oversight of agentic AI",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/global-financial-watchdog-calls-more-human-oversight-agentic-ai-6461276"
-  },
-  {
-    "date": "2026-10-15",
-    "title": "SK hynix seeks US approval to ship equipment to China: sources",
-    "summary": "The push comes as Washington urges foreign chipmakers to expand manufacturing in the US and restricts chipmaking equipment exports to China.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/sk-hynix-eyes-japan-memory-plant-ai-demand-rises"
-  },
-  {
-    "date": "2026-10-15",
-    "title": "Taiwan Perovskite Solar Corp. deploys AI to optimize R&D, explore smart energy applications",
-    "summary": "Taiwan Perovskite Solar Corp. (TPSC) showcased its theme, \"PEROVSKITE AI,\" at Energy Taiwan 2026, highlighting a two-way synergy between artificial intelligence and perovskite technology. In this paradigm, AI accelerates perovskite material and process development, while perovskite technology meets the AI era's demand ",
+    "title": "US AI data center power shortages drive demand for hybrid solar, natural gas and geothermal systems",
+    "summary": "The rapid expansion of AI data centers in the US is placing growing pressure on conventional power grids, as their substantial and highly variable electricity requirements strain available supply in certain regions. Power shortages have even delayed the construction of some AI data center projects.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261015PD226/taiwan-technology-materials-2026-development.html"
+    "url": "https://www.digitimes.com/news/a20261014PD241/data-center-geothermal-solar-demand-expansion.html"
   },
   {
     "date": "2026-10-15",
-    "title": "Delta Electronics' 13.8kV SST gains traction in China, with US cloud giant testing AI data centre microgrids",
-    "summary": "Delta Electronics unveiled its prefabricated solid-state transformer (SST) DC power solution at Energy Taiwan 2026 on October 14, targeting power efficiency, deployment speed and supply resilience in AI data centres, AI factories and energy-intensive manufacturing. The system integrates SSTs, DC/DC converters and contr",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261015PD210/delta-electronics-data-testing-efficiency-2026.html"
-  },
-  {
-    "date": "2026-10-15",
-    "title": "Iridium and Altair team up to extend IoT connectivity beyond cellular networks",
-    "summary": "Iridium Communications and Altair Semiconductor are joining forces to help IoT devices stay connected outside terrestrial coverage, a move that could affect industries from logistics to wearables worldwide. The partnership aims to give manufacturers a simpler path to global satellite-enabled connectivity, without addin",
+    "title": "TSMC's AI-fuelled profit streak hits sixth straight record in 3Q26, but 2nm expansion weighs on margins",
+    "summary": "On October 15, 2026, TSMC reported its sixth consecutive quarter of record net profit, with third-quarter earnings rising 68.7% year-over-year to NT$763.06 billion (approx. US$23.6 billion), exceeding market expectations on sustained demand for advanced semiconductors used in artificial intelligence (AI).",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
-      "Logistics"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261015PR201/iot-chipset-logistics-mobile-president.html"
+    "url": "https://www.digitimes.com/news/a20261015VL218/tsmc-profit-2nm-revenue-2026.html"
   },
   {
     "date": "2026-10-15",
-    "title": "ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports",
-    "summary": "ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/business/bytedance-nears-chip-supply-deal-mediatek-data-centres-bloomberg-news-reports-6461136"
-  },
-  {
-    "date": "2026-10-15",
-    "title": "DigiKey to Invest $100M to Expand Distribution Capacity and Automation",
-    "summary": "The investment will add picking capacity and automated packing systems at DigiKey's Minnesota distribution center over 18 months. The post DigiKey to Invest $100M to Expand Distribution Capacity and Automation appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Automation"
-    ],
-    "url": "https://www.eetasia.com/digikey-to-invest-100m-to-expand-distribution-capacity-and-automation/"
-  },
-  {
-    "date": "2026-10-15",
-    "title": "SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing",
-    "summary": "NVIDIA and industry partners are applying accelerated computing and AI agents to chip simulation, process optimization, inspection and fab automation. The post SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Semiconductor",
-      "AI",
-      "Automation"
-    ],
-    "url": "https://www.eetasia.com/nvidia-expands-gpu-libraries-for-ai-driven-semiconductor-manufacturing/"
-  },
-  {
-    "date": "2026-10-15",
-    "title": "Japan to invest $21b in GlobalFoundries chip plants in US",
-    "summary": "The project is part of Japan’s US$550 billion investment agreement with the US.",
+    "title": "Alibaba’s Taobao revamps cross-border shopping with AI tools",
+    "summary": "Taobao said the channel features more than 4,000 original-brand stores and 6 million curated products selected by AI and human curators.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.techinasia.com/invests-2b-quantum-firms-rival-china"
+    "url": "https://www.techinasia.com/alibaba-integrates-1688-alibabacom-single-operation"
   },
   {
     "date": "2026-10-15",
-    "title": "Why legal AI must meet the same standards as the lawyers using it",
-    "summary": "As AI becomes part of everyday legal work, lawyers remain responsible for what they submit, making verifiable sources, transparent reasoning and professional oversight critical.",
+    "title": "Figma CFO says design platform willing to put margins on the line to boost AI demand",
+    "summary": "Figma CFO says design platform willing to put margins on the line to boost AI demand",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/advertorial/why-legal-ai-must-meet-same-standards-lawyers-using-it-6417031"
+    "url": "https://www.channelnewsasia.com/business/figma-cfo-says-design-platform-willing-put-margins-line-boost-ai-demand-6461406"
   },
   {
     "date": "2026-10-15",
-    "title": "Asian stocks plummet as AI debt and inflation fears bite",
-    "summary": "Asian stocks plummet as AI debt and inflation fears bite",
+    "title": "South Korea's KOSPI closes at 6-month low as chipmakers slump on AI worries",
+    "summary": "South Korea's KOSPI closes at 6-month low as chipmakers slump on AI worries",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/south-koreas-kospi-closes-6-month-low-chipmakers-slump-ai-worries-6461381"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Asian markets sell off after US inflation fuels rate hike bets",
+    "summary": "Seoul and Tokyo bore the brunt of the selling as traders bailed out of once-imperious chipmakers.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/asian-markets-sell-us-inflation-rate-hike-kospi-nikkei-6460916"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "TSMC profit soars 69% in another record quarter fueled by AI boom",
+    "summary": "TSMC profit soars 69% in another record quarter fueled by AI boom",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/markets/asian-stocks-plummet-as-ai-debt-and-inflation-fears-bite"
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/tsmc-profit-soars-69-in-another-record-quarter-fueled-by-ai-boom"
   },
   {
     "date": "2026-10-14",
