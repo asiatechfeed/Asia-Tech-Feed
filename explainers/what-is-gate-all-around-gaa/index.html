@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en" id="html-root">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>What is Gate-All-Around (GAA) — and Why Did the Transistor Just Change for the First Time in a Decade? | Asia Tech Feed</title>
+  <meta name="description" content="FinFET carried the industry for 13 years. TSMC's 2nm N2 ended that era with Gate-All-Around nanosheets — and with Samsung and Intel racing alongside, the rea...">
+  
+  <link rel="stylesheet" href="/assets/css/style.css?v=4">
+  <style>
+    .nav-new-badge {
+      display: inline-block;
+      background: #f6c90e;
+      color: #0f2744;
+      font-size: 0.55rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      padding: 1px 5px;
+      border-radius: 3px;
+      vertical-align: middle;
+      margin-left: 3px;
+      line-height: 1.6;
+      text-transform: uppercase;
+    }
+  </style>
+  <script>
+    // Apply saved preference before paint to avoid flash
+    (function() {
+      var saved = localStorage.getItem('theme');
+      var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (saved === 'dark' || (!saved && prefersDark)) {
+        document.documentElement.classList.add('dark');
+      } else if (saved === 'light') {
+        document.documentElement.classList.add('light');
+      }
+    })();
+  </script>
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="theme-color" content="#1a3a5c">
+  <link rel="alternate" type="application/rss+xml" title="Asia Tech Feed" href="/feed.xml">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5549175788718429" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="site-title" href="/">
+      <img src="/assets/images/logo-light.svg" alt="Asia Tech Feed" class="site-logo site-logo-light">
+      <img src="/assets/images/logo-dark.svg" alt="Asia Tech Feed" class="site-logo site-logo-dark">
+    </a>
+    <button class="dark-toggle" id="dark-toggle" onclick="toggleDark()" aria-label="Toggle dark mode">
+      <span id="dark-icon">&#127769;</span> <span id="dark-label">Dark</span>
+    </button>
+  </div>
+</header>
+
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a href="/" >Latest</a>
+    <a href="/reports/" >Reports <span class="nav-new-badge" id="reports-new-badge">NEW</span></a>
+    <a href="/archive" >Archive</a>
+    <a href="/search" >Search</a>
+    <a href="/about" >About</a>
+    <a href="/contact" >Contact</a>
+  </div>
+</nav>
+
+<!-- Stock Ticker -->
+<div id="ticker-wrap" style="background:var(--card-bg,#fff);border-bottom:1px solid var(--border,#dde3ec);overflow:hidden;min-height:46px;"></div>
+
+<main>
+  <div class="post-body explainer-page">
+
+  <div class="post-header explainer-header">
+    <span class="explainer-badge">&#128218; Explainer</span>
+    
+    <div class="explainer-tags">
+      <span class="explainer-tag">AI</span><span class="explainer-tag">Semiconductor</span>
+    </div>
+    
+    <h1>What is Gate-All-Around (GAA) — and Why Did the Transistor Just Change for the First Time in a Decade?</h1>
+    <div class="post-meta">
+      <span>&#128197; October 15, 2026</span>
+      <span>&#128100; Colin Tan</span>
+    </div>
+  </div>
+
+  <div class="explainer-content">
+    <p class="xp-lede">Transistors have shrunk on schedule for half a century &#8212; but their fundamental shape barely changed between 2012 and late 2025. The FinFET architecture introduced by Intel at 22nm carried the industry from the Samsung Galaxy S5 to the NVIDIA H100, spanning thirteen years and eight process generations. In Q4 2025, TSMC ended that era. Its 2nm N2 node &#8212; now ramping across two Taiwanese fabs &#8212; is the foundry&#8217;s first production use of a fundamentally different transistor geometry: Gate-All-Around.</p>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>What a transistor actually does &#8212; and why geometry matters.</b> A transistor is an electrically controlled switch. It controls whether current flows between two terminals (the source and drain) by applying voltage to a third (the gate). Every logic operation, memory read, and AI inference computation reduces to billions of these switches toggling on and off. The geometry of the switch determines how cleanly it can turn off &#8212; and how much current leaks through it when it should be off. That leakage is the primary driver of heat and wasted power in chips.</p>
+    <p>FinFET, introduced by Intel at 22nm in 2012, solved the leakage problem of that era by standing the silicon channel up as a vertical &#8220;fin&#8221; and wrapping the gate around three of its four sides. That extra gate contact &#8212; versus the single top surface of the prior planar transistor &#8212; dramatically improved control. FinFET carried the industry for 13 years. Its limit became visible below 3nm: as the fin narrows, the one uncovered side of the channel becomes a leakage path that the three-sided gate cannot suppress.</p>
+  </div>
+  <div>
+    <p><b>What GAA changes &#8212; and the physics behind it.</b> Gate-All-Around replaces the vertical fin with multiple thin horizontal silicon nanosheets stacked above each other. The gate material completely encloses each nanosheet on all four sides, providing 360-degree electrostatic control of every channel layer. When the gate voltage says &#8220;off,&#8221; there is no uncovered face left for leakage current to escape through.</p>
+    <p>The naming varies by company: TSMC calls its implementation nanosheet GAA or GAAFET; Samsung calls its variant Multi-Bridge-Channel FET (MBCFET); Intel calls its version RibbonFET. The transistor physics is identical in each case &#8212; full gate encirclement of the channel. What differs is how each foundry stacks the nanosheets, their dimensions, and integration with surrounding metal layers. These differences translate directly into the yield, density, and power efficiency claims each foundry makes for its respective node.</p>
+  </div>
+</div>
+
+<!-- EXHIBIT 1: Transistor evolution cross-section diagram -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 1</div>
+  <h3>Three transistor generations: how much of the channel the gate surrounds determines efficiency</h3>
+  <p class="xp-exhibit-sub">Schematic gate cross-sections showing gate material (navy), silicon channel (teal), and substrate (gray); gate coverage increases from 1 to 4 sides across generations</p>
+
+  <svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Side-by-side cross-section diagrams comparing Planar, FinFET, and GAA transistor architectures">
+
+    <!-- Panel dividers -->
+    <line x1="240" y1="0" x2="240" y2="260" stroke="#D8DEE6" stroke-width="1.2" />
+    <line x1="480" y1="0" x2="480" y2="260" stroke="#D8DEE6" stroke-width="1.2" />
+
+    <!-- ═══ PANEL 1: Planar ═══ -->
+    <rect x="0" y="0" width="240" height="260" fill="rgba(248,249,251,0.5)" />
+    <text x="120" y="20" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="13" fill="#0A2240">PLANAR</text>
+    <text x="120" y="33" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10" fill="#5B6675">Pre-2012 · 180nm – 22nm</text>
+
+    <!-- Substrate -->
+    <rect x="28" y="168" width="184" height="26" fill="#C8D4E0" rx="1" />
+    <text x="120" y="184" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9" fill="#5B6675">substrate</text>
+    <!-- Source -->
+    <rect x="28" y="136" width="44" height="32" fill="#8A94A6" rx="1" />
+    <text x="50" y="155" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="9" fill="#ffffff">S</text>
+    <!-- Drain -->
+    <rect x="168" y="136" width="44" height="32" fill="#8A94A6" rx="1" />
+    <text x="190" y="155" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="9" fill="#ffffff">D</text>
+    <!-- Channel -->
+    <rect x="72" y="136" width="96" height="32" fill="#00A6A6" rx="1" />
+    <text x="120" y="155" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9" fill="#ffffff">channel</text>
+    <!-- Gate oxide -->
+    <rect x="72" y="124" width="96" height="12" fill="#FFD966" />
+    <!-- Gate metal -->
+    <rect x="62" y="94" width="116" height="30" fill="#0A2240" rx="1" />
+    <text x="120" y="113" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="10" fill="#ffffff">Gate (G)</text>
+
+    <!-- Orange bracket: 1 side -->
+    <line x1="62" y1="124" x2="62" y2="116" stroke="#F2620F" stroke-width="1.5" />
+    <line x1="178" y1="124" x2="178" y2="116" stroke="#F2620F" stroke-width="1.5" />
+    <line x1="62" y1="116" x2="178" y2="116" stroke="#F2620F" stroke-width="1.5" />
+
+    <text x="120" y="210" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="11" fill="#F2620F">Gate covers: TOP only (1 side)</text>
+    <text x="120" y="224" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9" fill="#5B6675">Leakage through 3 remaining faces</text>
+
+    <!-- ═══ PANEL 2: FinFET ═══ -->
+    <rect x="241" y="0" width="239" height="260" fill="rgba(238,242,247,0.5)" />
+    <text x="360" y="20" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="13" fill="#0A2240">FinFET</text>
+    <text x="360" y="33" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10" fill="#5B6675">2012 – 2025 · 22nm – 3nm</text>
+
+    <!-- Substrate -->
+    <rect x="267" y="176" width="186" height="26" fill="#C8D4E0" rx="1" />
+    <text x="360" y="192" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9" fill="#5B6675">substrate</text>
+    <!-- Fin (teal, narrow vertical) -->
+    <rect x="332" y="92" width="56" height="84" fill="#00A6A6" rx="1" />
+    <text x="360" y="137" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9" fill="#ffffff">Fin</text>
+    <!-- Gate left arm -->
+    <rect x="298" y="92" width="34" height="84" fill="#0A2240" rx="1" />
+    <!-- Gate right arm -->
+    <rect x="388" y="92" width="34" height="84" fill="#0A2240" rx="1" />
+    <!-- Gate top bar -->
+    <rect x="298" y="72" width="124" height="20" fill="#0A2240" rx="1" />
+    <text x="360" y="86" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="10" fill="#ffffff">Gate (G)</text>
+    <!-- Red leakage at bottom of fin -->
+    <line x1="332" y1="176" x2="388" y2="176" stroke="#C0392B" stroke-width="1.8" stroke-dasharray="4,3" />
+    <text x="360" y="172" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8" fill="#C0392B">leakage path</text>
+
+    <text x="360" y="210" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="11" fill="#00A6A6">Gate covers: LEFT + TOP + RIGHT (3 sides)</text>
+    <text x="360" y="224" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9" fill="#5B6675">1 uncovered face: substrate leakage remains</text>
+
+    <!-- ═══ PANEL 3: GAA Nanosheet ═══ -->
+    <rect x="481" y="0" width="239" height="260" fill="rgba(0,166,166,0.04)" />
+    <text x="600" y="20" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="13" fill="#F2620F">GAA NANOSHEET</text>
+    <text x="600" y="33" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10" fill="#5B6675">2022+ · 3nm and below (TSMC from 2nm)</text>
+
+    <!-- 3 stacked nanosheets, each fully enclosed in gate (navy) -->
+    <!-- Sheet 1 -->
+    <rect x="520" y="58" width="160" height="32" fill="#0A2240" rx="2" />
+    <rect x="532" y="66" width="136" height="16" fill="#00A6A6" rx="1" />
+    <text x="600" y="77" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" fill="#ffffff">nanosheet 1</text>
+    <!-- Dielectric gap -->
+    <rect x="532" y="90" width="136" height="10" fill="#EEF2F7" />
+    <text x="600" y="98" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="7.5" fill="#5B6675">dielectric gap</text>
+    <!-- Sheet 2 -->
+    <rect x="520" y="100" width="160" height="32" fill="#0A2240" rx="2" />
+    <rect x="532" y="108" width="136" height="16" fill="#00A6A6" rx="1" />
+    <text x="600" y="119" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" fill="#ffffff">nanosheet 2</text>
+    <!-- Dielectric gap -->
+    <rect x="532" y="132" width="136" height="10" fill="#EEF2F7" />
+    <text x="600" y="140" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="7.5" fill="#5B6675">dielectric gap</text>
+    <!-- Sheet 3 -->
+    <rect x="520" y="142" width="160" height="32" fill="#0A2240" rx="2" />
+    <rect x="532" y="150" width="136" height="16" fill="#00A6A6" rx="1" />
+    <text x="600" y="161" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" fill="#ffffff">nanosheet 3</text>
+
+    <!-- Substrate -->
+    <rect x="508" y="183" width="184" height="26" fill="#C8D4E0" rx="1" />
+    <text x="600" y="199" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9" fill="#5B6675">substrate</text>
+
+    <text x="600" y="224" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="11" fill="#F2620F">Gate covers: ALL 4 SIDES (360°)</text>
+    <text x="600" y="238" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="9" fill="#00A6A6">Zero uncovered faces · leakage path eliminated</text>
+  </svg>
+
+  <p class="xp-exhibit-source">Source: Schematic illustration based on TSMC N2/GAA nanosheet architecture (TSMC Technology Symposium 2025); Intel RibbonFET / 18A documentation (CES 2025); Samsung MBCFET overview (Samsung Foundry Forum). Not to scale; nanosheet proportions exaggerated for clarity. Three sheets shown for illustration; actual implementations may vary.</p>
+</figure>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>TSMC N2: what the numbers actually mean.</b> TSMC&#8217;s N2 node entered volume production in Q4 2025, ramping across Fab 20 and Fab 22 in Hsinchu and Kaohsiung &#8212; its first GAA process. Compared to N3E, TSMC claims 10&#8211;15% performance gain at the same power, 25&#8211;30% power reduction at equivalent performance, and 15&#8211;20% higher transistor density. SRAM yield reached over 90% on 256-megabit test blocks &#8212; an unusually strong early signal that the node is maturing faster than previous transitions.</p>
+    <p>Apple has confirmed N2 for its A-series chip family. AMD&#8217;s Venice EPYC server processors are in N2 production ramp. MediaTek confirmed a flagship SoC tape-out on N2 with volume production targeted for end-2026. N2P &#8212; a performance-enhanced variant &#8212; and A16, which adds TSMC&#8217;s &#8220;Super Power Rail&#8221; backside power delivery, both entered production in H2 2026. Backside power routes power through the rear of the wafer, freeing front-side tracks for signal routing and improving both density and power efficiency &#8212; critical for large AI and HPC chips.</p>
+  </div>
+  <div>
+    <p><b>Samsung and Intel: the other two GAA players.</b> Samsung Foundry pioneered GAA at 3nm (SF3, mass production June 2022), predating TSMC&#8217;s adoption by over three years. Its 2nm SF2 first generation entered mass production in Q4 2025 using the Exynos 2600 as its inaugural commercial chip. A second-generation SF2 with backside power delivery began ramping in H2 2026, competing directly with TSMC&#8217;s A16.</p>
+    <p>Intel&#8217;s 18A uses RibbonFET combined with PowerVia &#8212; its backside power delivery &#8212; making it the only 2nm-class node that shipped with backside power from day one. Intel entered 18A production in 2025 for its Panther Lake processors but has attracted limited external customer interest. The practical conclusion for 2026&#8211;27: TSMC N2 and Samsung SF2 are the only two GAA nodes with confirmed volume external commercial production. Intel&#8217;s 14A in 2027 is when foundry analysts expect it could begin closing that gap.</p>
+  </div>
+</div>
+
+<!-- EXHIBIT 2: N2 performance improvements -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 2</div>
+  <h3>TSMC N2 versus N3E: confirmed improvement targets across three dimensions</h3>
+  <p class="xp-exhibit-sub">TSMC&#8217;s stated guidance for N2 (2nm GAA) vs N3E (3nm FinFET); midpoint bars shown with range whiskers; all improvements measured at the same chip design</p>
+
+  <svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bar chart showing TSMC N2 improvements versus N3E: 10-15% performance, 25-30% power reduction, 15-20% density increase">
+
+    <!-- Y axis: 0-35%, scale: 6px per %, y_base=240 -->
+    <!-- Gridlines at 5%=y210, 10%=y180, 15%=y150, 20%=y120, 25%=y90, 30%=y60 -->
+    <line x1="90" y1="240" x2="660" y2="240" stroke="#D8DEE6" stroke-width="1" />
+    <line x1="90" y1="210" x2="660" y2="210" stroke="#D8DEE6" stroke-width="0.6" />
+    <line x1="90" y1="180" x2="660" y2="180" stroke="#D8DEE6" stroke-width="0.6" />
+    <line x1="90" y1="150" x2="660" y2="150" stroke="#D8DEE6" stroke-width="0.6" />
+    <line x1="90" y1="120" x2="660" y2="120" stroke="#D8DEE6" stroke-width="0.6" />
+    <line x1="90" y1="90" x2="660" y2="90" stroke="#D8DEE6" stroke-width="0.6" />
+    <line x1="90" y1="60" x2="660" y2="60" stroke="#D8DEE6" stroke-width="0.6" />
+
+    <!-- Y labels -->
+    <text x="84" y="244" text-anchor="end" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10" fill="#5B6675">0%</text>
+    <text x="84" y="184" text-anchor="end" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10" fill="#5B6675">10%</text>
+    <text x="84" y="124" text-anchor="end" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10" fill="#5B6675">20%</text>
+    <text x="84" y="64" text-anchor="end" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10" fill="#5B6675">30%</text>
+
+    <!-- Source band -->
+    <rect x="90" y="26" width="400" height="16" fill="#EEF2F7" rx="2" />
+    <text x="98" y="37" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" fill="#5B6675">All improvements vs TSMC N3E · Midpoint bars · Whiskers show stated guidance range</text>
+
+    <!-- BAR 1: Performance +10-15% · midpoint 12.5% · height=75px · y_top=165 -->
+    <rect x="135" y="165" width="150" height="75" fill="#00A6A6" rx="1" />
+    <!-- Whisker: 10%=y180, 15%=y150 -->
+    <line x1="210" y1="150" x2="210" y2="180" stroke="#0A2240" stroke-width="2" />
+    <line x1="202" y1="150" x2="218" y2="150" stroke="#0A2240" stroke-width="1.5" />
+    <line x1="202" y1="180" x2="218" y2="180" stroke="#0A2240" stroke-width="1.5" />
+    <!-- Label above bar -->
+    <text x="210" y="141" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="13" fill="#0A2240">+10–15%</text>
+    <!-- X label -->
+    <text x="210" y="256" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10" fill="#5B6675">Performance</text>
+    <text x="210" y="269" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10" fill="#5B6675">at same power</text>
+
+    <!-- BAR 2: Power reduction 25-30% · midpoint 27.5% · height=165px · y_top=75 -->
+    <rect x="310" y="75" width="150" height="165" fill="#F2620F" rx="1" />
+    <!-- Whisker: 25%=y90, 30%=y60 -->
+    <line x1="385" y1="60" x2="385" y2="90" stroke="#0A2240" stroke-width="2" />
+    <line x1="377" y1="60" x2="393" y2="60" stroke="#0A2240" stroke-width="1.5" />
+    <line x1="377" y1="90" x2="393" y2="90" stroke="#0A2240" stroke-width="1.5" />
+    <!-- Label -->
+    <text x="385" y="46" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="13" fill="#F2620F">&#8722;25–30%</text>
+    <!-- X label -->
+    <text x="385" y="256" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10" fill="#5B6675">Power saving</text>
+    <text x="385" y="269" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10" fill="#5B6675">at same speed</text>
+
+    <!-- BAR 3: Density +15-20% · midpoint 17.5% · height=105px · y_top=135 -->
+    <rect x="490" y="135" width="150" height="105" fill="#0A2240" rx="1" />
+    <!-- Whisker: 15%=y150, 20%=y120 -->
+    <line x1="565" y1="120" x2="565" y2="150" stroke="#F2620F" stroke-width="2" />
+    <line x1="557" y1="120" x2="573" y2="120" stroke="#F2620F" stroke-width="1.5" />
+    <line x1="557" y1="150" x2="573" y2="150" stroke="#F2620F" stroke-width="1.5" />
+    <!-- Label -->
+    <text x="565" y="121" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="13" fill="#0A2240">+15–20%</text>
+    <!-- X label -->
+    <text x="565" y="256" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10" fill="#5B6675">Transistor</text>
+    <text x="565" y="269" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10" fill="#5B6675">density</text>
+  </svg>
+
+  <p class="xp-exhibit-source">Source: TSMC North America Technology Symposium 2025; TSMC Q4 2025 earnings call (volume production confirmed); Bits-Chips.nl &#8220;TSMC&#8217;s 2nm chips move into volume production&#8221; (January 5, 2026); TechSpot N2 process analysis (2025). Performance and power figures are TSMC guidance vs N3E. N2P (H2 2026) adds further gains on N2 baseline; A16 adds backside power delivery (Super Power Rail) to N2 transistors.</p>
+</figure>
+
+<blockquote class="xp-pull-quote">
+  <p>&#8220;N2 features first-generation nanosheet transistor technology. TSMC claims a 10&#8211;15% performance gain at the same power, a 25&#8211;30% reduction in power at the same performance, and an increase of up to 20% in transistor density compared to N3E.&#8221;</p>
+  <cite>Bits-Chips.nl, citing TSMC &#8212; January 5, 2026</cite>
+</blockquote>
+
+<div class="xp-two-col">
+  <div>
+    <p><b>What comes after the transistor &#8212; backside power delivery.</b> GAA&#8217;s arrival is accompanied by a second architectural change that matters more to AI silicon than to smartphones: backside power delivery. In conventional chips, both signal wires and power rails share the front surface. At high transistor densities, power routing consumes so much front-side space that signal routing suffers. Backside power delivery moves power rails to the rear of the silicon wafer, freeing the front entirely for signals.</p>
+    <p>Intel integrated PowerVia into 18A from day one. TSMC&#8217;s A16 adds &#8220;Super Power Rail&#8221; to the N2 transistor base &#8212; and the combination of GAA transistors with backside power is expected to be the preferred process for next-generation AI accelerators, TPUs, and HPC processors. Routing congestion at those workload scales makes front-side power a binding constraint that GAA transistors alone cannot solve. TSMC&#8217;s A16 is the node most industry analysts identify as the first process technology specifically optimised for AI chip requirements from the transistor level up.</p>
+  </div>
+  <div>
+    <p><b>Three predictions for 2027&#8211;28.</b> First: TSMC A16 (GAA plus backside power) will prove more consequential for AI silicon than N2 itself. NVIDIA&#8217;s post-Rubin architecture and the next generation of Google TPUs are the most likely first flagship AI chips on A16, since large AI accelerators benefit disproportionately from backside power&#8217;s routing improvements. The performance delta between N2 and A16 at HPC die sizes will exceed the N3E-to-N2 improvement TSMC cites for standard logic.</p>
+    <p>Second: Samsung SF2 Gen2 wins a marquee non-Samsung design win in 2027 &#8212; the most likely candidate is a hyperscaler custom ASIC program seeking supply chain diversification. Samsung&#8217;s competitive pitch will increasingly rely on price and lead time rather than process specifications. Third, and most contrarian: Intel&#8217;s 18A achieves no meaningful external production volume in 2027. Its RibbonFET transistor is technically credible, but the yield maturity, EDA tool ecosystem, and fabless customer confidence needed to displace TSMC for production silicon at scale remains beyond Intel&#8217;s 2027 execution horizon. The real Intel test is 14A.</p>
+  </div>
+</div>
+
+<!-- EXHIBIT 3: Three-foundry comparison table -->
+<figure class="xp-exhibit">
+  <div class="xp-exhibit-pill">EXHIBIT 3</div>
+  <h3>The 2nm-class GAA race: TSMC, Samsung, and Intel compared</h3>
+  <p class="xp-exhibit-sub">All three foundries use Gate-All-Around transistors at 2nm-class nodes; they differ on backside power, production status, and external customer base as of October 2026</p>
+
+  <svg viewBox="0 0 720 212" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Comparison table of TSMC N2, Samsung SF2, and Intel 18A features, production status, and customers">
+
+    <!-- Column dividers: Label 0-149, TSMC 150-379, Samsung 380-545, Intel 546-720 -->
+
+    <!-- Header row -->
+    <rect x="0" y="0" width="720" height="32" fill="#0A2240" />
+    <text x="74" y="21" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="10" fill="#ffffff">FEATURE</text>
+    <text x="264" y="21" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="10" fill="#ffffff">TSMC N2 / A16 (2nm)</text>
+    <text x="462" y="21" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="10" fill="#ffffff">SAMSUNG SF2 (2nm)</text>
+    <text x="633" y="21" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="10" fill="#ffffff">INTEL 18A (1.8nm)</text>
+
+    <!-- Vertical dividers -->
+    <line x1="149" y1="32" x2="149" y2="212" stroke="#D8DEE6" stroke-width="0.8" />
+    <line x1="379" y1="32" x2="379" y2="212" stroke="#D8DEE6" stroke-width="0.8" />
+    <line x1="545" y1="32" x2="545" y2="212" stroke="#D8DEE6" stroke-width="0.8" />
+
+    <!-- ROW 1: GAA type (y=32-67) -->
+    <rect x="0" y="32" width="720" height="35" fill="#ffffff" />
+    <line x1="0" y1="67" x2="720" y2="67" stroke="#D8DEE6" stroke-width="0.6" />
+    <text x="10" y="47" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="10" fill="#0A2240">GAA transistor</text>
+    <text x="10" y="60" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" fill="#5B6675">Channel geometry</text>
+    <text x="159" y="53" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9.5" fill="#0A2240">Nanosheet (GAAFET)</text>
+    <text x="389" y="53" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9.5" fill="#0A2240">Nanosheet (MBCFET)</text>
+    <text x="555" y="47" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9.5" fill="#0A2240">RibbonFET</text>
+    <text x="555" y="60" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" fill="#5B6675">Intel&#8217;s name for GAA</text>
+
+    <!-- ROW 2: Backside power (y=67-102) -->
+    <rect x="0" y="67" width="720" height="35" fill="#F8F9FB" />
+    <line x1="0" y1="102" x2="720" y2="102" stroke="#D8DEE6" stroke-width="0.6" />
+    <text x="10" y="82" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="10" fill="#0A2240">Backside power</text>
+    <text x="10" y="95" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" fill="#5B6675">Power delivery</text>
+    <rect x="151" y="69" width="226" height="30" fill="rgba(232,163,61,0.12)" rx="1" />
+    <text x="264" y="88" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="9.5" fill="#E8A33D">N2: &#x2717; &nbsp;|&nbsp; A16: &#x2713; Super Power Rail</text>
+    <rect x="381" y="69" width="162" height="30" fill="rgba(232,163,61,0.12)" rx="1" />
+    <text x="462" y="88" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="9.5" fill="#E8A33D">Gen1: &#x2717; &nbsp;|&nbsp; Gen2: &#x2713; H2 2026</text>
+    <rect x="547" y="69" width="171" height="30" fill="rgba(0,166,166,0.10)" rx="1" />
+    <text x="632" y="88" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="9.5" fill="#00A6A6">&#x2713; PowerVia (from launch)</text>
+
+    <!-- ROW 3: Production status (y=102-137) -->
+    <rect x="0" y="102" width="720" height="35" fill="#ffffff" />
+    <line x1="0" y1="137" x2="720" y2="137" stroke="#D8DEE6" stroke-width="0.6" />
+    <text x="10" y="117" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="10" fill="#0A2240">Production status</text>
+    <text x="10" y="130" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" fill="#5B6675">Oct 2026</text>
+    <rect x="151" y="104" width="226" height="30" fill="rgba(0,166,166,0.08)" rx="1" />
+    <text x="264" y="123" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="9.5" fill="#00A6A6">&#x2713; Volume production · Fab 20 &amp; Fab 22</text>
+    <rect x="381" y="104" width="162" height="30" fill="rgba(0,166,166,0.08)" rx="1" />
+    <text x="462" y="116" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="9.5" fill="#00A6A6">&#x2713; Gen1 production</text>
+    <text x="462" y="129" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" fill="#00A6A6">Gen2 ramping H2 2026</text>
+    <rect x="547" y="104" width="171" height="30" fill="rgba(232,163,61,0.08)" rx="1" />
+    <text x="632" y="123" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="9.5" fill="#E8A33D">&#x25B2; Internal only (Panther Lake)</text>
+
+    <!-- ROW 4: Key customers (y=137-172) -->
+    <rect x="0" y="137" width="720" height="35" fill="#F8F9FB" />
+    <line x1="0" y1="172" x2="720" y2="172" stroke="#D8DEE6" stroke-width="0.6" />
+    <text x="10" y="152" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="10" fill="#0A2240">External customers</text>
+    <text x="10" y="165" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" fill="#5B6675">Confirmed 2026</text>
+    <text x="159" y="152" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9.5" fill="#0A2240">Apple · AMD Venice · MediaTek</text>
+    <text x="389" y="152" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9.5" fill="#0A2240">Exynos 2600 (Samsung internal)</text>
+    <text x="389" y="165" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" fill="#5B6675">pursuing Qualcomm / hyperscalers</text>
+    <text x="555" y="152" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9.5" fill="#0A2240">Panther Lake (Intel internal)</text>
+    <text x="555" y="165" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" fill="#5B6675">no confirmed external wins</text>
+
+    <!-- ROW 5: Next node (y=172-212) -->
+    <rect x="0" y="172" width="720" height="40" fill="#ffffff" />
+    <text x="10" y="188" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="10" fill="#0A2240">Next node</text>
+    <text x="10" y="201" font-family="'Helvetica Neue',Arial,sans-serif" font-size="8.5" fill="#5B6675">Roadmap</text>
+    <text x="159" y="191" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9.5" fill="#0A2240">N2P (H2 2026) &#8594; A16 &#8594; 1.4nm (A14)</text>
+    <text x="389" y="191" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9.5" fill="#0A2240">SF2 Gen2 (H2 2026) &#8594; 1.4nm</text>
+    <text x="555" y="191" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9.5" fill="#0A2240">14A (2027+) · key external test</text>
+  </svg>
+
+  <p class="xp-exhibit-source">Source: Bits-Chips.nl (TSMC N2 volume production confirmed, Jan 2026); TSMC Technology Symposium 2025 (N2P and A16 roadmap); Samsung Foundry Forum (SF2 production, Exynos 2600 commercial launch); TechSpot / Tom&#8217;s Hardware (Intel 18A / Panther Lake); penchan.co AI Supply Chain analysis. &#x2717; = not on this variant; &#x2713; = confirmed; &#x25B2; = limited/internal only.</p>
+</figure>
+
+<div class="xp-callout">
+  <div class="xp-callout-label">The Bottom Line</div>
+  <p>FinFET lasted longer than any prior transistor architecture because it was good enough, for long enough. GAA&#8217;s arrival does not reset the semiconductor scaling clock &#8212; it restarts a mechanism that was visibly slowing down. The 10&#8211;15% performance and 25&#8211;30% power efficiency gains at N2 are meaningful but incremental. The step that matters most for AI silicon is the combination of GAA transistors with backside power delivery in TSMC&#8217;s A16 and Samsung&#8217;s SF2 Gen2 &#8212; both now entering production. That combination gives AI accelerator designers the routing freedom and power efficiency to push the next generation of chips past what FinFET could architecturally support. The question now is not whether GAA works. It does. The question is how fast Samsung can close the yield gap with TSMC &#8212; and whether the world gets one serious leading-edge foundry or two.</p>
+</div>
+
+<div class="xp-author-bio">
+  <div class="xp-author-name">Colin Tan &nbsp;·&nbsp; Editor, Asia Tech Feed</div>
+  <p>Colin covers semiconductors, AI infrastructure and supply-chain dynamics across the Asia-Pacific region. He has tracked TSMC and Samsung Foundry through four process generations and writes the daily ATF digest. Reach him at <a href="mailto:colin.tan@asiatechfeed.com" style="color:#00A6A6">colin.tan@asiatechfeed.com</a> or connect on LinkedIn.</p>
+</div>
+
+<div class="xp-footer-grid">
+  <div class="xp-key-numbers">
+    <div class="xp-kn-label">Key Numbers</div>
+    <div class="xp-kn-item"><div class="xp-kn-val">13 yrs</div><div class="xp-kn-desc">FinFET era<br />(2012&#8211;2025)</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">4 sides</div><div class="xp-kn-desc">Gate coverage in GAA<br />vs 3 in FinFET</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">&#8722;30%</div><div class="xp-kn-desc">N2 max power saving<br />vs N3E (TSMC)</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">90%+</div><div class="xp-kn-desc">N2 SRAM yield<br />on 256Mb test blocks</div></div>
+    <div class="xp-kn-item"><div class="xp-kn-val">3</div><div class="xp-kn-desc">GAA foundries in<br />production (TSMC, Samsung, Intel)</div></div>
+  </div>
+  <div class="xp-related">
+    <div class="xp-related-label">Related Coverage</div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">EXPLAINER</span>
+      <h4>What is EUV lithography &#8212; and why one Dutch company controls it all?</h4>
+      <p>EUV prints the circuit patterns that define where GAA transistors sit. The lithography machine and the transistor shape are interdependent advances &#8212; this is the other half of the story.</p>
+    </div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">EXPLAINER</span>
+      <h4>What is a chiplet, and why has packaging become the real chokepoint in chipmaking?</h4>
+      <p>GAA gives better transistors; chiplets and advanced packaging determine whether those transistors can be assembled into competitive chips at cost and yield.</p>
+    </div>
+    <div class="xp-related-item">
+      <span class="xp-related-tag">REPORT</span>
+      <h4>Asia Tech Feed on Semiconductors: Outlook H2 2026&#8211;2027</h4>
+      <p>Our semiconductor outlook &#8212; with predictions on TSMC A16 adoption, Samsung&#8217;s foundry share recovery, and the AI silicon node roadmap through 2027.</p>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+</div>
+
+</main>
+
+<footer>
+  <p>Asia Tech Feed &middot; Auto-updated daily via GitHub Actions &middot; Filtered for Asia</p>
+  <p>Keywords: Semiconductor &middot; Electronics &middot; Logistics &middot; Pharmaceutical &middot; Biotechnology &middot; AI &middot; Machine Vision &middot; Automation</p>
+</footer>
+
+<script>
+// Stock ticker
+var TICKER_SYMBOLS = [
+  {"proName":"NASDAQ:NVDA","title":"Nvidia"},
+  {"proName":"NASDAQ:MU","title":"Micron"},
+  {"proName":"NYSE:TSM","title":"TSMC"},
+  {"proName":"NASDAQ:ASML","title":"ASML"},
+  {"proName":"NASDAQ:AMD","title":"AMD"},
+  {"proName":"NASDAQ:AVGO","title":"Broadcom"},
+  {"proName":"NASDAQ:QCOM","title":"Qualcomm"},
+  {"proName":"NASDAQ:AMAT","title":"Applied Materials"},
+  {"proName":"NASDAQ:INTC","title":"Intel"},
+  {"proName":"NASDAQ:TXN","title":"Texas Instruments"}
+];
+
+function renderTicker() {
+  var wrap = document.getElementById('ticker-wrap');
+  if (!wrap) return;
+  wrap.innerHTML = '';
+  var isDark = document.documentElement.classList.contains('dark');
+  var container = document.createElement('div');
+  container.className = 'tradingview-widget-container';
+  var inner = document.createElement('div');
+  inner.className = 'tradingview-widget-container__widget';
+  container.appendChild(inner);
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js';
+  script.async = true;
+  script.innerHTML = JSON.stringify({
+    symbols: TICKER_SYMBOLS,
+    showSymbolLogo: true,
+    isTransparent: true,
+    displayMode: "adaptive",
+    colorTheme: isDark ? "dark" : "light",
+    locale: "en"
+  });
+  container.appendChild(script);
+  wrap.appendChild(container);
+}
+
+// Dark mode toggle
+function toggleDark() {
+  var html = document.documentElement;
+  var isDark = html.classList.contains('dark');
+  if (isDark) {
+    html.classList.remove('dark');
+    html.classList.add('light');
+    localStorage.setItem('theme', 'light');
+  } else {
+    html.classList.remove('light');
+    html.classList.add('dark');
+    localStorage.setItem('theme', 'dark');
+  }
+  updateToggleLabel();
+  renderTicker();
+}
+
+function updateToggleLabel() {
+  var isDark = document.documentElement.classList.contains('dark');
+  var icon = document.getElementById('dark-icon');
+  var label = document.getElementById('dark-label');
+  if (icon) icon.innerHTML = isDark ? '&#9728;&#xFE0F;' : '&#127769;';
+  if (label) label.textContent = isDark ? 'Light' : 'Dark';
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  updateToggleLabel();
+  renderTicker();
+});
+
+// Auto-hide "NEW" badge after 30 days
+(function() {
+  var badge = document.getElementById('reports-new-badge');
+  if (!badge) return;
+  var first = localStorage.getItem('reports-tab-first-seen');
+  if (!first) { localStorage.setItem('reports-tab-first-seen', Date.now()); return; }
+  if (Date.now() - parseInt(first) > 30 * 24 * 60 * 60 * 1000) badge.style.display = 'none';
+})();
+
+// Keyword filter
+function filterTable(keyword) {
+  const rows = document.querySelectorAll('.news-table tbody tr');
+  const btns = document.querySelectorAll('.filter-btn');
+  btns.forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+
+  rows.forEach(row => {
+    if (!keyword || keyword === 'all') {
+      row.style.display = '';
+    } else {
+      const text = row.innerText.toLowerCase();
+      row.style.display = text.includes(keyword.toLowerCase()) ? '' : 'none';
+    }
+  });
+}
+
+// CSV download
+function downloadCSV() {
+  const table = document.querySelector('.news-table');
+  if (!table) return;
+  let csv = [];
+  const rows = table.querySelectorAll('tr');
+  rows.forEach(row => {
+    const cols = row.querySelectorAll('th, td');
+    const rowData = Array.from(cols).map(col => {
+      const link = col.querySelector('a');
+      let text = link && col.classList.contains('col-link') ? link.href : col.innerText;
+      return '"' + text.replace(/"/g, '""').replace(/\n/g, ' ') + '"';
+    });
+    csv.push(rowData.join('\t'));
+  });
+  const blob = new Blob([csv.join('\n')], { type: 'text/csv' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'asia-news-' + new Date().toISOString().slice(0,10) + '.csv';
+  a.click();
+}
+</script>
+
+</body>
+</html>
