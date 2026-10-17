@@ -1,38 +1,39 @@
 {
-  "date": "2026-10-16",
-  "count": 10,
+  "date": "2026-10-17",
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-10-16-asia-tech-news-digest.md",
+  "post_file": "2026-10-17-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Schneider Electric lifts 2026 outlook on strong AI demand",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/foxconn-schneider-electric-team-up-on-ai-data-centers"
+      "title": "Taiwan Mask targets Japan's Kyushu chip expansion with US$4.75 million TCK acquisition",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261016PD244/taiwan-mask-acquisition-equipment-photomask-revenue.html"
     },
     {
-      "title": "Dollar heads for weekly fall as investors gauge AI selloff impact",
+      "title": "XPeng's Paris push turns China's full-stack EV know-how into exportable AI engineering business",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261016VL212/xpeng-technology-automotive-vehicle-automakers.html"
+    },
+    {
+      "title": "Samsung Electro-Mechanics' US$5.1 billion expansion faces equipment supply constraints",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261016VL216/equipment-semco-expansion-production-substrate.html"
+    },
+    {
+      "title": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/dollar-heads-weekly-fall-investors-gauge-ai-selloff-impact-6464556"
+      "url": "https://www.channelnewsasia.com/business/anthropic-quietly-pitches-its-own-ai-safety-bill-lawmakers-politico-reports-6467581"
     },
     {
-      "title": "AstraZeneca strikes $1.5b AI drug discovery deal with Insitro",
+      "title": "Asus to launch ProArt P16 AI laptop in Singapore",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/israeli-biotech-firm-cassidy-bio-raises-8m-for-ai-gene-therapies"
-    },
-    {
-      "title": "Kuaishou shares rise 4% as Kling AI launches video model",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/kuaishous-kling-ai-seeks-2b-18b-valuation"
-    },
-    {
-      "title": "Rogue AI agents broke into Indian firms' live systems, government says",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/rogue-ai-agents-indian-firms-live-systems-6465256"
+      "url": "https://www.techinasia.com/nvidia-unveils-smallest-desktop-ai-supercomputer"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -129,7 +130,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -148,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 4,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 58,
-      "relevant": 43,
+      "fetched": 35,
+      "relevant": 23,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +169,7 @@
       "fetched": 50,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -193,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 21,
+      "relevant": 22,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
