@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-10-17",
+    "title": "Taiwan Mask targets Japan's Kyushu chip expansion with US$4.75 million TCK acquisition",
+    "summary": "Taiwan Mask Corporation (TMC) is expanding its presence in Japan through the acquisition of semiconductor equipment services provider TCK, extending its business beyond precision photomask manufacturing to equipment assembly and engineering support in Japan's growing Kyushu semiconductor market.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261016PD244/taiwan-mask-acquisition-equipment-photomask-revenue.html"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "XPeng's Paris push turns China's full-stack EV know-how into exportable AI engineering business",
+    "summary": "Chinese EV giant and AI mobility manufacturer XPeng has made a major appearance at the Paris Automotive Summit by bringing not just its automotive expertise into the European collaborative space, but a broader technology stack built on the automaker's existing strengths in EV manufacturing and humanoid robotics.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20261016VL212/xpeng-technology-automotive-vehicle-automakers.html"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Samsung Electro-Mechanics' US$5.1 billion expansion faces equipment supply constraints",
+    "summary": "Samsung Electro-Mechanics (Semco) faces potential equipment procurement bottlenecks in its KRW6.78 trillion (approx. US$5.1 billion) expansion of semiconductor substrate production for AI servers, as machinery manufacturers struggle with component shortages and longer delivery times. The South Korean company maintains ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261016VL216/equipment-semco-expansion-production-substrate.html"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports",
+    "summary": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/anthropic-quietly-pitches-its-own-ai-safety-bill-lawmakers-politico-reports-6467581"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Asus to launch ProArt P16 AI laptop in Singapore",
+    "summary": "The Taiwanese PC maker said the ProArt P16 uses Nvidia’s RTX Spark superchip and supports up to 128GB of unified memory.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/nvidia-unveils-smallest-desktop-ai-supercomputer"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "DEEPX Brings 25-TOPS NPU to Raspberry Pi 5 Edge AI Development",
+    "summary": "DEEPX and Sixfab enable local vision and language AI on Raspberry Pi 5 using a 3-watt NPU accelerator. The post DEEPX Brings 25-TOPS NPU to Raspberry Pi 5 Edge AI Development appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/deepx-brings-25-tops-npu-to-raspberry-pi-5-edge-ai-development/"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Elektrobit, Microchip Pre-Integrate AUTOSAR Software for Automotive Platforms",
+    "summary": "Elektrobit and Microchip are combining AUTOSAR software and automotive hardware to reduce integration work and accelerate vehicle software development. The post Elektrobit, Microchip Pre-Integrate AUTOSAR Software for Automotive Platforms appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/elektrobit-microchip-pre-integrate-autosar-software-for-automotive-platforms/"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Series SEA: Who’s investing in the region’s AI startups?",
+    "summary": "We've compiled a list of investors that are pouring money into Southeast Asia’s AI startups.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/top-sea-investors-ai"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Bringing operational AI to legacy manufacturing",
+    "summary": "Inshira Technologies uses AI to help small manufacturers find hidden operational losses without requiring expensive digital upgrades.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/bringing-operational-ai-legacy-manufacturing"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Intel chief says White House will not meddle in its semiconductor business",
+    "summary": "Intel chief says White House will not meddle in its semiconductor business",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/intel-chief-says-white-house-will-not-meddle-in-its-semiconductor-business"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "CalPERS, other institutional investors step up scrutiny of AI governance",
+    "summary": "CalPERS, other institutional investors step up scrutiny of AI governance",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/calpers-other-institutional-investors-step-up-scrutiny-of-ai-governance"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "China's DeepSeek hit by 5-hour AI service outage",
+    "summary": "China's DeepSeek hit by 5-hour AI service outage",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-hit-by-5-hour-ai-service-outage"
+  },
+  {
     "date": "2026-10-16",
     "title": "Schneider Electric lifts 2026 outlook on strong AI demand",
     "summary": "The company now expects 2026 organic adjusted earnings before interest, taxes, depreciation, and amortization growth.",
