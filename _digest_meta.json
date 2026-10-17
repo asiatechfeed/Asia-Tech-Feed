@@ -1,39 +1,37 @@
 {
   "date": "2026-10-17",
-  "count": 10,
+  "count": 6,
   "sources": [
     "CNA",
     "DigiTimes",
-    "KED",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-17-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "US AI coding startup Replit ends work with Anthropic",
+      "title": "CoreWeave stock, bonds slide as rate fears hit AI bets",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/sequoia-backs-ai-agent-tools-langchain-at-1-3b-valuation"
+      "url": "https://www.techinasia.com/coreweave-sweetens-2-6b-loan-to-win-investors"
     },
     {
-      "title": "Anthropic pitches bill to regulate frontier AI risks",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-releases-faster-cheaper-sonnet-55"
-    },
-    {
-      "title": "SoftBank weighs $18b Allied Universal deal to support AI push",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/softbankbacked-sb-energy-plans-500m-japan-sale"
-    },
-    {
-      "title": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
+      "title": "Anthropic quietly pitches its own AI safety Bill to US lawmakers",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/anthropic-offers-blackstone-double-digit-yield-in-chip-financing-deal-ft-reports-6467711"
+      "url": "https://www.channelnewsasia.com/business/anthropic-quietly-pitches-its-own-ai-safety-bill-us-lawmakers-6467581"
     },
     {
-      "title": "TECO targets AI data center growth with energy storage, transformers",
+      "title": "Gemtek partners with Starman to make optical transceivers in US",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261015PD201/teco-data-center-ess-taiwan.html"
+      "url": "https://www.digitimes.com/news/a20261016PD233/gemtek-equipment-partnership-production-manufacturing.html"
+    },
+    {
+      "title": "South Korea's September ICT Exports Surge Past US$75B on AI Demand",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261016PD242/exports-infrastructure-shipments-2026-growth.html"
+    },
+    {
+      "title": "AI server tracker: semiconductor testing and design services rally on compute demand",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261016VL215/ic-testing-interface-ic-design-ai-server-demand-revenue-growth.html"
     }
   ],
   "source_stats": [
@@ -149,7 +147,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 4,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -169,7 +167,7 @@
       "fetched": 50,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -178,7 +176,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -194,9 +192,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 23,
+      "relevant": 22,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
