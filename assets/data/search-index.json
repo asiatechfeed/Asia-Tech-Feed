@@ -1,116 +1,71 @@
 [
   {
     "date": "2026-10-17",
-    "title": "US AI coding startup Replit ends work with Anthropic",
-    "summary": "Enterprise contracts made up about 15% of Replit's revenue this year, up from about 2% last year.",
+    "title": "CoreWeave stock, bonds slide as rate fears hit AI bets",
+    "summary": "CoreWeave's CEO and related entities have sold nearly US$1 billion of stock since its 2025 IPO.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/sequoia-backs-ai-agent-tools-langchain-at-1-3b-valuation"
+    "url": "https://www.techinasia.com/coreweave-sweetens-2-6b-loan-to-win-investors"
   },
   {
     "date": "2026-10-17",
-    "title": "Anthropic pitches bill to regulate frontier AI risks",
-    "summary": "Independent evaluators would have to report imminent risks within 72 hours of an assessment.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/anthropic-releases-faster-cheaper-sonnet-55"
-  },
-  {
-    "date": "2026-10-17",
-    "title": "SoftBank weighs $18b Allied Universal deal to support AI push",
-    "summary": "SoftBank agreed in October 2025 to buy ABB's robotics division for about US$5.4 billion.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI",
-      "Automation"
-    ],
-    "url": "https://www.techinasia.com/softbankbacked-sb-energy-plans-500m-japan-sale"
-  },
-  {
-    "date": "2026-10-17",
-    "title": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
-    "summary": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
+    "title": "Anthropic quietly pitches its own AI safety Bill to US lawmakers",
+    "summary": "The Bill would reportedly let the government block a model's release or use only if it poses a foreseeable, imminent risk of more than US$1 billion in damages, or of killing or seriously injuring more than 50 people.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/anthropic-offers-blackstone-double-digit-yield-in-chip-financing-deal-ft-reports-6467711"
+    "url": "https://www.channelnewsasia.com/business/anthropic-quietly-pitches-its-own-ai-safety-bill-us-lawmakers-6467581"
   },
   {
     "date": "2026-10-17",
-    "title": "TECO targets AI data center growth with energy storage, transformers",
-    "summary": "TECO Electric and Machinery participated in Energy Taiwan on October 14, showcasing its smart microgrid solutions and outlining the future development of its power and energy business group.",
+    "title": "Gemtek partners with Starman to make optical transceivers in US",
+    "summary": "On October 15, network equipment maker Gemtek Technology announced a strategic partnership with Starman New Photonics, a subsidiary of Starman Holdings, to form a joint venture in the US. The new entity will manufacture advanced optical transceivers to capture demand for optical interconnects driven by hyperscale AI da",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261015PD201/teco-data-center-ess-taiwan.html"
+    "url": "https://www.digitimes.com/news/a20261016PD233/gemtek-equipment-partnership-production-manufacturing.html"
   },
   {
     "date": "2026-10-17",
-    "title": "Singapore's AI bet shifts from model race to deployment, resilience and trusted adoption",
-    "summary": "Singapore is moving its AI strategy beyond pilot-heavy experimentation toward a more deployment-focused model centered on enterprise adoption, sector transformation and resilient access to compute.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261013VL211/singapore-ai-adoption-government-infrastructure.html"
-  },
-  {
-    "date": "2026-10-17",
-    "title": "Interview: SEMI CEO sees US$3 trillion chip industry by 2035, as trusted partners reshape supply chain",
-    "summary": "The semiconductor industry reached the US$1 trillion revenue milestone several years earlier than originally forecast, and with growth driven by AI and quantum computing, reaching US$2 trillion by 2035 is entirely achievable, SEMI President and CEO Ajit Manocha told DIGITIMES in an exclusive interview at SEMICON West 2",
+    "title": "South Korea's September ICT Exports Surge Past US$75B on AI Demand",
+    "summary": "Driven by expanding global investments in artificial intelligence infrastructure, South Korea's ICT exports shattered previous records in September 2026. Shipments surged past the US$75 billion mark in a single month, anchored by semiconductor exports that topped US$60 billion, accounting for more than 80% of total ICT",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
-      "AI",
-      "Logistics"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261015PD238/semi-supply-chain-2035-ceo-taiwan.html"
+    "url": "https://www.digitimes.com/news/a20261016PD242/exports-infrastructure-shipments-2026-growth.html"
   },
   {
     "date": "2026-10-17",
-    "title": "Southeast Asia caught amid competing US and Chinese AI blocs",
-    "summary": "Southeast Asia caught amid competing US and Chinese AI blocs",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "AI server tracker: semiconductor testing and design services rally on compute demand",
+    "summary": "Within AI server tracking data, a clear parallel growth trajectory has emerged between semiconductor testing interface providers and chip design houses. Driven by the surge in artificial intelligence (AI), high-performance computing (HPC), and custom ASIC developments, both sectors demonstrated substantial year-over-ye",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
+      "Semiconductor",
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/southeast-asia-caught-amid-competing-us-and-chinese-ai-blocs"
+    "url": "https://www.digitimes.com/news/a20261016VL215/ic-testing-interface-ic-design-ai-server-demand-revenue-growth.html"
   },
   {
     "date": "2026-10-17",
-    "title": "Anthropic co-founder backs 'common sense standards' for AI regulation",
-    "summary": "Anthropic co-founder backs 'common sense standards' for AI regulation",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "ByteDance’s Seed AI launches global AI safety hiring drive",
+    "summary": "It said the new team will study safety training across model development, vulnerability testing, tools to monitor and explain model behavior.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-co-founder-backs-common-sense-standards-for-ai-regulation"
-  },
-  {
-    "date": "2026-10-17",
-    "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
-    "summary": "Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio",
-    "source": "KED Global",
-    "short": "KED",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001"
+    "url": "https://www.techinasia.com/bytedance-launches-seedrealtime-audiovisual-ai-model"
   },
   {
     "date": "2026-10-16",

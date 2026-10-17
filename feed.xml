@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-17T04:02:43+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 17, 2026</title><link href="https://asiatechfeed.com/2026/10/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 17, 2026" /><published>2026-10-17T04:02:01+00:00</published><updated>2026-10-17T04:02:01+00:00</updated><id>https://asiatechfeed.com/2026/10/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-17T08:01:26+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 17, 2026</title><link href="https://asiatechfeed.com/2026/10/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 17, 2026" /><published>2026-10-17T08:00:51+00:00</published><updated>2026-10-17T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/10/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -13,85 +13,53 @@
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">US AI coding startup Replit ends work with Anthropic</span></td>
-  <td class="col-summary">Enterprise contracts made up about 15% of Replit's revenue this year, up from about 2% last year.</td>
+  <td class="col-title"><span class="article-title">CoreWeave stock, bonds slide as rate fears hit AI bets</span></td>
+  <td class="col-summary">CoreWeave's CEO and related entities have sold nearly US$1 billion of stock since its 2025 IPO.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sequoia-backs-ai-agent-tools-langchain-at-1-3b-valuation" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/coreweave-sweetens-2-6b-loan-to-win-investors" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Anthropic pitches bill to regulate frontier AI risks</span></td>
-  <td class="col-summary">Independent evaluators would have to report imminent risks within 72 hours of an assessment.</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Anthropic quietly pitches its own AI safety Bill to US lawmakers</span></td>
+  <td class="col-summary">The Bill would reportedly let the government block a model's release or use only if it poses a foreseeable, imminent risk of more than US$1 billion in damages, or of killing or seriously injuring more than 50 people.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropic-releases-faster-cheaper-sonnet-55" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/anthropic-quietly-pitches-its-own-ai-safety-bill-us-lawmakers-6467581" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SoftBank weighs $18b Allied Universal deal to support AI push</span></td>
-  <td class="col-summary">SoftBank agreed in October 2025 to buy ABB's robotics division for about US$5.4 billion.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/softbankbacked-sb-energy-plans-500m-japan-sale" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Gemtek partners with Starman to make optical transceivers in US</span></td>
+  <td class="col-summary">On October 15, network equipment maker Gemtek Technology announced a strategic partnership with Starman New Photonics, a subsidiary of Starman Holdings, to form a joint venture in the US. The new entity will manufacture advanced optical transceivers to capture demand for optical interconnects driven by hyperscale AI da</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261016PD233/gemtek-equipment-partnership-production-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports</span></td>
-  <td class="col-summary">Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/anthropic-offers-blackstone-double-digit-yield-in-chip-financing-deal-ft-reports-6467711" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">South Korea's September ICT Exports Surge Past US$75B on AI Demand</span></td>
+  <td class="col-summary">Driven by expanding global investments in artificial intelligence infrastructure, South Korea's ICT exports shattered previous records in September 2026. Shipments surged past the US$75 billion mark in a single month, anchored by semiconductor exports that topped US$60 billion, accounting for more than 80% of total ICT</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261016PD242/exports-infrastructure-shipments-2026-growth.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TECO targets AI data center growth with energy storage, transformers</span></td>
-  <td class="col-summary">TECO Electric and Machinery participated in Energy Taiwan on October 14, showcasing its smart microgrid solutions and outlining the future development of its power and energy business group.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261015PD201/teco-data-center-ess-taiwan.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">AI server tracker: semiconductor testing and design services rally on compute demand</span></td>
+  <td class="col-summary">Within AI server tracking data, a clear parallel growth trajectory has emerged between semiconductor testing interface providers and chip design houses. Driven by the surge in artificial intelligence (AI), high-performance computing (HPC), and custom ASIC developments, both sectors demonstrated substantial year-over-ye</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261016VL215/ic-testing-interface-ic-design-ai-server-demand-revenue-growth.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Singapore's AI bet shifts from model race to deployment, resilience and trusted adoption</span></td>
-  <td class="col-summary">Singapore is moving its AI strategy beyond pilot-heavy experimentation toward a more deployment-focused model centered on enterprise adoption, sector transformation and resilient access to compute.</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">ByteDance’s Seed AI launches global AI safety hiring drive</span></td>
+  <td class="col-summary">It said the new team will study safety training across model development, vulnerability testing, tools to monitor and explain model behavior.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261013VL211/singapore-ai-adoption-government-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Interview: SEMI CEO sees US$3 trillion chip industry by 2035, as trusted partners reshape supply chain</span></td>
-  <td class="col-summary">The semiconductor industry reached the US$1 trillion revenue milestone several years earlier than originally forecast, and with growth driven by AI and quantum computing, reaching US$2 trillion by 2035 is entirely achievable, SEMI President and CEO Ajit Manocha told DIGITIMES in an exclusive interview at SEMICON West 2</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261015PD238/semi-supply-chain-2035-ceo-taiwan.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Southeast Asia caught amid competing US and Chinese AI blocs</span></td>
-  <td class="col-summary">Southeast Asia caught amid competing US and Chinese AI blocs</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/southeast-asia-caught-amid-competing-us-and-chinese-ai-blocs" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Anthropic co-founder backs 'common sense standards' for AI regulation</span></td>
-  <td class="col-summary">Anthropic co-founder backs 'common sense standards' for AI regulation</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-co-founder-backs-common-sense-standards-for-ai-regulation" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">Go master Shin cracks AI barrier with win over KataGo, sets up series decider</span></td>
-  <td class="col-summary">Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/bytedance-launches-seedrealtime-audiovisual-ai-model" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia US AI coding startup Replit ends work with Anthropic Enterprise contracts made up about 15% of Replit's revenue this year, up from about 2% last year. AI Read 2 TechAsia Anthropic pitches bill to regulate frontier AI risks Independent evaluators would have to report imminent risks within 72 hours of an assessment. AI Read 3 TechAsia SoftBank weighs $18b Allied Universal deal to support AI push SoftBank agreed in October 2025 to buy ABB's robotics division for about US$5.4 billion. AIAutomation Read 4 CNA Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports Semiconductor Read 5 DigiTimes TECO targets AI data center growth with energy storage, transformers TECO Electric and Machinery participated in Energy Taiwan on October 14, showcasing its smart microgrid solutions and outlining the future development of its power and energy business group. AI Read 6 DigiTimes Singapore's AI bet shifts from model race to deployment, resilience and trusted adoption Singapore is moving its AI strategy beyond pilot-heavy experimentation toward a more deployment-focused model centered on enterprise adoption, sector transformation and resilient access to compute. AI Read 7 DigiTimes Interview: SEMI CEO sees US$3 trillion chip industry by 2035, as trusted partners reshape supply chain The semiconductor industry reached the US$1 trillion revenue milestone several years earlier than originally forecast, and with growth driven by AI and quantum computing, reaching US$2 trillion by 2035 is entirely achievable, SEMI President and CEO Ajit Manocha told DIGITIMES in an exclusive interview at SEMICON West 2 SemiconductorAILogistics Read 8 NikkeiAsia Southeast Asia caught amid competing US and Chinese AI blocs Southeast Asia caught amid competing US and Chinese AI blocs AI Read 9 NikkeiAsia Anthropic co-founder backs 'common sense standards' for AI regulation Anthropic co-founder backs 'common sense standards' for AI regulation AI Read 10 KED Go master Shin cracks AI barrier with win over KataGo, sets up series decider Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 16, 2026</title><link href="https://asiatechfeed.com/2026/10/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 16, 2026" /><published>2026-10-16T08:00:57+00:00</published><updated>2026-10-16T08:00:57+00:00</updated><id>https://asiatechfeed.com/2026/10/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia CoreWeave stock, bonds slide as rate fears hit AI bets CoreWeave's CEO and related entities have sold nearly US$1 billion of stock since its 2025 IPO. AI Read 2 CNA Anthropic quietly pitches its own AI safety Bill to US lawmakers The Bill would reportedly let the government block a model's release or use only if it poses a foreseeable, imminent risk of more than US$1 billion in damages, or of killing or seriously injuring more than 50 people. AI Read 3 DigiTimes Gemtek partners with Starman to make optical transceivers in US On October 15, network equipment maker Gemtek Technology announced a strategic partnership with Starman New Photonics, a subsidiary of Starman Holdings, to form a joint venture in the US. The new entity will manufacture advanced optical transceivers to capture demand for optical interconnects driven by hyperscale AI da AI Read 4 DigiTimes South Korea's September ICT Exports Surge Past US$75B on AI Demand Driven by expanding global investments in artificial intelligence infrastructure, South Korea's ICT exports shattered previous records in September 2026. Shipments surged past the US$75 billion mark in a single month, anchored by semiconductor exports that topped US$60 billion, accounting for more than 80% of total ICT SemiconductorAI Read 5 DigiTimes AI server tracker: semiconductor testing and design services rally on compute demand Within AI server tracking data, a clear parallel growth trajectory has emerged between semiconductor testing interface providers and chip design houses. Driven by the surge in artificial intelligence (AI), high-performance computing (HPC), and custom ASIC developments, both sectors demonstrated substantial year-over-ye SemiconductorAI Read 6 TechAsia ByteDance’s Seed AI launches global AI safety hiring drive It said the new team will study safety training across model development, vulnerability testing, tools to monitor and explain model behavior. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 16, 2026</title><link href="https://asiatechfeed.com/2026/10/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 16, 2026" /><published>2026-10-16T08:00:57+00:00</published><updated>2026-10-16T08:00:57+00:00</updated><id>https://asiatechfeed.com/2026/10/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
