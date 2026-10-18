@@ -1,59 +1,50 @@
 [
   {
     "date": "2026-10-18",
-    "title": "Meta drops wording on business sites for AI training",
-    "summary": "The News/Media Alliance, a US trade group for news publishers, responded to the changes.",
+    "title": "China’s CXMT expects up to $8.2b Q3 profit on AI demand",
+    "summary": "CXMT ranked fourth in global DRAM revenue in Q2, behind Samsung, SK Hynix, and Micron.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/meta-signs-gpu-capacity-deal-ai-firm-firmus"
+    "url": "https://www.techinasia.com/chinas-cxmt-reportedly-eyes-42b-ipo-in-2026"
   },
   {
     "date": "2026-10-18",
-    "title": "Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains",
-    "summary": "Singapore is targeting high-value semiconductor manufacturing, advanced packaging, and silicon photonics, building on its strengths in engineering, precision manufacturing, and reliability, according to Zeng Yi Wong, assistant managing director for manufacturing at Enterprise Singapore (EnterpriseSG).",
+    "title": "Bolt Graphics seeks US$100 million to challenge Nvidia, AMD beyond AI with Zeus GPU",
+    "summary": "US chip startup Bolt Graphics is seeking approximately US$100 million at a valuation of about US$700 million to develop graphics processors targeting scientific computing and professional rendering, challenging Nvidia and AMD in markets beyond AI acceleration.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261016VL206/gpu-amd-nvidia-startup-manufacturing.html"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Samsung to break ground on second Texas chip fab in November",
+    "summary": "Samsung Electronics plans to begin construction of its second semiconductor fabrication plant in Taylor, Texas, in November 2026, moving ahead with its US foundry expansion as its first facility prepares to begin operations by the end of the year.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
-      "Logistics"
+      "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20261012PD215/manufacturing-equipment-packaging-testing-silicon.html"
+    "url": "https://www.digitimes.com/news/a20261016VL214/samsung-texas-fab-expansion-production.html"
   },
   {
     "date": "2026-10-18",
-    "title": "TSMC’s 3nm Kumamoto plan wins Japan’s approval, qualifying for up to $4.1 billion in aid",
-    "summary": "Japan's Ministry of Economy, Trade and Industry (METI) on Oct. 16 approved a revised plan from Taiwan Semiconductor Manufacturing Co. (TSMC) to build 3-nanometer logic chips at its second fab in Kumamoto Prefecture, on the southern island of Kyushu. 3nm is one of the most advanced chip processes in commercial productio",
+    "title": "Holtek targets higher-value MCU markets with AI server cooling orders set to lift 2027 revenue",
+    "summary": "Taiwan-based microcontroller (MCU) manufacturer Holtek Semiconductor unveiled its 2026 product roadmap on October 15, focusing on four core areas: smart protection, green energy and intelligent control, edge AI computing, and general-purpose applications.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261017VL200/fab-tsmc-chips-kumamoto-production.html"
-  },
-  {
-    "date": "2026-10-18",
-    "title": "Telco giant builds Taiwan's high-speed computing network for AI agent era",
-    "summary": "Chunghwa Telecom president Rong-shy Lin said the shift from conversational AI to autonomous AI agents is reshaping enterprise adoption, making data governance, access controls and accountability critical to deployment at scale.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
+      "Semiconductor",
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261016PD239/cht-president-data-infrastructure-governance.html"
-  },
-  {
-    "date": "2026-10-18",
-    "title": "US and China must ensure AI dialogue is more than just hot air",
-    "summary": "US and China must ensure AI dialogue is more than just hot air",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/opinion/us-and-china-must-ensure-ai-dialogue-is-more-than-just-hot-air"
+    "url": "https://www.digitimes.com/news/a20261016PD222/holtek-mcu-ai-server-cooling-2027.html"
   },
   {
     "date": "2026-10-17",
