@@ -1,37 +1,31 @@
 {
   "date": "2026-10-18",
-  "count": 5,
+  "count": 4,
   "sources": [
     "DigiTimes",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-18-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Meta drops wording on business sites for AI training",
+      "title": "China\u2019s CXMT expects up to $8.2b Q3 profit on AI demand",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/meta-signs-gpu-capacity-deal-ai-firm-firmus"
+      "url": "https://www.techinasia.com/chinas-cxmt-reportedly-eyes-42b-ipo-in-2026"
     },
     {
-      "title": "Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains",
+      "title": "Bolt Graphics seeks US$100 million to challenge Nvidia, AMD beyond AI with Zeus GPU",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261012PD215/manufacturing-equipment-packaging-testing-silicon.html"
+      "url": "https://www.digitimes.com/news/a20261016VL206/gpu-amd-nvidia-startup-manufacturing.html"
     },
     {
-      "title": "TSMC\u2019s 3nm Kumamoto plan wins Japan\u2019s approval, qualifying for up to $4.1 billion in aid",
+      "title": "Samsung to break ground on second Texas chip fab in November",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261017VL200/fab-tsmc-chips-kumamoto-production.html"
+      "url": "https://www.digitimes.com/news/a20261016VL214/samsung-texas-fab-expansion-production.html"
     },
     {
-      "title": "Telco giant builds Taiwan's high-speed computing network for AI agent era",
+      "title": "Holtek targets higher-value MCU markets with AI server cooling orders set to lift 2027 revenue",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261016PD239/cht-president-data-infrastructure-governance.html"
-    },
-    {
-      "title": "US and China must ensure AI dialogue is more than just hot air",
-      "source": "NikkeiAsia",
-      "url": "https://asia.nikkei.com/opinion/us-and-china-must-ensure-ai-dialogue-is-more-than-just-hot-air"
+      "url": "https://www.digitimes.com/news/a20261016PD222/holtek-mcu-ai-server-cooling-2027.html"
     }
   ],
   "source_stats": [
@@ -128,7 +122,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -147,7 +141,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 4,
+      "relevant": 2,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -167,7 +161,7 @@
       "fetched": 50,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -192,7 +186,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 20,
+      "relevant": 19,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
