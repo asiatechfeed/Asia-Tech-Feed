@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-17T08:01:26+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 17, 2026</title><link href="https://asiatechfeed.com/2026/10/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 17, 2026" /><published>2026-10-17T08:00:51+00:00</published><updated>2026-10-17T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/10/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-18T00:59:20+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 18, 2026</title><link href="https://asiatechfeed.com/2026/10/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 18, 2026" /><published>2026-10-18T00:58:44+00:00</published><updated>2026-10-18T00:58:44+00:00</updated><id>https://asiatechfeed.com/2026/10/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Meta drops wording on business sites for AI training</span></td>
+  <td class="col-summary">The News/Media Alliance, a US trade group for news publishers, responded to the changes.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-signs-gpu-capacity-deal-ai-firm-firmus" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains</span></td>
+  <td class="col-summary">Singapore is targeting high-value semiconductor manufacturing, advanced packaging, and silicon photonics, building on its strengths in engineering, precision manufacturing, and reliability, according to Zeng Yi Wong, assistant managing director for manufacturing at Enterprise Singapore (EnterpriseSG).</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261012PD215/manufacturing-equipment-packaging-testing-silicon.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">TSMC’s 3nm Kumamoto plan wins Japan’s approval, qualifying for up to $4.1 billion in aid</span></td>
+  <td class="col-summary">Japan's Ministry of Economy, Trade and Industry (METI) on Oct. 16 approved a revised plan from Taiwan Semiconductor Manufacturing Co. (TSMC) to build 3-nanometer logic chips at its second fab in Kumamoto Prefecture, on the southern island of Kyushu. 3nm is one of the most advanced chip processes in commercial productio</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261017VL200/fab-tsmc-chips-kumamoto-production.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Telco giant builds Taiwan's high-speed computing network for AI agent era</span></td>
+  <td class="col-summary">Chunghwa Telecom president Rong-shy Lin said the shift from conversational AI to autonomous AI agents is reshaping enterprise adoption, making data governance, access controls and accountability critical to deployment at scale.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261016PD239/cht-president-data-infrastructure-governance.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">US and China must ensure AI dialogue is more than just hot air</span></td>
+  <td class="col-summary">US and China must ensure AI dialogue is more than just hot air</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/opinion/us-and-china-must-ensure-ai-dialogue-is-more-than-just-hot-air" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Meta drops wording on business sites for AI training The News/Media Alliance, a US trade group for news publishers, responded to the changes. AI Read 2 DigiTimes Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains Singapore is targeting high-value semiconductor manufacturing, advanced packaging, and silicon photonics, building on its strengths in engineering, precision manufacturing, and reliability, according to Zeng Yi Wong, assistant managing director for manufacturing at Enterprise Singapore (EnterpriseSG). SemiconductorLogistics Read 3 DigiTimes TSMC’s 3nm Kumamoto plan wins Japan’s approval, qualifying for up to $4.1 billion in aid Japan's Ministry of Economy, Trade and Industry (METI) on Oct. 16 approved a revised plan from Taiwan Semiconductor Manufacturing Co. (TSMC) to build 3-nanometer logic chips at its second fab in Kumamoto Prefecture, on the southern island of Kyushu. 3nm is one of the most advanced chip processes in commercial productio Semiconductor Read 4 DigiTimes Telco giant builds Taiwan's high-speed computing network for AI agent era Chunghwa Telecom president Rong-shy Lin said the shift from conversational AI to autonomous AI agents is reshaping enterprise adoption, making data governance, access controls and accountability critical to deployment at scale. AI Read 5 NikkeiAsia US and China must ensure AI dialogue is more than just hot air US and China must ensure AI dialogue is more than just hot air AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 17, 2026</title><link href="https://asiatechfeed.com/2026/10/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 17, 2026" /><published>2026-10-17T08:00:51+00:00</published><updated>2026-10-17T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/10/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -635,97 +688,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-has-the-ai-race-reached-its-speed-limit" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals Nine South Korean banks and two mega-churches are probing cyberattacks that may have involved AI tools, while Japanese companies including Daiwa Securities, SoftBank and the Lawson convenience store chain have been hit by a recent surge in cyber incidents. AI Read 2 CNA Around 500 new jobs to be created as ST Engineering opens new aircraft maintenance facility The Changi Creek facility will use drones and autonomous mobile robots to support operations. Automation Read 3 CNA SK's Chey vows to build Gwangju chip plants as fast as possible, no start date set SK's Chey vows to build Gwangju chip plants as fast as possible, no start date set Semiconductor Read 4 TechAsia EY revenue hits $57b, AI services up 49% The firm said revenue from AI services rose 49% in FY2026. AI Read 5 DigiTimes Applied Materials, Intel target AI chip bottlenecks with interconnect scaling and Foveros 3D AI chip manufacturing demands are accelerating development of advanced logic and packaging technologies, prompting Applied Materials and Intel to expand their collaboration on next-generation transistors, interconnects, and advanced packaging. AISemiconductor Read 6 DigiTimes Innodisk, Apacer post September 2026 revenue growth on AI demand Memory module makers Innodisk and Apacer both reported year-over-year and month-over-month revenue growth for September 2026, supported by steady demand from industrial control, edge computing and AI smart connectivity applications. Their cumulative revenue for the first three quarters of the year also set strong growt AI Read 7 DigiTimes Advantech tops US$1 billion in third-quarter revenue as edge AI orders climb Advantech reported on October 7 that third-quarter consolidated revenue reached NT$32.44 billion (approx. US$1.02 billion), a record high as demand for edge AI, semiconductor equipment, and robotics stayed strong. September consolidated revenue rose to NT$10.749 billion, up 73.14% year-over-year, while cumulative reven SemiconductorAIAutomation Read 8 TechAsia Australian AI firm Firmus withdraws planned IPO Firmus had aimed to raise US$5 billion at A$11 (US$7.7) a share. AI Read 9 TechAsia Alibaba AI cloud revenue seen up over 50% Alibaba Cloud said in May 2026 that its cloud revenue growth had risen to 40%. AI Read 10 NikkeiAsia Editor's Choice: Has the AI race reached its speed limit? Editor's Choice: Has the AI race reached its speed limit? AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 08, 2026</title><link href="https://asiatechfeed.com/2026/10/08/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 08, 2026" /><published>2026-10-08T08:00:47+00:00</published><updated>2026-10-08T08:00:47+00:00</updated><id>https://asiatechfeed.com/2026/10/08/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/08/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Hong Kong fintech firm Reap to test AI purchasing setup</span></td>
-  <td class="col-summary">Reap would issue payment credentials limited by merchant, amount, and timeframe, then execute checkout.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/kraken-parent-buys-hong-kong-fintech-reap-for-600m" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Tencent mulls $5 billion bond sale to push AI ambitions, Bloomberg News reports</span></td>
-  <td class="col-summary">Tencent mulls $5 billion bond sale to push AI ambitions, Bloomberg News reports</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/tencent-mulls-5-billion-bond-sale-push-ai-ambitions-bloomberg-news-reports-6441936" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Manus maker Butterfly Effect lands over $500m funding</span></td>
-  <td class="col-summary">Manus is described as an AI agent that can execute tasks and workflows on a user’s behalf, rather than only generate text.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/china-blocks-metas-manus-acquisition" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">The platform helping academics cite 250m real research papers</span></td>
-  <td class="col-summary">Jenni AI rebuilt its writing assistant specifically for researchers after seeing the academic integrity risks of generic AI models.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/platform-helping-academics-cite-250m-real-research-papers" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">LG to test five commercial components in space aboard South Korea's fifth Nuri launch</span></td>
-  <td class="col-summary">LG Group is preparing to test five commercial components developed by LG Electronics, LG Innotek, and LG Energy Solution (LGES), including cameras and batteries, aboard a CubeSat carried as a secondary payload on South Korea's fifth Nuri rocket launch. The mission aims to assess whether commercially available component</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008PD240/lg-commercial-launch-cubesat-lges.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">US and 14 nations issue statement on overcapacity, target semiconductors</span></td>
-  <td class="col-summary">The US and 14 other economies issued a joint statement after the G20 trade ministers' meeting in Milwaukee, pledging to work together on structural overcapacity and excess production in key industries. They singled out autos, EVs, batteries, chemicals, semiconductors and solar panels.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008PD233/overcapacity-semiconductors-g20-policy-production.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Google, Meta, and others commit nearly US$2 billion to open AI biology data</span></td>
-  <td class="col-summary">A new international funding push aims to build the data backbone for AI systems that could model biology, sharpen disease research, and speed drug discovery worldwide. The effort may help researchers in many countries access shared datasets, tools, and computing resources needed to predict how cells respond to disease </td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag bio">Pharmaceutical</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008PR200/google-meta-data-funding-partnership.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">France's Sesterce plans $11 billion AI investment in Finland</span></td>
-  <td class="col-summary">France's Sesterce plans $11 billion AI investment in Finland</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/frances-sesterce-plans-11-billion-ai-investment-in-finland-6441726" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Asia shares slip, bonds submerged in tide of AI debt</span></td>
-  <td class="col-summary">Asia shares slip, bonds submerged in tide of AI debt</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/asia-shares-slip-bonds-submerged-in-tide-ai-debt-6441181" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Chinese AI startup Manus drums up over $500m in fresh funding</span></td>
-  <td class="col-summary">Chinese AI startup Manus drums up over $500m in fresh funding</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-ai-startup-manus-drums-up-over-500m-in-fresh-funding" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Hong Kong fintech firm Reap to test AI purchasing setup Reap would issue payment credentials limited by merchant, amount, and timeframe, then execute checkout. AI Read 2 CNA Tencent mulls $5 billion bond sale to push AI ambitions, Bloomberg News reports Tencent mulls $5 billion bond sale to push AI ambitions, Bloomberg News reports AI Read 3 TechAsia Manus maker Butterfly Effect lands over $500m funding Manus is described as an AI agent that can execute tasks and workflows on a user’s behalf, rather than only generate text. AI Read 4 TechAsia The platform helping academics cite 250m real research papers Jenni AI rebuilt its writing assistant specifically for researchers after seeing the academic integrity risks of generic AI models. AI Read 5 DigiTimes LG to test five commercial components in space aboard South Korea's fifth Nuri launch LG Group is preparing to test five commercial components developed by LG Electronics, LG Innotek, and LG Energy Solution (LGES), including cameras and batteries, aboard a CubeSat carried as a secondary payload on South Korea's fifth Nuri rocket launch. The mission aims to assess whether commercially available component Electronics Read 6 DigiTimes US and 14 nations issue statement on overcapacity, target semiconductors The US and 14 other economies issued a joint statement after the G20 trade ministers' meeting in Milwaukee, pledging to work together on structural overcapacity and excess production in key industries. They singled out autos, EVs, batteries, chemicals, semiconductors and solar panels. Semiconductor Read 7 DigiTimes Google, Meta, and others commit nearly US$2 billion to open AI biology data A new international funding push aims to build the data backbone for AI systems that could model biology, sharpen disease research, and speed drug discovery worldwide. The effort may help researchers in many countries access shared datasets, tools, and computing resources needed to predict how cells respond to disease AIPharmaceutical Read 8 CNA France's Sesterce plans $11 billion AI investment in Finland France's Sesterce plans $11 billion AI investment in Finland AI Read 9 CNA Asia shares slip, bonds submerged in tide of AI debt Asia shares slip, bonds submerged in tide of AI debt AI Read 10 NikkeiAsia Chinese AI startup Manus drums up over $500m in fresh funding Chinese AI startup Manus drums up over $500m in fresh funding AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals Nine South Korean banks and two mega-churches are probing cyberattacks that may have involved AI tools, while Japanese companies including Daiwa Securities, SoftBank and the Lawson convenience store chain have been hit by a recent surge in cyber incidents. AI Read 2 CNA Around 500 new jobs to be created as ST Engineering opens new aircraft maintenance facility The Changi Creek facility will use drones and autonomous mobile robots to support operations. Automation Read 3 CNA SK's Chey vows to build Gwangju chip plants as fast as possible, no start date set SK's Chey vows to build Gwangju chip plants as fast as possible, no start date set Semiconductor Read 4 TechAsia EY revenue hits $57b, AI services up 49% The firm said revenue from AI services rose 49% in FY2026. AI Read 5 DigiTimes Applied Materials, Intel target AI chip bottlenecks with interconnect scaling and Foveros 3D AI chip manufacturing demands are accelerating development of advanced logic and packaging technologies, prompting Applied Materials and Intel to expand their collaboration on next-generation transistors, interconnects, and advanced packaging. AISemiconductor Read 6 DigiTimes Innodisk, Apacer post September 2026 revenue growth on AI demand Memory module makers Innodisk and Apacer both reported year-over-year and month-over-month revenue growth for September 2026, supported by steady demand from industrial control, edge computing and AI smart connectivity applications. Their cumulative revenue for the first three quarters of the year also set strong growt AI Read 7 DigiTimes Advantech tops US$1 billion in third-quarter revenue as edge AI orders climb Advantech reported on October 7 that third-quarter consolidated revenue reached NT$32.44 billion (approx. US$1.02 billion), a record high as demand for edge AI, semiconductor equipment, and robotics stayed strong. September consolidated revenue rose to NT$10.749 billion, up 73.14% year-over-year, while cumulative reven SemiconductorAIAutomation Read 8 TechAsia Australian AI firm Firmus withdraws planned IPO Firmus had aimed to raise US$5 billion at A$11 (US$7.7) a share. AI Read 9 TechAsia Alibaba AI cloud revenue seen up over 50% Alibaba Cloud said in May 2026 that its cloud revenue growth had risen to 40%. AI Read 10 NikkeiAsia Editor's Choice: Has the AI race reached its speed limit? Editor's Choice: Has the AI race reached its speed limit? AI Read]]></summary></entry></feed>
