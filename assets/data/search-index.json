@@ -1,5 +1,106 @@
 [
   {
+    "date": "2026-10-19",
+    "title": "Australia’s Nextdc flags earnings risk over power delay",
+    "summary": "The M3 facility near Melbourne is a 225-megawatt data center serving cloud and AI customers.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/australia-stalls-tiktoks-data-center-plan-over-regulatory-concerns"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "DeepSeek’s leaner AI model hits Samsung, SK hynix shares",
+    "summary": "Memory chipmakers Samsung Electronics and SK hynix each dropped more than 4% before trimming losses.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Electronics",
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/deepseeks-ai-model-mixed-benchmark-results"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "TI Adds 3-GSPS ADC for Nanosecond-level Data Center Power Monitoring",
+    "summary": "TI's latest ADC captures transient power faults, while new power-management and timing devices target AI data center reliability. The post TI Adds 3-GSPS ADC for Nanosecond-level Data Center Power Monitoring appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/ti-adds-3-gsps-adc-for-nanosecond-level-data-center-power-monitoring/"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "FICG Strengthens Presence in Singapore and Malaysia with New Facility in Johor",
+    "summary": "FICG's Johor site operates eight SMT lines and will produce high-speed optical transceivers for AI infrastructure and data centers. The post FICG Strengthens Presence in Singapore and Malaysia with New Facility in Johor appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/ficg-strengthens-presence-in-singapore-and-malaysia-with-new-facility-in-johor/"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Cute AI agents need clear boundaries",
+    "summary": "Agentic AI’s promise to make life easier now comes in cute packages. But will that make us too trusting of what we let agents do on our behalf?",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/cute-ai-agents-clear-boundaries"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Hyundai creates RX team to accelerate Atlas humanoid robot production",
+    "summary": "Hyundai Motor Group is accelerating plans to mass-produce and sell its Atlas humanoid robot while establishing an RX Business Strategy Team to oversee its global robotics strategy under the banner \"Robotics Everything.\" The move signals a restructuring aimed at putting the group's robotics business on a more systematic",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20261019PD205/hyundai-robot-atlas-production-robotics.html"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Memory squeeze leaves Brightek short on chips; Chinese automakers line up for Nantong plant",
+    "summary": "LED packaging manufacturer Brightek Optoelectronic expects its automotive revenue share to exceed 60%, up from around 50%, following the opening of its Nantong plant and higher shipments. Its third-quarter 2026 gross margin is projected to recover to 30%, although tight mature-node logic IC supplies, constrained by fou",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261019PD217/led-packaging-plant-brightek-automotive-demand.html"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "EU eyes AI defense as it tests China's open-weight models",
+    "summary": "The European Union is strengthening its response to cybersecurity risks posed by artificial intelligence, planning to use automated measures to accelerate incident response while testing Chinese open-weight AI models to assess the capabilities and limitations of different technologies.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261019PD203/eu-cybersecurity-testing-search-engine-performance.html"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Why Southeast Asian firms need their own AI playbook",
+    "summary": "Despite rising AI investment, few organisations are creating enterprise-wide value. Strong digital foundations, skilled teams and CEO backing are proving critical to moving beyond pilot projects.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/advertorial/why-southeast-asian-firms-need-their-own-ai-playbook-6351176"
+  },
+  {
     "date": "2026-10-18",
     "title": "Supermicro appoints Mark Long as chief financial officer",
     "summary": "Supermicro Computer has appointed Mark Long as chief financial officer, bringing an experienced technology finance executive to lead the company as it expands its artificial intelligence and IT infrastructure operations. The leadership change at the US-based company could influence its financial execution, capital allo",

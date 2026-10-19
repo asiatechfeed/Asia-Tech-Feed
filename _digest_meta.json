@@ -1,25 +1,38 @@
 {
-  "date": "2026-10-18",
-  "count": 3,
+  "date": "2026-10-19",
+  "count": 9,
   "sources": [
-    "DigiTimes"
+    "CNA",
+    "DigiTimes",
+    "EETAsia",
+    "TechAsia"
   ],
-  "post_file": "2026-10-18-asia-tech-news-digest.md",
+  "post_file": "2026-10-19-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Supermicro appoints Mark Long as chief financial officer",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261016PR200/supermicro-management-finance-infrastructure.html"
+      "title": "Australia\u2019s Nextdc flags earnings risk over power delay",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/australia-stalls-tiktoks-data-center-plan-over-regulatory-concerns"
     },
     {
-      "title": "Analysis: Intel CEO Lip-Bu Tan's power of humility \u2014 how one phone call helped reshape the chip giant's comeback",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261016PD229/intel-ceo-nvidia-packaging-market.html"
+      "title": "DeepSeek\u2019s leaner AI model hits Samsung, SK hynix shares",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/deepseeks-ai-model-mixed-benchmark-results"
     },
     {
-      "title": "US chipmakers rely more on overseas production than supplier data suggests, SIA finds",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261016PD216/sia-usa-chipmakers-supplier-production.html"
+      "title": "TI Adds 3-GSPS ADC for Nanosecond-level Data Center Power Monitoring",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/ti-adds-3-gsps-adc-for-nanosecond-level-data-center-power-monitoring/"
+    },
+    {
+      "title": "FICG Strengthens Presence in Singapore and Malaysia with New Facility in Johor",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/ficg-strengthens-presence-in-singapore-and-malaysia-with-new-facility-in-johor/"
+    },
+    {
+      "title": "Cute AI agents need clear boundaries",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/cute-ai-agents-clear-boundaries"
     }
   ],
   "source_stats": [
@@ -36,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -135,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 2,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 23,
+      "relevant": 26,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -153,7 +166,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 7,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -180,9 +193,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 14,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
