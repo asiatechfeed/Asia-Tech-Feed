@@ -1,38 +1,38 @@
 {
   "date": "2026-10-19",
-  "count": 9,
+  "count": 7,
   "sources": [
     "DigiTimes",
-    "EETAsia",
+    "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-19-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Buying AI tools is easy \u2013 getting real value is much harder",
+      "title": "Turning orange peels into battery materials",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/buying-ai-tools-easy-real-harder"
+      "url": "https://www.techinasia.com/turning-orange-peels-battery-materials"
     },
     {
-      "title": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+      "title": "From LCD powerhouse to AI enabler: Taiwan's display industry reinvents itself after 30 turbulent years",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261019PD222/tesla-samsung-tsmc-production-fab.html"
+      "url": "https://www.digitimes.com/news/a20261019PD224/auo-innolux-display-lcd-manufacturing-ic-packaging-taiwan.html"
     },
     {
-      "title": "Interview: Zeiss SMO president says High-NA EUV ready for mass production, orders booked through 2027",
+      "title": "SiC powering the future: market scaling meets IDM synergies",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261019PD219/demand-production-president-2027-high-na-euv.html"
+      "url": "https://www.digitimes.com/news/a20261019VL211/sic-silicon-market-data-center-industrial.html"
     },
     {
-      "title": "TrendForce Forecasts AR Glasses Shipments to Reach 1.3M Units in 2026",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/trendforce-forecasts-ar-glasses-shipments-to-reach-1-3m-units-in-2026/"
-    },
-    {
-      "title": "SK Hynix advances chip inspection technology as 3D memory pushes conventional metrology to its limits",
+      "title": "Sanan Optoelectronics faces corp governance turmoil amid Micro LED breakthroughs",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261019PD223/inspection-metrology-3d-technology-wafer.html"
+      "url": "https://www.digitimes.com/news/a20261019VL207/sanan-optoelectronics-governance-market-xiamen-display.html"
+    },
+    {
+      "title": "OpenAI, Moderna expand AI use in drug development",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/anthropic-buys-biotech-startup-coefficient-bio-400m"
     }
   ],
   "source_stats": [
@@ -49,7 +49,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -150,14 +150,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 44,
-      "relevant": 37,
+      "fetched": 56,
+      "relevant": 44,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -175,9 +175,9 @@
       "source": "KED",
       "name": "KED Global",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -193,9 +193,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
