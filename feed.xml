@@ -1,4 +1,89 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-18T08:01:19+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 18, 2026</title><link href="https://asiatechfeed.com/2026/10/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 18, 2026" /><published>2026-10-18T08:00:49+00:00</published><updated>2026-10-18T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/10/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-19T02:40:50+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 19, 2026</title><link href="https://asiatechfeed.com/2026/10/19/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 19, 2026" /><published>2026-10-19T02:39:48+00:00</published><updated>2026-10-19T02:39:48+00:00</updated><id>https://asiatechfeed.com/2026/10/19/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/19/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Australia’s Nextdc flags earnings risk over power delay</span></td>
+  <td class="col-summary">The M3 facility near Melbourne is a 225-megawatt data center serving cloud and AI customers.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/australia-stalls-tiktoks-data-center-plan-over-regulatory-concerns" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">DeepSeek’s leaner AI model hits Samsung, SK hynix shares</span></td>
+  <td class="col-summary">Memory chipmakers Samsung Electronics and SK hynix each dropped more than 4% before trimming losses.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/deepseeks-ai-model-mixed-benchmark-results" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">TI Adds 3-GSPS ADC for Nanosecond-level Data Center Power Monitoring</span></td>
+  <td class="col-summary">TI's latest ADC captures transient power faults, while new power-management and timing devices target AI data center reliability. The post TI Adds 3-GSPS ADC for Nanosecond-level Data Center Power Monitoring appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ti-adds-3-gsps-adc-for-nanosecond-level-data-center-power-monitoring/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">FICG Strengthens Presence in Singapore and Malaysia with New Facility in Johor</span></td>
+  <td class="col-summary">FICG's Johor site operates eight SMT lines and will produce high-speed optical transceivers for AI infrastructure and data centers. The post FICG Strengthens Presence in Singapore and Malaysia with New Facility in Johor appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ficg-strengthens-presence-in-singapore-and-malaysia-with-new-facility-in-johor/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Cute AI agents need clear boundaries</span></td>
+  <td class="col-summary">Agentic AI’s promise to make life easier now comes in cute packages. But will that make us too trusting of what we let agents do on our behalf?</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/cute-ai-agents-clear-boundaries" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Hyundai creates RX team to accelerate Atlas humanoid robot production</span></td>
+  <td class="col-summary">Hyundai Motor Group is accelerating plans to mass-produce and sell its Atlas humanoid robot while establishing an RX Business Strategy Team to oversee its global robotics strategy under the banner "Robotics Everything." The move signals a restructuring aimed at putting the group's robotics business on a more systematic</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261019PD205/hyundai-robot-atlas-production-robotics.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Memory squeeze leaves Brightek short on chips; Chinese automakers line up for Nantong plant</span></td>
+  <td class="col-summary">LED packaging manufacturer Brightek Optoelectronic expects its automotive revenue share to exceed 60%, up from around 50%, following the opening of its Nantong plant and higher shipments. Its third-quarter 2026 gross margin is projected to recover to 30%, although tight mature-node logic IC supplies, constrained by fou</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261019PD217/led-packaging-plant-brightek-automotive-demand.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">EU eyes AI defense as it tests China's open-weight models</span></td>
+  <td class="col-summary">The European Union is strengthening its response to cybersecurity risks posed by artificial intelligence, planning to use automated measures to accelerate incident response while testing Chinese open-weight AI models to assess the capabilities and limitations of different technologies.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261019PD203/eu-cybersecurity-testing-search-engine-performance.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Why Southeast Asian firms need their own AI playbook</span></td>
+  <td class="col-summary">Despite rising AI investment, few organisations are creating enterprise-wide value. Strong digital foundations, skilled teams and CEO backing are proving critical to moving beyond pilot projects.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/advertorial/why-southeast-asian-firms-need-their-own-ai-playbook-6351176" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Australia’s Nextdc flags earnings risk over power delay The M3 facility near Melbourne is a 225-megawatt data center serving cloud and AI customers. AI Read 2 TechAsia DeepSeek’s leaner AI model hits Samsung, SK hynix shares Memory chipmakers Samsung Electronics and SK hynix each dropped more than 4% before trimming losses. ElectronicsAISemiconductor Read 3 EETAsia TI Adds 3-GSPS ADC for Nanosecond-level Data Center Power Monitoring TI's latest ADC captures transient power faults, while new power-management and timing devices target AI data center reliability. The post TI Adds 3-GSPS ADC for Nanosecond-level Data Center Power Monitoring appeared first on EE Times Asia . AI Read 4 EETAsia FICG Strengthens Presence in Singapore and Malaysia with New Facility in Johor FICG's Johor site operates eight SMT lines and will produce high-speed optical transceivers for AI infrastructure and data centers. The post FICG Strengthens Presence in Singapore and Malaysia with New Facility in Johor appeared first on EE Times Asia . AI Read 5 TechAsia Cute AI agents need clear boundaries Agentic AI’s promise to make life easier now comes in cute packages. But will that make us too trusting of what we let agents do on our behalf? AI Read 6 DigiTimes Hyundai creates RX team to accelerate Atlas humanoid robot production Hyundai Motor Group is accelerating plans to mass-produce and sell its Atlas humanoid robot while establishing an RX Business Strategy Team to oversee its global robotics strategy under the banner "Robotics Everything." The move signals a restructuring aimed at putting the group's robotics business on a more systematic Automation Read 7 DigiTimes Memory squeeze leaves Brightek short on chips; Chinese automakers line up for Nantong plant LED packaging manufacturer Brightek Optoelectronic expects its automotive revenue share to exceed 60%, up from around 50%, following the opening of its Nantong plant and higher shipments. Its third-quarter 2026 gross margin is projected to recover to 30%, although tight mature-node logic IC supplies, constrained by fou Semiconductor Read 8 DigiTimes EU eyes AI defense as it tests China's open-weight models The European Union is strengthening its response to cybersecurity risks posed by artificial intelligence, planning to use automated measures to accelerate incident response while testing Chinese open-weight AI models to assess the capabilities and limitations of different technologies. AI Read 9 CNA Why Southeast Asian firms need their own AI playbook Despite rising AI investment, few organisations are creating enterprise-wide value. Strong digital foundations, skilled teams and CEO backing are proving critical to moving beyond pilot projects. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 18, 2026</title><link href="https://asiatechfeed.com/2026/10/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 18, 2026" /><published>2026-10-18T08:00:49+00:00</published><updated>2026-10-18T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/10/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -579,97 +664,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008PD253/tpca-2026-unimicron-demand-hardware.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Phison posts record September revenue as AI tops half of sales Phison Electronics reported record September consolidated revenue of NT$30.639 billion (US$959 million), up 8% from August and 370% from a year earlier. The Taiwanese storage chipmaker said AI-related applications accounted for more than 50% of total revenue, underscoring how demand is expanding across storage, computi ElectronicsAISemiconductor Read 2 DigiTimes Zhen Ding posts record September sales on mobile demand and AI applications Zhen Ding Technology said September 2026 consolidated revenue reached NT$26.358 billion (US$825.13 million), up 36.13% year over year and 27.54% from August, setting a monthly record. The PCB maker said the result reflected strong orders from mobile communications products as well as continued growth in its server, opt AIElectronics Read 3 DigiTimes TPCA Show 2026 to spotlight AI computing, Unimicron chair keynote As explosive AI computing demand drives hardware architecture change, Taiwan Printed Circuit Association (TPCA) is set to open its annual flagship event, with the 21st International Microsystems, Packaging, Assembly and Circuits Technology Conference (IMPACT-IAAC 2026) kicking off on October 19, followed by the 27th TP AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 09, 2026</title><link href="https://asiatechfeed.com/2026/10/09/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 09, 2026" /><published>2026-10-09T08:00:46+00:00</published><updated>2026-10-09T08:00:46+00:00</updated><id>https://asiatechfeed.com/2026/10/09/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/09/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals</span></td>
-  <td class="col-summary">Nine South Korean banks and two mega-churches are probing cyberattacks that may have involved AI tools, while Japanese companies including Daiwa Securities, SoftBank and the Lawson convenience store chain have been hit by a recent surge in cyber incidents.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/south-korea-japan-hacks-cyberattack-ai-6445141" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Around 500 new jobs to be created as ST Engineering opens new aircraft maintenance facility</span></td>
-  <td class="col-summary">The Changi Creek facility will use drones and autonomous mobile robots to support operations.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/airplane-maintenance-aviation-st-engineering-6445166" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">SK's Chey vows to build Gwangju chip plants as fast as possible, no start date set</span></td>
-  <td class="col-summary">SK's Chey vows to build Gwangju chip plants as fast as possible, no start date set</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/sks-chey-vows-build-gwangju-chip-plants-fast-possible-no-start-date-set-6445336" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">EY revenue hits $57b, AI services up 49%</span></td>
-  <td class="col-summary">The firm said revenue from AI services rose 49% in FY2026.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropic-eyes-2t-valuation-ipo-filing-reveals-costs" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Applied Materials, Intel target AI chip bottlenecks with interconnect scaling and Foveros 3D</span></td>
-  <td class="col-summary">AI chip manufacturing demands are accelerating development of advanced logic and packaging technologies, prompting Applied Materials and Intel to expand their collaboration on next-generation transistors, interconnects, and advanced packaging.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261007PD242/applied-materials-intel-ai-chip-manufacturing-development.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Innodisk, Apacer post September 2026 revenue growth on AI demand</span></td>
-  <td class="col-summary">Memory module makers Innodisk and Apacer both reported year-over-year and month-over-month revenue growth for September 2026, supported by steady demand from industrial control, edge computing and AI smart connectivity applications. Their cumulative revenue for the first three quarters of the year also set strong growt</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261007PD243/apacer-innodisk-memory-module-revenue-demand-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Advantech tops US$1 billion in third-quarter revenue as edge AI orders climb</span></td>
-  <td class="col-summary">Advantech reported on October 7 that third-quarter consolidated revenue reached NT$32.44 billion (approx. US$1.02 billion), a record high as demand for edge AI, semiconductor equipment, and robotics stayed strong. September consolidated revenue rose to NT$10.749 billion, up 73.14% year-over-year, while cumulative reven</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261007PD245/advantech-revenue-growth-2026-taiwan.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Australian AI firm Firmus withdraws planned IPO</span></td>
-  <td class="col-summary">Firmus had aimed to raise US$5 billion at A$11 (US$7.7) a share.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidiabacked-ai-firm-firmus-secures-2b-commitments" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Alibaba AI cloud revenue seen up over 50%</span></td>
-  <td class="col-summary">Alibaba Cloud said in May 2026 that its cloud revenue growth had risen to 40%.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-executives-buy-15m-shares-85-drop" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Editor's Choice: Has the AI race reached its speed limit?</span></td>
-  <td class="col-summary">Editor's Choice: Has the AI race reached its speed limit?</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-has-the-ai-race-reached-its-speed-limit" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals Nine South Korean banks and two mega-churches are probing cyberattacks that may have involved AI tools, while Japanese companies including Daiwa Securities, SoftBank and the Lawson convenience store chain have been hit by a recent surge in cyber incidents. AI Read 2 CNA Around 500 new jobs to be created as ST Engineering opens new aircraft maintenance facility The Changi Creek facility will use drones and autonomous mobile robots to support operations. Automation Read 3 CNA SK's Chey vows to build Gwangju chip plants as fast as possible, no start date set SK's Chey vows to build Gwangju chip plants as fast as possible, no start date set Semiconductor Read 4 TechAsia EY revenue hits $57b, AI services up 49% The firm said revenue from AI services rose 49% in FY2026. AI Read 5 DigiTimes Applied Materials, Intel target AI chip bottlenecks with interconnect scaling and Foveros 3D AI chip manufacturing demands are accelerating development of advanced logic and packaging technologies, prompting Applied Materials and Intel to expand their collaboration on next-generation transistors, interconnects, and advanced packaging. AISemiconductor Read 6 DigiTimes Innodisk, Apacer post September 2026 revenue growth on AI demand Memory module makers Innodisk and Apacer both reported year-over-year and month-over-month revenue growth for September 2026, supported by steady demand from industrial control, edge computing and AI smart connectivity applications. Their cumulative revenue for the first three quarters of the year also set strong growt AI Read 7 DigiTimes Advantech tops US$1 billion in third-quarter revenue as edge AI orders climb Advantech reported on October 7 that third-quarter consolidated revenue reached NT$32.44 billion (approx. US$1.02 billion), a record high as demand for edge AI, semiconductor equipment, and robotics stayed strong. September consolidated revenue rose to NT$10.749 billion, up 73.14% year-over-year, while cumulative reven SemiconductorAIAutomation Read 8 TechAsia Australian AI firm Firmus withdraws planned IPO Firmus had aimed to raise US$5 billion at A$11 (US$7.7) a share. AI Read 9 TechAsia Alibaba AI cloud revenue seen up over 50% Alibaba Cloud said in May 2026 that its cloud revenue growth had risen to 40%. AI Read 10 NikkeiAsia Editor's Choice: Has the AI race reached its speed limit? Editor's Choice: Has the AI race reached its speed limit? AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Phison posts record September revenue as AI tops half of sales Phison Electronics reported record September consolidated revenue of NT$30.639 billion (US$959 million), up 8% from August and 370% from a year earlier. The Taiwanese storage chipmaker said AI-related applications accounted for more than 50% of total revenue, underscoring how demand is expanding across storage, computi ElectronicsAISemiconductor Read 2 DigiTimes Zhen Ding posts record September sales on mobile demand and AI applications Zhen Ding Technology said September 2026 consolidated revenue reached NT$26.358 billion (US$825.13 million), up 36.13% year over year and 27.54% from August, setting a monthly record. The PCB maker said the result reflected strong orders from mobile communications products as well as continued growth in its server, opt AIElectronics Read 3 DigiTimes TPCA Show 2026 to spotlight AI computing, Unimicron chair keynote As explosive AI computing demand drives hardware architecture change, Taiwan Printed Circuit Association (TPCA) is set to open its annual flagship event, with the 21st International Microsystems, Packaging, Assembly and Circuits Technology Conference (IMPACT-IAAC 2026) kicking off on October 19, followed by the 27th TP AI Read]]></summary></entry></feed>
