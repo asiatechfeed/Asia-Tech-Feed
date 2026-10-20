@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-19T13:01:07+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 19, 2026</title><link href="https://asiatechfeed.com/2026/10/19/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 19, 2026" /><published>2026-10-19T08:00:50+00:00</published><updated>2026-10-19T08:00:50+00:00</updated><id>https://asiatechfeed.com/2026/10/19/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/19/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-20T00:02:18+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 20, 2026</title><link href="https://asiatechfeed.com/2026/10/20/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 20, 2026" /><published>2026-10-20T00:01:39+00:00</published><updated>2026-10-20T00:01:39+00:00</updated><id>https://asiatechfeed.com/2026/10/20/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/20/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">DIGITIMES Insight: AI packaging power reaches kilowatt scale as thermal design moves toward the die</span></td>
+  <td class="col-summary">Generative AI is pushing chip power consumption and heat flux to unprecedented levels, driving AI packaging thermal management requirements from several hundred watts to the kilowatt (kW) scale. Heat sink specialist Jentech Precision points out that package lids are evolving beyond conventional solid-state heat conduct</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261019PD243/packaging-design-genai-cooling-copper.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwanese server makers deepen Mexico investments amid US AI spending boom</span></td>
+  <td class="col-summary">Taiwanese electronics makers are deepening their presence in Mexico's Chihuahua state, drawn by surging US demand for AI servers, officials and business leaders told a seminar in Taipei on October 19. The pace of foreign investment is driven by the state's access to the US market, even as Chihuahua seeks to transition </td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261019VL214/mexico-electronics-exports-investment-development.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">SK Hynix moves AI data centers from processor-centric to memory-centric design</span></td>
+  <td class="col-summary">SK Hynix has presented the Memory-Centric AI Rack System (MARS) at the Open Compute Project (OCP) Global Summit. The architecture separates memory from individual servers and pools it at the rack level over Compute Express Link (CXL) fabrics. The company says this addresses the capacity and cost limits that are constra</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261019VL213/sk-hynix-data-center-capacity-cxl-gpu.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Think you can spot a fake? 5 ways online deception works in the age of AI</span></td>
+  <td class="col-summary">Think you can spot a fake? 5 ways online deception works in the age of AI</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/interactive/ai-fake-videos-scam-quiz/%2E" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Germany's Merz urges AI investment ahead of Nvidia deal</span></td>
+  <td class="col-summary">Germany's Merz urges AI investment ahead of Nvidia deal</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/germanys-merz-urges-ai-investment-ahead-nvidia-deal-6473446" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says</span></td>
+  <td class="col-summary">Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/nvidia-backed-nscale-anthropic-in-talks-new-45-billion-ai-cloud-deal-source-says-6473376" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">China’s iFlytek Q3 revenue grows 8% as AI spending rises</span></td>
+  <td class="col-summary">iFLYTEK's smart education and healthcare businesses each grew more than 20% in the third quarter.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/china-launches-global-ai-education-platform" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Unitree Robotics shares jump 17%, market value hits $30b</span></td>
+  <td class="col-summary">Unitree reported first-half 2026 revenue of 1.2 billion yuan (US$172 million).</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinese-robotics-firm-unitree-finishes-preipo-preparations" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Tracking AI hiring in Singapore: OpenAI, Anthropic, and more</span></td>
+  <td class="col-summary">AI firms keep talking about Singapore. Their hiring data reveals who’s truly expanding in the region.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/openai-anthropic-hiring-singapore" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Toyota, Honda resume Thai production after floods as supply chains come back</span></td>
+  <td class="col-summary">Toyota, Honda resume Thai production after floods as supply chains come back</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/automobiles/toyota-honda-resume-thai-production-after-floods-as-supply-chains-come-back" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">China's DeepSeek debuts improved low-cost AI as tech doubts swirl</span></td>
+  <td class="col-summary">China's DeepSeek debuts improved low-cost AI as tech doubts swirl</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-debuts-improved-low-cost-ai-as-tech-doubts-swirl" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes DIGITIMES Insight: AI packaging power reaches kilowatt scale as thermal design moves toward the die Generative AI is pushing chip power consumption and heat flux to unprecedented levels, driving AI packaging thermal management requirements from several hundred watts to the kilowatt (kW) scale. Heat sink specialist Jentech Precision points out that package lids are evolving beyond conventional solid-state heat conduct AISemiconductor Read 2 DigiTimes Taiwanese server makers deepen Mexico investments amid US AI spending boom Taiwanese electronics makers are deepening their presence in Mexico's Chihuahua state, drawn by surging US demand for AI servers, officials and business leaders told a seminar in Taipei on October 19. The pace of foreign investment is driven by the state's access to the US market, even as Chihuahua seeks to transition ElectronicsAI Read 3 DigiTimes SK Hynix moves AI data centers from processor-centric to memory-centric design SK Hynix has presented the Memory-Centric AI Rack System (MARS) at the Open Compute Project (OCP) Global Summit. The architecture separates memory from individual servers and pools it at the rack level over Compute Express Link (CXL) fabrics. The company says this addresses the capacity and cost limits that are constra AISemiconductor Read 4 CNA Think you can spot a fake? 5 ways online deception works in the age of AI Think you can spot a fake? 5 ways online deception works in the age of AI AI Read 5 CNA Germany's Merz urges AI investment ahead of Nvidia deal Germany's Merz urges AI investment ahead of Nvidia deal AI Read 6 CNA Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says AI Read 7 TechAsia China’s iFlytek Q3 revenue grows 8% as AI spending rises iFLYTEK's smart education and healthcare businesses each grew more than 20% in the third quarter. AI Read 8 TechAsia Unitree Robotics shares jump 17%, market value hits $30b Unitree reported first-half 2026 revenue of 1.2 billion yuan (US$172 million). Automation Read 9 TechAsia Tracking AI hiring in Singapore: OpenAI, Anthropic, and more AI firms keep talking about Singapore. Their hiring data reveals who’s truly expanding in the region. AI Read 10 NikkeiAsia Toyota, Honda resume Thai production after floods as supply chains come back Toyota, Honda resume Thai production after floods as supply chains come back Logistics Read 11 NikkeiAsia China's DeepSeek debuts improved low-cost AI as tech doubts swirl China's DeepSeek debuts improved low-cost AI as tech doubts swirl AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 19, 2026</title><link href="https://asiatechfeed.com/2026/10/19/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 19, 2026" /><published>2026-10-19T08:00:50+00:00</published><updated>2026-10-19T08:00:50+00:00</updated><id>https://asiatechfeed.com/2026/10/19/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/19/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -611,41 +712,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008PD210/taiwan-technology-cost-component-semiconductors.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Vicor widens AI server power patent fight, seeking new US import ban on Foxconn, Quanta and Delta Vicor Corporation is trying for the second time this year to get AI server power hardware from Taiwan's largest server makers barred from the US. It has won such a ban before. AI Read 2 DigiTimes Everlight Chemical September revenue rises on strong electronic chemicals demand Everlight Chemical reported higher September and year-to-date revenue, with electronic chemicals driving most of the growth. The results suggest continued resilience in industrial and specialty materials demand, a trend relevant to global manufacturers, supply chains, and investors watching Asian chemical producers ami Logistics Read 3 DigiTimes System integration emerges as Taiwan's next drone industry edge for defense scale-up As defense technology and unmanned vehicles increasingly extend beyond traditional defense industries into the ICT and semiconductor sectors, Taiwan's manufacturers are being urged to go beyond the role of component suppliers and strengthen their system integration (SI) capabilities. That was the message from Lo Cheng- Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 10, 2026</title><link href="https://asiatechfeed.com/2026/10/10/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 10, 2026" /><published>2026-10-10T08:00:52+00:00</published><updated>2026-10-10T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/10/10/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/10/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Phison posts record September revenue as AI tops half of sales</span></td>
-  <td class="col-summary">Phison Electronics reported record September consolidated revenue of NT$30.639 billion (US$959 million), up 8% from August and 370% from a year earlier. The Taiwanese storage chipmaker said AI-related applications accounted for more than 50% of total revenue, underscoring how demand is expanding across storage, computi</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008PD250/phison-revenue-demand-data-medical.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Zhen Ding posts record September sales on mobile demand and AI applications</span></td>
-  <td class="col-summary">Zhen Ding Technology said September 2026 consolidated revenue reached NT$26.358 billion (US$825.13 million), up 36.13% year over year and 27.54% from August, setting a monthly record. The PCB maker said the result reflected strong orders from mobile communications products as well as continued growth in its server, opt</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008PD249/zhen-ding-revenue-mobile-2026-communications.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TPCA Show 2026 to spotlight AI computing, Unimicron chair keynote</span></td>
-  <td class="col-summary">As explosive AI computing demand drives hardware architecture change, Taiwan Printed Circuit Association (TPCA) is set to open its annual flagship event, with the 21st International Microsystems, Packaging, Assembly and Circuits Technology Conference (IMPACT-IAAC 2026) kicking off on October 19, followed by the 27th TP</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261008PD253/tpca-2026-unimicron-demand-hardware.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Phison posts record September revenue as AI tops half of sales Phison Electronics reported record September consolidated revenue of NT$30.639 billion (US$959 million), up 8% from August and 370% from a year earlier. The Taiwanese storage chipmaker said AI-related applications accounted for more than 50% of total revenue, underscoring how demand is expanding across storage, computi ElectronicsAISemiconductor Read 2 DigiTimes Zhen Ding posts record September sales on mobile demand and AI applications Zhen Ding Technology said September 2026 consolidated revenue reached NT$26.358 billion (US$825.13 million), up 36.13% year over year and 27.54% from August, setting a monthly record. The PCB maker said the result reflected strong orders from mobile communications products as well as continued growth in its server, opt AIElectronics Read 3 DigiTimes TPCA Show 2026 to spotlight AI computing, Unimicron chair keynote As explosive AI computing demand drives hardware architecture change, Taiwan Printed Circuit Association (TPCA) is set to open its annual flagship event, with the 21st International Microsystems, Packaging, Assembly and Circuits Technology Conference (IMPACT-IAAC 2026) kicking off on October 19, followed by the 27th TP AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Vicor widens AI server power patent fight, seeking new US import ban on Foxconn, Quanta and Delta Vicor Corporation is trying for the second time this year to get AI server power hardware from Taiwan's largest server makers barred from the US. It has won such a ban before. AI Read 2 DigiTimes Everlight Chemical September revenue rises on strong electronic chemicals demand Everlight Chemical reported higher September and year-to-date revenue, with electronic chemicals driving most of the growth. The results suggest continued resilience in industrial and specialty materials demand, a trend relevant to global manufacturers, supply chains, and investors watching Asian chemical producers ami Logistics Read 3 DigiTimes System integration emerges as Taiwan's next drone industry edge for defense scale-up As defense technology and unmanned vehicles increasingly extend beyond traditional defense industries into the ICT and semiconductor sectors, Taiwan's manufacturers are being urged to go beyond the role of component suppliers and strengthen their system integration (SI) capabilities. That was the message from Lo Cheng- Semiconductor Read]]></summary></entry></feed>
