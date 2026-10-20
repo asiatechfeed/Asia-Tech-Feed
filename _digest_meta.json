@@ -1,38 +1,38 @@
 {
-  "date": "2026-10-19",
-  "count": 7,
+  "date": "2026-10-20",
+  "count": 11,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-10-19-asia-tech-news-digest.md",
+  "post_file": "2026-10-20-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Turning orange peels into battery materials",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/turning-orange-peels-battery-materials"
-    },
-    {
-      "title": "From LCD powerhouse to AI enabler: Taiwan's display industry reinvents itself after 30 turbulent years",
+      "title": "DIGITIMES Insight: AI packaging power reaches kilowatt scale as thermal design moves toward the die",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261019PD224/auo-innolux-display-lcd-manufacturing-ic-packaging-taiwan.html"
+      "url": "https://www.digitimes.com/news/a20261019PD243/packaging-design-genai-cooling-copper.html"
     },
     {
-      "title": "SiC powering the future: market scaling meets IDM synergies",
+      "title": "Taiwanese server makers deepen Mexico investments amid US AI spending boom",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261019VL211/sic-silicon-market-data-center-industrial.html"
+      "url": "https://www.digitimes.com/news/a20261019VL214/mexico-electronics-exports-investment-development.html"
     },
     {
-      "title": "Sanan Optoelectronics faces corp governance turmoil amid Micro LED breakthroughs",
+      "title": "SK Hynix moves AI data centers from processor-centric to memory-centric design",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261019VL207/sanan-optoelectronics-governance-market-xiamen-display.html"
+      "url": "https://www.digitimes.com/news/a20261019VL213/sk-hynix-data-center-capacity-cxl-gpu.html"
     },
     {
-      "title": "OpenAI, Moderna expand AI use in drug development",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-buys-biotech-startup-coefficient-bio-400m"
+      "title": "Think you can spot a fake? 5 ways online deception works in the age of AI",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/interactive/ai-fake-videos-scam-quiz/%2E"
+    },
+    {
+      "title": "Germany's Merz urges AI investment ahead of Nvidia deal",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/germanys-merz-urges-ai-investment-ahead-nvidia-deal-6473446"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -148,7 +148,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 6,
+      "relevant": 4,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -156,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 56,
-      "relevant": 44,
+      "fetched": 35,
+      "relevant": 23,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -177,7 +177,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -193,9 +193,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 11,
+      "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
