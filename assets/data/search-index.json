@@ -1,92 +1,93 @@
 [
   {
     "date": "2026-10-20",
-    "title": "AI substrate bottleneck shifts from design to manufacturing",
-    "summary": "AI computing is pushing packaging density to its limits, with accelerator substrates expected to exceed 100x100mm and expand beyond 120x120mm within the next three to five years. As substrate sizes, layer counts, I/O and power requirements rise, the industry's key bottleneck is shifting from design capabilities to manu",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261020PD226/substrate-packaging-manufacturing-accelerator-capacity.html"
-  },
-  {
-    "date": "2026-10-20",
-    "title": "The truth about AI language models: No one wants to pay for them",
-    "summary": "Local languages were meant to be Asian AI labs’ edge over Big Tech, but numbers show otherwise, leaving many to rely on philanthropy and CSR efforts.",
+    "title": "SoftBank credit risk highest since 2022 on AI worries",
+    "summary": "The rise came as investors worried about AI funding needs and a possible acquisition of Allied Universal.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/truth-ai-language-models-pay"
+    "url": "https://www.techinasia.com/softbanks-credit-risk-rises-as-openai-exposure-grows"
   },
   {
     "date": "2026-10-20",
-    "title": "Nscale set to lose Microsoft as anchor tenant over UK power delays, adding uncertainty to IPO",
-    "summary": "UK neocloud provider Nscale is set to lose Microsoft as the anchor tenant at its Loughton data center in Essex, after delays in power availability disrupted plans to support AI computing services. The UK's National Grid reportedly told Nscale that sufficient electricity for the site may not be available until after 203",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261020PD225/microsoft-uk-ipo-data-center-competition.html"
-  },
-  {
-    "date": "2026-10-20",
-    "title": "Cloudflare expands AI workspace integrations for enterprises",
-    "summary": "The new integrations include Asana, Box, Canva, ClickHouse, GitHub, Gong, Notion, and ZoomInfo.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/cloudflare-teams-google-clouds-wiz-ai-security"
-  },
-  {
-    "date": "2026-10-20",
-    "title": "China's S2C–HyperSilicon merger targets hardware emulation gap in domestic EDA with Empyrean backing",
-    "summary": "China's electronic design automation (EDA) industry is consolidating, with Shanghai-based S2C and Wuxi-based HyperSilicon merging into a unified digital front-end EDA platform. Backed by Empyrean Technology and other investors, the deal aims to strengthen domestic capabilities in hardware emulation, chip verification, ",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Automation",
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261020VL212/eda-hardware-merger-design-automation.html"
-  },
-  {
-    "date": "2026-10-20",
-    "title": "65% of Singapore entrepreneurs retool for AI: HSBC",
-    "summary": "In Singapore, 56% of respondents expect AI to increase headcount over the next two years.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/hsbc-expands-ai-partnership-google-cloud"
-  },
-  {
-    "date": "2026-10-20",
-    "title": "Asian shares tumble, oil rises as markets await AI sector results",
-    "summary": "Asian shares tumble, oil rises as markets await AI sector results",
+    "title": "Half of OVHcloud capacity is available, AI model launching in early 2027, CEO says",
+    "summary": "Half of OVHcloud capacity is available, AI model launching in early 2027, CEO says",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/asian-shares-tumble-oil-rises-markets-await-ai-sector-results-6474216"
+    "url": "https://www.channelnewsasia.com/business/half-ovhcloud-capacity-available-ai-model-launching-in-early-2027-ceo-says-6474791"
   },
   {
     "date": "2026-10-20",
-    "title": "How SoftBank plans to power its AI ambitions",
-    "summary": "How SoftBank plans to power its AI ambitions",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "AI servers drive TVS and ESD demand for Yea Shin Tech",
+    "summary": "AI servers are driving demand for power components, transient voltage suppressors (TVS), and electrostatic discharge (ESD) protection devices. Yea Shin Technology, a subsidiary of Eris Technology, will begin trading on Taiwan's emerging stock market on October 23 and plans to raise the share of 6-inch wafers in its cap",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261020PD239/demand-esd-capacity-power-components-eris-tech.html"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Thermaltake expands AI workstation lineup on edge AI demand",
+    "summary": "Thermaltake is targeting the growing edge AI market with a new workstation lineup. Chairman Kenny Lin said the company has transformed from a gaming components maker into an AI PC and workstation systems provider. The company plans to launch three product lines in the second half of 2026 and aims for AI-related product",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/how-softbank-plans-to-power-its-ai-ambitions"
+    "url": "https://www.digitimes.com/news/a20261020PD232/thermaltake-workstation-gaming-market-revenue.html"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Samsung's HBM4 supply lock-in exposes limits of China's CXMT as Apple and Tesla seek DRAM alternatives",
+    "summary": "Samsung Electronics is expected to enter 2027 with approximately 80% of its planned memory production secured under long-term contracts, reinforcing its pricing position while China's ChangXin Memory Technologies (CXMT) expands capacity and attracts attention from US tech companies seeking alternative DRAM suppliers.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261020VL218/samsung-cxmt-dram-hbm4.html"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Chinese AI tool behind cyberattacks in Japan: Security firm",
+    "summary": "Chinese AI tool behind cyberattacks in Japan: Security firm",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/east-asia/china-ai-tool-artex-japan-cyberattack-6474611"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Alibaba says XuanTie chip shipments top 6 billion",
+    "summary": "The figure appeared to cover cumulative shipments, though it was unclear whether it included chips made by Alibaba’s partners.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/alibabas-capex-spike-story-investors"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Nvidia wins CPU deal with AI cloud startup Modal",
+    "summary": "Nvidia says Vera is a next-generation data center CPU for AI factories, extending its push beyond graphics processing units (GPUs).",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/nvidias-20b-groq-deal-faces-suit-skipped-vote"
   },
   {
     "date": "2026-10-19",

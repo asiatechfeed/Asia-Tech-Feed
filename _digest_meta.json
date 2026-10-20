@@ -4,35 +4,34 @@
   "sources": [
     "CNA",
     "DigiTimes",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-20-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "AI substrate bottleneck shifts from design to manufacturing",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261020PD226/substrate-packaging-manufacturing-accelerator-capacity.html"
-    },
-    {
-      "title": "The truth about AI language models: No one wants to pay for them",
+      "title": "SoftBank credit risk highest since 2022 on AI worries",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/truth-ai-language-models-pay"
+      "url": "https://www.techinasia.com/softbanks-credit-risk-rises-as-openai-exposure-grows"
     },
     {
-      "title": "Nscale set to lose Microsoft as anchor tenant over UK power delays, adding uncertainty to IPO",
+      "title": "Half of OVHcloud capacity is available, AI model launching in early 2027, CEO says",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/half-ovhcloud-capacity-available-ai-model-launching-in-early-2027-ceo-says-6474791"
+    },
+    {
+      "title": "AI servers drive TVS and ESD demand for Yea Shin Tech",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261020PD225/microsoft-uk-ipo-data-center-competition.html"
+      "url": "https://www.digitimes.com/news/a20261020PD239/demand-esd-capacity-power-components-eris-tech.html"
     },
     {
-      "title": "Cloudflare expands AI workspace integrations for enterprises",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/cloudflare-teams-google-clouds-wiz-ai-security"
-    },
-    {
-      "title": "China's S2C\u2013HyperSilicon merger targets hardware emulation gap in domestic EDA with Empyrean backing",
+      "title": "Thermaltake expands AI workstation lineup on edge AI demand",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261020VL212/eda-hardware-merger-design-automation.html"
+      "url": "https://www.digitimes.com/news/a20261020PD232/thermaltake-workstation-gaming-market-revenue.html"
+    },
+    {
+      "title": "Samsung's HBM4 supply lock-in exposes limits of China's CXMT as Apple and Tesla seek DRAM alternatives",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261020VL218/samsung-cxmt-dram-hbm4.html"
     }
   ],
   "source_stats": [
@@ -49,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -156,8 +155,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 49,
-      "relevant": 35,
+      "fetched": 63,
+      "relevant": 45,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +167,7 @@
       "fetched": 50,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -193,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 11,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
