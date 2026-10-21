@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - October 21, 2026"
-date: 2026-10-21 12:21:37 +0800
-articles_count: 13
-sources_count: 6
-sources: ["CNA", "DigiTimes", "EETAsia", "KED", "NikkeiAsia", "TechAsia"]
+date: 2026-10-21 16:00:54 +0800
+articles_count: 7
+sources_count: 3
+sources: ["DigiTimes", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-10-21.tsv
-featured_title: "More than S$45 million set aside to help Singapore manufacturers adopt AI"
-featured_url: "https://www.channelnewsasia.com/singapore/singapore-manufacturer-ai-adoption-45-million-6477566"
-featured_source: "CNA"
-featured_summary: "SMEs will be able to tap ready-to-deploy AI tools for areas such as product design, production scheduling and predictive maintenance."
-featured_image: "https://dam.mediacorp.sg/image/upload/s--fohu14N7--/c_crop,h_450,w_800,x_0,y_72/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-09-01t030630z_1_lynxmpel800l3_rtroptp_3_asia-renewables.jpg?itok=2GWxx0VB"
+featured_title: "Building a smarter workflow for short-form video creators"
+featured_url: "https://www.techinasia.com/building-smarter-workflow-shortform-video-creators"
+featured_source: "TechAsia"
+featured_summary: "With over 30,000 paying customers, Verba is scaling a profitable AI platform that structures raw video into polished content."
+featured_image: ""
 ---
 
 <table class="news-table">
@@ -27,107 +27,59 @@ featured_image: "https://dam.mediacorp.sg/image/upload/s--fohu14N7--/c_crop,h_45
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">More than S$45 million set aside to help Singapore manufacturers adopt AI</span></td>
-  <td class="col-summary">SMEs will be able to tap ready-to-deploy AI tools for areas such as product design, production scheduling and predictive maintenance.</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Building a smarter workflow for short-form video creators</span></td>
+  <td class="col-summary">With over 30,000 paying customers, Verba is scaling a profitable AI platform that structures raw video into polished content.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/singapore-manufacturer-ai-adoption-45-million-6477566" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/building-smarter-workflow-shortform-video-creators" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AMEC seeks South Korean foothold through MOCVD trials with SK Keyfoundry, Magnachip</span></td>
-  <td class="col-summary">AMEC is seeking an entry into South Korea's power semiconductor market through MOCVD equipment trials with SK Keyfoundry and Magnachip. The Chinese equipment supplier holds a large share of its domestic MOCVD market but remains unable to supply Samsung Electronics' and SK Hynix's South Korean fabs.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261021PD224/amec-mocvd-equipment-sk-hynix.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">China launches state-owned data group as market-facing arm of its AI infrastructure push</span></td>
+  <td class="col-summary">China has established a new state-owned enterprise, National Data Group, headquartered in Xiong'an, Hebei province. Ding Xuexiang, a vice-premier of the State Council, attended its inauguration on October 20.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261021PD244/beijing-infrastructure-data-technology-telecom.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Chinese nickel producers weigh coordinated HPAL cuts in Indonesia</span></td>
-  <td class="col-summary">Executives from Chinese nickel producers plan to meet as early as October 20 to seek coordinated production cuts at Indonesian processing plants as weaker prices and rising costs pressure margins. The talks could affect global nickel and battery supply chains, but their timing and outcome remain uncertain amid ongoing </td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261021PD216/nickel-production-policy-government.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">PCB material shortages persist as capacity expansion extends beyond 2029</span></td>
+  <td class="col-summary">Rapid advances in AI and high-performance computing (HPC) are driving printed circuit boards (PCBs) toward higher layer counts, greater density, and higher-performance materials, triggering an open-ended shortage of upstream materials and equipment. Key suppliers of copper-clad laminates (CCL), copper foil and drill bi</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261021PD229/pcb-materials-capacity-expansion-hpc-ccl.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition</span></td>
-  <td class="col-summary">Growing demand for AI servers, advanced packaging, and data centers is reviving interest in idle LCD plants, with companies acquiring and converting existing sites into semiconductor packaging substrate lines, advanced packaging facilities, and AI computing hubs. LG Innotek is reportedly evaluating the acquisition of a</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261021PD232/lcd-acquisition-packaging-plant-demand.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Singapore health AI startup Genie Health raises $3m seed</span></td>
+  <td class="col-summary">The startup's free app stores health records; its SmartCare tool helps clinics book follow-ups.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/carro-switches-gears-indonesia-focus-shifts-cars" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">China defends DeepSeek after US ban of its AI from government systems</span></td>
-  <td class="col-summary">Federal civilian agencies should remove DeepSeek products as well as third-party products and services developed using DeepSeek from their IT systems, the US Department of Homeland Security said.</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Zoom plans AI controls, compliance tools for enterprises</span></td>
+  <td class="col-summary">In 2024, a Hong Kong finance worker paid US$25m after a video call with deepfaked executives.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/china-deepseek-us-ban-ai-government-systems-6477686" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/zoom-rolls-free-ai-tools-meetings-documents" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">DigiKey Now Stocking Synaptics Coralboard Edge AI Dev Board</span></td>
-  <td class="col-summary">Coralboard offers a practical starting point for rapid prototyping, product evaluation, and production-oriented edge AI development. The post DigiKey Now Stocking Synaptics Coralboard Edge AI Dev Board appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/digikey-now-stocking-synaptics-coralboard-edge-ai-dev-board/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwan PCB output set to top NT$1 trillion as VP touts AI opportunity</span></td>
+  <td class="col-summary">The 27th Taiwan Printed Circuit Industry International Exhibition (TPCA Show 2026) opened in Nangang on October 20, with Vice President Hsiao Bi-khim calling on the PCB industry to seize opportunities created by the AI boom. Taiwan's PCB industry is expected to generate more than NT$1 trillion in output for the first t</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Electronics</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261021PD205/taiwan-pcb-2026-tpca-materials.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">OpenAI says its AI agents weakened internal monitoring system</span></td>
-  <td class="col-summary">OpenAI says its AI agents weakened internal monitoring system</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/openai-says-its-ai-agents-weakened-internal-monitoring-system-6477621" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Broadcom-TOPPAN JV Opens Singapore FC-BGA Substrate Facility for AI Chip Production</span></td>
-  <td class="col-summary">AST's 95,000-square-meter plant will produce large-body, high-layer-count substrates for AI computing and networking chips. The post Broadcom-TOPPAN JV Opens Singapore FC-BGA Substrate Facility for AI Chip Production appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/broadcom-toppan-jv-opens-singapore-fc-bga-substrate-facility-for-ai-chip-production/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Who pays for AI in your language?</span></td>
-  <td class="col-summary">Can Asia’s local-language AI models become viable businesses? Plus: South Korea’s robotics push and an interview with TorqueAGI’s founder.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/who-pays-for-ai-in-your-language" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">MoneySmart grows revenue by 26% in 2025, but AI threatens margins</span></td>
-  <td class="col-summary">With AI eating web traffic on search engines, MoneySmart faces a challenge. But the financial comparison site has new products up its sleeve.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/moneysmart-grows-revenue-26-2025-ai-threatens-margins" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SBI’s big stablecoin bet in SEA</span></td>
-  <td class="col-summary">We unpack SBI’s fintech acquisitions in the region, AI giants’ hunt for talent in Singapore, and GCash’s stock market debut.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sbis-big-stablecoin-bet-in-sea" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Vietnam security ministry seeks Samsung's help on AI and chips</span></td>
-  <td class="col-summary">Vietnam security ministry seeks Samsung's help on AI and chips</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/electronics/vietnam-security-ministry-seeks-samsung-s-help-on-ai-and-chips" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">13</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">AI trade isn’t just about tech stocks but also power, TCW says</span></td>
-  <td class="col-summary">The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Cybersecurity companies urge Indonesia to boost AI talent</span></td>
+  <td class="col-summary">Cybersecurity companies urge Indonesia to boost AI talent</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/cybersecurity/cybersecurity-companies-urge-indonesia-to-boost-ai-talent" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
