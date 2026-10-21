@@ -1,37 +1,38 @@
 {
-  "date": "2026-10-20",
-  "count": 8,
+  "date": "2026-10-21",
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-10-20-asia-tech-news-digest.md",
+  "post_file": "2026-10-21-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "SoftBank credit risk highest since 2022 on AI worries",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/softbanks-credit-risk-rises-as-openai-exposure-grows"
-    },
-    {
-      "title": "Half of OVHcloud capacity is available, AI model launching in early 2027, CEO says",
+      "title": "Commentary: Apple\u2019s iPhone factories won\u2019t make India the next China",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/half-ovhcloud-capacity-available-ai-model-launching-in-early-2027-ceo-says-6474791"
+      "url": "https://www.channelnewsasia.com/commentary/apple-iphone-india-china-supply-chain-6475156"
     },
     {
-      "title": "AI servers drive TVS and ESD demand for Yea Shin Tech",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261020PD239/demand-esd-capacity-power-components-eris-tech.html"
+      "title": "Super Micro sees quarterly revenue soaring on AI server boom",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/super-micro-sees-quarterly-revenue-soaring-ai-server-boom-6476781"
     },
     {
-      "title": "Thermaltake expands AI workstation lineup on edge AI demand",
+      "title": "AI infrastructure faces four hurdles: Power, construction, technology, funding",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261020PD232/thermaltake-workstation-gaming-market-revenue.html"
+      "url": "https://www.digitimes.com/news/a20261020PD238/funding-semicon-west-2026-infrastructure-outlook.html"
     },
     {
-      "title": "Samsung's HBM4 supply lock-in exposes limits of China's CXMT as Apple and Tesla seek DRAM alternatives",
+      "title": "Musk and Anthropic test rival models for sharing AI wealth with the public",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261020VL218/samsung-cxmt-dram-hbm4.html"
+      "url": "https://www.digitimes.com/news/a20261020VL217/anthropic-spacex-technology-infrastructure.html"
+    },
+    {
+      "title": "Mapping China\u2019s biotech titans",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/visual-story/mapping-chinas-biotech-titans"
     }
   ],
   "source_stats": [
@@ -128,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -155,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 63,
-      "relevant": 45,
+      "fetched": 35,
+      "relevant": 27,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -192,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 11,
+      "relevant": 12,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
