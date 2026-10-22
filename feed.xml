@@ -1,4 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-21T08:01:30+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 21, 2026</title><link href="https://asiatechfeed.com/2026/10/21/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 21, 2026" /><published>2026-10-21T08:00:54+00:00</published><updated>2026-10-21T08:00:54+00:00</updated><id>https://asiatechfeed.com/2026/10/21/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/21/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-22T00:03:34+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 22, 2026</title><link href="https://asiatechfeed.com/2026/10/22/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 22, 2026" /><published>2026-10-22T00:02:56+00:00</published><updated>2026-10-22T00:02:56+00:00</updated><id>https://asiatechfeed.com/2026/10/22/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/22/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Nvidia pitches factory-built AI data centers and hardware-enforced agent controls at GTC Berlin</span></td>
+  <td class="col-summary">Nvidia used its GTC Berlin keynote on October 21 to argue that AI's bottlenecks now lie in deployment speed, power, and security rather than silicon, unveiling reference designs and software that extend its reach from GPUs to how entire AI factories are built and run.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261022VL204.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Tesla's car margins recover, but spending on AI and robotics absorbs the gain</span></td>
+  <td class="col-summary">Tesla's third quarter showed its vehicle business regaining some per-car profitability even as total sales stalled, while the company's push into AI, robotaxis, and humanoid robots consumed most of the improvement. Revenue was roughly flat year on year at US$28.05 billion for the quarter ended September 30, 2026, and o</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261022PR200/tesla-business-vehicle-sales-profit.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Chief Telecom's CTSP AI data center bookings exceed 50%</span></td>
+  <td class="col-summary">Chief Telecom has begun construction of its new AI data center in the Huwei section of the Central Taiwan Science Park (CTSP), with an investment of NT$3.3 billion (US$101.8 million). Chairman Jerry Shao said the facility's reservation and contract rate has exceeded 50%, with international cloud service providers (CSPs</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261021PD254/chief-telecom-data-center-ctsp-cht-data.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: Rogue Chinese AI really wants to go to the zoo. That’s a problem</span></td>
+  <td class="col-summary">AI firms need to invest more in discovering, tracking and - most importantly - disclosing what their agents are up to, says Catherine Thorbecke for Bloomberg Opinion.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/rogue-chinese-ai-agent-chengdu-zoo-tencent-6478346" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Walmart launches tools for AI agents to shop for customers</span></td>
+  <td class="col-summary">Walmart launches tools for AI agents to shop for customers</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/walmart-launches-tools-ai-agents-shop-customers-6480411" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Analog chipmaker Texas Instruments sees quarterly sales above estimates</span></td>
+  <td class="col-summary">Analog chipmaker Texas Instruments sees quarterly sales above estimates</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/analog-chipmaker-texas-instruments-sees-quarterly-sales-above-estimates-6480356" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Mapping the dominant players in Israel’s AI field</span></td>
+  <td class="col-summary">Mapping Israel's AI sector: Key players, top investors, and funding insights in one report.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/mapping-dominant-players-israels-ai-field" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Airwallex extends McLaren deal with AI finance partnership</span></td>
+  <td class="col-summary">Airwallex branding will expand to the F1 team kit's sleeve and remain on the cars and overalls.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/airwallex-redefining-founders-finance" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">OpenAI acquires biopharma software platform Orchestra Bio</span></td>
+  <td class="col-summary">Per OpenAI, drug development takes about 10 to 15 years on average from discovery to US approval.</td>
+  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-atlassian-expand-partnership-gpt6" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Gundam maker Bandai Namco's stock surge reflects market AI doubts</span></td>
+  <td class="col-summary">Gundam maker Bandai Namco's stock surge reflects market AI doubts</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/gundam-maker-bandai-namco-s-stock-surge-reflects-market-ai-doubts" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan growth strategy to focus on chips in short term, AI in medium term</span></td>
+  <td class="col-summary">Japan growth strategy to focus on chips in short term, AI in medium term</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/economy/japan-growth-strategy-to-focus-on-chips-in-short-term-ai-in-medium-term" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Micron won't pursue 4F-squared memory chips despite CXMT's advance: CTO</span></td>
+  <td class="col-summary">Micron won't pursue 4F-squared memory chips despite CXMT's advance: CTO</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/micron-won-t-pursue-4f-squared-memory-chips-despite-cxmt-s-advance-cto" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Nvidia pitches factory-built AI data centers and hardware-enforced agent controls at GTC Berlin Nvidia used its GTC Berlin keynote on October 21 to argue that AI's bottlenecks now lie in deployment speed, power, and security rather than silicon, unveiling reference designs and software that extend its reach from GPUs to how entire AI factories are built and run. AI Read 2 DigiTimes Tesla's car margins recover, but spending on AI and robotics absorbs the gain Tesla's third quarter showed its vehicle business regaining some per-car profitability even as total sales stalled, while the company's push into AI, robotaxis, and humanoid robots consumed most of the improvement. Revenue was roughly flat year on year at US$28.05 billion for the quarter ended September 30, 2026, and o AIAutomation Read 3 DigiTimes Chief Telecom's CTSP AI data center bookings exceed 50% Chief Telecom has begun construction of its new AI data center in the Huwei section of the Central Taiwan Science Park (CTSP), with an investment of NT$3.3 billion (US$101.8 million). Chairman Jerry Shao said the facility's reservation and contract rate has exceeded 50%, with international cloud service providers (CSPs AI Read 4 CNA Commentary: Rogue Chinese AI really wants to go to the zoo. That’s a problem AI firms need to invest more in discovering, tracking and - most importantly - disclosing what their agents are up to, says Catherine Thorbecke for Bloomberg Opinion. AI Read 5 CNA Walmart launches tools for AI agents to shop for customers Walmart launches tools for AI agents to shop for customers AI Read 6 CNA Analog chipmaker Texas Instruments sees quarterly sales above estimates Analog chipmaker Texas Instruments sees quarterly sales above estimates Semiconductor Read 7 TechAsia Mapping the dominant players in Israel’s AI field Mapping Israel's AI sector: Key players, top investors, and funding insights in one report. AI Read 8 TechAsia Airwallex extends McLaren deal with AI finance partnership Airwallex branding will expand to the F1 team kit's sleeve and remain on the cars and overalls. AI Read 9 TechAsia OpenAI acquires biopharma software platform Orchestra Bio Per OpenAI, drug development takes about 10 to 15 years on average from discovery to US approval. Pharmaceutical Read 10 NikkeiAsia Gundam maker Bandai Namco's stock surge reflects market AI doubts Gundam maker Bandai Namco's stock surge reflects market AI doubts AI Read 11 NikkeiAsia Japan growth strategy to focus on chips in short term, AI in medium term Japan growth strategy to focus on chips in short term, AI in medium term AISemiconductor Read 12 NikkeiAsia Micron won't pursue 4F-squared memory chips despite CXMT's advance: CTO Micron won't pursue 4F-squared memory chips despite CXMT's advance: CTO Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 21, 2026</title><link href="https://asiatechfeed.com/2026/10/21/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 21, 2026" /><published>2026-10-21T08:00:54+00:00</published><updated>2026-10-21T08:00:54+00:00</updated><id>https://asiatechfeed.com/2026/10/21/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/21/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -667,57 +776,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/us-legal-ai-startup-harvey-to-open-japan-office-in-2027-ceo-says" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Nvidia’s China AI-chip share falls to 34% as Huawei gains Huawei, the Shenzhen-based telecoms and technology company, shipped 572,000 AI accelerators and took 28% of the market. AISemiconductor Read 2 DigiTimes SK Hynix unveils low-power processor design for SSDs SK Hynix has unveiled a new processor architecture designed to reduce power consumption and chip area in solid-state drive (SSD) controllers, expanding its efforts to address storage bottlenecks as AI data centers demand faster and more efficient access to data. AISemiconductor Read 3 DigiTimes Samsung's US$9B chip expansion faces funding, supply hurdles Samsung affiliates plan to invest a combined KRW12.26 trillion (approx. US$9.18 billion) in semiconductor operations across South Korea and Vietnam, but the projects face different financial and supply-chain challenges. Samsung Electronics plans to finance about 63% of its Vietnamese memory testing investment through f SemiconductorElectronics Read 4 DigiTimes China's Blue Core Computing secures nearly US$300 million to challenge x86, Arm in AI servers Shenzhen-based Blue Core Computing (Shenzhen) Technology has raised nearly CNY2 billion (≈ US$298.7 million) in Series B financing to accelerate production of its RISC-V server processors with integrated AI capabilities. The funding follows the deployment of its LX500 chip in Lenovo servers, advancing China's efforts t AISemiconductor Read 5 TechAsia DeepSeek to lead seed round for robotics startup Winverse AI DeepSeek also invested US$20.8 million in robotics firm Unitree's Shanghai IPO. AIAutomation Read 6 TechAsia HCLTech, Anthropic partner on enterprise AI agents HCLSoftware will embed Claude into select products, including BigFix and AppScan. AI Read 7 NikkeiAsia Palau says flood of drugs brought by Chinese risks destabilization Palau says flood of drugs brought by Chinese risks destabilization Pharmaceutical Read 8 NikkeiAsia US legal AI startup Harvey to open Japan office in 2027, CEO says US legal AI startup Harvey to open Japan office in 2027, CEO says AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 12, 2026</title><link href="https://asiatechfeed.com/2026/10/12/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 12, 2026" /><published>2026-10-12T08:00:57+00:00</published><updated>2026-10-12T08:00:57+00:00</updated><id>https://asiatechfeed.com/2026/10/12/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/12/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung could unseat SK Hynix as HBM leader in 2027</span></td>
-  <td class="col-summary">Samsung Electronics could overtake SK Hynix as the world's largest supplier of high-bandwidth memory (HBM) in 2027, as HBM4 prices climb and memory manufacturers compete for limited DRAM production capacity, according to forecasts presented at an October 6 semiconductor industry forum in Seoul.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261012VL220/samsung-sk-hynix-hbm-hbm4-2027.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Cook makes first post-CEO visit to China, lauds Guangdong's role in Apple supply chain</span></td>
-  <td class="col-summary">Apple Executive Chairman Tim Cook made his first visit to China since stepping down as Apple CEO. He visited Guangdong Province, a manufacturing hub that contains much of the iPhone maker's supply chain ecosystem as it rolls out the iPhone 18 Pro series and its first foldable smartphones.</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261012VL219/tim-cook-guangdong-apple-iphone-supply-chain.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SoftBank Robotics, SJ Group partner on AI facilities management</span></td>
-  <td class="col-summary">The firms plan robotics pilots at operational sites in Singapore, including SJ Campus.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/temasek-leads-1-2m-round-in-singapore-healthtech-injewelme" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">Toray tests 150°C inverters</span></td>
-  <td class="col-summary">Toray Industries has successfully tested an inverter at 150°C using a prototype film capacitor incorporating a proprietary heat-resistant film as the dielectric. The downside of higher-output drive systems is that […] The post Toray tests 150°C inverters appeared first on Electronics Weekly .</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/today-tests-150c-inverters-2026-10/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">ELAN Microelectrics's 3Q26 PC momentum stalls on shortages, inventory overhang</span></td>
-  <td class="col-summary">Touch IC leader Elan Microelectronics recently announced its September 2026 consolidated revenue of NT$602 million (approx. US$18.9 million), down 18.74% month-over-month and 46.9% year-over-year. Third-quarter revenue slid 30.7% quarter-over-quarter to NT$2.221 billion (US$69.6 million), down 33.0% year-over-year, mar</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261012PD206/ic-inventory-pc-2026-revenue.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Samsung could unseat SK Hynix as HBM leader in 2027 Samsung Electronics could overtake SK Hynix as the world's largest supplier of high-bandwidth memory (HBM) in 2027, as HBM4 prices climb and memory manufacturers compete for limited DRAM production capacity, according to forecasts presented at an October 6 semiconductor industry forum in Seoul. SemiconductorElectronics Read 2 DigiTimes Cook makes first post-CEO visit to China, lauds Guangdong's role in Apple supply chain Apple Executive Chairman Tim Cook made his first visit to China since stepping down as Apple CEO. He visited Guangdong Province, a manufacturing hub that contains much of the iPhone maker's supply chain ecosystem as it rolls out the iPhone 18 Pro series and its first foldable smartphones. Logistics Read 3 TechAsia SoftBank Robotics, SJ Group partner on AI facilities management The firms plan robotics pilots at operational sites in Singapore, including SJ Campus. AIAutomation Read 4 EW Toray tests 150°C inverters Toray Industries has successfully tested an inverter at 150°C using a prototype film capacitor incorporating a proprietary heat-resistant film as the dielectric. The downside of higher-output drive systems is that […] The post Toray tests 150°C inverters appeared first on Electronics Weekly . Electronics Read 5 DigiTimes ELAN Microelectrics's 3Q26 PC momentum stalls on shortages, inventory overhang Touch IC leader Elan Microelectronics recently announced its September 2026 consolidated revenue of NT$602 million (approx. US$18.9 million), down 18.74% month-over-month and 46.9% year-over-year. Third-quarter revenue slid 30.7% quarter-over-quarter to NT$2.221 billion (US$69.6 million), down 33.0% year-over-year, mar Electronics Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Nvidia’s China AI-chip share falls to 34% as Huawei gains Huawei, the Shenzhen-based telecoms and technology company, shipped 572,000 AI accelerators and took 28% of the market. AISemiconductor Read 2 DigiTimes SK Hynix unveils low-power processor design for SSDs SK Hynix has unveiled a new processor architecture designed to reduce power consumption and chip area in solid-state drive (SSD) controllers, expanding its efforts to address storage bottlenecks as AI data centers demand faster and more efficient access to data. AISemiconductor Read 3 DigiTimes Samsung's US$9B chip expansion faces funding, supply hurdles Samsung affiliates plan to invest a combined KRW12.26 trillion (approx. US$9.18 billion) in semiconductor operations across South Korea and Vietnam, but the projects face different financial and supply-chain challenges. Samsung Electronics plans to finance about 63% of its Vietnamese memory testing investment through f SemiconductorElectronics Read 4 DigiTimes China's Blue Core Computing secures nearly US$300 million to challenge x86, Arm in AI servers Shenzhen-based Blue Core Computing (Shenzhen) Technology has raised nearly CNY2 billion (≈ US$298.7 million) in Series B financing to accelerate production of its RISC-V server processors with integrated AI capabilities. The funding follows the deployment of its LX500 chip in Lenovo servers, advancing China's efforts t AISemiconductor Read 5 TechAsia DeepSeek to lead seed round for robotics startup Winverse AI DeepSeek also invested US$20.8 million in robotics firm Unitree's Shanghai IPO. AIAutomation Read 6 TechAsia HCLTech, Anthropic partner on enterprise AI agents HCLSoftware will embed Claude into select products, including BigFix and AppScan. AI Read 7 NikkeiAsia Palau says flood of drugs brought by Chinese risks destabilization Palau says flood of drugs brought by Chinese risks destabilization Pharmaceutical Read 8 NikkeiAsia US legal AI startup Harvey to open Japan office in 2027, CEO says US legal AI startup Harvey to open Japan office in 2027, CEO says AI Read]]></summary></entry></feed>
