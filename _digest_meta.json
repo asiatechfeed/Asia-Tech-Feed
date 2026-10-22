@@ -1,37 +1,38 @@
 {
-  "date": "2026-10-21",
-  "count": 7,
+  "date": "2026-10-22",
+  "count": 12,
   "sources": [
+    "CNA",
     "DigiTimes",
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-10-21-asia-tech-news-digest.md",
+  "post_file": "2026-10-22-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Building a smarter workflow for short-form video creators",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/building-smarter-workflow-shortform-video-creators"
-    },
-    {
-      "title": "China launches state-owned data group as market-facing arm of its AI infrastructure push",
+      "title": "Nvidia pitches factory-built AI data centers and hardware-enforced agent controls at GTC Berlin",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261021PD244/beijing-infrastructure-data-technology-telecom.html"
+      "url": "https://www.digitimes.com/news/a20261022VL204.html"
     },
     {
-      "title": "PCB material shortages persist as capacity expansion extends beyond 2029",
+      "title": "Tesla's car margins recover, but spending on AI and robotics absorbs the gain",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261021PD229/pcb-materials-capacity-expansion-hpc-ccl.html"
+      "url": "https://www.digitimes.com/news/a20261022PR200/tesla-business-vehicle-sales-profit.html"
     },
     {
-      "title": "Singapore health AI startup Genie Health raises $3m seed",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/carro-switches-gears-indonesia-focus-shifts-cars"
+      "title": "Chief Telecom's CTSP AI data center bookings exceed 50%",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261021PD254/chief-telecom-data-center-ctsp-cht-data.html"
     },
     {
-      "title": "Zoom plans AI controls, compliance tools for enterprises",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/zoom-rolls-free-ai-tools-meetings-documents"
+      "title": "Commentary: Rogue Chinese AI really wants to go to the zoo. That\u2019s a problem",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/rogue-chinese-ai-agent-chengdu-zoo-tencent-6478346"
+    },
+    {
+      "title": "Walmart launches tools for AI agents to shop for customers",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/walmart-launches-tools-ai-agents-shop-customers-6480411"
     }
   ],
   "source_stats": [
@@ -48,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -155,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 52,
-      "relevant": 39,
+      "fetched": 35,
+      "relevant": 25,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {

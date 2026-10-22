@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-10-22",
+    "title": "Nvidia pitches factory-built AI data centers and hardware-enforced agent controls at GTC Berlin",
+    "summary": "Nvidia used its GTC Berlin keynote on October 21 to argue that AI's bottlenecks now lie in deployment speed, power, and security rather than silicon, unveiling reference designs and software that extend its reach from GPUs to how entire AI factories are built and run.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261022VL204.html"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Tesla's car margins recover, but spending on AI and robotics absorbs the gain",
+    "summary": "Tesla's third quarter showed its vehicle business regaining some per-car profitability even as total sales stalled, while the company's push into AI, robotaxis, and humanoid robots consumed most of the improvement. Revenue was roughly flat year on year at US$28.05 billion for the quarter ended September 30, 2026, and o",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20261022PR200/tesla-business-vehicle-sales-profit.html"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Chief Telecom's CTSP AI data center bookings exceed 50%",
+    "summary": "Chief Telecom has begun construction of its new AI data center in the Huwei section of the Central Taiwan Science Park (CTSP), with an investment of NT$3.3 billion (US$101.8 million). Chairman Jerry Shao said the facility's reservation and contract rate has exceeded 50%, with international cloud service providers (CSPs",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261021PD254/chief-telecom-data-center-ctsp-cht-data.html"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Commentary: Rogue Chinese AI really wants to go to the zoo. That’s a problem",
+    "summary": "AI firms need to invest more in discovering, tracking and - most importantly - disclosing what their agents are up to, says Catherine Thorbecke for Bloomberg Opinion.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/rogue-chinese-ai-agent-chengdu-zoo-tencent-6478346"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Walmart launches tools for AI agents to shop for customers",
+    "summary": "Walmart launches tools for AI agents to shop for customers",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/walmart-launches-tools-ai-agents-shop-customers-6480411"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Analog chipmaker Texas Instruments sees quarterly sales above estimates",
+    "summary": "Analog chipmaker Texas Instruments sees quarterly sales above estimates",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/analog-chipmaker-texas-instruments-sees-quarterly-sales-above-estimates-6480356"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Mapping the dominant players in Israel’s AI field",
+    "summary": "Mapping Israel's AI sector: Key players, top investors, and funding insights in one report.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/visual-story/mapping-dominant-players-israels-ai-field"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Airwallex extends McLaren deal with AI finance partnership",
+    "summary": "Airwallex branding will expand to the F1 team kit's sleeve and remain on the cars and overalls.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/airwallex-redefining-founders-finance"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "OpenAI acquires biopharma software platform Orchestra Bio",
+    "summary": "Per OpenAI, drug development takes about 10 to 15 years on average from discovery to US approval.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Pharmaceutical"
+    ],
+    "url": "https://www.techinasia.com/openai-atlassian-expand-partnership-gpt6"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Gundam maker Bandai Namco's stock surge reflects market AI doubts",
+    "summary": "Gundam maker Bandai Namco's stock surge reflects market AI doubts",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/gundam-maker-bandai-namco-s-stock-surge-reflects-market-ai-doubts"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Japan growth strategy to focus on chips in short term, AI in medium term",
+    "summary": "Japan growth strategy to focus on chips in short term, AI in medium term",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/economy/japan-growth-strategy-to-focus-on-chips-in-short-term-ai-in-medium-term"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Micron won't pursue 4F-squared memory chips despite CXMT's advance: CTO",
+    "summary": "Micron won't pursue 4F-squared memory chips despite CXMT's advance: CTO",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/micron-won-t-pursue-4f-squared-memory-chips-despite-cxmt-s-advance-cto"
+  },
+  {
     "date": "2026-10-21",
     "title": "Building a smarter workflow for short-form video creators",
     "summary": "With over 30,000 paying customers, Verba is scaling a profitable AI platform that structures raw video into polished content.",
