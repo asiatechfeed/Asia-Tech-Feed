@@ -1,39 +1,39 @@
 {
   "date": "2026-10-22",
-  "count": 13,
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
+    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-10-22-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Why Terafab approached South Korean suppliers first",
+      "title": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/samsung-electro-mechanics-gets-28-billion-chip-investment-tesla-nvidia-report-says-6481841"
+    },
+    {
+      "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
+      "source": "SemiEng",
+      "url": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/"
+    },
+    {
+      "title": "Foundries And OSATs Increasingly Overlap",
+      "source": "SemiEng",
+      "url": "https://semiengineering.com/foundries-and-osats-increasingly-overlap/"
+    },
+    {
+      "title": "Tesla's Megapack boom meets AI power crunch, but margin gains raise questions",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261022PD229/elon-musk-equipment-tesla-materials-spacex.html"
+      "url": "https://www.digitimes.com/news/a20261022VL215/tesla-electricity-infrastructure-transportation-demand-capacity.html"
     },
     {
-      "title": "OpenAI acquires Orchestra Bio to advance AI drug development",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261022PD203/openai-biotech-acquisition-medical-startup.html"
-    },
-    {
-      "title": "Unitree showcases H2-X as China's humanoid robot output tops 100,000",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261022PD234/robot-production-miit-security-vehicle.html"
-    },
-    {
-      "title": "Siemens taps Nvidia AI to cut board inspection prep",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-synopsys-siemens-adopt-cudax-chipmaking"
-    },
-    {
-      "title": "Hamamatsu Photonics Expands Southeast Asia Operations with Singapore Subsidiary",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/hamamatsu-photonics-expands-southeast-asia-operations-with-singapore-subsidiary/"
+      "title": "Palantir says it cannot shut off NATO AI system as Europeans fear US tech dependence",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/palantir-says-it-cannot-shut-nato-ai-system-europeans-fear-us-tech-dependence-6481646"
     }
   ],
   "source_stats": [
@@ -50,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -151,14 +151,14 @@
       "fetched": 10,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 63,
-      "relevant": 47,
+      "fetched": 69,
+      "relevant": 52,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +169,7 @@
       "fetched": 50,
       "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -194,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -212,9 +212,9 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     }
   ]
