@@ -1,38 +1,39 @@
 {
   "date": "2026-10-22",
-  "count": 12,
+  "count": 13,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-22-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Nvidia pitches factory-built AI data centers and hardware-enforced agent controls at GTC Berlin",
+      "title": "Why Terafab approached South Korean suppliers first",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261022VL204.html"
+      "url": "https://www.digitimes.com/news/a20261022PD229/elon-musk-equipment-tesla-materials-spacex.html"
     },
     {
-      "title": "Tesla's car margins recover, but spending on AI and robotics absorbs the gain",
+      "title": "OpenAI acquires Orchestra Bio to advance AI drug development",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261022PR200/tesla-business-vehicle-sales-profit.html"
+      "url": "https://www.digitimes.com/news/a20261022PD203/openai-biotech-acquisition-medical-startup.html"
     },
     {
-      "title": "Chief Telecom's CTSP AI data center bookings exceed 50%",
+      "title": "Unitree showcases H2-X as China's humanoid robot output tops 100,000",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261021PD254/chief-telecom-data-center-ctsp-cht-data.html"
+      "url": "https://www.digitimes.com/news/a20261022PD234/robot-production-miit-security-vehicle.html"
     },
     {
-      "title": "Commentary: Rogue Chinese AI really wants to go to the zoo. That\u2019s a problem",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/rogue-chinese-ai-agent-chengdu-zoo-tencent-6478346"
+      "title": "Siemens taps Nvidia AI to cut board inspection prep",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/nvidia-synopsys-siemens-adopt-cudax-chipmaking"
     },
     {
-      "title": "Walmart launches tools for AI agents to shop for customers",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/walmart-launches-tools-ai-agents-shop-customers-6480411"
+      "title": "Hamamatsu Photonics Expands Southeast Asia Operations with Singapore Subsidiary",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/hamamatsu-photonics-expands-southeast-asia-operations-with-singapore-subsidiary/"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -148,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 3,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 25,
+      "fetched": 63,
+      "relevant": 47,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,7 +167,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 11,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -193,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
