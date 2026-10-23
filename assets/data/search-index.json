@@ -1,115 +1,92 @@
 [
   {
     "date": "2026-10-23",
-    "title": "Unitree Robotics develops humanoid coding system",
-    "summary": "Unitree already markets humanoid robots through its online shop, including the G1 model, linking the project to the company’s hardware business.",
+    "title": "FCC grants Intel a waiver to foreign robot ban to prevent chip disruptions",
+    "summary": "The US Federal Communications Commission (FCC) granted Intel a waiver to its ban on foreign-made mobile robots, which will allow it to update its fleet of autonomous guided vehicles (AGVs). Intel had earlier petitioned the agency for an exemption, saying that not doing so would threaten chip production in the country.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20261023VL218/fcc-intel-ban-robot-mobile.html"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "China's weak car market squeezes automakers, suppliers and dealers",
+    "summary": "China's weakening car market is challenging automakers, parts suppliers, and dealers as exports rise but domestic demand contracts. For global industry watchers, the downturn is a test of electric-vehicle resilience, subsidy dependence, and manufacturing overcapacity. Over time, planned capacity controls and corporate ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261023PD206/market-automakers-sales-2026-supplier.html"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "Analysis: Nvidia's Vera CPU takes on Intel and AMD with a platform play",
+    "summary": "Nvidia has won a CPU supply order from AI startup Modal, challenging Intel and AMD in the server CPU market as it expands beyond GPUs into general-purpose computing. Although Modal's annual revenue is below US$1 billion, and neither the order's value nor its deployment scale has been disclosed, the deal underscores a b",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261023PD219/nvidia-cpu-intel-amd-infrastructure.html"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "Red Hat opens Asia Pacific AI hub in Singapore",
+    "summary": "The center supports Singapore’s National AI Strategy, which aims to scale deployment in the public and private sectors.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/openclaw-foundation-launches-open-source-ai-agent-platform"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "MiniMax shares fall below IPO price as AI competition grows",
+    "summary": "The stock fell to HK$159.3 (US$20), below its HK$165 (US$21) offering price, wiping out all gains since its trading debut.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/chinas-minimax-doubles-revenue-as-ai-business-grows"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "CATL-backed Noetix Robotics eyes Hong Kong IPO",
+    "summary": "The company could go public as soon as 2027, though the size and timing of the offering could still change.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "Automation"
     ],
-    "url": "https://www.techinasia.com/chinas-unitree-debuts-humanoid-robot-app-store"
+    "url": "https://www.techinasia.com/robot-demand-surges-in-china-after-spring-festival-gala"
   },
   {
     "date": "2026-10-23",
-    "title": "China’s Zhipu co-launches $150m AI fund",
-    "summary": "Hong Kong-listed QuantGroup, which says it provides foundation models for physical AI, is participating through an affiliate as a limited partner.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/zhipu-ai-seeks-shanghai-listing-after-blockbuster-ipo"
-  },
-  {
-    "date": "2026-10-23",
-    "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
-    "summary": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+    "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
+    "summary": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/world/sp-500-nasdaq-end-sharply-lower-revived-ai-doubts-ignite-tech-selloff-6484366"
+    "url": "https://www.channelnewsasia.com/business/microsoft-develops-ai-tool-can-diagnose-sequentially-doctor-6484766"
   },
   {
     "date": "2026-10-23",
-    "title": "FCC grants Intel waiver for foreign-made robotic devices",
-    "summary": "FCC grants Intel waiver for foreign-made robotic devices",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Automation"
-    ],
-    "url": "https://www.channelnewsasia.com/business/fcc-grants-intel-waiver-foreign-made-robotic-devices-6484351"
-  },
-  {
-    "date": "2026-10-23",
-    "title": "PSMC raises mature-node prices again, targets 20% increase in 2027",
-    "summary": "Powerchip Semiconductor Manufacturing (PSMC) reported third-quarter 2026 revenue of NT$21.3 billion (US$654.3 million), up 23% quarter-over-quarter, as higher foundry prices, a stronger average selling price (ASP) and improved capacity utilization lifted gross margin from 28% to 48% and drove net profit to NT$6.5 billi",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261022PD248/psmc-2027-capacity-2026-demand.html"
-  },
-  {
-    "date": "2026-10-23",
-    "title": "Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group",
-    "summary": "Highlighting the deepening industrial synergies between Europe and Asia, the Egis Group TechDay Taiwan-France Strategic CPU Partnership Signing Ceremony hosted the official signing between Egis Group and SiPearl. The landmark ceremony unveiled a joint initiative to build a Mobius 100 CPU and UCIe chiplet-based marketpl",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261022VL222/alliance-industrial-taiwan-europe-cpu.html"
-  },
-  {
-    "date": "2026-10-23",
-    "title": "How AI devices uncover lost sales at retail checkout counters",
-    "summary": "Nimbly AI analyzes retail counter conversations with wearable and fixed devices, helping chains track promo compliance and missed sales.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/ai-devices-uncover-lost-sales-retail-checkout-counters"
-  },
-  {
-    "date": "2026-10-23",
-    "title": "ADEPT Taiwan holds inaugural in-person meeting as PLP and substrate standardization efforts gain momentum",
-    "summary": "The Advanced Electronic Packaging Technology (ADEPT) committee under the Global Electronics Association continues to expand its presence in Taiwan.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.digitimes.com/news/a20261022PD241/taiwan-substrate-packaging-hpc-development.html"
-  },
-  {
-    "date": "2026-10-23",
-    "title": "Malaysia precious metal recycling plant to supply gold for chipmaking",
-    "summary": "Malaysia precious metal recycling plant to supply gold for chipmaking",
+    "title": "Asia's AI data center boom faces 'reality check' from public markets",
+    "summary": "Asia's AI data center boom faces 'reality check' from public markets",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://asia.nikkei.com/business/materials/malaysia-precious-metal-recycling-plant-to-supply-gold-for-chipmaking"
-  },
-  {
-    "date": "2026-10-23",
-    "title": "Taiwan's first-ever chip workers strike hits Micron plant",
-    "summary": "Taiwan's first-ever chip workers strike hits Micron plant",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-first-ever-chip-workers-strike-hits-micron-plant"
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/asia-s-ai-data-center-boom-faces-reality-check-from-public-markets"
   },
   {
     "date": "2026-10-22",
