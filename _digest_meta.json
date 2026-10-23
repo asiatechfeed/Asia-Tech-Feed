@@ -1,39 +1,38 @@
 {
-  "date": "2026-10-22",
-  "count": 12,
+  "date": "2026-10-23",
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
     "NikkeiAsia",
-    "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-10-22-asia-tech-news-digest.md",
+  "post_file": "2026-10-23-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says",
+      "title": "Unitree Robotics develops humanoid coding system",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/chinas-unitree-debuts-humanoid-robot-app-store"
+    },
+    {
+      "title": "China\u2019s Zhipu co-launches $150m AI fund",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/zhipu-ai-seeks-shanghai-listing-after-blockbuster-ipo"
+    },
+    {
+      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/samsung-electro-mechanics-gets-28-billion-chip-investment-tesla-nvidia-report-says-6481841"
+      "url": "https://www.channelnewsasia.com/world/sp-500-nasdaq-end-sharply-lower-revived-ai-doubts-ignite-tech-selloff-6484366"
     },
     {
-      "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
-      "source": "SemiEng",
-      "url": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/"
+      "title": "FCC grants Intel waiver for foreign-made robotic devices",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/fcc-grants-intel-waiver-foreign-made-robotic-devices-6484351"
     },
     {
-      "title": "Foundries And OSATs Increasingly Overlap",
-      "source": "SemiEng",
-      "url": "https://semiengineering.com/foundries-and-osats-increasingly-overlap/"
-    },
-    {
-      "title": "Tesla's Megapack boom meets AI power crunch, but margin gains raise questions",
+      "title": "PSMC raises mature-node prices again, targets 20% increase in 2027",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261022VL215/tesla-electricity-infrastructure-transportation-demand-capacity.html"
-    },
-    {
-      "title": "Palantir says it cannot shut off NATO AI system as Europeans fear US tech dependence",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/palantir-says-it-cannot-shut-nato-ai-system-europeans-fear-us-tech-dependence-6481646"
+      "url": "https://www.digitimes.com/news/a20261022PD248/psmc-2027-capacity-2026-demand.html"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -157,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 69,
-      "relevant": 52,
+      "fetched": 35,
+      "relevant": 28,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 11,
+      "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -194,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 16,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -214,7 +213,7 @@
       "fetched": 10,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     }
   ]
