@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "count": 10,
+  "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -10,29 +10,29 @@
   "post_file": "2026-10-23-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Unitree Robotics develops humanoid coding system",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinas-unitree-debuts-humanoid-robot-app-store"
-    },
-    {
-      "title": "China\u2019s Zhipu co-launches $150m AI fund",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/zhipu-ai-seeks-shanghai-listing-after-blockbuster-ipo"
-    },
-    {
-      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/sp-500-nasdaq-end-sharply-lower-revived-ai-doubts-ignite-tech-selloff-6484366"
-    },
-    {
-      "title": "FCC grants Intel waiver for foreign-made robotic devices",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/fcc-grants-intel-waiver-foreign-made-robotic-devices-6484351"
-    },
-    {
-      "title": "PSMC raises mature-node prices again, targets 20% increase in 2027",
+      "title": "FCC grants Intel a waiver to foreign robot ban to prevent chip disruptions",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261022PD248/psmc-2027-capacity-2026-demand.html"
+      "url": "https://www.digitimes.com/news/a20261023VL218/fcc-intel-ban-robot-mobile.html"
+    },
+    {
+      "title": "China's weak car market squeezes automakers, suppliers and dealers",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261023PD206/market-automakers-sales-2026-supplier.html"
+    },
+    {
+      "title": "Analysis: Nvidia's Vera CPU takes on Intel and AMD with a platform play",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261023PD219/nvidia-cpu-intel-amd-infrastructure.html"
+    },
+    {
+      "title": "Red Hat opens Asia Pacific AI hub in Singapore",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/openclaw-foundation-launches-open-source-ai-agent-platform"
+    },
+    {
+      "title": "MiniMax shares fall below IPO price as AI competition grows",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/chinas-minimax-doubles-revenue-as-ai-business-grows"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -156,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 28,
+      "fetched": 51,
+      "relevant": 37,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +168,7 @@
       "fetched": 50,
       "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
