@@ -1,38 +1,38 @@
 {
   "date": "2026-10-23",
-  "count": 8,
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
-    "NikkeiAsia",
+    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-10-23-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "FCC grants Intel a waiver to foreign robot ban to prevent chip disruptions",
+      "title": "Indonesia seeks to rev up domestic EV production amid rising demand",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-electric-vehicles-ev-motorcycles-nickel-boost-domestic-manufacturing-6485601"
+    },
+    {
+      "title": "Chip Industry Week In Review",
+      "source": "SemiEng",
+      "url": "https://semiengineering.com/chip-industry-week-in-review-161/"
+    },
+    {
+      "title": "Samsung reportedly orders final tools for first Taylor fab as Texas site nears 2nm output cap",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023VL218/fcc-intel-ban-robot-mobile.html"
+      "url": "https://www.digitimes.com/news/a20261023VL219/samsung-texas-2nm-fab.html"
     },
     {
-      "title": "China's weak car market squeezes automakers, suppliers and dealers",
+      "title": "Taiwan's top telecom spins off AI surveillance unit, plans global push with local hardware makers",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD206/market-automakers-sales-2026-supplier.html"
+      "url": "https://www.digitimes.com/news/a20261023PD216/cht-subsidiary-hardware-expansion-taiwan.html"
     },
     {
-      "title": "Analysis: Nvidia's Vera CPU takes on Intel and AMD with a platform play",
+      "title": "TSMC advances CoPoS packaging at Taoyuan Longtan site",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD219/nvidia-cpu-intel-amd-infrastructure.html"
-    },
-    {
-      "title": "Red Hat opens Asia Pacific AI hub in Singapore",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/openclaw-foundation-launches-open-source-ai-agent-platform"
-    },
-    {
-      "title": "MiniMax shares fall below IPO price as AI competition grows",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/chinas-minimax-doubles-revenue-as-ai-business-grows"
+      "url": "https://www.digitimes.com/news/a20261023PD227/tsmc-packaging-southern-taiwan-science-park-capacity-national-development-council.html"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -129,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -156,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 51,
-      "relevant": 37,
+      "fetched": 58,
+      "relevant": 43,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 10,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -211,9 +211,9 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 2,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     }
   ]
