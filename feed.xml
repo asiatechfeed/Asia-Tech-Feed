@@ -1,4 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-22T08:01:47+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 22, 2026</title><link href="https://asiatechfeed.com/2026/10/22/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 22, 2026" /><published>2026-10-22T08:00:53+00:00</published><updated>2026-10-22T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/10/22/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/22/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-23T00:09:23+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 23, 2026</title><link href="https://asiatechfeed.com/2026/10/23/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 23, 2026" /><published>2026-10-23T00:08:45+00:00</published><updated>2026-10-23T00:08:45+00:00</updated><id>https://asiatechfeed.com/2026/10/23/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/23/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Unitree Robotics develops humanoid coding system</span></td>
+  <td class="col-summary">Unitree already markets humanoid robots through its online shop, including the G1 model, linking the project to the company’s hardware business.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-unitree-debuts-humanoid-robot-app-store" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">China’s Zhipu co-launches $150m AI fund</span></td>
+  <td class="col-summary">Hong Kong-listed QuantGroup, which says it provides foundation models for physical AI, is participating through an affiliate as a limited partner.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/zhipu-ai-seeks-shanghai-listing-after-blockbuster-ipo" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">S&amp;P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff</span></td>
+  <td class="col-summary">S&amp;P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/sp-500-nasdaq-end-sharply-lower-revived-ai-doubts-ignite-tech-selloff-6484366" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">FCC grants Intel waiver for foreign-made robotic devices</span></td>
+  <td class="col-summary">FCC grants Intel waiver for foreign-made robotic devices</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/fcc-grants-intel-waiver-foreign-made-robotic-devices-6484351" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">PSMC raises mature-node prices again, targets 20% increase in 2027</span></td>
+  <td class="col-summary">Powerchip Semiconductor Manufacturing (PSMC) reported third-quarter 2026 revenue of NT$21.3 billion (US$654.3 million), up 23% quarter-over-quarter, as higher foundry prices, a stronger average selling price (ASP) and improved capacity utilization lifted gross margin from 28% to 48% and drove net profit to NT$6.5 billi</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261022PD248/psmc-2027-capacity-2026-demand.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group</span></td>
+  <td class="col-summary">Highlighting the deepening industrial synergies between Europe and Asia, the Egis Group TechDay Taiwan-France Strategic CPU Partnership Signing Ceremony hosted the official signing between Egis Group and SiPearl. The landmark ceremony unveiled a joint initiative to build a Mobius 100 CPU and UCIe chiplet-based marketpl</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261022VL222/alliance-industrial-taiwan-europe-cpu.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">How AI devices uncover lost sales at retail checkout counters</span></td>
+  <td class="col-summary">Nimbly AI analyzes retail counter conversations with wearable and fixed devices, helping chains track promo compliance and missed sales.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-devices-uncover-lost-sales-retail-checkout-counters" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">ADEPT Taiwan holds inaugural in-person meeting as PLP and substrate standardization efforts gain momentum</span></td>
+  <td class="col-summary">The Advanced Electronic Packaging Technology (ADEPT) committee under the Global Electronics Association continues to expand its presence in Taiwan.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261022PD241/taiwan-substrate-packaging-hpc-development.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Malaysia precious metal recycling plant to supply gold for chipmaking</span></td>
+  <td class="col-summary">Malaysia precious metal recycling plant to supply gold for chipmaking</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/materials/malaysia-precious-metal-recycling-plant-to-supply-gold-for-chipmaking" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Taiwan's first-ever chip workers strike hits Micron plant</span></td>
+  <td class="col-summary">Taiwan's first-ever chip workers strike hits Micron plant</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-first-ever-chip-workers-strike-hits-micron-plant" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Unitree Robotics develops humanoid coding system Unitree already markets humanoid robots through its online shop, including the G1 model, linking the project to the company’s hardware business. Automation Read 2 TechAsia China’s Zhipu co-launches $150m AI fund Hong Kong-listed QuantGroup, which says it provides foundation models for physical AI, is participating through an affiliate as a limited partner. AI Read 3 CNA S&amp;P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff S&amp;P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff AI Read 4 CNA FCC grants Intel waiver for foreign-made robotic devices FCC grants Intel waiver for foreign-made robotic devices Automation Read 5 DigiTimes PSMC raises mature-node prices again, targets 20% increase in 2027 Powerchip Semiconductor Manufacturing (PSMC) reported third-quarter 2026 revenue of NT$21.3 billion (US$654.3 million), up 23% quarter-over-quarter, as higher foundry prices, a stronger average selling price (ASP) and improved capacity utilization lifted gross margin from 28% to 48% and drove net profit to NT$6.5 billi SemiconductorAI Read 6 DigiTimes Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group Highlighting the deepening industrial synergies between Europe and Asia, the Egis Group TechDay Taiwan-France Strategic CPU Partnership Signing Ceremony hosted the official signing between Egis Group and SiPearl. The landmark ceremony unveiled a joint initiative to build a Mobius 100 CPU and UCIe chiplet-based marketpl SemiconductorAI Read 7 TechAsia How AI devices uncover lost sales at retail checkout counters Nimbly AI analyzes retail counter conversations with wearable and fixed devices, helping chains track promo compliance and missed sales. AI Read 8 DigiTimes ADEPT Taiwan holds inaugural in-person meeting as PLP and substrate standardization efforts gain momentum The Advanced Electronic Packaging Technology (ADEPT) committee under the Global Electronics Association continues to expand its presence in Taiwan. Electronics Read 9 NikkeiAsia Malaysia precious metal recycling plant to supply gold for chipmaking Malaysia precious metal recycling plant to supply gold for chipmaking Semiconductor Read 10 NikkeiAsia Taiwan's first-ever chip workers strike hits Micron plant Taiwan's first-ever chip workers strike hits Micron plant Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 22, 2026</title><link href="https://asiatechfeed.com/2026/10/22/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 22, 2026" /><published>2026-10-22T08:00:53+00:00</published><updated>2026-10-22T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/10/22/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/22/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -699,81 +792,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/automakers-explore-modular-ai-to-reduce-adas-computing-costs/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 EETAsia SEMICON West 2026: SEMI Forecasts 300mm Fab Equipment Spending to Reach $227B by 2029 Global 300mm fab investment is set to accelerate through 2029, driven by expanding semiconductor manufacturing capacity and demand. The post SEMICON West 2026: SEMI Forecasts 300mm Fab Equipment Spending to Reach $227B by 2029 appeared first on EE Times Asia . Semiconductor Read 2 TechAsia Move over generic homework solvers, this AI tutor tracks mastery With over 1 million users since its late 2025 launch, Sovi AI is moving beyond standard homework solvers to build a persistent learning companion. AI Read 3 DigiTimes ASML's record 3Q26 sales expose a capacity gap for AI chip demand through 2028 ASML reported record third-quarter 2026 net sales of EUR11.7 billion (approx. US$13.1 billion) and net income of EUR5 billion, while warning that its planned supply for 2027 and 2028 would fall short of customer demand. Growing AI investment is prompting the lithography equipment supplier to explore a larger capacity e AISemiconductor Read 4 TechAsia India’s Gupshup launches AI video avatars for customer service It follows Gupshup’s recently launched voice AI offering. AI Read 5 DigiTimes Nvidia's share of China's AI chips falls by a third while Huawei gains Nvidia's share of AI chips in China's data center market has fallen by 34% in the first half of this year, according to a new report. The drop follows months of US restrictions on advanced chip sales to the country, Chinese authorities' push to rely less on Nvidia imports, and domestic players like Huawei moving to fil AISemiconductor Read 6 CNA Nvidia pledges $250 million to UK AI safety research Nvidia pledges $250 million to UK AI safety research AI Read 7 DigiTimes Elon Musk says Micron is 'reasonable' on memory prices while others are 'extortionate' Elon Musk has criticized memory chip suppliers for charging what he called "extortionate" prices while praising Micron Technology's approach to future pricing, highlighting tensions between chipmakers and customers as prolonged supply shortages strengthen manufacturers' bargaining power. Semiconductor Read 8 CNA Singapore forms task force to strengthen defences against AI-enabled cyber threats IMDA also launched the first version of a starter kit aimed at helping organisations test agentic AI systems for safety and reliability. AI Read 9 TechAsia Ex-Qoala execs’ AI firm Parallel Loop raises $6.6m The company said the money will support enterprise AI adoption across Asia, Europe, and the Middle East. AI Read 10 EETAsia Automakers Explore Modular AI to Reduce ADAS Computing Costs Rising chip costs and computing demands are driving automakers toward specialized AI architectures for more affordable, scalable driver assistance systems. The post Automakers Explore Modular AI to Reduce ADAS Computing Costs appeared first on EE Times Asia . AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 13, 2026</title><link href="https://asiatechfeed.com/2026/10/13/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 13, 2026" /><published>2026-10-13T08:00:51+00:00</published><updated>2026-10-13T08:00:51+00:00</updated><id>https://asiatechfeed.com/2026/10/13/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/13/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Nvidia’s China AI-chip share falls to 34% as Huawei gains</span></td>
-  <td class="col-summary">Huawei, the Shenzhen-based telecoms and technology company, shipped 572,000 AI accelerators and took 28% of the market.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-teams-yco-cloud-aolani-philippines-ai-project" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SK Hynix unveils low-power processor design for SSDs</span></td>
-  <td class="col-summary">SK Hynix has unveiled a new processor architecture designed to reduce power consumption and chip area in solid-state drive (SSD) controllers, expanding its efforts to address storage bottlenecks as AI data centers demand faster and more efficient access to data.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261013VL221/sk-hynix-ssd-processor-design-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung's US$9B chip expansion faces funding, supply hurdles</span></td>
-  <td class="col-summary">Samsung affiliates plan to invest a combined KRW12.26 trillion (approx. US$9.18 billion) in semiconductor operations across South Korea and Vietnam, but the projects face different financial and supply-chain challenges. Samsung Electronics plans to finance about 63% of its Vietnamese memory testing investment through f</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261013VL215/samsung-expansion-funding-investment-testing.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">China's Blue Core Computing secures nearly US$300 million to challenge x86, Arm in AI servers</span></td>
-  <td class="col-summary">Shenzhen-based Blue Core Computing (Shenzhen) Technology has raised nearly CNY2 billion (≈ US$298.7 million) in Series B financing to accelerate production of its RISC-V server processors with integrated AI capabilities. The funding follows the deployment of its LX500 chip in Lenovo servers, advancing China's efforts t</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261013VL218/arm-x86-risc-v-shenzhen-production.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">DeepSeek to lead seed round for robotics startup Winverse AI</span></td>
-  <td class="col-summary">DeepSeek also invested US$20.8 million in robotics firm Unitree's Shanghai IPO.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/deepseek-resumes-fundraising-74b-valuation" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">HCLTech, Anthropic partner on enterprise AI agents</span></td>
-  <td class="col-summary">HCLSoftware will embed Claude into select products, including BigFix and AppScan.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/anthropics-tool-triggers-slump-indian-stocks" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Palau says flood of drugs brought by Chinese risks destabilization</span></td>
-  <td class="col-summary">Palau says flood of drugs brought by Chinese risks destabilization</td>
-  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/society/crime/palau-says-flood-of-drugs-brought-by-chinese-risks-destabilization" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">US legal AI startup Harvey to open Japan office in 2027, CEO says</span></td>
-  <td class="col-summary">US legal AI startup Harvey to open Japan office in 2027, CEO says</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/us-legal-ai-startup-harvey-to-open-japan-office-in-2027-ceo-says" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Nvidia’s China AI-chip share falls to 34% as Huawei gains Huawei, the Shenzhen-based telecoms and technology company, shipped 572,000 AI accelerators and took 28% of the market. AISemiconductor Read 2 DigiTimes SK Hynix unveils low-power processor design for SSDs SK Hynix has unveiled a new processor architecture designed to reduce power consumption and chip area in solid-state drive (SSD) controllers, expanding its efforts to address storage bottlenecks as AI data centers demand faster and more efficient access to data. AISemiconductor Read 3 DigiTimes Samsung's US$9B chip expansion faces funding, supply hurdles Samsung affiliates plan to invest a combined KRW12.26 trillion (approx. US$9.18 billion) in semiconductor operations across South Korea and Vietnam, but the projects face different financial and supply-chain challenges. Samsung Electronics plans to finance about 63% of its Vietnamese memory testing investment through f SemiconductorElectronics Read 4 DigiTimes China's Blue Core Computing secures nearly US$300 million to challenge x86, Arm in AI servers Shenzhen-based Blue Core Computing (Shenzhen) Technology has raised nearly CNY2 billion (≈ US$298.7 million) in Series B financing to accelerate production of its RISC-V server processors with integrated AI capabilities. The funding follows the deployment of its LX500 chip in Lenovo servers, advancing China's efforts t AISemiconductor Read 5 TechAsia DeepSeek to lead seed round for robotics startup Winverse AI DeepSeek also invested US$20.8 million in robotics firm Unitree's Shanghai IPO. AIAutomation Read 6 TechAsia HCLTech, Anthropic partner on enterprise AI agents HCLSoftware will embed Claude into select products, including BigFix and AppScan. AI Read 7 NikkeiAsia Palau says flood of drugs brought by Chinese risks destabilization Palau says flood of drugs brought by Chinese risks destabilization Pharmaceutical Read 8 NikkeiAsia US legal AI startup Harvey to open Japan office in 2027, CEO says US legal AI startup Harvey to open Japan office in 2027, CEO says AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 EETAsia SEMICON West 2026: SEMI Forecasts 300mm Fab Equipment Spending to Reach $227B by 2029 Global 300mm fab investment is set to accelerate through 2029, driven by expanding semiconductor manufacturing capacity and demand. The post SEMICON West 2026: SEMI Forecasts 300mm Fab Equipment Spending to Reach $227B by 2029 appeared first on EE Times Asia . Semiconductor Read 2 TechAsia Move over generic homework solvers, this AI tutor tracks mastery With over 1 million users since its late 2025 launch, Sovi AI is moving beyond standard homework solvers to build a persistent learning companion. AI Read 3 DigiTimes ASML's record 3Q26 sales expose a capacity gap for AI chip demand through 2028 ASML reported record third-quarter 2026 net sales of EUR11.7 billion (approx. US$13.1 billion) and net income of EUR5 billion, while warning that its planned supply for 2027 and 2028 would fall short of customer demand. Growing AI investment is prompting the lithography equipment supplier to explore a larger capacity e AISemiconductor Read 4 TechAsia India’s Gupshup launches AI video avatars for customer service It follows Gupshup’s recently launched voice AI offering. AI Read 5 DigiTimes Nvidia's share of China's AI chips falls by a third while Huawei gains Nvidia's share of AI chips in China's data center market has fallen by 34% in the first half of this year, according to a new report. The drop follows months of US restrictions on advanced chip sales to the country, Chinese authorities' push to rely less on Nvidia imports, and domestic players like Huawei moving to fil AISemiconductor Read 6 CNA Nvidia pledges $250 million to UK AI safety research Nvidia pledges $250 million to UK AI safety research AI Read 7 DigiTimes Elon Musk says Micron is 'reasonable' on memory prices while others are 'extortionate' Elon Musk has criticized memory chip suppliers for charging what he called "extortionate" prices while praising Micron Technology's approach to future pricing, highlighting tensions between chipmakers and customers as prolonged supply shortages strengthen manufacturers' bargaining power. Semiconductor Read 8 CNA Singapore forms task force to strengthen defences against AI-enabled cyber threats IMDA also launched the first version of a starter kit aimed at helping organisations test agentic AI systems for safety and reliability. AI Read 9 TechAsia Ex-Qoala execs’ AI firm Parallel Loop raises $6.6m The company said the money will support enterprise AI adoption across Asia, Europe, and the Middle East. AI Read 10 EETAsia Automakers Explore Modular AI to Reduce ADAS Computing Costs Rising chip costs and computing demands are driving automakers toward specialized AI architectures for more affordable, scalable driver assistance systems. The post Automakers Explore Modular AI to Reduce ADAS Computing Costs appeared first on EE Times Asia . AISemiconductor Read]]></summary></entry></feed>
