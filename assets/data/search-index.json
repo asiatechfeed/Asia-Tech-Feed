@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-10-24",
+    "title": "UK government sets out $800 million of AI security funding",
+    "summary": "UK government sets out $800 million of AI security funding",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/uk-government-sets-out-800-million-ai-security-funding-6488176"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "OpenAI resumes frontier AI training with enhanced security, no internet access",
+    "summary": "OpenAI resumes frontier AI training with enhanced security, no internet access",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/openai-resumes-frontier-ai-training-enhanced-security-no-internet-access-6487981"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "After previous day's slump, trading is quieter among AI shares",
+    "summary": "After previous day's slump, trading is quieter among AI shares",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/after-previous-days-slump-trading-quieter-among-ai-shares-6487931"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Japan to simulate cyberattacks with AI after PHP flaws",
+    "summary": "In Japan, SoftBank said it was suspending its emergency mobile alert system for maintenance to address a PHP vulnerability.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/softbank-shares-jump-7-111b-bond-sale-openai"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Doosan Robotics targets automakers, chipmakers as Chinese rivals cut prices",
+    "summary": "Doosan Robotics is focusing its sales efforts on large automotive and semiconductor manufacturers as it develops AI-powered systems capable of handling more complex factory tasks, Hyeonchang Jeon, senior manager of the company's Korea sales team, said in an interview with DIGITIMES at FIX 2026 in Daegu, South Korea.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20261023VL222/doosan-sales-robot-2026-automotive.html"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Taiwan's inaugural semiconductor strike pauses as nearly 70% of Micron Taoyuan Union rejects new bonus offer",
+    "summary": "Taiwan's first-ever strike in the semiconductor industry has temporarily drawn to a close. A 24-hour warning strike spearheaded by Micron Technology's Taoyuan union concluded on the morning of October 23, 2026. During the action, an internal ballot saw nearly 70% of all union members sign statements opposing management",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261023PD239/strike-taiwan-micron-management-2026.html"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Semco's 61-week MLCC lead times give suppliers upper hand in AI supply chain",
+    "summary": "Samsung Electro-Mechanics (Semco) is gaining pricing power as AI server demand extends multilayer ceramic capacitor (MLCC) lead times beyond a year. Shortages now span consumer, automotive and industrial products, prompting customers to secure 2027 supplies.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261023VL202/semco-mlcc-ai-server-2027-demand.html"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "DeepSeek, MiniMax get China’s global AI approval: report",
+    "summary": "China’s commerce ministry said most AI technologies would remain exportable.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/deepseek-huawei-develop-programming-tools-ascend-chips"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "AGI pioneer Ben Goertzel thinks the AI race is too narrow",
+    "summary": "Ben Goertzel spent decades pursuing AGI. Now, he thinks the industry's focus on LLMs is leaving promising ideas behind.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/agi-pioneer-ben-goertzel-thinks-ai-race-narrow"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Mitsubishi Materials to boost thermal sensor output on AI demand",
+    "summary": "Mitsubishi Materials to boost thermal sensor output on AI demand",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/spotlight/supply-chain/mitsubishi-materials-to-boost-thermal-sensor-output-on-ai-demand"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "As Muse personal AI agent debuts in Japan, Meta exec says it won't have ads",
+    "summary": "As Muse personal AI agent debuts in Japan, Meta exec says it won't have ads",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/as-muse-personal-ai-agent-debuts-in-japan-meta-exec-says-it-won-t-have-ads"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Japan banks prepared to weather AI crash, global rate spike: BOJ stress test",
+    "summary": "Japan banks prepared to weather AI crash, global rate spike: BOJ stress test",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/finance/japan-banks-prepared-to-weather-ai-crash-global-rate-spike-boj-stress-test"
+  },
+  {
     "date": "2026-10-23",
     "title": "Indonesia seeks to rev up domestic EV production amid rising demand",
     "summary": "Indonesia is the world's leading nickel producer, giving it an advantage in developing a local EV battery supply chain and expanding manufacturing.",
