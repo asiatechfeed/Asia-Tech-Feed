@@ -1,137 +1,82 @@
 [
   {
     "date": "2026-10-24",
-    "title": "UK government sets out $800 million of AI security funding",
-    "summary": "UK government sets out $800 million of AI security funding",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "Lenovo mounts AI comeback with Nvidia Vera Rubin NVL72 deliveries and US plant expansion",
+    "summary": "More than 30 years ago, Lenovo set out with a vision to bring personal computers into every household. Today, Chairman and CEO Yuanqing Yang has defined a new mission for the 42-year-old tech giant: bring artificial intelligence to every home and industry, while transforming Lenovo into an AI-native enterprise targetin",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/uk-government-sets-out-800-million-ai-security-funding-6488176"
+    "url": "https://www.digitimes.com/news/a20261023PD225/lenovo-nvidia-infrastructure-rubin-manufacturing.html"
   },
   {
     "date": "2026-10-24",
-    "title": "OpenAI resumes frontier AI training with enhanced security, no internet access",
-    "summary": "OpenAI resumes frontier AI training with enhanced security, no internet access",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/openai-resumes-frontier-ai-training-enhanced-security-no-internet-access-6487981"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "After previous day's slump, trading is quieter among AI shares",
-    "summary": "After previous day's slump, trading is quieter among AI shares",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/after-previous-days-slump-trading-quieter-among-ai-shares-6487931"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "Japan to simulate cyberattacks with AI after PHP flaws",
-    "summary": "In Japan, SoftBank said it was suspending its emergency mobile alert system for maintenance to address a PHP vulnerability.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/softbank-shares-jump-7-111b-bond-sale-openai"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "Doosan Robotics targets automakers, chipmakers as Chinese rivals cut prices",
-    "summary": "Doosan Robotics is focusing its sales efforts on large automotive and semiconductor manufacturers as it develops AI-powered systems capable of handling more complex factory tasks, Hyeonchang Jeon, senior manager of the company's Korea sales team, said in an interview with DIGITIMES at FIX 2026 in Daegu, South Korea.",
+    "title": "Japan targets 2nm medical AI chip with IBM design, Rapidus eyed for foundry",
+    "summary": "Japan's Leading-edge Semiconductor Technology Center (LSTC), Hokkaido University, Fujifilm Corporation, GE HealthCare Japan, and imec announced a joint initiative in Tokyo on October 20 to develop a next-generation medical imaging system powered by a dedicated 2nm AI inference chip. The initiative aims to dramatically ",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
-      "Automation"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261023VL222/doosan-sales-robot-2026-automotive.html"
+    "url": "https://www.digitimes.com/news/a20261023PD230/medical-2nm-ibm-rapidus-design.html"
   },
   {
     "date": "2026-10-24",
-    "title": "Taiwan's inaugural semiconductor strike pauses as nearly 70% of Micron Taoyuan Union rejects new bonus offer",
-    "summary": "Taiwan's first-ever strike in the semiconductor industry has temporarily drawn to a close. A 24-hour warning strike spearheaded by Micron Technology's Taoyuan union concluded on the morning of October 23, 2026. During the action, an internal ballot saw nearly 70% of all union members sign statements opposing management",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261023PD239/strike-taiwan-micron-management-2026.html"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "Semco's 61-week MLCC lead times give suppliers upper hand in AI supply chain",
-    "summary": "Samsung Electro-Mechanics (Semco) is gaining pricing power as AI server demand extends multilayer ceramic capacitor (MLCC) lead times beyond a year. Shortages now span consumer, automotive and industrial products, prompting customers to secure 2027 supplies.",
+    "title": "Nvidia B300 chips reportedly surface on China Telecom-linked network, raising export-control questions",
+    "summary": "Israeli security firm Lava identified 32 Nvidia Blackwell Ultra B300 GPUs through monitoring endpoints linked to China Telecom, a state-owned carrier. The chips are barred from sale to China under US export controls. The finding adds to questions about whether the restrictions can keep advanced AI processors out of the",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI",
-      "Logistics"
+      "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261023VL202/semco-mlcc-ai-server-2027-demand.html"
+    "url": "https://www.digitimes.com/news/a20261023VL220/nvidia-chips-security-blackwell-china-telecom.html"
   },
   {
     "date": "2026-10-24",
-    "title": "DeepSeek, MiniMax get China’s global AI approval: report",
-    "summary": "China’s commerce ministry said most AI technologies would remain exportable.",
+    "title": "Ex-Meta founders’ AI wearable startup Nirva raises $25m",
+    "summary": "Nirva plans to open orders in November and aims to ship the US$249 pendant to early users by year-end.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/deepseek-huawei-develop-programming-tools-ascend-chips"
+    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
   },
   {
     "date": "2026-10-24",
-    "title": "AGI pioneer Ben Goertzel thinks the AI race is too narrow",
-    "summary": "Ben Goertzel spent decades pursuing AGI. Now, he thinks the industry's focus on LLMs is leaving promising ideas behind.",
+    "title": "Dell-backed Israeli AI security startup Mave raises $34m",
+    "summary": "The funding includes a US$28 million series A led by Red Dot Capital Partners, with participation from Lumir Growth Partners.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/agi-pioneer-ben-goertzel-thinks-ai-race-narrow"
+    "url": "https://www.techinasia.com/pentagon-tests-openai-google-models-after-anthropic-ban"
   },
   {
     "date": "2026-10-24",
-    "title": "Mitsubishi Materials to boost thermal sensor output on AI demand",
-    "summary": "Mitsubishi Materials to boost thermal sensor output on AI demand",
+    "title": "How AI is changing the modern workforce",
+    "summary": "AI is pushing firms toward leaner teams and more freelancers, while one mega-round skews the numbers as series A funding in SEA recovers.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/ai-changing-modern-workforce"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Japan weighs rebranding energy, AI as defense spending under Trump pressure",
+    "summary": "Japan weighs rebranding energy, AI as defense spending under Trump pressure",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/spotlight/supply-chain/mitsubishi-materials-to-boost-thermal-sensor-output-on-ai-demand"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "As Muse personal AI agent debuts in Japan, Meta exec says it won't have ads",
-    "summary": "As Muse personal AI agent debuts in Japan, Meta exec says it won't have ads",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/editor-s-picks/interview/as-muse-personal-ai-agent-debuts-in-japan-meta-exec-says-it-won-t-have-ads"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "Japan banks prepared to weather AI crash, global rate spike: BOJ stress test",
-    "summary": "Japan banks prepared to weather AI crash, global rate spike: BOJ stress test",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/finance/japan-banks-prepared-to-weather-ai-crash-global-rate-spike-boj-stress-test"
+    "url": "https://asia.nikkei.com/politics/defense/japan-weighs-rebranding-energy-ai-as-defense-spending-under-trump-pressure"
   },
   {
     "date": "2026-10-23",

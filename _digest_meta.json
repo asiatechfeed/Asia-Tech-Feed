@@ -1,8 +1,7 @@
 {
   "date": "2026-10-24",
-  "count": 12,
+  "count": 7,
   "sources": [
-    "CNA",
     "DigiTimes",
     "NikkeiAsia",
     "TechAsia"
@@ -10,29 +9,29 @@
   "post_file": "2026-10-24-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "UK government sets out $800 million of AI security funding",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/uk-government-sets-out-800-million-ai-security-funding-6488176"
-    },
-    {
-      "title": "OpenAI resumes frontier AI training with enhanced security, no internet access",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/openai-resumes-frontier-ai-training-enhanced-security-no-internet-access-6487981"
-    },
-    {
-      "title": "After previous day's slump, trading is quieter among AI shares",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/after-previous-days-slump-trading-quieter-among-ai-shares-6487931"
-    },
-    {
-      "title": "Japan to simulate cyberattacks with AI after PHP flaws",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/softbank-shares-jump-7-111b-bond-sale-openai"
-    },
-    {
-      "title": "Doosan Robotics targets automakers, chipmakers as Chinese rivals cut prices",
+      "title": "Lenovo mounts AI comeback with Nvidia Vera Rubin NVL72 deliveries and US plant expansion",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023VL222/doosan-sales-robot-2026-automotive.html"
+      "url": "https://www.digitimes.com/news/a20261023PD225/lenovo-nvidia-infrastructure-rubin-manufacturing.html"
+    },
+    {
+      "title": "Japan targets 2nm medical AI chip with IBM design, Rapidus eyed for foundry",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261023PD230/medical-2nm-ibm-rapidus-design.html"
+    },
+    {
+      "title": "Nvidia B300 chips reportedly surface on China Telecom-linked network, raising export-control questions",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261023VL220/nvidia-chips-security-blackwell-china-telecom.html"
+    },
+    {
+      "title": "Ex-Meta founders\u2019 AI wearable startup Nirva raises $25m",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+    },
+    {
+      "title": "Dell-backed Israeli AI security startup Mave raises $34m",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/pentagon-tests-openai-google-models-after-anthropic-ban"
     }
   ],
   "source_stats": [
@@ -49,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -148,7 +147,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 3,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -156,8 +155,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 66,
-      "relevant": 50,
+      "fetched": 35,
+      "relevant": 26,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -193,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 13,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
