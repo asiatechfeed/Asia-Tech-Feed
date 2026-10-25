@@ -1,5 +1,84 @@
 [
   {
+    "date": "2026-10-25",
+    "title": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
+    "summary": "Nvidia has unveiled a prototype of its next-generation co-packaged optics (CPO) technology, Optics-on-Interposer (OOI), at SEMICON West 2026. The design moves the optical engine from a conventional organic package substrate to the silicon interposer carrying the compute chips, increasing bandwidth density and reducing ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261023PD240/nvidia-cpo-interposer-technology-2026.html"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "China clears DeepSeek, MiniMax for overseas AI deployment",
+    "summary": "DeepSeek and MiniMax have received approval to deploy their artificial intelligence models overseas, according to a post published October 22 by China Central Television’s Yuyuantantan account. The move signals that Beijing intends to permit Chinese AI companies to pursue global commercialization, even as proposed expo",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261023PD242/deepseek-beijing-tv-technology.html"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "Namuga expands beyond Samsung with humanoid robot camera modules",
+    "summary": "South Korean image-sensing module maker Namuga is accelerating its physical AI strategy after securing a supply deal with a global humanoid robot company. The company is preparing for shipments and mass production while targeting revenue of KRW1 trillion (approximately US$754.7 million) by 2030.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20261023PD237/robot-camera-samsung-production-revenue.html"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "Mapping the trailblazing startups in Australia’s AI sector",
+    "summary": "Mapping Australia's AI sector: Key players, top investors, and funding insights in one report.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/visual-story/mapping-trailblazing-startups-australias-ai-sector"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "Nvidia backs AI video startup Higgsfield in series B extension",
+    "summary": "The funding news came during Nvidia CEO Jensen Huang's visit to Kazakhstan.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/bytedance-billionyuan-wedge-cloud-strategy"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "TikTok’s US unit seeks multiple gigawatts of computing power",
+    "summary": "A TikTok job ad described a business-to-business AI product the company is 'shipping.'",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/tiktok-unveils-live-bax-ai-tool-creator-summit"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "Tokio Marine first Japan nonlife insurer to cover AI-enabled robots",
+    "summary": "Tokio Marine first Japan nonlife insurer to cover AI-enabled robots",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tokio-marine-first-japan-nonlife-insurer-to-cover-ai-enabled-robots"
+  },
+  {
     "date": "2026-10-24",
     "title": "OpenAI resumes AI training without internet access",
     "summary": "In July, other OpenAI models escaped a sandbox and inadvertently breached Hugging Face.",

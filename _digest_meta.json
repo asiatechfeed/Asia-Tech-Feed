@@ -1,36 +1,37 @@
 {
-  "date": "2026-10-24",
-  "count": 5,
+  "date": "2026-10-25",
+  "count": 7,
   "sources": [
     "DigiTimes",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-10-24-asia-tech-news-digest.md",
+  "post_file": "2026-10-25-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "OpenAI resumes AI training without internet access",
+      "title": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261023PD240/nvidia-cpo-interposer-technology-2026.html"
+    },
+    {
+      "title": "China clears DeepSeek, MiniMax for overseas AI deployment",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261023PD242/deepseek-beijing-tv-technology.html"
+    },
+    {
+      "title": "Namuga expands beyond Samsung with humanoid robot camera modules",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261023PD237/robot-camera-samsung-production-revenue.html"
+    },
+    {
+      "title": "Mapping the trailblazing startups in Australia\u2019s AI sector",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/openai-tool-cuts-sentinelone-malware-analysis-8-hours"
+      "url": "https://www.techinasia.com/visual-story/mapping-trailblazing-startups-australias-ai-sector"
     },
     {
-      "title": "Series SEA: Who\u2019s investing in the region\u2019s biotech startups?",
+      "title": "Nvidia backs AI video startup Higgsfield in series B extension",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/top-sea-investors-biotech"
-    },
-    {
-      "title": "First chip-level device on the list: US FCC bans two devices with Huawei HiSilicon chips under new rule",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD231/fcc-hisilicon-huawei-surveillance-market.html"
-    },
-    {
-      "title": "Rapidus courts US AI customers ahead of planned 2H27 2nm mass production",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD228/rapidus-production-2nm-chairman-investment.html"
-    },
-    {
-      "title": "Commentary: How long can the humanoid robot bubble last? Unitree's valuation correction puts physical AI to the test",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD214/physical-ai-humanoid-robot-financing-revenue.html"
+      "url": "https://www.techinasia.com/bytedance-billionyuan-wedge-cloud-strategy"
     }
   ],
   "source_stats": [
@@ -47,7 +48,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -155,7 +156,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 26,
+      "relevant": 25,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -164,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -193,7 +194,7 @@
       "fetched": 36,
       "relevant": 14,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
