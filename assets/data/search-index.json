@@ -1,82 +1,70 @@
 [
   {
     "date": "2026-10-25",
-    "title": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
-    "summary": "Nvidia has unveiled a prototype of its next-generation co-packaged optics (CPO) technology, Optics-on-Interposer (OOI), at SEMICON West 2026. The design moves the optical engine from a conventional organic package substrate to the silicon interposer carrying the compute chips, increasing bandwidth density and reducing ",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "AWS sells out cloud capacity through 2027 as AI demand grows",
+    "summary": "AWS is holding back some 2027 capacity for on-demand customers and services like Bedrock and EC2.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "AI",
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261023PD240/nvidia-cpo-interposer-technology-2026.html"
+    "url": "https://www.techinasia.com/amazon-openai-partner-conversational-ads-chatgpt"
   },
   {
     "date": "2026-10-25",
-    "title": "China clears DeepSeek, MiniMax for overseas AI deployment",
-    "summary": "DeepSeek and MiniMax have received approval to deploy their artificial intelligence models overseas, according to a post published October 22 by China Central Television’s Yuyuantantan account. The move signals that Beijing intends to permit Chinese AI companies to pursue global commercialization, even as proposed expo",
+    "title": "AI data centers drive Taiwan's electrical firms into modular, EPC markets",
+    "summary": "As demand for AI data centers expands, next-generation AI servers are raising requirements for power supply, cooling efficiency, and deployment speed. Taiwan's electrical and mechanical equipment providers are therefore moving beyond standalone equipment supply into system integration, engineering, procurement, and con",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261023PD242/deepseek-beijing-tv-technology.html"
+    "url": "https://www.digitimes.com/news/a20261023PD233/data-equipment-epc-demand-taiwan.html"
   },
   {
     "date": "2026-10-25",
-    "title": "Namuga expands beyond Samsung with humanoid robot camera modules",
-    "summary": "South Korean image-sensing module maker Namuga is accelerating its physical AI strategy after securing a supply deal with a global humanoid robot company. The company is preparing for shipments and mass production while targeting revenue of KRW1 trillion (approximately US$754.7 million) by 2030.",
+    "title": "Meta’s AI commitments surge to US$825 billion, testing financing power",
+    "summary": "Meta Platforms’ long-term AI infrastructure spending is driving rising financial pressure, with free cash flow turning negative in Q3 2026 and future lease and non-cancelable contract commitments climbing to about US$825 billion. The company also raised the lower end of its 2026 capex forecast by US$5 billion to US$135",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261023PD220/meta-financing-infrastructure-investment-capex.html"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "Texas Instruments sees up to $1,000 in chip content per humanoid robot as analog supply tightens",
+    "summary": "Texas Instruments (TI) held its latest earnings call this week, projecting fourth-quarter 2026 revenue of US$5.8 billion to US$6.3 billion. The midpoint of its guidance is broadly in line with third-quarter revenue, outperforming the seasonal declines typically seen in the fourth quarter.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
       "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20261023PD237/robot-camera-samsung-production-revenue.html"
+    "url": "https://www.digitimes.com/news/a20261023PD218/texas-instruments-robot-earnings-2026-revenue.html"
   },
   {
     "date": "2026-10-25",
-    "title": "Mapping the trailblazing startups in Australia’s AI sector",
-    "summary": "Mapping Australia's AI sector: Key players, top investors, and funding insights in one report.",
+    "title": "China’s Moonshot AI unveils Kimi K3.1 Pro model",
+    "summary": "Moonshot said the Highspeed version delivers 2x to 3x the speed of K3.1 Pro.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/visual-story/mapping-trailblazing-startups-australias-ai-sector"
+    "url": "https://www.techinasia.com/moonshot-ais-kimi-k3-escapes-test-environment-report"
   },
   {
     "date": "2026-10-25",
-    "title": "Nvidia backs AI video startup Higgsfield in series B extension",
-    "summary": "The funding news came during Nvidia CEO Jensen Huang's visit to Kazakhstan.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
+    "summary": "Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio",
+    "source": "KED Global",
+    "short": "KED",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/bytedance-billionyuan-wedge-cloud-strategy"
-  },
-  {
-    "date": "2026-10-25",
-    "title": "TikTok’s US unit seeks multiple gigawatts of computing power",
-    "summary": "A TikTok job ad described a business-to-business AI product the company is 'shipping.'",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/tiktok-unveils-live-bax-ai-tool-creator-summit"
-  },
-  {
-    "date": "2026-10-25",
-    "title": "Tokio Marine first Japan nonlife insurer to cover AI-enabled robots",
-    "summary": "Tokio Marine first Japan nonlife insurer to cover AI-enabled robots",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Automation"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tokio-marine-first-japan-nonlife-insurer-to-cover-ai-enabled-robots"
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001"
   },
   {
     "date": "2026-10-24",
