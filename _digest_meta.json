@@ -1,37 +1,25 @@
 {
   "date": "2026-10-25",
-  "count": 6,
+  "count": 3,
   "sources": [
-    "DigiTimes",
-    "KED",
-    "TechAsia"
+    "DigiTimes"
   ],
   "post_file": "2026-10-25-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "AWS sells out cloud capacity through 2027 as AI demand grows",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/amazon-openai-partner-conversational-ads-chatgpt"
-    },
-    {
-      "title": "AI data centers drive Taiwan's electrical firms into modular, EPC markets",
+      "title": "Column: Will general-purpose models overtake Physical AI?",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD233/data-equipment-epc-demand-taiwan.html"
+      "url": "https://www.digitimes.com/news/a20261023PD210/physical-ai-robot-robotics-3d-2026.html"
     },
     {
-      "title": "Meta\u2019s AI commitments surge to US$825 billion, testing financing power",
+      "title": "Magnate Technology sees aerospace, semiconductor growth opportunities",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD220/meta-financing-infrastructure-investment-capex.html"
+      "url": "https://www.digitimes.com/news/a20261023PD207/growth-revenue-aircraft-demand-equipment.html"
     },
     {
-      "title": "Texas Instruments sees up to $1,000 in chip content per humanoid robot as analog supply tightens",
+      "title": "Interview: The story of LEACHIM, a working humanoid robot from the 1970s",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD218/texas-instruments-robot-earnings-2026-revenue.html"
-    },
-    {
-      "title": "China\u2019s Moonshot AI unveils Kimi K3.1 Pro model",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/moonshot-ais-kimi-k3-escapes-test-environment-report"
+      "url": "https://www.digitimes.com/news/a20261023VL223/humanoid-robot-physical-ai-interview.html"
     }
   ],
   "source_stats": [
@@ -176,7 +164,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -192,9 +180,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -210,7 +198,7 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
