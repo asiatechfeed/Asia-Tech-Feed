@@ -1,37 +1,37 @@
 {
   "date": "2026-10-25",
-  "count": 7,
+  "count": 6,
   "sources": [
     "DigiTimes",
-    "NikkeiAsia",
+    "KED",
     "TechAsia"
   ],
   "post_file": "2026-10-25-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD240/nvidia-cpo-interposer-technology-2026.html"
-    },
-    {
-      "title": "China clears DeepSeek, MiniMax for overseas AI deployment",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD242/deepseek-beijing-tv-technology.html"
-    },
-    {
-      "title": "Namuga expands beyond Samsung with humanoid robot camera modules",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD237/robot-camera-samsung-production-revenue.html"
-    },
-    {
-      "title": "Mapping the trailblazing startups in Australia\u2019s AI sector",
+      "title": "AWS sells out cloud capacity through 2027 as AI demand grows",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/visual-story/mapping-trailblazing-startups-australias-ai-sector"
+      "url": "https://www.techinasia.com/amazon-openai-partner-conversational-ads-chatgpt"
     },
     {
-      "title": "Nvidia backs AI video startup Higgsfield in series B extension",
+      "title": "AI data centers drive Taiwan's electrical firms into modular, EPC markets",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261023PD233/data-equipment-epc-demand-taiwan.html"
+    },
+    {
+      "title": "Meta\u2019s AI commitments surge to US$825 billion, testing financing power",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261023PD220/meta-financing-infrastructure-investment-capex.html"
+    },
+    {
+      "title": "Texas Instruments sees up to $1,000 in chip content per humanoid robot as analog supply tightens",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261023PD218/texas-instruments-robot-earnings-2026-revenue.html"
+    },
+    {
+      "title": "China\u2019s Moonshot AI unveils Kimi K3.1 Pro model",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/bytedance-billionyuan-wedge-cloud-strategy"
+      "url": "https://www.techinasia.com/moonshot-ais-kimi-k3-escapes-test-environment-report"
     }
   ],
   "source_stats": [
@@ -147,7 +147,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 3,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -167,7 +167,7 @@
       "fetched": 50,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -176,7 +176,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -192,9 +192,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
