@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-24T08:01:28+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 24, 2026</title><link href="https://asiatechfeed.com/2026/10/24/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 24, 2026" /><published>2026-10-24T08:00:56+00:00</published><updated>2026-10-24T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/10/24/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/24/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-25T01:22:36+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 25, 2026</title><link href="https://asiatechfeed.com/2026/10/25/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 25, 2026" /><published>2026-10-25T01:21:57+00:00</published><updated>2026-10-25T01:21:57+00:00</updated><id>https://asiatechfeed.com/2026/10/25/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/25/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Nvidia unveils OOI CPO prototype for post-2028 AI needs</span></td>
+  <td class="col-summary">Nvidia has unveiled a prototype of its next-generation co-packaged optics (CPO) technology, Optics-on-Interposer (OOI), at SEMICON West 2026. The design moves the optical engine from a conventional organic package substrate to the silicon interposer carrying the compute chips, increasing bandwidth density and reducing </td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261023PD240/nvidia-cpo-interposer-technology-2026.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">China clears DeepSeek, MiniMax for overseas AI deployment</span></td>
+  <td class="col-summary">DeepSeek and MiniMax have received approval to deploy their artificial intelligence models overseas, according to a post published October 22 by China Central Television’s Yuyuantantan account. The move signals that Beijing intends to permit Chinese AI companies to pursue global commercialization, even as proposed expo</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261023PD242/deepseek-beijing-tv-technology.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Namuga expands beyond Samsung with humanoid robot camera modules</span></td>
+  <td class="col-summary">South Korean image-sensing module maker Namuga is accelerating its physical AI strategy after securing a supply deal with a global humanoid robot company. The company is preparing for shipments and mass production while targeting revenue of KRW1 trillion (approximately US$754.7 million) by 2030.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261023PD237/robot-camera-samsung-production-revenue.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Mapping the trailblazing startups in Australia’s AI sector</span></td>
+  <td class="col-summary">Mapping Australia's AI sector: Key players, top investors, and funding insights in one report.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/mapping-trailblazing-startups-australias-ai-sector" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia backs AI video startup Higgsfield in series B extension</span></td>
+  <td class="col-summary">The funding news came during Nvidia CEO Jensen Huang's visit to Kazakhstan.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/bytedance-billionyuan-wedge-cloud-strategy" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">TikTok’s US unit seeks multiple gigawatts of computing power</span></td>
+  <td class="col-summary">A TikTok job ad described a business-to-business AI product the company is 'shipping.'</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/tiktok-unveils-live-bax-ai-tool-creator-summit" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Tokio Marine first Japan nonlife insurer to cover AI-enabled robots</span></td>
+  <td class="col-summary">Tokio Marine first Japan nonlife insurer to cover AI-enabled robots</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/tokio-marine-first-japan-nonlife-insurer-to-cover-ai-enabled-robots" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Nvidia unveils OOI CPO prototype for post-2028 AI needs Nvidia has unveiled a prototype of its next-generation co-packaged optics (CPO) technology, Optics-on-Interposer (OOI), at SEMICON West 2026. The design moves the optical engine from a conventional organic package substrate to the silicon interposer carrying the compute chips, increasing bandwidth density and reducing AISemiconductor Read 2 DigiTimes China clears DeepSeek, MiniMax for overseas AI deployment DeepSeek and MiniMax have received approval to deploy their artificial intelligence models overseas, according to a post published October 22 by China Central Television’s Yuyuantantan account. The move signals that Beijing intends to permit Chinese AI companies to pursue global commercialization, even as proposed expo AI Read 3 DigiTimes Namuga expands beyond Samsung with humanoid robot camera modules South Korean image-sensing module maker Namuga is accelerating its physical AI strategy after securing a supply deal with a global humanoid robot company. The company is preparing for shipments and mass production while targeting revenue of KRW1 trillion (approximately US$754.7 million) by 2030. AIAutomation Read 4 TechAsia Mapping the trailblazing startups in Australia’s AI sector Mapping Australia's AI sector: Key players, top investors, and funding insights in one report. AI Read 5 TechAsia Nvidia backs AI video startup Higgsfield in series B extension The funding news came during Nvidia CEO Jensen Huang's visit to Kazakhstan. AI Read 6 TechAsia TikTok’s US unit seeks multiple gigawatts of computing power A TikTok job ad described a business-to-business AI product the company is 'shipping.' AI Read 7 NikkeiAsia Tokio Marine first Japan nonlife insurer to cover AI-enabled robots Tokio Marine first Japan nonlife insurer to cover AI-enabled robots Automation Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 24, 2026</title><link href="https://asiatechfeed.com/2026/10/24/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 24, 2026" /><published>2026-10-24T08:00:56+00:00</published><updated>2026-10-24T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/10/24/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/24/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -659,97 +728,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/supply-chain/optical-parts-maker-to-triple-malaysian-capacity-to-tackle-ai-supply-crunch" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Schneider Electric lifts 2026 outlook on strong AI demand The company now expects 2026 organic adjusted earnings before interest, taxes, depreciation, and amortization growth. AI Read 2 CNA Dollar heads for weekly fall as investors gauge AI selloff impact Dollar heads for weekly fall as investors gauge AI selloff impact AI Read 3 TechAsia AstraZeneca strikes $1.5b AI drug discovery deal with Insitro AstraZeneca will pay insitro US$40 million upfront. AIPharmaceutical Read 4 TechAsia Kuaishou shares rise 4% as Kling AI launches video model Kling AI, Kuaishou’s AI video-generation unit, said Kling 4.0 can turn text prompts of up to 8,000 tokens into native videos up to 30 seconds long. AI Read 5 CNA Rogue AI agents broke into Indian firms' live systems, government says Rogue AI agents broke into Indian firms' live systems, government says AI Read 6 DigiTimes Samsung, SK Hynix aim to ease AI memory bottlenecks with zHBM, HBF Samsung Electronics and SK Hynix are developing new memory technologies to address growing bottlenecks in AI systems, with Samsung exploring a design that stacks high-bandwidth memory (HBM) directly above graphics processors and SK Hynix advancing high-bandwidth flash (HBF) to expand memory capacity for AI inference. ElectronicsAI Read 7 DigiTimes Delta says AI power gap will drive standalone microgrids Delta Electronics chairman Ping Cheng said at the 2026 Global Views Leaders Forum on October 15, 2026, that the world is entering an era of electrification, with AI data centers and EVs driving electricity demand beyond available supply. Delta is expanding its focus from power consumption to an integrated microgrid arc ElectronicsAI Read 8 DigiTimes Samsung's chip and device chiefs head to Tokyo during Lee's visit Five senior Samsung Electronics executives, including the heads of its semiconductor and consumer electronics businesses, reportedly traveled to Tokyo on October 13 while chairman Lee Jae-yong was visiting Japan, bringing together the company's three executive directors and key corporate decision-makers as it expands c SemiconductorElectronics Read 9 CNA Malaysia's economy grows 5.3% year-on-year in Q3: Advance estimate Malaysia has benefited from a global boom in artificial intelligence infrastructure that has driven demand for its tech products and semiconductors. SemiconductorAI Read 10 NikkeiAsia Optical parts maker to triple Malaysian capacity to tackle AI supply crunch Optical parts maker to triple Malaysian capacity to tackle AI supply crunch AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 15, 2026</title><link href="https://asiatechfeed.com/2026/10/15/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 15, 2026" /><published>2026-10-15T08:00:48+00:00</published><updated>2026-10-15T08:00:48+00:00</updated><id>https://asiatechfeed.com/2026/10/15/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/15/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Sea partners with Google AI fund to explore new applications</span></td>
-  <td class="col-summary">The companies said the collaboration is the Google AI Futures Fund’s first partnership with an external AI lab.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/seas-q2-revenue-jumps-48-net-income-up-11" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Protecting creator voices from unauthorized AI training</span></td>
-  <td class="col-summary">Sparkonomy found that fewer than 1% of creators are described accurately by all major AI models, costing them vital business opportunities.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/protecting-creator-voices-unauthorized-ai-training" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SK Hynix targets January 2027 for HBF standard, eyes DRAM stacked on AI chips</span></td>
-  <td class="col-summary">SK Hynix aims to finalize the technical specifications for high-bandwidth flash (HBF) in January 2027 as it develops new memory technologies to address growing bottlenecks in AI inference systems. The South Korean chipmaker is also exploring ways to stack DRAM directly on AI processors to improve performance and energy</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261015PD218/sk-hynix-dram-ai-inference-capacity-2027.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">US AI data center power shortages drive demand for hybrid solar, natural gas and geothermal systems</span></td>
-  <td class="col-summary">The rapid expansion of AI data centers in the US is placing growing pressure on conventional power grids, as their substantial and highly variable electricity requirements strain available supply in certain regions. Power shortages have even delayed the construction of some AI data center projects.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261014PD241/data-center-geothermal-solar-demand-expansion.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TSMC's AI-fuelled profit streak hits sixth straight record in 3Q26, but 2nm expansion weighs on margins</span></td>
-  <td class="col-summary">On October 15, 2026, TSMC reported its sixth consecutive quarter of record net profit, with third-quarter earnings rising 68.7% year-over-year to NT$763.06 billion (approx. US$23.6 billion), exceeding market expectations on sustained demand for advanced semiconductors used in artificial intelligence (AI).</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261015VL218/tsmc-profit-2nm-revenue-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Alibaba’s Taobao revamps cross-border shopping with AI tools</span></td>
-  <td class="col-summary">Taobao said the channel features more than 4,000 original-brand stores and 6 million curated products selected by AI and human curators.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-integrates-1688-alibabacom-single-operation" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Figma CFO says design platform willing to put margins on the line to boost AI demand</span></td>
-  <td class="col-summary">Figma CFO says design platform willing to put margins on the line to boost AI demand</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/figma-cfo-says-design-platform-willing-put-margins-line-boost-ai-demand-6461406" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">South Korea's KOSPI closes at 6-month low as chipmakers slump on AI worries</span></td>
-  <td class="col-summary">South Korea's KOSPI closes at 6-month low as chipmakers slump on AI worries</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/south-koreas-kospi-closes-6-month-low-chipmakers-slump-ai-worries-6461381" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Asian markets sell off after US inflation fuels rate hike bets</span></td>
-  <td class="col-summary">Seoul and Tokyo bore the brunt of the selling as traders bailed out of once-imperious chipmakers.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/asian-markets-sell-us-inflation-rate-hike-kospi-nikkei-6460916" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">TSMC profit soars 69% in another record quarter fueled by AI boom</span></td>
-  <td class="col-summary">TSMC profit soars 69% in another record quarter fueled by AI boom</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/tsmc-profit-soars-69-in-another-record-quarter-fueled-by-ai-boom" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Sea partners with Google AI fund to explore new applications The companies said the collaboration is the Google AI Futures Fund’s first partnership with an external AI lab. AI Read 2 TechAsia Protecting creator voices from unauthorized AI training Sparkonomy found that fewer than 1% of creators are described accurately by all major AI models, costing them vital business opportunities. AI Read 3 DigiTimes SK Hynix targets January 2027 for HBF standard, eyes DRAM stacked on AI chips SK Hynix aims to finalize the technical specifications for high-bandwidth flash (HBF) in January 2027 as it develops new memory technologies to address growing bottlenecks in AI inference systems. The South Korean chipmaker is also exploring ways to stack DRAM directly on AI processors to improve performance and energy AISemiconductor Read 4 DigiTimes US AI data center power shortages drive demand for hybrid solar, natural gas and geothermal systems The rapid expansion of AI data centers in the US is placing growing pressure on conventional power grids, as their substantial and highly variable electricity requirements strain available supply in certain regions. Power shortages have even delayed the construction of some AI data center projects. AI Read 5 DigiTimes TSMC's AI-fuelled profit streak hits sixth straight record in 3Q26, but 2nm expansion weighs on margins On October 15, 2026, TSMC reported its sixth consecutive quarter of record net profit, with third-quarter earnings rising 68.7% year-over-year to NT$763.06 billion (approx. US$23.6 billion), exceeding market expectations on sustained demand for advanced semiconductors used in artificial intelligence (AI). SemiconductorAI Read 6 TechAsia Alibaba’s Taobao revamps cross-border shopping with AI tools Taobao said the channel features more than 4,000 original-brand stores and 6 million curated products selected by AI and human curators. AI Read 7 CNA Figma CFO says design platform willing to put margins on the line to boost AI demand Figma CFO says design platform willing to put margins on the line to boost AI demand AI Read 8 CNA South Korea's KOSPI closes at 6-month low as chipmakers slump on AI worries South Korea's KOSPI closes at 6-month low as chipmakers slump on AI worries AISemiconductor Read 9 CNA Asian markets sell off after US inflation fuels rate hike bets Seoul and Tokyo bore the brunt of the selling as traders bailed out of once-imperious chipmakers. Semiconductor Read 10 NikkeiAsia TSMC profit soars 69% in another record quarter fueled by AI boom TSMC profit soars 69% in another record quarter fueled by AI boom AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Schneider Electric lifts 2026 outlook on strong AI demand The company now expects 2026 organic adjusted earnings before interest, taxes, depreciation, and amortization growth. AI Read 2 CNA Dollar heads for weekly fall as investors gauge AI selloff impact Dollar heads for weekly fall as investors gauge AI selloff impact AI Read 3 TechAsia AstraZeneca strikes $1.5b AI drug discovery deal with Insitro AstraZeneca will pay insitro US$40 million upfront. AIPharmaceutical Read 4 TechAsia Kuaishou shares rise 4% as Kling AI launches video model Kling AI, Kuaishou’s AI video-generation unit, said Kling 4.0 can turn text prompts of up to 8,000 tokens into native videos up to 30 seconds long. AI Read 5 CNA Rogue AI agents broke into Indian firms' live systems, government says Rogue AI agents broke into Indian firms' live systems, government says AI Read 6 DigiTimes Samsung, SK Hynix aim to ease AI memory bottlenecks with zHBM, HBF Samsung Electronics and SK Hynix are developing new memory technologies to address growing bottlenecks in AI systems, with Samsung exploring a design that stacks high-bandwidth memory (HBM) directly above graphics processors and SK Hynix advancing high-bandwidth flash (HBF) to expand memory capacity for AI inference. ElectronicsAI Read 7 DigiTimes Delta says AI power gap will drive standalone microgrids Delta Electronics chairman Ping Cheng said at the 2026 Global Views Leaders Forum on October 15, 2026, that the world is entering an era of electrification, with AI data centers and EVs driving electricity demand beyond available supply. Delta is expanding its focus from power consumption to an integrated microgrid arc ElectronicsAI Read 8 DigiTimes Samsung's chip and device chiefs head to Tokyo during Lee's visit Five senior Samsung Electronics executives, including the heads of its semiconductor and consumer electronics businesses, reportedly traveled to Tokyo on October 13 while chairman Lee Jae-yong was visiting Japan, bringing together the company's three executive directors and key corporate decision-makers as it expands c SemiconductorElectronics Read 9 CNA Malaysia's economy grows 5.3% year-on-year in Q3: Advance estimate Malaysia has benefited from a global boom in artificial intelligence infrastructure that has driven demand for its tech products and semiconductors. SemiconductorAI Read 10 NikkeiAsia Optical parts maker to triple Malaysian capacity to tackle AI supply crunch Optical parts maker to triple Malaysian capacity to tackle AI supply crunch AI Read]]></summary></entry></feed>
