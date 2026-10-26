@@ -1,48 +1,83 @@
 [
   {
     "date": "2026-10-26",
-    "title": "AI’s awful week is a peek into the future",
-    "summary": "Scott Shuey breaks down what’s driving this week’s rage-inducing AI stories, from the PHP panic to growing concern about investments.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Interview: From afterthought to bottleneck, circuit boards move to the heart of AI hardware",
+    "summary": "In the era of AI and high-performance computing (HPC), the once-separate worlds of chip design, packaging, and circuit boards are converging. According to the Global Electronics Association, AI server motherboards have become the largest, thickest, and most structurally complex PCBs ever manufactured, drawing substrate",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/ais-awful-week-peek-future"
-  },
-  {
-    "date": "2026-10-26",
-    "title": "Who’s investing in India’s AI startups?",
-    "summary": "We've compiled a list of investors pouring money into India’s AI startups.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/whos-investing-indias-ai-startups"
-  },
-  {
-    "date": "2026-10-26",
-    "title": "Musk says SpaceX closes $40b debt deal for Nvidia AI chips",
-    "summary": "SpaceX also plans to launch Nvidia-powered AI satellites into orbit next year.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
+      "Electronics",
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/spacex-beats-revenue-estimates-shares-fall-5-hours"
+    "url": "https://www.digitimes.com/news/a20261023PD234/taiwan-packaging-pcb-manufacturing.html"
   },
   {
     "date": "2026-10-26",
-    "title": "India's chip design startups struggle with final commercial hurdle",
-    "summary": "India's chip design startups struggle with final commercial hurdle",
+    "title": "Meta prioritizes high-margin AI inference as Wiwynn, Quanta eye CPU server demand",
+    "summary": "Meta has become the first of the four major US hyperscale cloud providers to report its latest earnings, with supply chain players closely monitoring changes in the company's capital expenditure plans and investment priorities.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261023PD222/meta-quanta-cpu-demand-wiwynn.html"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "Taiwan wafer-testing supplier Hermes Testing Solutions commits more than US$215 million to advanced chip testing expansion",
+    "summary": "Hermes Testing Solutions Inc. (HTSI), a semiconductor wafer-testing solutions provider, is expanding its Taiwan operations. Its board approved budget authorisations on October 22 for a new R&D centre in Hsinchu and a manufacturing centre in south-central Taiwan, with total investment expected to exceed NT$7 billion (ap",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261023PD241/taiwan-testing-equipment-budget-investment.html"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "Samsung, SK Hynix shares fall before earnings on AI doubts",
+    "summary": "TrendForce: China's AI and cloud demand may absorb much of new local memory supply through 2027.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/samsung-electronics-q2-profit-soaring-ai-memory"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "Tin Men Capital leads $7.4m round for vision AI startup Ailytics",
+    "summary": "The vision AI startup says it has more than 400 deployments across 15 countries.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/aipowered-tools-clearing-constructions-data-debris"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "SoftBank eyes $50b AI investment in Malaysia",
+    "summary": "Malaysia logged US$94 billion in data center-related investments from 2021 to mid-2026.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/softbank-completes-final-10b-openai-investment"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "Macao casinos chip in $1.1bn to back city's economic diversification",
+    "summary": "Macao casinos chip in $1.1bn to back city's economic diversification",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/india-s-chip-design-startups-struggle-with-final-commercial-hurdle"
+    "url": "https://asia.nikkei.com/economy/macao-casinos-chip-in-1.1bn-to-back-city-s-economic-diversification"
   },
   {
     "date": "2026-10-25",

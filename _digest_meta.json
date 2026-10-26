@@ -1,31 +1,37 @@
 {
   "date": "2026-10-26",
-  "count": 4,
+  "count": 7,
   "sources": [
+    "DigiTimes",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-26-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "AI\u2019s awful week is a peek into the future",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/ais-awful-week-peek-future"
+      "title": "Interview: From afterthought to bottleneck, circuit boards move to the heart of AI hardware",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261023PD234/taiwan-packaging-pcb-manufacturing.html"
     },
     {
-      "title": "Who\u2019s investing in India\u2019s AI startups?",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/whos-investing-indias-ai-startups"
+      "title": "Meta prioritizes high-margin AI inference as Wiwynn, Quanta eye CPU server demand",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261023PD222/meta-quanta-cpu-demand-wiwynn.html"
     },
     {
-      "title": "Musk says SpaceX closes $40b debt deal for Nvidia AI chips",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/spacex-beats-revenue-estimates-shares-fall-5-hours"
+      "title": "Taiwan wafer-testing supplier Hermes Testing Solutions commits more than US$215 million to advanced chip testing expansion",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261023PD241/taiwan-testing-equipment-budget-investment.html"
     },
     {
-      "title": "India's chip design startups struggle with final commercial hurdle",
-      "source": "NikkeiAsia",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/india-s-chip-design-startups-struggle-with-final-commercial-hurdle"
+      "title": "Samsung, SK Hynix shares fall before earnings on AI doubts",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/samsung-electronics-q2-profit-soaring-ai-memory"
+    },
+    {
+      "title": "Tin Men Capital leads $7.4m round for vision AI startup Ailytics",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/aipowered-tools-clearing-constructions-data-debris"
     }
   ],
   "source_stats": [
@@ -152,14 +158,14 @@
       "fetched": 35,
       "relevant": 25,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 9,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
