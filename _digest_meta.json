@@ -1,25 +1,26 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "count": 3,
   "sources": [
-    "DigiTimes"
+    "DigiTimes",
+    "NikkeiAsia"
   ],
-  "post_file": "2026-10-25-asia-tech-news-digest.md",
+  "post_file": "2026-10-26-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Column: Will general-purpose models overtake Physical AI?",
+      "title": "Chinese phone brands beat Samsung, Apple to high-refresh OLED",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD210/physical-ai-robot-robotics-3d-2026.html"
+      "url": "https://www.digitimes.com/news/a20261023PD203/smartphone-samsung-apple-panel-visionox.html"
     },
     {
-      "title": "Magnate Technology sees aerospace, semiconductor growth opportunities",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD207/growth-revenue-aircraft-demand-equipment.html"
+      "title": "SoftBank plans $50bn AI investment in Malaysia, PM says",
+      "source": "NikkeiAsia",
+      "url": "https://asia.nikkei.com/business/softbank/softbank-plans-50bn-ai-investment-in-malaysia-pm-says"
     },
     {
-      "title": "Interview: The story of LEACHIM, a working humanoid robot from the 1970s",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023VL223/humanoid-robot-physical-ai-interview.html"
+      "title": "Indonesia free university plan to attract AI risks more fiscal strain",
+      "source": "NikkeiAsia",
+      "url": "https://asia.nikkei.com/politics/indonesia-free-university-plan-to-attract-ai-risks-more-fiscal-strain"
     }
   ],
   "source_stats": [
@@ -146,16 +147,16 @@
       "fetched": 35,
       "relevant": 25,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
