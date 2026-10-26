@@ -1,37 +1,38 @@
 {
   "date": "2026-10-26",
-  "count": 7,
+  "count": 5,
   "sources": [
     "DigiTimes",
     "NikkeiAsia",
+    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-10-26-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Interview: From afterthought to bottleneck, circuit boards move to the heart of AI hardware",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD234/taiwan-packaging-pcb-manufacturing.html"
+      "title": "Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec)",
+      "source": "SemiEng",
+      "url": "https://semiengineering.com/vertical-dram-stacking-expands-thermal-design-space-beyond-hbm-imec/"
     },
     {
-      "title": "Meta prioritizes high-margin AI inference as Wiwynn, Quanta eye CPU server demand",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD222/meta-quanta-cpu-demand-wiwynn.html"
-    },
-    {
-      "title": "Taiwan wafer-testing supplier Hermes Testing Solutions commits more than US$215 million to advanced chip testing expansion",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD241/taiwan-testing-equipment-budget-investment.html"
-    },
-    {
-      "title": "Samsung, SK Hynix shares fall before earnings on AI doubts",
+      "title": "NUHS, SingHealth join Cambridge-led AI blood test project",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/samsung-electronics-q2-profit-soaring-ai-memory"
+      "url": "https://www.techinasia.com/ai-tool-catches-lost-revenue-paramedics"
     },
     {
-      "title": "Tin Men Capital leads $7.4m round for vision AI startup Ailytics",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/aipowered-tools-clearing-constructions-data-debris"
+      "title": "Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261023PD235/tsmc-3nm-demand-samsung-hbm.html"
+    },
+    {
+      "title": "India roundup: India's tech build-out opens new markets, but foreign suppliers are first in line",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261023VL212/india-roundup-5g-ipo-fab-data.html"
+    },
+    {
+      "title": "For India's IT giants TCS and Infosys, AI both dents and supports growth",
+      "source": "NikkeiAsia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/for-india-s-it-giants-tcs-and-infosys-ai-both-dents-and-supports-growth"
     }
   ],
   "source_stats": [
@@ -128,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -156,16 +157,16 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 25,
+      "relevant": 18,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 10,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -194,7 +195,7 @@
       "fetched": 36,
       "relevant": 15,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -212,7 +213,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     }
   ]
