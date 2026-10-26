@@ -1,26 +1,31 @@
 {
   "date": "2026-10-26",
-  "count": 3,
+  "count": 4,
   "sources": [
-    "DigiTimes",
-    "NikkeiAsia"
+    "NikkeiAsia",
+    "TechAsia"
   ],
   "post_file": "2026-10-26-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Chinese phone brands beat Samsung, Apple to high-refresh OLED",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD203/smartphone-samsung-apple-panel-visionox.html"
+      "title": "AI\u2019s awful week is a peek into the future",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/ais-awful-week-peek-future"
     },
     {
-      "title": "SoftBank plans $50bn AI investment in Malaysia, PM says",
-      "source": "NikkeiAsia",
-      "url": "https://asia.nikkei.com/business/softbank/softbank-plans-50bn-ai-investment-in-malaysia-pm-says"
+      "title": "Who\u2019s investing in India\u2019s AI startups?",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/whos-investing-indias-ai-startups"
     },
     {
-      "title": "Indonesia free university plan to attract AI risks more fiscal strain",
+      "title": "Musk says SpaceX closes $40b debt deal for Nvidia AI chips",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/spacex-beats-revenue-estimates-shares-fall-5-hours"
+    },
+    {
+      "title": "India's chip design startups struggle with final commercial hurdle",
       "source": "NikkeiAsia",
-      "url": "https://asia.nikkei.com/politics/indonesia-free-university-plan-to-attract-ai-risks-more-fiscal-strain"
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/india-s-chip-design-startups-struggle-with-final-commercial-hurdle"
     }
   ],
   "source_stats": [
@@ -147,7 +152,7 @@
       "fetched": 35,
       "relevant": 25,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -156,7 +161,7 @@
       "fetched": 50,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -181,9 +186,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 11,
+      "relevant": 15,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
