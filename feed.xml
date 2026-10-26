@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-26T00:03:25+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 26, 2026</title><link href="https://asiatechfeed.com/2026/10/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 26, 2026" /><published>2026-10-26T00:02:51+00:00</published><updated>2026-10-26T00:02:51+00:00</updated><id>https://asiatechfeed.com/2026/10/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-26T02:51:57+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 26, 2026</title><link href="https://asiatechfeed.com/2026/10/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 26, 2026" /><published>2026-10-26T02:51:23+00:00</published><updated>2026-10-26T02:51:23+00:00</updated><id>https://asiatechfeed.com/2026/10/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,30 +12,38 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Chinese phone brands beat Samsung, Apple to high-refresh OLED</span></td>
-  <td class="col-summary">Chinese smartphone brands have brought high-refresh-rate OLED displays to market ahead of Samsung Electronics and Apple, with Visionox and BOE supplying 185Hz panels for the iQOO Neo 12 and RedMagic 12 Pro+, respectively. The move sets a new standard for smartphone applications, where power consumption remains a major </td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261023PD203/smartphone-samsung-apple-panel-visionox.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">AI’s awful week is a peek into the future</span></td>
+  <td class="col-summary">Scott Shuey breaks down what’s driving this week’s rage-inducing AI stories, from the PHP panic to growing concern about investments.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ais-awful-week-peek-future" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">SoftBank plans $50bn AI investment in Malaysia, PM says</span></td>
-  <td class="col-summary">SoftBank plans $50bn AI investment in Malaysia, PM says</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Who’s investing in India’s AI startups?</span></td>
+  <td class="col-summary">We've compiled a list of investors pouring money into India’s AI startups.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/softbank/softbank-plans-50bn-ai-investment-in-malaysia-pm-says" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/whos-investing-indias-ai-startups" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Musk says SpaceX closes $40b debt deal for Nvidia AI chips</span></td>
+  <td class="col-summary">SpaceX also plans to launch Nvidia-powered AI satellites into orbit next year.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/spacex-beats-revenue-estimates-shares-fall-5-hours" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Indonesia free university plan to attract AI risks more fiscal strain</span></td>
-  <td class="col-summary">Indonesia free university plan to attract AI risks more fiscal strain</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/politics/indonesia-free-university-plan-to-attract-ai-risks-more-fiscal-strain" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">India's chip design startups struggle with final commercial hurdle</span></td>
+  <td class="col-summary">India's chip design startups struggle with final commercial hurdle</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/india-s-chip-design-startups-struggle-with-final-commercial-hurdle" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Chinese phone brands beat Samsung, Apple to high-refresh OLED Chinese smartphone brands have brought high-refresh-rate OLED displays to market ahead of Samsung Electronics and Apple, with Visionox and BOE supplying 185Hz panels for the iQOO Neo 12 and RedMagic 12 Pro+, respectively. The move sets a new standard for smartphone applications, where power consumption remains a major Electronics Read 2 NikkeiAsia SoftBank plans $50bn AI investment in Malaysia, PM says SoftBank plans $50bn AI investment in Malaysia, PM says AI Read 3 NikkeiAsia Indonesia free university plan to attract AI risks more fiscal strain Indonesia free university plan to attract AI risks more fiscal strain AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 25, 2026</title><link href="https://asiatechfeed.com/2026/10/25/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 25, 2026" /><published>2026-10-25T08:00:53+00:00</published><updated>2026-10-25T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/10/25/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/25/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia AI’s awful week is a peek into the future Scott Shuey breaks down what’s driving this week’s rage-inducing AI stories, from the PHP panic to growing concern about investments. AI Read 2 TechAsia Who’s investing in India’s AI startups? We've compiled a list of investors pouring money into India’s AI startups. AI Read 3 TechAsia Musk says SpaceX closes $40b debt deal for Nvidia AI chips SpaceX also plans to launch Nvidia-powered AI satellites into orbit next year. AISemiconductor Read 4 NikkeiAsia India's chip design startups struggle with final commercial hurdle India's chip design startups struggle with final commercial hurdle Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 25, 2026</title><link href="https://asiatechfeed.com/2026/10/25/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 25, 2026" /><published>2026-10-25T08:00:53+00:00</published><updated>2026-10-25T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/10/25/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/25/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
