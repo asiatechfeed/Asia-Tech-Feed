@@ -1,5 +1,117 @@
 [
   {
+    "date": "2026-10-27",
+    "title": "Samsung Executive Chairman reportedly eyes RX unit visit for humanoid robot push",
+    "summary": "Samsung Electronics Executive Chairman Lee Jae-Yong is reportedly set to visit the company's Robotics eXperience (RX) business unit in Seoul's Umyeon-dong by the end of October to review humanoid robot development and preparations for CES 2027. If the visit takes place, it will be Lee's first visit since the organizati",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20261023PD238/samsung-humanoid-robot-development-ces.html"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "DIGITIMES Insights: AI servers move toward 800V DC as vertical power delivery promises higher efficiency, lower transmission losses",
+    "summary": "AI server power architectures are evolving toward high-voltage distribution and point-of-load voltage conversion, according to DIGITIMES Intelligence.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261023PD232/ai-server-power-components-transmission-efficiency-digitimes.html"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Sunic System wins overseas OLEDoS equipment order",
+    "summary": "As AI expands into wearable devices, South Korean OLED deposition equipment maker Sunic System has secured another overseas order for OLEDoS (OLED on Silicon) deposition equipment, targeting growth in extended reality (XR) and smart glasses.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261023PD205/oledos-equipment-wearable-xr-technology.html"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "India's IT firms face a new dilemma: How to train tomorrow's engineers in the age of AI",
+    "summary": "India’s biggest IT firms are hiring far fewer fresh graduates, as AI changes the skills employers seek. Industry experts tell CNA this could create a shortage of experienced workers in the future unless companies and universities do more to develop young talent.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/asia/india-it-ai-reshapes-entry-level-jobs-6485426"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
+    "summary": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-ai-chips-anthropic-6494381"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Vietnam’s $1.3b chip plant may miss 2027 trial target",
+    "summary": "Viettel said the project, estimated by authorities to cost about US$1.3 billion, remained on schedule.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/hcm-city-plans-2-1b-ai-data-center-investment"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "India’s Tata Communications plans $450m AI fiber investment",
+    "summary": "The rollout's first phase will cover the Mumbai-Pune-Hyderabad-Chennai corridor.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/india-taps-six-firms-for-government-ai-rollout"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "70% of Asia Pacific travelers open to AI handling work: survey",
+    "summary": "Booking.com said 90% would take a long-haul flight if they were guaranteed to arrive rested and refreshed.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/openai-plans-broader-chatgpt-app-redesign"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "South Korea's economy grows 1.0% in 3rd quarter on chip boom",
+    "summary": "South Korea's economy grows 1.0% in 3rd quarter on chip boom",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/economy/south-korea-s-economy-grows-1.0-in-3rd-quarter-on-chip-boom"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Japan's Sakana AI to build homegrown model to cut US, China reliance",
+    "summary": "Japan's Sakana AI to build homegrown model to cut US, China reliance",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-sakana-ai-to-build-homegrown-model-to-cut-us-china-reliance"
+  },
+  {
     "date": "2026-10-26",
     "title": "Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec)",
     "summary": "Researchers at imec published “Beyond HBM-on-GPU: Thermal Design Envelope for 3D Volumetric DRAM-on-GPU Integration.” Summary: Researchers evaluated a 3D memory architecture that rotates DRAM dies vertically above a GPU and places cooling cavities between them as an alternative to conventional 2.5D HBM and direct-stack",
