@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-27T00:07:02+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 27, 2026</title><link href="https://asiatechfeed.com/2026/10/27/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 27, 2026" /><published>2026-10-27T00:06:22+00:00</published><updated>2026-10-27T00:06:22+00:00</updated><id>https://asiatechfeed.com/2026/10/27/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/27/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-27T04:43:43+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 27, 2026</title><link href="https://asiatechfeed.com/2026/10/27/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 27, 2026" /><published>2026-10-27T04:42:01+00:00</published><updated>2026-10-27T04:42:01+00:00</updated><id>https://asiatechfeed.com/2026/10/27/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/27/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,86 +12,110 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung Executive Chairman reportedly eyes RX unit visit for humanoid robot push</span></td>
-  <td class="col-summary">Samsung Electronics Executive Chairman Lee Jae-Yong is reportedly set to visit the company's Robotics eXperience (RX) business unit in Seoul's Umyeon-dong by the end of October to review humanoid robot development and preparations for CES 2027. If the visit takes place, it will be Lee's first visit since the organizati</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261023PD238/samsung-humanoid-robot-development-ces.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Singapore, Germany to expand industrial AI cooperation as part of updated 5-pillar work plan</span></td>
+  <td class="col-summary">At a joint press conference with German Chancellor Friedrich Merz, who is on an official visit to Singapore, Prime Minister Lawrence Wong said that there is “much more” both countries can do together under their strategic partnership.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/singapore-germany-ai-cooperation-lawrence-wong-friedrich-merz-6493021" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">DIGITIMES Insights: AI servers move toward 800V DC as vertical power delivery promises higher efficiency, lower transmission losses</span></td>
-  <td class="col-summary">AI server power architectures are evolving toward high-voltage distribution and point-of-load voltage conversion, according to DIGITIMES Intelligence.</td>
+  <td class="col-title"><span class="article-title">China AI token debate highlights challenge of monetizing compute</span></td>
+  <td class="col-summary">More than half of China's AI token usage is reportedly concentrated in short dramas and video generation, but ByteDance's Doubao has disputed the figure, saying video-generation models account for only about 10% of overall computing resources. The conflicting estimates highlight the difficulty of assessing AI compute c</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261023PD232/ai-server-power-components-transmission-efficiency-digitimes.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261027PD206/bytedance-data-2026.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Sunic System wins overseas OLEDoS equipment order</span></td>
-  <td class="col-summary">As AI expands into wearable devices, South Korean OLED deposition equipment maker Sunic System has secured another overseas order for OLEDoS (OLED on Silicon) deposition equipment, targeting growth in extended reality (XR) and smart glasses.</td>
+  <td class="col-title"><span class="article-title">The Anthropic IPO filing: 14-fold 1H26 revenue growth behind a US$80.75 billion paper loss</span></td>
+  <td class="col-summary">Anthropic's first public filing for its IPO has opened the books on one of the world's fastest-growing AI companies, revealing extraordinary revenue growth alongside a headline net loss that substantially overstates the deterioration in its underlying operations.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261023PD205/oledos-equipment-wearable-xr-technology.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261027VL210/anthropic-revenue-loss-growth-ipo.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">India's IT firms face a new dilemma: How to train tomorrow's engineers in the age of AI</span></td>
-  <td class="col-summary">India’s biggest IT firms are hiring far fewer fresh graduates, as AI changes the skills employers seek. Industry experts tell CNA this could create a shortage of experienced workers in the future unless companies and universities do more to develop young talent.</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Kazakhstan positions AI infrastructure as a potential export industry after Nvidia CEO's visit</span></td>
+  <td class="col-summary">Nvidia CEO Jensen Huang's visit to Kazakhstan highlighted plans to build an AI computing hub for Europe, with projects spanning GPU clusters, data centers, talent, and physical AI. The initiative depends on power infrastructure, foreign technology, and Kazakhstan's ambition to develop and export its own AI capabilities</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/india-it-ai-reshapes-entry-level-jobs-6485426" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261027PD214/nvidia-infrastructure-ceo-technology-jensen-huang.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic</span></td>
-  <td class="col-summary">Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-ai-chips-anthropic-6494381" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Paytm’s Q2 profit jumps to $24m as revenue grows</span></td>
+  <td class="col-summary">Paytm has started offering its in-house AI platform to enterprise merchants.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/paytm-shares-fall-after-rbi-cancels-bank-license" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Vietnam’s $1.3b chip plant may miss 2027 trial target</span></td>
-  <td class="col-summary">Viettel said the project, estimated by authorities to cost about US$1.3 billion, remained on schedule.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/hcm-city-plans-2-1b-ai-data-center-investment" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Ant Group rolls out LingGuang 2.0 with proactive AI features</span></td>
+  <td class="col-summary">Ant said the first LingGuang, launched in November 2025, could build simple apps in 30 seconds.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ant-group-tests-ai-assistant-for-alipay-services" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">India’s Tata Communications plans $450m AI fiber investment</span></td>
-  <td class="col-summary">The rollout's first phase will cover the Mumbai-Pune-Hyderabad-Chennai corridor.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/india-taps-six-firms-for-government-ai-rollout" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">China’s Quant Group signs framework deal for AI robots</span></td>
+  <td class="col-summary">The robots will handle reception, vehicle presentations, and sales lead capture at showrooms.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/citadel-expands-quant-team-recruits-ai-labs" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">70% of Asia Pacific travelers open to AI handling work: survey</span></td>
-  <td class="col-summary">Booking.com said 90% would take a long-haul flight if they were guaranteed to arrive rested and refreshed.</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Anthropic points to AI dangers, soaring sales in IPO filing</span></td>
+  <td class="col-summary">A disappointing reception for Anthropic could dent investor enthusiasm for AI, a sector that has become a key driver of the US economy amid worries of a market bubble.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-plans-broader-chatgpt-app-redesign" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/anthropic-ai-dangers-soaring-sales-ipo-6495171" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">South Korea's economy grows 1.0% in 3rd quarter on chip boom</span></td>
-  <td class="col-summary">South Korea's economy grows 1.0% in 3rd quarter on chip boom</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Electronic System Design Industry Posts $5.7B in 2Q 2026 Revenue</span></td>
+  <td class="col-summary">Global electronic system design revenue increased as semiconductor IP, services and Asia-Pacific demand recorded double-digit growth. The post Electronic System Design Industry Posts $5.7B in 2Q 2026 Revenue appeared first on EE Times Asia .</td>
   <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/economy/south-korea-s-economy-grows-1.0-in-3rd-quarter-on-chip-boom" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/electronic-system-design-industry-posts-5-7b-in-2q-2026-revenue/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows</span></td>
+  <td class="col-summary">Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/bank-korea-warns-countrys-chip-exports-could-fall-up-100-billion-if-ai-spending-slows-6495096" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan's Sakana AI to build homegrown model to cut US, China reliance</span></td>
-  <td class="col-summary">Japan's Sakana AI to build homegrown model to cut US, China reliance</td>
+  <td class="col-title"><span class="article-title">AI boom sparks circuit board crunch across global tech supply chain</span></td>
+  <td class="col-summary">AI boom sparks circuit board crunch across global tech supply chain</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/supply-chain/ai-boom-sparks-circuit-board-crunch-across-global-tech-supply-chain" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Microsoft offers buyouts to 60,000 employees as AI spending mounts</span></td>
+  <td class="col-summary">Microsoft offers buyouts to 60,000 employees as AI spending mounts</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-sakana-ai-to-build-homegrown-model-to-cut-us-china-reliance" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-offers-buyouts-to-60-000-employees-as-ai-spending-mounts" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">13</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">AI payoffs, green transition shape France-Korea Tech Summit 2026</span></td>
+  <td class="col-summary">Artificial intelligence and industrial sustainability dominated talks among South Korean and French business and policy leaders in Seoul last week, wi</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/artificial-intelligence/newsView/ked202610190009" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Samsung Executive Chairman reportedly eyes RX unit visit for humanoid robot push Samsung Electronics Executive Chairman Lee Jae-Yong is reportedly set to visit the company's Robotics eXperience (RX) business unit in Seoul's Umyeon-dong by the end of October to review humanoid robot development and preparations for CES 2027. If the visit takes place, it will be Lee's first visit since the organizati ElectronicsAutomation Read 2 DigiTimes DIGITIMES Insights: AI servers move toward 800V DC as vertical power delivery promises higher efficiency, lower transmission losses AI server power architectures are evolving toward high-voltage distribution and point-of-load voltage conversion, according to DIGITIMES Intelligence. AI Read 3 DigiTimes Sunic System wins overseas OLEDoS equipment order As AI expands into wearable devices, South Korean OLED deposition equipment maker Sunic System has secured another overseas order for OLEDoS (OLED on Silicon) deposition equipment, targeting growth in extended reality (XR) and smart glasses. AI Read 4 CNA India's IT firms face a new dilemma: How to train tomorrow's engineers in the age of AI India’s biggest IT firms are hiring far fewer fresh graduates, as AI changes the skills employers seek. Industry experts tell CNA this could create a shortage of experienced workers in the future unless companies and universities do more to develop young talent. AI Read 5 CNA Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic AISemiconductor Read 6 TechAsia Vietnam’s $1.3b chip plant may miss 2027 trial target Viettel said the project, estimated by authorities to cost about US$1.3 billion, remained on schedule. Semiconductor Read 7 TechAsia India’s Tata Communications plans $450m AI fiber investment The rollout's first phase will cover the Mumbai-Pune-Hyderabad-Chennai corridor. AI Read 8 TechAsia 70% of Asia Pacific travelers open to AI handling work: survey Booking.com said 90% would take a long-haul flight if they were guaranteed to arrive rested and refreshed. AI Read 9 NikkeiAsia South Korea's economy grows 1.0% in 3rd quarter on chip boom South Korea's economy grows 1.0% in 3rd quarter on chip boom Semiconductor Read 10 NikkeiAsia Japan's Sakana AI to build homegrown model to cut US, China reliance Japan's Sakana AI to build homegrown model to cut US, China reliance AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 26, 2026</title><link href="https://asiatechfeed.com/2026/10/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 26, 2026" /><published>2026-10-26T08:00:53+00:00</published><updated>2026-10-26T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/10/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Singapore, Germany to expand industrial AI cooperation as part of updated 5-pillar work plan At a joint press conference with German Chancellor Friedrich Merz, who is on an official visit to Singapore, Prime Minister Lawrence Wong said that there is “much more” both countries can do together under their strategic partnership. AI Read 2 DigiTimes China AI token debate highlights challenge of monetizing compute More than half of China's AI token usage is reportedly concentrated in short dramas and video generation, but ByteDance's Doubao has disputed the figure, saying video-generation models account for only about 10% of overall computing resources. The conflicting estimates highlight the difficulty of assessing AI compute c AI Read 3 DigiTimes The Anthropic IPO filing: 14-fold 1H26 revenue growth behind a US$80.75 billion paper loss Anthropic's first public filing for its IPO has opened the books on one of the world's fastest-growing AI companies, revealing extraordinary revenue growth alongside a headline net loss that substantially overstates the deterioration in its underlying operations. AI Read 4 DigiTimes Kazakhstan positions AI infrastructure as a potential export industry after Nvidia CEO's visit Nvidia CEO Jensen Huang's visit to Kazakhstan highlighted plans to build an AI computing hub for Europe, with projects spanning GPU clusters, data centers, talent, and physical AI. The initiative depends on power infrastructure, foreign technology, and Kazakhstan's ambition to develop and export its own AI capabilities AI Read 5 TechAsia Paytm’s Q2 profit jumps to $24m as revenue grows Paytm has started offering its in-house AI platform to enterprise merchants. AI Read 6 TechAsia Ant Group rolls out LingGuang 2.0 with proactive AI features Ant said the first LingGuang, launched in November 2025, could build simple apps in 30 seconds. AI Read 7 TechAsia China’s Quant Group signs framework deal for AI robots The robots will handle reception, vehicle presentations, and sales lead capture at showrooms. AIAutomation Read 8 CNA Anthropic points to AI dangers, soaring sales in IPO filing A disappointing reception for Anthropic could dent investor enthusiasm for AI, a sector that has become a key driver of the US economy amid worries of a market bubble. AI Read 9 EETAsia Electronic System Design Industry Posts $5.7B in 2Q 2026 Revenue Global electronic system design revenue increased as semiconductor IP, services and Asia-Pacific demand recorded double-digit growth. The post Electronic System Design Industry Posts $5.7B in 2Q 2026 Revenue appeared first on EE Times Asia . Semiconductor Read 10 CNA Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows AISemiconductor Read 11 NikkeiAsia AI boom sparks circuit board crunch across global tech supply chain AI boom sparks circuit board crunch across global tech supply chain ElectronicsLogistics Read 12 NikkeiAsia Microsoft offers buyouts to 60,000 employees as AI spending mounts Microsoft offers buyouts to 60,000 employees as AI spending mounts AI Read 13 KED AI payoffs, green transition shape France-Korea Tech Summit 2026 Artificial intelligence and industrial sustainability dominated talks among South Korean and French business and policy leaders in Seoul last week, wi AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 26, 2026</title><link href="https://asiatechfeed.com/2026/10/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 26, 2026" /><published>2026-10-26T08:00:53+00:00</published><updated>2026-10-26T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/10/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>

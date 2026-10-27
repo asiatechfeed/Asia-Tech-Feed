@@ -1,115 +1,149 @@
 [
   {
     "date": "2026-10-27",
-    "title": "Samsung Executive Chairman reportedly eyes RX unit visit for humanoid robot push",
-    "summary": "Samsung Electronics Executive Chairman Lee Jae-Yong is reportedly set to visit the company's Robotics eXperience (RX) business unit in Seoul's Umyeon-dong by the end of October to review humanoid robot development and preparations for CES 2027. If the visit takes place, it will be Lee's first visit since the organizati",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "Automation"
-    ],
-    "url": "https://www.digitimes.com/news/a20261023PD238/samsung-humanoid-robot-development-ces.html"
-  },
-  {
-    "date": "2026-10-27",
-    "title": "DIGITIMES Insights: AI servers move toward 800V DC as vertical power delivery promises higher efficiency, lower transmission losses",
-    "summary": "AI server power architectures are evolving toward high-voltage distribution and point-of-load voltage conversion, according to DIGITIMES Intelligence.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261023PD232/ai-server-power-components-transmission-efficiency-digitimes.html"
-  },
-  {
-    "date": "2026-10-27",
-    "title": "Sunic System wins overseas OLEDoS equipment order",
-    "summary": "As AI expands into wearable devices, South Korean OLED deposition equipment maker Sunic System has secured another overseas order for OLEDoS (OLED on Silicon) deposition equipment, targeting growth in extended reality (XR) and smart glasses.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261023PD205/oledos-equipment-wearable-xr-technology.html"
-  },
-  {
-    "date": "2026-10-27",
-    "title": "India's IT firms face a new dilemma: How to train tomorrow's engineers in the age of AI",
-    "summary": "India’s biggest IT firms are hiring far fewer fresh graduates, as AI changes the skills employers seek. Industry experts tell CNA this could create a shortage of experienced workers in the future unless companies and universities do more to develop young talent.",
+    "title": "Singapore, Germany to expand industrial AI cooperation as part of updated 5-pillar work plan",
+    "summary": "At a joint press conference with German Chancellor Friedrich Merz, who is on an official visit to Singapore, Prime Minister Lawrence Wong said that there is “much more” both countries can do together under their strategic partnership.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/asia/india-it-ai-reshapes-entry-level-jobs-6485426"
+    "url": "https://www.channelnewsasia.com/singapore/singapore-germany-ai-cooperation-lawrence-wong-friedrich-merz-6493021"
   },
   {
     "date": "2026-10-27",
-    "title": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
-    "summary": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
+    "title": "China AI token debate highlights challenge of monetizing compute",
+    "summary": "More than half of China's AI token usage is reportedly concentrated in short dramas and video generation, but ByteDance's Doubao has disputed the figure, saying video-generation models account for only about 10% of overall computing resources. The conflicting estimates highlight the difficulty of assessing AI compute c",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261027PD206/bytedance-data-2026.html"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "The Anthropic IPO filing: 14-fold 1H26 revenue growth behind a US$80.75 billion paper loss",
+    "summary": "Anthropic's first public filing for its IPO has opened the books on one of the world's fastest-growing AI companies, revealing extraordinary revenue growth alongside a headline net loss that substantially overstates the deterioration in its underlying operations.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261027VL210/anthropic-revenue-loss-growth-ipo.html"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Kazakhstan positions AI infrastructure as a potential export industry after Nvidia CEO's visit",
+    "summary": "Nvidia CEO Jensen Huang's visit to Kazakhstan highlighted plans to build an AI computing hub for Europe, with projects spanning GPU clusters, data centers, talent, and physical AI. The initiative depends on power infrastructure, foreign technology, and Kazakhstan's ambition to develop and export its own AI capabilities",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261027PD214/nvidia-infrastructure-ceo-technology-jensen-huang.html"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Paytm’s Q2 profit jumps to $24m as revenue grows",
+    "summary": "Paytm has started offering its in-house AI platform to enterprise merchants.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/paytm-shares-fall-after-rbi-cancels-bank-license"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Ant Group rolls out LingGuang 2.0 with proactive AI features",
+    "summary": "Ant said the first LingGuang, launched in November 2025, could build simple apps in 30 seconds.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/ant-group-tests-ai-assistant-for-alipay-services"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "China’s Quant Group signs framework deal for AI robots",
+    "summary": "The robots will handle reception, vehicle presentations, and sales lead capture at showrooms.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/citadel-expands-quant-team-recruits-ai-labs"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Anthropic points to AI dangers, soaring sales in IPO filing",
+    "summary": "A disappointing reception for Anthropic could dent investor enthusiasm for AI, a sector that has become a key driver of the US economy amid worries of a market bubble.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/world/anthropic-ai-dangers-soaring-sales-ipo-6495171"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Electronic System Design Industry Posts $5.7B in 2Q 2026 Revenue",
+    "summary": "Global electronic system design revenue increased as semiconductor IP, services and Asia-Pacific demand recorded double-digit growth. The post Electronic System Design Industry Posts $5.7B in 2Q 2026 Revenue appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/electronic-system-design-industry-posts-5-7b-in-2q-2026-revenue/"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows",
+    "summary": "Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.channelnewsasia.com/business/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-ai-chips-anthropic-6494381"
+    "url": "https://www.channelnewsasia.com/business/bank-korea-warns-countrys-chip-exports-could-fall-up-100-billion-if-ai-spending-slows-6495096"
   },
   {
     "date": "2026-10-27",
-    "title": "Vietnam’s $1.3b chip plant may miss 2027 trial target",
-    "summary": "Viettel said the project, estimated by authorities to cost about US$1.3 billion, remained on schedule.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/hcm-city-plans-2-1b-ai-data-center-investment"
-  },
-  {
-    "date": "2026-10-27",
-    "title": "India’s Tata Communications plans $450m AI fiber investment",
-    "summary": "The rollout's first phase will cover the Mumbai-Pune-Hyderabad-Chennai corridor.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/india-taps-six-firms-for-government-ai-rollout"
-  },
-  {
-    "date": "2026-10-27",
-    "title": "70% of Asia Pacific travelers open to AI handling work: survey",
-    "summary": "Booking.com said 90% would take a long-haul flight if they were guaranteed to arrive rested and refreshed.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/openai-plans-broader-chatgpt-app-redesign"
-  },
-  {
-    "date": "2026-10-27",
-    "title": "South Korea's economy grows 1.0% in 3rd quarter on chip boom",
-    "summary": "South Korea's economy grows 1.0% in 3rd quarter on chip boom",
+    "title": "AI boom sparks circuit board crunch across global tech supply chain",
+    "summary": "AI boom sparks circuit board crunch across global tech supply chain",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "Semiconductor"
+      "Electronics",
+      "Logistics"
     ],
-    "url": "https://asia.nikkei.com/economy/south-korea-s-economy-grows-1.0-in-3rd-quarter-on-chip-boom"
+    "url": "https://asia.nikkei.com/spotlight/supply-chain/ai-boom-sparks-circuit-board-crunch-across-global-tech-supply-chain"
   },
   {
     "date": "2026-10-27",
-    "title": "Japan's Sakana AI to build homegrown model to cut US, China reliance",
-    "summary": "Japan's Sakana AI to build homegrown model to cut US, China reliance",
+    "title": "Microsoft offers buyouts to 60,000 employees as AI spending mounts",
+    "summary": "Microsoft offers buyouts to 60,000 employees as AI spending mounts",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-sakana-ai-to-build-homegrown-model-to-cut-us-china-reliance"
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-offers-buyouts-to-60-000-employees-as-ai-spending-mounts"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "AI payoffs, green transition shape France-Korea Tech Summit 2026",
+    "summary": "Artificial intelligence and industrial sustainability dominated talks among South Korean and French business and policy leaders in Seoul last week, wi",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202610190009"
   },
   {
     "date": "2026-10-26",
