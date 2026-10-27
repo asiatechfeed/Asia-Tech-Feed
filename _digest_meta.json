@@ -1,38 +1,38 @@
 {
-  "date": "2026-10-26",
-  "count": 5,
+  "date": "2026-10-27",
+  "count": 10,
   "sources": [
+    "CNA",
     "DigiTimes",
     "NikkeiAsia",
-    "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-10-26-asia-tech-news-digest.md",
+  "post_file": "2026-10-27-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec)",
-      "source": "SemiEng",
-      "url": "https://semiengineering.com/vertical-dram-stacking-expands-thermal-design-space-beyond-hbm-imec/"
-    },
-    {
-      "title": "NUHS, SingHealth join Cambridge-led AI blood test project",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/ai-tool-catches-lost-revenue-paramedics"
-    },
-    {
-      "title": "Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp",
+      "title": "Samsung Executive Chairman reportedly eyes RX unit visit for humanoid robot push",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023PD235/tsmc-3nm-demand-samsung-hbm.html"
+      "url": "https://www.digitimes.com/news/a20261023PD238/samsung-humanoid-robot-development-ces.html"
     },
     {
-      "title": "India roundup: India's tech build-out opens new markets, but foreign suppliers are first in line",
+      "title": "DIGITIMES Insights: AI servers move toward 800V DC as vertical power delivery promises higher efficiency, lower transmission losses",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261023VL212/india-roundup-5g-ipo-fab-data.html"
+      "url": "https://www.digitimes.com/news/a20261023PD232/ai-server-power-components-transmission-efficiency-digitimes.html"
     },
     {
-      "title": "For India's IT giants TCS and Infosys, AI both dents and supports growth",
-      "source": "NikkeiAsia",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/for-india-s-it-giants-tcs-and-infosys-ai-both-dents-and-supports-growth"
+      "title": "Sunic System wins overseas OLEDoS equipment order",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261023PD205/oledos-equipment-wearable-xr-technology.html"
+    },
+    {
+      "title": "India's IT firms face a new dilemma: How to train tomorrow's engineers in the age of AI",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/india-it-ai-reshapes-entry-level-jobs-6485426"
+    },
+    {
+      "title": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-ai-chips-anthropic-6494381"
     }
   ],
   "source_stats": [
@@ -49,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -129,7 +129,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -159,16 +159,16 @@
       "fetched": 35,
       "relevant": 18,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 10,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -193,9 +193,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 13,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -213,7 +213,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     }
   ]
