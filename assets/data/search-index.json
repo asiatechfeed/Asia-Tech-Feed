@@ -1,105 +1,93 @@
 [
   {
     "date": "2026-10-28",
-    "title": "OpenAI plans to buy rival Google’s AI chips: report",
-    "summary": "A June 2025 report said OpenAI had already begun renting Google's chips.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/openai-seeks-30b-funding-anthropic-ipo-nears"
-  },
-  {
-    "date": "2026-10-28",
-    "title": "Cultivating the talent and future of Singapore’s biomedtech scene",
-    "summary": "SGInnovate's Helix Immersion Programme helps connect companies and candidates to bridge biomedtech’s talent gap.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Pharmaceutical"
-    ],
-    "url": "https://www.techinasia.com/cultivating-talent-future-singapores-biomedtech-scene"
-  },
-  {
-    "date": "2026-10-28",
-    "title": "PHP’s AI-found flaws expose a bigger gap: Who guards AI agents?",
-    "summary": "AI found PHP’s decade-old flaws in two days. But patching at that speed means letting AI act on its own, and nobody’s guarding what it can touch.",
+    "title": "TikTok launches brand safety, AI ad guides in Singapore",
+    "summary": "TikTok said the AI guide, developed with independent marketing consultancy Responsible Marketing Advisory.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/phps-aifound-flaws-expose-bigger-gap-guards-ai-agents"
+    "url": "https://www.techinasia.com/tiktok-pay-400m-settle-child-privacy-claims"
   },
   {
     "date": "2026-10-28",
-    "title": "Cloud AI costs drive demand for on-premises computing, squeezing Asus RTX Spark supply",
-    "summary": "Asus and Intel on October 27 unveiled the new commercial laptop Asus ExpertBook A7 in Taiwan, as on-premises AI computing devices gain attention from enterprises and creators alongside traditional business PCs. Asus said products related to Nvidia RTX Spark, particularly models with 64GB and 128GB of memory, are being ",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261028PD203/asus-demand-rtx-intel-commercial.html"
-  },
-  {
-    "date": "2026-10-28",
-    "title": "AI startups face scrutiny over revenue metrics used to promote rapid growth",
-    "summary": "AI startups' revenue figures are under scrutiny as founders and investors question whether companies clearly distinguish active business from contracts that have not yet generated sales. The debate concerns how growth is presented to backers, employees and customers, and whether apparently comparable figures measure th",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261028PD215/revenue-growth-business-ceo-sales.html"
-  },
-  {
-    "date": "2026-10-28",
-    "title": "Kentec targets CSP opportunities with AIDC infrastructure integration",
-    "summary": "Kentec, a subsidiary of Kenmec Group, is shifting beyond its traditional role as a contract manufacturer of components to become a systems integration provider (SIP) for complete AI data center (AIDC) infrastructure. At an investor conference on October 27, Kentec general manager Asa Kuo said the AI era is just beginni",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261028PD202/kentec-aidc-infrastructure-csp-subsidiary.html"
-  },
-  {
-    "date": "2026-10-28",
-    "title": "Small countries need more cooperation with companies, NGOs in fractured world: Teo Chee Hean",
-    "summary": "As multilateral cooperation becomes frayed, polylateral arrangements can help support global cooperation in key areas such as AI guardrails, said Temasek chairman Teo Chee Hean on Wednesday (Oct 28).",
+    "title": "Water scarcity, land protests cast shadow over Bengaluru's AI ambitions",
+    "summary": "Residents in Bengaluru's Electronic City say nearby data centres are adding to pressure on local water supplies, while farmers outside the city oppose plans to acquire land for a township that would include AI-related industries.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/singapore/polylateral-cooperation-small-countries-business-fractured-world-ai-jobs-6498626"
+    "url": "https://www.channelnewsasia.com/asia/bengaluru-artificial-intelligence-data-centres-water-scarcity-land-acquisition-6495991"
   },
   {
     "date": "2026-10-28",
-    "title": "OpenAI plans to buy Google's AI chips, The Information reports",
-    "summary": "OpenAI plans to buy Google's AI chips, The Information reports",
+    "title": "Toyota accelerates robot commercialization as IKKA targets supply-chain opportunities",
+    "summary": "Toyota Motor Corporation is accelerating the commercialization of robots, creating potential opportunities for Ikka Holdings (IKKA-KY) to leverage its existing Japanese automotive supply-chain relationships and compete for robot component orders. IKKA, a long-standing supplier of Toyota-related automotive products, als",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20261028PD224/toyota-robot-ikka-manufacturing-automotive.html"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "AI chips worth US$12.1 million seized at Malaysia airport, customs authority says",
+    "summary": "Malaysia customs seizes 30 server units with advanced AI chips at Kuala Lumpur International Airport, linking the case to a wider smuggling syndicate probe.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.channelnewsasia.com/business/openai-plans-buy-googles-ai-chips-information-reports-6498406"
+    "url": "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976"
   },
   {
     "date": "2026-10-28",
-    "title": "UMC, AP Memory Advance Silicon Capacitors for AI Power Delivery",
-    "summary": "The collaboration combines deep trench capacitor technology and silicon capacitor designs for advanced packaging in AI and HPC systems. The post UMC, AP Memory Advance Silicon Capacitors for AI Power Delivery appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "Nvidia-backed Zankore seeks $3.1b loan for Indonesia AI factory",
+    "summary": "The AI factory will be built in Central Java, starting with an initial 100-megawatt phase.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.eetasia.com/umc-ap-memory-advance-silicon-capacitors-for-ai-power-delivery/"
+    "url": "https://www.techinasia.com/indosat-nvidia-launch-ai-infrastructure-venture"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "Samsung Electro-Mechanics Q3 profit soars 165% on AI demand",
+    "summary": "Optical solutions revenue rose 3% YoY to 941.3 billion won, helped by EV camera modules.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/samsung-electro-mechanics-bets-1-2b-on-vietnam-ai-chips"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "Microsoft medical AI tops 80% accuracy in complex cases",
+    "summary": "Microsoft said its medical artificial intelligence (AI) system achieved higher diagnostic accuracy than general physicians in tests involving complex cases, potentially lowering diagnostic costs. Its Microsoft AI Diagnostic Orchestrator (MAI-DxO) simulates the work of a medical team by assigning multiple AI agents to r",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261028PD200/microsoft-medical-healthcare.html"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "PC makers reportedly shift production back to China as AI boom drives up component costs",
+    "summary": "US and Taiwanese PC makers are shifting some production from Southeast Asia back to China and partnering with additional Chinese contract manufacturers as surging memory and storage costs squeeze margins, reversing part of the industry's previous push to diversify supply chains away from China.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261028VL218/pc-component-production-asia-manufacturing.html"
   },
   {
     "date": "2026-10-27",
