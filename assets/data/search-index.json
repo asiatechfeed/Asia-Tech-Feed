@@ -1,172 +1,105 @@
 [
   {
     "date": "2026-10-28",
-    "title": "Meta launches AI agent Muse in Singapore",
-    "summary": "Users can ask Muse to plan groceries through GrabMart or claim dining deals via ShopBack.",
+    "title": "OpenAI plans to buy rival Google’s AI chips: report",
+    "summary": "A June 2025 report said OpenAI had already begun renting Google's chips.",
     "source": "Tech in Asia",
     "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/meta-ai-app-parental-supervision-worldwide"
-  },
-  {
-    "date": "2026-10-28",
-    "title": "TrendForce Forecasts Server CPU Shipments to Rise More than 40% in 2027",
-    "summary": "AI inference and agentic services are expected to lift server CPU demand, with ARM-based processors projected to reach 30% market share. The post TrendForce Forecasts Server CPU Shipments to Rise More than 40% in 2027 appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/trendforce-forecasts-server-cpu-shipments-to-rise-more-than-40-in-2027/"
-  },
-  {
-    "date": "2026-10-28",
-    "title": "Nvidia joins $14m round for Indian AI startup Simplismart",
-    "summary": "Simplismart says it powers the serverless inference layer of Yotta's Shakti Studio.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/nvidia-eyes-lead-ai-startup-simplismarts-20m"
-  },
-  {
-    "date": "2026-10-28",
-    "title": "Samsung Electro-Mechanics and NVIDIA Ink ABF Substrate Supply Agreement",
-    "summary": "The companies will expand dedicated production capacity in South Korea to supply substrates for AI processors and high-speed networking switches. The post Samsung Electro-Mechanics and NVIDIA Ink ABF Substrate Supply Agreement appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/samsung-electro-mechanics-and-nvidia-ink-abf-substrate-supply-agreement/"
-  },
-  {
-    "date": "2026-10-28",
-    "title": "TetraMem Tapes Out 12nm Analog In-Memory Computing AI SoC",
-    "summary": "The MLX300 uses multi-level RRAM to run AI models on-chip, targeting improved energy efficiency for audio, vision and language processing. The post TetraMem Tapes Out 12nm Analog In-Memory Computing AI SoC appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/tetramem-tapes-out-12nm-analog-in-memory-computing-ai-soc/"
+    "url": "https://www.techinasia.com/openai-seeks-30b-funding-anthropic-ipo-nears"
   },
   {
     "date": "2026-10-28",
-    "title": "Commentary: Singapore’s next big technology bet cannot wait till we’ve figured out AI",
-    "summary": "AI is today’s imperative. Quantum may be tomorrow’s advantage. The country must invest in both, say SGTech’s Gavin Chua and Gunasekharan Chellappan.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/commentary/singapore-ai-quantum-tech-jobs-investment-6494781"
-  },
-  {
-    "date": "2026-10-28",
-    "title": "Commentary: Anthropic’s record US$2 trillion stock market listing highlights growing risks for us all",
-    "summary": "Holding AI risk in one's portfolio is becoming unavoidable for most investors, says an academic.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/commentary/anthropic-2-trillion-ipo-growing-risks-ai-6496021"
-  },
-  {
-    "date": "2026-10-28",
-    "title": "X-capacitor discharge IC for stringent standby, no-load requirements",
-    "summary": "Power Integrations is expanding its CAPZero family of X-capacitor discharge ICs with the fourth-gen CAPZero-4 device, for industrial and consumer applications. The latest member of the CAPZero family reduces system […] The post X-capacitor discharge IC for stringent standby, no-load requirements appeared first on Elect",
-    "source": "Electronics Weekly",
-    "short": "EW",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.electronicsweekly.com/news/products/power-supplies/x-capacitor-discharge-ic-for-stringent-standby-no-load-requirements-2026-10/"
-  },
-  {
-    "date": "2026-10-28",
-    "title": "US deep tech VC Playground Global deepens Taiwan AI ties",
-    "summary": "The move comes as its portfolio companies announced products, funding, and local operations tied to AI hardware and semiconductor supply chains.",
+    "title": "Cultivating the talent and future of Singapore’s biomedtech scene",
+    "summary": "SGInnovate's Helix Immersion Programme helps connect companies and candidates to bridge biomedtech’s talent gap.",
     "source": "Tech in Asia",
     "short": "TechAsia",
-    "tags": [
-      "Semiconductor",
-      "AI",
-      "Logistics"
-    ],
-    "url": "https://www.techinasia.com/sk-telecom-to-build-1-gw-hyperscale-ai-data-centers"
-  },
-  {
-    "date": "2026-10-28",
-    "title": "Tesla sees Cybercab becoming a new growth bet amid declining auto revenue",
-    "summary": "Tesla's automotive business weakened in the third quarter of 2026 as lower average vehicle prices and battery shortages pressured revenue and profit, while the company accelerated investment in artificial intelligence and its autonomous vehicle strategy. Total revenue was flat, automotive revenue fell 3% year-over-year",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261027PD241/tesla-revenue-vehicle-automotive-2026.html"
-  },
-  {
-    "date": "2026-10-28",
-    "title": "Australia's AI build-out hits the grid: how a delayed power line wiped out AUD3 billion",
-    "summary": "Australia's push to become an AI infrastructure hub for the Asia-Pacific is running into constraints that capital alone cannot solve: the last mile of grid connection, and the consent of the communities that power lines run through. That shift became clear this month when NextDC, one of the country's largest data cente",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261027PD243/data-center-forecast-2027-revenue-development.html"
-  },
-  {
-    "date": "2026-10-28",
-    "title": "Pat Gelsinger warns AI compute efficiency must jump 10,000x amid power, memory, and fab constraints",
-    "summary": "Silicon Valley venture capital firm Playground Global has returned to Taiwan alongside a cohort of portfolio companies specializing in memory, power management, optical communications, and advanced packaging to showcase joint technical breakthroughs and commercial strategies. The firm is also hosting an executive dinne",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261027PD236/silicon-valley-expansion-taiwan-efficiency-wafer.html"
-  },
-  {
-    "date": "2026-10-28",
-    "title": "As AI revives magnetic tape, Fujifilm plans biggest buildup in two decades",
-    "summary": "As AI revives magnetic tape, Fujifilm plans biggest buildup in two decades",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/as-ai-revives-magnetic-tape-fujifilm-plans-biggest-buildup-in-two-decades"
-  },
-  {
-    "date": "2026-10-28",
-    "title": "Takeda debuts narcolepsy drug targeting root cause, capping 15-year effort",
-    "summary": "Takeda debuts narcolepsy drug targeting root cause, capping 15-year effort",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
     "tags": [
       "Pharmaceutical"
     ],
-    "url": "https://asia.nikkei.com/business/pharmaceuticals/takeda-debuts-narcolepsy-drug-targeting-root-cause-capping-15-year-effort"
+    "url": "https://www.techinasia.com/cultivating-talent-future-singapores-biomedtech-scene"
   },
   {
     "date": "2026-10-28",
-    "title": "Samsung-linked hospital to bring humanoid robots into operating room",
-    "summary": "Samsung-linked hospital to bring humanoid robots into operating room",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "PHP’s AI-found flaws expose a bigger gap: Who guards AI agents?",
+    "summary": "AI found PHP’s decade-old flaws in two days. But patching at that speed means letting AI act on its own, and nobody’s guarding what it can touch.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "Automation"
+      "AI"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/samsung-linked-hospital-to-bring-humanoid-robots-into-operating-room"
+    "url": "https://www.techinasia.com/phps-aifound-flaws-expose-bigger-gap-guards-ai-agents"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "Cloud AI costs drive demand for on-premises computing, squeezing Asus RTX Spark supply",
+    "summary": "Asus and Intel on October 27 unveiled the new commercial laptop Asus ExpertBook A7 in Taiwan, as on-premises AI computing devices gain attention from enterprises and creators alongside traditional business PCs. Asus said products related to Nvidia RTX Spark, particularly models with 64GB and 128GB of memory, are being ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261028PD203/asus-demand-rtx-intel-commercial.html"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "AI startups face scrutiny over revenue metrics used to promote rapid growth",
+    "summary": "AI startups' revenue figures are under scrutiny as founders and investors question whether companies clearly distinguish active business from contracts that have not yet generated sales. The debate concerns how growth is presented to backers, employees and customers, and whether apparently comparable figures measure th",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261028PD215/revenue-growth-business-ceo-sales.html"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "Kentec targets CSP opportunities with AIDC infrastructure integration",
+    "summary": "Kentec, a subsidiary of Kenmec Group, is shifting beyond its traditional role as a contract manufacturer of components to become a systems integration provider (SIP) for complete AI data center (AIDC) infrastructure. At an investor conference on October 27, Kentec general manager Asa Kuo said the AI era is just beginni",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261028PD202/kentec-aidc-infrastructure-csp-subsidiary.html"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "Small countries need more cooperation with companies, NGOs in fractured world: Teo Chee Hean",
+    "summary": "As multilateral cooperation becomes frayed, polylateral arrangements can help support global cooperation in key areas such as AI guardrails, said Temasek chairman Teo Chee Hean on Wednesday (Oct 28).",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/singapore/polylateral-cooperation-small-countries-business-fractured-world-ai-jobs-6498626"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "OpenAI plans to buy Google's AI chips, The Information reports",
+    "summary": "OpenAI plans to buy Google's AI chips, The Information reports",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/openai-plans-buy-googles-ai-chips-information-reports-6498406"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "UMC, AP Memory Advance Silicon Capacitors for AI Power Delivery",
+    "summary": "The collaboration combines deep trench capacitor technology and silicon capacitor designs for advanced packaging in AI and HPC systems. The post UMC, AP Memory Advance Silicon Capacitors for AI Power Delivery appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/umc-ap-memory-advance-silicon-capacitors-for-ai-power-delivery/"
   },
   {
     "date": "2026-10-27",
