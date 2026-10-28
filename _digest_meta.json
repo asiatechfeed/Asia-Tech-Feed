@@ -1,40 +1,38 @@
 {
   "date": "2026-10-28",
-  "count": 15,
+  "count": 9,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "EW",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-28-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Meta launches AI agent Muse in Singapore",
+      "title": "OpenAI plans to buy rival Google\u2019s AI chips: report",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/meta-ai-app-parental-supervision-worldwide"
+      "url": "https://www.techinasia.com/openai-seeks-30b-funding-anthropic-ipo-nears"
     },
     {
-      "title": "TrendForce Forecasts Server CPU Shipments to Rise More than 40% in 2027",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/trendforce-forecasts-server-cpu-shipments-to-rise-more-than-40-in-2027/"
-    },
-    {
-      "title": "Nvidia joins $14m round for Indian AI startup Simplismart",
+      "title": "Cultivating the talent and future of Singapore\u2019s biomedtech scene",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-eyes-lead-ai-startup-simplismarts-20m"
+      "url": "https://www.techinasia.com/cultivating-talent-future-singapores-biomedtech-scene"
     },
     {
-      "title": "Samsung Electro-Mechanics and NVIDIA Ink ABF Substrate Supply Agreement",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/samsung-electro-mechanics-and-nvidia-ink-abf-substrate-supply-agreement/"
+      "title": "PHP\u2019s AI-found flaws expose a bigger gap: Who guards AI agents?",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/phps-aifound-flaws-expose-bigger-gap-guards-ai-agents"
     },
     {
-      "title": "TetraMem Tapes Out 12nm Analog In-Memory Computing AI SoC",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/tetramem-tapes-out-12nm-analog-in-memory-computing-ai-soc/"
+      "title": "Cloud AI costs drive demand for on-premises computing, squeezing Asus RTX Spark supply",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261028PD203/asus-demand-rtx-intel-commercial.html"
+    },
+    {
+      "title": "AI startups face scrutiny over revenue metrics used to promote rapid growth",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261028PD215/revenue-growth-business-ceo-sales.html"
     }
   ],
   "source_stats": [
@@ -134,7 +132,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -152,14 +150,14 @@
       "fetched": 10,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 29,
+      "fetched": 50,
+      "relevant": 36,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
