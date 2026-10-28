@@ -1,37 +1,40 @@
 {
-  "date": "2026-10-27",
-  "count": 8,
+  "date": "2026-10-28",
+  "count": 15,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
+    "EW",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-10-27-asia-tech-news-digest.md",
+  "post_file": "2026-10-28-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Connecting fragmented health data into actionable plans",
+      "title": "Meta launches AI agent Muse in Singapore",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/connecting-fragmented-health-data-actionable-plans"
+      "url": "https://www.techinasia.com/meta-ai-app-parental-supervision-worldwide"
     },
     {
-      "title": "The 50 top-funded AI startups in Asia",
+      "title": "TrendForce Forecasts Server CPU Shipments to Rise More than 40% in 2027",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/trendforce-forecasts-server-cpu-shipments-to-rise-more-than-40-in-2027/"
+    },
+    {
+      "title": "Nvidia joins $14m round for Indian AI startup Simplismart",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/the-50-top-funded-ai-startups-in-asia"
+      "url": "https://www.techinasia.com/nvidia-eyes-lead-ai-startup-simplismarts-20m"
     },
     {
-      "title": "AI spending surges, Microsoft opens exit door to 60,000 employees",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261027PD223/microsoft-workforce-investment-business-2026.html"
+      "title": "Samsung Electro-Mechanics and NVIDIA Ink ABF Substrate Supply Agreement",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/samsung-electro-mechanics-and-nvidia-ink-abf-substrate-supply-agreement/"
     },
     {
-      "title": "SoftBank eyes US$50B Malaysia AI data-center expansion",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261027PD222/investment-ceo-infrastructure-technology-masayoshi-son.html"
-    },
-    {
-      "title": "AI data centers drive cooling, power, and modular infrastructure demand",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261027VL218/data-center-infrastructure-cooling-ai-server-demand.html"
+      "title": "TetraMem Tapes Out 12nm Analog In-Memory Computing AI SoC",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/tetramem-tapes-out-12nm-analog-in-memory-computing-ai-soc/"
     }
   ],
   "source_stats": [
@@ -48,7 +51,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 2,
       "sponsored_skipped": 0,
       "published": 2,
       "error": null
@@ -128,10 +131,10 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
-      "relevant": 0,
+      "fetched": 10,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -147,16 +150,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 56,
-      "relevant": 45,
+      "fetched": 35,
+      "relevant": 29,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +170,7 @@
       "fetched": 50,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
