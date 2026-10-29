@@ -1,40 +1,36 @@
 {
   "date": "2026-10-29",
-  "count": 12,
+  "count": 6,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
-    "KED",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-29-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Now, private AI is non-negotiable",
+      "title": "Korean chipmaker FuriosaAI raises $620m at $2.9b valuation",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/now-private-ai-is-non-negotiable"
+      "url": "https://www.techinasia.com/korean-chipmaker-furiosa-expands-ai-push-with-broadcom"
     },
     {
-      "title": "Kuen Tong debuts on TPEx Emerging Board, riding LEO satellite and AI cooling dual engines",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261029PD219/leo-satellite-taiwan-cooling-high-end.html"
-    },
-    {
-      "title": "No equity, no fee: Nvidia\u2019s long bet on SEA\u2019s AI startups",
+      "title": "Singtel\u2019s NCS launches center to take AI beyond pilots",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/equity-fee-nvidias-long-bet-seas-ai-startups"
+      "url": "https://www.techinasia.com/singapore-tech-firm-ncs-expands-enterprise-ai-suite"
     },
     {
-      "title": "NCS opens AI Mission Centre in Ang Mo Kio, to triple embedded AI engineers to over 300",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/ncs-ai-mission-centre-ang-mo-kio-engineers-6500661"
-    },
-    {
-      "title": "Starlink V3 rollout lifts Win Semiconductors' 2027 satellite outlook as optical communications ramp up",
+      "title": "KLA: wafer fab equipment market exceeding US$200B in 2027",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261029PD221/win-semi-optical-communications-starlink-spacex-demand-2027.html"
+      "url": "https://www.digitimes.com/news/a20261029VL214/kla-equipment-wafer-market-2027.html"
+    },
+    {
+      "title": "NXP wins Volkswagen role in software-defined vehicle architecture",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261028VL224/volkswagen-vehicle-nxp-partnership-rivian.html"
+    },
+    {
+      "title": "China's auto supply chain shifts from price wars to value competition",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261029PD204/competition-price-supply-chain-price-war-cooling.html"
     }
   ],
   "source_stats": [
@@ -51,9 +47,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -152,14 +148,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 70,
-      "relevant": 48,
+      "fetched": 73,
+      "relevant": 50,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -170,7 +166,7 @@
       "fetched": 50,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -179,7 +175,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -195,7 +191,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
