@@ -1,107 +1,139 @@
 [
   {
     "date": "2026-10-29",
-    "title": "Robbyant Embodied AI Challenge Attracts 1,800 Teams for Real-Robot Trials",
-    "summary": "The competition will test embodied AI models through training, simulation and real-robot tasks at a Shanghai hackathon. The post Robbyant Embodied AI Challenge Attracts 1,800 Teams for Real-Robot Trials appeared first on EE Times Asia .",
+    "title": "Now, private AI is non-negotiable",
+    "summary": "Private AI hits an inflection point this year, as trust in public AI wavers. Datasaur is banking on the trend.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/now-private-ai-is-non-negotiable"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Kuen Tong debuts on TPEx Emerging Board, riding LEO satellite and AI cooling dual engines",
+    "summary": "Taiwan's Kuen Tong Technology, a high-end precision metal components maker and major supplier to a US low-Earth orbit (LEO) satellite operator, is set to list on the Taipei Exchange's Emerging Stock Board on October 29 at a reference price of NT$390 (approx. US$12.03) per share. Riding rising satellite demand, the comp",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261029PD219/leo-satellite-taiwan-cooling-high-end.html"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "No equity, no fee: Nvidia’s long bet on SEA’s AI startups",
+    "summary": "Under its Inception program, the firm provides engineering support and helps with minimum viable product, go-to-market strategy, and funding. Is there a catch?",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/equity-fee-nvidias-long-bet-seas-ai-startups"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "NCS opens AI Mission Centre in Ang Mo Kio, to triple embedded AI engineers to over 300",
+    "summary": "The Singtel-owned firm also announced three partnerships to scale up AI projects at Changi Airport, the Institute of Mental Health and Life3 Biotech.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Biotechnology",
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/singapore/ncs-ai-mission-centre-ang-mo-kio-engineers-6500661"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Starlink V3 rollout lifts Win Semiconductors' 2027 satellite outlook as optical communications ramp up",
+    "summary": "SpaceX's Starship super-heavy rocket completed its 14th test flight on September 28, successfully reaching Earth orbit and deploying 26 next-generation Starlink V3 satellites. A 15th test flight is expected within weeks.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261029PD221/win-semi-optical-communications-starlink-spacex-demand-2027.html"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Samsung, SK Hynix invest KRW110 trillion as memory supply boost slips to 2028",
+    "summary": "Samsung Electronics and SK Hynix are undertaking their largest-ever equipment investments in 2026, but the memory supply increase is not expected to materialize until 2028. By then, however, new South Korean plants and expanded capacity at China's ChangXin Memory Technologies (CXMT) are expected to come online simultan",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261029PD208/samsung-sk-hynix-2028-equipment-2026.html"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "China’s Lao Gan Ma denies mass layoffs linked to AI amid public backlash",
+    "summary": "The iconic chilli oil maker faced online criticism after an executive reportedly said AI-powered technology had drastically reduced staffing on a production line.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/east-asia/china-lao-gan-ma-denies-layoffs-ai-6502126"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "He built robots as a teen. Now he’s rethinking how they’re tested",
+    "summary": "In The Backstory, self-taught robotics engineer Binh Pham on tinkering, the cost of speed, and why robot tests must leave the lab.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/built-robots-teen-hes-rethinking-theyre-tested"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Cash is king as investors draw new battle lines in AI spending boom",
+    "summary": "Cash is king as investors draw new battle lines in AI spending boom",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/cash-king-investors-draw-new-battle-lines-in-ai-spending-boom-6502061"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "GlobalFoundries Opens AI-enabled Facilities Control Center in Singapore",
+    "summary": "GlobalFoundries is integrating five Singapore fab control centers into one system, using AI for monitoring, predictive maintenance and troubleshooting. The post GlobalFoundries Opens AI-enabled Facilities Control Center in Singapore appeared first on EE Times Asia .",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
       "AI",
-      "Automation"
-    ],
-    "url": "https://www.eetasia.com/robbyant-embodied-ai-challenge-attracts-1800-teams-for-real-robot-trials/"
-  },
-  {
-    "date": "2026-10-29",
-    "title": "GLP-1 weight-loss pills vs injections: How do they compare and why you shouldn't get the pills online",
-    "summary": "Wegovy, a GLP-1 weight-loss drug, is already available in Singapore as a once-weekly weight-loss injection. Now offered as a daily pill in several countries but not Singapore, how does it compare with the jab? Doctors explain its effectiveness, dosing, side effects and why it isn’t meant for casual weight loss.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Pharmaceutical"
-    ],
-    "url": "https://www.channelnewsasia.com/wellness/wegovy-weight-loss-pill-vs-injection-glp-1-6451926"
-  },
-  {
-    "date": "2026-10-29",
-    "title": "Microsoft's cloud growth, cash flow offer respite from AI spending fears",
-    "summary": "Microsoft's cloud growth, cash flow offer respite from AI spending fears",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/microsofts-cloud-growth-cash-flow-offer-respite-ai-spending-fears-6501191"
-  },
-  {
-    "date": "2026-10-29",
-    "title": "UMC utilization tops 90% in 2H26 as AI demand drives expansion",
-    "summary": "United Microelectronics (UMC) saw operating momentum strengthen in the third quarter of 2026, as demand for artificial intelligence (AI), high-performance computing (HPC), communications, and automotive chips continued to drive the mature and specialty process markets.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261028PD247/umc-demand-expansion-capacity-wafer.html"
+    "url": "https://www.eetasia.com/globalfoundries-opens-ai-enabled-facilities-control-center-in-singapore/"
   },
   {
     "date": "2026-10-29",
-    "title": "Peak XV leads $100m round in AI analytics startup Hex",
-    "summary": "Hex said it rewrote its product from scratch; its earlier version had over 2,500 customers.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/indian-enterprise-ai-startup-navikenz-raises-75m-seed"
-  },
-  {
-    "date": "2026-10-29",
-    "title": "Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent",
-    "summary": "Taiwan directs too much public research and development (R&D) funding to its national research institutes, according to Chenming Hu, a former chief technology officer of Taiwan Semiconductor Manufacturing Company (TSMC). In his new book, Find the Solutions , Hu argues that this funding does not achieve the same multipl",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261028PD226/taiwan-tsmc-funding-academia-sinica-technology.html"
-  },
-  {
-    "date": "2026-10-29",
-    "title": "ByteDance steps up robotics hiring through Seed AI",
-    "summary": "The hiring expands the company’s work on embodied AI, which links software models to physical machines.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI",
-      "Automation"
-    ],
-    "url": "https://www.techinasia.com/bytedance-eyes-5-6gw-data-hub-in-inner-mongolia-sources"
-  },
-  {
-    "date": "2026-10-29",
-    "title": "Transformation in focus as display supply chain kicks off investor briefings",
-    "summary": "The panel display supply chain's transformation marathon continues as companies begin a week of investor briefings centered on new businesses. CoreIntelligence (CiHC), AUO, Radiant, BenQ Materials and E Ink will present in succession, with transformation progress remaining a key market focus.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20261028PD231/panel-display-supply-chain-auo-revenue.html"
-  },
-  {
-    "date": "2026-10-29",
-    "title": "Google parent's revenue jumps 25% as homegrown AI chips take on Nvidia",
-    "summary": "Google parent's revenue jumps 25% as homegrown AI chips take on Nvidia",
+    "title": "Thailand's Kasikornbank taps AI to expand wealth management customer base",
+    "summary": "Thailand's Kasikornbank taps AI to expand wealth management customer base",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/markets/wealth-management/thailand-s-kasikornbank-taps-ai-to-expand-wealth-management-customer-base"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
+    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://asia.nikkei.com/business/technology/google-parent-s-revenue-jumps-25-as-homegrown-ai-chips-take-on-nvidia"
+    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
   },
   {
     "date": "2026-10-28",
