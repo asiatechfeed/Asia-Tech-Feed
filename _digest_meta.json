@@ -1,39 +1,40 @@
 {
   "date": "2026-10-29",
-  "count": 9,
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
+    "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-29-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Robbyant Embodied AI Challenge Attracts 1,800 Teams for Real-Robot Trials",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/robbyant-embodied-ai-challenge-attracts-1800-teams-for-real-robot-trials/"
-    },
-    {
-      "title": "GLP-1 weight-loss pills vs injections: How do they compare and why you shouldn't get the pills online",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/wellness/wegovy-weight-loss-pill-vs-injection-glp-1-6451926"
-    },
-    {
-      "title": "Microsoft's cloud growth, cash flow offer respite from AI spending fears",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/microsofts-cloud-growth-cash-flow-offer-respite-ai-spending-fears-6501191"
-    },
-    {
-      "title": "UMC utilization tops 90% in 2H26 as AI demand drives expansion",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261028PD247/umc-demand-expansion-capacity-wafer.html"
-    },
-    {
-      "title": "Peak XV leads $100m round in AI analytics startup Hex",
+      "title": "Now, private AI is non-negotiable",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/indian-enterprise-ai-startup-navikenz-raises-75m-seed"
+      "url": "https://www.techinasia.com/now-private-ai-is-non-negotiable"
+    },
+    {
+      "title": "Kuen Tong debuts on TPEx Emerging Board, riding LEO satellite and AI cooling dual engines",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261029PD219/leo-satellite-taiwan-cooling-high-end.html"
+    },
+    {
+      "title": "No equity, no fee: Nvidia\u2019s long bet on SEA\u2019s AI startups",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/equity-fee-nvidias-long-bet-seas-ai-startups"
+    },
+    {
+      "title": "NCS opens AI Mission Centre in Ang Mo Kio, to triple embedded AI engineers to over 300",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/ncs-ai-mission-centre-ang-mo-kio-engineers-6500661"
+    },
+    {
+      "title": "Starlink V3 rollout lifts Win Semiconductors' 2027 satellite outlook as optical communications ramp up",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261029PD221/win-semi-optical-communications-starlink-spacex-demand-2027.html"
     }
   ],
   "source_stats": [
@@ -50,9 +51,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -149,7 +150,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 6,
+      "relevant": 7,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -157,8 +158,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 58,
-      "relevant": 43,
+      "fetched": 70,
+      "relevant": 48,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +168,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 4,
+      "relevant": 5,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -178,7 +179,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -196,7 +197,7 @@
       "fetched": 36,
       "relevant": 13,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
