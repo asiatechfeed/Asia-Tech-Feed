@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-29T05:27:19+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 29, 2026</title><link href="https://asiatechfeed.com/2026/10/29/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 29, 2026" /><published>2026-10-29T05:26:27+00:00</published><updated>2026-10-29T05:26:27+00:00</updated><id>https://asiatechfeed.com/2026/10/29/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/29/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-29T08:01:37+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 29, 2026</title><link href="https://asiatechfeed.com/2026/10/29/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 29, 2026" /><published>2026-10-29T08:00:53+00:00</published><updated>2026-10-29T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/10/29/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/29/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -13,101 +13,53 @@
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Now, private AI is non-negotiable</span></td>
-  <td class="col-summary">Private AI hits an inflection point this year, as trust in public AI wavers. Datasaur is banking on the trend.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/now-private-ai-is-non-negotiable" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Korean chipmaker FuriosaAI raises $620m at $2.9b valuation</span></td>
+  <td class="col-summary">FuriosaAI said RNGD outperformed Nvidia’s RTX Pro 6000 in its own efficiency benchmark.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/korean-chipmaker-furiosa-expands-ai-push-with-broadcom" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Kuen Tong debuts on TPEx Emerging Board, riding LEO satellite and AI cooling dual engines</span></td>
-  <td class="col-summary">Taiwan's Kuen Tong Technology, a high-end precision metal components maker and major supplier to a US low-Earth orbit (LEO) satellite operator, is set to list on the Taipei Exchange's Emerging Stock Board on October 29 at a reference price of NT$390 (approx. US$12.03) per share. Riding rising satellite demand, the comp</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261029PD219/leo-satellite-taiwan-cooling-high-end.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Singtel’s NCS launches center to take AI beyond pilots</span></td>
+  <td class="col-summary">NCS plans to grow its forward-deployed AI engineer pool from 100 to over 300 within two years.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/singapore-tech-firm-ncs-expands-enterprise-ai-suite" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">No equity, no fee: Nvidia’s long bet on SEA’s AI startups</span></td>
-  <td class="col-summary">Under its Inception program, the firm provides engineering support and helps with minimum viable product, go-to-market strategy, and funding. Is there a catch?</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/equity-fee-nvidias-long-bet-seas-ai-startups" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">KLA: wafer fab equipment market exceeding US$200B in 2027</span></td>
+  <td class="col-summary">KLA expects global wafer fabrication equipment (WFE) spending to exceed US$200 billion in 2027, as semiconductor manufacturers accelerate investments in advanced logic, DRAM and high-bandwidth memory (HBM), according to executives on the company's October 28 earnings call. The projection marks an improvement over its o</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261029VL214/kla-equipment-wafer-market-2027.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">NCS opens AI Mission Centre in Ang Mo Kio, to triple embedded AI engineers to over 300</span></td>
-  <td class="col-summary">The Singtel-owned firm also announced three partnerships to scale up AI projects at Changi Airport, the Institute of Mental Health and Life3 Biotech.</td>
-  <td class="col-tags"><span class="tag bio">Biotechnology</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/ncs-ai-mission-centre-ang-mo-kio-engineers-6500661" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">NXP wins Volkswagen role in software-defined vehicle architecture</span></td>
+  <td class="col-summary">Volkswagen Group and NXP Semiconductors have agreed on a strategic partnership under which NXP's S32K5 microcontrollers (MCUs) are intended to serve as a building block of the carmaker's future software-defined vehicle architecture.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261028VL224/volkswagen-vehicle-nxp-partnership-rivian.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Starlink V3 rollout lifts Win Semiconductors' 2027 satellite outlook as optical communications ramp up</span></td>
-  <td class="col-summary">SpaceX's Starship super-heavy rocket completed its 14th test flight on September 28, successfully reaching Earth orbit and deploying 26 next-generation Starlink V3 satellites. A 15th test flight is expected within weeks.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261029PD221/win-semi-optical-communications-starlink-spacex-demand-2027.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">China's auto supply chain shifts from price wars to value competition</span></td>
+  <td class="col-summary">China's cooling auto price war is creating an opportunity for the automotive supply chain to upgrade, as regulators tighten oversight of the new energy vehicle (NEV) industry and curb malicious price cuts. Automakers are being pushed to compete through technological improvements and service quality rather than aggressi</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261029PD204/competition-price-supply-chain-price-war-cooling.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung, SK Hynix invest KRW110 trillion as memory supply boost slips to 2028</span></td>
-  <td class="col-summary">Samsung Electronics and SK Hynix are undertaking their largest-ever equipment investments in 2026, but the memory supply increase is not expected to materialize until 2028. By then, however, new South Korean plants and expanded capacity at China's ChangXin Memory Technologies (CXMT) are expected to come online simultan</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261029PD208/samsung-sk-hynix-2028-equipment-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">China’s Lao Gan Ma denies mass layoffs linked to AI amid public backlash</span></td>
-  <td class="col-summary">The iconic chilli oil maker faced online criticism after an executive reportedly said AI-powered technology had drastically reduced staffing on a production line.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/china-lao-gan-ma-denies-layoffs-ai-6502126" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">He built robots as a teen. Now he’s rethinking how they’re tested</span></td>
-  <td class="col-summary">In The Backstory, self-taught robotics engineer Binh Pham on tinkering, the cost of speed, and why robot tests must leave the lab.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/built-robots-teen-hes-rethinking-theyre-tested" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Cash is king as investors draw new battle lines in AI spending boom</span></td>
-  <td class="col-summary">Cash is king as investors draw new battle lines in AI spending boom</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/cash-king-investors-draw-new-battle-lines-in-ai-spending-boom-6502061" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">GlobalFoundries Opens AI-enabled Facilities Control Center in Singapore</span></td>
-  <td class="col-summary">GlobalFoundries is integrating five Singapore fab control centers into one system, using AI for monitoring, predictive maintenance and troubleshooting. The post GlobalFoundries Opens AI-enabled Facilities Control Center in Singapore appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/globalfoundries-opens-ai-enabled-facilities-control-center-in-singapore/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Thailand's Kasikornbank taps AI to expand wealth management customer base</span></td>
-  <td class="col-summary">Thailand's Kasikornbank taps AI to expand wealth management customer base</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/wealth-management/thailand-s-kasikornbank-taps-ai-to-expand-wealth-management-customer-base" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">AI trade isn’t just about tech stocks but also power, TCW says</span></td>
-  <td class="col-summary">The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/asset-management/newsView/ked202606010002" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Samsung Q3 net profit hits $56b on AI chip demand</span></td>
+  <td class="col-summary">The semiconductor division generated 106.5 trillion won (US$79.9 billion) in operating profit.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/samsung-q3-profit-9x-ai-chip-demand" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Now, private AI is non-negotiable Private AI hits an inflection point this year, as trust in public AI wavers. Datasaur is banking on the trend. AI Read 2 DigiTimes Kuen Tong debuts on TPEx Emerging Board, riding LEO satellite and AI cooling dual engines Taiwan's Kuen Tong Technology, a high-end precision metal components maker and major supplier to a US low-Earth orbit (LEO) satellite operator, is set to list on the Taipei Exchange's Emerging Stock Board on October 29 at a reference price of NT$390 (approx. US$12.03) per share. Riding rising satellite demand, the comp SemiconductorAI Read 3 TechAsia No equity, no fee: Nvidia’s long bet on SEA’s AI startups Under its Inception program, the firm provides engineering support and helps with minimum viable product, go-to-market strategy, and funding. Is there a catch? AI Read 4 CNA NCS opens AI Mission Centre in Ang Mo Kio, to triple embedded AI engineers to over 300 The Singtel-owned firm also announced three partnerships to scale up AI projects at Changi Airport, the Institute of Mental Health and Life3 Biotech. BiotechnologyAI Read 5 DigiTimes Starlink V3 rollout lifts Win Semiconductors' 2027 satellite outlook as optical communications ramp up SpaceX's Starship super-heavy rocket completed its 14th test flight on September 28, successfully reaching Earth orbit and deploying 26 next-generation Starlink V3 satellites. A 15th test flight is expected within weeks. Semiconductor Read 6 DigiTimes Samsung, SK Hynix invest KRW110 trillion as memory supply boost slips to 2028 Samsung Electronics and SK Hynix are undertaking their largest-ever equipment investments in 2026, but the memory supply increase is not expected to materialize until 2028. By then, however, new South Korean plants and expanded capacity at China's ChangXin Memory Technologies (CXMT) are expected to come online simultan Electronics Read 7 CNA China’s Lao Gan Ma denies mass layoffs linked to AI amid public backlash The iconic chilli oil maker faced online criticism after an executive reportedly said AI-powered technology had drastically reduced staffing on a production line. AI Read 8 TechAsia He built robots as a teen. Now he’s rethinking how they’re tested In The Backstory, self-taught robotics engineer Binh Pham on tinkering, the cost of speed, and why robot tests must leave the lab. Automation Read 9 CNA Cash is king as investors draw new battle lines in AI spending boom Cash is king as investors draw new battle lines in AI spending boom AI Read 10 EETAsia GlobalFoundries Opens AI-enabled Facilities Control Center in Singapore GlobalFoundries is integrating five Singapore fab control centers into one system, using AI for monitoring, predictive maintenance and troubleshooting. The post GlobalFoundries Opens AI-enabled Facilities Control Center in Singapore appeared first on EE Times Asia . AISemiconductor Read 11 NikkeiAsia Thailand's Kasikornbank taps AI to expand wealth management customer base Thailand's Kasikornbank taps AI to expand wealth management customer base AI Read 12 KED AI trade isn’t just about tech stocks but also power, TCW says The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 28, 2026</title><link href="https://asiatechfeed.com/2026/10/28/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 28, 2026" /><published>2026-10-28T08:00:56+00:00</published><updated>2026-10-28T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/10/28/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/28/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Korean chipmaker FuriosaAI raises $620m at $2.9b valuation FuriosaAI said RNGD outperformed Nvidia’s RTX Pro 6000 in its own efficiency benchmark. Semiconductor Read 2 TechAsia Singtel’s NCS launches center to take AI beyond pilots NCS plans to grow its forward-deployed AI engineer pool from 100 to over 300 within two years. AI Read 3 DigiTimes KLA: wafer fab equipment market exceeding US$200B in 2027 KLA expects global wafer fabrication equipment (WFE) spending to exceed US$200 billion in 2027, as semiconductor manufacturers accelerate investments in advanced logic, DRAM and high-bandwidth memory (HBM), according to executives on the company's October 28 earnings call. The projection marks an improvement over its o Semiconductor Read 4 DigiTimes NXP wins Volkswagen role in software-defined vehicle architecture Volkswagen Group and NXP Semiconductors have agreed on a strategic partnership under which NXP's S32K5 microcontrollers (MCUs) are intended to serve as a building block of the carmaker's future software-defined vehicle architecture. Semiconductor Read 5 DigiTimes China's auto supply chain shifts from price wars to value competition China's cooling auto price war is creating an opportunity for the automotive supply chain to upgrade, as regulators tighten oversight of the new energy vehicle (NEV) industry and curb malicious price cuts. Automakers are being pushed to compete through technological improvements and service quality rather than aggressi Logistics Read 6 TechAsia Samsung Q3 net profit hits $56b on AI chip demand The semiconductor division generated 106.5 trillion won (US$79.9 billion) in operating profit. SemiconductorAI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 28, 2026</title><link href="https://asiatechfeed.com/2026/10/28/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 28, 2026" /><published>2026-10-28T08:00:56+00:00</published><updated>2026-10-28T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/10/28/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/28/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
