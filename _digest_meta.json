@@ -1,39 +1,37 @@
 {
   "date": "2026-10-30",
-  "count": 12,
+  "count": 9,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-30-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Nvidia says Megaspeed dealings were Normal after probe report",
+      "title": "Capgemini raises 2026 guidance as AI push brings work to IT consultants",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/capgemini-raises-2026-guidance-ai-push-brings-work-it-consultants-6506206"
+    },
+    {
+      "title": "Most firms now use AI in HR processes, with human sign-off required 85% of the time: Survey",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/ai-human-judgment-hr-recruitment-resume-screening-6505731"
+    },
+    {
+      "title": "Nvidia secures substrate capacity as FCBGA market targets US$27.3 billion by 2030",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261030PD226/nvidia-fc-bga-substrate-capacity-2030.html"
+    },
+    {
+      "title": "Jinpao targets power cabinets, BBUs in AI-related expansion",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261030PD212/expansion-manufacturing-high-end-supply-chain-demand.html"
+    },
+    {
+      "title": "Tencent Cloud, Morningstar plan AI wealth tools for Asia",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-unveils-openshell-reference-architecture"
-    },
-    {
-      "title": "KLA reportedly weighs India manufacturing entry as Semicon 2.0 opens to equipment makers",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261030VL215/kla-inspection-equipment-semicon-manufacturing-india.html"
-    },
-    {
-      "title": "HyperAccel, Rebellions look beyond chips to AI data center systems",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261030VL218/data-center-ai-chip-hardware-testing-training.html"
-    },
-    {
-      "title": "Nvidia dominates AI robot chips with 69% market share",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261030PD219/robotics-nvidia-development-robot-software.html"
-    },
-    {
-      "title": "NTU, Google sign pact to expand AI in teaching, research",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/google-cloud-announces-gemini-agent-work"
+      "url": "https://www.techinasia.com/anthropic-ipo-to-open-to-australian-retail-investors"
     }
   ],
   "source_stats": [
@@ -50,7 +48,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 4,
+      "relevant": 3,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -151,14 +149,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 56,
-      "relevant": 44,
+      "fetched": 62,
+      "relevant": 46,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 20,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
