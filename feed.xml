@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-29T08:01:37+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 29, 2026</title><link href="https://asiatechfeed.com/2026/10/29/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 29, 2026" /><published>2026-10-29T08:00:53+00:00</published><updated>2026-10-29T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/10/29/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/29/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-30T00:25:00+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 30, 2026</title><link href="https://asiatechfeed.com/2026/10/30/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 30, 2026" /><published>2026-10-30T00:24:20+00:00</published><updated>2026-10-30T00:24:20+00:00</updated><id>https://asiatechfeed.com/2026/10/30/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/30/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Chinese AI drug firm XtalPi expands Singapore partnership</span></td>
+  <td class="col-summary">Under the MARVEL-AI program, the companies will develop new materials using computational tools and automated laboratory experiments.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/china-eyes-first-ai-designed-drug-approval-by-2026" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Amazon's cloud acceleration lifts profitability as AI spending absorbs cash</span></td>
+  <td class="col-summary">Amazon's third quarter showed its cloud expansion translating into stronger operating profitability, while the cash demands of building AI infrastructure kept rising. The result sharpens the company's central operating challenge: sustaining rapid AWS growth while bringing new capacity into service and maintaining the e</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261030VL201/amazon-growth-expansion-infrastructure-aws.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Alibaba, Tencent, ByteDance reportedly seek 10-year DRAM deals</span></td>
+  <td class="col-summary">Alibaba, Tencent, and ByteDance are reportedly seeking long-term server DRAM supply agreements with Samsung Electronics and SK Hynix, with some requests extending through 2035, as Chinese cloud service providers (CSPs) join US technology giants in competing for future memory capacity.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261028VL228/alibaba-tencent-bytedance-dram-samsung.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">STMicroelectronics' recovery gains momentum, but power chips lag</span></td>
+  <td class="col-summary">STMicroelectronics is turning a demand recovery into stronger factory economics, with communications and embedded-processing products driving the improvement. Yet the widening loss in its power semiconductor business shows that higher sales have not restored portfolio-wide profitability, leaving manufacturing utilizati</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261030VL203/stmicroelectronics-recovery-demand-revenue-communications.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">These are Asia’s most active investors in AI</span></td>
+  <td class="col-summary">We've compiled a list of investors that are pouring money into Asia’s AI startups.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/these-are-asias-most-active-investors-in-ai" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: AI agents need middle managers too</span></td>
+  <td class="col-summary">When the cost of moving and reconciling corporate information collapses, the roles built to perform these functions must change, says Kai-Fu Lee for the Financial Times.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/ai-disruption-jobs-middle-managers-6502721" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Weak quarter for Intel sends shivers through cooling chip stocks</span></td>
+  <td class="col-summary">Weak quarter for Intel sends shivers through cooling chip stocks</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/weak-quarter-intel-sends-shivers-through-cooling-chip-stocks-6504986" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Tencent expands overseas data centers as AI demand surges</span></td>
+  <td class="col-summary">The company is using Southeast Asia as a base to sell its AI products in international markets.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/tencent-cloud-ai-singapore-launch-hackathon" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Takeda bets on blockbuster drug trio to generate $11bn in peak sales</span></td>
+  <td class="col-summary">Takeda bets on blockbuster drug trio to generate $11bn in peak sales</td>
+  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/pharmaceuticals/takeda-bets-on-blockbuster-drug-trio-to-generate-11bn-in-peak-sales" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">AI boom, soaring memory prices lift Japan's chip exports 41%</span></td>
+  <td class="col-summary">AI boom, soaring memory prices lift Japan's chip exports 41%</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/ai-boom-soaring-memory-prices-lift-japan-s-chip-exports-41" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Alphabet spells out more AI capex, China+1 doesn't add up</span></td>
+  <td class="col-summary">Alphabet spells out more AI capex, China+1 doesn't add up</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/techasia/alphabet-spells-out-more-ai-capex-china-1-doesn-t-add-up" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Chinese AI drug firm XtalPi expands Singapore partnership Under the MARVEL-AI program, the companies will develop new materials using computational tools and automated laboratory experiments. AIPharmaceutical Read 2 DigiTimes Amazon's cloud acceleration lifts profitability as AI spending absorbs cash Amazon's third quarter showed its cloud expansion translating into stronger operating profitability, while the cash demands of building AI infrastructure kept rising. The result sharpens the company's central operating challenge: sustaining rapid AWS growth while bringing new capacity into service and maintaining the e AI Read 3 DigiTimes Alibaba, Tencent, ByteDance reportedly seek 10-year DRAM deals Alibaba, Tencent, and ByteDance are reportedly seeking long-term server DRAM supply agreements with Samsung Electronics and SK Hynix, with some requests extending through 2035, as Chinese cloud service providers (CSPs) join US technology giants in competing for future memory capacity. Electronics Read 4 DigiTimes STMicroelectronics' recovery gains momentum, but power chips lag STMicroelectronics is turning a demand recovery into stronger factory economics, with communications and embedded-processing products driving the improvement. Yet the widening loss in its power semiconductor business shows that higher sales have not restored portfolio-wide profitability, leaving manufacturing utilizati SemiconductorElectronics Read 5 TechAsia These are Asia’s most active investors in AI We've compiled a list of investors that are pouring money into Asia’s AI startups. AI Read 6 CNA Commentary: AI agents need middle managers too When the cost of moving and reconciling corporate information collapses, the roles built to perform these functions must change, says Kai-Fu Lee for the Financial Times. AI Read 7 CNA Weak quarter for Intel sends shivers through cooling chip stocks Weak quarter for Intel sends shivers through cooling chip stocks Semiconductor Read 8 TechAsia Tencent expands overseas data centers as AI demand surges The company is using Southeast Asia as a base to sell its AI products in international markets. AI Read 9 NikkeiAsia Takeda bets on blockbuster drug trio to generate $11bn in peak sales Takeda bets on blockbuster drug trio to generate $11bn in peak sales Pharmaceutical Read 10 NikkeiAsia AI boom, soaring memory prices lift Japan's chip exports 41% AI boom, soaring memory prices lift Japan's chip exports 41% Semiconductor Read 11 NikkeiAsia Alphabet spells out more AI capex, China+1 doesn't add up Alphabet spells out more AI capex, China+1 doesn't add up AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 29, 2026</title><link href="https://asiatechfeed.com/2026/10/29/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 29, 2026" /><published>2026-10-29T08:00:53+00:00</published><updated>2026-10-29T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/10/29/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/29/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -627,81 +728,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/cybersecurity/cybersecurity-companies-urge-indonesia-to-boost-ai-talent" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Building a smarter workflow for short-form video creators With over 30,000 paying customers, Verba is scaling a profitable AI platform that structures raw video into polished content. AI Read 2 DigiTimes China launches state-owned data group as market-facing arm of its AI infrastructure push China has established a new state-owned enterprise, National Data Group, headquartered in Xiong'an, Hebei province. Ding Xuexiang, a vice-premier of the State Council, attended its inauguration on October 20. AI Read 3 DigiTimes PCB material shortages persist as capacity expansion extends beyond 2029 Rapid advances in AI and high-performance computing (HPC) are driving printed circuit boards (PCBs) toward higher layer counts, greater density, and higher-performance materials, triggering an open-ended shortage of upstream materials and equipment. Key suppliers of copper-clad laminates (CCL), copper foil and drill bi AIElectronics Read 4 TechAsia Singapore health AI startup Genie Health raises $3m seed The startup's free app stores health records; its SmartCare tool helps clinics book follow-ups. AI Read 5 TechAsia Zoom plans AI controls, compliance tools for enterprises In 2024, a Hong Kong finance worker paid US$25m after a video call with deepfaked executives. AI Read 6 DigiTimes Taiwan PCB output set to top NT$1 trillion as VP touts AI opportunity The 27th Taiwan Printed Circuit Industry International Exhibition (TPCA Show 2026) opened in Nangang on October 20, with Vice President Hsiao Bi-khim calling on the PCB industry to seize opportunities created by the AI boom. Taiwan's PCB industry is expected to generate more than NT$1 trillion in output for the first t AIElectronicsLogistics Read 7 NikkeiAsia Cybersecurity companies urge Indonesia to boost AI talent Cybersecurity companies urge Indonesia to boost AI talent AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 20, 2026</title><link href="https://asiatechfeed.com/2026/10/20/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 20, 2026" /><published>2026-10-20T08:00:54+00:00</published><updated>2026-10-20T08:00:54+00:00</updated><id>https://asiatechfeed.com/2026/10/20/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/20/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SoftBank credit risk highest since 2022 on AI worries</span></td>
-  <td class="col-summary">The rise came as investors worried about AI funding needs and a possible acquisition of Allied Universal.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/softbanks-credit-risk-rises-as-openai-exposure-grows" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Half of OVHcloud capacity is available, AI model launching in early 2027, CEO says</span></td>
-  <td class="col-summary">Half of OVHcloud capacity is available, AI model launching in early 2027, CEO says</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/half-ovhcloud-capacity-available-ai-model-launching-in-early-2027-ceo-says-6474791" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AI servers drive TVS and ESD demand for Yea Shin Tech</span></td>
-  <td class="col-summary">AI servers are driving demand for power components, transient voltage suppressors (TVS), and electrostatic discharge (ESD) protection devices. Yea Shin Technology, a subsidiary of Eris Technology, will begin trading on Taiwan's emerging stock market on October 23 and plans to raise the share of 6-inch wafers in its cap</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261020PD239/demand-esd-capacity-power-components-eris-tech.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Thermaltake expands AI workstation lineup on edge AI demand</span></td>
-  <td class="col-summary">Thermaltake is targeting the growing edge AI market with a new workstation lineup. Chairman Kenny Lin said the company has transformed from a gaming components maker into an AI PC and workstation systems provider. The company plans to launch three product lines in the second half of 2026 and aims for AI-related product</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261020PD232/thermaltake-workstation-gaming-market-revenue.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung's HBM4 supply lock-in exposes limits of China's CXMT as Apple and Tesla seek DRAM alternatives</span></td>
-  <td class="col-summary">Samsung Electronics is expected to enter 2027 with approximately 80% of its planned memory production secured under long-term contracts, reinforcing its pricing position while China's ChangXin Memory Technologies (CXMT) expands capacity and attracts attention from US tech companies seeking alternative DRAM suppliers.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261020VL218/samsung-cxmt-dram-hbm4.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Chinese AI tool behind cyberattacks in Japan: Security firm</span></td>
-  <td class="col-summary">Chinese AI tool behind cyberattacks in Japan: Security firm</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/china-ai-tool-artex-japan-cyberattack-6474611" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Alibaba says XuanTie chip shipments top 6 billion</span></td>
-  <td class="col-summary">The figure appeared to cover cumulative shipments, though it was unclear whether it included chips made by Alibaba’s partners.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibabas-capex-spike-story-investors" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Nvidia wins CPU deal with AI cloud startup Modal</span></td>
-  <td class="col-summary">Nvidia says Vera is a next-generation data center CPU for AI factories, extending its push beyond graphics processing units (GPUs).</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidias-20b-groq-deal-faces-suit-skipped-vote" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia SoftBank credit risk highest since 2022 on AI worries The rise came as investors worried about AI funding needs and a possible acquisition of Allied Universal. AI Read 2 CNA Half of OVHcloud capacity is available, AI model launching in early 2027, CEO says Half of OVHcloud capacity is available, AI model launching in early 2027, CEO says AI Read 3 DigiTimes AI servers drive TVS and ESD demand for Yea Shin Tech AI servers are driving demand for power components, transient voltage suppressors (TVS), and electrostatic discharge (ESD) protection devices. Yea Shin Technology, a subsidiary of Eris Technology, will begin trading on Taiwan's emerging stock market on October 23 and plans to raise the share of 6-inch wafers in its cap AISemiconductorLogistics Read 4 DigiTimes Thermaltake expands AI workstation lineup on edge AI demand Thermaltake is targeting the growing edge AI market with a new workstation lineup. Chairman Kenny Lin said the company has transformed from a gaming components maker into an AI PC and workstation systems provider. The company plans to launch three product lines in the second half of 2026 and aims for AI-related product AI Read 5 DigiTimes Samsung's HBM4 supply lock-in exposes limits of China's CXMT as Apple and Tesla seek DRAM alternatives Samsung Electronics is expected to enter 2027 with approximately 80% of its planned memory production secured under long-term contracts, reinforcing its pricing position while China's ChangXin Memory Technologies (CXMT) expands capacity and attracts attention from US tech companies seeking alternative DRAM suppliers. Electronics Read 6 CNA Chinese AI tool behind cyberattacks in Japan: Security firm Chinese AI tool behind cyberattacks in Japan: Security firm AI Read 7 TechAsia Alibaba says XuanTie chip shipments top 6 billion The figure appeared to cover cumulative shipments, though it was unclear whether it included chips made by Alibaba’s partners. Semiconductor Read 8 TechAsia Nvidia wins CPU deal with AI cloud startup Modal Nvidia says Vera is a next-generation data center CPU for AI factories, extending its push beyond graphics processing units (GPUs). AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Building a smarter workflow for short-form video creators With over 30,000 paying customers, Verba is scaling a profitable AI platform that structures raw video into polished content. AI Read 2 DigiTimes China launches state-owned data group as market-facing arm of its AI infrastructure push China has established a new state-owned enterprise, National Data Group, headquartered in Xiong'an, Hebei province. Ding Xuexiang, a vice-premier of the State Council, attended its inauguration on October 20. AI Read 3 DigiTimes PCB material shortages persist as capacity expansion extends beyond 2029 Rapid advances in AI and high-performance computing (HPC) are driving printed circuit boards (PCBs) toward higher layer counts, greater density, and higher-performance materials, triggering an open-ended shortage of upstream materials and equipment. Key suppliers of copper-clad laminates (CCL), copper foil and drill bi AIElectronics Read 4 TechAsia Singapore health AI startup Genie Health raises $3m seed The startup's free app stores health records; its SmartCare tool helps clinics book follow-ups. AI Read 5 TechAsia Zoom plans AI controls, compliance tools for enterprises In 2024, a Hong Kong finance worker paid US$25m after a video call with deepfaked executives. AI Read 6 DigiTimes Taiwan PCB output set to top NT$1 trillion as VP touts AI opportunity The 27th Taiwan Printed Circuit Industry International Exhibition (TPCA Show 2026) opened in Nangang on October 20, with Vice President Hsiao Bi-khim calling on the PCB industry to seize opportunities created by the AI boom. Taiwan's PCB industry is expected to generate more than NT$1 trillion in output for the first t AIElectronicsLogistics Read 7 NikkeiAsia Cybersecurity companies urge Indonesia to boost AI talent Cybersecurity companies urge Indonesia to boost AI talent AI Read]]></summary></entry></feed>

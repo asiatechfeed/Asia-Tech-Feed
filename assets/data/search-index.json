@@ -1,5 +1,128 @@
 [
   {
+    "date": "2026-10-30",
+    "title": "Chinese AI drug firm XtalPi expands Singapore partnership",
+    "summary": "Under the MARVEL-AI program, the companies will develop new materials using computational tools and automated laboratory experiments.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Pharmaceutical"
+    ],
+    "url": "https://www.techinasia.com/china-eyes-first-ai-designed-drug-approval-by-2026"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Amazon's cloud acceleration lifts profitability as AI spending absorbs cash",
+    "summary": "Amazon's third quarter showed its cloud expansion translating into stronger operating profitability, while the cash demands of building AI infrastructure kept rising. The result sharpens the company's central operating challenge: sustaining rapid AWS growth while bringing new capacity into service and maintaining the e",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261030VL201/amazon-growth-expansion-infrastructure-aws.html"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Alibaba, Tencent, ByteDance reportedly seek 10-year DRAM deals",
+    "summary": "Alibaba, Tencent, and ByteDance are reportedly seeking long-term server DRAM supply agreements with Samsung Electronics and SK Hynix, with some requests extending through 2035, as Chinese cloud service providers (CSPs) join US technology giants in competing for future memory capacity.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261028VL228/alibaba-tencent-bytedance-dram-samsung.html"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "STMicroelectronics' recovery gains momentum, but power chips lag",
+    "summary": "STMicroelectronics is turning a demand recovery into stronger factory economics, with communications and embedded-processing products driving the improvement. Yet the widening loss in its power semiconductor business shows that higher sales have not restored portfolio-wide profitability, leaving manufacturing utilizati",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261030VL203/stmicroelectronics-recovery-demand-revenue-communications.html"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "These are Asia’s most active investors in AI",
+    "summary": "We've compiled a list of investors that are pouring money into Asia’s AI startups.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/these-are-asias-most-active-investors-in-ai"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Commentary: AI agents need middle managers too",
+    "summary": "When the cost of moving and reconciling corporate information collapses, the roles built to perform these functions must change, says Kai-Fu Lee for the Financial Times.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/ai-disruption-jobs-middle-managers-6502721"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Weak quarter for Intel sends shivers through cooling chip stocks",
+    "summary": "Weak quarter for Intel sends shivers through cooling chip stocks",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/weak-quarter-intel-sends-shivers-through-cooling-chip-stocks-6504986"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Tencent expands overseas data centers as AI demand surges",
+    "summary": "The company is using Southeast Asia as a base to sell its AI products in international markets.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/tencent-cloud-ai-singapore-launch-hackathon"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Takeda bets on blockbuster drug trio to generate $11bn in peak sales",
+    "summary": "Takeda bets on blockbuster drug trio to generate $11bn in peak sales",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Pharmaceutical"
+    ],
+    "url": "https://asia.nikkei.com/business/pharmaceuticals/takeda-bets-on-blockbuster-drug-trio-to-generate-11bn-in-peak-sales"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "AI boom, soaring memory prices lift Japan's chip exports 41%",
+    "summary": "AI boom, soaring memory prices lift Japan's chip exports 41%",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/ai-boom-soaring-memory-prices-lift-japan-s-chip-exports-41"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Alphabet spells out more AI capex, China+1 doesn't add up",
+    "summary": "Alphabet spells out more AI capex, China+1 doesn't add up",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/techasia/alphabet-spells-out-more-ai-capex-china-1-doesn-t-add-up"
+  },
+  {
     "date": "2026-10-29",
     "title": "Korean chipmaker FuriosaAI raises $620m at $2.9b valuation",
     "summary": "FuriosaAI said RNGD outperformed Nvidia’s RTX Pro 6000 in its own efficiency benchmark.",
