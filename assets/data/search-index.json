@@ -1,141 +1,103 @@
 [
   {
     "date": "2026-10-30",
-    "title": "Nvidia says Megaspeed dealings were Normal after probe report",
-    "summary": "Huang said Nvidia had reviewed Megaspeed’s graphics processing unit deployments and found no illegal diversion of its AI chips to China.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/nvidia-unveils-openshell-reference-architecture"
-  },
-  {
-    "date": "2026-10-30",
-    "title": "KLA reportedly weighs India manufacturing entry as Semicon 2.0 opens to equipment makers",
-    "summary": "KLA Corporation, the US maker of semiconductor inspection and metrology equipment, is evaluating a manufacturing foray in India and is considering one or two applications under the country's Semicon 2.0 incentive scheme, The Economic Times reported on October 29, citing people familiar with the developments. KLA did no",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261030VL215/kla-inspection-equipment-semicon-manufacturing-india.html"
-  },
-  {
-    "date": "2026-10-30",
-    "title": "HyperAccel, Rebellions look beyond chips to AI data center systems",
-    "summary": "South Korean AI chip developers HyperAccel and Rebellions are moving beyond standalone accelerators to develop integrated data center systems, seeking to combine domestic processors, memory, and networking technologies into infrastructure capable of handling different AI workloads at lower cost.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261030VL218/data-center-ai-chip-hardware-testing-training.html"
-  },
-  {
-    "date": "2026-10-30",
-    "title": "Nvidia dominates AI robot chips with 69% market share",
-    "summary": "The rapid development of AI robotics applications is driving a sharp increase in semiconductor computing requirements. According to DIGITIMES Intelligence, Nvidia is set to dominate the 2026 AI robotics computing IC market with a 69% share, far outpacing Intel (11%), Qualcomm (5%), and AMD (2%). Beyond raw computing po",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "AI",
-      "Automation"
-    ],
-    "url": "https://www.digitimes.com/news/a20261030PD219/robotics-nvidia-development-robot-software.html"
-  },
-  {
-    "date": "2026-10-30",
-    "title": "NTU, Google sign pact to expand AI in teaching, research",
-    "summary": "NTU said its undergraduates have had access to Google tools, including Gemini Enterprise and Vertex AI, since August 2026.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/google-cloud-announces-gemini-agent-work"
-  },
-  {
-    "date": "2026-10-30",
-    "title": "CELUS Adds AI Agent Workflow for Electronics Design Planning",
-    "summary": "Design Assistant automates architecture planning and component research, while engineers retain approval over design decisions. The post CELUS Adds AI Agent Workflow for Electronics Design Planning appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Electronics",
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/celus-adds-ai-agent-workflow-for-electronics-design-planning/"
-  },
-  {
-    "date": "2026-10-30",
-    "title": "Ceva Expands NeuPro NPU Portfolio into AI Infrastructure",
-    "summary": "New NPU family targets edge and data centre inference, with higher compute density and improved energy efficiency. The post Ceva Expands NeuPro NPU Portfolio into AI Infrastructure appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/ceva-expands-neupro-npu-portfolio-into-ai-infrastructure/"
-  },
-  {
-    "date": "2026-10-30",
-    "title": "Nvidia's Huang says dealings with firm in US spy probe were 'normal': Report",
-    "summary": "He said Nvidia's relationship with Singapore-based Megaspeed International officials was proper and the company had checked that Megaspeed did not illegally divert Nvidia artificial intelligence (AI) chips to China.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/east-asia/nvidia-jensen-huang-megaspeed-international-6505791"
-  },
-  {
-    "date": "2026-10-30",
-    "title": "South Korea seeks criminal charges, 3-year exam ban for cheating with AI glasses",
-    "summary": "Authorities are stepping up efforts to tackle cheating involving the devices following a series of incidents this year.",
+    "title": "Capgemini raises 2026 guidance as AI push brings work to IT consultants",
+    "summary": "Capgemini raises 2026 guidance as AI push brings work to IT consultants",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/east-asia/south-korea-ai-smart-glasses-students-cheating-6505571"
+    "url": "https://www.channelnewsasia.com/business/capgemini-raises-2026-guidance-ai-push-brings-work-it-consultants-6506206"
   },
   {
     "date": "2026-10-30",
-    "title": "Japan's Nikkei slumps 3% as tech stocks tumble on AI worries",
-    "summary": "Japan's Nikkei slumps 3% as tech stocks tumble on AI worries",
+    "title": "Most firms now use AI in HR processes, with human sign-off required 85% of the time: Survey",
+    "summary": "Large organisations are more likely than SMEs to use AI in HR functions, but on the whole employers still value human judgment, says the Singapore National Employers Federation.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/japans-nikkei-slumps-3-tech-stocks-tumble-ai-worries-6505716"
+    "url": "https://www.channelnewsasia.com/singapore/ai-human-judgment-hr-recruitment-resume-screening-6505731"
   },
   {
     "date": "2026-10-30",
-    "title": "Canadian AI firm Cohere targets $5b in series E funding",
-    "summary": "It follows a US$500 million fundraise announced in August 2025 at a US$6.8 billion valuation.",
+    "title": "Nvidia secures substrate capacity as FCBGA market targets US$27.3 billion by 2030",
+    "summary": "Nvidia has begun securing advanced substrate capacity in Taiwan, Japan and South Korea, using capacity reservation agreements and upfront payments to support supplier expansion as next-generation AI accelerators ramp up. The move comes as the global packaging substrate market is projected to grow from US$14.9 billion i",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261030PD226/nvidia-fc-bga-substrate-capacity-2030.html"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Jinpao targets power cabinets, BBUs in AI-related expansion",
+    "summary": "Thailand-based precision sheet-metal manufacturer Jinpao Precision has entered the supply chain of a leading Thailand-based power-management company on the strength of its resilient manufacturing capabilities and highly adaptable product layout strategy. The company is accelerating its expansion in Thailand to capture ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261030PD212/expansion-manufacturing-high-end-supply-chain-demand.html"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Tencent Cloud, Morningstar plan AI wealth tools for Asia",
+    "summary": "The first products are planned for Hong Kong, before expanding to other Southeast Asian markets.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/why-ai-is-hiring-problem-not-just-a-technology-one"
+    "url": "https://www.techinasia.com/anthropic-ipo-to-open-to-australian-retail-investors"
   },
   {
     "date": "2026-10-30",
-    "title": "Japan's Marubeni looks to profit from bottlenecks arising from AI boom",
-    "summary": "Japan's Marubeni looks to profit from bottlenecks arising from AI boom",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "Spotify targets 2027 launch for AI remix service, FT reports",
+    "summary": "Spotify targets 2027 launch for AI remix service, FT reports",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-s-marubeni-looks-to-profit-from-bottlenecks-arising-from-ai-boom"
+    "url": "https://www.channelnewsasia.com/business/spotify-targets-2027-launch-ai-remix-service-ft-reports-6506086"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Intel tells Taiwan's chip suppliers to build service capacity early",
+    "summary": "Intel told Taiwanese chip equipment and materials suppliers that they need spare parts and service capability in place early if they want its business. The company said this at a supplier forum held by industry group SEMI in San Francisco ahead of the SEMICON West trade show.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261030VL219/intel-taiwan-equipment-materials-semi.html"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Mistral opens Large 4 weights for enterprise AI deployment",
+    "summary": "The weights are available on Hugging Face for self-hosting, and the model is also accessible through Mistral’s API.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/mistral-builds-ai-model-banks-mythos-access"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "A16z leads $17m seed round for US AI design startup Dream",
+    "summary": "Dream said 10 projects in Texas and California are using its software.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/israeli-cybersecurity-firm-dream-raises-260m-at-3b-valuation"
   },
   {
     "date": "2026-10-29",
