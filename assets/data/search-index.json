@@ -1,126 +1,141 @@
 [
   {
     "date": "2026-10-30",
-    "title": "Chinese AI drug firm XtalPi expands Singapore partnership",
-    "summary": "Under the MARVEL-AI program, the companies will develop new materials using computational tools and automated laboratory experiments.",
+    "title": "Nvidia says Megaspeed dealings were Normal after probe report",
+    "summary": "Huang said Nvidia had reviewed Megaspeed’s graphics processing unit deployments and found no illegal diversion of its AI chips to China.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI",
-      "Pharmaceutical"
+      "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/china-eyes-first-ai-designed-drug-approval-by-2026"
+    "url": "https://www.techinasia.com/nvidia-unveils-openshell-reference-architecture"
   },
   {
     "date": "2026-10-30",
-    "title": "Amazon's cloud acceleration lifts profitability as AI spending absorbs cash",
-    "summary": "Amazon's third quarter showed its cloud expansion translating into stronger operating profitability, while the cash demands of building AI infrastructure kept rising. The result sharpens the company's central operating challenge: sustaining rapid AWS growth while bringing new capacity into service and maintaining the e",
+    "title": "KLA reportedly weighs India manufacturing entry as Semicon 2.0 opens to equipment makers",
+    "summary": "KLA Corporation, the US maker of semiconductor inspection and metrology equipment, is evaluating a manufacturing foray in India and is considering one or two applications under the country's Semicon 2.0 incentive scheme, The Economic Times reported on October 29, citing people familiar with the developments. KLA did no",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI"
+      "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261030VL201/amazon-growth-expansion-infrastructure-aws.html"
+    "url": "https://www.digitimes.com/news/a20261030VL215/kla-inspection-equipment-semicon-manufacturing-india.html"
   },
   {
     "date": "2026-10-30",
-    "title": "Alibaba, Tencent, ByteDance reportedly seek 10-year DRAM deals",
-    "summary": "Alibaba, Tencent, and ByteDance are reportedly seeking long-term server DRAM supply agreements with Samsung Electronics and SK Hynix, with some requests extending through 2035, as Chinese cloud service providers (CSPs) join US technology giants in competing for future memory capacity.",
+    "title": "HyperAccel, Rebellions look beyond chips to AI data center systems",
+    "summary": "South Korean AI chip developers HyperAccel and Rebellions are moving beyond standalone accelerators to develop integrated data center systems, seeking to combine domestic processors, memory, and networking technologies into infrastructure capable of handling different AI workloads at lower cost.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Electronics"
+      "AI",
+      "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261028VL228/alibaba-tencent-bytedance-dram-samsung.html"
+    "url": "https://www.digitimes.com/news/a20261030VL218/data-center-ai-chip-hardware-testing-training.html"
   },
   {
     "date": "2026-10-30",
-    "title": "STMicroelectronics' recovery gains momentum, but power chips lag",
-    "summary": "STMicroelectronics is turning a demand recovery into stronger factory economics, with communications and embedded-processing products driving the improvement. Yet the widening loss in its power semiconductor business shows that higher sales have not restored portfolio-wide profitability, leaving manufacturing utilizati",
+    "title": "Nvidia dominates AI robot chips with 69% market share",
+    "summary": "The rapid development of AI robotics applications is driving a sharp increase in semiconductor computing requirements. According to DIGITIMES Intelligence, Nvidia is set to dominate the 2026 AI robotics computing IC market with a 69% share, far outpacing Intel (11%), Qualcomm (5%), and AMD (2%). Beyond raw computing po",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
-      "Electronics"
+      "AI",
+      "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20261030VL203/stmicroelectronics-recovery-demand-revenue-communications.html"
+    "url": "https://www.digitimes.com/news/a20261030PD219/robotics-nvidia-development-robot-software.html"
   },
   {
     "date": "2026-10-30",
-    "title": "These are Asia’s most active investors in AI",
-    "summary": "We've compiled a list of investors that are pouring money into Asia’s AI startups.",
+    "title": "NTU, Google sign pact to expand AI in teaching, research",
+    "summary": "NTU said its undergraduates have had access to Google tools, including Gemini Enterprise and Vertex AI, since August 2026.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/these-are-asias-most-active-investors-in-ai"
+    "url": "https://www.techinasia.com/google-cloud-announces-gemini-agent-work"
   },
   {
     "date": "2026-10-30",
-    "title": "Commentary: AI agents need middle managers too",
-    "summary": "When the cost of moving and reconciling corporate information collapses, the roles built to perform these functions must change, says Kai-Fu Lee for the Financial Times.",
+    "title": "CELUS Adds AI Agent Workflow for Electronics Design Planning",
+    "summary": "Design Assistant automates architecture planning and component research, while engineers retain approval over design decisions. The post CELUS Adds AI Agent Workflow for Electronics Design Planning appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Electronics",
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/celus-adds-ai-agent-workflow-for-electronics-design-planning/"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Ceva Expands NeuPro NPU Portfolio into AI Infrastructure",
+    "summary": "New NPU family targets edge and data centre inference, with higher compute density and improved energy efficiency. The post Ceva Expands NeuPro NPU Portfolio into AI Infrastructure appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/ceva-expands-neupro-npu-portfolio-into-ai-infrastructure/"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Nvidia's Huang says dealings with firm in US spy probe were 'normal': Report",
+    "summary": "He said Nvidia's relationship with Singapore-based Megaspeed International officials was proper and the company had checked that Megaspeed did not illegally divert Nvidia artificial intelligence (AI) chips to China.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/east-asia/nvidia-jensen-huang-megaspeed-international-6505791"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "South Korea seeks criminal charges, 3-year exam ban for cheating with AI glasses",
+    "summary": "Authorities are stepping up efforts to tackle cheating involving the devices following a series of incidents this year.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/commentary/ai-disruption-jobs-middle-managers-6502721"
+    "url": "https://www.channelnewsasia.com/east-asia/south-korea-ai-smart-glasses-students-cheating-6505571"
   },
   {
     "date": "2026-10-30",
-    "title": "Weak quarter for Intel sends shivers through cooling chip stocks",
-    "summary": "Weak quarter for Intel sends shivers through cooling chip stocks",
+    "title": "Japan's Nikkei slumps 3% as tech stocks tumble on AI worries",
+    "summary": "Japan's Nikkei slumps 3% as tech stocks tumble on AI worries",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/weak-quarter-intel-sends-shivers-through-cooling-chip-stocks-6504986"
+    "url": "https://www.channelnewsasia.com/business/japans-nikkei-slumps-3-tech-stocks-tumble-ai-worries-6505716"
   },
   {
     "date": "2026-10-30",
-    "title": "Tencent expands overseas data centers as AI demand surges",
-    "summary": "The company is using Southeast Asia as a base to sell its AI products in international markets.",
+    "title": "Canadian AI firm Cohere targets $5b in series E funding",
+    "summary": "It follows a US$500 million fundraise announced in August 2025 at a US$6.8 billion valuation.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/tencent-cloud-ai-singapore-launch-hackathon"
+    "url": "https://www.techinasia.com/why-ai-is-hiring-problem-not-just-a-technology-one"
   },
   {
     "date": "2026-10-30",
-    "title": "Takeda bets on blockbuster drug trio to generate $11bn in peak sales",
-    "summary": "Takeda bets on blockbuster drug trio to generate $11bn in peak sales",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Pharmaceutical"
-    ],
-    "url": "https://asia.nikkei.com/business/pharmaceuticals/takeda-bets-on-blockbuster-drug-trio-to-generate-11bn-in-peak-sales"
-  },
-  {
-    "date": "2026-10-30",
-    "title": "AI boom, soaring memory prices lift Japan's chip exports 41%",
-    "summary": "AI boom, soaring memory prices lift Japan's chip exports 41%",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/ai-boom-soaring-memory-prices-lift-japan-s-chip-exports-41"
-  },
-  {
-    "date": "2026-10-30",
-    "title": "Alphabet spells out more AI capex, China+1 doesn't add up",
-    "summary": "Alphabet spells out more AI capex, China+1 doesn't add up",
+    "title": "Japan's Marubeni looks to profit from bottlenecks arising from AI boom",
+    "summary": "Japan's Marubeni looks to profit from bottlenecks arising from AI boom",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/techasia/alphabet-spells-out-more-ai-capex-china-1-doesn-t-add-up"
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-s-marubeni-looks-to-profit-from-bottlenecks-arising-from-ai-boom"
   },
   {
     "date": "2026-10-29",
