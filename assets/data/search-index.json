@@ -1,136 +1,91 @@
 [
   {
     "date": "2026-10-31",
-    "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
-    "summary": "The launch of Muse in September across Meta's expanding agent ecosystem has highlighted how quickly AI agents are evolving beyond conventional chatbot architectures, bringing more complex operating requirements and increasingly diversified roles into the definition of what an AI agent can do.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "US AI inference startup Baseten targets $30b valuation",
+    "summary": "Founded in 2019, Baseten has been featured in Nvidia case studies on cloud-scale AI inference.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261028VL216/meta-infrastructure-nvidia-launch-security.html"
+    "url": "https://www.techinasia.com/real-money-ai-models"
   },
   {
     "date": "2026-10-31",
-    "title": "TSIA 30: The manpower problem behind Taiwan's semiconductor resilience",
-    "summary": "Taiwan's semiconductor industry has earned its reputation for chip dominance through decades of sustained investment in solving some of the world's hardest technological challenges. That persistence has helped build a manufacturing ecosystem whose industrial density, specialization, and resilience remain difficult for ",
+    "title": "Amazon arranges $80b supplier financing facility for AI push",
+    "summary": "Amazon can draw on the facility from early 2027 through the third quarter of 2028.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/amazon-explores-8b-nvidia-chip-sale-to-outside-investors"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Apple, Alibaba to roll out Qwen-powered AI features in China",
+    "summary": "Testing of the Qianwen-powered features begins November 4 in the latest iOS developer beta.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/apple-john-ternus-ceo-ai-top-priority"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Marvell-Lumentum talks put optical supply chain in focus",
+    "summary": "Marvell is reportedly in talks to acquire Lumentum, drawing attention across the optical communications supply chain. The deal would offer strong strategic synergies, particularly through Lumentum's expertise in critical optical transceiver components, but Lumentum's size and its contracts with major customers, includi",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261030PD240/marvell-acquisition-communications-supply-chain-apple.html"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Radiant targets next-gen CPO above 6.4T, eyes 2028 mass production",
+    "summary": "Radiant Opto-Electronics, a major backlight module maker, is expanding into new businesses and targeting next-generation optical communications architecture, particularly co-packaged optics (CPO) applications above 6.4T. Chairman and General Manager Yu-Chao Wang said the company plans to provide samples to selected cus",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261030PD236/radiant-cpo-production-2028-backlight.html"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "AUO targets major revenue contribution from optical engines, glass core substrates within 2 to 3 years",
+    "summary": "AUO is accelerating its strategic push into optical communications and advanced semiconductor packaging, establishing optical engines and glass core substrates (GCS) as its two primary technological pillars. According to AUO chairman and CEO Paul Peng, while these technologies are still in their early phases and specif",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261030VL224/taiwan-tsia-manufacturing-talent-technology.html"
+    "url": "https://www.digitimes.com/news/a20261030PD233/auo-revenue-communications-packaging-transmission.html"
   },
   {
     "date": "2026-10-31",
-    "title": "TSIA 30: Taiwan builds the AI backbone — but can it capture the AI economy?",
-    "summary": "Taiwan already manufactures much of the physical infrastructure on which the AI boom depends. Advanced logic, packaging, substrates, testing, power delivery, cooling, and server assembly can all be sourced through an unusually dense industrial base.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261030VL222/taiwan-infrastructure-packaging-manufacturing-technology.html"
-  },
-  {
-    "date": "2026-10-31",
-    "title": "Commentary: What would happen if the internet went down?",
-    "summary": "In the wrong hands, AI tools can threaten the underlying systems the internet relies on, outpacing many organisations’ capability to patch them, says an academic.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/commentary/ai-cybersecurity-attack-php-6506261"
-  },
-  {
-    "date": "2026-10-31",
-    "title": "S&P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries",
-    "summary": "S&P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/sp-global-revises-metas-outlook-negative-ai-spending-cash-flow-worries-6508631"
-  },
-  {
-    "date": "2026-10-31",
-    "title": "October ends with a thud for Intel, Reddit, AI stalwarts",
-    "summary": "October ends with a thud for Intel, Reddit, AI stalwarts",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/october-ends-thud-intel-reddit-ai-stalwarts-6508591"
-  },
-  {
-    "date": "2026-10-31",
-    "title": "Scaling an AI-driven stock research platform",
-    "summary": "By securing regulatory approval, SuperInvesting AI offers concrete, data-driven investment advice and model portfolios to Indian retail traders.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/scaling-an-ai-driven-stock-research-platform"
-  },
-  {
-    "date": "2026-10-31",
-    "title": "People maketh robots: building Asia’s robotics workforce",
-    "summary": "Behind Robocon’s robot battles is a bigger race for engineering talent.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Automation"
-    ],
-    "url": "https://www.techinasia.com/people-maketh-robots-building-asias-robotics-workforce"
-  },
-  {
-    "date": "2026-10-31",
-    "title": "Foodpanda deploys Toku’s AI contact center in Cambodia, Laos",
-    "summary": "The platform supports inbound and outbound calls handled by agents at Foodpanda’s agency in Cambodia and Laos.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/toku-registers-document-for-ipo-eyes-january-22-debut"
-  },
-  {
-    "date": "2026-10-31",
-    "title": "Japan's Murata to invest $6.3bn in capacitor production for AI over 5 years",
-    "summary": "Japan's Murata to invest $6.3bn in capacitor production for AI over 5 years",
+    "title": "Chinese shipping, coal stocks outperform AI as earnings outlooks diverge",
+    "summary": "Chinese shipping, coal stocks outperform AI as earnings outlooks diverge",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-s-murata-to-invest-6.3bn-in-capacitor-production-for-ai-over-5-years"
+    "url": "https://asia.nikkei.com/business/companies/chinese-shipping-coal-stocks-outperform-ai-as-earnings-outlooks-diverge"
   },
   {
     "date": "2026-10-31",
-    "title": "Memory chip makers outearn Alphabet, other tech giants on AI demand",
-    "summary": "Memory chip makers outearn Alphabet, other tech giants on AI demand",
+    "title": "Foxconn chief downplays AI bubble concerns, sees strong 2027 growth",
+    "summary": "Foxconn chief downplays AI bubble concerns, sees strong 2027 growth",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "AI",
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/memory-chip-makers-outearn-alphabet-other-tech-giants-on-ai-demand"
-  },
-  {
-    "date": "2026-10-31",
-    "title": "Toyota and Waymo to roll out driverless robotaxis in Japan in 2027",
-    "summary": "Toyota and Waymo to roll out driverless robotaxis in Japan in 2027",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Automation"
-    ],
-    "url": "https://asia.nikkei.com/business/transportation/toyota-and-waymo-to-roll-out-driverless-robotaxis-in-japan-in-2027"
+    "url": "https://asia.nikkei.com/business/technology/foxconn-chief-downplays-ai-bubble-concerns-sees-strong-2027-growth"
   },
   {
     "date": "2026-10-30",

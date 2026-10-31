@@ -1,8 +1,7 @@
 {
   "date": "2026-10-31",
-  "count": 12,
+  "count": 8,
   "sources": [
-    "CNA",
     "DigiTimes",
     "NikkeiAsia",
     "TechAsia"
@@ -10,29 +9,29 @@
   "post_file": "2026-10-31-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
+      "title": "US AI inference startup Baseten targets $30b valuation",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/real-money-ai-models"
+    },
+    {
+      "title": "Amazon arranges $80b supplier financing facility for AI push",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/amazon-explores-8b-nvidia-chip-sale-to-outside-investors"
+    },
+    {
+      "title": "Apple, Alibaba to roll out Qwen-powered AI features in China",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/apple-john-ternus-ceo-ai-top-priority"
+    },
+    {
+      "title": "Marvell-Lumentum talks put optical supply chain in focus",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261028VL216/meta-infrastructure-nvidia-launch-security.html"
+      "url": "https://www.digitimes.com/news/a20261030PD240/marvell-acquisition-communications-supply-chain-apple.html"
     },
     {
-      "title": "TSIA 30: The manpower problem behind Taiwan's semiconductor resilience",
+      "title": "Radiant targets next-gen CPO above 6.4T, eyes 2028 mass production",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261030VL224/taiwan-tsia-manufacturing-talent-technology.html"
-    },
-    {
-      "title": "TSIA 30: Taiwan builds the AI backbone \u2014 but can it capture the AI economy?",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261030VL222/taiwan-infrastructure-packaging-manufacturing-technology.html"
-    },
-    {
-      "title": "Commentary: What would happen if the internet went down?",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/ai-cybersecurity-attack-php-6506261"
-    },
-    {
-      "title": "S&P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/sp-global-revises-metas-outlook-negative-ai-spending-cash-flow-worries-6508631"
+      "url": "https://www.digitimes.com/news/a20261030PD236/radiant-cpo-production-2028-backlight.html"
     }
   ],
   "source_stats": [
@@ -49,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -166,9 +165,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -193,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 19,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
