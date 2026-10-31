@@ -1,37 +1,36 @@
 {
   "date": "2026-10-31",
-  "count": 8,
+  "count": 6,
   "sources": [
     "DigiTimes",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-10-31-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "US AI inference startup Baseten targets $30b valuation",
+      "title": "Salesforce to buy military AI startup Rune for $375m",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/real-money-ai-models"
+      "url": "https://www.techinasia.com/salesforce-anthropic-expand-claudeforce-partnership"
     },
     {
-      "title": "Amazon arranges $80b supplier financing facility for AI push",
+      "title": "Indonesia\u2019s Blibli owner posts 46% revenue growth in Q3",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/amazon-explores-8b-nvidia-chip-sale-to-outside-investors"
+      "url": "https://www.techinasia.com/blibli-h1-revenue-surges-55-retail-growth"
     },
     {
-      "title": "Apple, Alibaba to roll out Qwen-powered AI features in China",
+      "title": "Hong Kong fintech firm IBS plans $71.7m AI chip acquisition",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/apple-john-ternus-ceo-ai-top-priority"
+      "url": "https://www.techinasia.com/thunes-revenue-rises-33-2024-expands-stablecoins"
     },
     {
-      "title": "Marvell-Lumentum talks put optical supply chain in focus",
+      "title": "Analysis: Elon Musk, Jensen Huang clash over neocloud survival",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261030PD240/marvell-acquisition-communications-supply-chain-apple.html"
+      "url": "https://www.digitimes.com/news/a20261030PD229/elon-musk-jensen-huang-outlook-demand-ceo.html"
     },
     {
-      "title": "Radiant targets next-gen CPO above 6.4T, eyes 2028 mass production",
+      "title": "MediaTek raises ASIC outlook as fourth-quarter revenue could jump 32%",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261030PD236/radiant-cpo-production-2028-backlight.html"
+      "url": "https://www.digitimes.com/news/a20261030PD245/revenue-mediatek-asic-outlook-2026.html"
     }
   ],
   "source_stats": [
@@ -48,7 +47,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -128,7 +127,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -167,7 +166,7 @@
       "fetched": 50,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
