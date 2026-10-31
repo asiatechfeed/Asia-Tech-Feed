@@ -1,4 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-30T08:01:33+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 30, 2026</title><link href="https://asiatechfeed.com/2026/10/30/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 30, 2026" /><published>2026-10-30T08:00:56+00:00</published><updated>2026-10-30T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/10/30/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/30/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-31T00:05:30+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 31, 2026</title><link href="https://asiatechfeed.com/2026/10/31/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 31, 2026" /><published>2026-10-31T00:04:45+00:00</published><updated>2026-10-31T00:04:45+00:00</updated><id>https://asiatechfeed.com/2026/10/31/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/31/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure</span></td>
+  <td class="col-summary">The launch of Muse in September across Meta's expanding agent ecosystem has highlighted how quickly AI agents are evolving beyond conventional chatbot architectures, bringing more complex operating requirements and increasingly diversified roles into the definition of what an AI agent can do.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261028VL216/meta-infrastructure-nvidia-launch-security.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">TSIA 30: The manpower problem behind Taiwan's semiconductor resilience</span></td>
+  <td class="col-summary">Taiwan's semiconductor industry has earned its reputation for chip dominance through decades of sustained investment in solving some of the world's hardest technological challenges. That persistence has helped build a manufacturing ecosystem whose industrial density, specialization, and resilience remain difficult for </td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261030VL224/taiwan-tsia-manufacturing-talent-technology.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">TSIA 30: Taiwan builds the AI backbone — but can it capture the AI economy?</span></td>
+  <td class="col-summary">Taiwan already manufactures much of the physical infrastructure on which the AI boom depends. Advanced logic, packaging, substrates, testing, power delivery, cooling, and server assembly can all be sourced through an unusually dense industrial base.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261030VL222/taiwan-infrastructure-packaging-manufacturing-technology.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: What would happen if the internet went down?</span></td>
+  <td class="col-summary">In the wrong hands, AI tools can threaten the underlying systems the internet relies on, outpacing many organisations’ capability to patch them, says an academic.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/ai-cybersecurity-attack-php-6506261" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">S&amp;P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries</span></td>
+  <td class="col-summary">S&amp;P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/sp-global-revises-metas-outlook-negative-ai-spending-cash-flow-worries-6508631" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">October ends with a thud for Intel, Reddit, AI stalwarts</span></td>
+  <td class="col-summary">October ends with a thud for Intel, Reddit, AI stalwarts</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/october-ends-thud-intel-reddit-ai-stalwarts-6508591" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Scaling an AI-driven stock research platform</span></td>
+  <td class="col-summary">By securing regulatory approval, SuperInvesting AI offers concrete, data-driven investment advice and model portfolios to Indian retail traders.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/scaling-an-ai-driven-stock-research-platform" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">People maketh robots: building Asia’s robotics workforce</span></td>
+  <td class="col-summary">Behind Robocon’s robot battles is a bigger race for engineering talent.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/people-maketh-robots-building-asias-robotics-workforce" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Foodpanda deploys Toku’s AI contact center in Cambodia, Laos</span></td>
+  <td class="col-summary">The platform supports inbound and outbound calls handled by agents at Foodpanda’s agency in Cambodia and Laos.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/toku-registers-document-for-ipo-eyes-january-22-debut" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan's Murata to invest $6.3bn in capacitor production for AI over 5 years</span></td>
+  <td class="col-summary">Japan's Murata to invest $6.3bn in capacitor production for AI over 5 years</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/supply-chain/japan-s-murata-to-invest-6.3bn-in-capacitor-production-for-ai-over-5-years" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Memory chip makers outearn Alphabet, other tech giants on AI demand</span></td>
+  <td class="col-summary">Memory chip makers outearn Alphabet, other tech giants on AI demand</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/memory-chip-makers-outearn-alphabet-other-tech-giants-on-ai-demand" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Toyota and Waymo to roll out driverless robotaxis in Japan in 2027</span></td>
+  <td class="col-summary">Toyota and Waymo to roll out driverless robotaxis in Japan in 2027</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/transportation/toyota-and-waymo-to-roll-out-driverless-robotaxis-in-japan-in-2027" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure The launch of Muse in September across Meta's expanding agent ecosystem has highlighted how quickly AI agents are evolving beyond conventional chatbot architectures, bringing more complex operating requirements and increasingly diversified roles into the definition of what an AI agent can do. AI Read 2 DigiTimes TSIA 30: The manpower problem behind Taiwan's semiconductor resilience Taiwan's semiconductor industry has earned its reputation for chip dominance through decades of sustained investment in solving some of the world's hardest technological challenges. That persistence has helped build a manufacturing ecosystem whose industrial density, specialization, and resilience remain difficult for Semiconductor Read 3 DigiTimes TSIA 30: Taiwan builds the AI backbone — but can it capture the AI economy? Taiwan already manufactures much of the physical infrastructure on which the AI boom depends. Advanced logic, packaging, substrates, testing, power delivery, cooling, and server assembly can all be sourced through an unusually dense industrial base. AI Read 4 CNA Commentary: What would happen if the internet went down? In the wrong hands, AI tools can threaten the underlying systems the internet relies on, outpacing many organisations’ capability to patch them, says an academic. AI Read 5 CNA S&amp;P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries S&amp;P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries AI Read 6 CNA October ends with a thud for Intel, Reddit, AI stalwarts October ends with a thud for Intel, Reddit, AI stalwarts AI Read 7 TechAsia Scaling an AI-driven stock research platform By securing regulatory approval, SuperInvesting AI offers concrete, data-driven investment advice and model portfolios to Indian retail traders. AI Read 8 TechAsia People maketh robots: building Asia’s robotics workforce Behind Robocon’s robot battles is a bigger race for engineering talent. Automation Read 9 TechAsia Foodpanda deploys Toku’s AI contact center in Cambodia, Laos The platform supports inbound and outbound calls handled by agents at Foodpanda’s agency in Cambodia and Laos. AI Read 10 NikkeiAsia Japan's Murata to invest $6.3bn in capacitor production for AI over 5 years Japan's Murata to invest $6.3bn in capacitor production for AI over 5 years AI Read 11 NikkeiAsia Memory chip makers outearn Alphabet, other tech giants on AI demand Memory chip makers outearn Alphabet, other tech giants on AI demand AISemiconductor Read 12 NikkeiAsia Toyota and Waymo to roll out driverless robotaxis in Japan in 2027 Toyota and Waymo to roll out driverless robotaxis in Japan in 2027 Automation Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 30, 2026</title><link href="https://asiatechfeed.com/2026/10/30/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 30, 2026" /><published>2026-10-30T08:00:56+00:00</published><updated>2026-10-30T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/10/30/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/30/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -643,73 +752,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/malaysia-s-skyechip-joins-softbank-backed-ai-memory-project-in-japan" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says Semiconductor Read 2 SemiEng Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering . Semiconductor Read 3 SemiEng Foundries And OSATs Increasingly Overlap Advanced packaging growth and capacity constraints are pushing more onto OSATs. The post Foundries And OSATs Increasingly Overlap appeared first on Semiconductor Engineering . Semiconductor Read 4 DigiTimes Tesla's Megapack boom meets AI power crunch, but margin gains raise questions While Tesla is expanding its ambitions in autonomous transportation and embodied AI, developments in its energy-storage business are drawing attention following a mixed set of financial results in the company's third-quarter 2026 earnings report. AI Read 5 CNA Palantir says it cannot shut off NATO AI system as Europeans fear US tech dependence Palantir says it cannot shut off NATO AI system as Europeans fear US tech dependence AI Read 6 DigiTimes Texas Instruments posts rising Q3 sales across data centers, cars, industry Texas Instruments reported strong revenue growth in its third-quarter earnings call due to strong demand across its industrial, automotive, and data center businesses. The company said it is facing a tight supply environment for its chips, but brought up its ramping of production and testing capacity, including through Semiconductor Read 7 DigiTimes Samsung reportedly overhauls DRAM, NAND R&amp;D incentives to retain talent and accelerate next-gen memory chips Samsung Electronics is reportedly restructuring its semiconductor research operations and performance-based compensation system to accelerate next-generation DRAM and NAND flash development, bringing researchers and production teams closer together while addressing concerns over incentives and talent retention. SemiconductorElectronics Read 8 CNA Besi says ASML is not hybrid bonding rival as AI demand drives orders Besi says ASML is not hybrid bonding rival as AI demand drives orders AI Read 9 TechAsia Singapore data center firm DayOne backs Nvidia’s AI design The company said this could shorten data center construction timelines and standardize deployment across markets. AI Read 10 TechAsia DeepSeek raises $15b from Tencent, CATL ahead of IPO The company is increasing spending on AI data centers and open-source models as it prepares for an initial public offering. AI Read 11 TechAsia AI isn’t shrinking work. It’s changing who does it and how Transaction data from 10,000+ startups suggests AI is reshaping work, not shrinking it. But there’s a catch: The entry-level ladder may narrow. AI Read 12 NikkeiAsia Malaysia's SkyeChip joins SoftBank-backed AI memory project in Japan Malaysia's SkyeChip joins SoftBank-backed AI memory project in Japan AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 21, 2026</title><link href="https://asiatechfeed.com/2026/10/21/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 21, 2026" /><published>2026-10-21T08:00:54+00:00</published><updated>2026-10-21T08:00:54+00:00</updated><id>https://asiatechfeed.com/2026/10/21/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/21/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Building a smarter workflow for short-form video creators</span></td>
-  <td class="col-summary">With over 30,000 paying customers, Verba is scaling a profitable AI platform that structures raw video into polished content.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/building-smarter-workflow-shortform-video-creators" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">China launches state-owned data group as market-facing arm of its AI infrastructure push</span></td>
-  <td class="col-summary">China has established a new state-owned enterprise, National Data Group, headquartered in Xiong'an, Hebei province. Ding Xuexiang, a vice-premier of the State Council, attended its inauguration on October 20.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261021PD244/beijing-infrastructure-data-technology-telecom.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">PCB material shortages persist as capacity expansion extends beyond 2029</span></td>
-  <td class="col-summary">Rapid advances in AI and high-performance computing (HPC) are driving printed circuit boards (PCBs) toward higher layer counts, greater density, and higher-performance materials, triggering an open-ended shortage of upstream materials and equipment. Key suppliers of copper-clad laminates (CCL), copper foil and drill bi</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261021PD229/pcb-materials-capacity-expansion-hpc-ccl.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Singapore health AI startup Genie Health raises $3m seed</span></td>
-  <td class="col-summary">The startup's free app stores health records; its SmartCare tool helps clinics book follow-ups.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/carro-switches-gears-indonesia-focus-shifts-cars" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Zoom plans AI controls, compliance tools for enterprises</span></td>
-  <td class="col-summary">In 2024, a Hong Kong finance worker paid US$25m after a video call with deepfaked executives.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/zoom-rolls-free-ai-tools-meetings-documents" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan PCB output set to top NT$1 trillion as VP touts AI opportunity</span></td>
-  <td class="col-summary">The 27th Taiwan Printed Circuit Industry International Exhibition (TPCA Show 2026) opened in Nangang on October 20, with Vice President Hsiao Bi-khim calling on the PCB industry to seize opportunities created by the AI boom. Taiwan's PCB industry is expected to generate more than NT$1 trillion in output for the first t</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Electronics</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261021PD205/taiwan-pcb-2026-tpca-materials.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Cybersecurity companies urge Indonesia to boost AI talent</span></td>
-  <td class="col-summary">Cybersecurity companies urge Indonesia to boost AI talent</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/cybersecurity/cybersecurity-companies-urge-indonesia-to-boost-ai-talent" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Building a smarter workflow for short-form video creators With over 30,000 paying customers, Verba is scaling a profitable AI platform that structures raw video into polished content. AI Read 2 DigiTimes China launches state-owned data group as market-facing arm of its AI infrastructure push China has established a new state-owned enterprise, National Data Group, headquartered in Xiong'an, Hebei province. Ding Xuexiang, a vice-premier of the State Council, attended its inauguration on October 20. AI Read 3 DigiTimes PCB material shortages persist as capacity expansion extends beyond 2029 Rapid advances in AI and high-performance computing (HPC) are driving printed circuit boards (PCBs) toward higher layer counts, greater density, and higher-performance materials, triggering an open-ended shortage of upstream materials and equipment. Key suppliers of copper-clad laminates (CCL), copper foil and drill bi AIElectronics Read 4 TechAsia Singapore health AI startup Genie Health raises $3m seed The startup's free app stores health records; its SmartCare tool helps clinics book follow-ups. AI Read 5 TechAsia Zoom plans AI controls, compliance tools for enterprises In 2024, a Hong Kong finance worker paid US$25m after a video call with deepfaked executives. AI Read 6 DigiTimes Taiwan PCB output set to top NT$1 trillion as VP touts AI opportunity The 27th Taiwan Printed Circuit Industry International Exhibition (TPCA Show 2026) opened in Nangang on October 20, with Vice President Hsiao Bi-khim calling on the PCB industry to seize opportunities created by the AI boom. Taiwan's PCB industry is expected to generate more than NT$1 trillion in output for the first t AIElectronicsLogistics Read 7 NikkeiAsia Cybersecurity companies urge Indonesia to boost AI talent Cybersecurity companies urge Indonesia to boost AI talent AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says Semiconductor Read 2 SemiEng Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering . Semiconductor Read 3 SemiEng Foundries And OSATs Increasingly Overlap Advanced packaging growth and capacity constraints are pushing more onto OSATs. The post Foundries And OSATs Increasingly Overlap appeared first on Semiconductor Engineering . Semiconductor Read 4 DigiTimes Tesla's Megapack boom meets AI power crunch, but margin gains raise questions While Tesla is expanding its ambitions in autonomous transportation and embodied AI, developments in its energy-storage business are drawing attention following a mixed set of financial results in the company's third-quarter 2026 earnings report. AI Read 5 CNA Palantir says it cannot shut off NATO AI system as Europeans fear US tech dependence Palantir says it cannot shut off NATO AI system as Europeans fear US tech dependence AI Read 6 DigiTimes Texas Instruments posts rising Q3 sales across data centers, cars, industry Texas Instruments reported strong revenue growth in its third-quarter earnings call due to strong demand across its industrial, automotive, and data center businesses. The company said it is facing a tight supply environment for its chips, but brought up its ramping of production and testing capacity, including through Semiconductor Read 7 DigiTimes Samsung reportedly overhauls DRAM, NAND R&amp;D incentives to retain talent and accelerate next-gen memory chips Samsung Electronics is reportedly restructuring its semiconductor research operations and performance-based compensation system to accelerate next-generation DRAM and NAND flash development, bringing researchers and production teams closer together while addressing concerns over incentives and talent retention. SemiconductorElectronics Read 8 CNA Besi says ASML is not hybrid bonding rival as AI demand drives orders Besi says ASML is not hybrid bonding rival as AI demand drives orders AI Read 9 TechAsia Singapore data center firm DayOne backs Nvidia’s AI design The company said this could shorten data center construction timelines and standardize deployment across markets. AI Read 10 TechAsia DeepSeek raises $15b from Tencent, CATL ahead of IPO The company is increasing spending on AI data centers and open-source models as it prepares for an initial public offering. AI Read 11 TechAsia AI isn’t shrinking work. It’s changing who does it and how Transaction data from 10,000+ startups suggests AI is reshaping work, not shrinking it. But there’s a catch: The entry-level ladder may narrow. AI Read 12 NikkeiAsia Malaysia's SkyeChip joins SoftBank-backed AI memory project in Japan Malaysia's SkyeChip joins SoftBank-backed AI memory project in Japan AISemiconductor Read]]></summary></entry></feed>
