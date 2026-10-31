@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-31T00:05:30+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 31, 2026</title><link href="https://asiatechfeed.com/2026/10/31/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 31, 2026" /><published>2026-10-31T00:04:45+00:00</published><updated>2026-10-31T00:04:45+00:00</updated><id>https://asiatechfeed.com/2026/10/31/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/31/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-10-31T05:12:18+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - October 31, 2026</title><link href="https://asiatechfeed.com/2026/10/31/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 31, 2026" /><published>2026-10-31T05:11:40+00:00</published><updated>2026-10-31T05:11:40+00:00</updated><id>https://asiatechfeed.com/2026/10/31/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/31/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,102 +12,70 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure</span></td>
-  <td class="col-summary">The launch of Muse in September across Meta's expanding agent ecosystem has highlighted how quickly AI agents are evolving beyond conventional chatbot architectures, bringing more complex operating requirements and increasingly diversified roles into the definition of what an AI agent can do.</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">US AI inference startup Baseten targets $30b valuation</span></td>
+  <td class="col-summary">Founded in 2019, Baseten has been featured in Nvidia case studies on cloud-scale AI inference.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261028VL216/meta-infrastructure-nvidia-launch-security.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/real-money-ai-models" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TSIA 30: The manpower problem behind Taiwan's semiconductor resilience</span></td>
-  <td class="col-summary">Taiwan's semiconductor industry has earned its reputation for chip dominance through decades of sustained investment in solving some of the world's hardest technological challenges. That persistence has helped build a manufacturing ecosystem whose industrial density, specialization, and resilience remain difficult for </td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261030VL224/taiwan-tsia-manufacturing-talent-technology.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Amazon arranges $80b supplier financing facility for AI push</span></td>
+  <td class="col-summary">Amazon can draw on the facility from early 2027 through the third quarter of 2028.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/amazon-explores-8b-nvidia-chip-sale-to-outside-investors" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TSIA 30: Taiwan builds the AI backbone — but can it capture the AI economy?</span></td>
-  <td class="col-summary">Taiwan already manufactures much of the physical infrastructure on which the AI boom depends. Advanced logic, packaging, substrates, testing, power delivery, cooling, and server assembly can all be sourced through an unusually dense industrial base.</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Apple, Alibaba to roll out Qwen-powered AI features in China</span></td>
+  <td class="col-summary">Testing of the Qianwen-powered features begins November 4 in the latest iOS developer beta.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261030VL222/taiwan-infrastructure-packaging-manufacturing-technology.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/apple-john-ternus-ceo-ai-top-priority" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: What would happen if the internet went down?</span></td>
-  <td class="col-summary">In the wrong hands, AI tools can threaten the underlying systems the internet relies on, outpacing many organisations’ capability to patch them, says an academic.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/ai-cybersecurity-attack-php-6506261" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Marvell-Lumentum talks put optical supply chain in focus</span></td>
+  <td class="col-summary">Marvell is reportedly in talks to acquire Lumentum, drawing attention across the optical communications supply chain. The deal would offer strong strategic synergies, particularly through Lumentum's expertise in critical optical transceiver components, but Lumentum's size and its contracts with major customers, includi</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261030PD240/marvell-acquisition-communications-supply-chain-apple.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">S&amp;P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries</span></td>
-  <td class="col-summary">S&amp;P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/sp-global-revises-metas-outlook-negative-ai-spending-cash-flow-worries-6508631" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Radiant targets next-gen CPO above 6.4T, eyes 2028 mass production</span></td>
+  <td class="col-summary">Radiant Opto-Electronics, a major backlight module maker, is expanding into new businesses and targeting next-generation optical communications architecture, particularly co-packaged optics (CPO) applications above 6.4T. Chairman and General Manager Yu-Chao Wang said the company plans to provide samples to selected cus</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261030PD236/radiant-cpo-production-2028-backlight.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">October ends with a thud for Intel, Reddit, AI stalwarts</span></td>
-  <td class="col-summary">October ends with a thud for Intel, Reddit, AI stalwarts</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/october-ends-thud-intel-reddit-ai-stalwarts-6508591" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">AUO targets major revenue contribution from optical engines, glass core substrates within 2 to 3 years</span></td>
+  <td class="col-summary">AUO is accelerating its strategic push into optical communications and advanced semiconductor packaging, establishing optical engines and glass core substrates (GCS) as its two primary technological pillars. According to AUO chairman and CEO Paul Peng, while these technologies are still in their early phases and specif</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261030PD233/auo-revenue-communications-packaging-transmission.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Scaling an AI-driven stock research platform</span></td>
-  <td class="col-summary">By securing regulatory approval, SuperInvesting AI offers concrete, data-driven investment advice and model portfolios to Indian retail traders.</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Chinese shipping, coal stocks outperform AI as earnings outlooks diverge</span></td>
+  <td class="col-summary">Chinese shipping, coal stocks outperform AI as earnings outlooks diverge</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/scaling-an-ai-driven-stock-research-platform" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/companies/chinese-shipping-coal-stocks-outperform-ai-as-earnings-outlooks-diverge" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">People maketh robots: building Asia’s robotics workforce</span></td>
-  <td class="col-summary">Behind Robocon’s robot battles is a bigger race for engineering talent.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/people-maketh-robots-building-asias-robotics-workforce" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Foodpanda deploys Toku’s AI contact center in Cambodia, Laos</span></td>
-  <td class="col-summary">The platform supports inbound and outbound calls handled by agents at Foodpanda’s agency in Cambodia and Laos.</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Foxconn chief downplays AI bubble concerns, sees strong 2027 growth</span></td>
+  <td class="col-summary">Foxconn chief downplays AI bubble concerns, sees strong 2027 growth</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/toku-registers-document-for-ipo-eyes-january-22-debut" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan's Murata to invest $6.3bn in capacitor production for AI over 5 years</span></td>
-  <td class="col-summary">Japan's Murata to invest $6.3bn in capacitor production for AI over 5 years</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/supply-chain/japan-s-murata-to-invest-6.3bn-in-capacitor-production-for-ai-over-5-years" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Memory chip makers outearn Alphabet, other tech giants on AI demand</span></td>
-  <td class="col-summary">Memory chip makers outearn Alphabet, other tech giants on AI demand</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/memory-chip-makers-outearn-alphabet-other-tech-giants-on-ai-demand" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Toyota and Waymo to roll out driverless robotaxis in Japan in 2027</span></td>
-  <td class="col-summary">Toyota and Waymo to roll out driverless robotaxis in Japan in 2027</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/transportation/toyota-and-waymo-to-roll-out-driverless-robotaxis-in-japan-in-2027" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/foxconn-chief-downplays-ai-bubble-concerns-sees-strong-2027-growth" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure The launch of Muse in September across Meta's expanding agent ecosystem has highlighted how quickly AI agents are evolving beyond conventional chatbot architectures, bringing more complex operating requirements and increasingly diversified roles into the definition of what an AI agent can do. AI Read 2 DigiTimes TSIA 30: The manpower problem behind Taiwan's semiconductor resilience Taiwan's semiconductor industry has earned its reputation for chip dominance through decades of sustained investment in solving some of the world's hardest technological challenges. That persistence has helped build a manufacturing ecosystem whose industrial density, specialization, and resilience remain difficult for Semiconductor Read 3 DigiTimes TSIA 30: Taiwan builds the AI backbone — but can it capture the AI economy? Taiwan already manufactures much of the physical infrastructure on which the AI boom depends. Advanced logic, packaging, substrates, testing, power delivery, cooling, and server assembly can all be sourced through an unusually dense industrial base. AI Read 4 CNA Commentary: What would happen if the internet went down? In the wrong hands, AI tools can threaten the underlying systems the internet relies on, outpacing many organisations’ capability to patch them, says an academic. AI Read 5 CNA S&amp;P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries S&amp;P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries AI Read 6 CNA October ends with a thud for Intel, Reddit, AI stalwarts October ends with a thud for Intel, Reddit, AI stalwarts AI Read 7 TechAsia Scaling an AI-driven stock research platform By securing regulatory approval, SuperInvesting AI offers concrete, data-driven investment advice and model portfolios to Indian retail traders. AI Read 8 TechAsia People maketh robots: building Asia’s robotics workforce Behind Robocon’s robot battles is a bigger race for engineering talent. Automation Read 9 TechAsia Foodpanda deploys Toku’s AI contact center in Cambodia, Laos The platform supports inbound and outbound calls handled by agents at Foodpanda’s agency in Cambodia and Laos. AI Read 10 NikkeiAsia Japan's Murata to invest $6.3bn in capacitor production for AI over 5 years Japan's Murata to invest $6.3bn in capacitor production for AI over 5 years AI Read 11 NikkeiAsia Memory chip makers outearn Alphabet, other tech giants on AI demand Memory chip makers outearn Alphabet, other tech giants on AI demand AISemiconductor Read 12 NikkeiAsia Toyota and Waymo to roll out driverless robotaxis in Japan in 2027 Toyota and Waymo to roll out driverless robotaxis in Japan in 2027 Automation Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 30, 2026</title><link href="https://asiatechfeed.com/2026/10/30/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 30, 2026" /><published>2026-10-30T08:00:56+00:00</published><updated>2026-10-30T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/10/30/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/30/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia US AI inference startup Baseten targets $30b valuation Founded in 2019, Baseten has been featured in Nvidia case studies on cloud-scale AI inference. AI Read 2 TechAsia Amazon arranges $80b supplier financing facility for AI push Amazon can draw on the facility from early 2027 through the third quarter of 2028. AI Read 3 TechAsia Apple, Alibaba to roll out Qwen-powered AI features in China Testing of the Qianwen-powered features begins November 4 in the latest iOS developer beta. AI Read 4 DigiTimes Marvell-Lumentum talks put optical supply chain in focus Marvell is reportedly in talks to acquire Lumentum, drawing attention across the optical communications supply chain. The deal would offer strong strategic synergies, particularly through Lumentum's expertise in critical optical transceiver components, but Lumentum's size and its contracts with major customers, includi Logistics Read 5 DigiTimes Radiant targets next-gen CPO above 6.4T, eyes 2028 mass production Radiant Opto-Electronics, a major backlight module maker, is expanding into new businesses and targeting next-generation optical communications architecture, particularly co-packaged optics (CPO) applications above 6.4T. Chairman and General Manager Yu-Chao Wang said the company plans to provide samples to selected cus Electronics Read 6 DigiTimes AUO targets major revenue contribution from optical engines, glass core substrates within 2 to 3 years AUO is accelerating its strategic push into optical communications and advanced semiconductor packaging, establishing optical engines and glass core substrates (GCS) as its two primary technological pillars. According to AUO chairman and CEO Paul Peng, while these technologies are still in their early phases and specif Semiconductor Read 7 NikkeiAsia Chinese shipping, coal stocks outperform AI as earnings outlooks diverge Chinese shipping, coal stocks outperform AI as earnings outlooks diverge AI Read 8 NikkeiAsia Foxconn chief downplays AI bubble concerns, sees strong 2027 growth Foxconn chief downplays AI bubble concerns, sees strong 2027 growth AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 30, 2026</title><link href="https://asiatechfeed.com/2026/10/30/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 30, 2026" /><published>2026-10-30T08:00:56+00:00</published><updated>2026-10-30T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/10/30/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/30/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
