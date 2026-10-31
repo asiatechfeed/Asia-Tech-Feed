@@ -1,37 +1,38 @@
 {
-  "date": "2026-10-30",
-  "count": 9,
+  "date": "2026-10-31",
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-10-30-asia-tech-news-digest.md",
+  "post_file": "2026-10-31-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Capgemini raises 2026 guidance as AI push brings work to IT consultants",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/capgemini-raises-2026-guidance-ai-push-brings-work-it-consultants-6506206"
-    },
-    {
-      "title": "Most firms now use AI in HR processes, with human sign-off required 85% of the time: Survey",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/ai-human-judgment-hr-recruitment-resume-screening-6505731"
-    },
-    {
-      "title": "Nvidia secures substrate capacity as FCBGA market targets US$27.3 billion by 2030",
+      "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261030PD226/nvidia-fc-bga-substrate-capacity-2030.html"
+      "url": "https://www.digitimes.com/news/a20261028VL216/meta-infrastructure-nvidia-launch-security.html"
     },
     {
-      "title": "Jinpao targets power cabinets, BBUs in AI-related expansion",
+      "title": "TSIA 30: The manpower problem behind Taiwan's semiconductor resilience",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261030PD212/expansion-manufacturing-high-end-supply-chain-demand.html"
+      "url": "https://www.digitimes.com/news/a20261030VL224/taiwan-tsia-manufacturing-talent-technology.html"
     },
     {
-      "title": "Tencent Cloud, Morningstar plan AI wealth tools for Asia",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-ipo-to-open-to-australian-retail-investors"
+      "title": "TSIA 30: Taiwan builds the AI backbone \u2014 but can it capture the AI economy?",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261030VL222/taiwan-infrastructure-packaging-manufacturing-technology.html"
+    },
+    {
+      "title": "Commentary: What would happen if the internet went down?",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/ai-cybersecurity-attack-php-6506261"
+    },
+    {
+      "title": "S&P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/sp-global-revises-metas-outlook-negative-ai-spending-cash-flow-worries-6508631"
     }
   ],
   "source_stats": [
@@ -147,7 +148,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 6,
+      "relevant": 4,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -155,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 62,
-      "relevant": 46,
+      "fetched": 35,
+      "relevant": 27,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -192,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
