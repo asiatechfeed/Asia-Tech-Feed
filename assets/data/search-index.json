@@ -1,91 +1,71 @@
 [
   {
     "date": "2026-10-31",
-    "title": "US AI inference startup Baseten targets $30b valuation",
-    "summary": "Founded in 2019, Baseten has been featured in Nvidia case studies on cloud-scale AI inference.",
+    "title": "Salesforce to buy military AI startup Rune for $375m",
+    "summary": "Founded in 2024, Rune has raised US$30 million and has disclosed work with the US Army.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/real-money-ai-models"
+    "url": "https://www.techinasia.com/salesforce-anthropic-expand-claudeforce-partnership"
   },
   {
     "date": "2026-10-31",
-    "title": "Amazon arranges $80b supplier financing facility for AI push",
-    "summary": "Amazon can draw on the facility from early 2027 through the third quarter of 2028.",
+    "title": "Indonesia’s Blibli owner posts 46% revenue growth in Q3",
+    "summary": "The firm operated 347 consumer electronics stores and 60 premium supermarkets by end-September.",
     "source": "Tech in Asia",
     "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/amazon-explores-8b-nvidia-chip-sale-to-outside-investors"
-  },
-  {
-    "date": "2026-10-31",
-    "title": "Apple, Alibaba to roll out Qwen-powered AI features in China",
-    "summary": "Testing of the Qianwen-powered features begins November 4 in the latest iOS developer beta.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/apple-john-ternus-ceo-ai-top-priority"
-  },
-  {
-    "date": "2026-10-31",
-    "title": "Marvell-Lumentum talks put optical supply chain in focus",
-    "summary": "Marvell is reportedly in talks to acquire Lumentum, drawing attention across the optical communications supply chain. The deal would offer strong strategic synergies, particularly through Lumentum's expertise in critical optical transceiver components, but Lumentum's size and its contracts with major customers, includi",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20261030PD240/marvell-acquisition-communications-supply-chain-apple.html"
-  },
-  {
-    "date": "2026-10-31",
-    "title": "Radiant targets next-gen CPO above 6.4T, eyes 2028 mass production",
-    "summary": "Radiant Opto-Electronics, a major backlight module maker, is expanding into new businesses and targeting next-generation optical communications architecture, particularly co-packaged optics (CPO) applications above 6.4T. Chairman and General Manager Yu-Chao Wang said the company plans to provide samples to selected cus",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
     "tags": [
       "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20261030PD236/radiant-cpo-production-2028-backlight.html"
+    "url": "https://www.techinasia.com/blibli-h1-revenue-surges-55-retail-growth"
   },
   {
     "date": "2026-10-31",
-    "title": "AUO targets major revenue contribution from optical engines, glass core substrates within 2 to 3 years",
-    "summary": "AUO is accelerating its strategic push into optical communications and advanced semiconductor packaging, establishing optical engines and glass core substrates (GCS) as its two primary technological pillars. According to AUO chairman and CEO Paul Peng, while these technologies are still in their early phases and specif",
+    "title": "Hong Kong fintech firm IBS plans $71.7m AI chip acquisition",
+    "summary": "Foxconn Industrial Internet owns 5.56% of the target's AI chip unit, Shanghai Tianjing Fulian.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/thunes-revenue-rises-33-2024-expands-stablecoins"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Analysis: Elon Musk, Jensen Huang clash over neocloud survival",
+    "summary": "The outlook for AI neocloud providers has sparked a clash between Tesla CEO Elon Musk, who warned that more than 200 such companies could face large-scale failures or consolidation, and Nvidia CEO Jensen Huang, who said during an interview at the GTC Berlin conference that demand for neocloud services has exceeded expe",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261030PD233/auo-revenue-communications-packaging-transmission.html"
+    "url": "https://www.digitimes.com/news/a20261030PD229/elon-musk-jensen-huang-outlook-demand-ceo.html"
   },
   {
     "date": "2026-10-31",
-    "title": "Chinese shipping, coal stocks outperform AI as earnings outlooks diverge",
-    "summary": "Chinese shipping, coal stocks outperform AI as earnings outlooks diverge",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "MediaTek raises ASIC outlook as fourth-quarter revenue could jump 32%",
+    "summary": "MediaTek reported third-quarter 2026 revenue of NT$168.06 billion (US$5.17 billion), up 10.4% quarter-over-quarter (QoQ) and 18.3% year-over-year, and projected fourth-quarter revenue growth of as much as 32% on accelerating shipments of AI accelerator application-specific integrated circuits (ASICs). The Taiwanese IC ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/companies/chinese-shipping-coal-stocks-outperform-ai-as-earnings-outlooks-diverge"
+    "url": "https://www.digitimes.com/news/a20261030PD245/revenue-mediatek-asic-outlook-2026.html"
   },
   {
     "date": "2026-10-31",
-    "title": "Foxconn chief downplays AI bubble concerns, sees strong 2027 growth",
-    "summary": "Foxconn chief downplays AI bubble concerns, sees strong 2027 growth",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "TSIA 30: AI is breaking the sequential supply chain — Taiwan may be built for what comes next",
+    "summary": "The AI hardware race is usually measured in nanometers, memory bandwidth, and accelerator performance. But another constraint is emerging much earlier in the development process: whether dozens of specialized suppliers can move fast enough together.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "AI"
+      "AI",
+      "Logistics"
     ],
-    "url": "https://asia.nikkei.com/business/technology/foxconn-chief-downplays-ai-bubble-concerns-sees-strong-2027-growth"
+    "url": "https://www.digitimes.com/news/a20261030VL220/taiwan-supply-chain-tsia-hardware-development.html"
   },
   {
     "date": "2026-10-30",
