@@ -1,37 +1,25 @@
 {
   "date": "2026-11-01",
-  "count": 7,
+  "count": 3,
   "sources": [
-    "CNA",
-    "DigiTimes",
-    "TechAsia"
+    "DigiTimes"
   ],
   "post_file": "2026-11-01-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO is target of China spy plot",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/trump-says-us-looking-closely-report-nvidia-ceo-target-china-spy-plot-6510641"
-    },
-    {
-      "title": "Reddit sinks 29% on Q4 outlook as Google AI cuts traffic",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/reddit-adds-global-teensafety-tools-australia-ban"
-    },
-    {
-      "title": "HK live app Chamet expands AI checks as Singapore tightens rules",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
-    },
-    {
-      "title": "Week of the rising chip",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/week-rising-chip"
-    },
-    {
-      "title": "Infineon's 300mm GaN push turns Europe's power-chip strength into an AI infrastructure bet",
+      "title": "Honda targets Level 4 autonomy by 2027, AI maps by 2030",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261028VL223/gan-300mm-infineon-infrastructure-europe.html"
+      "url": "https://www.digitimes.com/news/a20261030PD241/honda-2027-2030-autonomous-driving-technology.html"
+    },
+    {
+      "title": "Micron says 700-plus Taiwan fab workers earned five years' salary in a single year",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261030VL229/micron-taiwan-salary-fab-2026.html"
+    },
+    {
+      "title": "Realtek targets 30% AI revenue share by 2030",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261030PD239/realtek-revenue-2030-business-2027.html"
     }
   ],
   "source_stats": [
@@ -48,9 +36,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -128,7 +116,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -194,7 +182,7 @@
       "fetched": 36,
       "relevant": 18,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
