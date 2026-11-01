@@ -1,38 +1,37 @@
 {
   "date": "2026-11-01",
-  "count": 9,
+  "count": 7,
   "sources": [
     "CNA",
     "DigiTimes",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-01-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "India\u2019s MeitY unveils guide to train AI without sharing data",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/indias-650m-ai-city-bet"
-    },
-    {
-      "title": "American burrito chain Chipotle will open at Jewel Changi Airport in 2027",
+      "title": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO is target of China spy plot",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/dining/american-burrito-chain-chipotle-will-open-jewel-changi-airport-in-2027-6509291"
+      "url": "https://www.channelnewsasia.com/asia/trump-says-us-looking-closely-report-nvidia-ceo-target-china-spy-plot-6510641"
     },
     {
-      "title": "AI can make art in seconds \u2013 how are artists in Singapore fighting to keep their craft alive?",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/living/singapore-artists-protect-work-generative-ai-6494701"
-    },
-    {
-      "title": "TCL Technology\u2019s 9-month profit rises 68% to $769m",
+      "title": "Reddit sinks 29% on Q4 outlook as Google AI cuts traffic",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/tech-firms-push-global-open-source-ai-cooperation-at-ces-2026"
+      "url": "https://www.techinasia.com/reddit-adds-global-teensafety-tools-australia-ban"
     },
     {
-      "title": "Mapping the AI startups making waves in Japan",
+      "title": "HK live app Chamet expands AI checks as Singapore tightens rules",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/visual-story/mapping-japans-leading-ai-startups"
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+    },
+    {
+      "title": "Week of the rising chip",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/week-rising-chip"
+    },
+    {
+      "title": "Infineon's 300mm GaN push turns Europe's power-chip strength into an AI infrastructure bet",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261028VL223/gan-300mm-infineon-infrastructure-europe.html"
     }
   ],
   "source_stats": [
@@ -49,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -129,7 +128,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -168,7 +167,7 @@
       "fetched": 50,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {

@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - November 01, 2026"
-date: 2026-11-01 09:34:15 +0800
-articles_count: 9
-sources_count: 4
-sources: ["CNA", "DigiTimes", "NikkeiAsia", "TechAsia"]
+date: 2026-11-01 13:40:58 +0800
+articles_count: 7
+sources_count: 3
+sources: ["CNA", "DigiTimes", "TechAsia"]
 csv_file: /assets/data/news-2026-11-01.tsv
-featured_title: "India\u2019s MeitY unveils guide to train AI without sharing data"
-featured_url: "https://www.techinasia.com/indias-650m-ai-city-bet"
-featured_source: "TechAsia"
-featured_summary: "The handbook was developed with support from the iSPIRT Foundation, an Indian tech think tank."
-featured_image: ""
+featured_title: "Trump says US looking \u2018closely\u2019 at report Nvidia CEO is target of China spy plot"
+featured_url: "https://www.channelnewsasia.com/asia/trump-says-us-looking-closely-report-nvidia-ceo-target-china-spy-plot-6510641"
+featured_source: "CNA"
+featured_summary: "US President Donald Trump voiced on Saturday (Oct 31) his support for the \u201cbrilliant\u201d head of US chip giant Nvidia, Jensen Huang after a report that he was targeted by a Chinese spy plot."
+featured_image: "https://dam.mediacorp.sg/image/upload/s--bxOy1EW1--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-08T151800Z_1_LYNXMPEM971JJ_RTROPTP_3_USA-TRUMP.JPG?itok=ZrE4fqir"
 ---
 
 <table class="news-table">
@@ -27,75 +27,59 @@ featured_image: ""
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">India’s MeitY unveils guide to train AI without sharing data</span></td>
-  <td class="col-summary">The handbook was developed with support from the iSPIRT Foundation, an Indian tech think tank.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/indias-650m-ai-city-bet" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Trump says US looking ‘closely’ at report Nvidia CEO is target of China spy plot</span></td>
+  <td class="col-summary">US President Donald Trump voiced on Saturday (Oct 31) his support for the “brilliant” head of US chip giant Nvidia, Jensen Huang after a report that he was targeted by a Chinese spy plot.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/trump-says-us-looking-closely-report-nvidia-ceo-target-china-spy-plot-6510641" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">American burrito chain Chipotle will open at Jewel Changi Airport in 2027</span></td>
-  <td class="col-summary">The popular American fast-casual chain will bring its customisable burritos, bowls, tacos and more to Singapore.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/dining/american-burrito-chain-chipotle-will-open-jewel-changi-airport-in-2027-6509291" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Reddit sinks 29% on Q4 outlook as Google AI cuts traffic</span></td>
+  <td class="col-summary">One analysis found 58% fewer clicks to publisher sites when Google's AI Overviews appeared.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/reddit-adds-global-teensafety-tools-australia-ban" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">AI can make art in seconds – how are artists in Singapore fighting to keep their craft alive?</span></td>
-  <td class="col-summary">From illustrators protecting their work from AI training to designers navigating commercial pressures, Singapore’s creative community is finding ways to respond to generative AI while preserving the human touch in their art.</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">HK live app Chamet expands AI checks as Singapore tightens rules</span></td>
+  <td class="col-summary">Live video chat app Chamet is operated by Hong Kong-based tech company HK Fuliao.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/living/singapore-artists-protect-work-generative-ai-6494701" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">TCL Technology’s 9-month profit rises 68% to $769m</span></td>
-  <td class="col-summary">Samsung Display plans to transfer its 10.16% stake in TCL CSOT to Samsung Electronics.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/tech-firms-push-global-open-source-ai-cooperation-at-ces-2026" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Week of the rising chip</span></td>
+  <td class="col-summary">FuriosaAI, NeuroXess, Mave, and more raised funds this week.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/week-rising-chip" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Mapping the AI startups making waves in Japan</span></td>
-  <td class="col-summary">Mapping Japan's AI sector: Key players, top investors, and funding insights in one report.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/mapping-japans-leading-ai-startups" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Infineon's 300mm GaN push turns Europe's power-chip strength into an AI infrastructure bet</span></td>
+  <td class="col-summary">The aggressive deployment of infrastructure-scale AI projects is rapidly driving up compute demand as chip architectures continue to scale across an expanding ecosystem of data-center racks. At the same time, sustaining those massive buildouts is pushing one of the industry's most critical bottlenecks beyond raw comput</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261028VL223/gan-300mm-infineon-infrastructure-europe.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Compeq plans sustained investment as AI infrastructure, LEO satellite demand grows</span></td>
-  <td class="col-summary">Compeq Manufacturing is reshaping its product portfolio and expanding capacity in Taiwan and overseas as demand rises for AI data center infrastructure and next-generation low Earth orbit satellite products. It plans annual capex above NT$20 billion (US$616.96 million) from 2026 through 2028, as revenue reaches record </td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261030PD230/compeq-manufacturing-demand-infrastructure-revenue-capacity.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">DIGITIMES Insight: Arm extends from IP licensing to server CPU products, with strong growth potential in China</span></td>
+  <td class="col-summary">Arm is expanding its business model from licensing Neoverse core IP and compute subsystem (CSS) technologies to selling finished server CPUs for artificial general intelligence (AGI) applications. Meta is a co-developer and primary customer, while OpenAI also plans to adopt the products. Customers can purchase processo</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261029PD227/ai-server-cpu-arm-ip-licensing-digitimes.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Ibiden expands AI packaging substrate capacity for Intel from 2029</span></td>
-  <td class="col-summary">Ibiden on October 29 raised its fiscal 2026 forecast, projecting consolidated net profit to rise 40% year-over-year to JPY89 billion (US$563 million) and revenue to increase 36% to JPY565 billion. The company also announced an additional JPY151 billion in capital investment to expand advanced IC packaging substrate cap</td>
+  <td class="col-title"><span class="article-title">From living neurons to enterprise AI: TBC pursues faster video generation with AWS</span></td>
+  <td class="col-summary">The Biological Computing Co. (TBC), a San Francisco startup that grows living neurons in its lab to find ways to make AI models more efficient, launched its first publicly available product on October 30: mischief 1, an image-to-video model the company says generates video five times faster than the open-weight model i</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261030PD223/ibiden-substrate-packaging-2026-capacity.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Renesas expands AI data center capacity, targets 33.2% margin in 2026</span></td>
-  <td class="col-summary">Japan’s Renesas Electronics expects strong demand for AI data centers, industrial applications, and automotive semiconductors to drive 2026 revenue to JPY1.6668 trillion (US$10.55 billion), up 26.4% year-over-year, with its operating margin rising to 33.2%, according to its third-quarter 2026 earnings report.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261030PD222/renesas-2026-revenue-capacity-demand.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Yen bond offerings hit record $16bn as AI funding race reaches Japan</span></td>
-  <td class="col-summary">Yen bond offerings hit record $16bn as AI funding race reaches Japan</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/bonds/yen-bond-offerings-hit-record-16bn-as-ai-funding-race-reaches-japan" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261030VL207/ai-startup-video-aws-cost.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
