@@ -1,31 +1,39 @@
 {
   "date": "2026-11-02",
-  "count": 4,
+  "count": 13,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "NikkeiAsia"
+    "EETAsia",
+    "KED",
+    "TechAsia"
   ],
   "post_file": "2026-11-02-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Column: Samsung's memory boom reshapes its investment strategy",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261030PD215/samsung-2026-technology-operating-profit-investment.html"
+      "title": "HSBC to open Hong Kong AI Institute following Singapore launch",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/hsbc-hong-kong-ai-institute-singapore-launch-6512091"
     },
     {
-      "title": "India roundup: India accelerates semiconductor push as states, chipmakers and equipment suppliers expand investment",
+      "title": "Iluvatar CoreX Tiangai 300 tops Nvidia H200 in select AI inference tests, with long-context and MoE gains",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261030VL223/india-roundup-chipmakers-equipment-investment-launch-manufacturing.html"
+      "url": "https://www.digitimes.com/news/a20261102PD208/china-gpu-ai-inference-performance-nvidia.html"
     },
     {
-      "title": "NearLink looks to chip vendors to expand beyond Huawei ecosystem",
+      "title": "Schneider and Foxconn accelerate modular AI factory deployment as token usage surges 60-Fold",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261030PD238/nearlink-huawei-wireless-smartphone-technology.html"
+      "url": "https://www.digitimes.com/news/a20261102PD222/foxconn-data-center-demand-capacity-cooling.html"
     },
     {
-      "title": "Nuclear reactors under construction rise to 79 globally on AI demand",
-      "source": "NikkeiAsia",
-      "url": "https://asia.nikkei.com/business/energy/nuclear-reactors-under-construction-rise-to-79-globally-on-ai-demand"
+      "title": "Foxconn takes AI beyond clinical software with hospital partnerships and medical robotics",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261102PD223/foxconn-medical-robotics-hospital-healthcare.html"
+    },
+    {
+      "title": "AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/ai-reshapes-memory-architecture-as-macronix-expands-flash-portfolio/"
     }
   ],
   "source_stats": [
@@ -42,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -141,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 2,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 30,
+      "fetched": 45,
+      "relevant": 37,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -159,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -170,7 +178,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -186,9 +194,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
