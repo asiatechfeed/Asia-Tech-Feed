@@ -1,151 +1,81 @@
 [
   {
     "date": "2026-11-02",
-    "title": "HSBC to open Hong Kong AI Institute following Singapore launch",
-    "summary": "The AI unit will work with Hong Kong University of Science and Technology as its anchor academic partner, although the bank's CEO Georges Elhedery did not disclose headcount details.",
+    "title": "Replacing expensive A/B tests with AI models",
+    "summary": "Pre-launch ad testing can cost thousands. Voygic uses AI predictive models to give consumer brands highly accurate feedback in minutes.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/replacing-expensive-ab-tests-ai-models"
+  },
+  {
+    "date": "2026-11-02",
+    "title": "AI data center demand fuels THEIL's optical communications rebound, 4Q26 to buck seasonal downtrend",
+    "summary": "Tong Hsing Electronic Industries (THEIL) outlined the latest developments and market trends across its four major product lines of optical communications, ceramic substrates, new semiconductor materials, and image sensors, during an earnings call on October 30.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261101PD201/theil-optical-communications-data-center-demand.html"
+  },
+  {
+    "date": "2026-11-02",
+    "title": "BenQ Materials targets premium displays and medical growth, seeks semiconductor materials breakthrough",
+    "summary": "BenQ Materials is targeting higher-value, faster-growing segments across its display, medical and semiconductor materials businesses. Chairman ZC Chen said the company's transformation centres on identifying stronger growth opportunities, with medical products expanding steadily and semiconductor materials expected to ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261102PD211/benq-materials-medical-oled-panel-materials-growth.html"
+  },
+  {
+    "date": "2026-11-02",
+    "title": "Samsung SDS, LG CNS target AI data center growth in Asia",
+    "summary": "Samsung SDS's Gumi facility will use hybrid air and water cooling for its GPU servers.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/samsung-sds-to-invest-4-3b-in-ai-data-centers-ma"
+  },
+  {
+    "date": "2026-11-02",
+    "title": "'When we have Halloween Horror Night at home': Singapore neighbourhoods go all out with spooky decorations",
+    "summary": "From Woodgrove and Watten Estate to Chip Bee Gardens and Sembawang, residents transformed their homes and streets with Halloween decorations, costumes and trick-or-treating activities.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/hsbc-hong-kong-ai-institute-singapore-launch-6512091"
-  },
-  {
-    "date": "2026-11-02",
-    "title": "Iluvatar CoreX Tiangai 300 tops Nvidia H200 in select AI inference tests, with long-context and MoE gains",
-    "summary": "Chinese AI chipmaker Iluvatar CoreX has released benchmarks showing its next-generation Tiangai 300 general-purpose GPU outperforming Nvidia's H200 in selected large language model (LLM) inference, long-context processing and multimodal generation workloads.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261102PD208/china-gpu-ai-inference-performance-nvidia.html"
+    "url": "https://www.channelnewsasia.com/living/singapore-neighbourhoods-halloween-2026-woodgrove-opera-estate-6512076"
   },
   {
     "date": "2026-11-02",
-    "title": "Schneider and Foxconn accelerate modular AI factory deployment as token usage surges 60-Fold",
-    "summary": "The boom in generative AI is rapidly driving demand for data center construction, making power supply, cooling, and energy management central challenges for AI infrastructure. Speaking at Hon Hai Tech Day 2026 (HHTD 26), Himanshu Prasad, Senior Vice President at Schneider Electric, projected that global data center cap",
+    "title": "Macronix wins IEEE Milestone — chair reveals how sNOVA transformed Taiwan's chipmaking",
+    "summary": "Memory chipmaker Macronix International Co. has become Taiwan's first semiconductor company to receive an IEEE Milestone, in recognition of its pioneering sNOVA engineering data analysis system and its contribution to semiconductor manufacturing automation.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261102PD222/foxconn-data-center-demand-capacity-cooling.html"
-  },
-  {
-    "date": "2026-11-02",
-    "title": "Foxconn takes AI beyond clinical software with hospital partnerships and medical robotics",
-    "summary": "Foxconn is expanding its AI capabilities into clinical workflows, medical robotics and healthcare manufacturing, working with hospitals, equipment makers and technology partners to build an integrated smart healthcare ecosystem. Its strategy follows an ecosystem-to-clinical deployment framework spanning products, edge-",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
+      "Semiconductor",
       "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20261102PD223/foxconn-medical-robotics-hospital-healthcare.html"
+    "url": "https://www.digitimes.com/news/a20261102PD226/taiwan-ieee-macronix-international-chairman-manufacturing.html"
   },
   {
     "date": "2026-11-02",
-    "title": "AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio",
-    "summary": "AI-driven high-bandwidth memory demand is reshaping memory markets, boosting mature flash products as Macronix expands its portfolio for AI workloads. The post AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/ai-reshapes-memory-architecture-as-macronix-expands-flash-portfolio/"
-  },
-  {
-    "date": "2026-11-02",
-    "title": "South Korea’s president vows to make bold AI investment in record budget push",
-    "summary": "South Korea’s economy has been heavily boosted by demand for advanced chips used in AI, lifting exports and the earnings of memory chip makers Samsung Electronics and SK Hynix.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Electronics",
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/east-asia/south-korea-vows-bold-ai-investment-budget-6512016"
-  },
-  {
-    "date": "2026-11-02",
-    "title": "WhatsApp AI agent Instinct went silent after payment error",
-    "summary": "The company said the issue had been fixed.",
+    "title": "Autodesk, JTC explore AI for Singapore’s built environment",
+    "summary": "The work will cover connected data, AI-enabled project delivery, carbon analysis, and software interoperability.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/founder-mistake-brian-chesky-thinks-kills-great-companies"
-  },
-  {
-    "date": "2026-11-02",
-    "title": "Tencent Cloud partners with Saudi AI infra firm OmniOps",
-    "summary": "Tencent Cloud will provide cloud infrastructure and technical expertise.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/tencent-cloud-partners-robot-ai-startup-roboscience"
-  },
-  {
-    "date": "2026-11-02",
-    "title": "Kioxia shares fall as outlook raises concerns over AI demand",
-    "summary": "Some Kioxia orders slipped to the March quarter due to longer enterprise storage lead times.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/japanese-chipmaker-kioxia-forecasts-82b-profit"
-  },
-  {
-    "date": "2026-11-02",
-    "title": "Asian stocks mixed as tech sector struggles to rebound from selloff",
-    "summary": "Artificial intelligence (AI)-linked firms were hit by another wave of selling as Wall Street giants including Amazon, Alphabet and Microsoft signalled they would keep pouring money into data centres and chips even as investors grow impatient for returns.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/business/stock-market-tech-ai-selloff-6512111"
-  },
-  {
-    "date": "2026-11-02",
-    "title": "Cadence Joins US Genesis Mission to Support AI-driven Microelectronics Research",
-    "summary": "Cadence will provide AI-enabled design, simulation and engineering expertise to DOE laboratories working on advanced microelectronics and quantum systems. The post Cadence Joins US Genesis Mission to Support AI-driven Microelectronics Research appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.eetasia.com/cadence-joins-us-genesis-mission-to-support-ai-driven-microelectronics-research/"
-  },
-  {
-    "date": "2026-11-02",
-    "title": "Siemens Extends NVIDIA AI Collaboration for Automated 3D IC Electrothermal Design Workflows",
-    "summary": "Siemens expands agentic AI workflow for faster signoff-grade electrothermal analysis across complex 3D IC package designs. The post Siemens Extends NVIDIA AI Collaboration for Automated 3D IC Electrothermal Design Workflows appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/siemens-extends-nvidia-ai-collaboration-for-automated-3d-ic-electrothermal-design-workflows/"
-  },
-  {
-    "date": "2026-11-02",
-    "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
-    "summary": "Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio",
-    "source": "KED Global",
-    "short": "KED",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001"
+    "url": "https://www.techinasia.com/gen-harvard-dropout-builds-ai-platform-architects"
   },
   {
     "date": "2026-11-01",
