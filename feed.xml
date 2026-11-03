@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-03T06:20:27+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 03, 2026</title><link href="https://asiatechfeed.com/2026/11/03/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 03, 2026" /><published>2026-11-03T06:19:40+00:00</published><updated>2026-11-03T06:19:40+00:00</updated><id>https://asiatechfeed.com/2026/11/03/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/03/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-03T08:01:25+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 03, 2026</title><link href="https://asiatechfeed.com/2026/11/03/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 03, 2026" /><published>2026-11-03T08:00:53+00:00</published><updated>2026-11-03T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/11/03/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/03/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,78 +12,62 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Indonesian police name suspects after 58 citizens lured to Russia to serve as mercenaries</span></td>
-  <td class="col-summary">The Indonesian citizens were initially offered jobs in logistics, border security and defence construction, but when arriving in Russia, were told to sign contracts to serve as mercenaries, undergo training and potentially be deployed to conflict zones.</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/indonesians-recruited-mercenaries-russia-human-trafficking-6515391" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Oracle to sell US$20 billion in stocks and bonds as concerns grow over debt-fueled expansion</span></td>
+  <td class="col-summary">Oracle aims to raise US$20 billion through selling stock and issuing bonds to fund its AI build-out. Its stock value dropped after the company filed the plans, a sign that investors are growing wary of hyperscalers' increasing debt before anticipated AI revenues trickle in.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261103VL217/oracle-financing-earnings-revenue.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">US data center firm Vertiv opens Singapore AI hub</span></td>
-  <td class="col-summary">Vertiv said the center is open to customers, channel partners, consultants, and other industry stakeholders.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/abb-launches-infinitus-ai-data-centers" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Vietnam’s Viettel unveils VGC v1.0 chip for secure government systems</span></td>
+  <td class="col-summary">Vietnam's national digital signature system has over 2 million certificates in circulation.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/vietnam-becomes-key-player-in-global-chip-value-chain-deputy-pm" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Gemtek joins three optical standards groups for AI data center development</span></td>
-  <td class="col-summary">Gemtek Technology has joined three optical communications standards groups as the industry develops alternatives for connecting AI data centers. The move could influence interoperability, power use, scalability, and supply-chain integration across global data-center networks, while giving the company exposure to specif</td>
+  <td class="col-title"><span class="article-title">Apple's US$5 trillion dilemma: iPhone Duo and AI raise stakes for next growth chapter</span></td>
+  <td class="col-summary">Apple's record fiscal 2026 performance left a central question unresolved: can premium-priced iPhones, AI, and expanding services sustain enough growth to justify a valuation approaching US$5 trillion? For new CEO John Ternus, the challenge is converting product innovation into lasting earnings growth rather than relyi</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261103PD204/gemtek-optical-communications-data-center-2026.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261103VL208/apple-iphone-duo-performance-growth-2026.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TSMC's next US chip plant could land in Sherman</span></td>
-  <td class="col-summary">Sherman, a city north of Dallas, has emerged as a possible site for TSMC's next US chip plant, with Texas development documents describing a proposed US$45 billion investment in two semiconductor fabs by an unidentified manufacturer.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261103VL216/tsmc-plant-texas-investment-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Metaage posts 17% revenue growth through 3Q26, eyes AI expansion</span></td>
+  <td class="col-summary">Metaage, a subsidiary of Qisda, posted consolidated revenue of approximately NT$19 billion (US$583 million) for the first three quarters of 2026, up 17% from NT$16.2 billion in the same period of 2025, as enterprise IT infrastructure, software, and cloud businesses expanded. The company is targeting AI infrastructure a</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261103PD213/revenue-growth-subsidiary-qisda-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Analysis: AI supply chain expansion persists despite concerns over a downturn</span></td>
-  <td class="col-summary">AI chip and data center suppliers continue to announce capacity expansions and stronger earnings in response to surging AI demand, even as concerns grow over the sustainability of the AI boom. Murata, Ibiden, Sumitomo Electric, and Toto are among the companies investing to expand production, while Kioxia reported a sha</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261103PD222/ai-chip-supply-chain-demand-capacity-earnings.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Goldman Sachs restricts some AI coding tools to engineers</span></td>
+  <td class="col-summary">Some Goldman traders had used AI coding tools to model market moves and create graphic content.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/goldman-sachs-executive-ai-may-complicate-lending-decisions" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">OpenAI taps ex-US Army secretary for national security AI</span></td>
-  <td class="col-summary">Driscoll previously served as the 26th Secretary of the Army, overseeing operations, modernization, and resources.</td>
+  <td class="col-title"><span class="article-title">Hong Kong heirs ditch property for tech</span></td>
+  <td class="col-summary">Why Hong Kong’s next-gen wealth is chasing AI over property, and a look back at how family offices backed Southeast Asian startups.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-resumes-ai-training-internet-access" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/hong-kong-heirs-ditch-property-tech" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Ingram Micro, NetApp, Cisco update AI test hub in Singapore</span></td>
-  <td class="col-summary">The setup combines NetApp’s storage and data management software with Cisco’s data center, security, and observability systems.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/data-durians-h2oais-journey-ailed-accessibility" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Ceva DSP and NPU Power Mobilint’s 10-TOPS REGULUS Edge AI SoC</span></td>
-  <td class="col-summary">Mobilint's REGULUS integrates Ceva sensing and neural processing IP to deliver 10 TOPS at under 3W for edge AI applications. The post Ceva DSP and NPU Power Mobilint’s 10-TOPS REGULUS Edge AI SoC appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ceva-dsp-and-npu-power-mobilints-10-tops-regulus-edge-ai-soc/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
   <td class="col-title"><span class="article-title">Grab eyes more AI investment after Taiwan deal blocked</span></td>
   <td class="col-summary">Grab eyes more AI investment after Taiwan deal blocked</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/transportation/grab-eyes-more-ai-investment-after-taiwan-deal-blocked" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/grab-eyes-more-ai-investment-after-taiwan-deal-blocked" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Indonesian police name suspects after 58 citizens lured to Russia to serve as mercenaries The Indonesian citizens were initially offered jobs in logistics, border security and defence construction, but when arriving in Russia, were told to sign contracts to serve as mercenaries, undergo training and potentially be deployed to conflict zones. Logistics Read 2 TechAsia US data center firm Vertiv opens Singapore AI hub Vertiv said the center is open to customers, channel partners, consultants, and other industry stakeholders. AI Read 3 DigiTimes Gemtek joins three optical standards groups for AI data center development Gemtek Technology has joined three optical communications standards groups as the industry develops alternatives for connecting AI data centers. The move could influence interoperability, power use, scalability, and supply-chain integration across global data-center networks, while giving the company exposure to specif AI Read 4 DigiTimes TSMC's next US chip plant could land in Sherman Sherman, a city north of Dallas, has emerged as a possible site for TSMC's next US chip plant, with Texas development documents describing a proposed US$45 billion investment in two semiconductor fabs by an unidentified manufacturer. Semiconductor Read 5 DigiTimes Analysis: AI supply chain expansion persists despite concerns over a downturn AI chip and data center suppliers continue to announce capacity expansions and stronger earnings in response to surging AI demand, even as concerns grow over the sustainability of the AI boom. Murata, Ibiden, Sumitomo Electric, and Toto are among the companies investing to expand production, while Kioxia reported a sha AISemiconductorLogistics Read 6 TechAsia OpenAI taps ex-US Army secretary for national security AI Driscoll previously served as the 26th Secretary of the Army, overseeing operations, modernization, and resources. AI Read 7 TechAsia Ingram Micro, NetApp, Cisco update AI test hub in Singapore The setup combines NetApp’s storage and data management software with Cisco’s data center, security, and observability systems. AI Read 8 EETAsia Ceva DSP and NPU Power Mobilint’s 10-TOPS REGULUS Edge AI SoC Mobilint's REGULUS integrates Ceva sensing and neural processing IP to deliver 10 TOPS at under 3W for edge AI applications. The post Ceva DSP and NPU Power Mobilint’s 10-TOPS REGULUS Edge AI SoC appeared first on EE Times Asia . AI Read 9 NikkeiAsia Grab eyes more AI investment after Taiwan deal blocked Grab eyes more AI investment after Taiwan deal blocked AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 02, 2026</title><link href="https://asiatechfeed.com/2026/11/02/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 02, 2026" /><published>2026-11-02T08:00:57+00:00</published><updated>2026-11-02T08:00:57+00:00</updated><id>https://asiatechfeed.com/2026/11/02/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/02/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Oracle to sell US$20 billion in stocks and bonds as concerns grow over debt-fueled expansion Oracle aims to raise US$20 billion through selling stock and issuing bonds to fund its AI build-out. Its stock value dropped after the company filed the plans, a sign that investors are growing wary of hyperscalers' increasing debt before anticipated AI revenues trickle in. AI Read 2 TechAsia Vietnam’s Viettel unveils VGC v1.0 chip for secure government systems Vietnam's national digital signature system has over 2 million certificates in circulation. Semiconductor Read 3 DigiTimes Apple's US$5 trillion dilemma: iPhone Duo and AI raise stakes for next growth chapter Apple's record fiscal 2026 performance left a central question unresolved: can premium-priced iPhones, AI, and expanding services sustain enough growth to justify a valuation approaching US$5 trillion? For new CEO John Ternus, the challenge is converting product innovation into lasting earnings growth rather than relyi AI Read 4 DigiTimes Metaage posts 17% revenue growth through 3Q26, eyes AI expansion Metaage, a subsidiary of Qisda, posted consolidated revenue of approximately NT$19 billion (US$583 million) for the first three quarters of 2026, up 17% from NT$16.2 billion in the same period of 2025, as enterprise IT infrastructure, software, and cloud businesses expanded. The company is targeting AI infrastructure a AI Read 5 TechAsia Goldman Sachs restricts some AI coding tools to engineers Some Goldman traders had used AI coding tools to model market moves and create graphic content. AI Read 6 TechAsia Hong Kong heirs ditch property for tech Why Hong Kong’s next-gen wealth is chasing AI over property, and a look back at how family offices backed Southeast Asian startups. AI Read 7 NikkeiAsia Grab eyes more AI investment after Taiwan deal blocked Grab eyes more AI investment after Taiwan deal blocked AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 02, 2026</title><link href="https://asiatechfeed.com/2026/11/02/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 02, 2026" /><published>2026-11-02T08:00:57+00:00</published><updated>2026-11-02T08:00:57+00:00</updated><id>https://asiatechfeed.com/2026/11/02/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/02/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
