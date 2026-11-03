@@ -1,37 +1,38 @@
 {
-  "date": "2026-11-02",
-  "count": 7,
+  "date": "2026-11-03",
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-11-02-asia-tech-news-digest.md",
+  "post_file": "2026-11-03-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Replacing expensive A/B tests with AI models",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/replacing-expensive-ab-tests-ai-models"
-    },
-    {
-      "title": "AI data center demand fuels THEIL's optical communications rebound, 4Q26 to buck seasonal downtrend",
+      "title": "Marvell pays up for Lumentum, 33 times forward earnings, to match Broadcom on lasers",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261101PD201/theil-optical-communications-data-center-demand.html"
+      "url": "https://www.digitimes.com/news/a20261103VL201/marvell-broadcom-earnings-inp.html"
     },
     {
-      "title": "BenQ Materials targets premium displays and medical growth, seeks semiconductor materials breakthrough",
+      "title": "SK Hynix ramps up SOCAMM2 as material shortages push up PCB prices",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261102PD211/benq-materials-medical-oled-panel-materials-growth.html"
+      "url": "https://www.digitimes.com/news/a20261102VL215/sk-hynix-pcb-production-materials-nvidia.html"
     },
     {
-      "title": "Samsung SDS, LG CNS target AI data center growth in Asia",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/samsung-sds-to-invest-4-3b-in-ai-data-centers-ma"
+      "title": "Beyond the robots: Three companies to watch at FIX 2026",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261030VL233/2026-software-vehicle-data-automotive.html"
     },
     {
-      "title": "'When we have Halloween Horror Night at home': Singapore neighbourhoods go all out with spooky decorations",
+      "title": "Trading Day: Oil slump no cure for AI angst",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/living/singapore-neighbourhoods-halloween-2026-woodgrove-opera-estate-6512076"
+      "url": "https://www.channelnewsasia.com/business/trading-day-oil-slump-no-cure-ai-angst-6514301"
+    },
+    {
+      "title": "Tinder's US daily active users return to growth in October as Match ramps up AI efforts",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/tinders-us-daily-active-users-return-growth-in-october-match-ramps-up-ai-efforts-6514231"
     }
   ],
   "source_stats": [
@@ -48,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -155,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 51,
-      "relevant": 42,
+      "fetched": 35,
+      "relevant": 30,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -192,9 +193,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 11,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {

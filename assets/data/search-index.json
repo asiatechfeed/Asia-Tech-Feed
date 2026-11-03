@@ -1,5 +1,130 @@
 [
   {
+    "date": "2026-11-03",
+    "title": "Marvell pays up for Lumentum, 33 times forward earnings, to match Broadcom on lasers",
+    "summary": "Marvell Technology's agreement to buy Lumentum Holdings would give the custom chip designer its own supply of indium phosphide (InP) lasers, one of the scarcest components in AI data center networking, and make it one of the few suppliers spanning both the electrical and optical sides of the link. The deal positions Ma",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261103VL201/marvell-broadcom-earnings-inp.html"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "SK Hynix ramps up SOCAMM2 as material shortages push up PCB prices",
+    "summary": "SK Hynix is increasing orders for small outline compression attached memory module 2 (SOCAMM2) printed circuit boards (PCBs) as production ramps up for Nvidia's Vera Rubin AI platform, while shortages of copper-clad laminate (CCL) and other materials are pushing up substrate prices, South Korea's Dealsite reported on O",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261102VL215/sk-hynix-pcb-production-materials-nvidia.html"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Beyond the robots: Three companies to watch at FIX 2026",
+    "summary": "Humanoid robots and self-driving cars were hard to miss at South Korea's Future Innovation Tech Expo (FIX 2026) in Daegu. But some of the less flashy technologies on display were just as interesting.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20261030VL233/2026-software-vehicle-data-automotive.html"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Trading Day: Oil slump no cure for AI angst",
+    "summary": "Trading Day: Oil slump no cure for AI angst",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/trading-day-oil-slump-no-cure-ai-angst-6514301"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Tinder's US daily active users return to growth in October as Match ramps up AI efforts",
+    "summary": "Tinder's US daily active users return to growth in October as Match ramps up AI efforts",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/tinders-us-daily-active-users-return-growth-in-october-match-ramps-up-ai-efforts-6514231"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Palantir forecasts strong quarterly revenue on AI demand",
+    "summary": "Palantir forecasts strong quarterly revenue on AI demand",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/palantir-forecasts-strong-quarterly-revenue-ai-demand-6514211"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "China’s UBTech launches embodied AI simulation platform",
+    "summary": "China has opened over 70 robot training centers as part of a push into embodied AI.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/chinas-ubtech-boost-humanoid-robot-production-10-2026"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Big AI cashes in on its own risks",
+    "summary": "Anthropic, OpenAI, and Google are selling defenses against risks their models helped create. For clients, it means even higher cybersecurity budgets.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/big-ai-cashes-risks"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Japan's Aisin develops new type of AI chip that cuts energy use 98%",
+    "summary": "Japan's Aisin develops new type of AI chip that cuts energy use 98%",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-aisin-develops-new-type-of-ai-chip-that-cuts-energy-use-98"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Nintendo's Mario creator Miyamoto sees 'things we can do' even in AI era",
+    "summary": "Nintendo's Mario creator Miyamoto sees 'things we can do' even in AI era",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/nintendo-s-mario-creator-miyamoto-sees-things-we-can-do-even-in-ai-era"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "DRAM prices double in 2026 as AI focus squeezes PC makers",
+    "summary": "DRAM prices double in 2026 as AI focus squeezes PC makers",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/dram-prices-double-in-2026-as-ai-focus-squeezes-pc-makers"
+  },
+  {
     "date": "2026-11-02",
     "title": "Replacing expensive A/B tests with AI models",
     "summary": "Pre-launch ad testing can cost thousands. Voygic uses AI predictive models to give consumer brands highly accurate feedback in minutes.",
