@@ -1,38 +1,39 @@
 {
   "date": "2026-11-03",
-  "count": 11,
+  "count": 9,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-03-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Marvell pays up for Lumentum, 33 times forward earnings, to match Broadcom on lasers",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261103VL201/marvell-broadcom-earnings-inp.html"
-    },
-    {
-      "title": "SK Hynix ramps up SOCAMM2 as material shortages push up PCB prices",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261102VL215/sk-hynix-pcb-production-materials-nvidia.html"
-    },
-    {
-      "title": "Beyond the robots: Three companies to watch at FIX 2026",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261030VL233/2026-software-vehicle-data-automotive.html"
-    },
-    {
-      "title": "Trading Day: Oil slump no cure for AI angst",
+      "title": "Indonesian police name suspects after 58 citizens lured to Russia to serve as mercenaries",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/trading-day-oil-slump-no-cure-ai-angst-6514301"
+      "url": "https://www.channelnewsasia.com/asia/indonesians-recruited-mercenaries-russia-human-trafficking-6515391"
     },
     {
-      "title": "Tinder's US daily active users return to growth in October as Match ramps up AI efforts",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/tinders-us-daily-active-users-return-growth-in-october-match-ramps-up-ai-efforts-6514231"
+      "title": "US data center firm Vertiv opens Singapore AI hub",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/abb-launches-infinitus-ai-data-centers"
+    },
+    {
+      "title": "Gemtek joins three optical standards groups for AI data center development",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261103PD204/gemtek-optical-communications-data-center-2026.html"
+    },
+    {
+      "title": "TSMC's next US chip plant could land in Sherman",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261103VL216/tsmc-plant-texas-investment-manufacturing.html"
+    },
+    {
+      "title": "Analysis: AI supply chain expansion persists despite concerns over a downturn",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261103PD222/ai-chip-supply-chain-demand-capacity-earnings.html"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -148,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 3,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 30,
+      "fetched": 36,
+      "relevant": 29,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -193,9 +194,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 9,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {

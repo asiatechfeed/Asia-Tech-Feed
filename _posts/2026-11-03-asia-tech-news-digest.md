@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - November 03, 2026"
-date: 2026-11-03 08:02:24 +0800
-articles_count: 11
-sources_count: 4
-sources: ["CNA", "DigiTimes", "NikkeiAsia", "TechAsia"]
+date: 2026-11-03 14:19:40 +0800
+articles_count: 9
+sources_count: 5
+sources: ["CNA", "DigiTimes", "EETAsia", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-11-03.tsv
-featured_title: "Marvell pays up for Lumentum, 33 times forward earnings, to match Broadcom on lasers"
-featured_url: "https://www.digitimes.com/news/a20261103VL201/marvell-broadcom-earnings-inp.html"
-featured_source: "DigiTimes"
-featured_summary: "Marvell Technology's agreement to buy Lumentum Holdings would give the custom chip designer its own supply of indium phosphide (InP) lasers, one of the scarcest components in AI data center networking, and make it one of the few suppliers spanning both the electrical and optical sides of the link. The deal positions Ma"
-featured_image: "https://img.digitimes.com/newsshow/20261103vl201_files/2_2b.jpg"
+featured_title: "Indonesian police name suspects after 58 citizens lured to Russia to serve as mercenaries"
+featured_url: "https://www.channelnewsasia.com/asia/indonesians-recruited-mercenaries-russia-human-trafficking-6515391"
+featured_source: "CNA"
+featured_summary: "The Indonesian citizens were initially offered jobs in logistics, border security and defence construction, but when arriving in Russia, were told to sign contracts to serve as mercenaries, undergo training and potentially be deployed to conflict zones."
+featured_image: "https://dam.mediacorp.sg/image/upload/s--m6ct_MRK--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/03/indonesia_russian_mercenary_press_conference.jpg?itok=S2v54Q_N"
 ---
 
 <table class="news-table">
@@ -27,91 +27,75 @@ featured_image: "https://img.digitimes.com/newsshow/20261103vl201_files/2_2b.jpg
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Marvell pays up for Lumentum, 33 times forward earnings, to match Broadcom on lasers</span></td>
-  <td class="col-summary">Marvell Technology's agreement to buy Lumentum Holdings would give the custom chip designer its own supply of indium phosphide (InP) lasers, one of the scarcest components in AI data center networking, and make it one of the few suppliers spanning both the electrical and optical sides of the link. The deal positions Ma</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261103VL201/marvell-broadcom-earnings-inp.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Indonesian police name suspects after 58 citizens lured to Russia to serve as mercenaries</span></td>
+  <td class="col-summary">The Indonesian citizens were initially offered jobs in logistics, border security and defence construction, but when arriving in Russia, were told to sign contracts to serve as mercenaries, undergo training and potentially be deployed to conflict zones.</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/indonesians-recruited-mercenaries-russia-human-trafficking-6515391" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SK Hynix ramps up SOCAMM2 as material shortages push up PCB prices</span></td>
-  <td class="col-summary">SK Hynix is increasing orders for small outline compression attached memory module 2 (SOCAMM2) printed circuit boards (PCBs) as production ramps up for Nvidia's Vera Rubin AI platform, while shortages of copper-clad laminate (CCL) and other materials are pushing up substrate prices, South Korea's Dealsite reported on O</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261102VL215/sk-hynix-pcb-production-materials-nvidia.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">US data center firm Vertiv opens Singapore AI hub</span></td>
+  <td class="col-summary">Vertiv said the center is open to customers, channel partners, consultants, and other industry stakeholders.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/abb-launches-infinitus-ai-data-centers" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Beyond the robots: Three companies to watch at FIX 2026</span></td>
-  <td class="col-summary">Humanoid robots and self-driving cars were hard to miss at South Korea's Future Innovation Tech Expo (FIX 2026) in Daegu. But some of the less flashy technologies on display were just as interesting.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261030VL233/2026-software-vehicle-data-automotive.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Gemtek joins three optical standards groups for AI data center development</span></td>
+  <td class="col-summary">Gemtek Technology has joined three optical communications standards groups as the industry develops alternatives for connecting AI data centers. The move could influence interoperability, power use, scalability, and supply-chain integration across global data-center networks, while giving the company exposure to specif</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261103PD204/gemtek-optical-communications-data-center-2026.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Trading Day: Oil slump no cure for AI angst</span></td>
-  <td class="col-summary">Trading Day: Oil slump no cure for AI angst</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/trading-day-oil-slump-no-cure-ai-angst-6514301" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">TSMC's next US chip plant could land in Sherman</span></td>
+  <td class="col-summary">Sherman, a city north of Dallas, has emerged as a possible site for TSMC's next US chip plant, with Texas development documents describing a proposed US$45 billion investment in two semiconductor fabs by an unidentified manufacturer.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261103VL216/tsmc-plant-texas-investment-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Tinder's US daily active users return to growth in October as Match ramps up AI efforts</span></td>
-  <td class="col-summary">Tinder's US daily active users return to growth in October as Match ramps up AI efforts</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/tinders-us-daily-active-users-return-growth-in-october-match-ramps-up-ai-efforts-6514231" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Analysis: AI supply chain expansion persists despite concerns over a downturn</span></td>
+  <td class="col-summary">AI chip and data center suppliers continue to announce capacity expansions and stronger earnings in response to surging AI demand, even as concerns grow over the sustainability of the AI boom. Murata, Ibiden, Sumitomo Electric, and Toto are among the companies investing to expand production, while Kioxia reported a sha</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261103PD222/ai-chip-supply-chain-demand-capacity-earnings.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Palantir forecasts strong quarterly revenue on AI demand</span></td>
-  <td class="col-summary">Palantir forecasts strong quarterly revenue on AI demand</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">OpenAI taps ex-US Army secretary for national security AI</span></td>
+  <td class="col-summary">Driscoll previously served as the 26th Secretary of the Army, overseeing operations, modernization, and resources.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/palantir-forecasts-strong-quarterly-revenue-ai-demand-6514211" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-resumes-ai-training-internet-access" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">China’s UBTech launches embodied AI simulation platform</span></td>
-  <td class="col-summary">China has opened over 70 robot training centers as part of a push into embodied AI.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-ubtech-boost-humanoid-robot-production-10-2026" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Ingram Micro, NetApp, Cisco update AI test hub in Singapore</span></td>
+  <td class="col-summary">The setup combines NetApp’s storage and data management software with Cisco’s data center, security, and observability systems.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/data-durians-h2oais-journey-ailed-accessibility" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Big AI cashes in on its own risks</span></td>
-  <td class="col-summary">Anthropic, OpenAI, and Google are selling defenses against risks their models helped create. For clients, it means even higher cybersecurity budgets.</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Ceva DSP and NPU Power Mobilint’s 10-TOPS REGULUS Edge AI SoC</span></td>
+  <td class="col-summary">Mobilint's REGULUS integrates Ceva sensing and neural processing IP to deliver 10 TOPS at under 3W for edge AI applications. The post Ceva DSP and NPU Power Mobilint’s 10-TOPS REGULUS Edge AI SoC appeared first on EE Times Asia .</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/big-ai-cashes-risks" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ceva-dsp-and-npu-power-mobilints-10-tops-regulus-edge-ai-soc/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan's Aisin develops new type of AI chip that cuts energy use 98%</span></td>
-  <td class="col-summary">Japan's Aisin develops new type of AI chip that cuts energy use 98%</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/japan-s-aisin-develops-new-type-of-ai-chip-that-cuts-energy-use-98" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Nintendo's Mario creator Miyamoto sees 'things we can do' even in AI era</span></td>
-  <td class="col-summary">Nintendo's Mario creator Miyamoto sees 'things we can do' even in AI era</td>
+  <td class="col-title"><span class="article-title">Grab eyes more AI investment after Taiwan deal blocked</span></td>
+  <td class="col-summary">Grab eyes more AI investment after Taiwan deal blocked</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/editor-s-picks/interview/nintendo-s-mario-creator-miyamoto-sees-things-we-can-do-even-in-ai-era" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">DRAM prices double in 2026 as AI focus squeezes PC makers</span></td>
-  <td class="col-summary">DRAM prices double in 2026 as AI focus squeezes PC makers</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/dram-prices-double-in-2026-as-ai-focus-squeezes-pc-makers" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/transportation/grab-eyes-more-ai-investment-after-taiwan-deal-blocked" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
