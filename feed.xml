@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-02T08:01:43+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 02, 2026</title><link href="https://asiatechfeed.com/2026/11/02/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 02, 2026" /><published>2026-11-02T08:00:57+00:00</published><updated>2026-11-02T08:00:57+00:00</updated><id>https://asiatechfeed.com/2026/11/02/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/02/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-03T00:03:06+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 03, 2026</title><link href="https://asiatechfeed.com/2026/11/03/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 03, 2026" /><published>2026-11-03T00:02:24+00:00</published><updated>2026-11-03T00:02:24+00:00</updated><id>https://asiatechfeed.com/2026/11/03/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/03/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Marvell pays up for Lumentum, 33 times forward earnings, to match Broadcom on lasers</span></td>
+  <td class="col-summary">Marvell Technology's agreement to buy Lumentum Holdings would give the custom chip designer its own supply of indium phosphide (InP) lasers, one of the scarcest components in AI data center networking, and make it one of the few suppliers spanning both the electrical and optical sides of the link. The deal positions Ma</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261103VL201/marvell-broadcom-earnings-inp.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">SK Hynix ramps up SOCAMM2 as material shortages push up PCB prices</span></td>
+  <td class="col-summary">SK Hynix is increasing orders for small outline compression attached memory module 2 (SOCAMM2) printed circuit boards (PCBs) as production ramps up for Nvidia's Vera Rubin AI platform, while shortages of copper-clad laminate (CCL) and other materials are pushing up substrate prices, South Korea's Dealsite reported on O</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261102VL215/sk-hynix-pcb-production-materials-nvidia.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Beyond the robots: Three companies to watch at FIX 2026</span></td>
+  <td class="col-summary">Humanoid robots and self-driving cars were hard to miss at South Korea's Future Innovation Tech Expo (FIX 2026) in Daegu. But some of the less flashy technologies on display were just as interesting.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261030VL233/2026-software-vehicle-data-automotive.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Trading Day: Oil slump no cure for AI angst</span></td>
+  <td class="col-summary">Trading Day: Oil slump no cure for AI angst</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/trading-day-oil-slump-no-cure-ai-angst-6514301" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Tinder's US daily active users return to growth in October as Match ramps up AI efforts</span></td>
+  <td class="col-summary">Tinder's US daily active users return to growth in October as Match ramps up AI efforts</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/tinders-us-daily-active-users-return-growth-in-october-match-ramps-up-ai-efforts-6514231" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Palantir forecasts strong quarterly revenue on AI demand</span></td>
+  <td class="col-summary">Palantir forecasts strong quarterly revenue on AI demand</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/palantir-forecasts-strong-quarterly-revenue-ai-demand-6514211" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">China’s UBTech launches embodied AI simulation platform</span></td>
+  <td class="col-summary">China has opened over 70 robot training centers as part of a push into embodied AI.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chinas-ubtech-boost-humanoid-robot-production-10-2026" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Big AI cashes in on its own risks</span></td>
+  <td class="col-summary">Anthropic, OpenAI, and Google are selling defenses against risks their models helped create. For clients, it means even higher cybersecurity budgets.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/big-ai-cashes-risks" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan's Aisin develops new type of AI chip that cuts energy use 98%</span></td>
+  <td class="col-summary">Japan's Aisin develops new type of AI chip that cuts energy use 98%</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/japan-s-aisin-develops-new-type-of-ai-chip-that-cuts-energy-use-98" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Nintendo's Mario creator Miyamoto sees 'things we can do' even in AI era</span></td>
+  <td class="col-summary">Nintendo's Mario creator Miyamoto sees 'things we can do' even in AI era</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/editor-s-picks/interview/nintendo-s-mario-creator-miyamoto-sees-things-we-can-do-even-in-ai-era" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">DRAM prices double in 2026 as AI focus squeezes PC makers</span></td>
+  <td class="col-summary">DRAM prices double in 2026 as AI focus squeezes PC makers</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/dram-prices-double-in-2026-as-ai-focus-squeezes-pc-makers" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Marvell pays up for Lumentum, 33 times forward earnings, to match Broadcom on lasers Marvell Technology's agreement to buy Lumentum Holdings would give the custom chip designer its own supply of indium phosphide (InP) lasers, one of the scarcest components in AI data center networking, and make it one of the few suppliers spanning both the electrical and optical sides of the link. The deal positions Ma AISemiconductor Read 2 DigiTimes SK Hynix ramps up SOCAMM2 as material shortages push up PCB prices SK Hynix is increasing orders for small outline compression attached memory module 2 (SOCAMM2) printed circuit boards (PCBs) as production ramps up for Nvidia's Vera Rubin AI platform, while shortages of copper-clad laminate (CCL) and other materials are pushing up substrate prices, South Korea's Dealsite reported on O AIElectronics Read 3 DigiTimes Beyond the robots: Three companies to watch at FIX 2026 Humanoid robots and self-driving cars were hard to miss at South Korea's Future Innovation Tech Expo (FIX 2026) in Daegu. But some of the less flashy technologies on display were just as interesting. Automation Read 4 CNA Trading Day: Oil slump no cure for AI angst Trading Day: Oil slump no cure for AI angst AI Read 5 CNA Tinder's US daily active users return to growth in October as Match ramps up AI efforts Tinder's US daily active users return to growth in October as Match ramps up AI efforts AI Read 6 CNA Palantir forecasts strong quarterly revenue on AI demand Palantir forecasts strong quarterly revenue on AI demand AI Read 7 TechAsia China’s UBTech launches embodied AI simulation platform China has opened over 70 robot training centers as part of a push into embodied AI. AIAutomation Read 8 TechAsia Big AI cashes in on its own risks Anthropic, OpenAI, and Google are selling defenses against risks their models helped create. For clients, it means even higher cybersecurity budgets. AI Read 9 NikkeiAsia Japan's Aisin develops new type of AI chip that cuts energy use 98% Japan's Aisin develops new type of AI chip that cuts energy use 98% AISemiconductor Read 10 NikkeiAsia Nintendo's Mario creator Miyamoto sees 'things we can do' even in AI era Nintendo's Mario creator Miyamoto sees 'things we can do' even in AI era AI Read 11 NikkeiAsia DRAM prices double in 2026 as AI focus squeezes PC makers DRAM prices double in 2026 as AI focus squeezes PC makers AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 02, 2026</title><link href="https://asiatechfeed.com/2026/11/02/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 02, 2026" /><published>2026-11-02T08:00:57+00:00</published><updated>2026-11-02T08:00:57+00:00</updated><id>https://asiatechfeed.com/2026/11/02/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/02/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -530,41 +631,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/for-india-s-it-giants-tcs-and-infosys-ai-both-dents-and-supports-growth" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 SemiEng Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec) Researchers at imec published “Beyond HBM-on-GPU: Thermal Design Envelope for 3D Volumetric DRAM-on-GPU Integration.” Summary: Researchers evaluated a 3D memory architecture that rotates DRAM dies vertically above a GPU and places cooling cavities between them as an alternative to conventional 2.5D HBM and direct-stack Semiconductor Read 2 TechAsia NUHS, SingHealth join Cambridge-led AI blood test project The BloodCounts! consortium won a 2021 Trinity Challenge prize for infectious-disease detection. AI Read 3 DigiTimes Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp Following TSMC's third-quarter 2026 earnings call, DIGITIMES analyst Luke Lin provided in a podcast additional analysis of several details that received limited attention in market coverage, including a new 3nm fab at the Southern Taiwan Science Park (STSP), the transfer of Nvidia-related high-bandwidth memory (HBM) ba Semiconductor Read 4 DigiTimes India roundup: India's tech build-out opens new markets, but foreign suppliers are first in line India's tech push opens markets unevenly: foreign suppliers get first crack at Tata's fab, Lam courts local vendors, Jio's IPO tests its 5G pitch, and CleanMax powers AI data centers. AISemiconductor Read 5 NikkeiAsia For India's IT giants TCS and Infosys, AI both dents and supports growth For India's IT giants TCS and Infosys, AI both dents and supports growth AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 25, 2026</title><link href="https://asiatechfeed.com/2026/10/25/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 25, 2026" /><published>2026-10-25T08:00:53+00:00</published><updated>2026-10-25T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/10/25/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/25/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Column: Will general-purpose models overtake Physical AI?</span></td>
-  <td class="col-summary">After GPT-6 Astra launched in early September 2026, researchers quickly put it through Physical AI and robotics benchmarks. In some tests, it outperformed specialized models trained on large amounts of robot data.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261023PD210/physical-ai-robot-robotics-3d-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Magnate Technology sees aerospace, semiconductor growth opportunities</span></td>
-  <td class="col-summary">Magnate Technology expects rising aircraft engine demand and semiconductor equipment opportunities to support growth as it expands production capacity, with implications for global aviation and chip supply chains. The aerospace components maker forecasts revenue of nearly NT$2 billion (US$61.5 million) in 2026 and expe</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261023PD207/growth-revenue-aircraft-demand-equipment.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Interview: The story of LEACHIM, a working humanoid robot from the 1970s</span></td>
-  <td class="col-summary">The robotics industry has come a long way since robots were first built over 50 years ago. Yet LEACHIM, a robot teacher and one of the world's first humanoids created back in the 1970s, may hold a key clue as companies seek to transition their technological advancements into on-the-ground deployment: develop machines t</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261023VL223/humanoid-robot-physical-ai-interview.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Column: Will general-purpose models overtake Physical AI? After GPT-6 Astra launched in early September 2026, researchers quickly put it through Physical AI and robotics benchmarks. In some tests, it outperformed specialized models trained on large amounts of robot data. AIAutomation Read 2 DigiTimes Magnate Technology sees aerospace, semiconductor growth opportunities Magnate Technology expects rising aircraft engine demand and semiconductor equipment opportunities to support growth as it expands production capacity, with implications for global aviation and chip supply chains. The aerospace components maker forecasts revenue of nearly NT$2 billion (US$61.5 million) in 2026 and expe SemiconductorLogistics Read 3 DigiTimes Interview: The story of LEACHIM, a working humanoid robot from the 1970s The robotics industry has come a long way since robots were first built over 50 years ago. Yet LEACHIM, a robot teacher and one of the world's first humanoids created back in the 1970s, may hold a key clue as companies seek to transition their technological advancements into on-the-ground deployment: develop machines t Automation Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 SemiEng Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec) Researchers at imec published “Beyond HBM-on-GPU: Thermal Design Envelope for 3D Volumetric DRAM-on-GPU Integration.” Summary: Researchers evaluated a 3D memory architecture that rotates DRAM dies vertically above a GPU and places cooling cavities between them as an alternative to conventional 2.5D HBM and direct-stack Semiconductor Read 2 TechAsia NUHS, SingHealth join Cambridge-led AI blood test project The BloodCounts! consortium won a 2021 Trinity Challenge prize for infectious-disease detection. AI Read 3 DigiTimes Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp Following TSMC's third-quarter 2026 earnings call, DIGITIMES analyst Luke Lin provided in a podcast additional analysis of several details that received limited attention in market coverage, including a new 3nm fab at the Southern Taiwan Science Park (STSP), the transfer of Nvidia-related high-bandwidth memory (HBM) ba Semiconductor Read 4 DigiTimes India roundup: India's tech build-out opens new markets, but foreign suppliers are first in line India's tech push opens markets unevenly: foreign suppliers get first crack at Tata's fab, Lam courts local vendors, Jio's IPO tests its 5G pitch, and CleanMax powers AI data centers. AISemiconductor Read 5 NikkeiAsia For India's IT giants TCS and Infosys, AI both dents and supports growth For India's IT giants TCS and Infosys, AI both dents and supports growth AI Read]]></summary></entry></feed>
