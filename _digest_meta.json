@@ -1,39 +1,37 @@
 {
   "date": "2026-11-03",
-  "count": 9,
+  "count": 7,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-03-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Indonesian police name suspects after 58 citizens lured to Russia to serve as mercenaries",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/indonesians-recruited-mercenaries-russia-human-trafficking-6515391"
+      "title": "Oracle to sell US$20 billion in stocks and bonds as concerns grow over debt-fueled expansion",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261103VL217/oracle-financing-earnings-revenue.html"
     },
     {
-      "title": "US data center firm Vertiv opens Singapore AI hub",
+      "title": "Vietnam\u2019s Viettel unveils VGC v1.0 chip for secure government systems",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/abb-launches-infinitus-ai-data-centers"
+      "url": "https://www.techinasia.com/vietnam-becomes-key-player-in-global-chip-value-chain-deputy-pm"
     },
     {
-      "title": "Gemtek joins three optical standards groups for AI data center development",
+      "title": "Apple's US$5 trillion dilemma: iPhone Duo and AI raise stakes for next growth chapter",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261103PD204/gemtek-optical-communications-data-center-2026.html"
+      "url": "https://www.digitimes.com/news/a20261103VL208/apple-iphone-duo-performance-growth-2026.html"
     },
     {
-      "title": "TSMC's next US chip plant could land in Sherman",
+      "title": "Metaage posts 17% revenue growth through 3Q26, eyes AI expansion",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261103VL216/tsmc-plant-texas-investment-manufacturing.html"
+      "url": "https://www.digitimes.com/news/a20261103PD213/revenue-growth-subsidiary-qisda-infrastructure.html"
     },
     {
-      "title": "Analysis: AI supply chain expansion persists despite concerns over a downturn",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261103PD222/ai-chip-supply-chain-demand-capacity-earnings.html"
+      "title": "Goldman Sachs restricts some AI coding tools to engineers",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/goldman-sachs-executive-ai-may-complicate-lending-decisions"
     }
   ],
   "source_stats": [
@@ -52,7 +50,7 @@
       "fetched": 20,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -151,14 +149,14 @@
       "fetched": 10,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 36,
-      "relevant": 29,
+      "fetched": 38,
+      "relevant": 31,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -194,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 7,
+      "relevant": 9,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null

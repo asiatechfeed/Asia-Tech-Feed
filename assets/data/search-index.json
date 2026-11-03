@@ -1,93 +1,69 @@
 [
   {
     "date": "2026-11-03",
-    "title": "Indonesian police name suspects after 58 citizens lured to Russia to serve as mercenaries",
-    "summary": "The Indonesian citizens were initially offered jobs in logistics, border security and defence construction, but when arriving in Russia, were told to sign contracts to serve as mercenaries, undergo training and potentially be deployed to conflict zones.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "Oracle to sell US$20 billion in stocks and bonds as concerns grow over debt-fueled expansion",
+    "summary": "Oracle aims to raise US$20 billion through selling stock and issuing bonds to fund its AI build-out. Its stock value dropped after the company filed the plans, a sign that investors are growing wary of hyperscalers' increasing debt before anticipated AI revenues trickle in.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "Logistics"
+      "AI"
     ],
-    "url": "https://www.channelnewsasia.com/asia/indonesians-recruited-mercenaries-russia-human-trafficking-6515391"
+    "url": "https://www.digitimes.com/news/a20261103VL217/oracle-financing-earnings-revenue.html"
   },
   {
     "date": "2026-11-03",
-    "title": "US data center firm Vertiv opens Singapore AI hub",
-    "summary": "Vertiv said the center is open to customers, channel partners, consultants, and other industry stakeholders.",
+    "title": "Vietnam’s Viettel unveils VGC v1.0 chip for secure government systems",
+    "summary": "Vietnam's national digital signature system has over 2 million certificates in circulation.",
     "source": "Tech in Asia",
     "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/abb-launches-infinitus-ai-data-centers"
-  },
-  {
-    "date": "2026-11-03",
-    "title": "Gemtek joins three optical standards groups for AI data center development",
-    "summary": "Gemtek Technology has joined three optical communications standards groups as the industry develops alternatives for connecting AI data centers. The move could influence interoperability, power use, scalability, and supply-chain integration across global data-center networks, while giving the company exposure to specif",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261103PD204/gemtek-optical-communications-data-center-2026.html"
-  },
-  {
-    "date": "2026-11-03",
-    "title": "TSMC's next US chip plant could land in Sherman",
-    "summary": "Sherman, a city north of Dallas, has emerged as a possible site for TSMC's next US chip plant, with Texas development documents describing a proposed US$45 billion investment in two semiconductor fabs by an unidentified manufacturer.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261103VL216/tsmc-plant-texas-investment-manufacturing.html"
+    "url": "https://www.techinasia.com/vietnam-becomes-key-player-in-global-chip-value-chain-deputy-pm"
   },
   {
     "date": "2026-11-03",
-    "title": "Analysis: AI supply chain expansion persists despite concerns over a downturn",
-    "summary": "AI chip and data center suppliers continue to announce capacity expansions and stronger earnings in response to surging AI demand, even as concerns grow over the sustainability of the AI boom. Murata, Ibiden, Sumitomo Electric, and Toto are among the companies investing to expand production, while Kioxia reported a sha",
+    "title": "Apple's US$5 trillion dilemma: iPhone Duo and AI raise stakes for next growth chapter",
+    "summary": "Apple's record fiscal 2026 performance left a central question unresolved: can premium-priced iPhones, AI, and expanding services sustain enough growth to justify a valuation approaching US$5 trillion? For new CEO John Ternus, the challenge is converting product innovation into lasting earnings growth rather than relyi",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI",
-      "Semiconductor",
-      "Logistics"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261103PD222/ai-chip-supply-chain-demand-capacity-earnings.html"
+    "url": "https://www.digitimes.com/news/a20261103VL208/apple-iphone-duo-performance-growth-2026.html"
   },
   {
     "date": "2026-11-03",
-    "title": "OpenAI taps ex-US Army secretary for national security AI",
-    "summary": "Driscoll previously served as the 26th Secretary of the Army, overseeing operations, modernization, and resources.",
+    "title": "Metaage posts 17% revenue growth through 3Q26, eyes AI expansion",
+    "summary": "Metaage, a subsidiary of Qisda, posted consolidated revenue of approximately NT$19 billion (US$583 million) for the first three quarters of 2026, up 17% from NT$16.2 billion in the same period of 2025, as enterprise IT infrastructure, software, and cloud businesses expanded. The company is targeting AI infrastructure a",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261103PD213/revenue-growth-subsidiary-qisda-infrastructure.html"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Goldman Sachs restricts some AI coding tools to engineers",
+    "summary": "Some Goldman traders had used AI coding tools to model market moves and create graphic content.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/openai-resumes-ai-training-internet-access"
+    "url": "https://www.techinasia.com/goldman-sachs-executive-ai-may-complicate-lending-decisions"
   },
   {
     "date": "2026-11-03",
-    "title": "Ingram Micro, NetApp, Cisco update AI test hub in Singapore",
-    "summary": "The setup combines NetApp’s storage and data management software with Cisco’s data center, security, and observability systems.",
+    "title": "Hong Kong heirs ditch property for tech",
+    "summary": "Why Hong Kong’s next-gen wealth is chasing AI over property, and a look back at how family offices backed Southeast Asian startups.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/data-durians-h2oais-journey-ailed-accessibility"
-  },
-  {
-    "date": "2026-11-03",
-    "title": "Ceva DSP and NPU Power Mobilint’s 10-TOPS REGULUS Edge AI SoC",
-    "summary": "Mobilint's REGULUS integrates Ceva sensing and neural processing IP to deliver 10 TOPS at under 3W for edge AI applications. The post Ceva DSP and NPU Power Mobilint’s 10-TOPS REGULUS Edge AI SoC appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/ceva-dsp-and-npu-power-mobilints-10-tops-regulus-edge-ai-soc/"
+    "url": "https://www.techinasia.com/hong-kong-heirs-ditch-property-tech"
   },
   {
     "date": "2026-11-03",
@@ -98,7 +74,7 @@
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/transportation/grab-eyes-more-ai-investment-after-taiwan-deal-blocked"
+    "url": "https://asia.nikkei.com/business/technology/grab-eyes-more-ai-investment-after-taiwan-deal-blocked"
   },
   {
     "date": "2026-11-02",
