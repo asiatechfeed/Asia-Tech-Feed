@@ -1,37 +1,39 @@
 {
-  "date": "2026-11-03",
-  "count": 7,
+  "date": "2026-11-04",
+  "count": 11,
   "sources": [
+    "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
-    "TechAsia"
+    "SemiEng"
   ],
-  "post_file": "2026-11-03-asia-tech-news-digest.md",
+  "post_file": "2026-11-04-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Oracle to sell US$20 billion in stocks and bonds as concerns grow over debt-fueled expansion",
+      "title": "Supermicro's record AI server sales put margins and cash conversion in focus",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261103VL217/oracle-financing-earnings-revenue.html"
+      "url": "https://www.digitimes.com/news/a20261104VL200.html"
     },
     {
-      "title": "Vietnam\u2019s Viettel unveils VGC v1.0 chip for secure government systems",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/vietnam-becomes-key-player-in-global-chip-value-chain-deputy-pm"
-    },
-    {
-      "title": "Apple's US$5 trillion dilemma: iPhone Duo and AI raise stakes for next growth chapter",
+      "title": "Samsung Electro-Mechanics' long-term deals top KRW5 trillion",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261103VL208/apple-iphone-duo-performance-growth-2026.html"
+      "url": "https://www.digitimes.com/news/a20261103VL222/semco-mlcc-ai-server-revenue-demand.html"
     },
     {
-      "title": "Metaage posts 17% revenue growth through 3Q26, eyes AI expansion",
+      "title": "USI to launch Wi-Fi 8 SiP modules in 1Q27 for AI devices",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261103PD213/revenue-growth-subsidiary-qisda-infrastructure.html"
+      "url": "https://www.digitimes.com/news/a20261103PD236/usi-wi-fi-launch-ase-subsidiary.html"
     },
     {
-      "title": "Goldman Sachs restricts some AI coding tools to engineers",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/goldman-sachs-executive-ai-may-complicate-lending-decisions"
+      "title": "Wolfspeed Intros Transparent SiC Substrates for AR, Quantum Computing",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/wolfspeed-intros-transparent-sic-substrates-for-ar-quantum-computing/"
+    },
+    {
+      "title": "Global Semiconductor Sales Up 24% to $517.7B in 3Q 2026",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/global-semiconductor-sales-up-24-to-517-7b-in-3q-2026/"
     }
   ],
   "source_stats": [
@@ -50,7 +52,7 @@
       "fetched": 20,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -147,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 4,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 38,
-      "relevant": 31,
+      "fetched": 35,
+      "relevant": 28,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -192,9 +194,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 9,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -210,9 +212,9 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     }
   ]
