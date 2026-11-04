@@ -1,39 +1,38 @@
 {
   "date": "2026-11-04",
-  "count": 11,
+  "count": 9,
   "sources": [
+    "CNA",
     "DigiTimes",
     "EETAsia",
-    "KED",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-04-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "LG Uplus Q3 operating profit jumps 84% despite revenue dip",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/lg-uplus-to-unveil-ai-data-center-strategy-at-mwc-2026"
+      "title": "Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/synopsys-joins-nus-testbed-for-tropical-data-center-cooling-research/"
     },
     {
-      "title": "SpaceX is reportedly building AI data centers faster than anyone",
+      "title": "Tencent built an empire on WeChat and gaming. Can it keep up in China's AI race?",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/tencent-wechat-gaming-artificial-intelligence-competition-6519631"
+    },
+    {
+      "title": "Why defense's blue ocean is no smooth sailing for automakers",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261104VL215/spacex-data-capacity-business-merger.html"
+      "url": "https://www.digitimes.com/news/a20261104PD220/automakers-market-automotive-auto-industry-materials.html"
     },
     {
-      "title": "AEB 3Q26 revenue jumps 70% on AI demand",
+      "title": "Samsung to reportedly make AMD, Nvidia HBM base dies at second Texas fab",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261104PD236/revenue-aeb-cloud-demand-profit.html"
+      "url": "https://www.digitimes.com/news/a20261104VL220/samsung-hbm-amd-texas-fab.html"
     },
     {
-      "title": "Tencent Cloud unveils new AI tools at Singapore Cloud Day",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/tencent-cloud-expands-ai-agent-suite-indonesia"
-    },
-    {
-      "title": "Zhongji InnoLight revenue and profit more than double in 3Q26",
+      "title": "PC slump hits Darfon, but MLCCs, green energy keep 2026 growth on track",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261104PD232/2026-demand-profit-communications-revenue.html"
+      "url": "https://www.digitimes.com/news/a20261104PD225/pc-2026-darfon-demand-revenue.html"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -149,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 6,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 52,
-      "relevant": 34,
+      "fetched": 61,
+      "relevant": 40,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +168,7 @@
       "fetched": 50,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -178,7 +177,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 17,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null

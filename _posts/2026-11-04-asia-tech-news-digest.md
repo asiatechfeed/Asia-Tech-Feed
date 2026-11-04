@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Asia Tech News Digest - November 04, 2026"
-date: 2026-11-04 13:54:38 +0800
-articles_count: 11
-sources_count: 5
-sources: ["DigiTimes", "EETAsia", "KED", "NikkeiAsia", "TechAsia"]
+date: 2026-11-04 16:01:00 +0800
+articles_count: 9
+sources_count: 4
+sources: ["CNA", "DigiTimes", "EETAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-11-04.tsv
-featured_title: "LG Uplus Q3 operating profit jumps 84% despite revenue dip"
-featured_url: "https://www.techinasia.com/lg-uplus-to-unveil-ai-data-center-strategy-at-mwc-2026"
-featured_source: "TechAsia"
-featured_summary: "LG Uplus is building an AI data center campus in Paju, with four buildings opening by 2028."
+featured_title: "Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research"
+featured_url: "https://www.eetasia.com/synopsys-joins-nus-testbed-for-tropical-data-center-cooling-research/"
+featured_source: "EETAsia"
+featured_summary: "The collaboration will combine multiphysics simulation, digital twins and physical testing to improve cooling efficiency in AI data centers. The post Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research appeared first on EE Times Asia ."
 featured_image: ""
 ---
 
@@ -27,91 +27,75 @@ featured_image: ""
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">LG Uplus Q3 operating profit jumps 84% despite revenue dip</span></td>
-  <td class="col-summary">LG Uplus is building an AI data center campus in Paju, with four buildings opening by 2028.</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research</span></td>
+  <td class="col-summary">The collaboration will combine multiphysics simulation, digital twins and physical testing to improve cooling efficiency in AI data centers. The post Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research appeared first on EE Times Asia .</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/lg-uplus-to-unveil-ai-data-center-strategy-at-mwc-2026" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/synopsys-joins-nus-testbed-for-tropical-data-center-cooling-research/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SpaceX is reportedly building AI data centers faster than anyone</span></td>
-  <td class="col-summary">SpaceX, which only entered the AI infrastructure business this year through its merger with xAI, may now be the fastest data center builder in the world, according to research firm SemiAnalysis. The firm argues this pace will make the rocket company the world's biggest AI cloud.</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Tencent built an empire on WeChat and gaming. Can it keep up in China's AI race?</span></td>
+  <td class="col-summary">As AI reshapes China's tech industry, Tencent faces growing competition from rivals and AI startups. But the Chinese conglomerate’s vast WeChat ecosystem and gaming business could still give it an edge.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261104VL215/spacex-data-capacity-business-merger.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/tencent-wechat-gaming-artificial-intelligence-competition-6519631" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AEB 3Q26 revenue jumps 70% on AI demand</span></td>
-  <td class="col-summary">Cloud and AI services provider Acer E-Enabling Service Business (AEB) reported 3Q26 revenue of NT$3.822 billion (approx. US$116.7 million), up 70% year-over-year, as AI application demand drove simultaneous growth in revenue and profit.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261104PD236/revenue-aeb-cloud-demand-profit.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Why defense's blue ocean is no smooth sailing for automakers</span></td>
+  <td class="col-summary">Although the defense market has emerged as a new blue ocean for the auto industry, entering it is far from smooth sailing. The main concern remains the national security sensitivities inherent in defense work. Amid international rivalry, automotive supply chains moving into defense can easily become targets, raising th</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261104PD220/automakers-market-automotive-auto-industry-materials.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Tencent Cloud unveils new AI tools at Singapore Cloud Day</span></td>
-  <td class="col-summary">The company introduced MAGIC AI, WAND, and the Tencent Cloud Enterprise (TCE) AI Suite.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/tencent-cloud-expands-ai-agent-suite-indonesia" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Samsung to reportedly make AMD, Nvidia HBM base dies at second Texas fab</span></td>
+  <td class="col-summary">Samsung Electronics plans to produce high-bandwidth memory (HBM) base dies for AMD at its second foundry plant in Taylor, Texas, with the US chipmaker accounting for most of the facility's planned output, South Korea's Maeil Business Newspaper reported on November 3, citing industry sources. The report said the plant w</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261104VL220/samsung-hbm-amd-texas-fab.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Zhongji InnoLight revenue and profit more than double in 3Q26</span></td>
-  <td class="col-summary">China-based optical communications module maker Zhongji InnoLight reported strong results for the third quarter of 2026 as global AI infrastructure expansion drove robust demand for high-speed optical transceiver modules and increased shipments of 800G and 1.6T products. Revenue reached CNY27.769 billion (US$4.17 billi</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261104PD232/2026-demand-profit-communications-revenue.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">PC slump hits Darfon, but MLCCs, green energy keep 2026 growth on track</span></td>
+  <td class="col-summary">Affected by weak notebook and PC demand, Darfon Electronics reported third-quarter 2026 consolidated revenue of NT$7.011 billion (US$214 million), up 7.8% year-over-year but down about 6.7% quarter-over-quarter. The company said notebook and PC demand weakened after higher raw material and component costs pushed up end</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261104PD225/pc-2026-darfon-demand-revenue.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Taiwan’s AI Expansion Hinges on Systems Talent and Advanced Packaging</span></td>
-  <td class="col-summary">AMD's David Wang sees talent development, open standards and industry collaboration as critical to Taiwan's AI ambitions. The post Taiwan’s AI Expansion Hinges on Systems Talent and Advanced Packaging appeared first on EE Times Asia .</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Apple AI tools come to China after two-year delay</span></td>
+  <td class="col-summary">Apple will work with Alibaba's Qwen to integrate more powerful AI features into devices alongside its own basic AI offerings.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/taiwans-ai-expansion-hinges-on-systems-talent-and-advanced-packaging/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/china-apple-artificial-intelligence-developers-6522361" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Bessemer leads $1.3b round for US AI startup Fal</span></td>
-  <td class="col-summary">Fal was founded in 2021 by a former Coinbase machine learning leader and an ex-Amazon developer.</td>
+  <td class="col-title"><span class="article-title">US voters could move AI’s next piece</span></td>
+  <td class="col-summary">US data center backlash could affect Southeast Asia. Plus, an interview with an executive at Legora, a legal AI unicorn valued at US$8.8 billion.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/cheaper-ai-means-compute" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/us-voters-could-move-ais-next-piece" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Marvell to Expand AI Connectivity Portfolio with Lumentum Acquisition</span></td>
-  <td class="col-summary">The acquisition combines optical and electrical interconnect technologies, laser manufacturing and advanced semiconductor capabilities for AI infrastructure. The post Marvell to Expand AI Connectivity Portfolio with Lumentum Acquisition appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/marvell-to-expand-ai-connectivity-portfolio-with-lumentum-acquisition/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Meta launches $15b bond sale to fund AI infrastructure</span></td>
+  <td class="col-summary">The offering includes US$3.25 billion of notes due in 2033 with a 6.25% coupon.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-launches-muse-rival-openai-anthropic" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Mitsui Chemicals to buy Japan chip material maker JSR for over $8.2bn</span></td>
-  <td class="col-summary">Mitsui Chemicals to buy Japan chip material maker JSR for over $8.2bn</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/business-deals/mitsui-chemicals-to-buy-japan-chip-material-maker-jsr-for-over-8.2bn2" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">NTT to help Japanese companies update at-risk aging IT with AI</span></td>
-  <td class="col-summary">NTT to help Japanese companies update at-risk aging IT with AI</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">SK Telecom Q3 revenue climbs 13.1% to $3.4b</span></td>
+  <td class="col-summary">SK Telecom also said it formed two units, SK Hyper and SK Horizon, to expand its AI data center business.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/cybersecurity/ntt-to-help-japanese-companies-update-at-risk-aging-it-with-ai" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">AI payoffs, green transition shape France-Korea Tech Summit 2026</span></td>
-  <td class="col-summary">Artificial intelligence and industrial sustainability dominated talks among South Korean and French business and policy leaders in Seoul last week, wi</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/artificial-intelligence/newsView/ked202610190009" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-telecom-ntt-launch-500m-aion-ai-fund" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
