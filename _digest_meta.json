@@ -1,39 +1,36 @@
 {
   "date": "2026-11-05",
-  "count": 12,
+  "count": 6,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-05-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Coherent pitches itself as the neutral optics supplier after Marvell-Lumentum deal",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261105VL222/coherent-optics-cpo-revenue-supplier.html"
-    },
-    {
-      "title": "Qisda revenue rises 13% in October as AI businesses accelerate",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261105PD225/revenue-qisda-healthcare-2026-infrastructure.html"
-    },
-    {
-      "title": "Microsoft rejects multibillion-dollar AI deal with UK's Nscale, FT reports",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/microsoft-rejects-multibillion-dollar-ai-deal-uks-nscale-ft-reports-6526491"
-    },
-    {
-      "title": "Chipmakers rush to secure equipment for 2029 as lead times top two years",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261105VL219/semiconductors-equipment-production-asml-earnings-2028.html"
-    },
-    {
-      "title": "Google plans $15b Malaysia data center push to meet AI demand",
+      "title": "Tracking AI hiring in Singapore: Databricks, OpenAI, and more",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/google-secures-3-6gw-of-power-from-constellation-energy"
+      "url": "https://www.techinasia.com/visual-story/openai-anthropic-hiring-singapore"
+    },
+    {
+      "title": "Cohere to partner Singapore defense agency on security AI",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/nvidia-backed-ai-startup-cohere-plans-eu-expansion-deal"
+    },
+    {
+      "title": "Moonshot AI launches hosted AI agent service for enterprise",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/moonshot-pauses-kimi-k3-consumer-signups"
+    },
+    {
+      "title": "EU launches EUR525 million push to close chip design gap",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261105VL221/design-europe-eu-manufacturing-demand.html"
+    },
+    {
+      "title": "China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain gaps",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261105VL220/12-inch-equipment-big-fund-investment-manufacturing.html"
     }
   ],
   "source_stats": [
@@ -52,7 +49,7 @@
       "fetched": 20,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -151,13 +148,13 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 59,
+      "fetched": 61,
       "relevant": 44,
       "sponsored_skipped": 0,
       "published": 3,
@@ -167,9 +164,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 10,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +191,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 13,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
