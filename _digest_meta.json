@@ -1,38 +1,39 @@
 {
-  "date": "2026-11-04",
-  "count": 9,
+  "date": "2026-11-05",
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
+    "NikkeiAsia",
+    "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-11-04-asia-tech-news-digest.md",
+  "post_file": "2026-11-05-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/synopsys-joins-nus-testbed-for-tropical-data-center-cooling-research/"
+      "title": "GlobalFoundries revenue rises 13% as data center demand offsets mobile decline",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261105VL202/globalfoundries-revenue-mobile-demand-data-center.html"
     },
     {
-      "title": "Tencent built an empire on WeChat and gaming. Can it keep up in China's AI race?",
+      "title": "Qualcomm's September-quarter revenue falls 8% as handset slump outweighs automotive gains",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261105VL200/qualcomm-revenue-automotive-business-growth.html"
+    },
+    {
+      "title": "Arm's quarterly revenue rises 27% as licensing outpaces smartphone-weighed royalties",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261105VL201/arm-revenue-licensing-demand-smartphone.html"
+    },
+    {
+      "title": "Pentagon chief tech officer says government will detail laws that apply to AI labs this month",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/tencent-wechat-gaming-artificial-intelligence-competition-6519631"
+      "url": "https://www.channelnewsasia.com/business/pentagon-chief-tech-officer-says-government-will-detail-laws-apply-ai-labs-month-6525806"
     },
     {
-      "title": "Why defense's blue ocean is no smooth sailing for automakers",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261104PD220/automakers-market-automotive-auto-industry-materials.html"
-    },
-    {
-      "title": "Samsung to reportedly make AMD, Nvidia HBM base dies at second Texas fab",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261104VL220/samsung-hbm-amd-texas-fab.html"
-    },
-    {
-      "title": "PC slump hits Darfon, but MLCCs, green energy keep 2026 growth on track",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261104PD225/pc-2026-darfon-demand-revenue.html"
+      "title": "Google turns off AI for schoolchildren by default",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/google-ai-children-turn-default-6525746"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -150,14 +151,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 61,
-      "relevant": 40,
+      "fetched": 35,
+      "relevant": 30,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +169,7 @@
       "fetched": 50,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -193,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 16,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -213,7 +214,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     }
   ]
