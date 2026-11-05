@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-11-05",
+    "title": "GlobalFoundries revenue rises 13% as data center demand offsets mobile decline",
+    "summary": "GlobalFoundries' third quarter showed the contract chipmaker's revenue base shifting from smartphones to AI-related networking, and that shift is now boosting profitability. Revenue rose 13% from a year earlier to US$1.9 billion for the three months ended September 30, according to the company's November 4 earnings rel",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261105VL202/globalfoundries-revenue-mobile-demand-data-center.html"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Qualcomm's September-quarter revenue falls 8% as handset slump outweighs automotive gains",
+    "summary": "Qualcomm's fiscal fourth quarter showed a company whose growth now comes almost entirely from outside the smartphone, but not yet at a scale that can offset a shrinking handset business. Revenue fell 8% from a year earlier to US$10.3 billion for the three months ended September 27, according to the company's November 4",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261105VL200/qualcomm-revenue-automotive-business-growth.html"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Arm's quarterly revenue rises 27% as licensing outpaces smartphone-weighed royalties",
+    "summary": "Arm's September quarter showed demand for its technology moving toward data centers while its smartphone royalty base slowed. Revenue rose 27% from a year earlier to a record US$1.44 billion for the fiscal second quarter ended September 30, according to the company's November 4 shareholder letter. Still, the gain came ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261105VL201/arm-revenue-licensing-demand-smartphone.html"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Pentagon chief tech officer says government will detail laws that apply to AI labs this month",
+    "summary": "Pentagon chief tech officer says government will detail laws that apply to AI labs this month",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/pentagon-chief-tech-officer-says-government-will-detail-laws-apply-ai-labs-month-6525806"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Google turns off AI for schoolchildren by default",
+    "summary": "Google said the new controls would be rolled out worldwide, beginning in the United States, but that it had not yet set a date.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/world/google-ai-children-turn-default-6525746"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Goldman, Apollo seek buyers for $40 billion SpaceX AI chip deal, Bloomberg News reports",
+    "summary": "Goldman, Apollo seek buyers for $40 billion SpaceX AI chip deal, Bloomberg News reports",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/business/goldman-apollo-seek-buyers-40-billion-spacex-ai-chip-deal-bloomberg-news-reports-6525526"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "SG AI startup Featherless to add MiniMax M3.1 Flash for coding",
+    "summary": "The model has 428 billion parameters, with 23 billion active per token, Featherless said.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/paths-goal-ai-fever-grips-seas-vcs"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Databricks opens new office, plans $350m Singapore investment",
+    "summary": "Databricks also launched an AI accelerator for startups that aims to support more than 100 early-stage companies over three years.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/databricks-annualized-revenue-rises-80-69b"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Startup cuts complex hardware prototyping cycles using AI",
+    "summary": "KnowYi builds reasoning ML to capture unwritten engineering knowledge, ensuring physical hardware builds succeed on the first try.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/startup-cuts-complex-hardware-prototyping-cycles-ai"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Validate Sovereign AI Sites Before You Commit Capital: eBook",
+    "summary": "How to validate sites before commitment, protect capacity after deployment, and plan for long-term performance. The post Validate Sovereign AI Sites Before You Commit Capital: eBook appeared first on Semiconductor Engineering .",
+    "source": "Semiconductor Engineering",
+    "short": "SemiEng",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://semiengineering.com/validate-sovereign-ai-sites-before-you-commit-capital-ebook/"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Japan logistics startups expand cold food networks in Malaysia, Vietnam",
+    "summary": "Japan logistics startups expand cold food networks in Malaysia, Vietnam",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://asia.nikkei.com/business/food-beverage/japan-logistics-startups-expand-cold-food-networks-in-malaysia-vietnam"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Tencent says its Hy4 joins 'top-tier' of open-source AI models",
+    "summary": "Tencent says its Hy4 joins 'top-tier' of open-source AI models",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tencent-says-its-hy4-joins-top-tier-of-open-source-ai-models"
+  },
+  {
     "date": "2026-11-04",
     "title": "Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research",
     "summary": "The collaboration will combine multiphysics simulation, digital twins and physical testing to improve cooling efficiency in AI data centers. The post Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research appeared first on EE Times Asia .",
