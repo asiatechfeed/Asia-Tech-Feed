@@ -1,36 +1,39 @@
 {
-  "date": "2026-11-05",
-  "count": 6,
+  "date": "2026-11-06",
+  "count": 12,
   "sources": [
+    "CNA",
     "DigiTimes",
+    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-11-05-asia-tech-news-digest.md",
+  "post_file": "2026-11-06-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Tracking AI hiring in Singapore: Databricks, OpenAI, and more",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/visual-story/openai-anthropic-hiring-singapore"
-    },
-    {
-      "title": "Cohere to partner Singapore defense agency on security AI",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-backed-ai-startup-cohere-plans-eu-expansion-deal"
-    },
-    {
-      "title": "Moonshot AI launches hosted AI agent service for enterprise",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/moonshot-pauses-kimi-k3-consumer-signups"
-    },
-    {
-      "title": "EU launches EUR525 million push to close chip design gap",
+      "title": "Eiso Enterprise boosts profit as AI server BBU shipments ramp",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261105VL221/design-europe-eu-manufacturing-demand.html"
+      "url": "https://www.digitimes.com/news/a20261105PD227/eiso-pcb-profit-shipments-ai-server.html"
     },
     {
-      "title": "China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain gaps",
+      "title": "Naver's Nvidia-backed AI factory faces crucial test after US$9 billion deal",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261105VL220/12-inch-equipment-big-fund-investment-manufacturing.html"
+      "url": "https://www.digitimes.com/news/a20261105VL226/naver-infrastructure-gpu-launch-business.html"
+    },
+    {
+      "title": "Samsung SDS begins construction of 60MW AI data center to support factory robots",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261105VL228/samsung-data-center-gpu-manufacturing-robot.html"
+    },
+    {
+      "title": "T-Global Technology to Showcase Comprehensive Thermal Management Solutions at Three Major European Trade Shows this Month",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/t-global-technology-to-showcase-comprehensive-thermal-management-solutions-at-three-major-european-trade-shows-this-month/"
+    },
+    {
+      "title": "A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4%",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/brutal-sell-ai-stocks-sends-wall-street-reeling-and-sp-500-tumbles-44-6529101"
     }
   ],
   "source_stats": [
@@ -47,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -148,14 +151,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 61,
-      "relevant": 44,
+      "fetched": 35,
+      "relevant": 31,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -164,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -191,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -209,7 +212,7 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
