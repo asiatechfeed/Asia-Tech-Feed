@@ -1,39 +1,40 @@
 {
   "date": "2026-11-06",
-  "count": 12,
+  "count": 14,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
+    "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-06-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Eiso Enterprise boosts profit as AI server BBU shipments ramp",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261105PD227/eiso-pcb-profit-shipments-ai-server.html"
-    },
-    {
-      "title": "Naver's Nvidia-backed AI factory faces crucial test after US$9 billion deal",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261105VL226/naver-infrastructure-gpu-launch-business.html"
-    },
-    {
-      "title": "Samsung SDS begins construction of 60MW AI data center to support factory robots",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261105VL228/samsung-data-center-gpu-manufacturing-robot.html"
-    },
-    {
-      "title": "T-Global Technology to Showcase Comprehensive Thermal Management Solutions at Three Major European Trade Shows this Month",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/t-global-technology-to-showcase-comprehensive-thermal-management-solutions-at-three-major-european-trade-shows-this-month/"
-    },
-    {
-      "title": "A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4%",
+      "title": "Singapore authorities warn of privacy, security risks from personal AI agents",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/brutal-sell-ai-stocks-sends-wall-street-reeling-and-sp-500-tumbles-44-6529101"
+      "url": "https://www.channelnewsasia.com/singapore/personal-ai-agents-assistant-advisory-muse-dots-hermes-grok-openclaw-6529836"
+    },
+    {
+      "title": "Democratic Congress set to challenge Trump on energy, AI, and EVs",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261106PD214/ev-data-center-cryptocurrency-incentives-tariffs-usa.html"
+    },
+    {
+      "title": "LX Semicon posts first quarterly operating loss since IPO",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261106VL212/lx-semicon-loss-semicon-display-revenue.html"
+    },
+    {
+      "title": "ServiceNow cuts jobs in US, UK, India in AI restructuring",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/us-it-firm-servicenow-closes-7-8b-armis-deal"
+    },
+    {
+      "title": "Infinitesima Marks 25 Years with Focus on 3D Semiconductor Metrology",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/infinitesima-marks-25-years-with-focus-on-3d-semiconductor-metrology/"
     }
   ],
   "source_stats": [
@@ -151,14 +152,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 31,
+      "fetched": 65,
+      "relevant": 51,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +168,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 10,
+      "relevant": 11,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -178,7 +179,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -194,7 +195,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 16,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
