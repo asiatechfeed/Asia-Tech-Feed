@@ -1,161 +1,136 @@
 [
   {
     "date": "2026-11-06",
-    "title": "Singapore authorities warn of privacy, security risks from personal AI agents",
-    "summary": "\"AI agents can be very useful, but you cannot treat them like human assistants and give them the same broad access to your information and implicit trust,\" said the authorities.",
+    "title": "Chip Industry Week In Review",
+    "summary": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and",
+    "source": "Semiconductor Engineering",
+    "short": "SemiEng",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://semiengineering.com/chip-industry-week-in-review-163/"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "Building trust in agentic finance with AI-native security",
+    "summary": "AI agents can now move money. Ant International explores what businesses need to do to build trust and security around these tools.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/building-trust-agentic-finance-ainative-security"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises",
+    "summary": "India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/singapore/personal-ai-agents-assistant-advisory-muse-dots-hermes-grok-openclaw-6529836"
+    "url": "https://www.channelnewsasia.com/business/indias-coforge-joins-spacex-partner-network-deploy-grok-ai-tools-enterprises-6530541"
   },
   {
     "date": "2026-11-06",
-    "title": "Democratic Congress set to challenge Trump on energy, AI, and EVs",
-    "summary": "Democrats have won control of Congress in the US midterm elections, turning the second half of President Donald Trump's term into a lame-duck period. Trump still holds the veto, however, and overriding it requires a two-thirds vote in both chambers. Congress is therefore more likely to apply pressure through budgets, i",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20261106PD214/ev-data-center-cryptocurrency-incentives-tariffs-usa.html"
-  },
-  {
-    "date": "2026-11-06",
-    "title": "LX Semicon posts first quarterly operating loss since IPO",
-    "summary": "South Korean chip designer LX Semicon posted its first quarterly operating loss since going public in 2010, as weak demand for display chips and pricing pressure from electronics manufacturers weighed on earnings. The company also nominated a new CEO to lead its turnaround efforts.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261106VL212/lx-semicon-loss-semicon-display-revenue.html"
-  },
-  {
-    "date": "2026-11-06",
-    "title": "ServiceNow cuts jobs in US, UK, India in AI restructuring",
-    "summary": "In its latest filing, the company reported US$87 million in employee severance and related costs for the third quarter.",
+    "title": "Startup helps firms navigate the shift from Google to AI search",
+    "summary": "Canlah AI builds AI agents that optimize business visibility inside ChatGPT and Google AI Overviews.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/us-it-firm-servicenow-closes-7-8b-armis-deal"
+    "url": "https://www.techinasia.com/startup-helps-firms-navigate-shift-google-ai-search"
   },
   {
     "date": "2026-11-06",
-    "title": "Infinitesima Marks 25 Years with Focus on 3D Semiconductor Metrology",
-    "summary": "Infinitesima refreshes its brand as advanced packaging and three-dimensional chip architectures increase measurement requirements. The post Infinitesima Marks 25 Years with Focus on 3D Semiconductor Metrology appeared first on EE Times Asia .",
+    "title": "Beyond TOPS: AMD Ryzen™ AI Embedded X100 at the Edge",
+    "summary": "Agentic AI turns the edge from a simple inference pipeline into a coordinated loop of planning, tool use, and multi-agent collaboration. See why AMD Ryzen AI Embedded X100 with mimik mimOE outperforms TOPS-bound accelerators. The post Beyond TOPS: AMD Ryzen™ AI Embedded X100 at the Edge appeared first on EE Times Asia ",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.eetasia.com/infinitesima-marks-25-years-with-focus-on-3d-semiconductor-metrology/"
+    "url": "https://www.eetasia.com/embeddedblog-beyond-tops-amd-ryzen-ai-embedded-x100-at-the-edge/"
   },
   {
     "date": "2026-11-06",
-    "title": "TV panel makers hold prices firm in November despite fading demand, with supply cuts proving crucial",
-    "summary": "The global TV panel market entered a period of fragile equilibrium in November 2026 following the end of peak-season inventory replenishment. Although TV brands have become more cautious in procurement, panel manufacturers are adjusting production at advanced-generation LCD fabs to stabilize prices, with rising upstrea",
+    "title": "From AI That Answers to AI That Acts",
+    "summary": "Why physical AI requires a new definition of performance – one built around the whole system, not peak compute. The post From AI That Answers to AI That Acts appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/embeddedblog-from-ai-that-answers-to-ai-that-acts/"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "Tencent launches Hy4 model to boost visual reasoning, AI safety",
+    "summary": "Tencent has launched its next-generation artificial intelligence (AI) model, Hy4, adding visual understanding for the first time and limiting cybersecurity training data to reduce the risk of misuse in cyberattacks and harmful biological research.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261106PD206/tencent-training-cybersecurity-testing-data.html"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "SoftBank credit risk hits four-year high over AI debt fears",
+    "summary": "SoftBank has a reported US$64.6 billion investment in OpenAI.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/softbank-completes-final-10b-openai-investment"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "Qualcomm validates HBC memory architecture, targets AI250 samples in 1H27",
+    "summary": "Qualcomm has completed initial hardware validation of its high-bandwidth compute (HBC) memory architecture, which will form a key part of its next-generation Dragonfly data-center AI accelerators. The company aims to deliver a lower-cost, more energy-efficient alternative to sixth-generation high-bandwidth memory (HBM4",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261106PD216/qualcomm-hardware-ai-inference-technology-hbm4.html"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "China's NSIG sees silicon wafer prices rebound, but profitability remains elusive",
+    "summary": "National Silicon Industry Group (NSIG) expects to complete its expansion to 1.2 million 300mm silicon wafers per month by the end of 2026, positioning the Chinese semiconductor materials supplier to benefit from recovering wafer prices and growing demand for silicon-on-insulator (SOI) substrates used in silicon photoni",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261106PD232/tv-panel-demand-market-production-tv.html"
+    "url": "https://www.digitimes.com/news/a20261106VL208/nsig-silicon-wafer-300mm-expansion.html"
   },
   {
     "date": "2026-11-06",
-    "title": "Nvidia chips pile up in Hong Kong as China withholds import approval",
-    "summary": "About 600,000 of Nvidia's advanced AI chips are stored in Hong Kong awaiting shipment to China.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/east-asia/nvidia-chips-pile-up-hong-kong-china-withhold-import-approval-6527371"
-  },
-  {
-    "date": "2026-11-06",
-    "title": "Meta, OpenAI, Nvidia may face tougher US oversight",
-    "summary": "Democratic senators have also called for AI safety rules and export controls through the Senate Banking Committee.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/openai-updates-gpt-behavior-rules-core-values"
-  },
-  {
-    "date": "2026-11-06",
-    "title": "Analog Devices Completes Acquisition of Alif Semiconductor",
-    "summary": "Acquisition adds AI-native microcontrollers and fusion processors to ADI's sensing, processing and connectivity portfolio. The post Analog Devices Completes Acquisition of Alif Semiconductor appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.eetasia.com/analog-devices-completes-acquisition-of-alif-semiconductor/"
-  },
-  {
-    "date": "2026-11-06",
-    "title": "Vast Data secures $10b in customer commitments for AI platform",
-    "summary": "Vast said four of those customers each committed more than US$1 billion this year.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/coreweave-vast-data-ink-1-2b-deal-to-build-ai-cloud-infrastructure"
-  },
-  {
-    "date": "2026-11-06",
-    "title": "Taiwan stocks in steepest-ever fall, South Korea halts trading amid AI rout",
-    "summary": "Taiwan stocks in steepest-ever fall, South Korea halts trading amid AI rout",
+    "title": "China blocks SoftBank's $5.4bn deal for ABB robotics division",
+    "summary": "China blocks SoftBank's $5.4bn deal for ABB robotics division",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "AI"
+      "Automation"
     ],
-    "url": "https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout"
+    "url": "https://asia.nikkei.com/business/business-deals/china-blocks-softbank-s-5.4bn-deal-for-abb-robotics-division"
   },
   {
     "date": "2026-11-06",
-    "title": "Asia's AI supply chain and US data centers set to weather 'blue wave'",
-    "summary": "Asia's AI supply chain and US data centers set to weather 'blue wave'",
+    "title": "Taiwan's chipmakers shine brightest in living memory",
+    "summary": "Taiwan's chipmakers shine brightest in living memory",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "AI",
-      "Logistics"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/asia-s-ai-supply-chain-and-us-data-centers-set-to-weather-blue-wave"
-  },
-  {
-    "date": "2026-11-06",
-    "title": "India's IT lobby chief warns grads could struggle to find jobs due to AI",
-    "summary": "India's IT lobby chief warns grads could struggle to find jobs due to AI",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/editor-s-picks/interview/india-s-it-lobby-chief-warns-grads-could-struggle-to-find-jobs-due-to-ai"
-  },
-  {
-    "date": "2026-11-06",
-    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
-    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
-    "source": "KED Global",
-    "short": "KED",
-    "tags": [
-      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
+    "url": "https://asia.nikkei.com/techasia/taiwan-s-chipmakers-shine-brightest-in-living-memory"
   },
   {
     "date": "2026-11-05",

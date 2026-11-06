@@ -1,40 +1,40 @@
 {
   "date": "2026-11-06",
-  "count": 14,
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "KED",
     "NikkeiAsia",
+    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-11-06-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Singapore authorities warn of privacy, security risks from personal AI agents",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/personal-ai-agents-assistant-advisory-muse-dots-hermes-grok-openclaw-6529836"
+      "title": "Chip Industry Week In Review",
+      "source": "SemiEng",
+      "url": "https://semiengineering.com/chip-industry-week-in-review-163/"
     },
     {
-      "title": "Democratic Congress set to challenge Trump on energy, AI, and EVs",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261106PD214/ev-data-center-cryptocurrency-incentives-tariffs-usa.html"
-    },
-    {
-      "title": "LX Semicon posts first quarterly operating loss since IPO",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261106VL212/lx-semicon-loss-semicon-display-revenue.html"
-    },
-    {
-      "title": "ServiceNow cuts jobs in US, UK, India in AI restructuring",
+      "title": "Building trust in agentic finance with AI-native security",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/us-it-firm-servicenow-closes-7-8b-armis-deal"
+      "url": "https://www.techinasia.com/building-trust-agentic-finance-ainative-security"
     },
     {
-      "title": "Infinitesima Marks 25 Years with Focus on 3D Semiconductor Metrology",
+      "title": "India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/indias-coforge-joins-spacex-partner-network-deploy-grok-ai-tools-enterprises-6530541"
+    },
+    {
+      "title": "Startup helps firms navigate the shift from Google to AI search",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/startup-helps-firms-navigate-shift-google-ai-search"
+    },
+    {
+      "title": "Beyond TOPS: AMD Ryzen\u2122 AI Embedded X100 at the Edge",
       "source": "EETAsia",
-      "url": "https://www.eetasia.com/infinitesima-marks-25-years-with-focus-on-3d-semiconductor-metrology/"
+      "url": "https://www.eetasia.com/embeddedblog-beyond-tops-amd-ryzen-ai-embedded-x100-at-the-edge/"
     }
   ],
   "source_stats": [
@@ -53,7 +53,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -158,8 +158,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 65,
-      "relevant": 51,
+      "fetched": 68,
+      "relevant": 53,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -170,7 +170,7 @@
       "fetched": 50,
       "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -179,7 +179,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -213,9 +213,9 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     }
   ]
