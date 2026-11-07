@@ -1,39 +1,37 @@
 {
   "date": "2026-11-07",
-  "count": 12,
+  "count": 9,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-07-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Commentary: Is the AI stock bubble finally bursting?",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/ai-stock-bubble-finally-bursting-wall-street-selloff-6530581"
+      "title": "OpenAI taps AI security startup Hacktron to test systems",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/openai-deepens-servicenow-ties-add-workflows-chatgpt"
     },
     {
-      "title": "Google acquires Wyoming data center site from AI infrastructure firm Crusoe",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/google-acquires-wyoming-data-center-site-ai-infrastructure-firm-crusoe-6532241"
+      "title": "TSMC weighs making memory chips at Nvidia\u2019s request",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/tsmc-explores-new-ai-chip-packaging-with-kinsus"
     },
     {
-      "title": "Interview: Infineon's first RISC-V automotive MCU is built for a decade-plus production run",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261105PD206/risc-v-infineon-production-automotive-mcu-mcu.html"
+      "title": "Google acquires Wyoming data center site from AI firm Crusoe",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/google-unveils-genie-4-realtime-interactive-simulations"
     },
     {
-      "title": "DIGITIMES Insight: Cloud LLMs drive sharp increase in KV cache demand; establishes three key directions for SSD development",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261104PD239/ssd-demand-development-llm-data-center.html"
+      "title": "AMD Brings the Power of Agentic AI to Embedded Design and Development Cycle",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/embeddedblog-amd-brings-the-power-of-agentic-ai-to-embedded-design-and-development-cycle/"
     },
     {
-      "title": "Analysis: Britain's semiconductor paradox\u2014world-class innovation, but who captures the value?",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261106VL200/uk-manufacturing-design-materials-commercial.html"
+      "title": "Bosch to Establish Dedicated Semiconductor Division in 2028",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/bosch-to-establish-dedicated-semiconductor-division-in-2028/"
     }
   ],
   "source_stats": [
@@ -50,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -169,7 +167,7 @@
       "fetched": 50,
       "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
