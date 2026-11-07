@@ -1,4 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-06T08:03:05+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 06, 2026</title><link href="https://asiatechfeed.com/2026/11/06/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 06, 2026" /><published>2026-11-06T08:00:53+00:00</published><updated>2026-11-06T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/11/06/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/06/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-07T00:12:47+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 07, 2026</title><link href="https://asiatechfeed.com/2026/11/07/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 07, 2026" /><published>2026-11-07T00:11:06+00:00</published><updated>2026-11-07T00:11:06+00:00</updated><id>https://asiatechfeed.com/2026/11/07/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/07/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: Is the AI stock bubble finally bursting?</span></td>
+  <td class="col-summary">Any reasonable person can see the hallmarks of an unsustainable party in markets, says the Financial Times’ Katie Martin.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/ai-stock-bubble-finally-bursting-wall-street-selloff-6530581" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Google acquires Wyoming data center site from AI infrastructure firm Crusoe</span></td>
+  <td class="col-summary">Google acquires Wyoming data center site from AI infrastructure firm Crusoe</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/google-acquires-wyoming-data-center-site-ai-infrastructure-firm-crusoe-6532241" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Interview: Infineon's first RISC-V automotive MCU is built for a decade-plus production run</span></td>
+  <td class="col-summary">Infineon Technologies is betting on RISC-V scalability with AURIX RC1, its first RISC-V-based microcontroller (MCU) platform, unveiled this week. A single instruction set lets the platform span everything from very small controllers to real-time vehicle computers and robotic motion controllers, so RC1 can serve automot</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261105PD206/risc-v-infineon-production-automotive-mcu-mcu.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">DIGITIMES Insight: Cloud LLMs drive sharp increase in KV cache demand; establishes three key directions for SSD development</span></td>
+  <td class="col-summary">DIGITIMES observes that as large language models (LLMs) and agentic AI development become increasingly widespread, it is driving not only significant growth in data center CPU demand but also a sharp surge in key-value cache (KV cache) storage requirements. As DRAM and HBM capacity face severe supply shortages, demand </td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261104PD239/ssd-demand-development-llm-data-center.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Analysis: Britain's semiconductor paradox—world-class innovation, but who captures the value?</span></td>
+  <td class="col-summary">As artificial intelligence reshapes global chipmaking, the UK's strength in design, materials and research is being tested by a longstanding challenge: turning technological breakthroughs into scalable commercial products.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261106VL200/uk-manufacturing-design-materials-commercial.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Streamlined Development Platforms Are Now Critical to Edge AI Deployment</span></td>
+  <td class="col-summary">NXP, TI, Renesas, Microchip, and Altera are reshaping edge AI development — agentic frameworks, free compilers, hardware-software co-design, and spatial FPGA mapping. A vendor-by-vendor breakdown of how silicon makers are removing bottlenecks. The post Streamlined Development Platforms Are Now Critical to Edge AI Deplo</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddedblog-streamlined-development-platforms-are-now-critical-to-edge-ai-deployment/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Building More with Less: How to Navigate the Memory Chip Shortage</span></td>
+  <td class="col-summary">50–70% of memory chips this year go to data centers. Supermicro’s Michael McNerney explains how CXL memory expansion lets operators reclaim DRAM from decommissioned servers — adding capacity, stretching scarce HBM, and breaking the full-system refresh cycle. The post Building More with Less: How to Navigate the Memory </td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddedblog-building-more-with-less-how-to-navigate-the-memory-chip-shortage/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Enabling Physical AI Agents with Lemonade</span></td>
+  <td class="col-summary">Run a vision-language agent that controls a simulated 7-DOF Panda arm — entirely on-device. RAI + Lemonade + O3DE + ROS 2 Jazzy on Ryzen AI Max+ let you pick, place, and sort objects via natural language, no fine-tuning, no cloud. The post Enabling Physical AI Agents with Lemonade appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddedblog-enabling-physical-ai-agents-with-lemonade/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Iren delays Microsoft AI deliveries, plans $15b spending</span></td>
+  <td class="col-summary">It pushed the timeline for its more than US$4 billion annualized run-rate revenue target from year-end to January.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/microsoft-tightens-oversight-ai-cloud-partner-projects" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Microsoft tightens oversight of AI cloud partner projects</span></td>
+  <td class="col-summary">Shares of the companies fell in afternoon trading.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/microsofts-aienabled-hyderabad-cloud-region-live" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Chinese video startup Sand AI raises $200m</span></td>
+  <td class="col-summary">Sand AI said the round brings its total funding over the past 10 months to US$300 million.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/malaysias-data-center-hub-tightens-standards-over-water-concerns" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Taiwan, South Korea, Japan stock markets hit hard by AI sell-off</span></td>
+  <td class="col-summary">Taiwan, South Korea, Japan stock markets hit hard by AI sell-off</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/taiwan-south-korea-japan-stock-markets-hit-hard-by-ai-sell-off" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Commentary: Is the AI stock bubble finally bursting? Any reasonable person can see the hallmarks of an unsustainable party in markets, says the Financial Times’ Katie Martin. AI Read 2 CNA Google acquires Wyoming data center site from AI infrastructure firm Crusoe Google acquires Wyoming data center site from AI infrastructure firm Crusoe AI Read 3 DigiTimes Interview: Infineon's first RISC-V automotive MCU is built for a decade-plus production run Infineon Technologies is betting on RISC-V scalability with AURIX RC1, its first RISC-V-based microcontroller (MCU) platform, unveiled this week. A single instruction set lets the platform span everything from very small controllers to real-time vehicle computers and robotic motion controllers, so RC1 can serve automot Automation Read 4 DigiTimes DIGITIMES Insight: Cloud LLMs drive sharp increase in KV cache demand; establishes three key directions for SSD development DIGITIMES observes that as large language models (LLMs) and agentic AI development become increasingly widespread, it is driving not only significant growth in data center CPU demand but also a sharp surge in key-value cache (KV cache) storage requirements. As DRAM and HBM capacity face severe supply shortages, demand AI Read 5 DigiTimes Analysis: Britain's semiconductor paradox—world-class innovation, but who captures the value? As artificial intelligence reshapes global chipmaking, the UK's strength in design, materials and research is being tested by a longstanding challenge: turning technological breakthroughs into scalable commercial products. SemiconductorAI Read 6 EETAsia Streamlined Development Platforms Are Now Critical to Edge AI Deployment NXP, TI, Renesas, Microchip, and Altera are reshaping edge AI development — agentic frameworks, free compilers, hardware-software co-design, and spatial FPGA mapping. A vendor-by-vendor breakdown of how silicon makers are removing bottlenecks. The post Streamlined Development Platforms Are Now Critical to Edge AI Deplo AISemiconductor Read 7 EETAsia Building More with Less: How to Navigate the Memory Chip Shortage 50–70% of memory chips this year go to data centers. Supermicro’s Michael McNerney explains how CXL memory expansion lets operators reclaim DRAM from decommissioned servers — adding capacity, stretching scarce HBM, and breaking the full-system refresh cycle. The post Building More with Less: How to Navigate the Memory Semiconductor Read 8 EETAsia Enabling Physical AI Agents with Lemonade Run a vision-language agent that controls a simulated 7-DOF Panda arm — entirely on-device. RAI + Lemonade + O3DE + ROS 2 Jazzy on Ryzen AI Max+ let you pick, place, and sort objects via natural language, no fine-tuning, no cloud. The post Enabling Physical AI Agents with Lemonade appeared first on EE Times Asia . AI Read 9 TechAsia Iren delays Microsoft AI deliveries, plans $15b spending It pushed the timeline for its more than US$4 billion annualized run-rate revenue target from year-end to January. AI Read 10 TechAsia Microsoft tightens oversight of AI cloud partner projects Shares of the companies fell in afternoon trading. AI Read 11 TechAsia Chinese video startup Sand AI raises $200m Sand AI said the round brings its total funding over the past 10 months to US$300 million. AI Read 12 NikkeiAsia Taiwan, South Korea, Japan stock markets hit hard by AI sell-off Taiwan, South Korea, Japan stock markets hit hard by AI sell-off AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 06, 2026</title><link href="https://asiatechfeed.com/2026/11/06/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 06, 2026" /><published>2026-11-06T08:00:53+00:00</published><updated>2026-11-06T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/11/06/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/06/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -586,65 +695,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/israeli-cybersecurity-firm-dream-raises-260m-at-3b-valuation" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Capgemini raises 2026 guidance as AI push brings work to IT consultants Capgemini raises 2026 guidance as AI push brings work to IT consultants AI Read 2 CNA Most firms now use AI in HR processes, with human sign-off required 85% of the time: Survey Large organisations are more likely than SMEs to use AI in HR functions, but on the whole employers still value human judgment, says the Singapore National Employers Federation. AI Read 3 DigiTimes Nvidia secures substrate capacity as FCBGA market targets US$27.3 billion by 2030 Nvidia has begun securing advanced substrate capacity in Taiwan, Japan and South Korea, using capacity reservation agreements and upfront payments to support supplier expansion as next-generation AI accelerators ramp up. The move comes as the global packaging substrate market is projected to grow from US$14.9 billion i AI Read 4 DigiTimes Jinpao targets power cabinets, BBUs in AI-related expansion Thailand-based precision sheet-metal manufacturer Jinpao Precision has entered the supply chain of a leading Thailand-based power-management company on the strength of its resilient manufacturing capabilities and highly adaptable product layout strategy. The company is accelerating its expansion in Thailand to capture AILogistics Read 5 TechAsia Tencent Cloud, Morningstar plan AI wealth tools for Asia The first products are planned for Hong Kong, before expanding to other Southeast Asian markets. AI Read 6 CNA Spotify targets 2027 launch for AI remix service, FT reports Spotify targets 2027 launch for AI remix service, FT reports AI Read 7 DigiTimes Intel tells Taiwan's chip suppliers to build service capacity early Intel told Taiwanese chip equipment and materials suppliers that they need spare parts and service capability in place early if they want its business. The company said this at a supplier forum held by industry group SEMI in San Francisco ahead of the SEMICON West trade show. Semiconductor Read 8 TechAsia Mistral opens Large 4 weights for enterprise AI deployment The weights are available on Hugging Face for self-hosting, and the model is also accessible through Mistral’s API. AI Read 9 TechAsia A16z leads $17m seed round for US AI design startup Dream Dream said 10 projects in Texas and California are using its software. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - October 29, 2026</title><link href="https://asiatechfeed.com/2026/10/29/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - October 29, 2026" /><published>2026-10-29T08:00:53+00:00</published><updated>2026-10-29T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/10/29/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/10/29/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Korean chipmaker FuriosaAI raises $620m at $2.9b valuation</span></td>
-  <td class="col-summary">FuriosaAI said RNGD outperformed Nvidia’s RTX Pro 6000 in its own efficiency benchmark.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/korean-chipmaker-furiosa-expands-ai-push-with-broadcom" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Singtel’s NCS launches center to take AI beyond pilots</span></td>
-  <td class="col-summary">NCS plans to grow its forward-deployed AI engineer pool from 100 to over 300 within two years.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/singapore-tech-firm-ncs-expands-enterprise-ai-suite" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">KLA: wafer fab equipment market exceeding US$200B in 2027</span></td>
-  <td class="col-summary">KLA expects global wafer fabrication equipment (WFE) spending to exceed US$200 billion in 2027, as semiconductor manufacturers accelerate investments in advanced logic, DRAM and high-bandwidth memory (HBM), according to executives on the company's October 28 earnings call. The projection marks an improvement over its o</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261029VL214/kla-equipment-wafer-market-2027.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">NXP wins Volkswagen role in software-defined vehicle architecture</span></td>
-  <td class="col-summary">Volkswagen Group and NXP Semiconductors have agreed on a strategic partnership under which NXP's S32K5 microcontrollers (MCUs) are intended to serve as a building block of the carmaker's future software-defined vehicle architecture.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261028VL224/volkswagen-vehicle-nxp-partnership-rivian.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">China's auto supply chain shifts from price wars to value competition</span></td>
-  <td class="col-summary">China's cooling auto price war is creating an opportunity for the automotive supply chain to upgrade, as regulators tighten oversight of the new energy vehicle (NEV) industry and curb malicious price cuts. Automakers are being pushed to compete through technological improvements and service quality rather than aggressi</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261029PD204/competition-price-supply-chain-price-war-cooling.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Samsung Q3 net profit hits $56b on AI chip demand</span></td>
-  <td class="col-summary">The semiconductor division generated 106.5 trillion won (US$79.9 billion) in operating profit.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/samsung-q3-profit-9x-ai-chip-demand" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Korean chipmaker FuriosaAI raises $620m at $2.9b valuation FuriosaAI said RNGD outperformed Nvidia’s RTX Pro 6000 in its own efficiency benchmark. Semiconductor Read 2 TechAsia Singtel’s NCS launches center to take AI beyond pilots NCS plans to grow its forward-deployed AI engineer pool from 100 to over 300 within two years. AI Read 3 DigiTimes KLA: wafer fab equipment market exceeding US$200B in 2027 KLA expects global wafer fabrication equipment (WFE) spending to exceed US$200 billion in 2027, as semiconductor manufacturers accelerate investments in advanced logic, DRAM and high-bandwidth memory (HBM), according to executives on the company's October 28 earnings call. The projection marks an improvement over its o Semiconductor Read 4 DigiTimes NXP wins Volkswagen role in software-defined vehicle architecture Volkswagen Group and NXP Semiconductors have agreed on a strategic partnership under which NXP's S32K5 microcontrollers (MCUs) are intended to serve as a building block of the carmaker's future software-defined vehicle architecture. Semiconductor Read 5 DigiTimes China's auto supply chain shifts from price wars to value competition China's cooling auto price war is creating an opportunity for the automotive supply chain to upgrade, as regulators tighten oversight of the new energy vehicle (NEV) industry and curb malicious price cuts. Automakers are being pushed to compete through technological improvements and service quality rather than aggressi Logistics Read 6 TechAsia Samsung Q3 net profit hits $56b on AI chip demand The semiconductor division generated 106.5 trillion won (US$79.9 billion) in operating profit. SemiconductorAI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Capgemini raises 2026 guidance as AI push brings work to IT consultants Capgemini raises 2026 guidance as AI push brings work to IT consultants AI Read 2 CNA Most firms now use AI in HR processes, with human sign-off required 85% of the time: Survey Large organisations are more likely than SMEs to use AI in HR functions, but on the whole employers still value human judgment, says the Singapore National Employers Federation. AI Read 3 DigiTimes Nvidia secures substrate capacity as FCBGA market targets US$27.3 billion by 2030 Nvidia has begun securing advanced substrate capacity in Taiwan, Japan and South Korea, using capacity reservation agreements and upfront payments to support supplier expansion as next-generation AI accelerators ramp up. The move comes as the global packaging substrate market is projected to grow from US$14.9 billion i AI Read 4 DigiTimes Jinpao targets power cabinets, BBUs in AI-related expansion Thailand-based precision sheet-metal manufacturer Jinpao Precision has entered the supply chain of a leading Thailand-based power-management company on the strength of its resilient manufacturing capabilities and highly adaptable product layout strategy. The company is accelerating its expansion in Thailand to capture AILogistics Read 5 TechAsia Tencent Cloud, Morningstar plan AI wealth tools for Asia The first products are planned for Hong Kong, before expanding to other Southeast Asian markets. AI Read 6 CNA Spotify targets 2027 launch for AI remix service, FT reports Spotify targets 2027 launch for AI remix service, FT reports AI Read 7 DigiTimes Intel tells Taiwan's chip suppliers to build service capacity early Intel told Taiwanese chip equipment and materials suppliers that they need spare parts and service capability in place early if they want its business. The company said this at a supplier forum held by industry group SEMI in San Francisco ahead of the SEMICON West trade show. Semiconductor Read 8 TechAsia Mistral opens Large 4 weights for enterprise AI deployment The weights are available on Hugging Face for self-hosting, and the model is also accessible through Mistral’s API. AI Read 9 TechAsia A16z leads $17m seed round for US AI design startup Dream Dream said 10 projects in Texas and California are using its software. AI Read]]></summary></entry></feed>
