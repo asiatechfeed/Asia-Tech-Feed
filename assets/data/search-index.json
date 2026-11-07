@@ -1,107 +1,59 @@
 [
   {
     "date": "2026-11-07",
-    "title": "OpenAI taps AI security startup Hacktron to test systems",
-    "summary": "Hacktron previously raised US$2.9 million to build an AI-powered security testing platform.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/openai-deepens-servicenow-ties-add-workflows-chatgpt"
-  },
-  {
-    "date": "2026-11-07",
-    "title": "TSMC weighs making memory chips at Nvidia’s request",
-    "summary": "In 3D DRAM, memory cells are stacked vertically rather than in a single horizontal layer.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/tsmc-explores-new-ai-chip-packaging-with-kinsus"
-  },
-  {
-    "date": "2026-11-07",
-    "title": "Google acquires Wyoming data center site from AI firm Crusoe",
-    "summary": "Crusoe handled the project's site selection, government approvals, and power planning.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/google-unveils-genie-4-realtime-interactive-simulations"
-  },
-  {
-    "date": "2026-11-07",
-    "title": "AMD Brings the Power of Agentic AI to Embedded Design and Development Cycle",
-    "summary": "AMD Ross is a domain-grounded agentic AI assistant for embedded development — spanning architecture, HLS, debug, PCB review, and deployment. With MCP servers, a validated AMD Knowledge Base, and expert agent skills, it turns engineering know-how into reusable, auditable workflows. The post AMD Brings the Power of Agent",
+    "title": "AMD AI NIC™ Technology Driving AI-Ready Ethernet",
+    "summary": "AI workloads outgrew RoCEv2. AMD’s fully programmable AI NIC lets teams adopt UEC, MRC, and MetaRoCE on existing hardware—no wait for new silicon. From Pollara 400 to Vulcano 800, one software investment carries across generations of AI Ethernet transports. The post AMD AI NIC™ Technology Driving AI-Ready Ethernet appe",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
-      "AI",
-      "Electronics"
+      "AI"
     ],
-    "url": "https://www.eetasia.com/embeddedblog-amd-brings-the-power-of-agentic-ai-to-embedded-design-and-development-cycle/"
+    "url": "https://www.eetasia.com/embeddedblog-amd-ai-nic-technology-driving-ai-ready-ethernet/"
   },
   {
     "date": "2026-11-07",
-    "title": "Bosch to Establish Dedicated Semiconductor Division in 2028",
-    "summary": "New division will target growth in automotive, robotics and AI infrastructure, with semiconductor sales targeted at €5 billion by 2030. The post Bosch to Establish Dedicated Semiconductor Division in 2028 appeared first on EE Times Asia .",
+    "title": "Learning to Fail: Failure Fidelity and Training Stability for RL inside World Models",
+    "summary": "A world model used as an RL environment gets exploited if it draws failures as successes. On RoboTwin adjust_bottle, failure-data fine-tuning cuts BWM fake success from 82.5% to 26%, and a corrected PPO recipe makes in-WM gains reproducible across all five seeds (+9.7 pp mean). Closed-loop replay exposes why action-for",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
-      "Semiconductor",
-      "AI",
       "Automation"
     ],
-    "url": "https://www.eetasia.com/bosch-to-establish-dedicated-semiconductor-division-in-2028/"
+    "url": "https://www.eetasia.com/embeddedblog-learning-to-fail-failure-fidelity-and-training-stability-for-rl-inside-world-models/"
   },
   {
     "date": "2026-11-07",
-    "title": "AMD Sampling Versal AI Core Adaptive SoC in Enhanced Space-Grade Package for the Most Demanding Missions",
-    "summary": "AMD samples the Versal AI Core XQRVC1902 in an enhanced space-grade lidless organic package — built for 15-year missions and testing to MIL-PRF-38535 Class Y. Pin-compatible with VC1902, it brings adaptive AI compute to GEO, cislunar, and deep-space payloads without sacrificing reliability. The post AMD Sampling Versal",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/embeddedblog-amd-sampling-versal-ai-core-adaptive-soc-in-enhanced-space-grade-package-for-the-most-demanding-missions/"
-  },
-  {
-    "date": "2026-11-07",
-    "title": "Commentary: US governors target AI data centers as Taiwan firms await Nvidia outlook",
-    "summary": "Following the 2026 US gubernatorial elections, four states that host major AI data centers—Texas, Ohio, Georgia, and Pennsylvania—could impose tighter controls on new projects after Democratic candidates won or secured reelection, according to Bloomberg . Taiwan suppliers are watching closely as some projects could be ",
+    "title": "Democrats constrain Trump as scarce AI capacity benefits CSPs",
+    "summary": "Democrats swept the US midterm elections, reshaping the global technology and industrial landscape. Their victories in key gubernatorial races, including in Texas and Georgia, have raised concerns about AI infrastructure expansion after some winning candidates explicitly pledged to pause data-center development.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261106PD241/usa-data-center-ai-outlook-2026.html"
+    "url": "https://www.digitimes.com/news/a20261106PD243/capacity-industrial-policy-technology-expansion.html"
   },
   {
     "date": "2026-11-07",
-    "title": "Moonshot AI reportedly seeking access to Nvidia GPUs through European neoclouds",
-    "summary": "Moonshot AI, a leading Chinese model developer, is reportedly seeking remote access to Nvidia chips held in Europe. With sales of advanced US chips to China limited, the move would exploit a loophole in American law that currently does not restrict cloud service providers (CSPs) from selling compute to Chinese companie",
+    "title": "Taiwan Mobile clears Systex tender offer, securing 61.02% ownership",
+    "summary": "Taiwan Mobile said its wholly owned subsidiary, Taiwan Cellular, had satisfied all conditions for its tender offer for Systex Corporation shares, clearing the way for the telecom operator to raise its stake in the information-services provider to 61.02%. The announcement was made on November 6 as the companies moved to",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI",
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261106VL219/moonshot-nvidia-chips-blackwell-data.html"
+    "url": "https://www.digitimes.com/news/a20261106PD245/twm-systex-taiwan-subsidiary-technology.html"
   },
   {
     "date": "2026-11-07",
-    "title": "YMTC targets up to 70% Chinese tools for new NAND fab",
-    "summary": "China's Yangtze Memory Technologies (YMTC) plans to source as much as 70% of the manufacturing equipment for its fourth NAND flash factory from domestic suppliers, a substantial increase over the share at its existing operations as the company expands into advanced memory for AI and data centers.",
+    "title": "Wistron ITS reports record third-quarter profit as AI and semiconductor focus accelerates",
+    "summary": "Wistron ITS reported record gross profit, operating profit, net income, and earnings per share in the third quarter of 2026, as stronger revenue and improved operating efficiency supported continued expansion in AI and semiconductor services. Consolidated revenue reached NT$3.752 billion (approx. US$114.1 million), up ",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI",
-      "Semiconductor"
+      "Semiconductor",
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261106VL217/ymtc-nand-equipment-manufacturing.html"
+    "url": "https://www.digitimes.com/news/a20261106PD234/wistron-its-revenue-profit-growth.html"
   },
   {
     "date": "2026-11-06",
