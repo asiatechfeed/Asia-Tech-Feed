@@ -1,37 +1,36 @@
 {
   "date": "2026-11-07",
-  "count": 9,
+  "count": 5,
   "sources": [
     "DigiTimes",
-    "EETAsia",
-    "TechAsia"
+    "EETAsia"
   ],
   "post_file": "2026-11-07-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "OpenAI taps AI security startup Hacktron to test systems",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/openai-deepens-servicenow-ties-add-workflows-chatgpt"
-    },
-    {
-      "title": "TSMC weighs making memory chips at Nvidia\u2019s request",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/tsmc-explores-new-ai-chip-packaging-with-kinsus"
-    },
-    {
-      "title": "Google acquires Wyoming data center site from AI firm Crusoe",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/google-unveils-genie-4-realtime-interactive-simulations"
-    },
-    {
-      "title": "AMD Brings the Power of Agentic AI to Embedded Design and Development Cycle",
+      "title": "AMD AI NIC\u2122 Technology Driving AI-Ready Ethernet",
       "source": "EETAsia",
-      "url": "https://www.eetasia.com/embeddedblog-amd-brings-the-power-of-agentic-ai-to-embedded-design-and-development-cycle/"
+      "url": "https://www.eetasia.com/embeddedblog-amd-ai-nic-technology-driving-ai-ready-ethernet/"
     },
     {
-      "title": "Bosch to Establish Dedicated Semiconductor Division in 2028",
+      "title": "Learning to Fail: Failure Fidelity and Training Stability for RL inside World Models",
       "source": "EETAsia",
-      "url": "https://www.eetasia.com/bosch-to-establish-dedicated-semiconductor-division-in-2028/"
+      "url": "https://www.eetasia.com/embeddedblog-learning-to-fail-failure-fidelity-and-training-stability-for-rl-inside-world-models/"
+    },
+    {
+      "title": "Democrats constrain Trump as scarce AI capacity benefits CSPs",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261106PD243/capacity-industrial-policy-technology-expansion.html"
+    },
+    {
+      "title": "Taiwan Mobile clears Systex tender offer, securing 61.02% ownership",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261106PD245/twm-systex-taiwan-subsidiary-technology.html"
+    },
+    {
+      "title": "Wistron ITS reports record third-quarter profit as AI and semiconductor focus accelerates",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261106PD234/wistron-its-revenue-profit-growth.html"
     }
   ],
   "source_stats": [
@@ -149,7 +148,7 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -165,7 +164,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 10,
+      "relevant": 9,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -194,7 +193,7 @@
       "fetched": 36,
       "relevant": 15,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
