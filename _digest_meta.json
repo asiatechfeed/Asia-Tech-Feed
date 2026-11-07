@@ -1,40 +1,39 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
     "NikkeiAsia",
-    "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-11-06-asia-tech-news-digest.md",
+  "post_file": "2026-11-07-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Chip Industry Week In Review",
-      "source": "SemiEng",
-      "url": "https://semiengineering.com/chip-industry-week-in-review-163/"
-    },
-    {
-      "title": "Building trust in agentic finance with AI-native security",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/building-trust-agentic-finance-ainative-security"
-    },
-    {
-      "title": "India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises",
+      "title": "Commentary: Is the AI stock bubble finally bursting?",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/indias-coforge-joins-spacex-partner-network-deploy-grok-ai-tools-enterprises-6530541"
+      "url": "https://www.channelnewsasia.com/commentary/ai-stock-bubble-finally-bursting-wall-street-selloff-6530581"
     },
     {
-      "title": "Startup helps firms navigate the shift from Google to AI search",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/startup-helps-firms-navigate-shift-google-ai-search"
+      "title": "Google acquires Wyoming data center site from AI infrastructure firm Crusoe",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/google-acquires-wyoming-data-center-site-ai-infrastructure-firm-crusoe-6532241"
     },
     {
-      "title": "Beyond TOPS: AMD Ryzen\u2122 AI Embedded X100 at the Edge",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/embeddedblog-beyond-tops-amd-ryzen-ai-embedded-x100-at-the-edge/"
+      "title": "Interview: Infineon's first RISC-V automotive MCU is built for a decade-plus production run",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261105PD206/risc-v-infineon-production-automotive-mcu-mcu.html"
+    },
+    {
+      "title": "DIGITIMES Insight: Cloud LLMs drive sharp increase in KV cache demand; establishes three key directions for SSD development",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261104PD239/ssd-demand-development-llm-data-center.html"
+    },
+    {
+      "title": "Analysis: Britain's semiconductor paradox\u2014world-class innovation, but who captures the value?",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261106VL200/uk-manufacturing-design-materials-commercial.html"
     }
   ],
   "source_stats": [
@@ -53,7 +52,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -152,14 +151,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 68,
-      "relevant": 53,
+      "fetched": 35,
+      "relevant": 28,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 11,
+      "relevant": 10,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -195,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -215,7 +214,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     }
   ]
