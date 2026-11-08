@@ -1,31 +1,25 @@
 {
   "date": "2026-11-08",
-  "count": 4,
+  "count": 3,
   "sources": [
-    "DigiTimes",
-    "NikkeiAsia"
+    "DigiTimes"
   ],
   "post_file": "2026-11-08-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Samsung reportedly sells 300 chipmaking tools to DB Group",
+      "title": "China's chip equipment makers ride record AI orders into 2027, but new challenges lie ahead",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261106VL218/samsung-equipment-manufacturing-production-capacity-production.html"
+      "url": "https://www.digitimes.com/news/a20261106VL211/china-ic-manufacturing-equipment-expansion-investment-2027.html"
     },
     {
-      "title": "US election backlash reshapes AI data center expansion strategies",
+      "title": "Samsung speeds P5 Fab 2 construction as memory chip shortage looks to last through 2028",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261106VL213/data-center-infrastructure-nvidia-openai-data.html"
+      "url": "https://www.digitimes.com/news/a20261105VL231/samsung-2028-2027-equipment-production.html"
     },
     {
-      "title": "Huawei, Alibaba among 20 Chinese tech firms confronting AI agent security, algorithmic exploitation",
+      "title": "Taiwan-UK tech ties could support Europe's chip autonomy drive",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261106PD230/2026-internet-security-huawei-alibaba.html"
-    },
-    {
-      "title": "What the Democratic sweep means for Trump's tariffs and AI",
-      "source": "NikkeiAsia",
-      "url": "https://asia.nikkei.com/video/what-the-democratic-sweep-means-for-trump-s-tariffs-and-ai"
+      "url": "https://www.digitimes.com/news/a20261106PD220/technology-uk-taiwan-industrial-development.html"
     }
   ],
   "source_stats": [
@@ -159,9 +153,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
