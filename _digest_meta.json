@@ -1,37 +1,31 @@
 {
   "date": "2026-11-08",
-  "count": 6,
+  "count": 4,
   "sources": [
-    "CNA",
     "DigiTimes",
     "NikkeiAsia"
   ],
   "post_file": "2026-11-08-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "3 ways to keep your relationship with AI in check by setting healthy boundaries",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/living/ai-chatbots-artificial-intimacy-6459366"
-    },
-    {
-      "title": "China's 'potato capital' cultivates new crop of data centres as AI boom takes root",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/china-ai-data-centre-boom-inner-mongolia-6526706"
-    },
-    {
-      "title": "WT Microelectronics Chairman says AI growth holds as auto, industrial markets recover",
+      "title": "Samsung reportedly sells 300 chipmaking tools to DB Group",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261106PD236/wt-growth-industrial-revenue-2026.html"
+      "url": "https://www.digitimes.com/news/a20261106VL218/samsung-equipment-manufacturing-production-capacity-production.html"
     },
     {
-      "title": "Global AI memory crunch drives Taiwan to launch advanced memory initiative",
+      "title": "US election backlash reshapes AI data center expansion strategies",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261106PD231/memory-chips-demand-taiwan-government-2027.html"
+      "url": "https://www.digitimes.com/news/a20261106VL213/data-center-infrastructure-nvidia-openai-data.html"
     },
     {
-      "title": "Solidigm eyes US NAND fab as funding questions linger",
+      "title": "Huawei, Alibaba among 20 Chinese tech firms confronting AI agent security, algorithmic exploitation",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261106PD229/solidigm-fab-nand-flash-nand-funding.html"
+      "url": "https://www.digitimes.com/news/a20261106PD230/2026-internet-security-huawei-alibaba.html"
+    },
+    {
+      "title": "What the Democratic sweep means for Trump's tariffs and AI",
+      "source": "NikkeiAsia",
+      "url": "https://asia.nikkei.com/video/what-the-democratic-sweep-means-for-trump-s-tariffs-and-ai"
     }
   ],
   "source_stats": [
@@ -48,9 +42,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -192,7 +186,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 11,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
