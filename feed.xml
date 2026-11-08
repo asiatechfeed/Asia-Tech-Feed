@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-08T00:52:55+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 08, 2026</title><link href="https://asiatechfeed.com/2026/11/08/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 08, 2026" /><published>2026-11-08T00:52:26+00:00</published><updated>2026-11-08T00:52:26+00:00</updated><id>https://asiatechfeed.com/2026/11/08/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/08/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-08T05:43:03+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 08, 2026</title><link href="https://asiatechfeed.com/2026/11/08/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 08, 2026" /><published>2026-11-08T05:42:27+00:00</published><updated>2026-11-08T05:42:27+00:00</updated><id>https://asiatechfeed.com/2026/11/08/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/08/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,54 +12,38 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">3 ways to keep your relationship with AI in check by setting healthy boundaries</span></td>
-  <td class="col-summary">Our cosy relationship with AI chatbots can lead to “artificial intimacy,” says one expert.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/living/ai-chatbots-artificial-intimacy-6459366" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Samsung reportedly sells 300 chipmaking tools to DB Group</span></td>
+  <td class="col-summary">Samsung Electronics has reportedly agreed to sell approximately 300 semiconductor manufacturing tools from its shuttered 8-inch S7 foundry in Giheung to South Korea's DB Group, as DB HiTek faces tight production capacity and Samsung prepares to withdraw from the 8-inch foundry business.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261106VL218/samsung-equipment-manufacturing-production-capacity-production.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">China's 'potato capital' cultivates new crop of data centres as AI boom takes root</span></td>
-  <td class="col-summary">On the windswept plains of China's Inner Mongolia, potato farms are making way for sprawling AI data centres. CNA visited Ulanqab, where the boom is transforming livelihoods and raising questions about water sustainability in a drought-prone region.</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">US election backlash reshapes AI data center expansion strategies</span></td>
+  <td class="col-summary">Companies at the forefront of the AI infrastructure buildout in the US are taking different approaches following the results of this week's midterm elections, which saw a nationwide backlash against data center construction. OpenAI pledged to prevent resource impacts on communities, while Nvidia is turning toward retro</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/china-ai-data-centre-boom-inner-mongolia-6526706" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261106VL213/data-center-infrastructure-nvidia-openai-data.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">WT Microelectronics Chairman says AI growth holds as auto, industrial markets recover</span></td>
-  <td class="col-summary">WT Microelectronics chairman Eric Cheng said November 5, 2026, that the long-term AI growth trend remains intact, while the automotive and industrial markets have both passed their cyclical troughs. Following its acquisition of Future, WT Microelectronics has entered the European and North American AI data center suppl</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261106PD236/wt-growth-industrial-revenue-2026.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Huawei, Alibaba among 20 Chinese tech firms confronting AI agent security, algorithmic exploitation</span></td>
+  <td class="col-summary">The 2026 World Internet Conference Wuzhen Summit, which opened on November 4, brought AI agent governance into focus, with leading Chinese technology companies seeking common standards to address cybersecurity risks and potential misuse.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261106PD230/2026-internet-security-huawei-alibaba.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Global AI memory crunch drives Taiwan to launch advanced memory initiative</span></td>
-  <td class="col-summary">The boom in AI demand has triggered a global memory crunch, creating persistent supply shortages and price hikes. The market is currently dominated by Samsung Electronics, SK Hynix, and Micron Technology. While China's ChangXin Memory Technologies (CXMT) has expanded its mass-production capabilities rapidly, US export </td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261106PD231/memory-chips-demand-taiwan-government-2027.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Solidigm eyes US NAND fab as funding questions linger</span></td>
-  <td class="col-summary">Solidigm, a subsidiary of SK Hynix, is considering building a NAND flash wafer fab in the US. Funding and the investment timeline have yet to be settled, but DIGITIMES Intelligence believes the project is highly likely to move forward, given AI-driven storage demand and the prospect of US government support.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261106PD229/solidigm-fab-nand-flash-nand-funding.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Gen Z and AI are changing the world of video games</span></td>
-  <td class="col-summary">Gen Z and AI are changing the world of video games</td>
+  <td class="col-title"><span class="article-title">What the Democratic sweep means for Trump's tariffs and AI</span></td>
+  <td class="col-summary">What the Democratic sweep means for Trump's tariffs and AI</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/opinion/gen-z-and-ai-are-changing-the-world-of-video-games" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/video/what-the-democratic-sweep-means-for-trump-s-tariffs-and-ai" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA 3 ways to keep your relationship with AI in check by setting healthy boundaries Our cosy relationship with AI chatbots can lead to “artificial intimacy,” says one expert. AI Read 2 CNA China's 'potato capital' cultivates new crop of data centres as AI boom takes root On the windswept plains of China's Inner Mongolia, potato farms are making way for sprawling AI data centres. CNA visited Ulanqab, where the boom is transforming livelihoods and raising questions about water sustainability in a drought-prone region. AI Read 3 DigiTimes WT Microelectronics Chairman says AI growth holds as auto, industrial markets recover WT Microelectronics chairman Eric Cheng said November 5, 2026, that the long-term AI growth trend remains intact, while the automotive and industrial markets have both passed their cyclical troughs. Following its acquisition of Future, WT Microelectronics has entered the European and North American AI data center suppl ElectronicsAILogistics Read 4 DigiTimes Global AI memory crunch drives Taiwan to launch advanced memory initiative The boom in AI demand has triggered a global memory crunch, creating persistent supply shortages and price hikes. The market is currently dominated by Samsung Electronics, SK Hynix, and Micron Technology. While China's ChangXin Memory Technologies (CXMT) has expanded its mass-production capabilities rapidly, US export ElectronicsAI Read 5 DigiTimes Solidigm eyes US NAND fab as funding questions linger Solidigm, a subsidiary of SK Hynix, is considering building a NAND flash wafer fab in the US. Funding and the investment timeline have yet to be settled, but DIGITIMES Intelligence believes the project is highly likely to move forward, given AI-driven storage demand and the prospect of US government support. Semiconductor Read 6 NikkeiAsia Gen Z and AI are changing the world of video games Gen Z and AI are changing the world of video games AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 07, 2026</title><link href="https://asiatechfeed.com/2026/11/07/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 07, 2026" /><published>2026-11-07T08:00:53+00:00</published><updated>2026-11-07T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/11/07/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/07/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Samsung reportedly sells 300 chipmaking tools to DB Group Samsung Electronics has reportedly agreed to sell approximately 300 semiconductor manufacturing tools from its shuttered 8-inch S7 foundry in Giheung to South Korea's DB Group, as DB HiTek faces tight production capacity and Samsung prepares to withdraw from the 8-inch foundry business. SemiconductorElectronics Read 2 DigiTimes US election backlash reshapes AI data center expansion strategies Companies at the forefront of the AI infrastructure buildout in the US are taking different approaches following the results of this week's midterm elections, which saw a nationwide backlash against data center construction. OpenAI pledged to prevent resource impacts on communities, while Nvidia is turning toward retro AI Read 3 DigiTimes Huawei, Alibaba among 20 Chinese tech firms confronting AI agent security, algorithmic exploitation The 2026 World Internet Conference Wuzhen Summit, which opened on November 4, brought AI agent governance into focus, with leading Chinese technology companies seeking common standards to address cybersecurity risks and potential misuse. AI Read 4 NikkeiAsia What the Democratic sweep means for Trump's tariffs and AI What the Democratic sweep means for Trump's tariffs and AI AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 07, 2026</title><link href="https://asiatechfeed.com/2026/11/07/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 07, 2026" /><published>2026-11-07T08:00:53+00:00</published><updated>2026-11-07T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/11/07/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/07/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
