@@ -1,39 +1,37 @@
 {
   "date": "2026-11-09",
-  "count": 14,
+  "count": 6,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
-    "NikkeiAsia",
+    "EW",
     "TechAsia"
   ],
   "post_file": "2026-11-09-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Japan\u2019s Mitsui Chemicals to buy chip materials maker for $12b",
+      "title": "Paras Semiconductors teams with US-based BroadPak on advanced packaging plant in India",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261109VL209/packaging-plant-subsidiary-technology-incentives.html"
+    },
+    {
+      "title": "Samsung, SK Hynix, Micron forge rare alliance to pave way for unmanned chip fabs",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261109PD252/sk-hynix-samsung-micron-ic-manufacturing-robot.html"
+    },
+    {
+      "title": "Samsung's Texas fab may begin trial runs in December",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261109VL223/samsung-texas-fab-production-manufacturing.html"
+    },
+    {
+      "title": "Jensen Huang apologises: Nvidia board investigates",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/news/business/jensen-huang-2026-11/"
+    },
+    {
+      "title": "US AI firm Trinovation expands Philippine data operations",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/japans-largest-banks-to-lend-13-7b-to-chipmaker-rapidus"
-    },
-    {
-      "title": "Robots spur transmission makers to target customized niches",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261109PD237/taiwan-transmission-demand-automation-equipment.html"
-    },
-    {
-      "title": "China's lithography ambitions gain ground as SMEE claims 90% local sourcing in chipmaking tools",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261109PD235/smee-lithography-packaging-equipment-2026.html"
-    },
-    {
-      "title": "South Korean equipment maker Naintech supplies TCL CSOT via LG for 8.6-generation inkjet OLED line",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261109PD212/equipment-tcl-lg-csot-production.html"
-    },
-    {
-      "title": "COP31 to open in T\u00fcrkiye, with climate goals under pressure from war and AI",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/cop31-turkiye-climate-goals-war-ai-6534996"
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
     }
   ],
   "source_stats": [
@@ -50,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 4,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -131,9 +129,9 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -151,14 +149,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 50,
-      "relevant": 39,
+      "fetched": 57,
+      "relevant": 44,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +167,7 @@
       "fetched": 50,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -196,7 +194,7 @@
       "fetched": 36,
       "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -212,7 +210,7 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
