@@ -1,37 +1,39 @@
 {
   "date": "2026-11-09",
-  "count": 5,
+  "count": 14,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-09-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Nvidia probes reports Jensen Huang was foreign spy target",
+      "title": "Japan\u2019s Mitsui Chemicals to buy chip materials maker for $12b",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-unveils-openshell-reference-architecture"
+      "url": "https://www.techinasia.com/japans-largest-banks-to-lend-13-7b-to-chipmaker-rapidus"
     },
     {
-      "title": "Anthropic secures $3.4b deal for AI data center power",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-spend-750b-computing-power-report"
+      "title": "Robots spur transmission makers to target customized niches",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261109PD237/taiwan-transmission-demand-automation-equipment.html"
     },
     {
-      "title": "RBA's Hunter says AI has yet to deliver productivity boost, trigger job losses",
+      "title": "China's lithography ambitions gain ground as SMEE claims 90% local sourcing in chipmaking tools",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261109PD235/smee-lithography-packaging-equipment-2026.html"
+    },
+    {
+      "title": "South Korean equipment maker Naintech supplies TCL CSOT via LG for 8.6-generation inkjet OLED line",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261109PD212/equipment-tcl-lg-csot-production.html"
+    },
+    {
+      "title": "COP31 to open in T\u00fcrkiye, with climate goals under pressure from war and AI",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/rbas-hunter-says-ai-has-yet-deliver-productivity-boost-trigger-job-losses-6534796"
-    },
-    {
-      "title": "Meta faces political pushback over US data center expansion",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261106PD226/meta-expansion-data-infrastructure-investment.html"
-    },
-    {
-      "title": "V5 Technologies posts 69.7% revenue growth in first 10 months",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261106PD228/revenue-growth-equipment-inspection-software.html"
+      "url": "https://www.channelnewsasia.com/world/cop31-turkiye-climate-goals-war-ai-6534996"
     }
   ],
   "source_stats": [
@@ -48,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -128,7 +130,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -149,16 +151,16 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 26,
+      "fetched": 50,
+      "relevant": 39,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -167,7 +169,7 @@
       "fetched": 50,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -192,9 +194,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 10,
+      "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
