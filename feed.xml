@@ -1,4 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-09T08:01:23+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 09, 2026</title><link href="https://asiatechfeed.com/2026/11/09/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 09, 2026" /><published>2026-11-09T08:00:52+00:00</published><updated>2026-11-09T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/11/09/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/09/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-10T00:03:47+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 10, 2026</title><link href="https://asiatechfeed.com/2026/11/10/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 10, 2026" /><published>2026-11-10T00:02:52+00:00</published><updated>2026-11-10T00:02:52+00:00</updated><id>https://asiatechfeed.com/2026/11/10/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/10/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">SoftBank, Grab plan $1.8b AI infrastructure in Malaysia</span></td>
+  <td class="col-summary">Malaysia has 61 data centers, per one report; Johor Bahru is among Asia's fastest-growing hubs.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/softbank-grab-explore-ai-infrastructure-sarawak" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: Jensen Huang Is bigger than Nvidia – and it’s a problem</span></td>
+  <td class="col-summary">The revelation of the CEO’s affair with an alleged Chinese spy is not just shaking up the chipmaker but the entire AI world, says Shuli Ren for Bloomberg Opinion.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/nvidia-jensen-huang-affair-chinese-spy-ai-bubble-6535731" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO</span></td>
+  <td class="col-summary">Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/anthropic-unveils-new-fable-mythos-models-competition-heats-up-ahead-ipo-6536966" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Nvidia's Taiwan partners rally despite Jensen probe</span></td>
+  <td class="col-summary">Shares of Nvidia's major Taiwanese manufacturing partners rose on Monday despite mounting concerns over CEO Jensen Huang's future, suggesting that investors have yet to price in significant disruption to the AI chipmaker's supply chain.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261109VL229.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwan President taps chip strengths for self-reliant space push</span></td>
+  <td class="col-summary">Taiwan will continuously elevate its self-reliant space technology capabilities while leveraging its long-standing strengths in semiconductors, electronics, telecommunications, and precision manufacturing, President Ching-Te Lai stated today (Nov. 9) as the 2026 Taiwan International Assembly of Space Science, Technolog</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261109PD266/2026-taiwan-technology-taiwan-space-agency.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">SK chief defends Samsung and SK's US$3.5 trillion investment plans</span></td>
+  <td class="col-summary">SK Group chairman Chey Tae-won has defended Samsung and SK's combined KRW4,755 trillion (approx. US$3.52 trillion) investment plans, arguing that South Korea cannot keep pace in the global artificial intelligence (AI) race without committing unprecedented amounts of capital.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261109VL227/investment-samsung-sk-group-chairman-competition.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia, SK Telecom tap Korean chip startup for sovereign AI</span></td>
+  <td class="col-summary">SK Telecom plans to deploy the systems and link them to its AI models and services.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidiabacked-zankore-seeks-31b-loan-indonesia-ai-factory" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Allegro Develops 48V Power and Precision Sensing ICs for Humanoid Robots</span></td>
+  <td class="col-summary">Allegro MicroSystems is expanding its robotics portfolio with power management and position sensors targeting compact, safety-critical humanoid systems. The post Allegro Develops 48V Power and Precision Sensing ICs for Humanoid Robots appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/allegro-develops-48v-power-and-precision-sensing-ics-for-humanoid-robots/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">MiniMax affiliate forms AI software unit in China’s Zhuhai</span></td>
+  <td class="col-summary">Its business scope includes AI application software, AI basic software, and AI theory and algorithm software development.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/minimax-seeks-2b-for-ai-expansion" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Musk's Terafab chipmaking project lines up Japan suppliers</span></td>
+  <td class="col-summary">Musk's Terafab chipmaking project lines up Japan suppliers</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/musk-s-terafab-chipmaking-project-lines-up-japan-suppliers" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan's Mitsui Chemicals to buy chip materials maker JSR for $11.6bn</span></td>
+  <td class="col-summary">Japan's Mitsui Chemicals to buy chip materials maker JSR for $11.6bn</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/business-deals/japan-s-mitsui-chemicals-to-buy-chip-materials-maker-jsr-for-11.6bn" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Towa Pharmaceutical to ship Japan-made generics to US: CEO</span></td>
+  <td class="col-summary">Towa Pharmaceutical to ship Japan-made generics to US: CEO</td>
+  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/pharmaceuticals/towa-pharmaceutical-to-ship-japan-made-generics-to-us-ceo" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia SoftBank, Grab plan $1.8b AI infrastructure in Malaysia Malaysia has 61 data centers, per one report; Johor Bahru is among Asia's fastest-growing hubs. AI Read 2 CNA Commentary: Jensen Huang Is bigger than Nvidia – and it’s a problem The revelation of the CEO’s affair with an alleged Chinese spy is not just shaking up the chipmaker but the entire AI world, says Shuli Ren for Bloomberg Opinion. AISemiconductor Read 3 CNA Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO Semiconductor Read 4 DigiTimes Nvidia's Taiwan partners rally despite Jensen probe Shares of Nvidia's major Taiwanese manufacturing partners rose on Monday despite mounting concerns over CEO Jensen Huang's future, suggesting that investors have yet to price in significant disruption to the AI chipmaker's supply chain. AISemiconductorLogistics Read 5 DigiTimes Taiwan President taps chip strengths for self-reliant space push Taiwan will continuously elevate its self-reliant space technology capabilities while leveraging its long-standing strengths in semiconductors, electronics, telecommunications, and precision manufacturing, President Ching-Te Lai stated today (Nov. 9) as the 2026 Taiwan International Assembly of Space Science, Technolog SemiconductorElectronics Read 6 DigiTimes SK chief defends Samsung and SK's US$3.5 trillion investment plans SK Group chairman Chey Tae-won has defended Samsung and SK's combined KRW4,755 trillion (approx. US$3.52 trillion) investment plans, arguing that South Korea cannot keep pace in the global artificial intelligence (AI) race without committing unprecedented amounts of capital. AI Read 7 TechAsia Nvidia, SK Telecom tap Korean chip startup for sovereign AI SK Telecom plans to deploy the systems and link them to its AI models and services. AISemiconductor Read 8 EETAsia Allegro Develops 48V Power and Precision Sensing ICs for Humanoid Robots Allegro MicroSystems is expanding its robotics portfolio with power management and position sensors targeting compact, safety-critical humanoid systems. The post Allegro Develops 48V Power and Precision Sensing ICs for Humanoid Robots appeared first on EE Times Asia . Automation Read 9 TechAsia MiniMax affiliate forms AI software unit in China’s Zhuhai Its business scope includes AI application software, AI basic software, and AI theory and algorithm software development. AI Read 10 NikkeiAsia Musk's Terafab chipmaking project lines up Japan suppliers Musk's Terafab chipmaking project lines up Japan suppliers Semiconductor Read 11 NikkeiAsia Japan's Mitsui Chemicals to buy chip materials maker JSR for $11.6bn Japan's Mitsui Chemicals to buy chip materials maker JSR for $11.6bn Semiconductor Read 12 NikkeiAsia Towa Pharmaceutical to ship Japan-made generics to US: CEO Towa Pharmaceutical to ship Japan-made generics to US: CEO Pharmaceutical Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 09, 2026</title><link href="https://asiatechfeed.com/2026/11/09/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 09, 2026" /><published>2026-11-09T08:00:52+00:00</published><updated>2026-11-09T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/11/09/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/09/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -579,16 +688,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261030PD239/realtek-revenue-2030-business-2027.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Honda targets Level 4 autonomy by 2027, AI maps by 2030 Honda Motor plans to achieve Level 4 autonomous driving around 2027 and replace high-definition maps with AI technology around 2030, enabling Level 4 vehicles to navigate the narrow roads and mountain routes common in Asia, said Yuji Yasui, a fellow at Honda R&amp;D, at Hon Hai Tech Day 2026 (HHTD26). AI Read 2 DigiTimes Micron says 700-plus Taiwan fab workers earned five years' salary in a single year Micron Technology paid its fiscal 2026 bonuses to Taiwan employees on October 30. The company said more than 700 production-line workers earned at least five years' worth of monthly salary in total pay for the year. The payout comes while the union at its Taoyuan fab is still rejecting the company's pay offer. Semiconductor Read 3 DigiTimes Realtek targets 30% AI revenue share by 2030 Realtek Semiconductor quantified its AI business for the first time at an investor conference on October 29, setting a target for high-performance computing (HPC) and edge AI revenue—including automotive and robotics applications—to exceed 30% of total revenue by 2030. These businesses currently account for a high-sing SemiconductorAIAutomation Read]]></summary></entry><entry><title type="html">Editor’s Review: What October Taught Us About the Gap Between Sold Out and Priced In</title><link href="https://asiatechfeed.com/2026/11/01/editors-review-what-october-taught-us-about-the-gap-between-sold-out-and-priced-in/" rel="alternate" type="text/html" title="Editor’s Review: What October Taught Us About the Gap Between Sold Out and Priced In" /><published>2026-11-01T01:00:00+00:00</published><updated>2026-11-01T01:00:00+00:00</updated><id>https://asiatechfeed.com/2026/11/01/editors-review-what-october-taught-us-about-the-gap-between-sold-out-and-priced-in</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/01/editors-review-what-october-taught-us-about-the-gap-between-sold-out-and-priced-in/"><![CDATA[<p>September ended with scrutiny arriving at scale: regulators, legislators and the market itself began asking whether the capacity being built was real. October delivered the market’s version of that question, and a run of earnings that made the answer awkward. The Philadelphia Semiconductor Index fell 11.4% in the week to October 16, its worst week since March 2025, after eight straight down sessions and roughly $2 trillion of lost market value. The triggers were hot inflation, which raised the odds of Fed rate hikes, and fresh doubts over whether AI spending pays back. Yet in the same four weeks, almost every supplier that reported said it was sold out. Both facts are true, and the distance between them is the month’s story.</p>
-
-<p>TSMC printed the cleanest version of it. Third-quarter revenue reached US$46.72 billion at a 66.4% gross margin, 2nm already made up 8% of wafer revenue (up from 3% a quarter earlier), and full-year growth was lifted to about 44% with a fourth-quarter guide of US$52.3 to 54.3 billion. The shares still fell. The reason was not demand but cost: the CFO said 2026 to 2028 capex will exceed the previous three years combined, with the 2026 budget held at US$60 to 64 billion, and that the N2 ramp and overseas fabs will keep pressing margins. August’s lesson was that the shortage had a price. October’s is that the market now prices the cost of relieving it.</p>
-
-<p>Memory told the same story at larger scale. Samsung’s preliminary third-quarter operating profit hit KRW 107.4 trillion, the first quarter above KRW 100 trillion, and HBM bit shipments reportedly rose nearly 50% on the quarter as HBM4 ramped for Nvidia’s Vera Rubin. SK hynix then posted KRW 83.3 trillion of operating profit on KRW 104.6 trillion of revenue, an 80% margin, said HBM4 would overtake HBM3E in the fourth quarter, and announced KRW 100 trillion in shareholder returns. Korean press reports it is effectively sold out through 2029 under long-term agreements with 14 customers; Samsung and Micron both expect tightness through 2028. The caution sits underneath: TrendForce expects DRAM contract price gains to slow to 10 to 15% in the fourth quarter after roughly 60% in the second, and Samsung’s own phone and consumer divisions are absorbing the component costs its memory arm is charging. Meanwhile CXMT, which we flagged in August as memory’s credible third competitor, reportedly took about 10% of global DRAM revenue in the second quarter, and chip stocks slid on its latest advances on October 13.</p>
-
-<p>ASML supplied the most revealing number of the month. Third-quarter sales rose to €11.66 billion on net income of €4.96 billion, and the company lifted the low end of 2026 guidance to €44 billion, saying planned supply for 2027 and 2028 will not fully meet customer demand. But shipments to China jumped 109% on the quarter to 23% of machine sales, with Chinese memory and storage makers reportedly stockpiling enough lithography tools for roughly three years of expansion, while Washington presses The Hague to tighten curbs on less advanced equipment. Demand outside China is capacity-limited. Demand inside China is front-loaded insurance. The two are easy to confuse in a headline and very different in a forecast.</p>
-
-<p>The hyperscalers kept the spending going and the market kept flinching. Meta beat on revenue, up 26% to US$64.6 billion, narrowed 2026 capex to US$135 to 145 billion, spent US$44.9 billion in the quarter alone, roughly double a year earlier, and its stock fell 7% anyway. Alphabet reported Google Cloud revenue up 103% to US$30.7 billion on US$51.4 billion of quarterly capex, with 2027 spending reportedly heading above US$300 billion. Nvidia’s answer, at GTC Berlin on October 21, was to stop selling components and start selling the building. DSX POD packages a liquid-cooled Vera Rubin AI factory in a shipping container, built and tested by partners before delivery, cutting on-site deployment from six months to as little as 14 days, with 17 partners delivering from early 2027 and claimed savings of up to 30% in power and up to 100% in cooling water. Google Cloud will bring Vera Rubin to general availability next month, scaling toward 960,000 Rubin GPUs. That is the 800V and liquid-cooling story from the last two months turned into a product. Analysts were quick to note what it does not fix: access to grid power, which in Europe’s main data centre markets is a multi-year queue, dwarfing the six months DSX POD removes.</p>
-
-<p>The through-line for October: being sold out and being priced in are different conditions. Every supplier proved demand. None could prove the return on the capital required to serve it, and the market sold the second doubt harder than it bought the first fact. Three things follow. The market now discounts margin and capex intensity, not order books. Growth is capacity-limited rather than demand-limited, from EUV tools to HBM wafers to packaging lines. And the binding constraint keeps migrating: chips, then memory, then packaging, then power, and now the grid itself. August taught us what the shortage would cost. September taught us who gets to check the math. October taught us the check is already running, and that it is running on the supplier’s margin, not the customer’s demand.</p>
-
-<p><em>— Colin Tan, Editor</em></p>]]></content><author><name>Colin Tan, Editor</name></author><summary type="html"><![CDATA[Every supplier proved demand in October. None could prove the return on the capital required to serve it — and the market sold the second doubt harder than it bought the first fact.]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Honda targets Level 4 autonomy by 2027, AI maps by 2030 Honda Motor plans to achieve Level 4 autonomous driving around 2027 and replace high-definition maps with AI technology around 2030, enabling Level 4 vehicles to navigate the narrow roads and mountain routes common in Asia, said Yuji Yasui, a fellow at Honda R&amp;D, at Hon Hai Tech Day 2026 (HHTD26). AI Read 2 DigiTimes Micron says 700-plus Taiwan fab workers earned five years' salary in a single year Micron Technology paid its fiscal 2026 bonuses to Taiwan employees on October 30. The company said more than 700 production-line workers earned at least five years' worth of monthly salary in total pay for the year. The payout comes while the union at its Taoyuan fab is still rejecting the company's pay offer. Semiconductor Read 3 DigiTimes Realtek targets 30% AI revenue share by 2030 Realtek Semiconductor quantified its AI business for the first time at an investor conference on October 29, setting a target for high-performance computing (HPC) and edge AI revenue—including automotive and robotics applications—to exceed 30% of total revenue by 2030. These businesses currently account for a high-sing SemiconductorAIAutomation Read]]></summary></entry></feed>
