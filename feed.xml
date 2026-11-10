@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-10T06:58:43+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 10, 2026</title><link href="https://asiatechfeed.com/2026/11/10/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 10, 2026" /><published>2026-11-10T06:57:28+00:00</published><updated>2026-11-10T06:57:28+00:00</updated><id>https://asiatechfeed.com/2026/11/10/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/10/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-10T08:03:52+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 10, 2026</title><link href="https://asiatechfeed.com/2026/11/10/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 10, 2026" /><published>2026-11-10T08:00:57+00:00</published><updated>2026-11-10T08:00:57+00:00</updated><id>https://asiatechfeed.com/2026/11/10/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/10/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,126 +12,110 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">India’s Zoho adds AI agents and data layers to Analytics</span></td>
-  <td class="col-summary">Zoho Analytics' Basic plan will stay at US$24 per month, billed annually, for two users.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/war-exposes-risks-gulfs-ai-infrastructure-push" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Ericsson CEO bets on AI and in-house RAN chips as 6G, satellite competition loom</span></td>
+  <td class="col-summary">Ericsson CEO Per Narvinger is betting on AI to drive the next wave of telecom equipment demand, as the Swedish vendor develops dedicated radio access network (RAN) chips, strengthens its indoor 5G business and targets opportunities in the 6G era.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261110PD238/ericsson-ceo-chips-6g-telecom.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Tesla plans Cybertruck exit after Model S and Model X; raises stakes for Cybercab and Optimus</span></td>
-  <td class="col-summary">Tesla's Cybertruck, once hailed by CEO Elon Musk as the company's "best product," is heading towards discontinuation. Musk recently announced on X that production at Tesla's Texas Gigafactory would be phased out around mid-2027, freeing capacity for the autonomous Cybercab robotaxi.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261110PD235/tesla-cybertruck-production-elon-musk.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Chipmaker Infineon forecasts strong 2027 growth on data-centre demand</span></td>
+  <td class="col-summary">Chipmaker Infineon forecasts strong 2027 growth on data-centre demand</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/chipmaker-infineon-forecasts-strong-2027-growth-data-centre-demand-6538616" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SpaceX's US$24B Texas AI data center plan signals a bigger play for energy control</span></td>
-  <td class="col-summary">SpaceX plans to invest approximately US$24 billion in a natural gas-fired power plant and supercomputing facility in Starbase, Texas, extending Elon Musk's strategy of controlling the energy infrastructure behind the company's expanding AI and space operations.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261110VL206/spacex-texas-data-center-power-plant-investment.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Europe can compete in robotics and physical AI, top chipmaker CEOs say</span></td>
+  <td class="col-summary">Europe can compete in robotics and physical AI, top chipmaker CEOs say</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/europe-can-compete-in-robotics-and-physical-ai-top-chipmaker-ceos-say-6538606" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Foxconn extends vertical integration across 5 battery layers</span></td>
-  <td class="col-summary">Young Liu, chairman of Hon Hai Technology Group (Foxconn), repeatedly highlighted the company's strength in vertical integration at Hon Hai Tech Day 2026 (HHTD26), underscoring progress beyond AI data centers and into battery applications. Foxconn is linking materials, cells, battery management systems (BMS), battery p</td>
+  <td class="col-title"><span class="article-title">Yageo posts record October sales as China holiday weighs on Walsin's revenue</span></td>
+  <td class="col-summary">Taiwanese passive component makers Yageo and Walsin Technology reported contrasting October results, with Yageo posting record monthly revenue on strong AI demand while Walsin's sales declined from September due to China's National Day holidays. Both companies recorded year-over-year revenue growth of more than 50%.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261110PD218/foxconn-young-liu-manufacturing-chairman-materials.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261110PD236/yageo-revenue-passive-component-demand.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">China's trade surplus soars past US$1 trillion as AI boom powers exports</span></td>
-  <td class="col-summary">Exports rose sharply by 35.2 per cent in October from the same month last year, helping to lift China's trade surplus to US$1.04 trillion in the first 10 months.</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">This startup helps enterprises adopt AI safely</span></td>
+  <td class="col-summary">Backed by local groups Dart and Aleph, Scouter helps Singapore's enterprises implement the right AI security tools ahead of new regulations.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/china-trade-surplus-1-trillion-ai-boom-exports-6537981" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/startup-helps-enterprises-adopt-ai-safely" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Qantas to cut 850 jobs as it rushes to keep pace with AI</span></td>
-  <td class="col-summary">"Leading organisations around the world are well progressed in using technology and AI to completely transform how they work, and standing still is not an option for us," Qantas chief executive Vanessa Hudson said.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/qantas-cut-850-jobs-ai-accenture-india-6538201" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Nvidia showcases factory AI at Seoul event; Jensen Huang's daughter absent</span></td>
+  <td class="col-summary">Nvidia showcased its work with South Korean manufacturers on robot simulation, precision sanding and factory digital twins as its AI Day Seoul event opened on November 9, despite the absence of senior director Madison Huang, who canceled her planned visit to South Korea.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261110PD221/nvidia-industrial-manufacturing-robot-testing-south-korea.html?chid=10" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">SOLUM, Infineon Collaborate on HVDC Power Systems for AI Data Centers</span></td>
-  <td class="col-summary">The expanded partnership covers power conversion, battery backup and server power supplies for next-generation AI infrastructure. The post SOLUM, Infineon Collaborate on HVDC Power Systems for AI Data Centers appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/solum-infineon-collaborate-on-hvdc-power-systems-for-ai-data-centers/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">NSING Technologies Ships 250 Million Bluetooth Chips Using Ceva IP</span></td>
+  <td class="col-summary">NSING Technologies has shipped 250 million Bluetooth chips incorporating Ceva Bluetooth LE IP across consumer, automotive and industrial markets. The post NSING Technologies Ships 250 Million Bluetooth Chips Using Ceva IP appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/nsing-technologies-ships-250-million-bluetooth-chips-using-ceva-ip/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">How much is AI really selling this Singles’ Day in China?</span></td>
-  <td class="col-summary">Chatbots are driving sales ahead of the 11.11 shopping festival. Store data shows where AI shopping works best and what brands can do about it.</td>
+  <td class="col-title"><span class="article-title">Sun Life to roll out Google Gemini AI to advisors in Asia</span></td>
+  <td class="col-summary">The company said Gemini would be available within Workspace, alongside Gmail, Google Calendar, Google Drive, and Google Meet.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-selling-singles-day" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/estonian-ai-firm-skyselect-raises-9m-for-parts-sourcing" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
   <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Diamond Foundry Reports 200mm Single-crystal Diamond Wafer Milestone</span></td>
-  <td class="col-summary">The 200mm crystal could broaden diamond's role in semiconductor thermal management and advanced electronics. The post Diamond Foundry Reports 200mm Single-crystal Diamond Wafer Milestone appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/diamond-foundry-reports-200mm-single-crystal-diamond-wafer-milestone/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">AI Chip Advances Put Semiconductor Materials and Packaging in Focus</span></td>
+  <td class="col-summary">Rising AI chip performance demands are driving advances in materials engineering, manufacturing equipment and advanced semiconductor packaging technologies. The post AI Chip Advances Put Semiconductor Materials and Packaging in Focus appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ai-chip-advances-put-semiconductor-materials-and-packaging-in-focus/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">SEMI: Global Silicon Wafer Shipments Jump 13.4% YoY in 3Q 2026</span></td>
-  <td class="col-summary">Global silicon wafer shipments increased by 13.4% YoY to 3,756 MSI, according to SEMI Silicon Manufacturers Group. The post SEMI: Global Silicon Wafer Shipments Jump 13.4% YoY in 3Q 2026 appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/semi-global-silicon-wafer-shipments-jump-13-4-yoy-in-3q-2026/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Google unveils 2 new AI chips to rival Nvidia</span></td>
+  <td class="col-summary">Google's TPU 8tx pairs with an AMD CPU for confidential computing in regulated industries.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/google-unveils-gemini-4-carbon-ai-model-cybersecurity" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Lightspeed leads $240m round for AI hardware tester Nominal</span></td>
-  <td class="col-summary">Nominal CEO Cameron McCord previously worked at Anduril, one of the startup's 80 customers.</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Grab, SoftBank to invest $1.85bn in Malaysia AI infrastructure</span></td>
+  <td class="col-summary">Grab, SoftBank to invest $1.85bn in Malaysia AI infrastructure</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/spacex-sets-starship-launch-target" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/grab-softbank-to-invest-1.85bn-in-malaysia-ai-infrastructure" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">12</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Australia plans new regulator for artificial intelligence after OpenAI hack</span></td>
-  <td class="col-summary">Australia plans new regulator for artificial intelligence after OpenAI hack</td>
+  <td class="col-title"><span class="article-title">Vietnam's FPT sees rising demand for AI adoption in Japan</span></td>
+  <td class="col-summary">Vietnam's FPT sees rising demand for AI adoption in Japan</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/australia-plans-new-regulator-for-artificial-intelligence-after-openai-hack" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/global-management-dialogue/global-management-dialogue-2026/vietnam-s-fpt-sees-rising-demand-for-ai-adoption-in-japan" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">13</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">India's electronics firms face PCB squeeze as AI demand drives up costs</span></td>
-  <td class="col-summary">India's electronics firms face PCB squeeze as AI demand drives up costs</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/electronics/india-s-electronics-firms-face-pcb-squeeze-as-ai-demand-drives-up-costs" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">14</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Integration among ASEAN, China, Japan, South Korea boosted by AI boom</span></td>
-  <td class="col-summary">Integration among ASEAN, China, Japan, South Korea boosted by AI boom</td>
+  <td class="col-title"><span class="article-title">SoftBank swings to first-half loss as AI ambitions face fresh setbacks</span></td>
+  <td class="col-summary">SoftBank swings to first-half loss as AI ambitions face fresh setbacks</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/supply-chain/integration-among-asean-china-japan-south-korea-boosted-by-ai-boom" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">15</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">Go master Shin cracks AI barrier with win over KataGo, sets up series decider</span></td>
-  <td class="col-summary">Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/softbank/softbank-swings-to-first-half-loss-as-ai-ambitions-face-fresh-setbacks" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia India’s Zoho adds AI agents and data layers to Analytics Zoho Analytics' Basic plan will stay at US$24 per month, billed annually, for two users. AI Read 2 DigiTimes Tesla plans Cybertruck exit after Model S and Model X; raises stakes for Cybercab and Optimus Tesla's Cybertruck, once hailed by CEO Elon Musk as the company's "best product," is heading towards discontinuation. Musk recently announced on X that production at Tesla's Texas Gigafactory would be phased out around mid-2027, freeing capacity for the autonomous Cybercab robotaxi. Automation Read 3 DigiTimes SpaceX's US$24B Texas AI data center plan signals a bigger play for energy control SpaceX plans to invest approximately US$24 billion in a natural gas-fired power plant and supercomputing facility in Starbase, Texas, extending Elon Musk's strategy of controlling the energy infrastructure behind the company's expanding AI and space operations. AI Read 4 DigiTimes Foxconn extends vertical integration across 5 battery layers Young Liu, chairman of Hon Hai Technology Group (Foxconn), repeatedly highlighted the company's strength in vertical integration at Hon Hai Tech Day 2026 (HHTD26), underscoring progress beyond AI data centers and into battery applications. Foxconn is linking materials, cells, battery management systems (BMS), battery p AI Read 5 CNA China's trade surplus soars past US$1 trillion as AI boom powers exports Exports rose sharply by 35.2 per cent in October from the same month last year, helping to lift China's trade surplus to US$1.04 trillion in the first 10 months. AI Read 6 CNA Qantas to cut 850 jobs as it rushes to keep pace with AI "Leading organisations around the world are well progressed in using technology and AI to completely transform how they work, and standing still is not an option for us," Qantas chief executive Vanessa Hudson said. AI Read 7 EETAsia SOLUM, Infineon Collaborate on HVDC Power Systems for AI Data Centers The expanded partnership covers power conversion, battery backup and server power supplies for next-generation AI infrastructure. The post SOLUM, Infineon Collaborate on HVDC Power Systems for AI Data Centers appeared first on EE Times Asia . AI Read 8 TechAsia How much is AI really selling this Singles’ Day in China? Chatbots are driving sales ahead of the 11.11 shopping festival. Store data shows where AI shopping works best and what brands can do about it. AI Read 9 EETAsia Diamond Foundry Reports 200mm Single-crystal Diamond Wafer Milestone The 200mm crystal could broaden diamond's role in semiconductor thermal management and advanced electronics. The post Diamond Foundry Reports 200mm Single-crystal Diamond Wafer Milestone appeared first on EE Times Asia . SemiconductorElectronics Read 10 EETAsia SEMI: Global Silicon Wafer Shipments Jump 13.4% YoY in 3Q 2026 Global silicon wafer shipments increased by 13.4% YoY to 3,756 MSI, according to SEMI Silicon Manufacturers Group. The post SEMI: Global Silicon Wafer Shipments Jump 13.4% YoY in 3Q 2026 appeared first on EE Times Asia . Semiconductor Read 11 TechAsia Lightspeed leads $240m round for AI hardware tester Nominal Nominal CEO Cameron McCord previously worked at Anduril, one of the startup's 80 customers. AI Read 12 NikkeiAsia Australia plans new regulator for artificial intelligence after OpenAI hack Australia plans new regulator for artificial intelligence after OpenAI hack AI Read 13 NikkeiAsia India's electronics firms face PCB squeeze as AI demand drives up costs India's electronics firms face PCB squeeze as AI demand drives up costs ElectronicsAI Read 14 NikkeiAsia Integration among ASEAN, China, Japan, South Korea boosted by AI boom Integration among ASEAN, China, Japan, South Korea boosted by AI boom AI Read 15 KED Go master Shin cracks AI barrier with win over KataGo, sets up series decider Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 09, 2026</title><link href="https://asiatechfeed.com/2026/11/09/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 09, 2026" /><published>2026-11-09T08:00:52+00:00</published><updated>2026-11-09T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/11/09/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/09/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Ericsson CEO bets on AI and in-house RAN chips as 6G, satellite competition loom Ericsson CEO Per Narvinger is betting on AI to drive the next wave of telecom equipment demand, as the Swedish vendor develops dedicated radio access network (RAN) chips, strengthens its indoor 5G business and targets opportunities in the 6G era. AISemiconductor Read 2 CNA Chipmaker Infineon forecasts strong 2027 growth on data-centre demand Chipmaker Infineon forecasts strong 2027 growth on data-centre demand Semiconductor Read 3 CNA Europe can compete in robotics and physical AI, top chipmaker CEOs say Europe can compete in robotics and physical AI, top chipmaker CEOs say SemiconductorAutomation Read 4 DigiTimes Yageo posts record October sales as China holiday weighs on Walsin's revenue Taiwanese passive component makers Yageo and Walsin Technology reported contrasting October results, with Yageo posting record monthly revenue on strong AI demand while Walsin's sales declined from September due to China's National Day holidays. Both companies recorded year-over-year revenue growth of more than 50%. AI Read 5 TechAsia This startup helps enterprises adopt AI safely Backed by local groups Dart and Aleph, Scouter helps Singapore's enterprises implement the right AI security tools ahead of new regulations. AI Read 6 DigiTimes Nvidia showcases factory AI at Seoul event; Jensen Huang's daughter absent Nvidia showcased its work with South Korean manufacturers on robot simulation, precision sanding and factory digital twins as its AI Day Seoul event opened on November 9, despite the absence of senior director Madison Huang, who canceled her planned visit to South Korea. AIAutomation Read 7 EETAsia NSING Technologies Ships 250 Million Bluetooth Chips Using Ceva IP NSING Technologies has shipped 250 million Bluetooth chips incorporating Ceva Bluetooth LE IP across consumer, automotive and industrial markets. The post NSING Technologies Ships 250 Million Bluetooth Chips Using Ceva IP appeared first on EE Times Asia . Semiconductor Read 8 TechAsia Sun Life to roll out Google Gemini AI to advisors in Asia The company said Gemini would be available within Workspace, alongside Gmail, Google Calendar, Google Drive, and Google Meet. AI Read 9 EETAsia AI Chip Advances Put Semiconductor Materials and Packaging in Focus Rising AI chip performance demands are driving advances in materials engineering, manufacturing equipment and advanced semiconductor packaging technologies. The post AI Chip Advances Put Semiconductor Materials and Packaging in Focus appeared first on EE Times Asia . SemiconductorAI Read 10 TechAsia Google unveils 2 new AI chips to rival Nvidia Google's TPU 8tx pairs with an AMD CPU for confidential computing in regulated industries. AISemiconductor Read 11 NikkeiAsia Grab, SoftBank to invest $1.85bn in Malaysia AI infrastructure Grab, SoftBank to invest $1.85bn in Malaysia AI infrastructure AI Read 12 NikkeiAsia Vietnam's FPT sees rising demand for AI adoption in Japan Vietnam's FPT sees rising demand for AI adoption in Japan AI Read 13 NikkeiAsia SoftBank swings to first-half loss as AI ambitions face fresh setbacks SoftBank swings to first-half loss as AI ambitions face fresh setbacks AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 09, 2026</title><link href="https://asiatechfeed.com/2026/11/09/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 09, 2026" /><published>2026-11-09T08:00:52+00:00</published><updated>2026-11-09T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/11/09/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/09/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
