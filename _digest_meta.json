@@ -1,37 +1,39 @@
 {
-  "date": "2026-11-09",
-  "count": 6,
+  "date": "2026-11-10",
+  "count": 12,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "EW",
+    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-11-09-asia-tech-news-digest.md",
+  "post_file": "2026-11-10-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Paras Semiconductors teams with US-based BroadPak on advanced packaging plant in India",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261109VL209/packaging-plant-subsidiary-technology-incentives.html"
-    },
-    {
-      "title": "Samsung, SK Hynix, Micron forge rare alliance to pave way for unmanned chip fabs",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261109PD252/sk-hynix-samsung-micron-ic-manufacturing-robot.html"
-    },
-    {
-      "title": "Samsung's Texas fab may begin trial runs in December",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261109VL223/samsung-texas-fab-production-manufacturing.html"
-    },
-    {
-      "title": "Jensen Huang apologises: Nvidia board investigates",
-      "source": "EW",
-      "url": "https://www.electronicsweekly.com/news/business/jensen-huang-2026-11/"
-    },
-    {
-      "title": "US AI firm Trinovation expands Philippine data operations",
+      "title": "SoftBank, Grab plan $1.8b AI infrastructure in Malaysia",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+      "url": "https://www.techinasia.com/softbank-grab-explore-ai-infrastructure-sarawak"
+    },
+    {
+      "title": "Commentary: Jensen Huang Is bigger than Nvidia \u2013 and it\u2019s a problem",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/nvidia-jensen-huang-affair-chinese-spy-ai-bubble-6535731"
+    },
+    {
+      "title": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/anthropic-unveils-new-fable-mythos-models-competition-heats-up-ahead-ipo-6536966"
+    },
+    {
+      "title": "Nvidia's Taiwan partners rally despite Jensen probe",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261109VL229.html"
+    },
+    {
+      "title": "Taiwan President taps chip strengths for self-reliant space push",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261109PD266/2026-taiwan-technology-taiwan-space-agency.html"
     }
   ],
   "source_stats": [
@@ -50,7 +52,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -128,10 +130,10 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
-      "relevant": 1,
+      "fetched": 0,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -147,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 57,
-      "relevant": 44,
+      "fetched": 77,
+      "relevant": 61,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -192,9 +194,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 13,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
