@@ -1,40 +1,39 @@
 {
   "date": "2026-11-10",
-  "count": 15,
+  "count": 13,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-10-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "India\u2019s Zoho adds AI agents and data layers to Analytics",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/war-exposes-risks-gulfs-ai-infrastructure-push"
-    },
-    {
-      "title": "Tesla plans Cybertruck exit after Model S and Model X; raises stakes for Cybercab and Optimus",
+      "title": "Ericsson CEO bets on AI and in-house RAN chips as 6G, satellite competition loom",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261110PD235/tesla-cybertruck-production-elon-musk.html"
+      "url": "https://www.digitimes.com/news/a20261110PD238/ericsson-ceo-chips-6g-telecom.html"
     },
     {
-      "title": "SpaceX's US$24B Texas AI data center plan signals a bigger play for energy control",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261110VL206/spacex-texas-data-center-power-plant-investment.html"
-    },
-    {
-      "title": "Foxconn extends vertical integration across 5 battery layers",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261110PD218/foxconn-young-liu-manufacturing-chairman-materials.html"
-    },
-    {
-      "title": "China's trade surplus soars past US$1 trillion as AI boom powers exports",
+      "title": "Chipmaker Infineon forecasts strong 2027 growth on data-centre demand",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/china-trade-surplus-1-trillion-ai-boom-exports-6537981"
+      "url": "https://www.channelnewsasia.com/business/chipmaker-infineon-forecasts-strong-2027-growth-data-centre-demand-6538616"
+    },
+    {
+      "title": "Europe can compete in robotics and physical AI, top chipmaker CEOs say",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/europe-can-compete-in-robotics-and-physical-ai-top-chipmaker-ceos-say-6538606"
+    },
+    {
+      "title": "Yageo posts record October sales as China holiday weighs on Walsin's revenue",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261110PD236/yageo-revenue-passive-component-demand.html"
+    },
+    {
+      "title": "This startup helps enterprises adopt AI safely",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/startup-helps-enterprises-adopt-ai-safely"
     }
   ],
   "source_stats": [
@@ -131,7 +130,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -152,14 +151,14 @@
       "fetched": 10,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 84,
-      "relevant": 67,
+      "fetched": 94,
+      "relevant": 75,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +167,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 10,
+      "relevant": 12,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -179,7 +178,7 @@
       "fetched": 20,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
