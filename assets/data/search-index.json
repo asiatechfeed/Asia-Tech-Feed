@@ -1,140 +1,170 @@
 [
   {
     "date": "2026-11-10",
-    "title": "SoftBank, Grab plan $1.8b AI infrastructure in Malaysia",
-    "summary": "Malaysia has 61 data centers, per one report; Johor Bahru is among Asia's fastest-growing hubs.",
+    "title": "India’s Zoho adds AI agents and data layers to Analytics",
+    "summary": "Zoho Analytics' Basic plan will stay at US$24 per month, billed annually, for two users.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/softbank-grab-explore-ai-infrastructure-sarawak"
+    "url": "https://www.techinasia.com/war-exposes-risks-gulfs-ai-infrastructure-push"
   },
   {
     "date": "2026-11-10",
-    "title": "Commentary: Jensen Huang Is bigger than Nvidia – and it’s a problem",
-    "summary": "The revelation of the CEO’s affair with an alleged Chinese spy is not just shaking up the chipmaker but the entire AI world, says Shuli Ren for Bloomberg Opinion.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/commentary/nvidia-jensen-huang-affair-chinese-spy-ai-bubble-6535731"
-  },
-  {
-    "date": "2026-11-10",
-    "title": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
-    "summary": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/business/anthropic-unveils-new-fable-mythos-models-competition-heats-up-ahead-ipo-6536966"
-  },
-  {
-    "date": "2026-11-10",
-    "title": "Nvidia's Taiwan partners rally despite Jensen probe",
-    "summary": "Shares of Nvidia's major Taiwanese manufacturing partners rose on Monday despite mounting concerns over CEO Jensen Huang's future, suggesting that investors have yet to price in significant disruption to the AI chipmaker's supply chain.",
+    "title": "Tesla plans Cybertruck exit after Model S and Model X; raises stakes for Cybercab and Optimus",
+    "summary": "Tesla's Cybertruck, once hailed by CEO Elon Musk as the company's \"best product,\" is heading towards discontinuation. Musk recently announced on X that production at Tesla's Texas Gigafactory would be phased out around mid-2027, freeing capacity for the autonomous Cybercab robotaxi.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI",
-      "Semiconductor",
-      "Logistics"
+      "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20261109VL229.html"
+    "url": "https://www.digitimes.com/news/a20261110PD235/tesla-cybertruck-production-elon-musk.html"
   },
   {
     "date": "2026-11-10",
-    "title": "Taiwan President taps chip strengths for self-reliant space push",
-    "summary": "Taiwan will continuously elevate its self-reliant space technology capabilities while leveraging its long-standing strengths in semiconductors, electronics, telecommunications, and precision manufacturing, President Ching-Te Lai stated today (Nov. 9) as the 2026 Taiwan International Assembly of Space Science, Technolog",
+    "title": "SpaceX's US$24B Texas AI data center plan signals a bigger play for energy control",
+    "summary": "SpaceX plans to invest approximately US$24 billion in a natural gas-fired power plant and supercomputing facility in Starbase, Texas, extending Elon Musk's strategy of controlling the energy infrastructure behind the company's expanding AI and space operations.",
     "source": "DigiTimes",
     "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261110VL206/spacex-texas-data-center-power-plant-investment.html"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Foxconn extends vertical integration across 5 battery layers",
+    "summary": "Young Liu, chairman of Hon Hai Technology Group (Foxconn), repeatedly highlighted the company's strength in vertical integration at Hon Hai Tech Day 2026 (HHTD26), underscoring progress beyond AI data centers and into battery applications. Foxconn is linking materials, cells, battery management systems (BMS), battery p",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261110PD218/foxconn-young-liu-manufacturing-chairman-materials.html"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "China's trade surplus soars past US$1 trillion as AI boom powers exports",
+    "summary": "Exports rose sharply by 35.2 per cent in October from the same month last year, helping to lift China's trade surplus to US$1.04 trillion in the first 10 months.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/east-asia/china-trade-surplus-1-trillion-ai-boom-exports-6537981"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Qantas to cut 850 jobs as it rushes to keep pace with AI",
+    "summary": "\"Leading organisations around the world are well progressed in using technology and AI to completely transform how they work, and standing still is not an option for us,\" Qantas chief executive Vanessa Hudson said.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/world/qantas-cut-850-jobs-ai-accenture-india-6538201"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "SOLUM, Infineon Collaborate on HVDC Power Systems for AI Data Centers",
+    "summary": "The expanded partnership covers power conversion, battery backup and server power supplies for next-generation AI infrastructure. The post SOLUM, Infineon Collaborate on HVDC Power Systems for AI Data Centers appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/solum-infineon-collaborate-on-hvdc-power-systems-for-ai-data-centers/"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "How much is AI really selling this Singles’ Day in China?",
+    "summary": "Chatbots are driving sales ahead of the 11.11 shopping festival. Store data shows where AI shopping works best and what brands can do about it.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/ai-selling-singles-day"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Diamond Foundry Reports 200mm Single-crystal Diamond Wafer Milestone",
+    "summary": "The 200mm crystal could broaden diamond's role in semiconductor thermal management and advanced electronics. The post Diamond Foundry Reports 200mm Single-crystal Diamond Wafer Milestone appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
       "Semiconductor",
       "Electronics"
     ],
-    "url": "https://www.digitimes.com/news/a20261109PD266/2026-taiwan-technology-taiwan-space-agency.html"
+    "url": "https://www.eetasia.com/diamond-foundry-reports-200mm-single-crystal-diamond-wafer-milestone/"
   },
   {
     "date": "2026-11-10",
-    "title": "SK chief defends Samsung and SK's US$3.5 trillion investment plans",
-    "summary": "SK Group chairman Chey Tae-won has defended Samsung and SK's combined KRW4,755 trillion (approx. US$3.52 trillion) investment plans, arguing that South Korea cannot keep pace in the global artificial intelligence (AI) race without committing unprecedented amounts of capital.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261109VL227/investment-samsung-sk-group-chairman-competition.html"
-  },
-  {
-    "date": "2026-11-10",
-    "title": "Nvidia, SK Telecom tap Korean chip startup for sovereign AI",
-    "summary": "SK Telecom plans to deploy the systems and link them to its AI models and services.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/nvidiabacked-zankore-seeks-31b-loan-indonesia-ai-factory"
-  },
-  {
-    "date": "2026-11-10",
-    "title": "Allegro Develops 48V Power and Precision Sensing ICs for Humanoid Robots",
-    "summary": "Allegro MicroSystems is expanding its robotics portfolio with power management and position sensors targeting compact, safety-critical humanoid systems. The post Allegro Develops 48V Power and Precision Sensing ICs for Humanoid Robots appeared first on EE Times Asia .",
+    "title": "SEMI: Global Silicon Wafer Shipments Jump 13.4% YoY in 3Q 2026",
+    "summary": "Global silicon wafer shipments increased by 13.4% YoY to 3,756 MSI, according to SEMI Silicon Manufacturers Group. The post SEMI: Global Silicon Wafer Shipments Jump 13.4% YoY in 3Q 2026 appeared first on EE Times Asia .",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
-      "Automation"
+      "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/allegro-develops-48v-power-and-precision-sensing-ics-for-humanoid-robots/"
+    "url": "https://www.eetasia.com/semi-global-silicon-wafer-shipments-jump-13-4-yoy-in-3q-2026/"
   },
   {
     "date": "2026-11-10",
-    "title": "MiniMax affiliate forms AI software unit in China’s Zhuhai",
-    "summary": "Its business scope includes AI application software, AI basic software, and AI theory and algorithm software development.",
+    "title": "Lightspeed leads $240m round for AI hardware tester Nominal",
+    "summary": "Nominal CEO Cameron McCord previously worked at Anduril, one of the startup's 80 customers.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/minimax-seeks-2b-for-ai-expansion"
+    "url": "https://www.techinasia.com/spacex-sets-starship-launch-target"
   },
   {
     "date": "2026-11-10",
-    "title": "Musk's Terafab chipmaking project lines up Japan suppliers",
-    "summary": "Musk's Terafab chipmaking project lines up Japan suppliers",
+    "title": "Australia plans new regulator for artificial intelligence after OpenAI hack",
+    "summary": "Australia plans new regulator for artificial intelligence after OpenAI hack",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/musk-s-terafab-chipmaking-project-lines-up-japan-suppliers"
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/australia-plans-new-regulator-for-artificial-intelligence-after-openai-hack"
   },
   {
     "date": "2026-11-10",
-    "title": "Japan's Mitsui Chemicals to buy chip materials maker JSR for $11.6bn",
-    "summary": "Japan's Mitsui Chemicals to buy chip materials maker JSR for $11.6bn",
+    "title": "India's electronics firms face PCB squeeze as AI demand drives up costs",
+    "summary": "India's electronics firms face PCB squeeze as AI demand drives up costs",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "Semiconductor"
+      "Electronics",
+      "AI"
     ],
-    "url": "https://asia.nikkei.com/business/business-deals/japan-s-mitsui-chemicals-to-buy-chip-materials-maker-jsr-for-11.6bn"
+    "url": "https://asia.nikkei.com/business/electronics/india-s-electronics-firms-face-pcb-squeeze-as-ai-demand-drives-up-costs"
   },
   {
     "date": "2026-11-10",
-    "title": "Towa Pharmaceutical to ship Japan-made generics to US: CEO",
-    "summary": "Towa Pharmaceutical to ship Japan-made generics to US: CEO",
+    "title": "Integration among ASEAN, China, Japan, South Korea boosted by AI boom",
+    "summary": "Integration among ASEAN, China, Japan, South Korea boosted by AI boom",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "Pharmaceutical"
+      "AI"
     ],
-    "url": "https://asia.nikkei.com/business/pharmaceuticals/towa-pharmaceutical-to-ship-japan-made-generics-to-us-ceo"
+    "url": "https://asia.nikkei.com/spotlight/supply-chain/integration-among-asean-china-japan-south-korea-boosted-by-ai-boom"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
+    "summary": "Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001"
   },
   {
     "date": "2026-11-09",
