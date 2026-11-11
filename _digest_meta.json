@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-10",
-  "count": 13,
+  "date": "2026-11-11",
+  "count": 14,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -8,32 +8,32 @@
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-11-10-asia-tech-news-digest.md",
+  "post_file": "2026-11-11-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Ericsson CEO bets on AI and in-house RAN chips as 6G, satellite competition loom",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261110PD238/ericsson-ceo-chips-6g-telecom.html"
+      "title": "Agentic AI to Increase CPU, Memory and Networking Demands in Data Centers",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/agentic-ai-to-increase-cpu-memory-and-networking-demands-in-data-centers/"
     },
     {
-      "title": "Chipmaker Infineon forecasts strong 2027 growth on data-centre demand",
+      "title": "Cadence Integrates Component Selection and Procurement into OrCAD Xplore",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/cadence-integrates-component-selection-and-procurement-into-orcad-xplore/"
+    },
+    {
+      "title": "Japan manufacturers' mood hits more than 5-year high on chip demand: Reuters poll",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/chipmaker-infineon-forecasts-strong-2027-growth-data-centre-demand-6538616"
+      "url": "https://www.channelnewsasia.com/business/japan-manufacturers-mood-hits-more-5-year-high-chip-demand-reuters-poll-6540871"
     },
     {
-      "title": "Europe can compete in robotics and physical AI, top chipmaker CEOs say",
+      "title": "Commentary: Everything Jensen Huang said about China is out the window",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/europe-can-compete-in-robotics-and-physical-ai-top-chipmaker-ceos-say-6538606"
+      "url": "https://www.channelnewsasia.com/commentary/nvidia-ceo-jensen-huang-alice-china-ai-chips-6539051"
     },
     {
-      "title": "Yageo posts record October sales as China holiday weighs on Walsin's revenue",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261110PD236/yageo-revenue-passive-component-demand.html"
-    },
-    {
-      "title": "This startup helps enterprises adopt AI safely",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/startup-helps-enterprises-adopt-ai-safely"
+      "title": "CoreWeave targets 2028 profitability as AI demand remains strong",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/coreweave-targets-2028-profitability-ai-demand-remains-strong-6540696"
     }
   ],
   "source_stats": [
@@ -50,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -149,7 +149,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 9,
+      "relevant": 7,
       "sponsored_skipped": 0,
       "published": 2,
       "error": null
@@ -157,8 +157,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 94,
-      "relevant": 75,
+      "fetched": 100,
+      "relevant": 80,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +167,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 12,
+      "relevant": 13,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -194,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 20,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
