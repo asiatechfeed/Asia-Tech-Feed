@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "count": 9,
+  "count": 8,
   "sources": [
     "DigiTimes",
     "NikkeiAsia",
@@ -9,29 +9,29 @@
   "post_file": "2026-11-11-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Asia Electronic Materials advances PTFE Hybrid solution for AI clients",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261110PD239/asia-hybrid-materials-substrate-performance.html"
-    },
-    {
-      "title": "AI demand drives record revenue for Altos through October",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261110PD247/altos-computing-revenue-acer-subsidiary-demand.html"
-    },
-    {
-      "title": "Acer Synergy Tech rides semiconductor demand to record revenue",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261110PD246/ast-acer-subsidiary-demand-revenue.html"
-    },
-    {
-      "title": "Lenovo launches AI token factory to tap China inference demand",
+      "title": "Indosat subsidiary Lintasarta relaunches sovereign AI platform",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/lenovo-says-over-90-of-ai-pilots-fail-to-reach-deployment"
+      "url": "https://www.techinasia.com/batams-data-center-boom-started-caveats"
     },
     {
-      "title": "A desktop supercomputer might be the answer to AI transformation",
+      "title": "AMD expands EPYC server chip lineup for AI infrastructure",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/desktop-supercomputer-answer-ai-transformation"
+      "url": "https://www.techinasia.com/amd-shares-fall-50-q2-revenue-growth"
+    },
+    {
+      "title": "AMD unveils three-gen EPYC roadmap as TSMC 2nm process advances",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261111PD259/amd-2nm-tsmc-data-center-cpu.html"
+    },
+    {
+      "title": "Dynamic Holding posts record 3Q26 revenue and profit on mix, price hikes",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261111PD257/dynamic-pcb-revenue-profit-price.html"
+    },
+    {
+      "title": "Infineon says data center orders already exceed target as factory output sets ceiling",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261111VL218/infineon-demand-data-center-growth-revenue.html"
     }
   ],
   "source_stats": [
@@ -128,7 +128,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -155,8 +155,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 64,
-      "relevant": 42,
+      "fetched": 77,
+      "relevant": 52,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +167,7 @@
       "fetched": 50,
       "relevant": 14,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {

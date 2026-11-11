@@ -1,103 +1,92 @@
 [
   {
     "date": "2026-11-11",
-    "title": "Asia Electronic Materials advances PTFE Hybrid solution for AI clients",
-    "summary": "Asia Electronic Materials is developing high-frequency, high-speed substrate materials based on polytetrafluoroethylene (PTFE) through a Hybrid Coreless solution and continues to submit samples for AI customer validation, targeting advanced semiconductor and AI applications.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261110PD239/asia-hybrid-materials-substrate-performance.html"
-  },
-  {
-    "date": "2026-11-11",
-    "title": "AI demand drives record revenue for Altos through October",
-    "summary": "Acer subsidiary Altos reported October 2026 consolidated revenue of NT$155 million (US$4.72 million), up 44.1% year-over-year, while revenue for the first 10 months reached NT$2.41 billion, up 57.3%. Fueled by strong global demand for AI infrastructure, revenue through October surpassed its full-year 2025 total, settin",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
+    "title": "Indosat subsidiary Lintasarta relaunches sovereign AI platform",
+    "summary": "Lintasarta said Deka LLM is powered by Indosat Intelligence Suite and gives users access to multiple AI models and supporting infrastructure.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261110PD247/altos-computing-revenue-acer-subsidiary-demand.html"
+    "url": "https://www.techinasia.com/batams-data-center-boom-started-caveats"
   },
   {
     "date": "2026-11-11",
-    "title": "Acer Synergy Tech rides semiconductor demand to record revenue",
-    "summary": "Acer subsidiary Acer Synergy Tech benefited from sustained semiconductor industry growth, which drove demand for information technology (IT), operational technology (OT), and workforce service solutions. Its consolidated revenue reached NT$307 million (US$9.34 million) in October 2026, up 187.93% year-on-year and marki",
+    "title": "AMD expands EPYC server chip lineup for AI infrastructure",
+    "summary": "The US chipmaker said its 6th Gen EPYC server chips deliver up to 2.2x the performance of rival processors.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/amd-shares-fall-50-q2-revenue-growth"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "AMD unveils three-gen EPYC roadmap as TSMC 2nm process advances",
+    "summary": "As agentic AI rapidly advances, data center workloads are expanding from traditional model training into inference, agent collaboration, and real-time data processing. Consequently, CPUs are playing an increasingly vital role in task scheduling, data retrieval, tool execution, and workflow orchestration. Anticipating t",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261111PD259/amd-2nm-tsmc-data-center-cpu.html"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "Dynamic Holding posts record 3Q26 revenue and profit on mix, price hikes",
+    "summary": "PCB maker Dynamic Holding reported October 2026 consolidated revenue of NT$10.637 billion (approx. US$323.6 million), down slightly from NT$10.648 billion in September as extended holidays reduced working days, but up 70.3% from NT$6.245 billion a year earlier and the company's second-highest monthly figure on record.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261111PD257/dynamic-pcb-revenue-profit-price.html"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "Infineon says data center orders already exceed target as factory output sets ceiling",
+    "summary": "Infineon Technologies told analysts that demand is no longer what limits its growth. On a November 10 call to discuss its fiscal 2026 results, the German chipmaker said orders for its data center power products already exceed the close to EUR4 billion (approx. US$4.46 billion) of revenue it forecasts for fiscal 2027, a",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261110PD246/ast-acer-subsidiary-demand-revenue.html"
+    "url": "https://www.digitimes.com/news/a20261111VL218/infineon-demand-data-center-growth-revenue.html"
   },
   {
     "date": "2026-11-11",
-    "title": "Lenovo launches AI token factory to tap China inference demand",
-    "summary": "The system routes complex tasks to larger AI models and simpler interactions to smaller ones.",
+    "title": "Google DeepMind rolls out Gemini Robotics 2.5 to partners",
+    "summary": "Google said the new model improved task success rates, completion speed, and physical safety controls compared with earlier baselines.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "AI"
+      "Automation"
     ],
-    "url": "https://www.techinasia.com/lenovo-says-over-90-of-ai-pilots-fail-to-reach-deployment"
+    "url": "https://www.techinasia.com/google-deepmind-robotics-bets-brain-body"
   },
   {
     "date": "2026-11-11",
-    "title": "A desktop supercomputer might be the answer to AI transformation",
-    "summary": "Learn how compact hardware turns AI into a secure, permanent corporate asset.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/desktop-supercomputer-answer-ai-transformation"
-  },
-  {
-    "date": "2026-11-11",
-    "title": "Mapping the startups setting the pace in Korea’s AI sector",
-    "summary": "Mapping Korea's AI sector: Key players, top investors, and funding insights in one report.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups"
-  },
-  {
-    "date": "2026-11-11",
-    "title": "Japan's Akita AI data center seen anchoring tech hub, boosting tax revenue",
-    "summary": "Japan's Akita AI data center seen anchoring tech hub, boosting tax revenue",
+    "title": "Microsoft says tech firms must 'prove' AI data centers benefit locals",
+    "summary": "Microsoft says tech firms must 'prove' AI data centers benefit locals",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-akita-ai-data-center-seen-anchoring-tech-hub-boosting-tax-revenue"
+    "url": "https://asia.nikkei.com/spotlight/global-management-dialogue/global-management-dialogue-2026/microsoft-says-tech-firms-must-prove-ai-data-centers-benefit-locals"
   },
   {
     "date": "2026-11-11",
-    "title": "TSMC is seeing 'insatiable' demand for chips, executive tells Nikkei Forum",
-    "summary": "TSMC is seeing 'insatiable' demand for chips, executive tells Nikkei Forum",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://asia.nikkei.com/spotlight/global-management-dialogue/global-management-dialogue-2026/tsmc-is-seeing-insatiable-demand-for-chips-executive-tells-nikkei-forum"
-  },
-  {
-    "date": "2026-11-11",
-    "title": "DeepSeek, other China AI firms have just 10% the revenue of OpenAI, Anthropic",
-    "summary": "DeepSeek, other China AI firms have just 10% the revenue of OpenAI, Anthropic",
+    "title": "SoftBank swings to first-half loss as AI hopes face new setbacks",
+    "summary": "SoftBank swings to first-half loss as AI hopes face new setbacks",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-other-china-ai-firms-have-just-10-the-revenue-of-openai-anthropic"
+    "url": "https://asia.nikkei.com/business/softbank/softbank-swings-to-first-half-loss-as-ai-hopes-face-new-setbacks"
   },
   {
     "date": "2026-11-10",

@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - November 11, 2026"
-date: 2026-11-11 13:48:14 +0800
-articles_count: 9
+date: 2026-11-11 16:00:50 +0800
+articles_count: 8
 sources_count: 3
 sources: ["DigiTimes", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-11-11.tsv
-featured_title: "Asia Electronic Materials advances PTFE Hybrid solution for AI clients"
-featured_url: "https://www.digitimes.com/news/a20261110PD239/asia-hybrid-materials-substrate-performance.html"
-featured_source: "DigiTimes"
-featured_summary: "Asia Electronic Materials is developing high-frequency, high-speed substrate materials based on polytetrafluoroethylene (PTFE) through a Hybrid Coreless solution and continues to submit samples for AI customer validation, targeting advanced semiconductor and AI applications."
-featured_image: "https://img.digitimes.com/newsshow/20261110pd239_files/1_2b.jpg"
+featured_title: "Indosat subsidiary Lintasarta relaunches sovereign AI platform"
+featured_url: "https://www.techinasia.com/batams-data-center-boom-started-caveats"
+featured_source: "TechAsia"
+featured_summary: "Lintasarta said Deka LLM is powered by Indosat Intelligence Suite and gives users access to multiple AI models and supporting infrastructure."
+featured_image: ""
 ---
 
 <table class="news-table">
@@ -27,75 +27,67 @@ featured_image: "https://img.digitimes.com/newsshow/20261110pd239_files/1_2b.jpg
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Asia Electronic Materials advances PTFE Hybrid solution for AI clients</span></td>
-  <td class="col-summary">Asia Electronic Materials is developing high-frequency, high-speed substrate materials based on polytetrafluoroethylene (PTFE) through a Hybrid Coreless solution and continues to submit samples for AI customer validation, targeting advanced semiconductor and AI applications.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261110PD239/asia-hybrid-materials-substrate-performance.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Indosat subsidiary Lintasarta relaunches sovereign AI platform</span></td>
+  <td class="col-summary">Lintasarta said Deka LLM is powered by Indosat Intelligence Suite and gives users access to multiple AI models and supporting infrastructure.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/batams-data-center-boom-started-caveats" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AI demand drives record revenue for Altos through October</span></td>
-  <td class="col-summary">Acer subsidiary Altos reported October 2026 consolidated revenue of NT$155 million (US$4.72 million), up 44.1% year-over-year, while revenue for the first 10 months reached NT$2.41 billion, up 57.3%. Fueled by strong global demand for AI infrastructure, revenue through October surpassed its full-year 2025 total, settin</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261110PD247/altos-computing-revenue-acer-subsidiary-demand.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">AMD expands EPYC server chip lineup for AI infrastructure</span></td>
+  <td class="col-summary">The US chipmaker said its 6th Gen EPYC server chips deliver up to 2.2x the performance of rival processors.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/amd-shares-fall-50-q2-revenue-growth" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Acer Synergy Tech rides semiconductor demand to record revenue</span></td>
-  <td class="col-summary">Acer subsidiary Acer Synergy Tech benefited from sustained semiconductor industry growth, which drove demand for information technology (IT), operational technology (OT), and workforce service solutions. Its consolidated revenue reached NT$307 million (US$9.34 million) in October 2026, up 187.93% year-on-year and marki</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261110PD246/ast-acer-subsidiary-demand-revenue.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">AMD unveils three-gen EPYC roadmap as TSMC 2nm process advances</span></td>
+  <td class="col-summary">As agentic AI rapidly advances, data center workloads are expanding from traditional model training into inference, agent collaboration, and real-time data processing. Consequently, CPUs are playing an increasingly vital role in task scheduling, data retrieval, tool execution, and workflow orchestration. Anticipating t</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261111PD259/amd-2nm-tsmc-data-center-cpu.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Lenovo launches AI token factory to tap China inference demand</span></td>
-  <td class="col-summary">The system routes complex tasks to larger AI models and simpler interactions to smaller ones.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/lenovo-says-over-90-of-ai-pilots-fail-to-reach-deployment" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Dynamic Holding posts record 3Q26 revenue and profit on mix, price hikes</span></td>
+  <td class="col-summary">PCB maker Dynamic Holding reported October 2026 consolidated revenue of NT$10.637 billion (approx. US$323.6 million), down slightly from NT$10.648 billion in September as extended holidays reduced working days, but up 70.3% from NT$6.245 billion a year earlier and the company's second-highest monthly figure on record.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261111PD257/dynamic-pcb-revenue-profit-price.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">A desktop supercomputer might be the answer to AI transformation</span></td>
-  <td class="col-summary">Learn how compact hardware turns AI into a secure, permanent corporate asset.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/desktop-supercomputer-answer-ai-transformation" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Infineon says data center orders already exceed target as factory output sets ceiling</span></td>
+  <td class="col-summary">Infineon Technologies told analysts that demand is no longer what limits its growth. On a November 10 call to discuss its fiscal 2026 results, the German chipmaker said orders for its data center power products already exceed the close to EUR4 billion (approx. US$4.46 billion) of revenue it forecasts for fiscal 2027, a</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261111VL218/infineon-demand-data-center-growth-revenue.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Mapping the startups setting the pace in Korea’s AI sector</span></td>
-  <td class="col-summary">Mapping Korea's AI sector: Key players, top investors, and funding insights in one report.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Google DeepMind rolls out Gemini Robotics 2.5 to partners</span></td>
+  <td class="col-summary">Google said the new model improved task success rates, completion speed, and physical safety controls compared with earlier baselines.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/google-deepmind-robotics-bets-brain-body" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan's Akita AI data center seen anchoring tech hub, boosting tax revenue</span></td>
-  <td class="col-summary">Japan's Akita AI data center seen anchoring tech hub, boosting tax revenue</td>
+  <td class="col-title"><span class="article-title">Microsoft says tech firms must 'prove' AI data centers benefit locals</span></td>
+  <td class="col-summary">Microsoft says tech firms must 'prove' AI data centers benefit locals</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-akita-ai-data-center-seen-anchoring-tech-hub-boosting-tax-revenue" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/global-management-dialogue/global-management-dialogue-2026/microsoft-says-tech-firms-must-prove-ai-data-centers-benefit-locals" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">TSMC is seeing 'insatiable' demand for chips, executive tells Nikkei Forum</span></td>
-  <td class="col-summary">TSMC is seeing 'insatiable' demand for chips, executive tells Nikkei Forum</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/global-management-dialogue/global-management-dialogue-2026/tsmc-is-seeing-insatiable-demand-for-chips-executive-tells-nikkei-forum" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">DeepSeek, other China AI firms have just 10% the revenue of OpenAI, Anthropic</span></td>
-  <td class="col-summary">DeepSeek, other China AI firms have just 10% the revenue of OpenAI, Anthropic</td>
+  <td class="col-title"><span class="article-title">SoftBank swings to first-half loss as AI hopes face new setbacks</span></td>
+  <td class="col-summary">SoftBank swings to first-half loss as AI hopes face new setbacks</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-other-china-ai-firms-have-just-10-the-revenue-of-openai-anthropic" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/softbank/softbank-swings-to-first-half-loss-as-ai-hopes-face-new-setbacks" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
