@@ -1,39 +1,37 @@
 {
   "date": "2026-11-11",
-  "count": 14,
+  "count": 9,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-11-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Agentic AI to Increase CPU, Memory and Networking Demands in Data Centers",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/agentic-ai-to-increase-cpu-memory-and-networking-demands-in-data-centers/"
+      "title": "Asia Electronic Materials advances PTFE Hybrid solution for AI clients",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261110PD239/asia-hybrid-materials-substrate-performance.html"
     },
     {
-      "title": "Cadence Integrates Component Selection and Procurement into OrCAD Xplore",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/cadence-integrates-component-selection-and-procurement-into-orcad-xplore/"
+      "title": "AI demand drives record revenue for Altos through October",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261110PD247/altos-computing-revenue-acer-subsidiary-demand.html"
     },
     {
-      "title": "Japan manufacturers' mood hits more than 5-year high on chip demand: Reuters poll",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/japan-manufacturers-mood-hits-more-5-year-high-chip-demand-reuters-poll-6540871"
+      "title": "Acer Synergy Tech rides semiconductor demand to record revenue",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261110PD246/ast-acer-subsidiary-demand-revenue.html"
     },
     {
-      "title": "Commentary: Everything Jensen Huang said about China is out the window",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/nvidia-ceo-jensen-huang-alice-china-ai-chips-6539051"
+      "title": "Lenovo launches AI token factory to tap China inference demand",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/lenovo-says-over-90-of-ai-pilots-fail-to-reach-deployment"
     },
     {
-      "title": "CoreWeave targets 2028 profitability as AI demand remains strong",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/coreweave-targets-2028-profitability-ai-demand-remains-strong-6540696"
+      "title": "A desktop supercomputer might be the answer to AI transformation",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/desktop-supercomputer-answer-ai-transformation"
     }
   ],
   "source_stats": [
@@ -50,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 5,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -151,14 +149,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 100,
-      "relevant": 80,
+      "fetched": 64,
+      "relevant": 42,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +165,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 13,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -194,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
