@@ -1,5 +1,106 @@
 [
   {
+    "date": "2026-11-12",
+    "title": "United Airlines moves to block AI agents from its platform over security concerns",
+    "summary": "United Airlines moves to block AI agents from its platform over security concerns",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/united-airlines-moves-block-ai-agents-its-platform-over-security-concerns-6543776"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Moonshot AI reportedly accessed restricted Nvidia chips in China despite US ban",
+    "summary": "Moonshot AI reportedly accessed advanced Nvidia chips this summer, according to documents filed with Chinese regulators. The finding shows that advanced US chips continue to make their way into China despite Washington's export restrictions. It also reveals Moonshot's continued reliance on American chips even as Beijin",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261111VL223/moonshot-nvidia-chips-beijing-exports.html"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "AI server tracker: Beyond GPUs, chassis, power supplies, rail kits and cooling capture a bigger growth story",
+    "summary": "Taiwan's AI server component suppliers are surpassing last year's revenue well before December. Eleven of the 13 companies tracked across chassis, power supplies, rail kits and thermal management had already exceeded their full-year 2025 sales in the January–October 2026 period, although October's results show differin",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261111VL220/ai-server-revenue-chassis-2025-taiwan.html"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Diamond Foundry says it has grown a 200mm single-crystal diamond",
+    "summary": "Diamond Foundry has produced what it calls the first-ever single-crystal diamond measuring 200mm in diameter, according to a company blog post published on November 5, 2026. The post describes the crystal, which the company calls D8-inch, as a single continuous crystal and a step toward treating diamond as a semiconduc",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261111PR201/200mm-2026-silicon-manufacturing-growth.html"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Variable-Length Prompts on Chimera GPNPU",
+    "summary": "How a flexible binary can serve every length up to the capacity you set. The post Variable-Length Prompts on Chimera GPNPU appeared first on Semiconductor Engineering .",
+    "source": "Semiconductor Engineering",
+    "short": "SemiEng",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://semiengineering.com/variable-length-prompts-on-chimera-gpnpu/"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Dassault Systèmes plans ASEAN industrial AI lab in Singapore",
+    "summary": "The firm plans to employ over 30 AI professionals at the lab within its first five years.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/indian-flying-taxi-startup-eplane-seeks-50m-funding"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Alibaba’s AI chip unit T-Head files for Hong Kong IPO",
+    "summary": "Founded in 2018, T-Head had shipped 560,000 Zhenwu AI chips as of April 2026.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/alibaba-releases-ai-chip-training-inference"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "SK hynix memory gets safety certification for cars, robots",
+    "summary": "In vehicles, LPDDR5X is marketed for use in advanced driver-assistance and infotainment systems.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/sk-hynix-weighs-nand-chip-plant-solidigm"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Real-world data, data rights: What SY Lee's $30 mn Sui deal means for physical AI",
+    "summary": "SY Lee, co-founder of US-based web novel platform Radish Fiction Inc., first rose to prominence in 2021 when Kakao Entertainment Corp., a unit of Sout",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/korean-startups/newsView/ked202611100014"
+  },
+  {
     "date": "2026-11-11",
     "title": "Indosat subsidiary Lintasarta relaunches sovereign AI platform",
     "summary": "Lintasarta said Deka LLM is powered by Indosat Intelligence Suite and gives users access to multiple AI models and supporting infrastructure.",

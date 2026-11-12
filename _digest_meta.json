@@ -1,37 +1,39 @@
 {
-  "date": "2026-11-11",
-  "count": 8,
+  "date": "2026-11-12",
+  "count": 9,
   "sources": [
+    "CNA",
     "DigiTimes",
-    "NikkeiAsia",
+    "KED",
+    "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-11-11-asia-tech-news-digest.md",
+  "post_file": "2026-11-12-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Indosat subsidiary Lintasarta relaunches sovereign AI platform",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/batams-data-center-boom-started-caveats"
+      "title": "United Airlines moves to block AI agents from its platform over security concerns",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/united-airlines-moves-block-ai-agents-its-platform-over-security-concerns-6543776"
     },
     {
-      "title": "AMD expands EPYC server chip lineup for AI infrastructure",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/amd-shares-fall-50-q2-revenue-growth"
-    },
-    {
-      "title": "AMD unveils three-gen EPYC roadmap as TSMC 2nm process advances",
+      "title": "Moonshot AI reportedly accessed restricted Nvidia chips in China despite US ban",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261111PD259/amd-2nm-tsmc-data-center-cpu.html"
+      "url": "https://www.digitimes.com/news/a20261111VL223/moonshot-nvidia-chips-beijing-exports.html"
     },
     {
-      "title": "Dynamic Holding posts record 3Q26 revenue and profit on mix, price hikes",
+      "title": "AI server tracker: Beyond GPUs, chassis, power supplies, rail kits and cooling capture a bigger growth story",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261111PD257/dynamic-pcb-revenue-profit-price.html"
+      "url": "https://www.digitimes.com/news/a20261111VL220/ai-server-revenue-chassis-2025-taiwan.html"
     },
     {
-      "title": "Infineon says data center orders already exceed target as factory output sets ceiling",
+      "title": "Diamond Foundry says it has grown a 200mm single-crystal diamond",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261111VL218/infineon-demand-data-center-growth-revenue.html"
+      "url": "https://www.digitimes.com/news/a20261111PR201/200mm-2026-silicon-manufacturing-growth.html"
+    },
+    {
+      "title": "Variable-Length Prompts on Chimera GPNPU",
+      "source": "SemiEng",
+      "url": "https://semiengineering.com/variable-length-prompts-on-chimera-gpnpu/"
     }
   ],
   "source_stats": [
@@ -48,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -155,8 +157,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 77,
-      "relevant": 52,
+      "fetched": 86,
+      "relevant": 59,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,18 +167,18 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 14,
+      "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "KED",
       "name": "KED Global",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -210,9 +212,9 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     }
   ]
