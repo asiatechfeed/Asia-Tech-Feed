@@ -1,4 +1,89 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-11T08:01:27+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 11, 2026</title><link href="https://asiatechfeed.com/2026/11/11/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 11, 2026" /><published>2026-11-11T08:00:50+00:00</published><updated>2026-11-11T08:00:50+00:00</updated><id>https://asiatechfeed.com/2026/11/11/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/11/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-12T00:02:04+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 12, 2026</title><link href="https://asiatechfeed.com/2026/11/12/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 12, 2026" /><published>2026-11-12T00:01:23+00:00</published><updated>2026-11-12T00:01:23+00:00</updated><id>https://asiatechfeed.com/2026/11/12/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/12/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">United Airlines moves to block AI agents from its platform over security concerns</span></td>
+  <td class="col-summary">United Airlines moves to block AI agents from its platform over security concerns</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/united-airlines-moves-block-ai-agents-its-platform-over-security-concerns-6543776" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Moonshot AI reportedly accessed restricted Nvidia chips in China despite US ban</span></td>
+  <td class="col-summary">Moonshot AI reportedly accessed advanced Nvidia chips this summer, according to documents filed with Chinese regulators. The finding shows that advanced US chips continue to make their way into China despite Washington's export restrictions. It also reveals Moonshot's continued reliance on American chips even as Beijin</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261111VL223/moonshot-nvidia-chips-beijing-exports.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">AI server tracker: Beyond GPUs, chassis, power supplies, rail kits and cooling capture a bigger growth story</span></td>
+  <td class="col-summary">Taiwan's AI server component suppliers are surpassing last year's revenue well before December. Eleven of the 13 companies tracked across chassis, power supplies, rail kits and thermal management had already exceeded their full-year 2025 sales in the January–October 2026 period, although October's results show differin</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261111VL220/ai-server-revenue-chassis-2025-taiwan.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Diamond Foundry says it has grown a 200mm single-crystal diamond</span></td>
+  <td class="col-summary">Diamond Foundry has produced what it calls the first-ever single-crystal diamond measuring 200mm in diameter, according to a company blog post published on November 5, 2026. The post describes the crystal, which the company calls D8-inch, as a single continuous crystal and a step toward treating diamond as a semiconduc</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261111PR201/200mm-2026-silicon-manufacturing-growth.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">SemiEng</span></td>
+  <td class="col-title"><span class="article-title">Variable-Length Prompts on Chimera GPNPU</span></td>
+  <td class="col-summary">How a flexible binary can serve every length up to the capacity you set. The post Variable-Length Prompts on Chimera GPNPU appeared first on Semiconductor Engineering .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://semiengineering.com/variable-length-prompts-on-chimera-gpnpu/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Dassault Systèmes plans ASEAN industrial AI lab in Singapore</span></td>
+  <td class="col-summary">The firm plans to employ over 30 AI professionals at the lab within its first five years.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/indian-flying-taxi-startup-eplane-seeks-50m-funding" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba’s AI chip unit T-Head files for Hong Kong IPO</span></td>
+  <td class="col-summary">Founded in 2018, T-Head had shipped 560,000 Zhenwu AI chips as of April 2026.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-releases-ai-chip-training-inference" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">SK hynix memory gets safety certification for cars, robots</span></td>
+  <td class="col-summary">In vehicles, LPDDR5X is marketed for use in advanced driver-assistance and infotainment systems.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-hynix-weighs-nand-chip-plant-solidigm" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">Real-world data, data rights: What SY Lee's $30 mn Sui deal means for physical AI</span></td>
+  <td class="col-summary">SY Lee, co-founder of US-based web novel platform Radish Fiction Inc., first rose to prominence in 2021 when Kakao Entertainment Corp., a unit of Sout</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/korean-startups/newsView/ked202611100014" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA United Airlines moves to block AI agents from its platform over security concerns United Airlines moves to block AI agents from its platform over security concerns AI Read 2 DigiTimes Moonshot AI reportedly accessed restricted Nvidia chips in China despite US ban Moonshot AI reportedly accessed advanced Nvidia chips this summer, according to documents filed with Chinese regulators. The finding shows that advanced US chips continue to make their way into China despite Washington's export restrictions. It also reveals Moonshot's continued reliance on American chips even as Beijin AISemiconductor Read 3 DigiTimes AI server tracker: Beyond GPUs, chassis, power supplies, rail kits and cooling capture a bigger growth story Taiwan's AI server component suppliers are surpassing last year's revenue well before December. Eleven of the 13 companies tracked across chassis, power supplies, rail kits and thermal management had already exceeded their full-year 2025 sales in the January–October 2026 period, although October's results show differin AI Read 4 DigiTimes Diamond Foundry says it has grown a 200mm single-crystal diamond Diamond Foundry has produced what it calls the first-ever single-crystal diamond measuring 200mm in diameter, according to a company blog post published on November 5, 2026. The post describes the crystal, which the company calls D8-inch, as a single continuous crystal and a step toward treating diamond as a semiconduc Semiconductor Read 5 SemiEng Variable-Length Prompts on Chimera GPNPU How a flexible binary can serve every length up to the capacity you set. The post Variable-Length Prompts on Chimera GPNPU appeared first on Semiconductor Engineering . Semiconductor Read 6 TechAsia Dassault Systèmes plans ASEAN industrial AI lab in Singapore The firm plans to employ over 30 AI professionals at the lab within its first five years. AI Read 7 TechAsia Alibaba’s AI chip unit T-Head files for Hong Kong IPO Founded in 2018, T-Head had shipped 560,000 Zhenwu AI chips as of April 2026. AISemiconductor Read 8 TechAsia SK hynix memory gets safety certification for cars, robots In vehicles, LPDDR5X is marketed for use in advanced driver-assistance and infotainment systems. Automation Read 9 KED Real-world data, data rights: What SY Lee's $30 mn Sui deal means for physical AI SY Lee, co-founder of US-based web novel platform Radish Fiction Inc., first rose to prominence in 2021 when Kakao Entertainment Corp., a unit of Sout AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 11, 2026</title><link href="https://asiatechfeed.com/2026/11/11/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 11, 2026" /><published>2026-11-11T08:00:50+00:00</published><updated>2026-11-11T08:00:50+00:00</updated><id>https://asiatechfeed.com/2026/11/11/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/11/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -667,73 +752,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/grab-eyes-more-ai-investment-after-taiwan-deal-blocked" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Oracle to sell US$20 billion in stocks and bonds as concerns grow over debt-fueled expansion Oracle aims to raise US$20 billion through selling stock and issuing bonds to fund its AI build-out. Its stock value dropped after the company filed the plans, a sign that investors are growing wary of hyperscalers' increasing debt before anticipated AI revenues trickle in. AI Read 2 TechAsia Vietnam’s Viettel unveils VGC v1.0 chip for secure government systems Vietnam's national digital signature system has over 2 million certificates in circulation. Semiconductor Read 3 DigiTimes Apple's US$5 trillion dilemma: iPhone Duo and AI raise stakes for next growth chapter Apple's record fiscal 2026 performance left a central question unresolved: can premium-priced iPhones, AI, and expanding services sustain enough growth to justify a valuation approaching US$5 trillion? For new CEO John Ternus, the challenge is converting product innovation into lasting earnings growth rather than relyi AI Read 4 DigiTimes Metaage posts 17% revenue growth through 3Q26, eyes AI expansion Metaage, a subsidiary of Qisda, posted consolidated revenue of approximately NT$19 billion (US$583 million) for the first three quarters of 2026, up 17% from NT$16.2 billion in the same period of 2025, as enterprise IT infrastructure, software, and cloud businesses expanded. The company is targeting AI infrastructure a AI Read 5 TechAsia Goldman Sachs restricts some AI coding tools to engineers Some Goldman traders had used AI coding tools to model market moves and create graphic content. AI Read 6 TechAsia Hong Kong heirs ditch property for tech Why Hong Kong’s next-gen wealth is chasing AI over property, and a look back at how family offices backed Southeast Asian startups. AI Read 7 NikkeiAsia Grab eyes more AI investment after Taiwan deal blocked Grab eyes more AI investment after Taiwan deal blocked AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 02, 2026</title><link href="https://asiatechfeed.com/2026/11/02/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 02, 2026" /><published>2026-11-02T08:00:57+00:00</published><updated>2026-11-02T08:00:57+00:00</updated><id>https://asiatechfeed.com/2026/11/02/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/02/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Replacing expensive A/B tests with AI models</span></td>
-  <td class="col-summary">Pre-launch ad testing can cost thousands. Voygic uses AI predictive models to give consumer brands highly accurate feedback in minutes.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/replacing-expensive-ab-tests-ai-models" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AI data center demand fuels THEIL's optical communications rebound, 4Q26 to buck seasonal downtrend</span></td>
-  <td class="col-summary">Tong Hsing Electronic Industries (THEIL) outlined the latest developments and market trends across its four major product lines of optical communications, ceramic substrates, new semiconductor materials, and image sensors, during an earnings call on October 30.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261101PD201/theil-optical-communications-data-center-demand.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">BenQ Materials targets premium displays and medical growth, seeks semiconductor materials breakthrough</span></td>
-  <td class="col-summary">BenQ Materials is targeting higher-value, faster-growing segments across its display, medical and semiconductor materials businesses. Chairman ZC Chen said the company's transformation centres on identifying stronger growth opportunities, with medical products expanding steadily and semiconductor materials expected to </td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261102PD211/benq-materials-medical-oled-panel-materials-growth.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Samsung SDS, LG CNS target AI data center growth in Asia</span></td>
-  <td class="col-summary">Samsung SDS's Gumi facility will use hybrid air and water cooling for its GPU servers.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/samsung-sds-to-invest-4-3b-in-ai-data-centers-ma" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">'When we have Halloween Horror Night at home': Singapore neighbourhoods go all out with spooky decorations</span></td>
-  <td class="col-summary">From Woodgrove and Watten Estate to Chip Bee Gardens and Sembawang, residents transformed their homes and streets with Halloween decorations, costumes and trick-or-treating activities.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/living/singapore-neighbourhoods-halloween-2026-woodgrove-opera-estate-6512076" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Macronix wins IEEE Milestone — chair reveals how sNOVA transformed Taiwan's chipmaking</span></td>
-  <td class="col-summary">Memory chipmaker Macronix International Co. has become Taiwan's first semiconductor company to receive an IEEE Milestone, in recognition of its pioneering sNOVA engineering data analysis system and its contribution to semiconductor manufacturing automation.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261102PD226/taiwan-ieee-macronix-international-chairman-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Autodesk, JTC explore AI for Singapore’s built environment</span></td>
-  <td class="col-summary">The work will cover connected data, AI-enabled project delivery, carbon analysis, and software interoperability.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/gen-harvard-dropout-builds-ai-platform-architects" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Replacing expensive A/B tests with AI models Pre-launch ad testing can cost thousands. Voygic uses AI predictive models to give consumer brands highly accurate feedback in minutes. AI Read 2 DigiTimes AI data center demand fuels THEIL's optical communications rebound, 4Q26 to buck seasonal downtrend Tong Hsing Electronic Industries (THEIL) outlined the latest developments and market trends across its four major product lines of optical communications, ceramic substrates, new semiconductor materials, and image sensors, during an earnings call on October 30. Semiconductor Read 3 DigiTimes BenQ Materials targets premium displays and medical growth, seeks semiconductor materials breakthrough BenQ Materials is targeting higher-value, faster-growing segments across its display, medical and semiconductor materials businesses. Chairman ZC Chen said the company's transformation centres on identifying stronger growth opportunities, with medical products expanding steadily and semiconductor materials expected to Semiconductor Read 4 TechAsia Samsung SDS, LG CNS target AI data center growth in Asia Samsung SDS's Gumi facility will use hybrid air and water cooling for its GPU servers. AI Read 5 CNA 'When we have Halloween Horror Night at home': Singapore neighbourhoods go all out with spooky decorations From Woodgrove and Watten Estate to Chip Bee Gardens and Sembawang, residents transformed their homes and streets with Halloween decorations, costumes and trick-or-treating activities. Semiconductor Read 6 DigiTimes Macronix wins IEEE Milestone — chair reveals how sNOVA transformed Taiwan's chipmaking Memory chipmaker Macronix International Co. has become Taiwan's first semiconductor company to receive an IEEE Milestone, in recognition of its pioneering sNOVA engineering data analysis system and its contribution to semiconductor manufacturing automation. SemiconductorAutomation Read 7 TechAsia Autodesk, JTC explore AI for Singapore’s built environment The work will cover connected data, AI-enabled project delivery, carbon analysis, and software interoperability. AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Oracle to sell US$20 billion in stocks and bonds as concerns grow over debt-fueled expansion Oracle aims to raise US$20 billion through selling stock and issuing bonds to fund its AI build-out. Its stock value dropped after the company filed the plans, a sign that investors are growing wary of hyperscalers' increasing debt before anticipated AI revenues trickle in. AI Read 2 TechAsia Vietnam’s Viettel unveils VGC v1.0 chip for secure government systems Vietnam's national digital signature system has over 2 million certificates in circulation. Semiconductor Read 3 DigiTimes Apple's US$5 trillion dilemma: iPhone Duo and AI raise stakes for next growth chapter Apple's record fiscal 2026 performance left a central question unresolved: can premium-priced iPhones, AI, and expanding services sustain enough growth to justify a valuation approaching US$5 trillion? For new CEO John Ternus, the challenge is converting product innovation into lasting earnings growth rather than relyi AI Read 4 DigiTimes Metaage posts 17% revenue growth through 3Q26, eyes AI expansion Metaage, a subsidiary of Qisda, posted consolidated revenue of approximately NT$19 billion (US$583 million) for the first three quarters of 2026, up 17% from NT$16.2 billion in the same period of 2025, as enterprise IT infrastructure, software, and cloud businesses expanded. The company is targeting AI infrastructure a AI Read 5 TechAsia Goldman Sachs restricts some AI coding tools to engineers Some Goldman traders had used AI coding tools to model market moves and create graphic content. AI Read 6 TechAsia Hong Kong heirs ditch property for tech Why Hong Kong’s next-gen wealth is chasing AI over property, and a look back at how family offices backed Southeast Asian startups. AI Read 7 NikkeiAsia Grab eyes more AI investment after Taiwan deal blocked Grab eyes more AI investment after Taiwan deal blocked AI Read]]></summary></entry></feed>
