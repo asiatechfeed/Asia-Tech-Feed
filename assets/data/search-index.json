@@ -1,149 +1,137 @@
 [
   {
     "date": "2026-11-13",
-    "title": "China's access to Nvidia chips in doubt as curbs gain traction in US Congress",
-    "summary": "China's access to Nvidia chips in doubt as curbs gain traction in US Congress",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/east-asia/china-access-nvidia-chips-us-congress-jensen-huang-6546746"
-  },
-  {
-    "date": "2026-11-13",
-    "title": "Commentary: I don’t want AI in my online search. What options do I have?",
-    "summary": "It is technically possible to disable AI-generated answers from the search results page, says this academic.",
+    "title": "Chinese AI shares tumble after Nvidia's Jensen Huang resigns",
+    "summary": "\"The market fears that after Huang's resignation, Nvidia will reduce sourcing from Chinese suppliers,\" said a fund manager in Shenzhen.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/commentary/ai-in-google-online-search-how-disable-6545591"
+    "url": "https://www.channelnewsasia.com/business/chinese-ai-shares-tumble-nvidia-jensen-huang-resigns-6548711"
   },
   {
     "date": "2026-11-13",
-    "title": "Samsung reportedly moves up 8-inch foundry exit to 2029, outsources some production to UMC",
-    "summary": "Samsung Electronics is targeting an exit from its 8-inch foundry business by the end of 2029, a year earlier than previously reported, and has been outsourcing some production to Taiwan's United Microelectronics Corporation (UMC), South Korea's Dealsite reported on November 12, citing industry sources.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261112VL214/samsung-production-umc-manufacturing-outsourcing.html"
-  },
-  {
-    "date": "2026-11-13",
-    "title": "Qualcomm begins India job cuts as handset chip sales slide",
-    "summary": "Qualcomm has started laying off employees in India, its largest engineering base outside the US, as the chipmaker carries out a performance-focused global workforce reduction amid a fall in smartphone chip sales.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261112VL200/qualcomm-revenue-workforce-salary-hyderabad.html"
-  },
-  {
-    "date": "2026-11-13",
-    "title": "India unveils indigenous AI models under IndiaAI Mission",
-    "summary": "India's release of the EKA-1, Dhīr 2B, and Dhīr 5B foundation models highlights a public-backed effort to develop multilingual AI for domestic and international use. The models range from those with large-scale reasoning and coding capabilities to lightweight, offline-capable assistants, with implications for data sove",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261112PR201/government-language.html"
-  },
-  {
-    "date": "2026-11-13",
-    "title": "Nubank improves 2026 efficiency ratio outlook as AI leads hiring slowdown",
-    "summary": "Nubank improves 2026 efficiency ratio outlook as AI leads hiring slowdown",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/nubank-improves-2026-efficiency-ratio-outlook-ai-leads-hiring-slowdown-6547521"
-  },
-  {
-    "date": "2026-11-13",
-    "title": "SoftBank leads $500m bet on German robot maker Agile Robots",
-    "summary": "The company plans to expand in the US, add production capacity, including in Germany, and enter new markets.",
+    "title": "Why Jensen’s downfall puts SEA at risk",
+    "summary": "Nvidia’s dominance will outlast Jensen Huang. However, Southeast Asia’s access to its chips is less certain.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "Automation"
+      "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/scaling-indigenous-defense-robotics-emerging-markets"
+    "url": "https://www.techinasia.com/jensens-downfall-puts-sea-risk"
   },
   {
     "date": "2026-11-13",
-    "title": "Naver signs $1.5b AI infrastructure deal, seeks Nvidia chips",
-    "summary": "Naver said the first contract covers about 20 megawatts of power capacity, with supply set to begin in 2027.",
+    "title": "LGES, Samsung SDI target 2Q27 LFP battery production for AI servers",
+    "summary": "LG Energy Solution (LGES) and Samsung SDI plan to begin mass production of lithium iron phosphate (LFP) batteries for AI servers in the second quarter of 2027, expanding the technology beyond EVs and energy storage systems (ESS) into the AI data-center backup power market.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261113PD221/lges-samsung-sdi-production-market-2027.html"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "Chinese AI server maker xFusion clears review for $1.2 billion Shenzhen IPO",
+    "summary": "Chinese AI server maker xFusion clears review for $1.2 billion Shenzhen IPO",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/chinese-ai-server-maker-xfusion-clears-review-12-billion-shenzhen-ipo-6548701"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "Fifth person charged in Singapore over alleged fraud conspiracy linked to Nvidia chips",
+    "summary": "Shi Bingzhe was handed 41 charges for allegedly consenting to money laundering offences committed by two companies where he was a key officer.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/singapore/man-charged-fraud-nvidia-chips-6548606"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "Cisco lifts FY2027 outlook after record earnings, with AI networking revenue set to double",
+    "summary": "Cisco Systems raised its fiscal 2027 revenue and earnings forecasts after AI data centre investment and enterprise network upgrades delivered its strongest quarterly growth in more than 15 years. The networking equipment giant now expects revenue from hyperscaler AI infrastructure to more than double this fiscal year, ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261113VL223/cisco-networking-ic-equipment-earnings-outlook-revenue-2027.html"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "Nvidia's 14-point GPU checks tighten AI server supply; full prepayment and 2027 price hikes loom",
+    "summary": "Nvidia CEO Jensen Huang has stepped down, while the US is preparing another round of tighter export controls on advanced AI chips. Industry sources expect Washington to extend its oversight beyond the physical movement of hardware to the use of computing power at overseas data centres. NVIDIA Announces CEO Transition+1",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261113PD223/nvidia-ai-server-gpu-price-2027.html"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "India’s Zoho rebuilds marketing tool with WhatsApp, AI agents",
+    "summary": "Zoho said internal tests showed faster email sending and contact imports.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/indian-saas-firm-zoho-revenue-rises-177-profit-slips-344m"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "OpenAI backs US push to restrict China’s access to AI chips",
+    "summary": "Existing US controls have prompted Nvidia to modify H20 chips for China.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/naver-gains-search-share-after-ai-search-rollout"
+    "url": "https://www.techinasia.com/openai-taps-uber-veteran-lead-global-communications"
   },
   {
     "date": "2026-11-13",
-    "title": "US data center firm Vertiv targets AI cooling market",
-    "summary": "The offering combines Vertiv’s thermal infrastructure, monitoring, and lifecycle services with coolant and water-treatment expertise from Dow and Solenis.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/lg-electronics-expands-into-ai-data-center-cooling"
-  },
-  {
-    "date": "2026-11-13",
-    "title": "Taiwan's Foxconn has 'strong confidence' in 2027 due to AI demand",
-    "summary": "Taiwan's Foxconn has 'strong confidence' in 2027 due to AI demand",
+    "title": "Editor's Choice: Nvidia's AI empire stumbles over Huang's human error",
+    "summary": "Editor's Choice: Nvidia's AI empire stumbles over Huang's human error",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/spotlight/supply-chain/taiwan-s-foxconn-has-strong-confidence-in-2027-due-to-ai-demand"
+    "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-nvidia-s-ai-empire-stumbles-over-huang-s-human-error"
   },
   {
     "date": "2026-11-13",
-    "title": "Sex, spies and salaries shake up AI chipmakers",
-    "summary": "Sex, spies and salaries shake up AI chipmakers",
+    "title": "Toyota rewires China supply chain to fight back in EV race",
+    "summary": "Toyota rewires China supply chain to fight back in EV race",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "AI",
+      "Logistics"
+    ],
+    "url": "https://asia.nikkei.com/business/automobiles/toyota-rewires-china-supply-chain-to-fight-back-in-ev-race"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "Chinese shares lead Asia chip rally amid Jensen Huang turmoil",
+    "summary": "Chinese shares lead Asia chip rally amid Jensen Huang turmoil",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
       "Semiconductor"
     ],
-    "url": "https://asia.nikkei.com/techasia/sex-spies-and-salaries-shake-up-ai-chipmakers"
-  },
-  {
-    "date": "2026-11-13",
-    "title": "Baidu CEO Robin Li says commercial AI adoption is only starting",
-    "summary": "Baidu CEO Robin Li says commercial AI adoption is only starting",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/china-tech/baidu-ceo-robin-li-says-commercial-ai-adoption-is-only-starting"
-  },
-  {
-    "date": "2026-11-13",
-    "title": "US stocks in dot-com-style bubble; AI faces reality check",
-    "summary": "US stocks are showing signs of a speculative bubble comparable to the dot-com boom of 1999 and 2000, although that does not necessarily mean the marke",
-    "source": "KED Global",
-    "short": "KED",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.kedglobal.com/cio-roundtable/newsView/ked202611120004"
+    "url": "https://asia.nikkei.com/business/markets/equities/chinese-shares-lead-asia-chip-rally-amid-jensen-huang-turmoil"
   },
   {
     "date": "2026-11-12",
