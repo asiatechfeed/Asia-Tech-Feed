@@ -1,4 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-12T08:01:47+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 12, 2026</title><link href="https://asiatechfeed.com/2026/11/12/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 12, 2026" /><published>2026-11-12T08:00:59+00:00</published><updated>2026-11-12T08:00:59+00:00</updated><id>https://asiatechfeed.com/2026/11/12/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/12/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-13T00:04:14+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 13, 2026</title><link href="https://asiatechfeed.com/2026/11/13/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 13, 2026" /><published>2026-11-13T00:03:29+00:00</published><updated>2026-11-13T00:03:29+00:00</updated><id>https://asiatechfeed.com/2026/11/13/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/13/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">China's access to Nvidia chips in doubt as curbs gain traction in US Congress</span></td>
+  <td class="col-summary">China's access to Nvidia chips in doubt as curbs gain traction in US Congress</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/china-access-nvidia-chips-us-congress-jensen-huang-6546746" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: I don’t want AI in my online search. What options do I have?</span></td>
+  <td class="col-summary">It is technically possible to disable AI-generated answers from the search results page, says this academic.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/ai-in-google-online-search-how-disable-6545591" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Samsung reportedly moves up 8-inch foundry exit to 2029, outsources some production to UMC</span></td>
+  <td class="col-summary">Samsung Electronics is targeting an exit from its 8-inch foundry business by the end of 2029, a year earlier than previously reported, and has been outsourcing some production to Taiwan's United Microelectronics Corporation (UMC), South Korea's Dealsite reported on November 12, citing industry sources.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261112VL214/samsung-production-umc-manufacturing-outsourcing.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Qualcomm begins India job cuts as handset chip sales slide</span></td>
+  <td class="col-summary">Qualcomm has started laying off employees in India, its largest engineering base outside the US, as the chipmaker carries out a performance-focused global workforce reduction amid a fall in smartphone chip sales.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261112VL200/qualcomm-revenue-workforce-salary-hyderabad.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">India unveils indigenous AI models under IndiaAI Mission</span></td>
+  <td class="col-summary">India's release of the EKA-1, Dhīr 2B, and Dhīr 5B foundation models highlights a public-backed effort to develop multilingual AI for domestic and international use. The models range from those with large-scale reasoning and coding capabilities to lightweight, offline-capable assistants, with implications for data sove</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261112PR201/government-language.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Nubank improves 2026 efficiency ratio outlook as AI leads hiring slowdown</span></td>
+  <td class="col-summary">Nubank improves 2026 efficiency ratio outlook as AI leads hiring slowdown</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/nubank-improves-2026-efficiency-ratio-outlook-ai-leads-hiring-slowdown-6547521" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">SoftBank leads $500m bet on German robot maker Agile Robots</span></td>
+  <td class="col-summary">The company plans to expand in the US, add production capacity, including in Germany, and enter new markets.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/scaling-indigenous-defense-robotics-emerging-markets" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Naver signs $1.5b AI infrastructure deal, seeks Nvidia chips</span></td>
+  <td class="col-summary">Naver said the first contract covers about 20 megawatts of power capacity, with supply set to begin in 2027.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/naver-gains-search-share-after-ai-search-rollout" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">US data center firm Vertiv targets AI cooling market</span></td>
+  <td class="col-summary">The offering combines Vertiv’s thermal infrastructure, monitoring, and lifecycle services with coolant and water-treatment expertise from Dow and Solenis.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/lg-electronics-expands-into-ai-data-center-cooling" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Taiwan's Foxconn has 'strong confidence' in 2027 due to AI demand</span></td>
+  <td class="col-summary">Taiwan's Foxconn has 'strong confidence' in 2027 due to AI demand</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/supply-chain/taiwan-s-foxconn-has-strong-confidence-in-2027-due-to-ai-demand" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Sex, spies and salaries shake up AI chipmakers</span></td>
+  <td class="col-summary">Sex, spies and salaries shake up AI chipmakers</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/techasia/sex-spies-and-salaries-shake-up-ai-chipmakers" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Baidu CEO Robin Li says commercial AI adoption is only starting</span></td>
+  <td class="col-summary">Baidu CEO Robin Li says commercial AI adoption is only starting</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/china-tech/baidu-ceo-robin-li-says-commercial-ai-adoption-is-only-starting" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">13</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">US stocks in dot-com-style bubble; AI faces reality check</span></td>
+  <td class="col-summary">US stocks are showing signs of a speculative bubble comparable to the dot-com boom of 1999 and 2000, although that does not necessarily mean the marke</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/cio-roundtable/newsView/ked202611120004" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA China's access to Nvidia chips in doubt as curbs gain traction in US Congress China's access to Nvidia chips in doubt as curbs gain traction in US Congress Semiconductor Read 2 CNA Commentary: I don’t want AI in my online search. What options do I have? It is technically possible to disable AI-generated answers from the search results page, says this academic. AI Read 3 DigiTimes Samsung reportedly moves up 8-inch foundry exit to 2029, outsources some production to UMC Samsung Electronics is targeting an exit from its 8-inch foundry business by the end of 2029, a year earlier than previously reported, and has been outsourcing some production to Taiwan's United Microelectronics Corporation (UMC), South Korea's Dealsite reported on November 12, citing industry sources. ElectronicsSemiconductor Read 4 DigiTimes Qualcomm begins India job cuts as handset chip sales slide Qualcomm has started laying off employees in India, its largest engineering base outside the US, as the chipmaker carries out a performance-focused global workforce reduction amid a fall in smartphone chip sales. Semiconductor Read 5 DigiTimes India unveils indigenous AI models under IndiaAI Mission India's release of the EKA-1, Dhīr 2B, and Dhīr 5B foundation models highlights a public-backed effort to develop multilingual AI for domestic and international use. The models range from those with large-scale reasoning and coding capabilities to lightweight, offline-capable assistants, with implications for data sove AI Read 6 CNA Nubank improves 2026 efficiency ratio outlook as AI leads hiring slowdown Nubank improves 2026 efficiency ratio outlook as AI leads hiring slowdown AI Read 7 TechAsia SoftBank leads $500m bet on German robot maker Agile Robots The company plans to expand in the US, add production capacity, including in Germany, and enter new markets. Automation Read 8 TechAsia Naver signs $1.5b AI infrastructure deal, seeks Nvidia chips Naver said the first contract covers about 20 megawatts of power capacity, with supply set to begin in 2027. AISemiconductor Read 9 TechAsia US data center firm Vertiv targets AI cooling market The offering combines Vertiv’s thermal infrastructure, monitoring, and lifecycle services with coolant and water-treatment expertise from Dow and Solenis. AI Read 10 NikkeiAsia Taiwan's Foxconn has 'strong confidence' in 2027 due to AI demand Taiwan's Foxconn has 'strong confidence' in 2027 due to AI demand AI Read 11 NikkeiAsia Sex, spies and salaries shake up AI chipmakers Sex, spies and salaries shake up AI chipmakers AISemiconductor Read 12 NikkeiAsia Baidu CEO Robin Li says commercial AI adoption is only starting Baidu CEO Robin Li says commercial AI adoption is only starting AI Read 13 KED US stocks in dot-com-style bubble; AI faces reality check US stocks are showing signs of a speculative bubble comparable to the dot-com boom of 1999 and 2000, although that does not necessarily mean the marke AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 12, 2026</title><link href="https://asiatechfeed.com/2026/11/12/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 12, 2026" /><published>2026-11-12T08:00:59+00:00</published><updated>2026-11-12T08:00:59+00:00</updated><id>https://asiatechfeed.com/2026/11/12/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/12/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -675,73 +792,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-telecom-ntt-launch-500m-aion-ai-fund" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 EETAsia Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research The collaboration will combine multiphysics simulation, digital twins and physical testing to improve cooling efficiency in AI data centers. The post Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research appeared first on EE Times Asia . AI Read 2 CNA Tencent built an empire on WeChat and gaming. Can it keep up in China's AI race? As AI reshapes China's tech industry, Tencent faces growing competition from rivals and AI startups. But the Chinese conglomerate’s vast WeChat ecosystem and gaming business could still give it an edge. AI Read 3 DigiTimes Why defense's blue ocean is no smooth sailing for automakers Although the defense market has emerged as a new blue ocean for the auto industry, entering it is far from smooth sailing. The main concern remains the national security sensitivities inherent in defense work. Amid international rivalry, automotive supply chains moving into defense can easily become targets, raising th Logistics Read 4 DigiTimes Samsung to reportedly make AMD, Nvidia HBM base dies at second Texas fab Samsung Electronics plans to produce high-bandwidth memory (HBM) base dies for AMD at its second foundry plant in Taylor, Texas, with the US chipmaker accounting for most of the facility's planned output, South Korea's Maeil Business Newspaper reported on November 3, citing industry sources. The report said the plant w ElectronicsSemiconductor Read 5 DigiTimes PC slump hits Darfon, but MLCCs, green energy keep 2026 growth on track Affected by weak notebook and PC demand, Darfon Electronics reported third-quarter 2026 consolidated revenue of NT$7.011 billion (US$214 million), up 7.8% year-over-year but down about 6.7% quarter-over-quarter. The company said notebook and PC demand weakened after higher raw material and component costs pushed up end Electronics Read 6 CNA Apple AI tools come to China after two-year delay Apple will work with Alibaba's Qwen to integrate more powerful AI features into devices alongside its own basic AI offerings. AI Read 7 TechAsia US voters could move AI’s next piece US data center backlash could affect Southeast Asia. Plus, an interview with an executive at Legora, a legal AI unicorn valued at US$8.8 billion. AI Read 8 TechAsia Meta launches $15b bond sale to fund AI infrastructure The offering includes US$3.25 billion of notes due in 2033 with a 6.25% coupon. AI Read 9 TechAsia SK Telecom Q3 revenue climbs 13.1% to $3.4b SK Telecom also said it formed two units, SK Hyper and SK Horizon, to expand its AI data center business. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 03, 2026</title><link href="https://asiatechfeed.com/2026/11/03/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 03, 2026" /><published>2026-11-03T08:00:53+00:00</published><updated>2026-11-03T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/11/03/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/03/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Oracle to sell US$20 billion in stocks and bonds as concerns grow over debt-fueled expansion</span></td>
-  <td class="col-summary">Oracle aims to raise US$20 billion through selling stock and issuing bonds to fund its AI build-out. Its stock value dropped after the company filed the plans, a sign that investors are growing wary of hyperscalers' increasing debt before anticipated AI revenues trickle in.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261103VL217/oracle-financing-earnings-revenue.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Vietnam’s Viettel unveils VGC v1.0 chip for secure government systems</span></td>
-  <td class="col-summary">Vietnam's national digital signature system has over 2 million certificates in circulation.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/vietnam-becomes-key-player-in-global-chip-value-chain-deputy-pm" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Apple's US$5 trillion dilemma: iPhone Duo and AI raise stakes for next growth chapter</span></td>
-  <td class="col-summary">Apple's record fiscal 2026 performance left a central question unresolved: can premium-priced iPhones, AI, and expanding services sustain enough growth to justify a valuation approaching US$5 trillion? For new CEO John Ternus, the challenge is converting product innovation into lasting earnings growth rather than relyi</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261103VL208/apple-iphone-duo-performance-growth-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Metaage posts 17% revenue growth through 3Q26, eyes AI expansion</span></td>
-  <td class="col-summary">Metaage, a subsidiary of Qisda, posted consolidated revenue of approximately NT$19 billion (US$583 million) for the first three quarters of 2026, up 17% from NT$16.2 billion in the same period of 2025, as enterprise IT infrastructure, software, and cloud businesses expanded. The company is targeting AI infrastructure a</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261103PD213/revenue-growth-subsidiary-qisda-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Goldman Sachs restricts some AI coding tools to engineers</span></td>
-  <td class="col-summary">Some Goldman traders had used AI coding tools to model market moves and create graphic content.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/goldman-sachs-executive-ai-may-complicate-lending-decisions" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Hong Kong heirs ditch property for tech</span></td>
-  <td class="col-summary">Why Hong Kong’s next-gen wealth is chasing AI over property, and a look back at how family offices backed Southeast Asian startups.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/hong-kong-heirs-ditch-property-tech" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Grab eyes more AI investment after Taiwan deal blocked</span></td>
-  <td class="col-summary">Grab eyes more AI investment after Taiwan deal blocked</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/grab-eyes-more-ai-investment-after-taiwan-deal-blocked" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Oracle to sell US$20 billion in stocks and bonds as concerns grow over debt-fueled expansion Oracle aims to raise US$20 billion through selling stock and issuing bonds to fund its AI build-out. Its stock value dropped after the company filed the plans, a sign that investors are growing wary of hyperscalers' increasing debt before anticipated AI revenues trickle in. AI Read 2 TechAsia Vietnam’s Viettel unveils VGC v1.0 chip for secure government systems Vietnam's national digital signature system has over 2 million certificates in circulation. Semiconductor Read 3 DigiTimes Apple's US$5 trillion dilemma: iPhone Duo and AI raise stakes for next growth chapter Apple's record fiscal 2026 performance left a central question unresolved: can premium-priced iPhones, AI, and expanding services sustain enough growth to justify a valuation approaching US$5 trillion? For new CEO John Ternus, the challenge is converting product innovation into lasting earnings growth rather than relyi AI Read 4 DigiTimes Metaage posts 17% revenue growth through 3Q26, eyes AI expansion Metaage, a subsidiary of Qisda, posted consolidated revenue of approximately NT$19 billion (US$583 million) for the first three quarters of 2026, up 17% from NT$16.2 billion in the same period of 2025, as enterprise IT infrastructure, software, and cloud businesses expanded. The company is targeting AI infrastructure a AI Read 5 TechAsia Goldman Sachs restricts some AI coding tools to engineers Some Goldman traders had used AI coding tools to model market moves and create graphic content. AI Read 6 TechAsia Hong Kong heirs ditch property for tech Why Hong Kong’s next-gen wealth is chasing AI over property, and a look back at how family offices backed Southeast Asian startups. AI Read 7 NikkeiAsia Grab eyes more AI investment after Taiwan deal blocked Grab eyes more AI investment after Taiwan deal blocked AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 EETAsia Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research The collaboration will combine multiphysics simulation, digital twins and physical testing to improve cooling efficiency in AI data centers. The post Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research appeared first on EE Times Asia . AI Read 2 CNA Tencent built an empire on WeChat and gaming. Can it keep up in China's AI race? As AI reshapes China's tech industry, Tencent faces growing competition from rivals and AI startups. But the Chinese conglomerate’s vast WeChat ecosystem and gaming business could still give it an edge. AI Read 3 DigiTimes Why defense's blue ocean is no smooth sailing for automakers Although the defense market has emerged as a new blue ocean for the auto industry, entering it is far from smooth sailing. The main concern remains the national security sensitivities inherent in defense work. Amid international rivalry, automotive supply chains moving into defense can easily become targets, raising th Logistics Read 4 DigiTimes Samsung to reportedly make AMD, Nvidia HBM base dies at second Texas fab Samsung Electronics plans to produce high-bandwidth memory (HBM) base dies for AMD at its second foundry plant in Taylor, Texas, with the US chipmaker accounting for most of the facility's planned output, South Korea's Maeil Business Newspaper reported on November 3, citing industry sources. The report said the plant w ElectronicsSemiconductor Read 5 DigiTimes PC slump hits Darfon, but MLCCs, green energy keep 2026 growth on track Affected by weak notebook and PC demand, Darfon Electronics reported third-quarter 2026 consolidated revenue of NT$7.011 billion (US$214 million), up 7.8% year-over-year but down about 6.7% quarter-over-quarter. The company said notebook and PC demand weakened after higher raw material and component costs pushed up end Electronics Read 6 CNA Apple AI tools come to China after two-year delay Apple will work with Alibaba's Qwen to integrate more powerful AI features into devices alongside its own basic AI offerings. AI Read 7 TechAsia US voters could move AI’s next piece US data center backlash could affect Southeast Asia. Plus, an interview with an executive at Legora, a legal AI unicorn valued at US$8.8 billion. AI Read 8 TechAsia Meta launches $15b bond sale to fund AI infrastructure The offering includes US$3.25 billion of notes due in 2033 with a 6.25% coupon. AI Read 9 TechAsia SK Telecom Q3 revenue climbs 13.1% to $3.4b SK Telecom also said it formed two units, SK Hyper and SK Horizon, to expand its AI data center business. AI Read]]></summary></entry></feed>
