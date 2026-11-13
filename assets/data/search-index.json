@@ -1,137 +1,140 @@
 [
   {
     "date": "2026-11-13",
-    "title": "Chinese AI shares tumble after Nvidia's Jensen Huang resigns",
-    "summary": "\"The market fears that after Huang's resignation, Nvidia will reduce sourcing from Chinese suppliers,\" said a fund manager in Shenzhen.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/chinese-ai-shares-tumble-nvidia-jensen-huang-resigns-6548711"
-  },
-  {
-    "date": "2026-11-13",
-    "title": "Why Jensen’s downfall puts SEA at risk",
-    "summary": "Nvidia’s dominance will outlast Jensen Huang. However, Southeast Asia’s access to its chips is less certain.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Mouser’s Latest Series Examines Chiplets, Photonics and Emerging Technologies Beyond Moore’s Law",
+    "summary": "Latest technology series examines semiconductor scaling limits and alternative approaches to improving computing performance and efficiency. The post Mouser’s Latest Series Examines Chiplets, Photonics and Emerging Technologies Beyond Moore’s Law appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/jensens-downfall-puts-sea-risk"
+    "url": "https://www.eetasia.com/mousers-latest-series-examines-chiplets-photonics-and-emerging-technologies-beyond-moores-law/"
   },
   {
     "date": "2026-11-13",
-    "title": "LGES, Samsung SDI target 2Q27 LFP battery production for AI servers",
-    "summary": "LG Energy Solution (LGES) and Samsung SDI plan to begin mass production of lithium iron phosphate (LFP) batteries for AI servers in the second quarter of 2027, expanding the technology beyond EVs and energy storage systems (ESS) into the AI data-center backup power market.",
+    "title": "Huawei spin-off xFusion seeks US$1.2 billion IPO, capitalizing on China's AI server boom",
+    "summary": "China's expanding AI computing infrastructure is prompting server manufacturers to accelerate their capital-raising plans. xFusion Digital Technologies, spun off from Huawei's x86 server business, entered the Shenzhen Stock Exchange's ChiNext listing review process on 12 November, seeking to raise CNY8 billion (approx.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261113PD221/lges-samsung-sdi-production-market-2027.html"
+    "url": "https://www.digitimes.com/news/a20261113PD225/huawei-xfusion-ai-server-ipo-market-spin-off.html"
   },
   {
     "date": "2026-11-13",
-    "title": "Chinese AI server maker xFusion clears review for $1.2 billion Shenzhen IPO",
-    "summary": "Chinese AI server maker xFusion clears review for $1.2 billion Shenzhen IPO",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/business/chinese-ai-server-maker-xfusion-clears-review-12-billion-shenzhen-ipo-6548701"
-  },
-  {
-    "date": "2026-11-13",
-    "title": "Fifth person charged in Singapore over alleged fraud conspiracy linked to Nvidia chips",
-    "summary": "Shi Bingzhe was handed 41 charges for allegedly consenting to money laundering offences committed by two companies where he was a key officer.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/singapore/man-charged-fraud-nvidia-chips-6548606"
-  },
-  {
-    "date": "2026-11-13",
-    "title": "Cisco lifts FY2027 outlook after record earnings, with AI networking revenue set to double",
-    "summary": "Cisco Systems raised its fiscal 2027 revenue and earnings forecasts after AI data centre investment and enterprise network upgrades delivered its strongest quarterly growth in more than 15 years. The networking equipment giant now expects revenue from hyperscaler AI infrastructure to more than double this fiscal year, ",
+    "title": "Samsung reportedly wins more AI chip orders from US cloud firms",
+    "summary": "Samsung Electronics has reportedly secured new AI chip manufacturing orders from major US cloud service providers for a second consecutive quarter, with commercial shipments expected to begin in 2028 as tight capacity at TSMC creates opportunities for Samsung's foundry business.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "AI"
+      "Electronics",
+      "AI",
+      "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261113VL223/cisco-networking-ic-equipment-earnings-outlook-revenue-2027.html"
+    "url": "https://www.digitimes.com/news/a20261113VL229/samsung-ai-chip-manufacturing-2028-2nm.html"
   },
   {
     "date": "2026-11-13",
-    "title": "Nvidia's 14-point GPU checks tighten AI server supply; full prepayment and 2027 price hikes loom",
-    "summary": "Nvidia CEO Jensen Huang has stepped down, while the US is preparing another round of tighter export controls on advanced AI chips. Industry sources expect Washington to extend its oversight beyond the physical movement of hardware to the use of computing power at overseas data centres. NVIDIA Announces CEO Transition+1",
+    "title": "CXMT targets higher-value DRAM market with AI server memory, LPDDR6 breakthroughs",
+    "summary": "Chinese DRAM maker ChangXin Memory Technologies (CXMT) is expanding into higher-value memory markets, introducing DDR5 server modules, mass-produced LPDDR6 chips, and automotive DRAM at IC China 2026, which opened on November 12. The expansion, backed by manufacturing advances and higher research spending, signals CXMT",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261113PD223/nvidia-ai-server-gpu-price-2027.html"
+    "url": "https://www.digitimes.com/news/a20261113VL228/dram-cxmt-market-ai-server-automotive.html"
   },
   {
     "date": "2026-11-13",
-    "title": "India’s Zoho rebuilds marketing tool with WhatsApp, AI agents",
-    "summary": "Zoho said internal tests showed faster email sending and contact imports.",
+    "title": "Lattice, NXP Pair i.MX 95 Processors With Nexus FPGAs for Industrial Edge",
+    "summary": "The PCIe-based solution combines application processing, deterministic I/O and hardware security for industrial automation and robotics. The post Lattice, NXP Pair i.MX 95 Processors With Nexus FPGAs for Industrial Edge appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.eetasia.com/lattice-nxp-pair-i-mx-95-processors-with-nexus-fpgas-for-industrial-edge/"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "Baidu AI Cloud, Chinese tech firm 1011 partner on physical AI",
+    "summary": "The companies will combine 1011’s simulation technology with Baidu AI Cloud’s computing infrastructure to develop a platform for simulation data production.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/indian-saas-firm-zoho-revenue-rises-177-profit-slips-344m"
+    "url": "https://www.techinasia.com/alibaba-baidu-plan-to-raise-ai-cloud-prices-up-to-34"
   },
   {
     "date": "2026-11-13",
-    "title": "OpenAI backs US push to restrict China’s access to AI chips",
-    "summary": "Existing US controls have prompted Nvidia to modify H20 chips for China.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "Malaysia says probing Megaspeed subsidiary over possible AI chip diversion",
+    "summary": "SpeedMatrix, a Malaysian subsidiary of Singapore-based cloud computing firm Megaspeed, is a tenant at data centres in Malaysia.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/openai-taps-uber-veteran-lead-global-communications"
+    "url": "https://www.channelnewsasia.com/asia/malaysia-probe-megaspeed-speedmatrix-ai-alice-huang-nvidia-6548491"
   },
   {
     "date": "2026-11-13",
-    "title": "Editor's Choice: Nvidia's AI empire stumbles over Huang's human error",
-    "summary": "Editor's Choice: Nvidia's AI empire stumbles over Huang's human error",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "Mapping the AI startups making waves in Japan",
+    "summary": "Mapping Japan's AI sector: Key players, top investors, and funding insights in one report.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-nvidia-s-ai-empire-stumbles-over-huang-s-human-error"
+    "url": "https://www.techinasia.com/visual-story/mapping-japans-leading-ai-startups"
   },
   {
     "date": "2026-11-13",
-    "title": "Toyota rewires China supply chain to fight back in EV race",
-    "summary": "Toyota rewires China supply chain to fight back in EV race",
+    "title": "Samsung Medical Center taps Australian AI firm Heidi for trial",
+    "summary": "If the trial succeeds, Samsung Medical Center will become a reference site for Heidi’s future use in South Korea.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/fixing-doctor-burnout-ai-harder-sea"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "TSMC seeks to back next chip titan with new investment arm",
+    "summary": "TSMC seeks to back next chip titan with new investment arm",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/tsmc-seeks-to-back-next-chip-titan-with-new-investment-arm"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "Vietnam pushes for homegrown chips in semiconductor drive",
+    "summary": "Vietnam pushes for homegrown chips in semiconductor drive",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/vietnam-pushes-for-homegrown-chips-in-semiconductor-drive"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "Nvidia's Jensen problem set to become one for AI supply chain",
+    "summary": "Nvidia's Jensen problem set to become one for AI supply chain",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI",
       "Logistics"
     ],
-    "url": "https://asia.nikkei.com/business/automobiles/toyota-rewires-china-supply-chain-to-fight-back-in-ev-race"
-  },
-  {
-    "date": "2026-11-13",
-    "title": "Chinese shares lead Asia chip rally amid Jensen Huang turmoil",
-    "summary": "Chinese shares lead Asia chip rally amid Jensen Huang turmoil",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://asia.nikkei.com/business/markets/equities/chinese-shares-lead-asia-chip-rally-amid-jensen-huang-turmoil"
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-s-jensen-problem-set-to-become-one-for-ai-supply-chain"
   },
   {
     "date": "2026-11-12",
