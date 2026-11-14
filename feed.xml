@@ -1,4 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-13T08:02:08+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 13, 2026</title><link href="https://asiatechfeed.com/2026/11/13/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 13, 2026" /><published>2026-11-13T08:00:53+00:00</published><updated>2026-11-13T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/11/13/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/13/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-14T00:04:15+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 14, 2026</title><link href="https://asiatechfeed.com/2026/11/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 14, 2026" /><published>2026-11-14T00:03:35+00:00</published><updated>2026-11-14T00:03:35+00:00</updated><id>https://asiatechfeed.com/2026/11/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">50 rising AI startups in Asia</span></td>
+  <td class="col-summary">These AI startups have a shot at becoming the next big thing.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/50-rising-ai-startups-in-asia" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Exclusive-Investors flock to Anthropic IPO but question durability of AI lead</span></td>
+  <td class="col-summary">Exclusive-Investors flock to Anthropic IPO but question durability of AI lead</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/exclusive-investors-flock-anthropic-ipo-question-durability-ai-lead-6550701" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Naver revenue rises 10.7% as AI spending weighs on profit</span></td>
+  <td class="col-summary">Npay payment volume reached 26.2 trillion won (US$19.6 billion) in the quarter.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/naver-shares-jump-10-nvidias-1b-investment" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">South Korea’s Hyundai Card launches AI tools for partners</span></td>
+  <td class="col-summary">yundai said PLCC 2.0 builds on about US$800 million in investment AI and data science over the past decade.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/intel-qualcomm-held-sale-talks-ai-startup-tenstorrent" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">DEEPX tapes out AI chip on Samsung's 2nm process</span></td>
+  <td class="col-summary">South Korean AI chip developer DEEPX has completed the tape-out of its next-generation DX-M2 processor using Samsung Electronics' second-generation 2nm process, advancing plans to bring generative AI to robots and industrial equipment while reducing their reliance on cloud computing.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261113VL232/ai-chip-samsung-2nm-production-processor.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">E Ink targets 2027 revenue from PTFE materials for AI data centers</span></td>
+  <td class="col-summary">E Ink Holdings is expanding into materials for AI data centers through a partnership with Taiflex Scientific. The electronic paper maker expects its first revenue from polytetrafluoroethylene (PTFE) materials in 2027, with production ramping up in 2028.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261113PD230/materials-e-ink-revenue-2027-data-center.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Mars Semiconductor posts slight revenue growth, expects eBMC orders in 2H27</span></td>
+  <td class="col-summary">Mars Semiconductor's cumulative revenue for the first three quarters of 2026 edged up from the same period in 2025, while quarterly results rose steadily and EPS growth was significant, company Vice President and spokesperson Ho Tsung-ming said at an investor conference this week. Looking ahead to 2027, existing produc</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261113PD208/mars-semiconductor-revenue-growth-2026-ddr.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia scandal sparks Washington blame game over China chip exports</span></td>
+  <td class="col-summary">Nvidia scandal sparks Washington blame game over China chip exports</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-scandal-sparks-washington-blame-game-over-china-chip-exports" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Uranium price hits record as AI demand prompts nuclear comeback</span></td>
+  <td class="col-summary">Uranium price hits record as AI demand prompts nuclear comeback</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/markets/commodities/uranium-price-hits-record-as-ai-demand-prompts-nuclear-comeback" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Growth beyond AI puts corporate Japan on track for 20% profit gain</span></td>
+  <td class="col-summary">Growth beyond AI puts corporate Japan on track for 20% profit gain</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/business-trends/growth-beyond-ai-puts-corporate-japan-on-track-for-20-profit-gain" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia 50 rising AI startups in Asia These AI startups have a shot at becoming the next big thing. AI Read 2 CNA Exclusive-Investors flock to Anthropic IPO but question durability of AI lead Exclusive-Investors flock to Anthropic IPO but question durability of AI lead AI Read 3 TechAsia Naver revenue rises 10.7% as AI spending weighs on profit Npay payment volume reached 26.2 trillion won (US$19.6 billion) in the quarter. AI Read 4 TechAsia South Korea’s Hyundai Card launches AI tools for partners yundai said PLCC 2.0 builds on about US$800 million in investment AI and data science over the past decade. AI Read 5 DigiTimes DEEPX tapes out AI chip on Samsung's 2nm process South Korean AI chip developer DEEPX has completed the tape-out of its next-generation DX-M2 processor using Samsung Electronics' second-generation 2nm process, advancing plans to bring generative AI to robots and industrial equipment while reducing their reliance on cloud computing. ElectronicsAISemiconductor Read 6 DigiTimes E Ink targets 2027 revenue from PTFE materials for AI data centers E Ink Holdings is expanding into materials for AI data centers through a partnership with Taiflex Scientific. The electronic paper maker expects its first revenue from polytetrafluoroethylene (PTFE) materials in 2027, with production ramping up in 2028. AI Read 7 DigiTimes Mars Semiconductor posts slight revenue growth, expects eBMC orders in 2H27 Mars Semiconductor's cumulative revenue for the first three quarters of 2026 edged up from the same period in 2025, while quarterly results rose steadily and EPS growth was significant, company Vice President and spokesperson Ho Tsung-ming said at an investor conference this week. Looking ahead to 2027, existing produc Semiconductor Read 8 NikkeiAsia Nvidia scandal sparks Washington blame game over China chip exports Nvidia scandal sparks Washington blame game over China chip exports Semiconductor Read 9 NikkeiAsia Uranium price hits record as AI demand prompts nuclear comeback Uranium price hits record as AI demand prompts nuclear comeback AI Read 10 NikkeiAsia Growth beyond AI puts corporate Japan on track for 20% profit gain Growth beyond AI puts corporate Japan on track for 20% profit gain AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 13, 2026</title><link href="https://asiatechfeed.com/2026/11/13/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 13, 2026" /><published>2026-11-13T08:00:53+00:00</published><updated>2026-11-13T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/11/13/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/13/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -699,89 +792,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261105PD218/growth-electronics-market-telecom-2025.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Tracking AI hiring in Singapore: Databricks, OpenAI, and more AI firms keep talking about the city-state. Their hiring data reveals who’s truly expanding in Southeast Asia. AI Read 2 TechAsia Cohere to partner Singapore defense agency on security AI The collaboration will support AI deployment for national security operations in highly secure environments. AI Read 3 TechAsia Moonshot AI launches hosted AI agent service for enterprise The launch also comes as China’s rules for public-facing generative AI services require security assessments and regulatory filings in some cases. AI Read 4 DigiTimes EU launches EUR525 million push to close chip design gap The European Union has launched a EUR525 million (approx. US$590 million) initiative to strengthen its semiconductor design industry, seeking to narrow the gap with the US and China while generating demand for chip manufacturing facilities in Europe. Semiconductor Read 5 DigiTimes China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain gaps China's National Integrated Circuit Industry Investment Fund Phase III (Big Fund III) is shifting its focus from targeted semiconductor investments to large-scale manufacturing and industry consolidation, with a CNY900 million (approx. US$134 million) capital injection into Silan Microelectronics' 12-inch analog chip p SemiconductorElectronicsLogistics Read 6 DigiTimes Price hikes, market saturation curb global telecom, consumer electronics export growth Rising global oil prices have driven up food costs, squeezing consumer discretionary budgets for products with higher price elasticity, such as smartphones and consumer electronics. A specialized report from Taiwan's Ministry of Economic Affairs (MOEA) reveals that in 2025, global ICT goods and services exports reached Electronics Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 04, 2026</title><link href="https://asiatechfeed.com/2026/11/04/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 04, 2026" /><published>2026-11-04T08:01:00+00:00</published><updated>2026-11-04T08:01:00+00:00</updated><id>https://asiatechfeed.com/2026/11/04/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/04/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research</span></td>
-  <td class="col-summary">The collaboration will combine multiphysics simulation, digital twins and physical testing to improve cooling efficiency in AI data centers. The post Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/synopsys-joins-nus-testbed-for-tropical-data-center-cooling-research/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Tencent built an empire on WeChat and gaming. Can it keep up in China's AI race?</span></td>
-  <td class="col-summary">As AI reshapes China's tech industry, Tencent faces growing competition from rivals and AI startups. But the Chinese conglomerate’s vast WeChat ecosystem and gaming business could still give it an edge.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/tencent-wechat-gaming-artificial-intelligence-competition-6519631" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Why defense's blue ocean is no smooth sailing for automakers</span></td>
-  <td class="col-summary">Although the defense market has emerged as a new blue ocean for the auto industry, entering it is far from smooth sailing. The main concern remains the national security sensitivities inherent in defense work. Amid international rivalry, automotive supply chains moving into defense can easily become targets, raising th</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261104PD220/automakers-market-automotive-auto-industry-materials.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung to reportedly make AMD, Nvidia HBM base dies at second Texas fab</span></td>
-  <td class="col-summary">Samsung Electronics plans to produce high-bandwidth memory (HBM) base dies for AMD at its second foundry plant in Taylor, Texas, with the US chipmaker accounting for most of the facility's planned output, South Korea's Maeil Business Newspaper reported on November 3, citing industry sources. The report said the plant w</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261104VL220/samsung-hbm-amd-texas-fab.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">PC slump hits Darfon, but MLCCs, green energy keep 2026 growth on track</span></td>
-  <td class="col-summary">Affected by weak notebook and PC demand, Darfon Electronics reported third-quarter 2026 consolidated revenue of NT$7.011 billion (US$214 million), up 7.8% year-over-year but down about 6.7% quarter-over-quarter. The company said notebook and PC demand weakened after higher raw material and component costs pushed up end</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261104PD225/pc-2026-darfon-demand-revenue.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Apple AI tools come to China after two-year delay</span></td>
-  <td class="col-summary">Apple will work with Alibaba's Qwen to integrate more powerful AI features into devices alongside its own basic AI offerings.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/china-apple-artificial-intelligence-developers-6522361" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">US voters could move AI’s next piece</span></td>
-  <td class="col-summary">US data center backlash could affect Southeast Asia. Plus, an interview with an executive at Legora, a legal AI unicorn valued at US$8.8 billion.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/us-voters-could-move-ais-next-piece" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Meta launches $15b bond sale to fund AI infrastructure</span></td>
-  <td class="col-summary">The offering includes US$3.25 billion of notes due in 2033 with a 6.25% coupon.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-launches-muse-rival-openai-anthropic" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SK Telecom Q3 revenue climbs 13.1% to $3.4b</span></td>
-  <td class="col-summary">SK Telecom also said it formed two units, SK Hyper and SK Horizon, to expand its AI data center business.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-telecom-ntt-launch-500m-aion-ai-fund" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 EETAsia Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research The collaboration will combine multiphysics simulation, digital twins and physical testing to improve cooling efficiency in AI data centers. The post Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research appeared first on EE Times Asia . AI Read 2 CNA Tencent built an empire on WeChat and gaming. Can it keep up in China's AI race? As AI reshapes China's tech industry, Tencent faces growing competition from rivals and AI startups. But the Chinese conglomerate’s vast WeChat ecosystem and gaming business could still give it an edge. AI Read 3 DigiTimes Why defense's blue ocean is no smooth sailing for automakers Although the defense market has emerged as a new blue ocean for the auto industry, entering it is far from smooth sailing. The main concern remains the national security sensitivities inherent in defense work. Amid international rivalry, automotive supply chains moving into defense can easily become targets, raising th Logistics Read 4 DigiTimes Samsung to reportedly make AMD, Nvidia HBM base dies at second Texas fab Samsung Electronics plans to produce high-bandwidth memory (HBM) base dies for AMD at its second foundry plant in Taylor, Texas, with the US chipmaker accounting for most of the facility's planned output, South Korea's Maeil Business Newspaper reported on November 3, citing industry sources. The report said the plant w ElectronicsSemiconductor Read 5 DigiTimes PC slump hits Darfon, but MLCCs, green energy keep 2026 growth on track Affected by weak notebook and PC demand, Darfon Electronics reported third-quarter 2026 consolidated revenue of NT$7.011 billion (US$214 million), up 7.8% year-over-year but down about 6.7% quarter-over-quarter. The company said notebook and PC demand weakened after higher raw material and component costs pushed up end Electronics Read 6 CNA Apple AI tools come to China after two-year delay Apple will work with Alibaba's Qwen to integrate more powerful AI features into devices alongside its own basic AI offerings. AI Read 7 TechAsia US voters could move AI’s next piece US data center backlash could affect Southeast Asia. Plus, an interview with an executive at Legora, a legal AI unicorn valued at US$8.8 billion. AI Read 8 TechAsia Meta launches $15b bond sale to fund AI infrastructure The offering includes US$3.25 billion of notes due in 2033 with a 6.25% coupon. AI Read 9 TechAsia SK Telecom Q3 revenue climbs 13.1% to $3.4b SK Telecom also said it formed two units, SK Hyper and SK Horizon, to expand its AI data center business. AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Tracking AI hiring in Singapore: Databricks, OpenAI, and more AI firms keep talking about the city-state. Their hiring data reveals who’s truly expanding in Southeast Asia. AI Read 2 TechAsia Cohere to partner Singapore defense agency on security AI The collaboration will support AI deployment for national security operations in highly secure environments. AI Read 3 TechAsia Moonshot AI launches hosted AI agent service for enterprise The launch also comes as China’s rules for public-facing generative AI services require security assessments and regulatory filings in some cases. AI Read 4 DigiTimes EU launches EUR525 million push to close chip design gap The European Union has launched a EUR525 million (approx. US$590 million) initiative to strengthen its semiconductor design industry, seeking to narrow the gap with the US and China while generating demand for chip manufacturing facilities in Europe. Semiconductor Read 5 DigiTimes China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain gaps China's National Integrated Circuit Industry Investment Fund Phase III (Big Fund III) is shifting its focus from targeted semiconductor investments to large-scale manufacturing and industry consolidation, with a CNY900 million (approx. US$134 million) capital injection into Silan Microelectronics' 12-inch analog chip p SemiconductorElectronicsLogistics Read 6 DigiTimes Price hikes, market saturation curb global telecom, consumer electronics export growth Rising global oil prices have driven up food costs, squeezing consumer discretionary budgets for products with higher price elasticity, such as smartphones and consumer electronics. A specialized report from Taiwan's Ministry of Economic Affairs (MOEA) reveals that in 2025, global ICT goods and services exports reached Electronics Read]]></summary></entry></feed>
