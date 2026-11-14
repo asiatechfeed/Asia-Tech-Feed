@@ -1,93 +1,74 @@
 [
   {
     "date": "2026-11-14",
-    "title": "Huang's resignation unlikely to disrupt Taiwan's AI industry, Acer founder says",
-    "summary": "Jensen Huang's resignation as Nvidia's CEO is unlikely to disrupt Taiwan's technology industry or the broader development of artificial intelligence, Acer founder Stan Shih said. His comments signal that Taiwan's chip and server capabilities remain important to Nvidia's expansion, while highlighting potential adjustmen",
+    "title": "CapitalG leads $300m round for AI agent startup LangChain",
+    "summary": "LangChain's LangSmith product counts Nvidia, Toyota, and Salesforce among its 7,000 customers.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/musks-openai-lawsuit-heads-to-jury-trial-in-march-us-judge-says"
+  },
+  {
+    "date": "2026-11-14",
+    "title": "ByteDance plans up to $6b share buyback at $400b valuation",
+    "summary": "ByteDance plans to offer AI division employees 300 million tracking shares tied to that unit.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/bytedance-founder-zhang-yiming-asias-richest"
+  },
+  {
+    "date": "2026-11-14",
+    "title": "Samsung to produce DeepX’s next-generation AI chip",
+    "summary": "Aimed at robots and AI PCs, the DX-M2 is designed to run generative AI models on about 5 watts.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor",
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/hyundai-motor-unveils-on-device-ai-chip-for-robots"
+  },
+  {
+    "date": "2026-11-14",
+    "title": "DIGITIMES Chairman urges Taiwan to become sovereign AI partner",
+    "summary": "Digitimes Chairman and CEO Colley Hwang said Taiwan should leverage its strengths in chip manufacturing, advanced packaging, and ICT hardware production to pursue sovereign AI opportunities outside the US and China. Speaking at the 2026 Avnet Ecosystem Technology Forum on November 13, Hwang said AI and semiconductors w",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261113PD248/digitimes-colley-hwang-ai-manufacturing-taiwan-2026.html"
+  },
+  {
+    "date": "2026-11-14",
+    "title": "Samsung weighs separating memory and mobile leadership",
+    "summary": "Samsung Electronics may appoint separate heads of its memory and mobile businesses in an upcoming executive reshuffle, as record semiconductor profits contrast with losses in its consumer electronics division.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261113VL233/samsung-mobile-development-revenue-business.html"
+  },
+  {
+    "date": "2026-11-14",
+    "title": "Chinese AI firms reportedly race for overseas compute, fear upcoming chip curbs amid Nvidia spy case",
+    "summary": "Chinese AI companies reportedly are racing to sign overseas compute deals as they fear the political fallout of the Nvidia spy scandal could push US lawmakers to restrict their remote access to advanced chips. Congress could boost passage of such bills after mid-term elections revealed the US public's desire to rein in",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261113PD245/taiwan-nvidia-jensen-huang-ceo-acer.html"
-  },
-  {
-    "date": "2026-11-14",
-    "title": "Jensen Huang’s exit threatens to upend Nvidia’s global AI funding network",
-    "summary": "Nvidia CEO Jensen Huang's forced resignation over a personal controversy, alongside looming regulatory and legal battles, is set to reverberate far beyond GPU orders and product roadmaps. His departure directly threatens the sprawling global AI investment and financing network he personally orchestrated, leaving multip",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261113PD239/nvidia-jensen-huang-funding-ceo-investment.html"
-  },
-  {
-    "date": "2026-11-14",
-    "title": "AI lifts Foxconn profits as ROE targets 12%",
-    "summary": "Foxconn (Hon Hai) expects continued operational growth in 2027 as AI demand expands, chairman Young Liu said at the company's third-quarter 2026 earnings briefing on November 12. However, he warned that supply-chain constraints and global economic and political uncertainty will continue to affect the company's operatio",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261113PD207/foxconn-demand-2025-2027-2026.html"
-  },
-  {
-    "date": "2026-11-14",
-    "title": "OpenAI unveils ChatGPT Wallet for AI agent purchases",
-    "summary": "OpenAI's agents get transaction-specific payment tokens instead of users' actual card details.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/openai-taps-ai-security-startup-hacktron-test-systems"
-  },
-  {
-    "date": "2026-11-14",
-    "title": "Amazon eyes product data graph to strengthen AI shopping tools",
-    "summary": "Amazon renamed its AI shopping assistant Rufus to Alexa for Shopping in May.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/amazon-invest-19b-delivery-expand-ai-tools"
-  },
-  {
-    "date": "2026-11-14",
-    "title": "DeepSeek expands developer access with new AI APIs",
-    "summary": "Founded by Liang Wenfeng, DeepSeek already offered a public API and listed its available models.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/deepseek-rolls-v41flash-update-faster-outputs"
-  },
-  {
-    "date": "2026-11-14",
-    "title": "Nvidia-Megaspeed saga could squeeze Singapore's room in chips space, slow things for firms: Analysts",
-    "summary": "An extramarital affair has renewed global scrutiny on chip giant Nvidia and its Singapore-based client Megaspeed, which is suspected of helping China gain access to advanced semiconductors from the US.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/singapore/nvidia-megaspeed-ai-chips-semiconductor-6549036"
-  },
-  {
-    "date": "2026-11-14",
-    "title": "AI trade isn’t just about tech stocks but also power, TCW says",
-    "summary": "The artificial intelligence boom has sent investors racing into chipmakers, cloud providers and megacap technology stocks, but a more durable opportun",
-    "source": "KED Global",
-    "short": "KED",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.kedglobal.com/asset-management/newsView/ked202606010002"
+    "url": "https://www.digitimes.com/news/a20261113VL224/nvidia-china-ai-chip-regulation-security.html"
   },
   {
     "date": "2026-11-13",
