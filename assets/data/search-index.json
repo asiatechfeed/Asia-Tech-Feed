@@ -1,5 +1,64 @@
 [
   {
+    "date": "2026-11-15",
+    "title": "Nvidia scrutiny, US curbs put $3b in China AI projects at risk",
+    "summary": "The records span universities, regional computing hubs, and government-backed ventures.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/nvidia-faces-430b-market-loss-huang-scrutiny"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "Synopsys sees AI accelerating EDA as chip-specific models divide work",
+    "summary": "Synopsys chief product development officer Shankar Krishnamoorthy said AI will accelerate the electronic design automation (EDA) industry as the company works with OpenAI to develop semiconductor-specific models, while maintaining support for both frontier and open-weight models to preserve platform neutrality.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20261112PD239/synopsys-eda-openai-development-design.html"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "Foxconn targets automotive chiplets with 5μm fan-out RDL packaging",
+    "summary": "As AI applications expand from cloud model training to end devices, Foxconn is using fan-out redistribution layer (RDL) technology to enter the advanced packaging market. The company showcased approximately 5μm-class fine-line circuitry at Hon Hai Tech Day 2026, targeting automotive chiplets, edge AI, and consumer elec",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261112PD242/packaging-ai-applications-foxconn-automotive-training.html"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "Hengs, Unitech launch 5.04MW/10.03MWh energy storage project",
+    "summary": "Sustainable energy company Hengs Technology has partnered with printed circuit board (PCB) maker Unitech Printed Circuit Board to launch a large behind-the-meter energy storage project at Unitech's Yilan plant in Taiwan, as demand for stable power and energy cost management rises among high-consumption industries drive",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261112PD247/launch-plant-electricity-demand-management.html?chid=10"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "SG tech firm To The New joins SpaceX AI partner network",
+    "summary": "Cursor says its enterprise offering is trusted by 64% of Fortune 500 companies.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/mythos-quest-sea-fighting-ai-threats-obsolete-security"
+  },
+  {
     "date": "2026-11-14",
     "title": "CapitalG leads $300m round for AI agent startup LangChain",
     "summary": "LangChain's LangSmith product counts Nvidia, Toyota, and Salesforce among its 7,000 customers.",

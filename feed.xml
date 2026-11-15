@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-14T08:01:25+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 14, 2026</title><link href="https://asiatechfeed.com/2026/11/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 14, 2026" /><published>2026-11-14T08:00:49+00:00</published><updated>2026-11-14T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/11/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-15T01:51:40+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 15, 2026</title><link href="https://asiatechfeed.com/2026/11/15/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 15, 2026" /><published>2026-11-15T01:50:20+00:00</published><updated>2026-11-15T01:50:20+00:00</updated><id>https://asiatechfeed.com/2026/11/15/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/15/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia scrutiny, US curbs put $3b in China AI projects at risk</span></td>
+  <td class="col-summary">The records span universities, regional computing hubs, and government-backed ventures.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-faces-430b-market-loss-huang-scrutiny" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Synopsys sees AI accelerating EDA as chip-specific models divide work</span></td>
+  <td class="col-summary">Synopsys chief product development officer Shankar Krishnamoorthy said AI will accelerate the electronic design automation (EDA) industry as the company works with OpenAI to develop semiconductor-specific models, while maintaining support for both frontier and open-weight models to preserve platform neutrality.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261112PD239/synopsys-eda-openai-development-design.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Foxconn targets automotive chiplets with 5μm fan-out RDL packaging</span></td>
+  <td class="col-summary">As AI applications expand from cloud model training to end devices, Foxconn is using fan-out redistribution layer (RDL) technology to enter the advanced packaging market. The company showcased approximately 5μm-class fine-line circuitry at Hon Hai Tech Day 2026, targeting automotive chiplets, edge AI, and consumer elec</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261112PD242/packaging-ai-applications-foxconn-automotive-training.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Hengs, Unitech launch 5.04MW/10.03MWh energy storage project</span></td>
+  <td class="col-summary">Sustainable energy company Hengs Technology has partnered with printed circuit board (PCB) maker Unitech Printed Circuit Board to launch a large behind-the-meter energy storage project at Unitech's Yilan plant in Taiwan, as demand for stable power and energy cost management rises among high-consumption industries drive</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261112PD247/launch-plant-electricity-demand-management.html?chid=10" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">SG tech firm To The New joins SpaceX AI partner network</span></td>
+  <td class="col-summary">Cursor says its enterprise offering is trusted by 64% of Fortune 500 companies.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/mythos-quest-sea-fighting-ai-threats-obsolete-security" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Nvidia scrutiny, US curbs put $3b in China AI projects at risk The records span universities, regional computing hubs, and government-backed ventures. AI Read 2 DigiTimes Synopsys sees AI accelerating EDA as chip-specific models divide work Synopsys chief product development officer Shankar Krishnamoorthy said AI will accelerate the electronic design automation (EDA) industry as the company works with OpenAI to develop semiconductor-specific models, while maintaining support for both frontier and open-weight models to preserve platform neutrality. SemiconductorAIAutomation Read 3 DigiTimes Foxconn targets automotive chiplets with 5μm fan-out RDL packaging As AI applications expand from cloud model training to end devices, Foxconn is using fan-out redistribution layer (RDL) technology to enter the advanced packaging market. The company showcased approximately 5μm-class fine-line circuitry at Hon Hai Tech Day 2026, targeting automotive chiplets, edge AI, and consumer elec ElectronicsAISemiconductor Read 4 DigiTimes Hengs, Unitech launch 5.04MW/10.03MWh energy storage project Sustainable energy company Hengs Technology has partnered with printed circuit board (PCB) maker Unitech Printed Circuit Board to launch a large behind-the-meter energy storage project at Unitech's Yilan plant in Taiwan, as demand for stable power and energy cost management rises among high-consumption industries drive Electronics Read 5 TechAsia SG tech firm To The New joins SpaceX AI partner network Cursor says its enterprise offering is trusted by 64% of Fortune 500 companies. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 14, 2026</title><link href="https://asiatechfeed.com/2026/11/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 14, 2026" /><published>2026-11-14T08:00:49+00:00</published><updated>2026-11-14T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/11/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -699,65 +752,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/techasia/taiwan-s-chipmakers-shine-brightest-in-living-memory" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 SemiEng Chip Industry Week In Review HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and SemiconductorAI Read 2 TechAsia Building trust in agentic finance with AI-native security AI agents can now move money. Ant International explores what businesses need to do to build trust and security around these tools. AI Read 3 CNA India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises AI Read 4 TechAsia Startup helps firms navigate the shift from Google to AI search Canlah AI builds AI agents that optimize business visibility inside ChatGPT and Google AI Overviews. AI Read 5 EETAsia Beyond TOPS: AMD Ryzen™ AI Embedded X100 at the Edge Agentic AI turns the edge from a simple inference pipeline into a coordinated loop of planning, tool use, and multi-agent collaboration. See why AMD Ryzen AI Embedded X100 with mimik mimOE outperforms TOPS-bound accelerators. The post Beyond TOPS: AMD Ryzen™ AI Embedded X100 at the Edge appeared first on EE Times Asia AI Read 6 EETAsia From AI That Answers to AI That Acts Why physical AI requires a new definition of performance – one built around the whole system, not peak compute. The post From AI That Answers to AI That Acts appeared first on EE Times Asia . AI Read 7 DigiTimes Tencent launches Hy4 model to boost visual reasoning, AI safety Tencent has launched its next-generation artificial intelligence (AI) model, Hy4, adding visual understanding for the first time and limiting cybersecurity training data to reduce the risk of misuse in cyberattacks and harmful biological research. AI Read 8 TechAsia SoftBank credit risk hits four-year high over AI debt fears SoftBank has a reported US$64.6 billion investment in OpenAI. AI Read 9 DigiTimes Qualcomm validates HBC memory architecture, targets AI250 samples in 1H27 Qualcomm has completed initial hardware validation of its high-bandwidth compute (HBC) memory architecture, which will form a key part of its next-generation Dragonfly data-center AI accelerators. The company aims to deliver a lower-cost, more energy-efficient alternative to sixth-generation high-bandwidth memory (HBM4 AI Read 10 DigiTimes China's NSIG sees silicon wafer prices rebound, but profitability remains elusive National Silicon Industry Group (NSIG) expects to complete its expansion to 1.2 million 300mm silicon wafers per month by the end of 2026, positioning the Chinese semiconductor materials supplier to benefit from recovering wafer prices and growing demand for silicon-on-insulator (SOI) substrates used in silicon photoni Semiconductor Read 11 NikkeiAsia China blocks SoftBank's $5.4bn deal for ABB robotics division China blocks SoftBank's $5.4bn deal for ABB robotics division Automation Read 12 NikkeiAsia Taiwan's chipmakers shine brightest in living memory Taiwan's chipmakers shine brightest in living memory Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 05, 2026</title><link href="https://asiatechfeed.com/2026/11/05/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 05, 2026" /><published>2026-11-05T08:00:52+00:00</published><updated>2026-11-05T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/11/05/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/05/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Tracking AI hiring in Singapore: Databricks, OpenAI, and more</span></td>
-  <td class="col-summary">AI firms keep talking about the city-state. Their hiring data reveals who’s truly expanding in Southeast Asia.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/openai-anthropic-hiring-singapore" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Cohere to partner Singapore defense agency on security AI</span></td>
-  <td class="col-summary">The collaboration will support AI deployment for national security operations in highly secure environments.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-backed-ai-startup-cohere-plans-eu-expansion-deal" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Moonshot AI launches hosted AI agent service for enterprise</span></td>
-  <td class="col-summary">The launch also comes as China’s rules for public-facing generative AI services require security assessments and regulatory filings in some cases.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/moonshot-pauses-kimi-k3-consumer-signups" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">EU launches EUR525 million push to close chip design gap</span></td>
-  <td class="col-summary">The European Union has launched a EUR525 million (approx. US$590 million) initiative to strengthen its semiconductor design industry, seeking to narrow the gap with the US and China while generating demand for chip manufacturing facilities in Europe.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261105VL221/design-europe-eu-manufacturing-demand.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain gaps</span></td>
-  <td class="col-summary">China's National Integrated Circuit Industry Investment Fund Phase III (Big Fund III) is shifting its focus from targeted semiconductor investments to large-scale manufacturing and industry consolidation, with a CNY900 million (approx. US$134 million) capital injection into Silan Microelectronics' 12-inch analog chip p</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261105VL220/12-inch-equipment-big-fund-investment-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Price hikes, market saturation curb global telecom, consumer electronics export growth</span></td>
-  <td class="col-summary">Rising global oil prices have driven up food costs, squeezing consumer discretionary budgets for products with higher price elasticity, such as smartphones and consumer electronics. A specialized report from Taiwan's Ministry of Economic Affairs (MOEA) reveals that in 2025, global ICT goods and services exports reached</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261105PD218/growth-electronics-market-telecom-2025.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Tracking AI hiring in Singapore: Databricks, OpenAI, and more AI firms keep talking about the city-state. Their hiring data reveals who’s truly expanding in Southeast Asia. AI Read 2 TechAsia Cohere to partner Singapore defense agency on security AI The collaboration will support AI deployment for national security operations in highly secure environments. AI Read 3 TechAsia Moonshot AI launches hosted AI agent service for enterprise The launch also comes as China’s rules for public-facing generative AI services require security assessments and regulatory filings in some cases. AI Read 4 DigiTimes EU launches EUR525 million push to close chip design gap The European Union has launched a EUR525 million (approx. US$590 million) initiative to strengthen its semiconductor design industry, seeking to narrow the gap with the US and China while generating demand for chip manufacturing facilities in Europe. Semiconductor Read 5 DigiTimes China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain gaps China's National Integrated Circuit Industry Investment Fund Phase III (Big Fund III) is shifting its focus from targeted semiconductor investments to large-scale manufacturing and industry consolidation, with a CNY900 million (approx. US$134 million) capital injection into Silan Microelectronics' 12-inch analog chip p SemiconductorElectronicsLogistics Read 6 DigiTimes Price hikes, market saturation curb global telecom, consumer electronics export growth Rising global oil prices have driven up food costs, squeezing consumer discretionary budgets for products with higher price elasticity, such as smartphones and consumer electronics. A specialized report from Taiwan's Ministry of Economic Affairs (MOEA) reveals that in 2025, global ICT goods and services exports reached Electronics Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 SemiEng Chip Industry Week In Review HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and SemiconductorAI Read 2 TechAsia Building trust in agentic finance with AI-native security AI agents can now move money. Ant International explores what businesses need to do to build trust and security around these tools. AI Read 3 CNA India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises AI Read 4 TechAsia Startup helps firms navigate the shift from Google to AI search Canlah AI builds AI agents that optimize business visibility inside ChatGPT and Google AI Overviews. AI Read 5 EETAsia Beyond TOPS: AMD Ryzen™ AI Embedded X100 at the Edge Agentic AI turns the edge from a simple inference pipeline into a coordinated loop of planning, tool use, and multi-agent collaboration. See why AMD Ryzen AI Embedded X100 with mimik mimOE outperforms TOPS-bound accelerators. The post Beyond TOPS: AMD Ryzen™ AI Embedded X100 at the Edge appeared first on EE Times Asia AI Read 6 EETAsia From AI That Answers to AI That Acts Why physical AI requires a new definition of performance – one built around the whole system, not peak compute. The post From AI That Answers to AI That Acts appeared first on EE Times Asia . AI Read 7 DigiTimes Tencent launches Hy4 model to boost visual reasoning, AI safety Tencent has launched its next-generation artificial intelligence (AI) model, Hy4, adding visual understanding for the first time and limiting cybersecurity training data to reduce the risk of misuse in cyberattacks and harmful biological research. AI Read 8 TechAsia SoftBank credit risk hits four-year high over AI debt fears SoftBank has a reported US$64.6 billion investment in OpenAI. AI Read 9 DigiTimes Qualcomm validates HBC memory architecture, targets AI250 samples in 1H27 Qualcomm has completed initial hardware validation of its high-bandwidth compute (HBC) memory architecture, which will form a key part of its next-generation Dragonfly data-center AI accelerators. The company aims to deliver a lower-cost, more energy-efficient alternative to sixth-generation high-bandwidth memory (HBM4 AI Read 10 DigiTimes China's NSIG sees silicon wafer prices rebound, but profitability remains elusive National Silicon Industry Group (NSIG) expects to complete its expansion to 1.2 million 300mm silicon wafers per month by the end of 2026, positioning the Chinese semiconductor materials supplier to benefit from recovering wafer prices and growing demand for silicon-on-insulator (SOI) substrates used in silicon photoni Semiconductor Read 11 NikkeiAsia China blocks SoftBank's $5.4bn deal for ABB robotics division China blocks SoftBank's $5.4bn deal for ABB robotics division Automation Read 12 NikkeiAsia Taiwan's chipmakers shine brightest in living memory Taiwan's chipmakers shine brightest in living memory Semiconductor Read]]></summary></entry></feed>
