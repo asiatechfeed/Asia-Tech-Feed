@@ -1,37 +1,25 @@
 {
   "date": "2026-11-15",
-  "count": 5,
+  "count": 3,
   "sources": [
-    "CNA",
-    "DigiTimes",
-    "TechAsia"
+    "DigiTimes"
   ],
   "post_file": "2026-11-15-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "South Korean police probes top exam scorer after AI cheating confession",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/south-korean-police-probes-top-exam-scorer-after-ai-cheating-confession-6552626"
-    },
-    {
-      "title": "OpenAI folds standalone robotics team into main units",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/openai-raises-11b-125t-valuation-funding"
-    },
-    {
-      "title": "MetaX-UBTech robot chip venture Xilect raises CNY500 million to take on Nvidia Thor",
+      "title": "Lite-On targets LEO satellites and enterprise AI servers for edge computing growth",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261112VL205/robot-nvidia-metax-gpu-software.html"
+      "url": "https://www.digitimes.com/news/a20261112PD234/lite-on-leo-satellite-ai-server-edge-computing-revenue-business.html"
     },
     {
-      "title": "Hoya reportedly unable to meet Samsung's full 2027 EUV mask blank request",
+      "title": "Lite-On sees AI server orders through 2028 as 800V DC reshapes power market",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261112VL210/hoya-euv-photomask-samsung-2027.html"
+      "url": "https://www.digitimes.com/news/a20261112PD231/lite-on-market-2028-ai-server-revenue.html"
     },
     {
-      "title": "Why a North Dakota town backed AI data center development",
+      "title": "Neousys Technology posts record quarter as defense, AGV/AMR demand accelerates",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261112PD212/data-center-development-2026-data.html"
+      "url": "https://www.digitimes.com/news/a20261112PD220/demand-pc-shipments-market-revenue.html"
     }
   ],
   "source_stats": [
@@ -50,7 +38,7 @@
       "fetched": 20,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +182,7 @@
       "fetched": 36,
       "relevant": 15,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
