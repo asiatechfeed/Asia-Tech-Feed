@@ -2,35 +2,36 @@
   "date": "2026-11-15",
   "count": 5,
   "sources": [
+    "CNA",
     "DigiTimes",
     "TechAsia"
   ],
   "post_file": "2026-11-15-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Nvidia scrutiny, US curbs put $3b in China AI projects at risk",
+      "title": "South Korean police probes top exam scorer after AI cheating confession",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/south-korean-police-probes-top-exam-scorer-after-ai-cheating-confession-6552626"
+    },
+    {
+      "title": "OpenAI folds standalone robotics team into main units",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/nvidia-faces-430b-market-loss-huang-scrutiny"
+      "url": "https://www.techinasia.com/openai-raises-11b-125t-valuation-funding"
     },
     {
-      "title": "Synopsys sees AI accelerating EDA as chip-specific models divide work",
+      "title": "MetaX-UBTech robot chip venture Xilect raises CNY500 million to take on Nvidia Thor",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261112PD239/synopsys-eda-openai-development-design.html"
+      "url": "https://www.digitimes.com/news/a20261112VL205/robot-nvidia-metax-gpu-software.html"
     },
     {
-      "title": "Foxconn targets automotive chiplets with 5\u03bcm fan-out RDL packaging",
+      "title": "Hoya reportedly unable to meet Samsung's full 2027 EUV mask blank request",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261112PD242/packaging-ai-applications-foxconn-automotive-training.html"
+      "url": "https://www.digitimes.com/news/a20261112VL210/hoya-euv-photomask-samsung-2027.html"
     },
     {
-      "title": "Hengs, Unitech launch 5.04MW/10.03MWh energy storage project",
+      "title": "Why a North Dakota town backed AI data center development",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261112PD247/launch-plant-electricity-demand-management.html?chid=10"
-    },
-    {
-      "title": "SG tech firm To The New joins SpaceX AI partner network",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/mythos-quest-sea-fighting-ai-threats-obsolete-security"
+      "url": "https://www.digitimes.com/news/a20261112PD212/data-center-development-2026-data.html"
     }
   ],
   "source_stats": [
@@ -47,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -146,7 +147,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 6,
+      "relevant": 2,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -193,7 +194,7 @@
       "fetched": 36,
       "relevant": 15,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
