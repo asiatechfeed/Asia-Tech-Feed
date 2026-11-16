@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-15T08:01:25+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 15, 2026</title><link href="https://asiatechfeed.com/2026/11/15/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 15, 2026" /><published>2026-11-15T08:00:56+00:00</published><updated>2026-11-15T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/11/15/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/15/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-16T00:04:24+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 16, 2026</title><link href="https://asiatechfeed.com/2026/11/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 16, 2026" /><published>2026-11-16T00:03:43+00:00</published><updated>2026-11-16T00:03:43+00:00</updated><id>https://asiatechfeed.com/2026/11/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Applied Materials targets double output by 2028 as chip equipment demand outpaces supply</span></td>
+  <td class="col-summary">Backed by surging demand for chipmaking equipment, Applied Materials plans to double output by 2028 and capacity by 2030, according to company executives during its earnings call for the fourth quarter of fiscal year 2026. It said customers are pushing for capacity ramps as demand still surpasses supply, and that the e</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261113VL238/applied-materials-equipment-demand-2028-capacity.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">India roundup: India's tech ambitions accelerate as semiconductor bottlenecks and supply-chain risks mount</span></td>
+  <td class="col-summary">India is accelerating semiconductor, electronics, and AI investments, but testing bottlenecks, rising costs, workforce cuts, factory safety concerns, and project delays expose growing challenges to its manufacturing ambitions.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261113VL215/india-roundup-capacity-electronics-plant-production-testing.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing</span></td>
+  <td class="col-summary">South Wales has spent decades building one of Britain's most distinctive semiconductor manufacturing ecosystems. Rooted in a long history of metals processing and industrial production, the region now supplies specialist technologies supporting global electronics, electric vehicles and communications.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261113VL213/manufacturing-industrial-materials-production-region.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: Microsoft discovers AI can’t keep the email going</span></td>
+  <td class="col-summary">The outages of Outlook, Teams, Copilot and more than a dozen services are a bad look for the tech giant and its AI layoffs, says Mark Gongloff for Bloomberg Opinion.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/commentary-microsoft-discovers-ai-cant-keep-email-going-6552846" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">US Treasury chief wants answers soon from Nvidia</span></td>
+  <td class="col-summary">Nvidia faces fresh scrutiny over claims that its most advanced AI chips reached China via Southeast Asia, with a Justice Department criminal probe underway.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/us-treasury-chief-nvidia-ai-chips-china-jensen-huang-6553411" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Applied Materials targets double output by 2028 as chip equipment demand outpaces supply Backed by surging demand for chipmaking equipment, Applied Materials plans to double output by 2028 and capacity by 2030, according to company executives during its earnings call for the fourth quarter of fiscal year 2026. It said customers are pushing for capacity ramps as demand still surpasses supply, and that the e Semiconductor Read 2 DigiTimes India roundup: India's tech ambitions accelerate as semiconductor bottlenecks and supply-chain risks mount India is accelerating semiconductor, electronics, and AI investments, but testing bottlenecks, rising costs, workforce cuts, factory safety concerns, and project delays expose growing challenges to its manufacturing ambitions. SemiconductorElectronicsAI Read 3 DigiTimes Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing South Wales has spent decades building one of Britain's most distinctive semiconductor manufacturing ecosystems. Rooted in a long history of metals processing and industrial production, the region now supplies specialist technologies supporting global electronics, electric vehicles and communications. SemiconductorElectronics Read 4 CNA Commentary: Microsoft discovers AI can’t keep the email going The outages of Outlook, Teams, Copilot and more than a dozen services are a bad look for the tech giant and its AI layoffs, says Mark Gongloff for Bloomberg Opinion. AI Read 5 CNA US Treasury chief wants answers soon from Nvidia Nvidia faces fresh scrutiny over claims that its most advanced AI chips reached China via Southeast Asia, with a Justice Department criminal probe underway. AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 15, 2026</title><link href="https://asiatechfeed.com/2026/11/15/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 15, 2026" /><published>2026-11-15T08:00:56+00:00</published><updated>2026-11-15T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/11/15/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/15/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -627,113 +680,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261106PD234/wistron-its-revenue-profit-growth.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 EETAsia AMD AI NIC™ Technology Driving AI-Ready Ethernet AI workloads outgrew RoCEv2. AMD’s fully programmable AI NIC lets teams adopt UEC, MRC, and MetaRoCE on existing hardware—no wait for new silicon. From Pollara 400 to Vulcano 800, one software investment carries across generations of AI Ethernet transports. The post AMD AI NIC™ Technology Driving AI-Ready Ethernet appe AI Read 2 EETAsia Learning to Fail: Failure Fidelity and Training Stability for RL inside World Models A world model used as an RL environment gets exploited if it draws failures as successes. On RoboTwin adjust_bottle, failure-data fine-tuning cuts BWM fake success from 82.5% to 26%, and a corrected PPO recipe makes in-WM gains reproducible across all five seeds (+9.7 pp mean). Closed-loop replay exposes why action-for Automation Read 3 DigiTimes Democrats constrain Trump as scarce AI capacity benefits CSPs Democrats swept the US midterm elections, reshaping the global technology and industrial landscape. Their victories in key gubernatorial races, including in Texas and Georgia, have raised concerns about AI infrastructure expansion after some winning candidates explicitly pledged to pause data-center development. AI Read 4 DigiTimes Taiwan Mobile clears Systex tender offer, securing 61.02% ownership Taiwan Mobile said its wholly owned subsidiary, Taiwan Cellular, had satisfied all conditions for its tender offer for Systex Corporation shares, clearing the way for the telecom operator to raise its stake in the information-services provider to 61.02%. The announcement was made on November 6 as the companies moved to AI Read 5 DigiTimes Wistron ITS reports record third-quarter profit as AI and semiconductor focus accelerates Wistron ITS reported record gross profit, operating profit, net income, and earnings per share in the third quarter of 2026, as stronger revenue and improved operating efficiency supported continued expansion in AI and semiconductor services. Consolidated revenue reached NT$3.752 billion (approx. US$114.1 million), up SemiconductorAI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 06, 2026</title><link href="https://asiatechfeed.com/2026/11/06/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 06, 2026" /><published>2026-11-06T08:00:53+00:00</published><updated>2026-11-06T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/11/06/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/06/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">SemiEng</span></td>
-  <td class="col-title"><span class="article-title">Chip Industry Week In Review</span></td>
-  <td class="col-summary">HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://semiengineering.com/chip-industry-week-in-review-163/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Building trust in agentic finance with AI-native security</span></td>
-  <td class="col-summary">AI agents can now move money. Ant International explores what businesses need to do to build trust and security around these tools.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/building-trust-agentic-finance-ainative-security" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises</span></td>
-  <td class="col-summary">India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/indias-coforge-joins-spacex-partner-network-deploy-grok-ai-tools-enterprises-6530541" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Startup helps firms navigate the shift from Google to AI search</span></td>
-  <td class="col-summary">Canlah AI builds AI agents that optimize business visibility inside ChatGPT and Google AI Overviews.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/startup-helps-firms-navigate-shift-google-ai-search" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Beyond TOPS: AMD Ryzen™ AI Embedded X100 at the Edge</span></td>
-  <td class="col-summary">Agentic AI turns the edge from a simple inference pipeline into a coordinated loop of planning, tool use, and multi-agent collaboration. See why AMD Ryzen AI Embedded X100 with mimik mimOE outperforms TOPS-bound accelerators. The post Beyond TOPS: AMD Ryzen™ AI Embedded X100 at the Edge appeared first on EE Times Asia </td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddedblog-beyond-tops-amd-ryzen-ai-embedded-x100-at-the-edge/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">From AI That Answers to AI That Acts</span></td>
-  <td class="col-summary">Why physical AI requires a new definition of performance – one built around the whole system, not peak compute. The post From AI That Answers to AI That Acts appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddedblog-from-ai-that-answers-to-ai-that-acts/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Tencent launches Hy4 model to boost visual reasoning, AI safety</span></td>
-  <td class="col-summary">Tencent has launched its next-generation artificial intelligence (AI) model, Hy4, adding visual understanding for the first time and limiting cybersecurity training data to reduce the risk of misuse in cyberattacks and harmful biological research.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261106PD206/tencent-training-cybersecurity-testing-data.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SoftBank credit risk hits four-year high over AI debt fears</span></td>
-  <td class="col-summary">SoftBank has a reported US$64.6 billion investment in OpenAI.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/softbank-completes-final-10b-openai-investment" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Qualcomm validates HBC memory architecture, targets AI250 samples in 1H27</span></td>
-  <td class="col-summary">Qualcomm has completed initial hardware validation of its high-bandwidth compute (HBC) memory architecture, which will form a key part of its next-generation Dragonfly data-center AI accelerators. The company aims to deliver a lower-cost, more energy-efficient alternative to sixth-generation high-bandwidth memory (HBM4</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261106PD216/qualcomm-hardware-ai-inference-technology-hbm4.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">China's NSIG sees silicon wafer prices rebound, but profitability remains elusive</span></td>
-  <td class="col-summary">National Silicon Industry Group (NSIG) expects to complete its expansion to 1.2 million 300mm silicon wafers per month by the end of 2026, positioning the Chinese semiconductor materials supplier to benefit from recovering wafer prices and growing demand for silicon-on-insulator (SOI) substrates used in silicon photoni</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261106VL208/nsig-silicon-wafer-300mm-expansion.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">China blocks SoftBank's $5.4bn deal for ABB robotics division</span></td>
-  <td class="col-summary">China blocks SoftBank's $5.4bn deal for ABB robotics division</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/business-deals/china-blocks-softbank-s-5.4bn-deal-for-abb-robotics-division" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Taiwan's chipmakers shine brightest in living memory</span></td>
-  <td class="col-summary">Taiwan's chipmakers shine brightest in living memory</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/techasia/taiwan-s-chipmakers-shine-brightest-in-living-memory" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 SemiEng Chip Industry Week In Review HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and SemiconductorAI Read 2 TechAsia Building trust in agentic finance with AI-native security AI agents can now move money. Ant International explores what businesses need to do to build trust and security around these tools. AI Read 3 CNA India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises AI Read 4 TechAsia Startup helps firms navigate the shift from Google to AI search Canlah AI builds AI agents that optimize business visibility inside ChatGPT and Google AI Overviews. AI Read 5 EETAsia Beyond TOPS: AMD Ryzen™ AI Embedded X100 at the Edge Agentic AI turns the edge from a simple inference pipeline into a coordinated loop of planning, tool use, and multi-agent collaboration. See why AMD Ryzen AI Embedded X100 with mimik mimOE outperforms TOPS-bound accelerators. The post Beyond TOPS: AMD Ryzen™ AI Embedded X100 at the Edge appeared first on EE Times Asia AI Read 6 EETAsia From AI That Answers to AI That Acts Why physical AI requires a new definition of performance – one built around the whole system, not peak compute. The post From AI That Answers to AI That Acts appeared first on EE Times Asia . AI Read 7 DigiTimes Tencent launches Hy4 model to boost visual reasoning, AI safety Tencent has launched its next-generation artificial intelligence (AI) model, Hy4, adding visual understanding for the first time and limiting cybersecurity training data to reduce the risk of misuse in cyberattacks and harmful biological research. AI Read 8 TechAsia SoftBank credit risk hits four-year high over AI debt fears SoftBank has a reported US$64.6 billion investment in OpenAI. AI Read 9 DigiTimes Qualcomm validates HBC memory architecture, targets AI250 samples in 1H27 Qualcomm has completed initial hardware validation of its high-bandwidth compute (HBC) memory architecture, which will form a key part of its next-generation Dragonfly data-center AI accelerators. The company aims to deliver a lower-cost, more energy-efficient alternative to sixth-generation high-bandwidth memory (HBM4 AI Read 10 DigiTimes China's NSIG sees silicon wafer prices rebound, but profitability remains elusive National Silicon Industry Group (NSIG) expects to complete its expansion to 1.2 million 300mm silicon wafers per month by the end of 2026, positioning the Chinese semiconductor materials supplier to benefit from recovering wafer prices and growing demand for silicon-on-insulator (SOI) substrates used in silicon photoni Semiconductor Read 11 NikkeiAsia China blocks SoftBank's $5.4bn deal for ABB robotics division China blocks SoftBank's $5.4bn deal for ABB robotics division Automation Read 12 NikkeiAsia Taiwan's chipmakers shine brightest in living memory Taiwan's chipmakers shine brightest in living memory Semiconductor Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 EETAsia AMD AI NIC™ Technology Driving AI-Ready Ethernet AI workloads outgrew RoCEv2. AMD’s fully programmable AI NIC lets teams adopt UEC, MRC, and MetaRoCE on existing hardware—no wait for new silicon. From Pollara 400 to Vulcano 800, one software investment carries across generations of AI Ethernet transports. The post AMD AI NIC™ Technology Driving AI-Ready Ethernet appe AI Read 2 EETAsia Learning to Fail: Failure Fidelity and Training Stability for RL inside World Models A world model used as an RL environment gets exploited if it draws failures as successes. On RoboTwin adjust_bottle, failure-data fine-tuning cuts BWM fake success from 82.5% to 26%, and a corrected PPO recipe makes in-WM gains reproducible across all five seeds (+9.7 pp mean). Closed-loop replay exposes why action-for Automation Read 3 DigiTimes Democrats constrain Trump as scarce AI capacity benefits CSPs Democrats swept the US midterm elections, reshaping the global technology and industrial landscape. Their victories in key gubernatorial races, including in Texas and Georgia, have raised concerns about AI infrastructure expansion after some winning candidates explicitly pledged to pause data-center development. AI Read 4 DigiTimes Taiwan Mobile clears Systex tender offer, securing 61.02% ownership Taiwan Mobile said its wholly owned subsidiary, Taiwan Cellular, had satisfied all conditions for its tender offer for Systex Corporation shares, clearing the way for the telecom operator to raise its stake in the information-services provider to 61.02%. The announcement was made on November 6 as the companies moved to AI Read 5 DigiTimes Wistron ITS reports record third-quarter profit as AI and semiconductor focus accelerates Wistron ITS reported record gross profit, operating profit, net income, and earnings per share in the third quarter of 2026, as stronger revenue and improved operating efficiency supported continued expansion in AI and semiconductor services. Consolidated revenue reached NT$3.752 billion (approx. US$114.1 million), up SemiconductorAI Read]]></summary></entry></feed>
