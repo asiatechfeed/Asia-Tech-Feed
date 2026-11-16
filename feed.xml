@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-16T00:04:24+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 16, 2026</title><link href="https://asiatechfeed.com/2026/11/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 16, 2026" /><published>2026-11-16T00:03:43+00:00</published><updated>2026-11-16T00:03:43+00:00</updated><id>https://asiatechfeed.com/2026/11/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-16T06:00:53+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 16, 2026</title><link href="https://asiatechfeed.com/2026/11/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 16, 2026" /><published>2026-11-16T05:59:22+00:00</published><updated>2026-11-16T05:59:22+00:00</updated><id>https://asiatechfeed.com/2026/11/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -12,46 +12,110 @@
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Applied Materials targets double output by 2028 as chip equipment demand outpaces supply</span></td>
-  <td class="col-summary">Backed by surging demand for chipmaking equipment, Applied Materials plans to double output by 2028 and capacity by 2030, according to company executives during its earnings call for the fourth quarter of fiscal year 2026. It said customers are pushing for capacity ramps as demand still surpasses supply, and that the e</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261113VL238/applied-materials-equipment-demand-2028-capacity.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Practical cooperation in digital domain, AI can unlock opportunities for ASEAN, China: PM Wong</span></td>
+  <td class="col-summary">Prime Minister Lawrence Wong also called for both sides to build economic bridges and champion regional peace and stability, during the 29th ASEAN-China Summit.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/asean-china-summit-lawrence-wong-6553926" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">India roundup: India's tech ambitions accelerate as semiconductor bottlenecks and supply-chain risks mount</span></td>
-  <td class="col-summary">India is accelerating semiconductor, electronics, and AI investments, but testing bottlenecks, rising costs, workforce cuts, factory safety concerns, and project delays expose growing challenges to its manufacturing ambitions.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261113VL215/india-roundup-capacity-electronics-plant-production-testing.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Rapidus sets 2nm chip mass production for late 2027</span></td>
+  <td class="col-summary">Rapidus President Atsuyoshi Koike said on November 13 that the Japanese semiconductor venture plans to begin mass production of 2nm chips in late 2027 or early 2028. The timeline provides a more specific target after reports raised concerns about delays in developing key SRAM technology.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261116PD216/rapidus-2nm-production-2027-chips.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing</span></td>
-  <td class="col-summary">South Wales has spent decades building one of Britain's most distinctive semiconductor manufacturing ecosystems. Rooted in a long history of metals processing and industrial production, the region now supplies specialist technologies supporting global electronics, electric vehicles and communications.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261113VL213/manufacturing-industrial-materials-production-region.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Samsung reportedly to make Starlink chips at Austin fab, deepening space push</span></td>
+  <td class="col-summary">Samsung will reportedly begin making Starlink chips at its Austin, Texas, fab. The chipmaker plans to use its Texas facilities to pursue a two-track semiconductor strategy, set up production near target markets, and push into the satellite sector.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261116VL215/samsung-austin-chips-starlink-plant.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: Microsoft discovers AI can’t keep the email going</span></td>
-  <td class="col-summary">The outages of Outlook, Teams, Copilot and more than a dozen services are a bad look for the tech giant and its AI layoffs, says Mark Gongloff for Bloomberg Opinion.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/commentary-microsoft-discovers-ai-cant-keep-email-going-6552846" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Samsung Display advances A7 plant as IT OLED race intensifies</span></td>
+  <td class="col-summary">Samsung Display Co. (Samsung Display; SDC) has revealed construction progress at its A7 plant in Asan, backed by a KRW5.9 trillion (US$4.4 billion) investment and targeting mass production in the second half of 2029. As OLED applications expand from smartphones to notebooks, tablets, and monitors, SDC, BOE Technology G</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261116PD205/sdc-plant-production-investment-tcl.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Alibaba launches Qwen4-Max AI model, cutting task costs 60%</span></td>
+  <td class="col-summary">Alibaba said Qwen4-Max has 2.4 trillion parameters, supports a 1 million-token context window, and includes native visual capabilities.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-details-ai-roadmap-qwen-4-enters-training" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">US Treasury chief wants answers soon from Nvidia</span></td>
-  <td class="col-summary">Nvidia faces fresh scrutiny over claims that its most advanced AI chips reached China via Southeast Asia, with a Justice Department criminal probe underway.</td>
+  <td class="col-title"><span class="article-title">Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports</span></td>
+  <td class="col-summary">Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/trump-administration-name-nvidia-other-ai-firms-us-national-champions-wsj-reports-6554201" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">DRAM Revenue Nears $200B as AI Demand Drives Pricing Surge</span></td>
+  <td class="col-summary">AI demand drives DRAM prices higher, lifting revenue as conventional memory outpaces HBM growth. The post DRAM Revenue Nears $200B as AI Demand Drives Pricing Surge appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/dram-revenue-nears-200b-as-ai-demand-drives-pricing-surge/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">UCIe Consortium Releases UCIe 4.0 Specs</span></td>
+  <td class="col-summary">New specification expands chiplet interconnect standards with system-level management, memory connectivity, power efficiency and reliability features. The post UCIe Consortium Releases UCIe 4.0 Specs appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/ucie-consortium-releases-ucie-4-0-specs/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Axelera AI Targets Data Center Inference with Third-Gen Titania Architecture</span></td>
+  <td class="col-summary">Chiplet-based accelerator combines digital in-memory computing, LPDDR6 memory and RISC-V cores for air-cooled inference. The post Axelera AI Targets Data Center Inference with Third-Gen Titania Architecture appeared first on EE Times Asia .</td>
   <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/us-treasury-chief-nvidia-ai-chips-china-jensen-huang-6553411" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/axelera-ai-targets-data-center-inference-with-third-gen-titania-architecture/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Tencent Cloud signs AI deal with Capital A’s logistics arm</span></td>
+  <td class="col-summary">Teleport said its network moves up to 1.25 million parcels a day using capacity from more than 55 airline partners.</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/tencent-cloud-partners-robot-ai-startup-roboscience" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">SK hynix pledges $1b to support AI chip supply chain</span></td>
+  <td class="col-summary">SK hynix and financial institutions also planned to provide 2 trillion won (US$1.5 billion) in financing backed by the Korea Trade Insurance Corporation.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sk-hynix-shares-plunge-10-ai-jitters-hit-stocks" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">SK Hynix in 24/7 race to complete colossal chip plant</span></td>
+  <td class="col-summary">SK Hynix in 24/7 race to complete colossal chip plant</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-in-24-7-race-to-complete-colossal-chip-plant" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">13</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">What an Anthropic index says about Japan's AI challenges</span></td>
+  <td class="col-summary">What an Anthropic index says about Japan's AI challenges</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/comment/what-an-anthropic-index-says-about-japan-s-ai-challenges" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Applied Materials targets double output by 2028 as chip equipment demand outpaces supply Backed by surging demand for chipmaking equipment, Applied Materials plans to double output by 2028 and capacity by 2030, according to company executives during its earnings call for the fourth quarter of fiscal year 2026. It said customers are pushing for capacity ramps as demand still surpasses supply, and that the e Semiconductor Read 2 DigiTimes India roundup: India's tech ambitions accelerate as semiconductor bottlenecks and supply-chain risks mount India is accelerating semiconductor, electronics, and AI investments, but testing bottlenecks, rising costs, workforce cuts, factory safety concerns, and project delays expose growing challenges to its manufacturing ambitions. SemiconductorElectronicsAI Read 3 DigiTimes Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing South Wales has spent decades building one of Britain's most distinctive semiconductor manufacturing ecosystems. Rooted in a long history of metals processing and industrial production, the region now supplies specialist technologies supporting global electronics, electric vehicles and communications. SemiconductorElectronics Read 4 CNA Commentary: Microsoft discovers AI can’t keep the email going The outages of Outlook, Teams, Copilot and more than a dozen services are a bad look for the tech giant and its AI layoffs, says Mark Gongloff for Bloomberg Opinion. AI Read 5 CNA US Treasury chief wants answers soon from Nvidia Nvidia faces fresh scrutiny over claims that its most advanced AI chips reached China via Southeast Asia, with a Justice Department criminal probe underway. AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 15, 2026</title><link href="https://asiatechfeed.com/2026/11/15/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 15, 2026" /><published>2026-11-15T08:00:56+00:00</published><updated>2026-11-15T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/11/15/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/15/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Practical cooperation in digital domain, AI can unlock opportunities for ASEAN, China: PM Wong Prime Minister Lawrence Wong also called for both sides to build economic bridges and champion regional peace and stability, during the 29th ASEAN-China Summit. AI Read 2 DigiTimes Rapidus sets 2nm chip mass production for late 2027 Rapidus President Atsuyoshi Koike said on November 13 that the Japanese semiconductor venture plans to begin mass production of 2nm chips in late 2027 or early 2028. The timeline provides a more specific target after reports raised concerns about delays in developing key SRAM technology. Semiconductor Read 3 DigiTimes Samsung reportedly to make Starlink chips at Austin fab, deepening space push Samsung will reportedly begin making Starlink chips at its Austin, Texas, fab. The chipmaker plans to use its Texas facilities to pursue a two-track semiconductor strategy, set up production near target markets, and push into the satellite sector. Semiconductor Read 4 DigiTimes Samsung Display advances A7 plant as IT OLED race intensifies Samsung Display Co. (Samsung Display; SDC) has revealed construction progress at its A7 plant in Asan, backed by a KRW5.9 trillion (US$4.4 billion) investment and targeting mass production in the second half of 2029. As OLED applications expand from smartphones to notebooks, tablets, and monitors, SDC, BOE Technology G Electronics Read 5 TechAsia Alibaba launches Qwen4-Max AI model, cutting task costs 60% Alibaba said Qwen4-Max has 2.4 trillion parameters, supports a 1 million-token context window, and includes native visual capabilities. AI Read 6 CNA Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports AI Read 7 EETAsia DRAM Revenue Nears $200B as AI Demand Drives Pricing Surge AI demand drives DRAM prices higher, lifting revenue as conventional memory outpaces HBM growth. The post DRAM Revenue Nears $200B as AI Demand Drives Pricing Surge appeared first on EE Times Asia . AI Read 8 EETAsia UCIe Consortium Releases UCIe 4.0 Specs New specification expands chiplet interconnect standards with system-level management, memory connectivity, power efficiency and reliability features. The post UCIe Consortium Releases UCIe 4.0 Specs appeared first on EE Times Asia . Semiconductor Read 9 EETAsia Axelera AI Targets Data Center Inference with Third-Gen Titania Architecture Chiplet-based accelerator combines digital in-memory computing, LPDDR6 memory and RISC-V cores for air-cooled inference. The post Axelera AI Targets Data Center Inference with Third-Gen Titania Architecture appeared first on EE Times Asia . AISemiconductor Read 10 TechAsia Tencent Cloud signs AI deal with Capital A’s logistics arm Teleport said its network moves up to 1.25 million parcels a day using capacity from more than 55 airline partners. LogisticsAI Read 11 TechAsia SK hynix pledges $1b to support AI chip supply chain SK hynix and financial institutions also planned to provide 2 trillion won (US$1.5 billion) in financing backed by the Korea Trade Insurance Corporation. AISemiconductorLogistics Read 12 NikkeiAsia SK Hynix in 24/7 race to complete colossal chip plant SK Hynix in 24/7 race to complete colossal chip plant Semiconductor Read 13 NikkeiAsia What an Anthropic index says about Japan's AI challenges What an Anthropic index says about Japan's AI challenges AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 15, 2026</title><link href="https://asiatechfeed.com/2026/11/15/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 15, 2026" /><published>2026-11-15T08:00:56+00:00</published><updated>2026-11-15T08:00:56+00:00</updated><id>https://asiatechfeed.com/2026/11/15/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/15/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
