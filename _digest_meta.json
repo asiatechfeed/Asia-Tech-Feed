@@ -1,39 +1,38 @@
 {
   "date": "2026-11-16",
-  "count": 13,
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-16-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Practical cooperation in digital domain, AI can unlock opportunities for ASEAN, China: PM Wong",
+      "title": "Hong Kong rolls out AI facial recognition across CCTV network",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/asean-china-summit-lawrence-wong-6553926"
+      "url": "https://www.channelnewsasia.com/east-asia/hong-kong-ai-facial-recognition-cctv-network-6554651"
     },
     {
-      "title": "Rapidus sets 2nm chip mass production for late 2027",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261116PD216/rapidus-2nm-production-2027-chips.html"
-    },
-    {
-      "title": "Samsung reportedly to make Starlink chips at Austin fab, deepening space push",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261116VL215/samsung-austin-chips-starlink-plant.html"
-    },
-    {
-      "title": "Samsung Display advances A7 plant as IT OLED race intensifies",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261116PD205/sdc-plant-production-investment-tcl.html"
-    },
-    {
-      "title": "Alibaba launches Qwen4-Max AI model, cutting task costs 60%",
+      "title": "How one startup shrinks AI down to a single transistor",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/alibaba-details-ai-roadmap-qwen-4-enters-training"
+      "url": "https://www.techinasia.com/startup-shrinks-ai-single-transistor"
+    },
+    {
+      "title": "South Korea to inspect glasses worn by exam candidates after AI cheating scandal",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/south-korea-national-exam-ai-cheating-scandal-6554101"
+    },
+    {
+      "title": "Regional trade cooperation improving despite US-China tensions: APEC chief",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/apec-shenzhen-summit-trade-relations-us-china-asean-6554366"
+    },
+    {
+      "title": "SK Hynix's Trinity Fab aims to shorten suppliers' path to chip production",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261116VL216/sk-hynix-production-trinity-equipment-cleanroom.html"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -149,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 7,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 64,
-      "relevant": 51,
+      "fetched": 68,
+      "relevant": 54,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -194,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 12,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
