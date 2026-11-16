@@ -1,36 +1,39 @@
 {
   "date": "2026-11-16",
-  "count": 5,
+  "count": 13,
   "sources": [
     "CNA",
-    "DigiTimes"
+    "DigiTimes",
+    "EETAsia",
+    "NikkeiAsia",
+    "TechAsia"
   ],
   "post_file": "2026-11-16-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Applied Materials targets double output by 2028 as chip equipment demand outpaces supply",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261113VL238/applied-materials-equipment-demand-2028-capacity.html"
-    },
-    {
-      "title": "India roundup: India's tech ambitions accelerate as semiconductor bottlenecks and supply-chain risks mount",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261113VL215/india-roundup-capacity-electronics-plant-production-testing.html"
-    },
-    {
-      "title": "Analysis: South Wales built a semiconductor powerhouse\u2014but the rules of manufacturing are changing",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261113VL213/manufacturing-industrial-materials-production-region.html"
-    },
-    {
-      "title": "Commentary: Microsoft discovers AI can\u2019t keep the email going",
+      "title": "Practical cooperation in digital domain, AI can unlock opportunities for ASEAN, China: PM Wong",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/commentary-microsoft-discovers-ai-cant-keep-email-going-6552846"
+      "url": "https://www.channelnewsasia.com/singapore/asean-china-summit-lawrence-wong-6553926"
     },
     {
-      "title": "US Treasury chief wants answers soon from Nvidia",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/us-treasury-chief-nvidia-ai-chips-china-jensen-huang-6553411"
+      "title": "Rapidus sets 2nm chip mass production for late 2027",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261116PD216/rapidus-2nm-production-2027-chips.html"
+    },
+    {
+      "title": "Samsung reportedly to make Starlink chips at Austin fab, deepening space push",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261116VL215/samsung-austin-chips-starlink-plant.html"
+    },
+    {
+      "title": "Samsung Display advances A7 plant as IT OLED race intensifies",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261116PD205/sdc-plant-production-investment-tcl.html"
+    },
+    {
+      "title": "Alibaba launches Qwen4-Max AI model, cutting task costs 60%",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/alibaba-details-ai-roadmap-qwen-4-enters-training"
     }
   ],
   "source_stats": [
@@ -127,7 +130,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -146,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 2,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 27,
+      "fetched": 64,
+      "relevant": 51,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -164,9 +167,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -191,9 +194,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 16,
+      "relevant": 13,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
