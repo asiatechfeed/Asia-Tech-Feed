@@ -1,25 +1,36 @@
 {
-  "date": "2026-11-15",
-  "count": 3,
+  "date": "2026-11-16",
+  "count": 5,
   "sources": [
+    "CNA",
     "DigiTimes"
   ],
-  "post_file": "2026-11-15-asia-tech-news-digest.md",
+  "post_file": "2026-11-16-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Lite-On targets LEO satellites and enterprise AI servers for edge computing growth",
+      "title": "Applied Materials targets double output by 2028 as chip equipment demand outpaces supply",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261112PD234/lite-on-leo-satellite-ai-server-edge-computing-revenue-business.html"
+      "url": "https://www.digitimes.com/news/a20261113VL238/applied-materials-equipment-demand-2028-capacity.html"
     },
     {
-      "title": "Lite-On sees AI server orders through 2028 as 800V DC reshapes power market",
+      "title": "India roundup: India's tech ambitions accelerate as semiconductor bottlenecks and supply-chain risks mount",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261112PD231/lite-on-market-2028-ai-server-revenue.html"
+      "url": "https://www.digitimes.com/news/a20261113VL215/india-roundup-capacity-electronics-plant-production-testing.html"
     },
     {
-      "title": "Neousys Technology posts record quarter as defense, AGV/AMR demand accelerates",
+      "title": "Analysis: South Wales built a semiconductor powerhouse\u2014but the rules of manufacturing are changing",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261112PD220/demand-pc-shipments-market-revenue.html"
+      "url": "https://www.digitimes.com/news/a20261113VL213/manufacturing-industrial-materials-production-region.html"
+    },
+    {
+      "title": "Commentary: Microsoft discovers AI can\u2019t keep the email going",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/commentary-microsoft-discovers-ai-cant-keep-email-going-6552846"
+    },
+    {
+      "title": "US Treasury chief wants answers soon from Nvidia",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/us-treasury-chief-nvidia-ai-chips-china-jensen-huang-6553411"
     }
   ],
   "source_stats": [
@@ -36,9 +47,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -116,7 +127,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -144,7 +155,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 29,
+      "relevant": 27,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -180,7 +191,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 16,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
