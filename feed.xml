@@ -1,4 +1,129 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-16T08:02:15+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 16, 2026</title><link href="https://asiatechfeed.com/2026/11/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 16, 2026" /><published>2026-11-16T08:00:52+00:00</published><updated>2026-11-16T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/11/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-17T00:14:05+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 17, 2026</title><link href="https://asiatechfeed.com/2026/11/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 17, 2026" /><published>2026-11-17T00:13:24+00:00</published><updated>2026-11-17T00:13:24+00:00</updated><id>https://asiatechfeed.com/2026/11/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Amazon reportedly planning to amass the world's largest product database</span></td>
+  <td class="col-summary">Amazon is reportedly planning to create a vast catalogue of the world's product data to ensure that consumers keep turning to its online marketplace for purchases. The move comes as AI agents that help users with shopping have entered the scene, causing worries for the e-commerce and AI giant that these agents could dr</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261116VL218/amazon-data-online-meta-e-commerce.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Powerlogic posts 9M26 loss as gaming demand slows</span></td>
+  <td class="col-summary">PC supply chain shipments have entered a downturn, with fan maker Powerlogic reporting consolidated revenue of NT$820 million (US$24.9 million) for the first three quarters of 2026, down 39.97% year over year, and an after-tax net loss of NT$1.99 million, or NT$0.05 per share. Powerlogic attributed the loss to slower c</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261116PD236/powerlogic-gaming-supply-chain-loss-pc.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">SemiEng</span></td>
+  <td class="col-title"><span class="article-title">Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Stanford)</span></td>
+  <td class="col-summary">Researchers at Georgia Tech, NVIDIA Research, and Stanford University published “SlipStream: Enabling HBF for GPU Systems by Mitigating the Latency and SRAM Overheads.” Abstract Excerpt “Large language model (LLM) inference demands ever more memory capacity for larger models and batch sizes. High-Bandwidth Flash (HBF) </td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://semiengineering.com/reducing-high-bandwidth-flash-latency-in-gpu-systems-georgia-tech-nvidia-stanford/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Apple targets late 2027 launch for AI glasses with Siri and app support</span></td>
+  <td class="col-summary">Apple plans to launch its first AI glasses by the end of 2027, aiming to extend iPhone services into a wearable device and compete with Meta Platforms and Google. The glasses are expected to debut at Apple's Worldwide Developers Conference in June 2027 and reach consumers before year-end, according to Bloomberg . Chine</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261116PD230/apple-launch-2027-siri-iphone.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">California consumer watchdog chief says AI companies that violate state rules will be taken to court</span></td>
+  <td class="col-summary">California consumer watchdog chief says AI companies that violate state rules will be taken to court</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/california-consumer-watchdog-chief-says-ai-companies-violate-state-rules-will-be-taken-court-6556931" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Singapore assessing impact of new US chip export controls aimed at curbing China’s access</span></td>
+  <td class="col-summary">Under the new US restrictions, a licence will be required to export, re-export, or transfer (in-country) advanced semiconductors to Indonesia, Malaysia, Singapore, Thailand, or Brazil.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/us-export-controls-ai-chips-6556831" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO</span></td>
+  <td class="col-summary">Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/wall-street-ends-sharply-lower-ai-jitters-ahead-nvidia-results-anthropic-ipo-6556786" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">EW</span></td>
+  <td class="col-title"><span class="article-title">Würth introduces PowerBusbar PF for standard PCBs</span></td>
+  <td class="col-summary">Würth Elektronik ICS is introducing the PowerBusbar PF (press-fit). This is a busbar that is press-fit vertically into PCBs to save space and increase current-carrying capacity. It also improves thermal […] The post Würth introduces PowerBusbar PF for standard PCBs appeared first on Electronics Weekly .</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/products/wurth-introduces-powerbusbar-pf-for-standard-pcbs-2026-11/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">94% of Singapore small firms say AI guidance needed: Meta</span></td>
+  <td class="col-summary">Meta said its Singapore upskilling program has trained more than 4,500 entrepreneurs since 2021.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-drops-wording-business-sites-ai-training" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Series SEA: Who’s investing in the region’s AI startups?</span></td>
+  <td class="col-summary">We've compiled a list of investors that are pouring money into Southeast Asia’s AI startups.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/top-sea-investors-ai" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">India’s Aion launches AI platform for power, disaster management</span></td>
+  <td class="col-summary">AION is offering a free 90-day pilot for three of its power products.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ai-reckoning-threatening-indias-software-assembly-line" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">US issues new chip rule as China's AI companies fear Nvidia scandal fallout</span></td>
+  <td class="col-summary">US issues new chip rule as China's AI companies fear Nvidia scandal fallout</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/us-issues-new-chip-rule-as-china-s-ai-companies-fear-nvidia-scandal-fallout" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">13</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Google to give Japan early access to frontier AI for cybersecurity</span></td>
+  <td class="col-summary">Google to give Japan early access to frontier AI for cybersecurity</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/cybersecurity/google-to-give-japan-early-access-to-frontier-ai-for-cybersecurity" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">14</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">A fragile AI boom raises the stakes for APEC</span></td>
+  <td class="col-summary">A fragile AI boom raises the stakes for APEC</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/opinion/a-fragile-ai-boom-raises-the-stakes-for-apec" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Amazon reportedly planning to amass the world's largest product database Amazon is reportedly planning to create a vast catalogue of the world's product data to ensure that consumers keep turning to its online marketplace for purchases. The move comes as AI agents that help users with shopping have entered the scene, causing worries for the e-commerce and AI giant that these agents could dr AI Read 2 DigiTimes Powerlogic posts 9M26 loss as gaming demand slows PC supply chain shipments have entered a downturn, with fan maker Powerlogic reporting consolidated revenue of NT$820 million (US$24.9 million) for the first three quarters of 2026, down 39.97% year over year, and an after-tax net loss of NT$1.99 million, or NT$0.05 per share. Powerlogic attributed the loss to slower c Logistics Read 3 SemiEng Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Stanford) Researchers at Georgia Tech, NVIDIA Research, and Stanford University published “SlipStream: Enabling HBF for GPU Systems by Mitigating the Latency and SRAM Overheads.” Abstract Excerpt “Large language model (LLM) inference demands ever more memory capacity for larger models and batch sizes. High-Bandwidth Flash (HBF) Semiconductor Read 4 DigiTimes Apple targets late 2027 launch for AI glasses with Siri and app support Apple plans to launch its first AI glasses by the end of 2027, aiming to extend iPhone services into a wearable device and compete with Meta Platforms and Google. The glasses are expected to debut at Apple's Worldwide Developers Conference in June 2027 and reach consumers before year-end, according to Bloomberg . Chine ElectronicsAI Read 5 CNA California consumer watchdog chief says AI companies that violate state rules will be taken to court California consumer watchdog chief says AI companies that violate state rules will be taken to court AI Read 6 CNA Singapore assessing impact of new US chip export controls aimed at curbing China’s access Under the new US restrictions, a licence will be required to export, re-export, or transfer (in-country) advanced semiconductors to Indonesia, Malaysia, Singapore, Thailand, or Brazil. Semiconductor Read 7 CNA Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO AI Read 8 EW Würth introduces PowerBusbar PF for standard PCBs Würth Elektronik ICS is introducing the PowerBusbar PF (press-fit). This is a busbar that is press-fit vertically into PCBs to save space and increase current-carrying capacity. It also improves thermal […] The post Würth introduces PowerBusbar PF for standard PCBs appeared first on Electronics Weekly . Electronics Read 9 TechAsia 94% of Singapore small firms say AI guidance needed: Meta Meta said its Singapore upskilling program has trained more than 4,500 entrepreneurs since 2021. AI Read 10 TechAsia Series SEA: Who’s investing in the region’s AI startups? We've compiled a list of investors that are pouring money into Southeast Asia’s AI startups. AI Read 11 TechAsia India’s Aion launches AI platform for power, disaster management AION is offering a free 90-day pilot for three of its power products. AI Read 12 NikkeiAsia US issues new chip rule as China's AI companies fear Nvidia scandal fallout US issues new chip rule as China's AI companies fear Nvidia scandal fallout AISemiconductor Read 13 NikkeiAsia Google to give Japan early access to frontier AI for cybersecurity Google to give Japan early access to frontier AI for cybersecurity AI Read 14 NikkeiAsia A fragile AI boom raises the stakes for APEC A fragile AI boom raises the stakes for APEC AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 16, 2026</title><link href="https://asiatechfeed.com/2026/11/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 16, 2026" /><published>2026-11-16T08:00:52+00:00</published><updated>2026-11-16T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/11/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -675,57 +800,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261106PD220/technology-uk-taiwan-industrial-development.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes China's chip equipment makers ride record AI orders into 2027, but new challenges lie ahead Chinese semiconductor equipment makers report record orders extending into 2027, with AI-driven investment in advanced memory, logic chips and packaging strengthening demand for domestic manufacturing tools. The expansion is benefiting suppliers across etching, thin-film deposition, cleaning and electroplating, althoug SemiconductorAI Read 2 DigiTimes Samsung speeds P5 Fab 2 construction as memory chip shortage looks to last through 2028 Samsung Electronics plans to begin structural work at its P5 Fab 2 facility in Pyeongtaek, South Korea, in January 2027, accelerating its memory capacity expansion as chip shortages are expected to persist through 2028, DealSite reported. ElectronicsSemiconductor Read 3 DigiTimes Taiwan-UK tech ties could support Europe's chip autonomy drive Taiwan and the UK are deepening technology ties as supply-chain restructuring and industrial security reshape semiconductor strategy. A new bilateral arrangement covers semiconductors, space, communications, net zero, and AI standards, while cooperation could link British research strengths with Taiwan's manufacturing SemiconductorAI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 07, 2026</title><link href="https://asiatechfeed.com/2026/11/07/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 07, 2026" /><published>2026-11-07T08:00:53+00:00</published><updated>2026-11-07T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/11/07/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/07/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">AMD AI NIC™ Technology Driving AI-Ready Ethernet</span></td>
-  <td class="col-summary">AI workloads outgrew RoCEv2. AMD’s fully programmable AI NIC lets teams adopt UEC, MRC, and MetaRoCE on existing hardware—no wait for new silicon. From Pollara 400 to Vulcano 800, one software investment carries across generations of AI Ethernet transports. The post AMD AI NIC™ Technology Driving AI-Ready Ethernet appe</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddedblog-amd-ai-nic-technology-driving-ai-ready-ethernet/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Learning to Fail: Failure Fidelity and Training Stability for RL inside World Models</span></td>
-  <td class="col-summary">A world model used as an RL environment gets exploited if it draws failures as successes. On RoboTwin adjust_bottle, failure-data fine-tuning cuts BWM fake success from 82.5% to 26%, and a corrected PPO recipe makes in-WM gains reproducible across all five seeds (+9.7 pp mean). Closed-loop replay exposes why action-for</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/embeddedblog-learning-to-fail-failure-fidelity-and-training-stability-for-rl-inside-world-models/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Democrats constrain Trump as scarce AI capacity benefits CSPs</span></td>
-  <td class="col-summary">Democrats swept the US midterm elections, reshaping the global technology and industrial landscape. Their victories in key gubernatorial races, including in Texas and Georgia, have raised concerns about AI infrastructure expansion after some winning candidates explicitly pledged to pause data-center development.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261106PD243/capacity-industrial-policy-technology-expansion.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan Mobile clears Systex tender offer, securing 61.02% ownership</span></td>
-  <td class="col-summary">Taiwan Mobile said its wholly owned subsidiary, Taiwan Cellular, had satisfied all conditions for its tender offer for Systex Corporation shares, clearing the way for the telecom operator to raise its stake in the information-services provider to 61.02%. The announcement was made on November 6 as the companies moved to</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261106PD245/twm-systex-taiwan-subsidiary-technology.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Wistron ITS reports record third-quarter profit as AI and semiconductor focus accelerates</span></td>
-  <td class="col-summary">Wistron ITS reported record gross profit, operating profit, net income, and earnings per share in the third quarter of 2026, as stronger revenue and improved operating efficiency supported continued expansion in AI and semiconductor services. Consolidated revenue reached NT$3.752 billion (approx. US$114.1 million), up </td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261106PD234/wistron-its-revenue-profit-growth.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 EETAsia AMD AI NIC™ Technology Driving AI-Ready Ethernet AI workloads outgrew RoCEv2. AMD’s fully programmable AI NIC lets teams adopt UEC, MRC, and MetaRoCE on existing hardware—no wait for new silicon. From Pollara 400 to Vulcano 800, one software investment carries across generations of AI Ethernet transports. The post AMD AI NIC™ Technology Driving AI-Ready Ethernet appe AI Read 2 EETAsia Learning to Fail: Failure Fidelity and Training Stability for RL inside World Models A world model used as an RL environment gets exploited if it draws failures as successes. On RoboTwin adjust_bottle, failure-data fine-tuning cuts BWM fake success from 82.5% to 26%, and a corrected PPO recipe makes in-WM gains reproducible across all five seeds (+9.7 pp mean). Closed-loop replay exposes why action-for Automation Read 3 DigiTimes Democrats constrain Trump as scarce AI capacity benefits CSPs Democrats swept the US midterm elections, reshaping the global technology and industrial landscape. Their victories in key gubernatorial races, including in Texas and Georgia, have raised concerns about AI infrastructure expansion after some winning candidates explicitly pledged to pause data-center development. AI Read 4 DigiTimes Taiwan Mobile clears Systex tender offer, securing 61.02% ownership Taiwan Mobile said its wholly owned subsidiary, Taiwan Cellular, had satisfied all conditions for its tender offer for Systex Corporation shares, clearing the way for the telecom operator to raise its stake in the information-services provider to 61.02%. The announcement was made on November 6 as the companies moved to AI Read 5 DigiTimes Wistron ITS reports record third-quarter profit as AI and semiconductor focus accelerates Wistron ITS reported record gross profit, operating profit, net income, and earnings per share in the third quarter of 2026, as stronger revenue and improved operating efficiency supported continued expansion in AI and semiconductor services. Consolidated revenue reached NT$3.752 billion (approx. US$114.1 million), up SemiconductorAI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes China's chip equipment makers ride record AI orders into 2027, but new challenges lie ahead Chinese semiconductor equipment makers report record orders extending into 2027, with AI-driven investment in advanced memory, logic chips and packaging strengthening demand for domestic manufacturing tools. The expansion is benefiting suppliers across etching, thin-film deposition, cleaning and electroplating, althoug SemiconductorAI Read 2 DigiTimes Samsung speeds P5 Fab 2 construction as memory chip shortage looks to last through 2028 Samsung Electronics plans to begin structural work at its P5 Fab 2 facility in Pyeongtaek, South Korea, in January 2027, accelerating its memory capacity expansion as chip shortages are expected to persist through 2028, DealSite reported. ElectronicsSemiconductor Read 3 DigiTimes Taiwan-UK tech ties could support Europe's chip autonomy drive Taiwan and the UK are deepening technology ties as supply-chain restructuring and industrial security reshape semiconductor strategy. A new bilateral arrangement covers semiconductors, space, communications, net zero, and AI standards, while cooperation could link British research strengths with Taiwan's manufacturing SemiconductorAI Read]]></summary></entry></feed>
