@@ -1,185 +1,106 @@
 [
   {
     "date": "2026-11-17",
-    "title": "Anthropic IPO puts AI boom to the test",
-    "summary": "Analysts say Anthropic's IPO could offer one of the clearest tests yet of whether investors remain convinced by AI's rapid growth despite mounting concerns over infrastructure spending, energy use and regulation.",
+    "title": "Trust, innovation key to Singapore's efforts to grow and generate wealth: Alvin Tan",
+    "summary": "AI research and application in sectors like finance, air and sea connectivity and healthcare are key areas where Singapore can generate wealth, says the minister of state.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/anthropic-ipo-stock-listing-risks-wall-street-artificial-intelligence-6558076"
+    "url": "https://www.channelnewsasia.com/singapore/wealth-hub-grow-finance-trust-innovation-6558016"
   },
   {
     "date": "2026-11-17",
-    "title": "India’s Velocity unveils AI tool for D2C shipping",
-    "summary": "Velocity said Vector uses the Model Context Protocol, introduced by Anthropic, to connect shipping workflows with AI apps such as Claude and ChatGPT.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
+    "title": "HBMs beyond Nvidia: Why Samsung has the most to gain from Jensen's exit",
+    "summary": "With Nvidia CEO Jensen Huang stepping down, market observers expect the AI chip landscape to gradually move away from Nvidia's near-monopoly, with HBM demand shifting toward non-Nvidia buyers such as Google and AMD. Analysts suggest that in this so-called \"post-Huang era,\" Samsung Electronics stands to emerge as the bi",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/inside-cloudflares-fix-for-ais-data-problem"
-  },
-  {
-    "date": "2026-11-17",
-    "title": "This startup bypasses ASML to slash chip iteration times",
-    "summary": "With a new photothermal resist, Nabu Optical Systems delivers 180nm chip prototyping at a fraction of the cost of traditional ASML tools.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
+      "Electronics",
+      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/startup-bypasses-asml-slash-chip-iteration-times"
+    "url": "https://www.digitimes.com/news/a20261117PD239/nvidia-samsung-hbm-market-amd.html"
   },
   {
     "date": "2026-11-17",
-    "title": "Snap Insight: New US chip rules put pressure on Southeast Asian companies to choose sides",
-    "summary": "Companies in Singapore and Malaysia have tried to be part of both the US and Chinese tech ecosystems. That balancing act is getting more difficult, say Steven Okun and Noemie Viterale from APAC Advisors.",
+    "title": "Head of China's Baidu warns of AI 'bubble' ahead of APEC talks",
+    "summary": "AI adoption is not boosting profits for most companies, Baidu chief executive Robin Li said during a panel discussion with business leaders on Tuesday (Nov 17).",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/commentary/us-china-chips-singapore-malaysia-licence-nvidia-rules-snap-insight-6558086"
-  },
-  {
-    "date": "2026-11-17",
-    "title": "Ex-Capgemini exec to lead US startup Shorthills AI",
-    "summary": "He previously held senior roles at Capgemini, Hewlett-Packard, Ness Digital Engineering, and Wipro.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+    "url": "https://www.channelnewsasia.com/asia/baidu-china-ai-adoption-apec-summit-6558021"
   },
   {
     "date": "2026-11-17",
-    "title": "IEI Integration targets medical edge AI at MEDICA 2026",
-    "summary": "Industrial PC (IPC) provider IEI Integration and its medical subsidiary BriteMED are showcasing medical edge AI computing and smart healthcare solutions at MEDICA 2026 in Düsseldorf, Germany. Under the theme \"Smart Healthcare,\" the companies are presenting medical information and mobile workstations, medical imaging di",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261117PD236/medical-iei-integration-pc-ipc-2026.html"
-  },
-  {
-    "date": "2026-11-17",
-    "title": "SK Hynix links partner park, Trinity Fab to accelerate supplier commercialization",
-    "summary": "Centered on its Yongin semiconductor cluster, SK Hynix is combining a supplier partner park adjacent to its mass-production fabs, the Trinity Fab verification facility, and R&D and financial backing to help vendors bridge the gap from technology development to commercial deployment. Specialty gas supplier TEMC plans to",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261117PD232/sk-hynix-trinity-supplier-equipment-technology.html"
-  },
-  {
-    "date": "2026-11-17",
-    "title": "Taiwan urged to pursue affordable AI, as Jensen Huang's Nvidia exit adds uncertainty to AI hardware standards",
-    "summary": "Taiwan's Minister of the National Science and Technology Council Cheng-wen Wu pointed out at a recent press conference on November 16 that the technology rivalry between the US and China is highly complex, with many US strategies contradicting one another. He added that while it remains unclear whether Nvidia founder J",
+    "title": "SK Hynix accelerates Yongin Y1 cleanroom opening as AI memory demand surges",
+    "summary": "SK Hynix is accelerating construction of its new semiconductor fabrication facility in Yongin, South Korea, amid rapidly growing demand for artificial intelligence (AI) memory.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
-      "AI",
-      "Logistics"
+      "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261116PD238/taiwan-nvidia-jensen-huang-affordable-edge-ai-hardware.html"
+    "url": "https://www.digitimes.com/news/a20261117PD231/sk-hynix-cleanroom-memory-equipment-demand.html"
   },
   {
     "date": "2026-11-17",
-    "title": "Singapore seeks to ensure 'trusted access' to AI infrastructure under US restrictions: Josephine Teo",
-    "summary": "The new rules require companies in Singapore and four other countries to apply for US export licences covering advanced computing chips.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/singapore/us-ai-infrastructure-chips-restrictions-josephine-teo-6557771"
-  },
-  {
-    "date": "2026-11-17",
-    "title": "AMD and Cornelis Expand HPC Collaboration, Citing GWDG Supercomputer Deployment",
-    "summary": "The expanded program validates AMD EPYC and Instinct platforms with Cornelis networking for scientific computing and AI workloads. The post AMD and Cornelis Expand HPC Collaboration, Citing GWDG Supercomputer Deployment appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "Tencent launches lower-cost Hy4 Flash AI model",
+    "summary": "Tencent also said the model has 12 billion active parameters and decoding speeds above 150 tokens per second.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.eetasia.com/amd-and-cornelis-expand-hpc-collaboration-citing-gwdg-supercomputer-deployment/"
+    "url": "https://www.techinasia.com/tencent-expands-overseas-data-centers-ai-demand-surges"
   },
   {
     "date": "2026-11-17",
-    "title": "Vietnam and South Korea Sign Eight Agreements on AI and Semiconductor Cooperation",
-    "summary": "VKAISS 2026 brought together more than 400 delegates, with agreements covering supply chains, technology development and workforce training. The post Vietnam and South Korea Sign Eight Agreements on AI and Semiconductor Cooperation appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales",
+    "summary": "SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sharply increased the South Korean chipmaker's exposure to Amer",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
-      "Semiconductor",
       "AI",
-      "Logistics"
-    ],
-    "url": "https://www.eetasia.com/vietnam-and-south-korea-sign-eight-agreements-on-ai-and-semiconductor-cooperation/"
-  },
-  {
-    "date": "2026-11-17",
-    "title": "Viettel Develops 28nm Security Chip with Embedded Vietnamese Cryptography",
-    "summary": "Viettel and Vietnam’s Government Cipher Committee developed a RISC-V-based security chip, integrating domestic cryptography to protect sensitive data. The post Viettel Develops 28nm Security Chip with Embedded Vietnamese Cryptography appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/viettel-develops-28nm-security-chip-with-embedded-vietnamese-cryptography/"
+    "url": "https://www.digitimes.com/news/a20261117VL211/sk-hynix-memory-nvidia-revenue-sales-2026.html"
   },
   {
     "date": "2026-11-17",
-    "title": "Self-Supervised Virtual Metrology For CMP MRR Prediction (SUTD, A*STAR, NUS)",
-    "summary": "Researchers at Singapore University of Technology and Design (SUTD), A*STAR, and National University of Singapore (NUS) published “Self-Supervised Attention-Based Virtual Metrology for CMP MRR Prediction.” Excerpt “In this paper, we propose Global Regression Pretraining (GREP), a self-supervised, attention-based framew",
-    "source": "Semiconductor Engineering",
-    "short": "SemiEng",
+    "title": "Baidu AI cloud infrastructure revenue jumps 94% in Q3",
+    "summary": "At Baidu World 2026, the company launched Ciyuansuo, a marketplace for large models.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://semiengineering.com/self-supervised-virtual-metrology-for-cmp-mrr-prediction-sutd-astar-nus/"
+    "url": "https://www.techinasia.com/baidu-chip-arm-kunlunxin-eyes-50b-valuation-hk"
   },
   {
     "date": "2026-11-17",
-    "title": "Indian stocks stage rapid rebound as AI hedge accelerates",
-    "summary": "Indian stocks stage rapid rebound as AI hedge accelerates",
+    "title": "Xpeng Q3 revenue rises 19% as deliveries hit record high",
+    "summary": "WeRide has approval for a paid, fully driverless robotaxi service in Guangzhou's Huangpu District.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.techinasia.com/xpeng-starts-robotaxi-production-with-in-house-ai-chips"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "US AI voice startup ElevenLabs to buy Japanese-focused peer Kotoba",
+    "summary": "US AI voice startup ElevenLabs to buy Japanese-focused peer Kotoba",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/markets/indian-stocks-stage-rapid-rebound-as-ai-hedge-accelerates"
-  },
-  {
-    "date": "2026-11-17",
-    "title": "US chip curbs, Nvidia uncertainty weigh on Asian data center stocks",
-    "summary": "US chip curbs, Nvidia uncertainty weigh on Asian data center stocks",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://asia.nikkei.com/business/markets/us-chip-curbs-nvidia-uncertainty-weigh-on-asian-data-center-stocks"
-  },
-  {
-    "date": "2026-11-17",
-    "title": "US moves to curb China's remote access to AI chips after Nvidia scandal",
-    "summary": "US moves to curb China's remote access to AI chips after Nvidia scandal",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-moves-to-curb-china-s-remote-access-to-ai-chips-after-nvidia-scandal"
+    "url": "https://asia.nikkei.com/business/business-deals/us-ai-voice-startup-elevenlabs-to-buy-japanese-focused-peer-kotoba"
   },
   {
     "date": "2026-11-16",
