@@ -1,40 +1,38 @@
 {
   "date": "2026-11-17",
-  "count": 16,
+  "count": 9,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
     "NikkeiAsia",
-    "SemiEng",
     "TechAsia"
   ],
   "post_file": "2026-11-17-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Anthropic IPO puts AI boom to the test",
+      "title": "Trust, innovation key to Singapore's efforts to grow and generate wealth: Alvin Tan",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/anthropic-ipo-stock-listing-risks-wall-street-artificial-intelligence-6558076"
+      "url": "https://www.channelnewsasia.com/singapore/wealth-hub-grow-finance-trust-innovation-6558016"
     },
     {
-      "title": "India\u2019s Velocity unveils AI tool for D2C shipping",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/inside-cloudflares-fix-for-ais-data-problem"
+      "title": "HBMs beyond Nvidia: Why Samsung has the most to gain from Jensen's exit",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261117PD239/nvidia-samsung-hbm-market-amd.html"
     },
     {
-      "title": "This startup bypasses ASML to slash chip iteration times",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/startup-bypasses-asml-slash-chip-iteration-times"
-    },
-    {
-      "title": "Snap Insight: New US chip rules put pressure on Southeast Asian companies to choose sides",
+      "title": "Head of China's Baidu warns of AI 'bubble' ahead of APEC talks",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/us-china-chips-singapore-malaysia-licence-nvidia-rules-snap-insight-6558086"
+      "url": "https://www.channelnewsasia.com/asia/baidu-china-ai-adoption-apec-summit-6558021"
     },
     {
-      "title": "Ex-Capgemini exec to lead US startup Shorthills AI",
+      "title": "SK Hynix accelerates Yongin Y1 cleanroom opening as AI memory demand surges",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261117PD231/sk-hynix-cleanroom-memory-equipment-demand.html"
+    },
+    {
+      "title": "Tencent launches lower-cost Hy4 Flash AI model",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+      "url": "https://www.techinasia.com/tencent-expands-overseas-data-centers-ai-demand-surges"
     }
   ],
   "source_stats": [
@@ -53,7 +51,7 @@
       "fetched": 20,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -152,13 +150,13 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 55,
+      "fetched": 57,
       "relevant": 41,
       "sponsored_skipped": 0,
       "published": 3,
@@ -170,7 +168,7 @@
       "fetched": 50,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -195,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -215,7 +213,7 @@
       "fetched": 10,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     }
   ]
