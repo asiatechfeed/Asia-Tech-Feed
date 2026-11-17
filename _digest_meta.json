@@ -1,10 +1,10 @@
 {
   "date": "2026-11-17",
-  "count": 14,
+  "count": 16,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EW",
+    "EETAsia",
     "NikkeiAsia",
     "SemiEng",
     "TechAsia"
@@ -12,29 +12,29 @@
   "post_file": "2026-11-17-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Amazon reportedly planning to amass the world's largest product database",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261116VL218/amazon-data-online-meta-e-commerce.html"
-    },
-    {
-      "title": "Powerlogic posts 9M26 loss as gaming demand slows",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261116PD236/powerlogic-gaming-supply-chain-loss-pc.html"
-    },
-    {
-      "title": "Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Stanford)",
-      "source": "SemiEng",
-      "url": "https://semiengineering.com/reducing-high-bandwidth-flash-latency-in-gpu-systems-georgia-tech-nvidia-stanford/"
-    },
-    {
-      "title": "Apple targets late 2027 launch for AI glasses with Siri and app support",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261116PD230/apple-launch-2027-siri-iphone.html"
-    },
-    {
-      "title": "California consumer watchdog chief says AI companies that violate state rules will be taken to court",
+      "title": "Anthropic IPO puts AI boom to the test",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/california-consumer-watchdog-chief-says-ai-companies-violate-state-rules-will-be-taken-court-6556931"
+      "url": "https://www.channelnewsasia.com/business/anthropic-ipo-stock-listing-risks-wall-street-artificial-intelligence-6558076"
+    },
+    {
+      "title": "India\u2019s Velocity unveils AI tool for D2C shipping",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/inside-cloudflares-fix-for-ais-data-problem"
+    },
+    {
+      "title": "This startup bypasses ASML to slash chip iteration times",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/startup-bypasses-asml-slash-chip-iteration-times"
+    },
+    {
+      "title": "Snap Insight: New US chip rules put pressure on Southeast Asian companies to choose sides",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/us-china-chips-singapore-malaysia-licence-nvidia-rules-snap-insight-6558086"
+    },
+    {
+      "title": "Ex-Capgemini exec to lead US startup Shorthills AI",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
     }
   ],
   "source_stats": [
@@ -51,7 +51,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 5,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -132,9 +132,9 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -150,16 +150,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 5,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 27,
+      "fetched": 55,
+      "relevant": 41,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +168,7 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 8,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -195,7 +195,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 15,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -213,7 +213,7 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
