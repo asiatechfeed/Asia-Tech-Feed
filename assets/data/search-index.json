@@ -1,159 +1,185 @@
 [
   {
     "date": "2026-11-17",
-    "title": "Amazon reportedly planning to amass the world's largest product database",
-    "summary": "Amazon is reportedly planning to create a vast catalogue of the world's product data to ensure that consumers keep turning to its online marketplace for purchases. The move comes as AI agents that help users with shopping have entered the scene, causing worries for the e-commerce and AI giant that these agents could dr",
+    "title": "Anthropic IPO puts AI boom to the test",
+    "summary": "Analysts say Anthropic's IPO could offer one of the clearest tests yet of whether investors remain convinced by AI's rapid growth despite mounting concerns over infrastructure spending, energy use and regulation.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/business/anthropic-ipo-stock-listing-risks-wall-street-artificial-intelligence-6558076"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "India’s Velocity unveils AI tool for D2C shipping",
+    "summary": "Velocity said Vector uses the Model Context Protocol, introduced by Anthropic, to connect shipping workflows with AI apps such as Claude and ChatGPT.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/inside-cloudflares-fix-for-ais-data-problem"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "This startup bypasses ASML to slash chip iteration times",
+    "summary": "With a new photothermal resist, Nabu Optical Systems delivers 180nm chip prototyping at a fraction of the cost of traditional ASML tools.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/startup-bypasses-asml-slash-chip-iteration-times"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Snap Insight: New US chip rules put pressure on Southeast Asian companies to choose sides",
+    "summary": "Companies in Singapore and Malaysia have tried to be part of both the US and Chinese tech ecosystems. That balancing act is getting more difficult, say Steven Okun and Noemie Viterale from APAC Advisors.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/us-china-chips-singapore-malaysia-licence-nvidia-rules-snap-insight-6558086"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Ex-Capgemini exec to lead US startup Shorthills AI",
+    "summary": "He previously held senior roles at Capgemini, Hewlett-Packard, Ness Digital Engineering, and Wipro.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "IEI Integration targets medical edge AI at MEDICA 2026",
+    "summary": "Industrial PC (IPC) provider IEI Integration and its medical subsidiary BriteMED are showcasing medical edge AI computing and smart healthcare solutions at MEDICA 2026 in Düsseldorf, Germany. Under the theme \"Smart Healthcare,\" the companies are presenting medical information and mobile workstations, medical imaging di",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261116VL218/amazon-data-online-meta-e-commerce.html"
+    "url": "https://www.digitimes.com/news/a20261117PD236/medical-iei-integration-pc-ipc-2026.html"
   },
   {
     "date": "2026-11-17",
-    "title": "Powerlogic posts 9M26 loss as gaming demand slows",
-    "summary": "PC supply chain shipments have entered a downturn, with fan maker Powerlogic reporting consolidated revenue of NT$820 million (US$24.9 million) for the first three quarters of 2026, down 39.97% year over year, and an after-tax net loss of NT$1.99 million, or NT$0.05 per share. Powerlogic attributed the loss to slower c",
+    "title": "SK Hynix links partner park, Trinity Fab to accelerate supplier commercialization",
+    "summary": "Centered on its Yongin semiconductor cluster, SK Hynix is combining a supplier partner park adjacent to its mass-production fabs, the Trinity Fab verification facility, and R&D and financial backing to help vendors bridge the gap from technology development to commercial deployment. Specialty gas supplier TEMC plans to",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Logistics"
+      "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261116PD236/powerlogic-gaming-supply-chain-loss-pc.html"
+    "url": "https://www.digitimes.com/news/a20261117PD232/sk-hynix-trinity-supplier-equipment-technology.html"
   },
   {
     "date": "2026-11-17",
-    "title": "Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Stanford)",
-    "summary": "Researchers at Georgia Tech, NVIDIA Research, and Stanford University published “SlipStream: Enabling HBF for GPU Systems by Mitigating the Latency and SRAM Overheads.” Abstract Excerpt “Large language model (LLM) inference demands ever more memory capacity for larger models and batch sizes. High-Bandwidth Flash (HBF) ",
+    "title": "Taiwan urged to pursue affordable AI, as Jensen Huang's Nvidia exit adds uncertainty to AI hardware standards",
+    "summary": "Taiwan's Minister of the National Science and Technology Council Cheng-wen Wu pointed out at a recent press conference on November 16 that the technology rivalry between the US and China is highly complex, with many US strategies contradicting one another. He added that while it remains unclear whether Nvidia founder J",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261116PD238/taiwan-nvidia-jensen-huang-affordable-edge-ai-hardware.html"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Singapore seeks to ensure 'trusted access' to AI infrastructure under US restrictions: Josephine Teo",
+    "summary": "The new rules require companies in Singapore and four other countries to apply for US export licences covering advanced computing chips.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/singapore/us-ai-infrastructure-chips-restrictions-josephine-teo-6557771"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "AMD and Cornelis Expand HPC Collaboration, Citing GWDG Supercomputer Deployment",
+    "summary": "The expanded program validates AMD EPYC and Instinct platforms with Cornelis networking for scientific computing and AI workloads. The post AMD and Cornelis Expand HPC Collaboration, Citing GWDG Supercomputer Deployment appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/amd-and-cornelis-expand-hpc-collaboration-citing-gwdg-supercomputer-deployment/"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Vietnam and South Korea Sign Eight Agreements on AI and Semiconductor Cooperation",
+    "summary": "VKAISS 2026 brought together more than 400 delegates, with agreements covering supply chains, technology development and workforce training. The post Vietnam and South Korea Sign Eight Agreements on AI and Semiconductor Cooperation appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor",
+      "AI",
+      "Logistics"
+    ],
+    "url": "https://www.eetasia.com/vietnam-and-south-korea-sign-eight-agreements-on-ai-and-semiconductor-cooperation/"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Viettel Develops 28nm Security Chip with Embedded Vietnamese Cryptography",
+    "summary": "Viettel and Vietnam’s Government Cipher Committee developed a RISC-V-based security chip, integrating domestic cryptography to protect sensitive data. The post Viettel Develops 28nm Security Chip with Embedded Vietnamese Cryptography appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/viettel-develops-28nm-security-chip-with-embedded-vietnamese-cryptography/"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Self-Supervised Virtual Metrology For CMP MRR Prediction (SUTD, A*STAR, NUS)",
+    "summary": "Researchers at Singapore University of Technology and Design (SUTD), A*STAR, and National University of Singapore (NUS) published “Self-Supervised Attention-Based Virtual Metrology for CMP MRR Prediction.” Excerpt “In this paper, we propose Global Regression Pretraining (GREP), a self-supervised, attention-based framew",
     "source": "Semiconductor Engineering",
     "short": "SemiEng",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://semiengineering.com/reducing-high-bandwidth-flash-latency-in-gpu-systems-georgia-tech-nvidia-stanford/"
+    "url": "https://semiengineering.com/self-supervised-virtual-metrology-for-cmp-mrr-prediction-sutd-astar-nus/"
   },
   {
     "date": "2026-11-17",
-    "title": "Apple targets late 2027 launch for AI glasses with Siri and app support",
-    "summary": "Apple plans to launch its first AI glasses by the end of 2027, aiming to extend iPhone services into a wearable device and compete with Meta Platforms and Google. The glasses are expected to debut at Apple's Worldwide Developers Conference in June 2027 and reach consumers before year-end, according to Bloomberg . Chine",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261116PD230/apple-launch-2027-siri-iphone.html"
-  },
-  {
-    "date": "2026-11-17",
-    "title": "California consumer watchdog chief says AI companies that violate state rules will be taken to court",
-    "summary": "California consumer watchdog chief says AI companies that violate state rules will be taken to court",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "Indian stocks stage rapid rebound as AI hedge accelerates",
+    "summary": "Indian stocks stage rapid rebound as AI hedge accelerates",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/california-consumer-watchdog-chief-says-ai-companies-violate-state-rules-will-be-taken-court-6556931"
+    "url": "https://asia.nikkei.com/business/markets/indian-stocks-stage-rapid-rebound-as-ai-hedge-accelerates"
   },
   {
     "date": "2026-11-17",
-    "title": "Singapore assessing impact of new US chip export controls aimed at curbing China’s access",
-    "summary": "Under the new US restrictions, a licence will be required to export, re-export, or transfer (in-country) advanced semiconductors to Indonesia, Malaysia, Singapore, Thailand, or Brazil.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
+    "title": "US chip curbs, Nvidia uncertainty weigh on Asian data center stocks",
+    "summary": "US chip curbs, Nvidia uncertainty weigh on Asian data center stocks",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.channelnewsasia.com/singapore/us-export-controls-ai-chips-6556831"
+    "url": "https://asia.nikkei.com/business/markets/us-chip-curbs-nvidia-uncertainty-weigh-on-asian-data-center-stocks"
   },
   {
     "date": "2026-11-17",
-    "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
-    "summary": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/world/wall-street-ends-sharply-lower-ai-jitters-ahead-nvidia-results-anthropic-ipo-6556786"
-  },
-  {
-    "date": "2026-11-17",
-    "title": "Würth introduces PowerBusbar PF for standard PCBs",
-    "summary": "Würth Elektronik ICS is introducing the PowerBusbar PF (press-fit). This is a busbar that is press-fit vertically into PCBs to save space and increase current-carrying capacity. It also improves thermal […] The post Würth introduces PowerBusbar PF for standard PCBs appeared first on Electronics Weekly .",
-    "source": "Electronics Weekly",
-    "short": "EW",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.electronicsweekly.com/news/products/wurth-introduces-powerbusbar-pf-for-standard-pcbs-2026-11/"
-  },
-  {
-    "date": "2026-11-17",
-    "title": "94% of Singapore small firms say AI guidance needed: Meta",
-    "summary": "Meta said its Singapore upskilling program has trained more than 4,500 entrepreneurs since 2021.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/meta-drops-wording-business-sites-ai-training"
-  },
-  {
-    "date": "2026-11-17",
-    "title": "Series SEA: Who’s investing in the region’s AI startups?",
-    "summary": "We've compiled a list of investors that are pouring money into Southeast Asia’s AI startups.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/top-sea-investors-ai"
-  },
-  {
-    "date": "2026-11-17",
-    "title": "India’s Aion launches AI platform for power, disaster management",
-    "summary": "AION is offering a free 90-day pilot for three of its power products.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/ai-reckoning-threatening-indias-software-assembly-line"
-  },
-  {
-    "date": "2026-11-17",
-    "title": "US issues new chip rule as China's AI companies fear Nvidia scandal fallout",
-    "summary": "US issues new chip rule as China's AI companies fear Nvidia scandal fallout",
+    "title": "US moves to curb China's remote access to AI chips after Nvidia scandal",
+    "summary": "US moves to curb China's remote access to AI chips after Nvidia scandal",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-issues-new-chip-rule-as-china-s-ai-companies-fear-nvidia-scandal-fallout"
-  },
-  {
-    "date": "2026-11-17",
-    "title": "Google to give Japan early access to frontier AI for cybersecurity",
-    "summary": "Google to give Japan early access to frontier AI for cybersecurity",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/spotlight/cybersecurity/google-to-give-japan-early-access-to-frontier-ai-for-cybersecurity"
-  },
-  {
-    "date": "2026-11-17",
-    "title": "A fragile AI boom raises the stakes for APEC",
-    "summary": "A fragile AI boom raises the stakes for APEC",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/opinion/a-fragile-ai-boom-raises-the-stakes-for-apec"
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-moves-to-curb-china-s-remote-access-to-ai-chips-after-nvidia-scandal"
   },
   {
     "date": "2026-11-16",
