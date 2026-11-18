@@ -1,161 +1,94 @@
 [
   {
     "date": "2026-11-18",
-    "title": "Visa expands agentic AI payments, stablecoin services in APAC",
-    "summary": "AlipayHK says users can pay at millions of merchants in mainland China, Japan, and Korea.",
+    "title": "Cohere partners with S Korean startup Upstage on AI platform",
+    "summary": "Upstage previously raised US$120 million, following a US$45 million Series B bridge round.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/visa-straitsx-expand-stablecoin-cards-globally"
+    "url": "https://www.techinasia.com/s-korea-removes-naver-ncsoft-teams-from-sovereign-ai-model-race"
   },
   {
     "date": "2026-11-18",
-    "title": "UOB explores A*STAR’s AI tool for ASEAN markets",
-    "summary": "The tool supports 11 ASEAN languages as well as code-switching, according to A*STAR.",
+    "title": "A new way to track textiles for the circular economy",
+    "summary": "By weaving unique optical identifiers into standard fabrics, Fibarcode ensures garments can be tracked from manufacturing to chemical recycling.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/microsoft-launches-ai-quickstart-programme-smes-singapore"
-  },
-  {
-    "date": "2026-11-18",
-    "title": "SkyeChip and SiPearl hook up to design Arm-based CPU",
-    "summary": "SkyeChip, the Malaysian IC design company, and < SiPearl the French CPU designer, have signed a non-binding MoU to define, develop and commercialise a next-generation compute platform based on Arm Neoverse […] The post SkyeChip and SiPearl hook up to design Arm-based CPU appeared first on Electronics Weekly .",
-    "source": "Electronics Weekly",
-    "short": "EW",
-    "tags": [
-      "Electronics",
       "Semiconductor"
     ],
-    "url": "https://www.electronicsweekly.com/news/business/skyechip-and-sipearl-hook-up-to-design-arm-based-cpu-2026-11/"
+    "url": "https://www.techinasia.com/track-textiles-circular-economy"
   },
   {
     "date": "2026-11-18",
-    "title": "MAS announces AI push to fight scams, test agent payments",
-    "summary": "The missions focus on preventing financial crime, improving businesses’ access to financing, and enabling safe AI agent transactions.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/ripple-taps-singapore-sandbox-test-rlusd-trade-finance"
-  },
-  {
-    "date": "2026-11-18",
-    "title": "Apple reportedly nears long-term DRAM deal with Samsung",
-    "summary": "Apple is nearing a long-term DRAM supply agreement with Samsung Electronics as rising memory prices and tighter chip supplies prompt the iPhone maker to rethink its traditional purchasing practices.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261118VL213/apple-dram-samsung-price-2027.html"
-  },
-  {
-    "date": "2026-11-18",
-    "title": "Nvidia, SPIL sign multibillion-dollar deal to triple advanced packaging capacity by 2029",
-    "summary": "Siliconware Precision Industries (SPIL), a subsidiary of ASE Technology Holding, has announced a multibillion-dollar, multi-year agreement with Nvidia to significantly expand its chip-on-wafer-on-substrate (CoWoS) advanced packaging capacity in Taiwan, aiming to meet growing global demand for AI infrastructure.",
+    "title": "Nvidia adds Kinsus to Asian supply push, keeps Rubin Ultra and Feynman on schedule",
+    "summary": "Nvidia is signing up more Asian substrate and packaging suppliers and committing more cash to them. The move shows that capacity, not demand, is still the main limit on the AI chip leader's growth. Its product roadmap is unchanged despite the leadership upheaval at the top of the company.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261118PD239/nvidia-spil-packaging-capacity.html"
+    "url": "https://www.digitimes.com/news/a20261118VL203/nvidia-rubin-kinsus-capacity-packaging.html"
   },
   {
     "date": "2026-11-18",
-    "title": "India faces test of customer confidence as it challenges Southeast Asia in chip packaging",
-    "summary": "India's expanding semiconductor packaging industry faces a challenge beyond building new factories: convincing global chipmakers to move orders from established Southeast Asian suppliers to manufacturing facilities with limited operating histories.",
+    "title": "Samsung reportedly plans three-track DRAM roadmap for HBM5",
+    "summary": "Samsung Electronics has reportedly decided to pursue three separate technologies for its next-generation DRAM, adopting wafer bonding for HBM5 while retaining a conventional design for mobile memory and continuing development of smaller memory cells for future high-performance products.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
+      "Electronics",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261117VL222/india-packaging-equipment-manufacturing-osat.html"
+    "url": "https://www.digitimes.com/news/a20261118VL214/samsung-dram-roadmap-wafer.html"
   },
   {
     "date": "2026-11-18",
-    "title": "Singapore prepared to facilitate US checks on how advanced chips are deployed: PM Wong",
-    "summary": "Mr Wong says most chips recorded as sales in Singapore do not end up in the country, and that any impact from tighter rules can be managed.",
+    "title": "Profet AI sees AI agents easing Taiwan manufacturers' talent bottleneck",
+    "summary": "Taiwanese manufacturers are accelerating capacity expansion and global production footprints amid the AI boom, but talent shortages and the difficulty of replicating senior technical expertise are emerging as major obstacles. Smart manufacturing specialist Profet AI has launched Twin Accelerator, combining Domain Twin ",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261118PD200/profet-ai-talent-production-manufacturing-capacity-expansion.html?chid=10"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "Microsoft unveils AI models for coding, cybersecurity",
+    "summary": "Microsoft calls MAI a 'hill-climbing' effort, with models linked to GitHub Copilot and Excel.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/microsoft-ai-accurate-doctors-300-cases"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "Malaysia sees AI boom driving 2027 growth after Q3 GDP tops forecasts",
+    "summary": "Malaysia sees AI boom driving 2027 growth after Q3 GDP tops forecasts",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.channelnewsasia.com/singapore/ai-chips-us-lawrence-wong-donald-trump-6560086"
+    "url": "https://www.channelnewsasia.com/asia/malaysia-sees-ai-boom-driving-2027-growth-after-q3-gdp-tops-forecasts-6561456"
   },
   {
     "date": "2026-11-18",
-    "title": "Semiconductor Equipment Market Forecast to Reach $372B by 2033",
-    "summary": "MarketsandMarkets projects 10.6% annual growth, driven by investments in advanced logic, memory, AI chips and packaging. The post Semiconductor Equipment Market Forecast to Reach $372B by 2033 appeared first on EE Times Asia .",
+    "title": "How AI Chip Manufacturing is Changing Seal Selection",
+    "summary": "AI processors, high-bandwidth memory and advanced packaging are placing tighter demands on semiconductor equipment. Selecting reliable seals requires engineers to account for process chemistry, cleaning exposure and mechanical behavior, then verify performance in the installed geometry. The post How AI Chip Manufacturi",
     "source": "EE Times Asia",
     "short": "EETAsia",
     "tags": [
       "Semiconductor",
       "AI"
     ],
-    "url": "https://www.eetasia.com/semiconductor-equipment-market-forecast-to-reach-372b-by-2033/"
-  },
-  {
-    "date": "2026-11-18",
-    "title": "Polar Light, Foxconn Sign Agreement on MicroLED Optical Interconnects",
-    "summary": "Polar Light and Foxconn will evaluate 5-µm green MicroLED emitters for optical connectivity in AI data centers and computing systems. The post Polar Light, Foxconn Sign Agreement on MicroLED Optical Interconnects appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/polar-light-foxconn-sign-agreement-on-microled-optical-interconnects/"
-  },
-  {
-    "date": "2026-11-18",
-    "title": "Intel, Altera Develop FPGA-based Sensor Bridge for Edge AI Systems",
-    "summary": "The reference solutions combine Intel processors and software with programmable FPGA hardware for real-time sensor integration. The post Intel, Altera Develop FPGA-based Sensor Bridge for Edge AI Systems appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/intel-altera-develop-fpga-based-sensor-bridge-for-edge-ai-systems/"
-  },
-  {
-    "date": "2026-11-18",
-    "title": "Global media executives say trust central to journalism in AI age",
-    "summary": "Global media executives say trust central to journalism in AI age",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/media-entertainment/global-media-executives-say-trust-central-to-journalism-in-ai-age2"
-  },
-  {
-    "date": "2026-11-18",
-    "title": "South Korean high-stakes university exam haunted by specter of AI cheating",
-    "summary": "South Korean high-stakes university exam haunted by specter of AI cheating",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/business/education/south-korean-high-stakes-university-exam-haunted-by-specter-of-ai-cheating"
-  },
-  {
-    "date": "2026-11-18",
-    "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
-    "summary": "Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio",
-    "source": "KED Global",
-    "short": "KED",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001"
+    "url": "https://www.eetasia.com/how-ai-chip-manufacturing-is-changing-seal-selection/"
   },
   {
     "date": "2026-11-17",
