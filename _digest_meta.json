@@ -1,38 +1,40 @@
 {
-  "date": "2026-11-17",
-  "count": 9,
+  "date": "2026-11-18",
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
+    "SemiEng",
     "TechAsia"
   ],
-  "post_file": "2026-11-17-asia-tech-news-digest.md",
+  "post_file": "2026-11-18-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Trust, innovation key to Singapore's efforts to grow and generate wealth: Alvin Tan",
+      "title": "FPT Starts Trial Operations at Vietnam Chip Testing and Packaging Plant",
+      "source": "EETAsia",
+      "url": "https://www.eetasia.com/fpt-starts-trial-operations-at-vietnam-chip-testing-and-packaging-plant/"
+    },
+    {
+      "title": "US chip export curbs test Southeast Asia\u2019s AI ambitions, but offer chance to toughen regulatory oversight",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/wealth-hub-grow-finance-trust-innovation-6558016"
+      "url": "https://www.channelnewsasia.com/singapore/us-ai-chip-export-control-southeast-asia-singapore-6558276"
     },
     {
-      "title": "HBMs beyond Nvidia: Why Samsung has the most to gain from Jensen's exit",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261117PD239/nvidia-samsung-hbm-market-amd.html"
-    },
-    {
-      "title": "Head of China's Baidu warns of AI 'bubble' ahead of APEC talks",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/baidu-china-ai-adoption-apec-summit-6558021"
-    },
-    {
-      "title": "SK Hynix accelerates Yongin Y1 cleanroom opening as AI memory demand surges",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261117PD231/sk-hynix-cleanroom-memory-equipment-demand.html"
-    },
-    {
-      "title": "Tencent launches lower-cost Hy4 Flash AI model",
+      "title": "US chip curbs on China put Southeast Asia in a bind",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/tencent-expands-overseas-data-centers-ai-demand-surges"
+      "url": "https://www.techinasia.com/chip-curbs-china-put-southeast-asia-bind"
+    },
+    {
+      "title": "Alphabet-backed Isomorphic Labs raises $5b series C",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/zuckerberg-backed-biohubs-ai-biology-effort-hits-1-8b"
+    },
+    {
+      "title": "30 AI firms top US$10B valuations as DeepSeek, Moonshot crack top 10",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261117PD244/market-deepseek-revenue-openai-anthropic.html"
     }
   ],
   "source_stats": [
@@ -49,9 +51,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 5,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
@@ -150,14 +152,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 57,
-      "relevant": 41,
+      "fetched": 35,
+      "relevant": 27,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +168,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 8,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -193,7 +195,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -211,9 +213,9 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 2,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     }
   ]
