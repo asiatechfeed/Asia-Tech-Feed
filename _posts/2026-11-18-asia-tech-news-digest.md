@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Asia Tech News Digest - November 18, 2026"
-date: 2026-11-18 08:02:50 +0800
-articles_count: 12
-sources_count: 6
-sources: ["CNA", "DigiTimes", "EETAsia", "NikkeiAsia", "SemiEng", "TechAsia"]
+date: 2026-11-18 14:59:34 +0800
+articles_count: 14
+sources_count: 7
+sources: ["CNA", "DigiTimes", "EETAsia", "EW", "KED", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-11-18.tsv
-featured_title: "FPT Starts Trial Operations at Vietnam Chip Testing and Packaging Plant"
-featured_url: "https://www.eetasia.com/fpt-starts-trial-operations-at-vietnam-chip-testing-and-packaging-plant/"
-featured_source: "EETAsia"
-featured_summary: "FPT's Bac Ninh facility has six production lines and a designed annual capacity of 300 million chips, targeting domestic and international customers. The post FPT Starts Trial Operations at Vietnam Chip Testing and Packaging Plant appeared first on EE Times Asia ."
+featured_title: "Visa expands agentic AI payments, stablecoin services in APAC"
+featured_url: "https://www.techinasia.com/visa-straitsx-expand-stablecoin-cards-globally"
+featured_source: "TechAsia"
+featured_summary: "AlipayHK says users can pay at millions of merchants in mainland China, Japan, and Korea."
 featured_image: ""
 ---
 
@@ -27,99 +27,115 @@ featured_image: ""
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">FPT Starts Trial Operations at Vietnam Chip Testing and Packaging Plant</span></td>
-  <td class="col-summary">FPT's Bac Ninh facility has six production lines and a designed annual capacity of 300 million chips, targeting domestic and international customers. The post FPT Starts Trial Operations at Vietnam Chip Testing and Packaging Plant appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/fpt-starts-trial-operations-at-vietnam-chip-testing-and-packaging-plant/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Visa expands agentic AI payments, stablecoin services in APAC</span></td>
+  <td class="col-summary">AlipayHK says users can pay at millions of merchants in mainland China, Japan, and Korea.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visa-straitsx-expand-stablecoin-cards-globally" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">US chip export curbs test Southeast Asia’s AI ambitions, but offer chance to toughen regulatory oversight</span></td>
-  <td class="col-summary">The new restrictions on advanced chips could bring reputational risks and dampen the region’s AI ambitions, experts say.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/us-ai-chip-export-control-southeast-asia-singapore-6558276" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">UOB explores A*STAR’s AI tool for ASEAN markets</span></td>
+  <td class="col-summary">The tool supports 11 ASEAN languages as well as code-switching, according to A*STAR.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/microsoft-launches-ai-quickstart-programme-smes-singapore" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">US chip curbs on China put Southeast Asia in a bind</span></td>
-  <td class="col-summary">China helped fuel Southeast Asia’s data center boom. A new US chip rule could slow its buildout and test demand for the GPUs already there.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chip-curbs-china-put-southeast-asia-bind" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EW</span></td>
+  <td class="col-title"><span class="article-title">SkyeChip and SiPearl hook up to design Arm-based CPU</span></td>
+  <td class="col-summary">SkyeChip, the Malaysian IC design company, and < SiPearl the French CPU designer, have signed a non-binding MoU to define, develop and commercialise a next-generation compute platform based on Arm Neoverse […] The post SkyeChip and SiPearl hook up to design Arm-based CPU appeared first on Electronics Weekly .</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/skyechip-and-sipearl-hook-up-to-design-arm-based-cpu-2026-11/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Alphabet-backed Isomorphic Labs raises $5b series C</span></td>
-  <td class="col-summary">The funding will support its AI models, biology research, and clinical development infrastructure as it advances drug candidates toward human trials.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag bio">Pharmaceutical</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/zuckerberg-backed-biohubs-ai-biology-effort-hits-1-8b" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">MAS announces AI push to fight scams, test agent payments</span></td>
+  <td class="col-summary">The missions focus on preventing financial crime, improving businesses’ access to financing, and enabling safe AI agent transactions.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ripple-taps-singapore-sandbox-test-rlusd-trade-finance" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">30 AI firms top US$10B valuations as DeepSeek, Moonshot crack top 10</span></td>
-  <td class="col-summary">Capital market valuations across the artificial intelligence sector have climbed to new highs. According to a global ranking compiled by Deedy Das, a partner at veteran Silicon Valley venture capital firm Menlo Ventures, OpenAI leads the pack at a valuation of US$1.25 trillion, followed by Anthropic at US$965 billion. </td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261117PD244/market-deepseek-revenue-openai-anthropic.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Apple reportedly nears long-term DRAM deal with Samsung</span></td>
+  <td class="col-summary">Apple is nearing a long-term DRAM supply agreement with Samsung Electronics as rising memory prices and tighter chip supplies prompt the iPhone maker to rethink its traditional purchasing practices.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261118VL213/apple-dram-samsung-price-2027.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Silicon Motion accelerates AI infrastructure with Nvidia DPU and Aspeed BMC</span></td>
-  <td class="col-summary">At Supercomputing 2026 in Chicago, Silicon Motion Technology showcased next-generation PCIe Gen5 and Gen6 enterprise storage solutions targeting the massive data-processing demands of AI factories and agentic AI. The company also unveiled an enterprise boot drive paired with Nvidia Corporation's BlueField-3 DPU and an </td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261117PD240/silicon-motion-2026-bmc-infrastructure-aspeed.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Nvidia, SPIL sign multibillion-dollar deal to triple advanced packaging capacity by 2029</span></td>
+  <td class="col-summary">Siliconware Precision Industries (SPIL), a subsidiary of ASE Technology Holding, has announced a multibillion-dollar, multi-year agreement with Nvidia to significantly expand its chip-on-wafer-on-substrate (CoWoS) advanced packaging capacity in Taiwan, aiming to meet growing global demand for AI infrastructure.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261118PD239/nvidia-spil-packaging-capacity.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Chinese AI firms tap US models as chip restrictions tighten</span></td>
-  <td class="col-summary">The documents show Chinese developers turning answers, code, and problem-solving steps generated by American models into training data for smaller local models.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-revenue-climbs-10b-costs-remain-high" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">India faces test of customer confidence as it challenges Southeast Asia in chip packaging</span></td>
+  <td class="col-summary">India's expanding semiconductor packaging industry faces a challenge beyond building new factories: convincing global chipmakers to move orders from established Southeast Asian suppliers to manufacturing facilities with limited operating histories.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261117VL222/india-packaging-equipment-manufacturing-osat.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Star Fusion Group integrates semiconductor, energy, and AI businesses</span></td>
-  <td class="col-summary">Star Fusion Group held an investor conference on November 16, outlining a strategy centered on deepening its semiconductor business, expanding energy operations, strengthening AI capabilities, and refining digital content. The group said semiconductor-related revenue now accounts for more than 60% of total revenue as i</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261117PD202/business-revenue-softstar-entertainment-taiwan-mask.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Singapore prepared to facilitate US checks on how advanced chips are deployed: PM Wong</span></td>
+  <td class="col-summary">Mr Wong says most chips recorded as sales in Singapore do not end up in the country, and that any impact from tighter rules can be managed.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/ai-chips-us-lawrence-wong-donald-trump-6560086" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">SemiEng</span></td>
-  <td class="col-title"><span class="article-title">Chip Industry Technical Paper Roundup: Nov. 17</span></td>
-  <td class="col-summary">HBM4 controller partitioning; single-crystal high-κ dielectrics for low-power 2D CFETs; HW-based location checks for AI chip smuggling; embedded ECC for AI weight protection; optimized e-beam evaporation for metal-semiconductor contacts; sub-volt HZO ferroelectric capacitors; randomized-cache HW security. The post Chip</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Semiconductor Equipment Market Forecast to Reach $372B by 2033</span></td>
+  <td class="col-summary">MarketsandMarkets projects 10.6% annual growth, driven by investments in advanced logic, memory, AI chips and packaging. The post Semiconductor Equipment Market Forecast to Reach $372B by 2033 appeared first on EE Times Asia .</td>
   <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://semiengineering.com/chip-industry-technical-paper-roundup-nov-17/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/semiconductor-equipment-market-forecast-to-reach-372b-by-2033/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Samsung chip testing supplier Micronics Japan poised to ramp up capacity</span></td>
-  <td class="col-summary">Samsung chip testing supplier Micronics Japan poised to ramp up capacity</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/samsung-chip-testing-supplier-micronics-japan-poised-to-ramp-up-capacity" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Polar Light, Foxconn Sign Agreement on MicroLED Optical Interconnects</span></td>
+  <td class="col-summary">Polar Light and Foxconn will evaluate 5-µm green MicroLED emitters for optical connectivity in AI data centers and computing systems. The post Polar Light, Foxconn Sign Agreement on MicroLED Optical Interconnects appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/polar-light-foxconn-sign-agreement-on-microled-optical-interconnects/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Anthropic's IPO fireworks may light fuse for Asia's AI startups</span></td>
-  <td class="col-summary">Anthropic's IPO fireworks may light fuse for Asia's AI startups</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Intel, Altera Develop FPGA-based Sensor Bridge for Edge AI Systems</span></td>
+  <td class="col-summary">The reference solutions combine Intel processors and software with programmable FPGA hardware for real-time sensor integration. The post Intel, Altera Develop FPGA-based Sensor Bridge for Edge AI Systems appeared first on EE Times Asia .</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/tech-asia/anthropic-s-ipo-fireworks-may-light-fuse-for-asia-s-ai-startups" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/intel-altera-develop-fpga-based-sensor-bridge-for-edge-ai-systems/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">12</td>
   <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Singapore, Malaysia grapple with US chip curbs targeting Southeast Asia</span></td>
-  <td class="col-summary">Singapore, Malaysia grapple with US chip curbs targeting Southeast Asia</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/singapore-malaysia-grapple-with-us-chip-curbs-targeting-southeast-asia" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Global media executives say trust central to journalism in AI age</span></td>
+  <td class="col-summary">Global media executives say trust central to journalism in AI age</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/media-entertainment/global-media-executives-say-trust-central-to-journalism-in-ai-age2" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">13</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">South Korean high-stakes university exam haunted by specter of AI cheating</span></td>
+  <td class="col-summary">South Korean high-stakes university exam haunted by specter of AI cheating</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/education/south-korean-high-stakes-university-exam-haunted-by-specter-of-ai-cheating" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">14</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">Go master Shin cracks AI barrier with win over KataGo, sets up series decider</span></td>
+  <td class="col-summary">Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>
