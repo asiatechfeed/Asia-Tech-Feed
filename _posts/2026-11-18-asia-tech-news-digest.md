@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Asia Tech News Digest - November 18, 2026"
-date: 2026-11-18 14:59:34 +0800
-articles_count: 14
-sources_count: 7
-sources: ["CNA", "DigiTimes", "EETAsia", "EW", "KED", "NikkeiAsia", "TechAsia"]
+date: 2026-11-18 16:00:54 +0800
+articles_count: 8
+sources_count: 4
+sources: ["CNA", "DigiTimes", "EETAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-11-18.tsv
-featured_title: "Visa expands agentic AI payments, stablecoin services in APAC"
-featured_url: "https://www.techinasia.com/visa-straitsx-expand-stablecoin-cards-globally"
+featured_title: "Cohere partners with S Korean startup Upstage on AI platform"
+featured_url: "https://www.techinasia.com/s-korea-removes-naver-ncsoft-teams-from-sovereign-ai-model-race"
 featured_source: "TechAsia"
-featured_summary: "AlipayHK says users can pay at millions of merchants in mainland China, Japan, and Korea."
+featured_summary: "Upstage previously raised US$120 million, following a US$45 million Series B bridge round."
 featured_image: ""
 ---
 
@@ -28,114 +28,66 @@ featured_image: ""
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Visa expands agentic AI payments, stablecoin services in APAC</span></td>
-  <td class="col-summary">AlipayHK says users can pay at millions of merchants in mainland China, Japan, and Korea.</td>
+  <td class="col-title"><span class="article-title">Cohere partners with S Korean startup Upstage on AI platform</span></td>
+  <td class="col-summary">Upstage previously raised US$120 million, following a US$45 million Series B bridge round.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visa-straitsx-expand-stablecoin-cards-globally" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/s-korea-removes-naver-ncsoft-teams-from-sovereign-ai-model-race" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">UOB explores A*STAR’s AI tool for ASEAN markets</span></td>
-  <td class="col-summary">The tool supports 11 ASEAN languages as well as code-switching, according to A*STAR.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/microsoft-launches-ai-quickstart-programme-smes-singapore" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">A new way to track textiles for the circular economy</span></td>
+  <td class="col-summary">By weaving unique optical identifiers into standard fabrics, Fibarcode ensures garments can be tracked from manufacturing to chemical recycling.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/track-textiles-circular-economy" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">SkyeChip and SiPearl hook up to design Arm-based CPU</span></td>
-  <td class="col-summary">SkyeChip, the Malaysian IC design company, and < SiPearl the French CPU designer, have signed a non-binding MoU to define, develop and commercialise a next-generation compute platform based on Arm Neoverse […] The post SkyeChip and SiPearl hook up to design Arm-based CPU appeared first on Electronics Weekly .</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/skyechip-and-sipearl-hook-up-to-design-arm-based-cpu-2026-11/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Nvidia adds Kinsus to Asian supply push, keeps Rubin Ultra and Feynman on schedule</span></td>
+  <td class="col-summary">Nvidia is signing up more Asian substrate and packaging suppliers and committing more cash to them. The move shows that capacity, not demand, is still the main limit on the AI chip leader's growth. Its product roadmap is unchanged despite the leadership upheaval at the top of the company.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261118VL203/nvidia-rubin-kinsus-capacity-packaging.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">MAS announces AI push to fight scams, test agent payments</span></td>
-  <td class="col-summary">The missions focus on preventing financial crime, improving businesses’ access to financing, and enabling safe AI agent transactions.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/ripple-taps-singapore-sandbox-test-rlusd-trade-finance" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Samsung reportedly plans three-track DRAM roadmap for HBM5</span></td>
+  <td class="col-summary">Samsung Electronics has reportedly decided to pursue three separate technologies for its next-generation DRAM, adopting wafer bonding for HBM5 while retaining a conventional design for mobile memory and continuing development of smaller memory cells for future high-performance products.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261118VL214/samsung-dram-roadmap-wafer.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Apple reportedly nears long-term DRAM deal with Samsung</span></td>
-  <td class="col-summary">Apple is nearing a long-term DRAM supply agreement with Samsung Electronics as rising memory prices and tighter chip supplies prompt the iPhone maker to rethink its traditional purchasing practices.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261118VL213/apple-dram-samsung-price-2027.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Profet AI sees AI agents easing Taiwan manufacturers' talent bottleneck</span></td>
+  <td class="col-summary">Taiwanese manufacturers are accelerating capacity expansion and global production footprints amid the AI boom, but talent shortages and the difficulty of replicating senior technical expertise are emerging as major obstacles. Smart manufacturing specialist Profet AI has launched Twin Accelerator, combining Domain Twin </td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261118PD200/profet-ai-talent-production-manufacturing-capacity-expansion.html?chid=10" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Nvidia, SPIL sign multibillion-dollar deal to triple advanced packaging capacity by 2029</span></td>
-  <td class="col-summary">Siliconware Precision Industries (SPIL), a subsidiary of ASE Technology Holding, has announced a multibillion-dollar, multi-year agreement with Nvidia to significantly expand its chip-on-wafer-on-substrate (CoWoS) advanced packaging capacity in Taiwan, aiming to meet growing global demand for AI infrastructure.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261118PD239/nvidia-spil-packaging-capacity.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Microsoft unveils AI models for coding, cybersecurity</span></td>
+  <td class="col-summary">Microsoft calls MAI a 'hill-climbing' effort, with models linked to GitHub Copilot and Excel.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/microsoft-ai-accurate-doctors-300-cases" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">India faces test of customer confidence as it challenges Southeast Asia in chip packaging</span></td>
-  <td class="col-summary">India's expanding semiconductor packaging industry faces a challenge beyond building new factories: convincing global chipmakers to move orders from established Southeast Asian suppliers to manufacturing facilities with limited operating histories.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261117VL222/india-packaging-equipment-manufacturing-osat.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Malaysia sees AI boom driving 2027 growth after Q3 GDP tops forecasts</span></td>
+  <td class="col-summary">Malaysia sees AI boom driving 2027 growth after Q3 GDP tops forecasts</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/malaysia-sees-ai-boom-driving-2027-growth-after-q3-gdp-tops-forecasts-6561456" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Singapore prepared to facilitate US checks on how advanced chips are deployed: PM Wong</span></td>
-  <td class="col-summary">Mr Wong says most chips recorded as sales in Singapore do not end up in the country, and that any impact from tighter rules can be managed.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/ai-chips-us-lawrence-wong-donald-trump-6560086" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
   <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Semiconductor Equipment Market Forecast to Reach $372B by 2033</span></td>
-  <td class="col-summary">MarketsandMarkets projects 10.6% annual growth, driven by investments in advanced logic, memory, AI chips and packaging. The post Semiconductor Equipment Market Forecast to Reach $372B by 2033 appeared first on EE Times Asia .</td>
+  <td class="col-title"><span class="article-title">How AI Chip Manufacturing is Changing Seal Selection</span></td>
+  <td class="col-summary">AI processors, high-bandwidth memory and advanced packaging are placing tighter demands on semiconductor equipment. Selecting reliable seals requires engineers to account for process chemistry, cleaning exposure and mechanical behavior, then verify performance in the installed geometry. The post How AI Chip Manufacturi</td>
   <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/semiconductor-equipment-market-forecast-to-reach-372b-by-2033/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Polar Light, Foxconn Sign Agreement on MicroLED Optical Interconnects</span></td>
-  <td class="col-summary">Polar Light and Foxconn will evaluate 5-µm green MicroLED emitters for optical connectivity in AI data centers and computing systems. The post Polar Light, Foxconn Sign Agreement on MicroLED Optical Interconnects appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/polar-light-foxconn-sign-agreement-on-microled-optical-interconnects/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Intel, Altera Develop FPGA-based Sensor Bridge for Edge AI Systems</span></td>
-  <td class="col-summary">The reference solutions combine Intel processors and software with programmable FPGA hardware for real-time sensor integration. The post Intel, Altera Develop FPGA-based Sensor Bridge for Edge AI Systems appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/intel-altera-develop-fpga-based-sensor-bridge-for-edge-ai-systems/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Global media executives say trust central to journalism in AI age</span></td>
-  <td class="col-summary">Global media executives say trust central to journalism in AI age</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/media-entertainment/global-media-executives-say-trust-central-to-journalism-in-ai-age2" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">13</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">South Korean high-stakes university exam haunted by specter of AI cheating</span></td>
-  <td class="col-summary">South Korean high-stakes university exam haunted by specter of AI cheating</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/education/south-korean-high-stakes-university-exam-haunted-by-specter-of-ai-cheating" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">14</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">Go master Shin cracks AI barrier with win over KataGo, sets up series decider</span></td>
-  <td class="col-summary">Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/how-ai-chip-manufacturing-is-changing-seal-selection/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>

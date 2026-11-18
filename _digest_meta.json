@@ -1,41 +1,38 @@
 {
   "date": "2026-11-18",
-  "count": 14,
+  "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "EW",
-    "KED",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-18-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Visa expands agentic AI payments, stablecoin services in APAC",
+      "title": "Cohere partners with S Korean startup Upstage on AI platform",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/visa-straitsx-expand-stablecoin-cards-globally"
+      "url": "https://www.techinasia.com/s-korea-removes-naver-ncsoft-teams-from-sovereign-ai-model-race"
     },
     {
-      "title": "UOB explores A*STAR\u2019s AI tool for ASEAN markets",
+      "title": "A new way to track textiles for the circular economy",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/microsoft-launches-ai-quickstart-programme-smes-singapore"
+      "url": "https://www.techinasia.com/track-textiles-circular-economy"
     },
     {
-      "title": "SkyeChip and SiPearl hook up to design Arm-based CPU",
-      "source": "EW",
-      "url": "https://www.electronicsweekly.com/news/business/skyechip-and-sipearl-hook-up-to-design-arm-based-cpu-2026-11/"
-    },
-    {
-      "title": "MAS announces AI push to fight scams, test agent payments",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/ripple-taps-singapore-sandbox-test-rlusd-trade-finance"
-    },
-    {
-      "title": "Apple reportedly nears long-term DRAM deal with Samsung",
+      "title": "Nvidia adds Kinsus to Asian supply push, keeps Rubin Ultra and Feynman on schedule",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261118VL213/apple-dram-samsung-price-2027.html"
+      "url": "https://www.digitimes.com/news/a20261118VL203/nvidia-rubin-kinsus-capacity-packaging.html"
+    },
+    {
+      "title": "Samsung reportedly plans three-track DRAM roadmap for HBM5",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261118VL214/samsung-dram-roadmap-wafer.html"
+    },
+    {
+      "title": "Profet AI sees AI agents easing Taiwan manufacturers' talent bottleneck",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261118PD200/profet-ai-talent-production-manufacturing-capacity-expansion.html?chid=10"
     }
   ],
   "source_stats": [
@@ -135,7 +132,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -153,14 +150,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 54,
-      "relevant": 39,
+      "fetched": 58,
+      "relevant": 42,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -171,7 +168,7 @@
       "fetched": 50,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -180,7 +177,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -196,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 21,
+      "relevant": 19,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
