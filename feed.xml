@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-18T08:01:40+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 18, 2026</title><link href="https://asiatechfeed.com/2026/11/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 18, 2026" /><published>2026-11-18T08:00:54+00:00</published><updated>2026-11-18T08:00:54+00:00</updated><id>https://asiatechfeed.com/2026/11/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-19T00:03:25+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 19, 2026</title><link href="https://asiatechfeed.com/2026/11/19/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 19, 2026" /><published>2026-11-19T00:02:44+00:00</published><updated>2026-11-19T00:02:44+00:00</updated><id>https://asiatechfeed.com/2026/11/19/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/19/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Tencent's revenue rises 8% as AI spending weighs on operating profit</span></td>
+  <td class="col-summary">Tencent's third-quarter results showed the cost of turning its artificial-intelligence push into products and infrastructure: demand remained broad across advertising, cloud and domestic games, but reported operating profit contracted as the company scaled AI development and compute procurement. The quarter points to a</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261119VL201/tencent-revenue-operating-profit-cost-demand.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">SK Hynix seeks HBM4 packaging equipment for early 2027 delivery</span></td>
+  <td class="col-summary">SK Hynix is seeking deliveries of additional HBM4 packaging and testing equipment by early 2027 as the South Korean memory chipmaker prepares to expand production capacity to meet growing demand for AI memory.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261118VL216/sk-hynix-hbm4-packaging-equipment-2027.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Qisda's Arivor unveils 200kW-per-rack two-phase direct liquid cooling solution</span></td>
+  <td class="col-summary">Arivor Technologies, a subsidiary of Aewin Technologies under Qisda Group, is showcasing its rack-level two-phase direct liquid cooling (2P DLC) solution at SuperComputing 2026 (SC26). Tailored for high-performance computing (HPC) and AI data centers, the system supports a total rack cooling capacity of up to 200kW.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261118PD257/qisda-liquid-cooling-subsidiary-aewin-cooling.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance</span></td>
+  <td class="col-summary">Technology news outlet The Information earlier reported that Microsoft could allow Chinese firm ByteDance to use OpenAI models through its Azure cloud platform.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/us-microsoft-bytedance-openai-access-6563751" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">US chip rules favor American data centers in Singapore</span></td>
+  <td class="col-summary">Two firms in the same Singapore building could face different chip rules, depending on where they’re headquartered, as new US export curbs take hold.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/chip-rules-favor-american-data-centers-singapore" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Indian AI firm Neysa adds AMD chips to its cloud platform</span></td>
+  <td class="col-summary">Founded in 2023 and backed by Blackstone, Neysa previously raised US$20 million in seed funding for enterprise generative AI.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/major-tech-firms-pledge-billions-for-indian-ai-initiatives" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Microsoft, Salesforce deepen AI partnership with Copilotforce</span></td>
+  <td class="col-summary">Salesforce in Copilot is in public preview with more than 38 prebuilt sales skills.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/salesforce-anthropic-expand-claudeforce-partnership" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">'All Chinese players' will rely on domestic chips eventually: Tencent</span></td>
+  <td class="col-summary">'All Chinese players' will rely on domestic chips eventually: Tencent</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/china-tech/all-chinese-players-will-rely-on-domestic-chips-eventually-tencent" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Tencent's revenue rises 8% as AI spending weighs on operating profit Tencent's third-quarter results showed the cost of turning its artificial-intelligence push into products and infrastructure: demand remained broad across advertising, cloud and domestic games, but reported operating profit contracted as the company scaled AI development and compute procurement. The quarter points to a AI Read 2 DigiTimes SK Hynix seeks HBM4 packaging equipment for early 2027 delivery SK Hynix is seeking deliveries of additional HBM4 packaging and testing equipment by early 2027 as the South Korean memory chipmaker prepares to expand production capacity to meet growing demand for AI memory. AISemiconductor Read 3 DigiTimes Qisda's Arivor unveils 200kW-per-rack two-phase direct liquid cooling solution Arivor Technologies, a subsidiary of Aewin Technologies under Qisda Group, is showcasing its rack-level two-phase direct liquid cooling (2P DLC) solution at SuperComputing 2026 (SC26). Tailored for high-performance computing (HPC) and AI data centers, the system supports a total rack cooling capacity of up to 200kW. AI Read 4 CNA US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance Technology news outlet The Information earlier reported that Microsoft could allow Chinese firm ByteDance to use OpenAI models through its Azure cloud platform. AI Read 5 TechAsia US chip rules favor American data centers in Singapore Two firms in the same Singapore building could face different chip rules, depending on where they’re headquartered, as new US export curbs take hold. Semiconductor Read 6 TechAsia Indian AI firm Neysa adds AMD chips to its cloud platform Founded in 2023 and backed by Blackstone, Neysa previously raised US$20 million in seed funding for enterprise generative AI. AISemiconductor Read 7 TechAsia Microsoft, Salesforce deepen AI partnership with Copilotforce Salesforce in Copilot is in public preview with more than 38 prebuilt sales skills. AI Read 8 NikkeiAsia 'All Chinese players' will rely on domestic chips eventually: Tencent 'All Chinese players' will rely on domestic chips eventually: Tencent Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 18, 2026</title><link href="https://asiatechfeed.com/2026/11/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 18, 2026" /><published>2026-11-18T08:00:54+00:00</published><updated>2026-11-18T08:00:54+00:00</updated><id>https://asiatechfeed.com/2026/11/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -739,65 +816,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/softbank/softbank-swings-to-first-half-loss-as-ai-ambitions-face-fresh-setbacks" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Ericsson CEO bets on AI and in-house RAN chips as 6G, satellite competition loom Ericsson CEO Per Narvinger is betting on AI to drive the next wave of telecom equipment demand, as the Swedish vendor develops dedicated radio access network (RAN) chips, strengthens its indoor 5G business and targets opportunities in the 6G era. AISemiconductor Read 2 CNA Chipmaker Infineon forecasts strong 2027 growth on data-centre demand Chipmaker Infineon forecasts strong 2027 growth on data-centre demand Semiconductor Read 3 CNA Europe can compete in robotics and physical AI, top chipmaker CEOs say Europe can compete in robotics and physical AI, top chipmaker CEOs say SemiconductorAutomation Read 4 DigiTimes Yageo posts record October sales as China holiday weighs on Walsin's revenue Taiwanese passive component makers Yageo and Walsin Technology reported contrasting October results, with Yageo posting record monthly revenue on strong AI demand while Walsin's sales declined from September due to China's National Day holidays. Both companies recorded year-over-year revenue growth of more than 50%. AI Read 5 TechAsia This startup helps enterprises adopt AI safely Backed by local groups Dart and Aleph, Scouter helps Singapore's enterprises implement the right AI security tools ahead of new regulations. AI Read 6 DigiTimes Nvidia showcases factory AI at Seoul event; Jensen Huang's daughter absent Nvidia showcased its work with South Korean manufacturers on robot simulation, precision sanding and factory digital twins as its AI Day Seoul event opened on November 9, despite the absence of senior director Madison Huang, who canceled her planned visit to South Korea. AIAutomation Read 7 EETAsia NSING Technologies Ships 250 Million Bluetooth Chips Using Ceva IP NSING Technologies has shipped 250 million Bluetooth chips incorporating Ceva Bluetooth LE IP across consumer, automotive and industrial markets. The post NSING Technologies Ships 250 Million Bluetooth Chips Using Ceva IP appeared first on EE Times Asia . Semiconductor Read 8 TechAsia Sun Life to roll out Google Gemini AI to advisors in Asia The company said Gemini would be available within Workspace, alongside Gmail, Google Calendar, Google Drive, and Google Meet. AI Read 9 EETAsia AI Chip Advances Put Semiconductor Materials and Packaging in Focus Rising AI chip performance demands are driving advances in materials engineering, manufacturing equipment and advanced semiconductor packaging technologies. The post AI Chip Advances Put Semiconductor Materials and Packaging in Focus appeared first on EE Times Asia . SemiconductorAI Read 10 TechAsia Google unveils 2 new AI chips to rival Nvidia Google's TPU 8tx pairs with an AMD CPU for confidential computing in regulated industries. AISemiconductor Read 11 NikkeiAsia Grab, SoftBank to invest $1.85bn in Malaysia AI infrastructure Grab, SoftBank to invest $1.85bn in Malaysia AI infrastructure AI Read 12 NikkeiAsia Vietnam's FPT sees rising demand for AI adoption in Japan Vietnam's FPT sees rising demand for AI adoption in Japan AI Read 13 NikkeiAsia SoftBank swings to first-half loss as AI ambitions face fresh setbacks SoftBank swings to first-half loss as AI ambitions face fresh setbacks AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 09, 2026</title><link href="https://asiatechfeed.com/2026/11/09/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 09, 2026" /><published>2026-11-09T08:00:52+00:00</published><updated>2026-11-09T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/11/09/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/09/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Paras Semiconductors teams with US-based BroadPak on advanced packaging plant in India</span></td>
-  <td class="col-summary">Paras Semiconductors, a subsidiary of Indian defense company Paras Defence &amp; Space Technologies, announced a strategic technology partnership with US-based BroadPak Corporation on November 6 to build advanced semiconductor packaging capabilities in India, anchored by a planned INR62 billion (US$658.77 million) OSAT fac</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261109VL209/packaging-plant-subsidiary-technology-incentives.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung, SK Hynix, Micron forge rare alliance to pave way for unmanned chip fabs</span></td>
-  <td class="col-summary">Samsung Electronics, SK Hynix and Micron are reportedly collaborating on charging standards for mobile robots used in semiconductor fabs, seeking to accelerate factory automation and lay the groundwork for unmanned manufacturing. The initiative is unusual as it brought together major industry rivals to standardise robo</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261109PD252/sk-hynix-samsung-micron-ic-manufacturing-robot.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung's Texas fab may begin trial runs in December</span></td>
-  <td class="col-summary">Samsung Electronics may begin trial runs across its Taylor, Texas, foundry in mid-to-late December 2026 as it installs and tests manufacturing equipment ahead of planned commercial production in 2027.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261109VL223/samsung-texas-fab-production-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">EW</span></td>
-  <td class="col-title"><span class="article-title">Jensen Huang apologises: Nvidia board investigates</span></td>
-  <td class="col-summary">After Jensen Huang (pictured) admitted an affair with Alice Huang, a senior exec at Singapore datacentre company Megaspeed, who U.S. intelligence officials believe is a Chinese spy, the board of […] The post Jensen Huang apologises: Nvidia board investigates appeared first on Electronics Weekly .</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/jensen-huang-2026-11/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">US AI firm Trinovation expands Philippine data operations</span></td>
-  <td class="col-summary">The New York-based firm's AI data workforce grew more than 50x in 2026 to 690 people.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">A better, smarter way to scale AI</span></td>
-  <td class="col-summary">Melissa Goh breaks down Cohere’s decision to decouple AI models from the cost of infrastructure and if this offers a more sustainable way of scaling.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/smarter-scale-ai" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Paras Semiconductors teams with US-based BroadPak on advanced packaging plant in India Paras Semiconductors, a subsidiary of Indian defense company Paras Defence &amp; Space Technologies, announced a strategic technology partnership with US-based BroadPak Corporation on November 6 to build advanced semiconductor packaging capabilities in India, anchored by a planned INR62 billion (US$658.77 million) OSAT fac Semiconductor Read 2 DigiTimes Samsung, SK Hynix, Micron forge rare alliance to pave way for unmanned chip fabs Samsung Electronics, SK Hynix and Micron are reportedly collaborating on charging standards for mobile robots used in semiconductor fabs, seeking to accelerate factory automation and lay the groundwork for unmanned manufacturing. The initiative is unusual as it brought together major industry rivals to standardise robo SemiconductorElectronicsAutomation Read 3 DigiTimes Samsung's Texas fab may begin trial runs in December Samsung Electronics may begin trial runs across its Taylor, Texas, foundry in mid-to-late December 2026 as it installs and tests manufacturing equipment ahead of planned commercial production in 2027. ElectronicsSemiconductor Read 4 EW Jensen Huang apologises: Nvidia board investigates After Jensen Huang (pictured) admitted an affair with Alice Huang, a senior exec at Singapore datacentre company Megaspeed, who U.S. intelligence officials believe is a Chinese spy, the board of […] The post Jensen Huang apologises: Nvidia board investigates appeared first on Electronics Weekly . Electronics Read 5 TechAsia US AI firm Trinovation expands Philippine data operations The New York-based firm's AI data workforce grew more than 50x in 2026 to 690 people. AI Read 6 TechAsia A better, smarter way to scale AI Melissa Goh breaks down Cohere’s decision to decouple AI models from the cost of infrastructure and if this offers a more sustainable way of scaling. AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Ericsson CEO bets on AI and in-house RAN chips as 6G, satellite competition loom Ericsson CEO Per Narvinger is betting on AI to drive the next wave of telecom equipment demand, as the Swedish vendor develops dedicated radio access network (RAN) chips, strengthens its indoor 5G business and targets opportunities in the 6G era. AISemiconductor Read 2 CNA Chipmaker Infineon forecasts strong 2027 growth on data-centre demand Chipmaker Infineon forecasts strong 2027 growth on data-centre demand Semiconductor Read 3 CNA Europe can compete in robotics and physical AI, top chipmaker CEOs say Europe can compete in robotics and physical AI, top chipmaker CEOs say SemiconductorAutomation Read 4 DigiTimes Yageo posts record October sales as China holiday weighs on Walsin's revenue Taiwanese passive component makers Yageo and Walsin Technology reported contrasting October results, with Yageo posting record monthly revenue on strong AI demand while Walsin's sales declined from September due to China's National Day holidays. Both companies recorded year-over-year revenue growth of more than 50%. AI Read 5 TechAsia This startup helps enterprises adopt AI safely Backed by local groups Dart and Aleph, Scouter helps Singapore's enterprises implement the right AI security tools ahead of new regulations. AI Read 6 DigiTimes Nvidia showcases factory AI at Seoul event; Jensen Huang's daughter absent Nvidia showcased its work with South Korean manufacturers on robot simulation, precision sanding and factory digital twins as its AI Day Seoul event opened on November 9, despite the absence of senior director Madison Huang, who canceled her planned visit to South Korea. AIAutomation Read 7 EETAsia NSING Technologies Ships 250 Million Bluetooth Chips Using Ceva IP NSING Technologies has shipped 250 million Bluetooth chips incorporating Ceva Bluetooth LE IP across consumer, automotive and industrial markets. The post NSING Technologies Ships 250 Million Bluetooth Chips Using Ceva IP appeared first on EE Times Asia . Semiconductor Read 8 TechAsia Sun Life to roll out Google Gemini AI to advisors in Asia The company said Gemini would be available within Workspace, alongside Gmail, Google Calendar, Google Drive, and Google Meet. AI Read 9 EETAsia AI Chip Advances Put Semiconductor Materials and Packaging in Focus Rising AI chip performance demands are driving advances in materials engineering, manufacturing equipment and advanced semiconductor packaging technologies. The post AI Chip Advances Put Semiconductor Materials and Packaging in Focus appeared first on EE Times Asia . SemiconductorAI Read 10 TechAsia Google unveils 2 new AI chips to rival Nvidia Google's TPU 8tx pairs with an AMD CPU for confidential computing in regulated industries. AISemiconductor Read 11 NikkeiAsia Grab, SoftBank to invest $1.85bn in Malaysia AI infrastructure Grab, SoftBank to invest $1.85bn in Malaysia AI infrastructure AI Read 12 NikkeiAsia Vietnam's FPT sees rising demand for AI adoption in Japan Vietnam's FPT sees rising demand for AI adoption in Japan AI Read 13 NikkeiAsia SoftBank swings to first-half loss as AI ambitions face fresh setbacks SoftBank swings to first-half loss as AI ambitions face fresh setbacks AI Read]]></summary></entry></feed>
