@@ -1,5 +1,95 @@
 [
   {
+    "date": "2026-11-19",
+    "title": "Tencent's revenue rises 8% as AI spending weighs on operating profit",
+    "summary": "Tencent's third-quarter results showed the cost of turning its artificial-intelligence push into products and infrastructure: demand remained broad across advertising, cloud and domestic games, but reported operating profit contracted as the company scaled AI development and compute procurement. The quarter points to a",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261119VL201/tencent-revenue-operating-profit-cost-demand.html"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "SK Hynix seeks HBM4 packaging equipment for early 2027 delivery",
+    "summary": "SK Hynix is seeking deliveries of additional HBM4 packaging and testing equipment by early 2027 as the South Korean memory chipmaker prepares to expand production capacity to meet growing demand for AI memory.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261118VL216/sk-hynix-hbm4-packaging-equipment-2027.html"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Qisda's Arivor unveils 200kW-per-rack two-phase direct liquid cooling solution",
+    "summary": "Arivor Technologies, a subsidiary of Aewin Technologies under Qisda Group, is showcasing its rack-level two-phase direct liquid cooling (2P DLC) solution at SuperComputing 2026 (SC26). Tailored for high-performance computing (HPC) and AI data centers, the system supports a total rack cooling capacity of up to 200kW.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261118PD257/qisda-liquid-cooling-subsidiary-aewin-cooling.html"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance",
+    "summary": "Technology news outlet The Information earlier reported that Microsoft could allow Chinese firm ByteDance to use OpenAI models through its Azure cloud platform.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/world/us-microsoft-bytedance-openai-access-6563751"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "US chip rules favor American data centers in Singapore",
+    "summary": "Two firms in the same Singapore building could face different chip rules, depending on where they’re headquartered, as new US export curbs take hold.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/chip-rules-favor-american-data-centers-singapore"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Indian AI firm Neysa adds AMD chips to its cloud platform",
+    "summary": "Founded in 2023 and backed by Blackstone, Neysa previously raised US$20 million in seed funding for enterprise generative AI.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/major-tech-firms-pledge-billions-for-indian-ai-initiatives"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Microsoft, Salesforce deepen AI partnership with Copilotforce",
+    "summary": "Salesforce in Copilot is in public preview with more than 38 prebuilt sales skills.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/salesforce-anthropic-expand-claudeforce-partnership"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "'All Chinese players' will rely on domestic chips eventually: Tencent",
+    "summary": "'All Chinese players' will rely on domestic chips eventually: Tencent",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/china-tech/all-chinese-players-will-rely-on-domestic-chips-eventually-tencent"
+  },
+  {
     "date": "2026-11-18",
     "title": "Cohere partners with S Korean startup Upstage on AI platform",
     "summary": "Upstage previously raised US$120 million, following a US$45 million Series B bridge round.",

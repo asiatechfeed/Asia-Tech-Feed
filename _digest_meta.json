@@ -1,38 +1,38 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-11-18-asia-tech-news-digest.md",
+  "post_file": "2026-11-19-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Cohere partners with S Korean startup Upstage on AI platform",
+      "title": "Tencent's revenue rises 8% as AI spending weighs on operating profit",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261119VL201/tencent-revenue-operating-profit-cost-demand.html"
+    },
+    {
+      "title": "SK Hynix seeks HBM4 packaging equipment for early 2027 delivery",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261118VL216/sk-hynix-hbm4-packaging-equipment-2027.html"
+    },
+    {
+      "title": "Qisda's Arivor unveils 200kW-per-rack two-phase direct liquid cooling solution",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261118PD257/qisda-liquid-cooling-subsidiary-aewin-cooling.html"
+    },
+    {
+      "title": "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/us-microsoft-bytedance-openai-access-6563751"
+    },
+    {
+      "title": "US chip rules favor American data centers in Singapore",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/s-korea-removes-naver-ncsoft-teams-from-sovereign-ai-model-race"
-    },
-    {
-      "title": "A new way to track textiles for the circular economy",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/track-textiles-circular-economy"
-    },
-    {
-      "title": "Nvidia adds Kinsus to Asian supply push, keeps Rubin Ultra and Feynman on schedule",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261118VL203/nvidia-rubin-kinsus-capacity-packaging.html"
-    },
-    {
-      "title": "Samsung reportedly plans three-track DRAM roadmap for HBM5",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261118VL214/samsung-dram-roadmap-wafer.html"
-    },
-    {
-      "title": "Profet AI sees AI agents easing Taiwan manufacturers' talent bottleneck",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261118PD200/profet-ai-talent-production-manufacturing-capacity-expansion.html?chid=10"
+      "url": "https://www.techinasia.com/chip-rules-favor-american-data-centers-singapore"
     }
   ],
   "source_stats": [
@@ -130,7 +130,7 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -150,14 +150,14 @@
       "fetched": 10,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 58,
-      "relevant": 42,
+      "fetched": 35,
+      "relevant": 25,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 9,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -193,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 19,
+      "relevant": 17,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
