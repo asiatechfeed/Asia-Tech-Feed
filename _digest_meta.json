@@ -1,7 +1,8 @@
 {
   "date": "2026-11-19",
-  "count": 11,
+  "count": 12,
   "sources": [
+    "CNA",
     "DigiTimes",
     "EETAsia",
     "NikkeiAsia",
@@ -10,29 +11,29 @@
   "post_file": "2026-11-19-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Xi outlines four APEC cooperation pillars as trilateral talks with Trump, Putin draw focus",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261119PD220/apec-shenzhen-data-industrial-digital-economy.html"
-    },
-    {
-      "title": "Analysis: CXMT sees edge AI driving memory growth as enterprise and device markets emerge as twin engines",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261119PD211/cxmt-ddr5-earnings-demand-growth.html"
-    },
-    {
-      "title": "White House reportedly mulls public disclosure rules for US firms using Chinese AI",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261119VL219/government-beijing.html"
-    },
-    {
-      "title": "From Intelligence to Action: 2026 AI Forum Explores New Business Opportunities in AI Deployment",
-      "source": "EETAsia",
-      "url": "https://www.eetasia.com/from-intelligence-to-action-2026-ai-forum-explores-new-business-opportunities-in-ai-deployment/"
-    },
-    {
-      "title": "Alibaba Cloud deepens Malaysia push with 6th data center",
+      "title": "NETS to join Ant International\u2019s AI agent payment protocol",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/alibaba-cloud-survey-malaysian-firms-plan-bigger-ai-spending"
+      "url": "https://www.techinasia.com/sg-travel-startup-nets-15m-expand-flexible-travel-payments"
+    },
+    {
+      "title": "South Korea becomes fourth country globally to hit US$1 trillion exports on AI chip boom",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/south-korea-fourth-country-1-trillion-exports-ai-chip-boom-6565061"
+    },
+    {
+      "title": "SG AI firm Vulcan secures deal to expand across Asia",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/singapores-imda-announces-agentic-ai-testing-kit-safety-push"
+    },
+    {
+      "title": "Everlight ramps up AI optical communications push, targets double-digit growth in 2027 on robust coupler orders",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261119PD218/communications-everlight-2027-growth-packaging.html"
+    },
+    {
+      "title": "Qualipoly accelerates shift to electronic chemicals, targeting over 50% revenue contribution",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261118PD250/ai-server-ccl-microled-materials-revenue-demand-production.html"
     }
   ],
   "source_stats": [
@@ -49,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -193,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 19,
+      "relevant": 18,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
