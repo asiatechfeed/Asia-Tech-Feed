@@ -1,93 +1,126 @@
 [
   {
     "date": "2026-11-19",
-    "title": "Tencent's revenue rises 8% as AI spending weighs on operating profit",
-    "summary": "Tencent's third-quarter results showed the cost of turning its artificial-intelligence push into products and infrastructure: demand remained broad across advertising, cloud and domestic games, but reported operating profit contracted as the company scaled AI development and compute procurement. The quarter points to a",
+    "title": "Xi outlines four APEC cooperation pillars as trilateral talks with Trump, Putin draw focus",
+    "summary": "The 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting opened in Shenzhen, China, on November 19, with Chinese President Xi Jinping proposing four pillars—trade, connectivity, innovation, and development—to deepen regional cooperation. Xi highlighted the digital economy, artificial intelligence, cr",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261119VL201/tencent-revenue-operating-profit-cost-demand.html"
+    "url": "https://www.digitimes.com/news/a20261119PD220/apec-shenzhen-data-industrial-digital-economy.html"
   },
   {
     "date": "2026-11-19",
-    "title": "SK Hynix seeks HBM4 packaging equipment for early 2027 delivery",
-    "summary": "SK Hynix is seeking deliveries of additional HBM4 packaging and testing equipment by early 2027 as the South Korean memory chipmaker prepares to expand production capacity to meet growing demand for AI memory.",
+    "title": "Analysis: CXMT sees edge AI driving memory growth as enterprise and device markets emerge as twin engines",
+    "summary": "ChangXin Memory Technologies (CXMT) held an earnings briefing on November 17, during which company director and president Cao Kanyu outlined the outlook for enterprise, edge-device, consumer, and automotive memory markets.",
     "source": "DigiTimes",
     "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261119PD211/cxmt-ddr5-earnings-demand-growth.html"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "White House reportedly mulls public disclosure rules for US firms using Chinese AI",
+    "summary": "The White House is reportedly mulling new rules that would require US companies to publicly disclose their use of Chinese AI models, a move that would seek to discourage them from using the tools while avoiding hard restrictions. The measures are being considered at a time of heightened scrutiny of China's AI ecosystem",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261119VL219/government-beijing.html"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "From Intelligence to Action: 2026 AI Forum Explores New Business Opportunities in AI Deployment",
+    "summary": "Connecting startup investment, smart manufacturing, and agentic AI—and empowering a new generation of talent to drive global co-creation. The post From Intelligence to Action: 2026 AI Forum Explores New Business Opportunities in AI Deployment appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/from-intelligence-to-action-2026-ai-forum-explores-new-business-opportunities-in-ai-deployment/"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Alibaba Cloud deepens Malaysia push with 6th data center",
+    "summary": "Alibaba Cloud also said it unveiled its Qwen4-Max AI model at the event.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/alibaba-cloud-survey-malaysian-firms-plan-bigger-ai-spending"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Staera Semiconductor Raises $4.6M for Integrated Optical Interconnect Technology",
+    "summary": "Staera is developing wafer-fabricated optical links to reduce power consumption and data-transfer bottlenecks in AI systems. The post Staera Semiconductor Raises $4.6M for Integrated Optical Interconnect Technology appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/staera-semiconductor-raises-4-6m-for-integrated-optical-interconnect-technology/"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Expedera, Cadence Demonstrate Combined NPU and AI Co-Processor Subsystem",
+    "summary": "Pre-silicon simulation combines Expedera's Origin Evolution NPU with Cadence NeuroEdge 130 for edge AI workload execution. The post Expedera, Cadence Demonstrate Combined NPU and AI Co-Processor Subsystem appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.eetasia.com/expedera-cadence-demonstrate-combined-npu-and-ai-co-processor-subsystem/"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "US database firm Couchbase opens India HQ, AI hub",
+    "summary": "Couchbase said it already has more than 200 employees in India.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/us-database-firm-couchbase-adds-amazon-bedrock-integration"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Alibaba’s AI push tested as US moves to close chip loophole",
+    "summary": "Nvidia previously developed modified chips, including the H20 for China, to comply with US export restrictions as sales to China.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261118VL216/sk-hynix-hbm4-packaging-equipment-2027.html"
+    "url": "https://www.techinasia.com/alibaba-ai-cloud-revenue-50"
   },
   {
     "date": "2026-11-19",
-    "title": "Qisda's Arivor unveils 200kW-per-rack two-phase direct liquid cooling solution",
-    "summary": "Arivor Technologies, a subsidiary of Aewin Technologies under Qisda Group, is showcasing its rack-level two-phase direct liquid cooling (2P DLC) solution at SuperComputing 2026 (SC26). Tailored for high-performance computing (HPC) and AI data centers, the system supports a total rack cooling capacity of up to 200kW.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261118PD257/qisda-liquid-cooling-subsidiary-aewin-cooling.html"
-  },
-  {
-    "date": "2026-11-19",
-    "title": "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance",
-    "summary": "Technology news outlet The Information earlier reported that Microsoft could allow Chinese firm ByteDance to use OpenAI models through its Azure cloud platform.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.channelnewsasia.com/world/us-microsoft-bytedance-openai-access-6563751"
-  },
-  {
-    "date": "2026-11-19",
-    "title": "US chip rules favor American data centers in Singapore",
-    "summary": "Two firms in the same Singapore building could face different chip rules, depending on where they’re headquartered, as new US export curbs take hold.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/chip-rules-favor-american-data-centers-singapore"
-  },
-  {
-    "date": "2026-11-19",
-    "title": "Indian AI firm Neysa adds AMD chips to its cloud platform",
-    "summary": "Founded in 2023 and backed by Blackstone, Neysa previously raised US$20 million in seed funding for enterprise generative AI.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.techinasia.com/major-tech-firms-pledge-billions-for-indian-ai-initiatives"
-  },
-  {
-    "date": "2026-11-19",
-    "title": "Microsoft, Salesforce deepen AI partnership with Copilotforce",
-    "summary": "Salesforce in Copilot is in public preview with more than 38 prebuilt sales skills.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/salesforce-anthropic-expand-claudeforce-partnership"
-  },
-  {
-    "date": "2026-11-19",
-    "title": "'All Chinese players' will rely on domestic chips eventually: Tencent",
-    "summary": "'All Chinese players' will rely on domestic chips eventually: Tencent",
+    "title": "BlackRock CEO warns tighter US AI regulations risk recession",
+    "summary": "BlackRock CEO warns tighter US AI regulations risk recession",
     "source": "Nikkei Asia",
     "short": "NikkeiAsia",
     "tags": [
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://asia.nikkei.com/business/china-tech/all-chinese-players-will-rely-on-domestic-chips-eventually-tencent"
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/blackrock-ceo-warns-tighter-us-ai-regulations-risk-recession"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "US visa denials hit Xpeng, other Chinese robot makers ahead of CES",
+    "summary": "US visa denials hit Xpeng, other Chinese robot makers ahead of CES",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/us-visa-denials-hit-xpeng-other-chinese-robot-makers-ahead-of-ces"
   },
   {
     "date": "2026-11-18",
