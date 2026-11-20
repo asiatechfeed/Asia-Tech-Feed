@@ -1,39 +1,40 @@
 {
   "date": "2026-11-20",
-  "count": 13,
+  "count": 12,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
+    "EW",
+    "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-20-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Trump administration weighs forcing US firms to disclose Chinese AI use",
+      "title": "Google\u2019s opportunity to rejig TPU supply chain",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/news/business/google-rejigging-tpu-supply-chain-2026-11/"
+    },
+    {
+      "title": "PMICs to be $68bn market in 2031",
+      "source": "EW",
+      "url": "https://www.electronicsweekly.com/news/business/pmics-to-be-68bn-market-in-2031-2026-11/"
+    },
+    {
+      "title": "Global PCB shortage deepens as AI demand strains supplies, with relief unlikely before mid-2028",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261120PD235/pcb-demand-electronics-manufacturing.html"
+    },
+    {
+      "title": "Warm embrace, fragile truce: Trump-Xi goodwill faces fresh tests after APEC summit",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/us-weighs-forcing-us-firms-disclose-chinese-ai-use-6562396"
+      "url": "https://www.channelnewsasia.com/east-asia/trump-xi-us-china-goodwill-ties-apec-analysis-6561621"
     },
     {
-      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/us-signed-sales-ai-chips-china-6567216"
-    },
-    {
-      "title": "Anthropic closes 17% higher in Nasdaq debut",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/anthropic-ipo-faces-scrutiny-nvidia-ceo-ouster-reports"
-    },
-    {
-      "title": "Four men guilty of sex crimes against woman drugged by husband in UK case with echoes of Pelicot",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/four-men-guilty-sex-crimes-against-woman-drugged-husband-in-uk-case-echoes-pelicot-6567281"
-    },
-    {
-      "title": "LG Uplus to invest $592m in AI data center expansion",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/lg-uplus-to-unveil-ai-data-center-strategy-at-mwc-2026"
+      "title": "DeepSeek's US$16 billion funding meets computing crunch",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261120VL207/deepseek-computing-power-financing-funding.html"
     }
   ],
   "source_stats": [
@@ -50,9 +51,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 3,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -131,9 +132,9 @@
       "source": "EW",
       "name": "Electronics Weekly",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 2,
       "sponsored_skipped": 1,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -151,14 +152,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 71,
-      "relevant": 54,
+      "fetched": 53,
+      "relevant": 45,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +170,7 @@
       "fetched": 50,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -178,7 +179,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -194,7 +195,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 10,
+      "relevant": 14,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
