@@ -1,141 +1,85 @@
 [
   {
     "date": "2026-11-20",
-    "title": "Google’s opportunity to rejig TPU supply chain",
-    "summary": "Google is rejigging the supply chain for its TPUs as Jensen Huang’s exit impacts a capacity-constrained AI chip rmarket. SemiAnalysis founder Dylan Patel told CNBC that Google is already going […] The post Google’s opportunity to rejig TPU supply chain appeared first on Electronics Weekly .",
-    "source": "Electronics Weekly",
-    "short": "EW",
-    "tags": [
-      "Electronics",
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.electronicsweekly.com/news/business/google-rejigging-tpu-supply-chain-2026-11/"
-  },
-  {
-    "date": "2026-11-20",
-    "title": "PMICs to be $68bn market in 2031",
-    "summary": "AI, electrification and robotics will grow the PMIC market at 10% CAGR 2025-32 to $68 billion by 2031, says Yole, while other PMIC applications face a BCD capacity squeeze. The […] The post PMICs to be $68bn market in 2031 appeared first on Electronics Weekly .",
-    "source": "Electronics Weekly",
-    "short": "EW",
-    "tags": [
-      "Electronics",
-      "Automation"
-    ],
-    "url": "https://www.electronicsweekly.com/news/business/pmics-to-be-68bn-market-in-2031-2026-11/"
-  },
-  {
-    "date": "2026-11-20",
-    "title": "Global PCB shortage deepens as AI demand strains supplies, with relief unlikely before mid-2028",
-    "summary": "A global shortage of printed circuit boards (PCBs), essential to nearly all consumer electronics, is causing or threatening delivery delays of weeks to months across the automotive, medical, defence and aerospace industries, according to a new warning from the Global Electronics Association.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Electronics",
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261120PD235/pcb-demand-electronics-manufacturing.html"
-  },
-  {
-    "date": "2026-11-20",
-    "title": "Warm embrace, fragile truce: Trump-Xi goodwill faces fresh tests after APEC summit",
-    "summary": "Fresh US curbs on AI chips, an unfinished tariff deal and shifting political dynamics in Washington threaten to test the limit of the fragile US-China detente, analysts say.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/east-asia/trump-xi-us-china-goodwill-ties-apec-analysis-6561621"
-  },
-  {
-    "date": "2026-11-20",
-    "title": "DeepSeek's US$16 billion funding meets computing crunch",
-    "summary": "Chinese AI startup DeepSeek has reportedly secured CNY105.5 billion (approx. US$15.8 billion) in a second funding round backed by Tencent, CATL and major telecom operators. The financing coincides with tighter usage limits caused by computing shortages, testing the company's ability to turn widespread AI adoption into ",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261120VL207/deepseek-computing-power-financing-funding.html"
-  },
-  {
-    "date": "2026-11-20",
-    "title": "SK Hynix reportedly plans to buy HBM bonding tools from Besi",
-    "summary": "SK Hynix plans to buy its initial batch of hybrid bonding equipment for next-generation high-bandwidth memory (HBM) from Dutch chip equipment maker BE Semiconductor Industries (Besi), potentially giving the company an edge over South Korean rivals competing for orders in advanced memory packaging.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261120VL212/sk-hynix-hbm-equipment-dutch-production.html"
-  },
-  {
-    "date": "2026-11-20",
-    "title": "Asian stocks plunge as Anthropic fails to dispel AI fears",
-    "summary": "Anthropic's record IPO failed to settle nerves on trading floors as they deal with the fallout from the crisis engulfing AI titan Nvidia.",
+    "title": "GIC, one of Anthropic’s largest investors, to stay invested beyond IPO",
+    "summary": "AI company Anthropic's record-breaking initial public offering saw its shares close 17 per cent higher, giving it a fully diluted valuation of just below US$1.8 trillion.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/business/asian-stocks-nikkei-kospi-fall-anthropic-ipo-6568101"
+    "url": "https://www.channelnewsasia.com/singapore/gic-anthropic-investor-partnership-ipo-6568671"
   },
   {
     "date": "2026-11-20",
-    "title": "Tencent Cloud, Malayan United Industries explore AI tie-up",
-    "summary": "MUI Group is listed on Bursa Malaysia and operates in property development, hospitality, retail, and food and beverage.",
+    "title": "US approved 879,000 Nvidia, AMD AI chips for China",
+    "summary": "The committee said 272,000 approved chips were allocated to Alibaba, Tencent, Baidu, and BYD.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/nvidia-fallout-raises-scrutiny-southeast-asias-ai-sector"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "AI sensors are replacing needles in cardiovascular care",
+    "summary": "Acorai's handheld device uses AI and advanced sensors to measure heart pressure in under five minutes, eliminating the need for invasive procedures.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/tencent-cloud-mobile-team-5g-ai-malaysia"
+    "url": "https://www.techinasia.com/ai-sensors-replacing-needles-cardiovascular-care"
   },
   {
     "date": "2026-11-20",
-    "title": "Mistral opens Asia Pacific HQ in Singapore, eyes 200 staff",
-    "summary": "Mistral said this will support customers seeking greater control over their AI infrastructure and models.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/mistral-ai-targets-major-singapore-hiring-push-through-2026"
-  },
-  {
-    "date": "2026-11-20",
-    "title": "US stocks fall as Anthropic IPO rally loses momentum",
-    "summary": "Anthropic’s market value briefly topped US$2 trillion during a closely watched test of investor appetite for AI stocks.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/anthropic-ipo-raise-90b-topping-spacexs-deal"
-  },
-  {
-    "date": "2026-11-20",
-    "title": "Chip supply chain warns of broader disruption from new US export controls",
-    "summary": "Chip supply chain warns of broader disruption from new US export controls",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "Rayzher, Messer form JV for semiconductor specialty gases",
+    "summary": "Rayzher Industrial and German industrial gas supplier Messer signed a joint venture and strategic alliance agreement on November 19 to establish Messer Rayzher Electronic Materials Co. The new business will combine Messer's electronic-grade gas products, manufacturing technology and global supply chain with Rayzher's e",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "Semiconductor",
       "Logistics"
     ],
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/chip-supply-chain-warns-of-broader-disruption-from-new-us-export-controls"
+    "url": "https://www.digitimes.com/news/a20261120PD207/rayzher-joint-venture-industrial-supplier-manufacturing.html"
   },
   {
     "date": "2026-11-20",
-    "title": "AI payoffs, green transition shape France-Korea Tech Summit 2026",
-    "summary": "Artificial intelligence and industrial sustainability dominated talks among South Korean and French business and policy leaders in Seoul last week, wi",
-    "source": "KED Global",
-    "short": "KED",
+    "title": "AAEON targets semiconductors, robotics and defense beyond consumer AI inflation",
+    "summary": "Industrial PC maker AAEON Technology reported third-quarter 2026 revenue of NT$2.873 billion (US$87.46 million), up 24.6% year on year, as AI edge computing and embedded products drove core operations, and investment valuation gains boosted non-operating income. Net income attributable to owners of the parent for the f",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.digitimes.com/news/a20261118PD234/revenue-pc-investment-eps-growth.html"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Suregiant targets high-double-digit growth as release film enters advanced packaging",
+    "summary": "AI chips are driving foundries and OSAT providers to expand capacity for advanced packaging technologies such as CoWoS, creating a new wave of localization opportunities for critical materials suppliers. Suregiant Technology's release films have entered mass production for 2.5D, 3D and fan-out panel-level packaging (FO",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261119PD201/packaging-chips-growth-supply-chain-capacity.html"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "When free isn’t free: the new economics of AI usage",
+    "summary": "Every AI interaction carries a cost, changing how businesses price usage and protect margins.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202610190009"
+    "url": "https://www.techinasia.com/free-isnt-free-economics-ai-usage"
   },
   {
     "date": "2026-11-19",
