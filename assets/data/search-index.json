@@ -1,5 +1,157 @@
 [
   {
+    "date": "2026-11-20",
+    "title": "Trump administration weighs forcing US firms to disclose Chinese AI use",
+    "summary": "Trump administration weighs forcing US firms to disclose Chinese AI use",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/world/us-weighs-forcing-us-firms-disclose-chinese-ai-use-6562396"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says",
+    "summary": "The US approved shipments of AI chips made by Nvidia and AMD to companies on the Pentagon's list of alleged Chinese military-backed companies.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/world/us-signed-sales-ai-chips-china-6567216"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Anthropic closes 17% higher in Nasdaq debut",
+    "summary": "AI company Anthropic closed at US$97.17 in its Nasdaq debut on November 19. Shares opened at US$111.5.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/anthropic-ipo-faces-scrutiny-nvidia-ceo-ouster-reports"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Four men guilty of sex crimes against woman drugged by husband in UK case with echoes of Pelicot",
+    "summary": "Her ex-husband, Philip Young, admitted to more than 50 offences, including rape and sharing recordings of the abuse online.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Pharmaceutical"
+    ],
+    "url": "https://www.channelnewsasia.com/world/four-men-guilty-sex-crimes-against-woman-drugged-husband-in-uk-case-echoes-pelicot-6567281"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "LG Uplus to invest $592m in AI data center expansion",
+    "summary": "The company plans to bring the 200-megawatt facility’s four phases online in stage by 2028.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/lg-uplus-to-unveil-ai-data-center-strategy-at-mwc-2026"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Lenovo Q2 revenue jumps 48% as AI sales surge 79%",
+    "summary": "AI-related revenue grew 79% year on year to more than US$10 billion for the first time",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/lenovo-closes-deal-israeli-storage-firm-infinidat"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "China expands 6G pilot program to eight provinces and cities",
+    "summary": "China is accelerating its 6G industrial rollout, moving from communications equipment prototypes and experimental spectrum access to field trials, as the domestic supply chain advances into system-level validation. On November 17, China's Ministry of Industry and Information Technology (MIIT) approved 6G innovation and",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261119PD232/6g-industrial-communications-shanghai-miit.html"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Nvidia doubles down on Taiwan supply chain as AI squeezes substrate and OSAT capacity",
+    "summary": "Nvidia is deepening its ties with Taiwan's artificial intelligence supply chain by issuing capacity prepayments to fund expansion across IC substrates, advanced packaging, and testing—locking in production capacity for the next three to five years despite ongoing uncertainty over its CEO succession. The push comes as a",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261119PD229/nvidia-capacity-substrate-osat-taiwan.html"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Nvidia maintains product roadmap as AI chip supply chain impact stays limited",
+    "summary": "Following Nvidia's latest earnings conference, the company's operating performance, outlook, and product development timeline showed no apparent impact from the departure of former CEO Jensen Huang. AI chip demand remains strong, although the company's financing policies are expected to become stricter than in the past",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261119PD224/nvidia-ai-chip-roadmap-earnings-development.html"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Embodied AI: Why System Integration Will Define Industrial Success",
+    "summary": "Artificial intelligence (AI) is moving beyond digital environments and into the physical world. From robots that navigate warehouses to machines that can perceive, decide and act, embodied AI is creating new opportunities across manufacturing, logistics, healthcare and other industries. Yet as interest in embodied AI c",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "Logistics",
+      "AI",
+      "Automation"
+    ],
+    "url": "https://www.eetasia.com/embodied-ai-why-system-integration-will-define-industrial-success/"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Japan weighs raising new-drug prices closer to overseas levels",
+    "summary": "Japan weighs raising new-drug prices closer to overseas levels",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Pharmaceutical"
+    ],
+    "url": "https://asia.nikkei.com/business/pharmaceuticals/japan-weighs-raising-new-drug-prices-closer-to-overseas-levels"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Japan's Logisteed to buy US peer Neovia, expanding 3rd-party logistics",
+    "summary": "Japan's Logisteed to buy US peer Neovia, expanding 3rd-party logistics",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://asia.nikkei.com/business/business-deals/japan-s-logisteed-to-buy-us-peer-neovia-expanding-3rd-party-logistics"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Alibaba trains next-gen AI model on own chips amid tighter US curbs",
+    "summary": "Alibaba trains next-gen AI model on own chips amid tighter US curbs",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/alibaba-trains-next-gen-ai-model-on-own-chips-amid-tighter-us-curbs"
+  },
+  {
     "date": "2026-11-19",
     "title": "NETS to join Ant International’s AI agent payment protocol",
     "summary": "NETS will become the first national payment rail to join Ant’s Agentic Mobile Protocol.",
