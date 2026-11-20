@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-19",
-  "count": 12,
+  "date": "2026-11-20",
+  "count": 13,
   "sources": [
     "CNA",
     "DigiTimes",
@@ -8,32 +8,32 @@
     "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-11-19-asia-tech-news-digest.md",
+  "post_file": "2026-11-20-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "NETS to join Ant International\u2019s AI agent payment protocol",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/sg-travel-startup-nets-15m-expand-flexible-travel-payments"
-    },
-    {
-      "title": "South Korea becomes fourth country globally to hit US$1 trillion exports on AI chip boom",
+      "title": "Trump administration weighs forcing US firms to disclose Chinese AI use",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/south-korea-fourth-country-1-trillion-exports-ai-chip-boom-6565061"
+      "url": "https://www.channelnewsasia.com/world/us-weighs-forcing-us-firms-disclose-chinese-ai-use-6562396"
     },
     {
-      "title": "SG AI firm Vulcan secures deal to expand across Asia",
+      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/us-signed-sales-ai-chips-china-6567216"
+    },
+    {
+      "title": "Anthropic closes 17% higher in Nasdaq debut",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/singapores-imda-announces-agentic-ai-testing-kit-safety-push"
+      "url": "https://www.techinasia.com/anthropic-ipo-faces-scrutiny-nvidia-ceo-ouster-reports"
     },
     {
-      "title": "Everlight ramps up AI optical communications push, targets double-digit growth in 2027 on robust coupler orders",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261119PD218/communications-everlight-2027-growth-packaging.html"
+      "title": "Four men guilty of sex crimes against woman drugged by husband in UK case with echoes of Pelicot",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/four-men-guilty-sex-crimes-against-woman-drugged-husband-in-uk-case-echoes-pelicot-6567281"
     },
     {
-      "title": "Qualipoly accelerates shift to electronic chemicals, targeting over 50% revenue contribution",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261118PD250/ai-server-ccl-microled-materials-revenue-demand-production.html"
+      "title": "LG Uplus to invest $592m in AI data center expansion",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/lg-uplus-to-unveil-ai-data-center-strategy-at-mwc-2026"
     }
   ],
   "source_stats": [
@@ -50,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -132,7 +132,7 @@
       "name": "Electronics Weekly",
       "fetched": 10,
       "relevant": 0,
-      "sponsored_skipped": 0,
+      "sponsored_skipped": 1,
       "published": 0,
       "error": null
     },
@@ -151,14 +151,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 60,
-      "relevant": 45,
+      "fetched": 71,
+      "relevant": 54,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +169,7 @@
       "fetched": 50,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -194,7 +194,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 18,
+      "relevant": 10,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -212,7 +212,7 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 3,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
