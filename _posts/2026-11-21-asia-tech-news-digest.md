@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - November 21, 2026"
-date: 2026-11-21 08:03:26 +0800
-articles_count: 11
-sources_count: 5
-sources: ["CNA", "DigiTimes", "NikkeiAsia", "SemiEng", "TechAsia"]
+date: 2026-11-21 14:47:48 +0800
+articles_count: 10
+sources_count: 4
+sources: ["CNA", "DigiTimes", "KED", "TechAsia"]
 csv_file: /assets/data/news-2026-11-21.tsv
-featured_title: "Commentary: Was Anthropic\u2019s record US$81 billion listing a vote of confidence in AI?"
-featured_url: "https://www.channelnewsasia.com/commentary/anthropic-ipo-claude-confidence-in-ai-nvidia-openai-6569031"
+featured_title: "South Korea's Lee says speed is vital in AI race on data centre visit"
+featured_url: "https://www.channelnewsasia.com/business/south-koreas-lee-says-speed-vital-in-ai-race-data-centre-visit-6571286"
 featured_source: "CNA"
-featured_summary: "The blockbuster stock market listing comes at a nervous moment in the AI sector, says this RMIT University finance professor."
-featured_image: "https://dam.mediacorp.sg/image/upload/s--v5THJhV4--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-19T231016Z_1_LYNXNPEMAI2JZ_RTROPTP_3_ANTHROPIC-IPO-VENTURE-CAPITAL.JPG?itok=coVJz7Ct"
+featured_summary: "South Korea's Lee says speed is vital in AI race on data centre visit"
+featured_image: "https://dam.mediacorp.sg/image/upload/s--SCyF_Jg1--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-21T053426Z_1_LYNXNPEMAK03Y_RTROPTP_3_APEC-SUMMIT.JPG?itok=_0cBCYuf"
 ---
 
 <table class="news-table">
@@ -28,90 +28,82 @@ featured_image: "https://dam.mediacorp.sg/image/upload/s--v5THJhV4--/c_fill,g_au
 <tr>
   <td class="col-num">1</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: Was Anthropic’s record US$81 billion listing a vote of confidence in AI?</span></td>
-  <td class="col-summary">The blockbuster stock market listing comes at a nervous moment in the AI sector, says this RMIT University finance professor.</td>
+  <td class="col-title"><span class="article-title">South Korea's Lee says speed is vital in AI race on data centre visit</span></td>
+  <td class="col-summary">South Korea's Lee says speed is vital in AI race on data centre visit</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/anthropic-ipo-claude-confidence-in-ai-nvidia-openai-6569031" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/south-koreas-lee-says-speed-vital-in-ai-race-data-centre-visit-6571286" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Anthropic IPO fails to calm AI jitters as tech stocks plummet</span></td>
-  <td class="col-summary">Anthropic IPO fails to calm AI jitters as tech stocks plummet</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/anthropic-ipo-ai-stocks-wall-street-6570596" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">States agree to UN talks aiming to regulate 'killer robots' by 2028</span></td>
+  <td class="col-summary">Opposition from big arms-producing nations like the US, Russia and Israel had resulted in a watered-down agreement that left open the question of whether future measures would be legally binding.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/united-nations-regulate-killer-robots-weapons-6571256" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Mapping China’s biotech titans</span></td>
-  <td class="col-summary">Mapping China’s biotech sector: Key players, top investors, and funding insights in one report.</td>
-  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/mapping-chinas-biotech-titans" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Nextlink launches AI transformation project as revenue reaches record high</span></td>
+  <td class="col-summary">Sustained demand for enterprise cloud adoption and AI deployment has led to growing revenues for cloud AI solution providers. Nextlink, the cloud business subsidiary of telecom company Far EasTone Telecommunications, returned to operating profitability in the first three quarters of 2026 and posted record revenue of NT</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261119PD221/revenue-demand-business-growth-adoption.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Taiwan market plunges 6.23% as AI suppliers report steady orders after Huang's exit</span></td>
-  <td class="col-summary">Taiwan's benchmark Taiex plunged 2,393.60 points, or 6.23%, on Friday to close at 36,033.29, its third-largest single-day point drop on record. Shares of Taiwan Semiconductor Manufacturing Co. (TSMC) fell as low as NT$1,970(US$59.73) before closing at NT$2,000, down 4.76%. MediaTek and Delta Electronics closed at their</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261120VL220/taiwan-nvidia-tsmc-design-ai-server.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Apple's agent push turns operating-system access into AI's next battleground</span></td>
+  <td class="col-summary">Apple's latest AI push is beginning to expose a new competitive fault line in the agent market: as frontier models become capable of browsing websites, controlling apps and executing multi-step tasks, the company controlling the operating system may ultimately determine how much autonomy those agents are allowed to exe</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261120VL221/apple-apps-meta-siri.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TSMC says it will comply with new US rule that strips Chinese chip designers of a key exemption</span></td>
-  <td class="col-summary">Taiwan Semiconductor Manufacturing Co. (TSMC) said it will comply with new US export rules that remove a route Chinese chip designers had used to get advanced chips made at overseas foundries without a license. The rule reaches beyond AI processors.</td>
+  <td class="col-title"><span class="article-title">SolidWizard sees AI, semiconductor orders through 2027</span></td>
+  <td class="col-summary">Rising investment in AI, semiconductors, and high-performance computing is driving demand for advanced software, giving 3D digital design and AI solutions provider SolidWizard Technology strong order visibility from AI and semiconductor customers through 2027. SolidWizard reported consolidated revenue of NT$1.328 billi</td>
   <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261120VL218/tsmc-taiwan-chips-communications-samsung.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261118PD209/semiconductors-2027-investment-software-demand.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">South Korea surpasses US$1 trillion in annual exports, powered by AI</span></td>
-  <td class="col-summary">On November 19, South Korea officially surpassed US$1 trillion in annual exports. With this achievement, South Korea becomes only the fourth nation in history to join the US$1 trillion export club, following Germany, the United States, and China.</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">OpenAI unveils benchmark to test AI on medicinal chemistry</span></td>
+  <td class="col-summary">The benchmark's 99 problems draw on 117 papers and patents.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261120VL219/exports-demand-performance-germany-semiconductors.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/openai-pledges-2m-research-ais-impact-children" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">SemiEng</span></td>
-  <td class="col-title"><span class="article-title">Chip Industry Week In Review</span></td>
-  <td class="col-summary">Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry Week In Review appear</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://semiengineering.com/chip-industry-week-in-review-165/" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia shares sink 12% on report of SEC accounting probe</span></td>
+  <td class="col-summary">Nvidia's data center and AI revenue has grown 1,300x over the past 12 years.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-staff-urge-jensen-huang-return-resignation" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Votee, AI Singapore explore LLMs for regional languages</span></td>
-  <td class="col-summary">The move also fits Singapore’s broader effort to develop multimodal large language models.</td>
+  <td class="col-title"><span class="article-title">SpaceX-owned Cursor weighs phasing out Chinese AI models</span></td>
+  <td class="col-summary">Airbnb and DoorDash were also examined in the probe over their use of Chinese AI models.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/hku-biomedical-school-partners-votee-applied-ai" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/spacex-acquires-cursor-60b-stock-deal" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Nvidia’s crisis shines a light on Asia’s AI chip shift</span></td>
-  <td class="col-summary">Supply crunches, thin margins, and wary lenders are pushing Asia’s AI clouds toward AMD and newer rivals. Nvidia’s crisis could speed that up.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidias-crisis-shines-light-asias-quiet-chip-shift" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Vietnam scraps capital punishment for drug trafficking</span></td>
+  <td class="col-summary">Under a revised penal code passed by the National Assembly on Nov 20, capital punishment will be available for only four crimes: treason, murder, terrorism and illegal drug production.</td>
+  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/vietnam-death-penalty-abolish-crime-6571011" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Asahi pours $85mn into AI cybersecurity upgrades after ransomware attack</span></td>
-  <td class="col-summary">Asahi pours $85mn into AI cybersecurity upgrades after ransomware attack</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">US stocks in dot-com-style bubble; AI faces reality check</span></td>
+  <td class="col-summary">US stocks are showing signs of a speculative bubble comparable to the dot-com boom of 1999 and 2000, although that does not necessarily mean the marke</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/cybersecurity/asahi-pours-85mn-into-ai-cybersecurity-upgrades-after-ransomware-attack" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan sovereign AI project faces $5bn cost surge on chip prices, weak yen</span></td>
-  <td class="col-summary">Japan sovereign AI project faces $5bn cost surge on chip prices, weak yen</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-sovereign-ai-project-faces-5bn-cost-surge-on-chip-prices-weak-yen" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/cio-roundtable/newsView/ked202611120004" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>

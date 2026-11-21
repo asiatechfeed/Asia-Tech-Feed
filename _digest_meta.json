@@ -1,39 +1,38 @@
 {
   "date": "2026-11-21",
-  "count": 11,
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
-    "NikkeiAsia",
-    "SemiEng",
+    "KED",
     "TechAsia"
   ],
   "post_file": "2026-11-21-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Commentary: Was Anthropic\u2019s record US$81 billion listing a vote of confidence in AI?",
+      "title": "South Korea's Lee says speed is vital in AI race on data centre visit",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/anthropic-ipo-claude-confidence-in-ai-nvidia-openai-6569031"
+      "url": "https://www.channelnewsasia.com/business/south-koreas-lee-says-speed-vital-in-ai-race-data-centre-visit-6571286"
     },
     {
-      "title": "Anthropic IPO fails to calm AI jitters as tech stocks plummet",
+      "title": "States agree to UN talks aiming to regulate 'killer robots' by 2028",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/anthropic-ipo-ai-stocks-wall-street-6570596"
+      "url": "https://www.channelnewsasia.com/world/united-nations-regulate-killer-robots-weapons-6571256"
     },
     {
-      "title": "Mapping China\u2019s biotech titans",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/visual-story/mapping-chinas-biotech-titans"
-    },
-    {
-      "title": "Taiwan market plunges 6.23% as AI suppliers report steady orders after Huang's exit",
+      "title": "Nextlink launches AI transformation project as revenue reaches record high",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261120VL220/taiwan-nvidia-tsmc-design-ai-server.html"
+      "url": "https://www.digitimes.com/news/a20261119PD221/revenue-demand-business-growth-adoption.html"
     },
     {
-      "title": "TSMC says it will comply with new US rule that strips Chinese chip designers of a key exemption",
+      "title": "Apple's agent push turns operating-system access into AI's next battleground",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261120VL218/tsmc-taiwan-chips-communications-samsung.html"
+      "url": "https://www.digitimes.com/news/a20261120VL221/apple-apps-meta-siri.html"
+    },
+    {
+      "title": "SolidWizard sees AI, semiconductor orders through 2027",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261118PD209/semiconductors-2027-investment-software-demand.html"
     }
   ],
   "source_stats": [
@@ -50,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 2,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
@@ -149,7 +148,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 7,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -157,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 71,
-      "relevant": 60,
+      "fetched": 35,
+      "relevant": 28,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -169,7 +168,7 @@
       "fetched": 50,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -178,7 +177,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -194,7 +193,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 14,
+      "relevant": 12,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -214,7 +213,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     }
   ]
