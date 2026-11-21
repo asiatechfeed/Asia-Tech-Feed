@@ -1,129 +1,114 @@
 [
   {
     "date": "2026-11-21",
-    "title": "Commentary: Was Anthropic’s record US$81 billion listing a vote of confidence in AI?",
-    "summary": "The blockbuster stock market listing comes at a nervous moment in the AI sector, says this RMIT University finance professor.",
+    "title": "South Korea's Lee says speed is vital in AI race on data centre visit",
+    "summary": "South Korea's Lee says speed is vital in AI race on data centre visit",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
       "AI"
     ],
-    "url": "https://www.channelnewsasia.com/commentary/anthropic-ipo-claude-confidence-in-ai-nvidia-openai-6569031"
+    "url": "https://www.channelnewsasia.com/business/south-koreas-lee-says-speed-vital-in-ai-race-data-centre-visit-6571286"
   },
   {
     "date": "2026-11-21",
-    "title": "Anthropic IPO fails to calm AI jitters as tech stocks plummet",
-    "summary": "Anthropic IPO fails to calm AI jitters as tech stocks plummet",
+    "title": "States agree to UN talks aiming to regulate 'killer robots' by 2028",
+    "summary": "Opposition from big arms-producing nations like the US, Russia and Israel had resulted in a watered-down agreement that left open the question of whether future measures would be legally binding.",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
-      "AI"
+      "Automation"
     ],
-    "url": "https://www.channelnewsasia.com/world/anthropic-ipo-ai-stocks-wall-street-6570596"
+    "url": "https://www.channelnewsasia.com/world/united-nations-regulate-killer-robots-weapons-6571256"
   },
   {
     "date": "2026-11-21",
-    "title": "Mapping China’s biotech titans",
-    "summary": "Mapping China’s biotech sector: Key players, top investors, and funding insights in one report.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Biotechnology"
-    ],
-    "url": "https://www.techinasia.com/visual-story/mapping-chinas-biotech-titans"
-  },
-  {
-    "date": "2026-11-21",
-    "title": "Taiwan market plunges 6.23% as AI suppliers report steady orders after Huang's exit",
-    "summary": "Taiwan's benchmark Taiex plunged 2,393.60 points, or 6.23%, on Friday to close at 36,033.29, its third-largest single-day point drop on record. Shares of Taiwan Semiconductor Manufacturing Co. (TSMC) fell as low as NT$1,970(US$59.73) before closing at NT$2,000, down 4.76%. MediaTek and Delta Electronics closed at their",
+    "title": "Nextlink launches AI transformation project as revenue reaches record high",
+    "summary": "Sustained demand for enterprise cloud adoption and AI deployment has led to growing revenues for cloud AI solution providers. Nextlink, the cloud business subsidiary of telecom company Far EasTone Telecommunications, returned to operating profitability in the first three quarters of 2026 and posted record revenue of NT",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
-      "Semiconductor",
-      "Electronics",
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261120VL220/taiwan-nvidia-tsmc-design-ai-server.html"
+    "url": "https://www.digitimes.com/news/a20261119PD221/revenue-demand-business-growth-adoption.html"
   },
   {
     "date": "2026-11-21",
-    "title": "TSMC says it will comply with new US rule that strips Chinese chip designers of a key exemption",
-    "summary": "Taiwan Semiconductor Manufacturing Co. (TSMC) said it will comply with new US export rules that remove a route Chinese chip designers had used to get advanced chips made at overseas foundries without a license. The rule reaches beyond AI processors.",
+    "title": "Apple's agent push turns operating-system access into AI's next battleground",
+    "summary": "Apple's latest AI push is beginning to expose a new competitive fault line in the agent market: as frontier models become capable of browsing websites, controlling apps and executing multi-step tasks, the company controlling the operating system may ultimately determine how much autonomy those agents are allowed to exe",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261120VL221/apple-apps-meta-siri.html"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "SolidWizard sees AI, semiconductor orders through 2027",
+    "summary": "Rising investment in AI, semiconductors, and high-performance computing is driving demand for advanced software, giving 3D digital design and AI solutions provider SolidWizard Technology strong order visibility from AI and semiconductor customers through 2027. SolidWizard reported consolidated revenue of NT$1.328 billi",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "Semiconductor",
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261120VL218/tsmc-taiwan-chips-communications-samsung.html"
+    "url": "https://www.digitimes.com/news/a20261118PD209/semiconductors-2027-investment-software-demand.html"
   },
   {
     "date": "2026-11-21",
-    "title": "South Korea surpasses US$1 trillion in annual exports, powered by AI",
-    "summary": "On November 19, South Korea officially surpassed US$1 trillion in annual exports. With this achievement, South Korea becomes only the fourth nation in history to join the US$1 trillion export club, following Germany, the United States, and China.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.digitimes.com/news/a20261120VL219/exports-demand-performance-germany-semiconductors.html"
-  },
-  {
-    "date": "2026-11-21",
-    "title": "Chip Industry Week In Review",
-    "summary": "Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry Week In Review appear",
-    "source": "Semiconductor Engineering",
-    "short": "SemiEng",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://semiengineering.com/chip-industry-week-in-review-165/"
-  },
-  {
-    "date": "2026-11-21",
-    "title": "Votee, AI Singapore explore LLMs for regional languages",
-    "summary": "The move also fits Singapore’s broader effort to develop multimodal large language models.",
+    "title": "OpenAI unveils benchmark to test AI on medicinal chemistry",
+    "summary": "The benchmark's 99 problems draw on 117 papers and patents.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/hku-biomedical-school-partners-votee-applied-ai"
+    "url": "https://www.techinasia.com/openai-pledges-2m-research-ais-impact-children"
   },
   {
     "date": "2026-11-21",
-    "title": "Nvidia’s crisis shines a light on Asia’s AI chip shift",
-    "summary": "Supply crunches, thin margins, and wary lenders are pushing Asia’s AI clouds toward AMD and newer rivals. Nvidia’s crisis could speed that up.",
+    "title": "Nvidia shares sink 12% on report of SEC accounting probe",
+    "summary": "Nvidia's data center and AI revenue has grown 1,300x over the past 12 years.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "AI",
-      "Semiconductor"
+      "AI"
     ],
-    "url": "https://www.techinasia.com/nvidias-crisis-shines-light-asias-quiet-chip-shift"
+    "url": "https://www.techinasia.com/nvidia-staff-urge-jensen-huang-return-resignation"
   },
   {
     "date": "2026-11-21",
-    "title": "Asahi pours $85mn into AI cybersecurity upgrades after ransomware attack",
-    "summary": "Asahi pours $85mn into AI cybersecurity upgrades after ransomware attack",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "SpaceX-owned Cursor weighs phasing out Chinese AI models",
+    "summary": "Airbnb and DoorDash were also examined in the probe over their use of Chinese AI models.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/spotlight/cybersecurity/asahi-pours-85mn-into-ai-cybersecurity-upgrades-after-ransomware-attack"
+    "url": "https://www.techinasia.com/spacex-acquires-cursor-60b-stock-deal"
   },
   {
     "date": "2026-11-21",
-    "title": "Japan sovereign AI project faces $5bn cost surge on chip prices, weak yen",
-    "summary": "Japan sovereign AI project faces $5bn cost surge on chip prices, weak yen",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "Vietnam scraps capital punishment for drug trafficking",
+    "summary": "Under a revised penal code passed by the National Assembly on Nov 20, capital punishment will be available for only four crimes: treason, murder, terrorism and illegal drug production.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
-      "AI",
-      "Semiconductor"
+      "Pharmaceutical"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-sovereign-ai-project-faces-5bn-cost-surge-on-chip-prices-weak-yen"
+    "url": "https://www.channelnewsasia.com/asia/vietnam-death-penalty-abolish-crime-6571011"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "US stocks in dot-com-style bubble; AI faces reality check",
+    "summary": "US stocks are showing signs of a speculative bubble comparable to the dot-com boom of 1999 and 2000, although that does not necessarily mean the marke",
+    "source": "KED Global",
+    "short": "KED",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.kedglobal.com/cio-roundtable/newsView/ked202611120004"
   },
   {
     "date": "2026-11-20",
