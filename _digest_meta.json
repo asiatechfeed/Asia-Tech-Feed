@@ -1,10 +1,10 @@
 {
   "date": "2026-11-21",
-  "count": 10,
+  "count": 8,
   "sources": [
     "CNA",
     "DigiTimes",
-    "KED",
+    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-21-asia-tech-news-digest.md",
@@ -12,27 +12,27 @@
     {
       "title": "South Korea's Lee says speed is vital in AI race on data centre visit",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/south-koreas-lee-says-speed-vital-in-ai-race-data-centre-visit-6571286"
+      "url": "https://www.channelnewsasia.com/east-asia/south-korea-ai-race-lee-jae-myung-6571286"
     },
     {
-      "title": "States agree to UN talks aiming to regulate 'killer robots' by 2028",
+      "title": "Chinese robotaxi firm WeRide\u2019s Q3 revenue jumps 88%",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/uber-weride-launch-driverless-taxis-abu-dhabi"
+    },
+    {
+      "title": "Trump calls for Nvidia's Huang to be given 'second chance'",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/united-nations-regulate-killer-robots-weapons-6571256"
+      "url": "https://www.channelnewsasia.com/world/nvidia-jensen-huang-affair-espionage-donald-trump-6570976"
     },
     {
-      "title": "Nextlink launches AI transformation project as revenue reaches record high",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261119PD221/revenue-demand-business-growth-adoption.html"
+      "title": "It\u2019s a post-Anthropic IPO world",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/its-a-post-anthropic-ipo-world"
     },
     {
-      "title": "Apple's agent push turns operating-system access into AI's next battleground",
+      "title": "Huang's exit tests Nvidia's annual chip cadence and Taiwan suppliers' customer mix",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261120VL221/apple-apps-meta-siri.html"
-    },
-    {
-      "title": "SolidWizard sees AI, semiconductor orders through 2027",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261118PD209/semiconductors-2027-investment-software-demand.html"
+      "url": "https://www.digitimes.com/news/a20261120PD225/nvidia-ai-chip-taiwan-jensen-huang-rubin.html"
     }
   ],
   "source_stats": [
@@ -51,7 +51,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -166,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 6,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -177,7 +177,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -195,7 +195,7 @@
       "fetched": 36,
       "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
