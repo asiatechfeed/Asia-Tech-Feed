@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-20T08:01:36+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 20, 2026</title><link href="https://asiatechfeed.com/2026/11/20/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 20, 2026" /><published>2026-11-20T08:01:01+00:00</published><updated>2026-11-20T08:01:01+00:00</updated><id>https://asiatechfeed.com/2026/11/20/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/20/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-21T00:04:09+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 21, 2026</title><link href="https://asiatechfeed.com/2026/11/21/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 21, 2026" /><published>2026-11-21T00:03:26+00:00</published><updated>2026-11-21T00:03:26+00:00</updated><id>https://asiatechfeed.com/2026/11/21/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/21/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: Was Anthropic’s record US$81 billion listing a vote of confidence in AI?</span></td>
+  <td class="col-summary">The blockbuster stock market listing comes at a nervous moment in the AI sector, says this RMIT University finance professor.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/anthropic-ipo-claude-confidence-in-ai-nvidia-openai-6569031" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Anthropic IPO fails to calm AI jitters as tech stocks plummet</span></td>
+  <td class="col-summary">Anthropic IPO fails to calm AI jitters as tech stocks plummet</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/anthropic-ipo-ai-stocks-wall-street-6570596" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Mapping China’s biotech titans</span></td>
+  <td class="col-summary">Mapping China’s biotech sector: Key players, top investors, and funding insights in one report.</td>
+  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/mapping-chinas-biotech-titans" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Taiwan market plunges 6.23% as AI suppliers report steady orders after Huang's exit</span></td>
+  <td class="col-summary">Taiwan's benchmark Taiex plunged 2,393.60 points, or 6.23%, on Friday to close at 36,033.29, its third-largest single-day point drop on record. Shares of Taiwan Semiconductor Manufacturing Co. (TSMC) fell as low as NT$1,970(US$59.73) before closing at NT$2,000, down 4.76%. MediaTek and Delta Electronics closed at their</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261120VL220/taiwan-nvidia-tsmc-design-ai-server.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">TSMC says it will comply with new US rule that strips Chinese chip designers of a key exemption</span></td>
+  <td class="col-summary">Taiwan Semiconductor Manufacturing Co. (TSMC) said it will comply with new US export rules that remove a route Chinese chip designers had used to get advanced chips made at overseas foundries without a license. The rule reaches beyond AI processors.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261120VL218/tsmc-taiwan-chips-communications-samsung.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">South Korea surpasses US$1 trillion in annual exports, powered by AI</span></td>
+  <td class="col-summary">On November 19, South Korea officially surpassed US$1 trillion in annual exports. With this achievement, South Korea becomes only the fourth nation in history to join the US$1 trillion export club, following Germany, the United States, and China.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261120VL219/exports-demand-performance-germany-semiconductors.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">SemiEng</span></td>
+  <td class="col-title"><span class="article-title">Chip Industry Week In Review</span></td>
+  <td class="col-summary">Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry Week In Review appear</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://semiengineering.com/chip-industry-week-in-review-165/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Votee, AI Singapore explore LLMs for regional languages</span></td>
+  <td class="col-summary">The move also fits Singapore’s broader effort to develop multimodal large language models.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/hku-biomedical-school-partners-votee-applied-ai" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia’s crisis shines a light on Asia’s AI chip shift</span></td>
+  <td class="col-summary">Supply crunches, thin margins, and wary lenders are pushing Asia’s AI clouds toward AMD and newer rivals. Nvidia’s crisis could speed that up.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidias-crisis-shines-light-asias-quiet-chip-shift" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Asahi pours $85mn into AI cybersecurity upgrades after ransomware attack</span></td>
+  <td class="col-summary">Asahi pours $85mn into AI cybersecurity upgrades after ransomware attack</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/cybersecurity/asahi-pours-85mn-into-ai-cybersecurity-upgrades-after-ransomware-attack" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan sovereign AI project faces $5bn cost surge on chip prices, weak yen</span></td>
+  <td class="col-summary">Japan sovereign AI project faces $5bn cost surge on chip prices, weak yen</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-sovereign-ai-project-faces-5bn-cost-surge-on-chip-prices-weak-yen" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Commentary: Was Anthropic’s record US$81 billion listing a vote of confidence in AI? The blockbuster stock market listing comes at a nervous moment in the AI sector, says this RMIT University finance professor. AI Read 2 CNA Anthropic IPO fails to calm AI jitters as tech stocks plummet Anthropic IPO fails to calm AI jitters as tech stocks plummet AI Read 3 TechAsia Mapping China’s biotech titans Mapping China’s biotech sector: Key players, top investors, and funding insights in one report. Biotechnology Read 4 DigiTimes Taiwan market plunges 6.23% as AI suppliers report steady orders after Huang's exit Taiwan's benchmark Taiex plunged 2,393.60 points, or 6.23%, on Friday to close at 36,033.29, its third-largest single-day point drop on record. Shares of Taiwan Semiconductor Manufacturing Co. (TSMC) fell as low as NT$1,970(US$59.73) before closing at NT$2,000, down 4.76%. MediaTek and Delta Electronics closed at their SemiconductorElectronicsAI Read 5 DigiTimes TSMC says it will comply with new US rule that strips Chinese chip designers of a key exemption Taiwan Semiconductor Manufacturing Co. (TSMC) said it will comply with new US export rules that remove a route Chinese chip designers had used to get advanced chips made at overseas foundries without a license. The rule reaches beyond AI processors. SemiconductorAI Read 6 DigiTimes South Korea surpasses US$1 trillion in annual exports, powered by AI On November 19, South Korea officially surpassed US$1 trillion in annual exports. With this achievement, South Korea becomes only the fourth nation in history to join the US$1 trillion export club, following Germany, the United States, and China. AI Read 7 SemiEng Chip Industry Week In Review Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry Week In Review appear Semiconductor Read 8 TechAsia Votee, AI Singapore explore LLMs for regional languages The move also fits Singapore’s broader effort to develop multimodal large language models. AI Read 9 TechAsia Nvidia’s crisis shines a light on Asia’s AI chip shift Supply crunches, thin margins, and wary lenders are pushing Asia’s AI clouds toward AMD and newer rivals. Nvidia’s crisis could speed that up. AISemiconductor Read 10 NikkeiAsia Asahi pours $85mn into AI cybersecurity upgrades after ransomware attack Asahi pours $85mn into AI cybersecurity upgrades after ransomware attack AI Read 11 NikkeiAsia Japan sovereign AI project faces $5bn cost surge on chip prices, weak yen Japan sovereign AI project faces $5bn cost surge on chip prices, weak yen AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 20, 2026</title><link href="https://asiatechfeed.com/2026/11/20/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 20, 2026" /><published>2026-11-20T08:01:01+00:00</published><updated>2026-11-20T08:01:01+00:00</updated><id>https://asiatechfeed.com/2026/11/20/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/20/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -723,81 +824,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/databricks-broadens-ai-push-panther-deal" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Chinese university bought advanced Nvidia chips despite US curbs Procurement notices show Northwestern Polytechnical University bought four Nvidia H200 chips through a local supplier. Semiconductor Read 2 DigiTimes SoftBank rejects Musk's default claim, books JPY597.2B data-center loss SoftBank Group (SBG) has denied SpaceX CEO Elon Musk's claim on X that the company defaulted after ordering turbines, while saying its AI infrastructure plans remain on track. However, SBG recorded a JPY597.2 billion (US$3.73 billion) loss in the second quarter of fiscal 2026 (July–September 2026) after reviewing purch AI Read 3 DigiTimes Sam Altman warns Samsung of short-term AI demand volatility OpenAI CEO Sam Altman warned Samsung Electronics executives that AI memory demand could fluctuate in the short term, with the market potentially counting the same demand more than once. He nevertheless expects long-term AI demand to surge, creating shortages of chips and data centers and underscoring the need for great ElectronicsAISemiconductor Read 4 DigiTimes Chinese media question timing of Huang allegations amid chip controls With Chinese and US leaders expected to meet on October 18 during the APEC Economic Leaders' Meeting, allegations involving Nvidia CEO Jensen Huang's extramarital affair and supposed links to Chinese espionage continue to escalate. China's state-run Global Times questioned whether the closely timed media reports and co Semiconductor Read 5 EETAsia Wooptix Targets Advanced Logic with Proprietary Metrology Technology Wooptix is developing wavefront phase imaging for inline wafer metrology, targeting advanced logic and future memory applications. The post Wooptix Targets Advanced Logic with Proprietary Metrology Technology appeared first on EE Times Asia . Semiconductor Read 6 TechAsia Ex-HashiCorp exec joins SG-based V2 AI consultancy Chernov most recently led regional technical teams at HashiCorp across the Association of Southeast Asian Nations, Korea, and Greater China. AI Read 7 TechAsia Nvidia shares fall 8% on reports of Huang’s possible exit The Nvidia board is reportedly preparing to remove Huang, who has led the chip designer for 33 years. Semiconductor Read 8 TechAsia Databricks upgrades Genie AI agent for multi-step tasks Ghodsi said he uses Genie to find problems inside Databricks that senior leaders might not hear about directly. AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 11, 2026</title><link href="https://asiatechfeed.com/2026/11/11/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 11, 2026" /><published>2026-11-11T08:00:50+00:00</published><updated>2026-11-11T08:00:50+00:00</updated><id>https://asiatechfeed.com/2026/11/11/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/11/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Indosat subsidiary Lintasarta relaunches sovereign AI platform</span></td>
-  <td class="col-summary">Lintasarta said Deka LLM is powered by Indosat Intelligence Suite and gives users access to multiple AI models and supporting infrastructure.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/batams-data-center-boom-started-caveats" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">AMD expands EPYC server chip lineup for AI infrastructure</span></td>
-  <td class="col-summary">The US chipmaker said its 6th Gen EPYC server chips deliver up to 2.2x the performance of rival processors.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/amd-shares-fall-50-q2-revenue-growth" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">AMD unveils three-gen EPYC roadmap as TSMC 2nm process advances</span></td>
-  <td class="col-summary">As agentic AI rapidly advances, data center workloads are expanding from traditional model training into inference, agent collaboration, and real-time data processing. Consequently, CPUs are playing an increasingly vital role in task scheduling, data retrieval, tool execution, and workflow orchestration. Anticipating t</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261111PD259/amd-2nm-tsmc-data-center-cpu.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Dynamic Holding posts record 3Q26 revenue and profit on mix, price hikes</span></td>
-  <td class="col-summary">PCB maker Dynamic Holding reported October 2026 consolidated revenue of NT$10.637 billion (approx. US$323.6 million), down slightly from NT$10.648 billion in September as extended holidays reduced working days, but up 70.3% from NT$6.245 billion a year earlier and the company's second-highest monthly figure on record.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261111PD257/dynamic-pcb-revenue-profit-price.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Infineon says data center orders already exceed target as factory output sets ceiling</span></td>
-  <td class="col-summary">Infineon Technologies told analysts that demand is no longer what limits its growth. On a November 10 call to discuss its fiscal 2026 results, the German chipmaker said orders for its data center power products already exceed the close to EUR4 billion (approx. US$4.46 billion) of revenue it forecasts for fiscal 2027, a</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261111VL218/infineon-demand-data-center-growth-revenue.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Google DeepMind rolls out Gemini Robotics 2.5 to partners</span></td>
-  <td class="col-summary">Google said the new model improved task success rates, completion speed, and physical safety controls compared with earlier baselines.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/google-deepmind-robotics-bets-brain-body" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Microsoft says tech firms must 'prove' AI data centers benefit locals</span></td>
-  <td class="col-summary">Microsoft says tech firms must 'prove' AI data centers benefit locals</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/global-management-dialogue/global-management-dialogue-2026/microsoft-says-tech-firms-must-prove-ai-data-centers-benefit-locals" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">SoftBank swings to first-half loss as AI hopes face new setbacks</span></td>
-  <td class="col-summary">SoftBank swings to first-half loss as AI hopes face new setbacks</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/softbank/softbank-swings-to-first-half-loss-as-ai-hopes-face-new-setbacks" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Indosat subsidiary Lintasarta relaunches sovereign AI platform Lintasarta said Deka LLM is powered by Indosat Intelligence Suite and gives users access to multiple AI models and supporting infrastructure. AI Read 2 TechAsia AMD expands EPYC server chip lineup for AI infrastructure The US chipmaker said its 6th Gen EPYC server chips deliver up to 2.2x the performance of rival processors. AISemiconductor Read 3 DigiTimes AMD unveils three-gen EPYC roadmap as TSMC 2nm process advances As agentic AI rapidly advances, data center workloads are expanding from traditional model training into inference, agent collaboration, and real-time data processing. Consequently, CPUs are playing an increasingly vital role in task scheduling, data retrieval, tool execution, and workflow orchestration. Anticipating t AI Read 4 DigiTimes Dynamic Holding posts record 3Q26 revenue and profit on mix, price hikes PCB maker Dynamic Holding reported October 2026 consolidated revenue of NT$10.637 billion (approx. US$323.6 million), down slightly from NT$10.648 billion in September as extended holidays reduced working days, but up 70.3% from NT$6.245 billion a year earlier and the company's second-highest monthly figure on record. Electronics Read 5 DigiTimes Infineon says data center orders already exceed target as factory output sets ceiling Infineon Technologies told analysts that demand is no longer what limits its growth. On a November 10 call to discuss its fiscal 2026 results, the German chipmaker said orders for its data center power products already exceed the close to EUR4 billion (approx. US$4.46 billion) of revenue it forecasts for fiscal 2027, a Semiconductor Read 6 TechAsia Google DeepMind rolls out Gemini Robotics 2.5 to partners Google said the new model improved task success rates, completion speed, and physical safety controls compared with earlier baselines. Automation Read 7 NikkeiAsia Microsoft says tech firms must 'prove' AI data centers benefit locals Microsoft says tech firms must 'prove' AI data centers benefit locals AI Read 8 NikkeiAsia SoftBank swings to first-half loss as AI hopes face new setbacks SoftBank swings to first-half loss as AI hopes face new setbacks AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Chinese university bought advanced Nvidia chips despite US curbs Procurement notices show Northwestern Polytechnical University bought four Nvidia H200 chips through a local supplier. Semiconductor Read 2 DigiTimes SoftBank rejects Musk's default claim, books JPY597.2B data-center loss SoftBank Group (SBG) has denied SpaceX CEO Elon Musk's claim on X that the company defaulted after ordering turbines, while saying its AI infrastructure plans remain on track. However, SBG recorded a JPY597.2 billion (US$3.73 billion) loss in the second quarter of fiscal 2026 (July–September 2026) after reviewing purch AI Read 3 DigiTimes Sam Altman warns Samsung of short-term AI demand volatility OpenAI CEO Sam Altman warned Samsung Electronics executives that AI memory demand could fluctuate in the short term, with the market potentially counting the same demand more than once. He nevertheless expects long-term AI demand to surge, creating shortages of chips and data centers and underscoring the need for great ElectronicsAISemiconductor Read 4 DigiTimes Chinese media question timing of Huang allegations amid chip controls With Chinese and US leaders expected to meet on October 18 during the APEC Economic Leaders' Meeting, allegations involving Nvidia CEO Jensen Huang's extramarital affair and supposed links to Chinese espionage continue to escalate. China's state-run Global Times questioned whether the closely timed media reports and co Semiconductor Read 5 EETAsia Wooptix Targets Advanced Logic with Proprietary Metrology Technology Wooptix is developing wavefront phase imaging for inline wafer metrology, targeting advanced logic and future memory applications. The post Wooptix Targets Advanced Logic with Proprietary Metrology Technology appeared first on EE Times Asia . Semiconductor Read 6 TechAsia Ex-HashiCorp exec joins SG-based V2 AI consultancy Chernov most recently led regional technical teams at HashiCorp across the Association of Southeast Asian Nations, Korea, and Greater China. AI Read 7 TechAsia Nvidia shares fall 8% on reports of Huang’s possible exit The Nvidia board is reportedly preparing to remove Huang, who has led the chip designer for 33 years. Semiconductor Read 8 TechAsia Databricks upgrades Genie AI agent for multi-step tasks Ghodsi said he uses Genie to find problems inside Databricks that senior leaders might not hear about directly. AI Read]]></summary></entry></feed>
