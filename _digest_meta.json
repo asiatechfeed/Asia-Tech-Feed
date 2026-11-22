@@ -1,38 +1,31 @@
 {
-  "date": "2026-11-21",
-  "count": 8,
+  "date": "2026-11-22",
+  "count": 4,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-11-21-asia-tech-news-digest.md",
+  "post_file": "2026-11-22-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "South Korea's Lee says speed is vital in AI race on data centre visit",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/south-korea-ai-race-lee-jae-myung-6571286"
-    },
-    {
-      "title": "Chinese robotaxi firm WeRide\u2019s Q3 revenue jumps 88%",
+      "title": "Mapping the dominant players in Israel\u2019s AI field",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/uber-weride-launch-driverless-taxis-abu-dhabi"
+      "url": "https://www.techinasia.com/visual-story/mapping-dominant-players-israels-ai-field"
     },
     {
-      "title": "Trump calls for Nvidia's Huang to be given 'second chance'",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/nvidia-jensen-huang-affair-espionage-donald-trump-6570976"
-    },
-    {
-      "title": "It\u2019s a post-Anthropic IPO world",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/its-a-post-anthropic-ipo-world"
-    },
-    {
-      "title": "Huang's exit tests Nvidia's annual chip cadence and Taiwan suppliers' customer mix",
+      "title": "Taiwan develops energy-efficiency labels for AI compute centers",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261120PD225/nvidia-ai-chip-taiwan-jensen-huang-rubin.html"
+      "url": "https://www.digitimes.com/news/a20261120PD211/taiwan-demand-electricity-data-carbon-emissions.html"
+    },
+    {
+      "title": "Taiwan chip distributors see supply-chain risks after Huang's exit",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261120PD226/nvidia-taiwan-security-jensen-huang-supply-chain.html"
+    },
+    {
+      "title": "Pan-International targets 2027 optical connector and humanoid robot motor launches",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261120PD238/2027-robot-shipments-automotive-mmc.html"
     }
   ],
   "source_stats": [
@@ -49,9 +42,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 4,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -157,7 +150,7 @@
       "source": "DigiTimes",
       "name": "DigiTimes",
       "fetched": 35,
-      "relevant": 28,
+      "relevant": 26,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -166,9 +159,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -195,7 +188,7 @@
       "fetched": 36,
       "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 1,
       "error": null
     },
     {
