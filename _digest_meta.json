@@ -1,38 +1,25 @@
 {
   "date": "2026-11-22",
-  "count": 8,
+  "count": 3,
   "sources": [
-    "CNA",
-    "DigiTimes",
-    "KED",
-    "TechAsia"
+    "DigiTimes"
   ],
   "post_file": "2026-11-22-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "South Korea education chief resigns amid AI cheating scandal",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/south-korea-education-chief-resigns-ai-cheating-scandal-suneung-6572626"
-    },
-    {
-      "title": "LG Uplus unveils 2027 reorganization to expand AI business",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/lg-uplus-to-unveil-human-centered-ai-stack-at-mwc"
-    },
-    {
-      "title": "Mexico captures drug kingpin on FBI's most wanted list",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/mexico-captures-drug-kingpin-fbi-most-wanted-6572391"
-    },
-    {
-      "title": "China plans new standards for AI token pricing, quality",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/alibaba-cloud-expands-europe-dutch-region"
-    },
-    {
-      "title": "US AI chip curbs force Alibaba to rethink overseas compute strategy",
+      "title": "Inside Inner Mongolia's AI hub: US research firm compares Envision's Xinghe base with Texas Stargate",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261120PD234/alibaba-t-head-ai-chip-computing-power-capacity-2027.html"
+      "url": "https://www.digitimes.com/news/a20261120PD202/texas-financing-inner-mongolia-infrastructure-data-center.html"
+    },
+    {
+      "title": "Commentary: China's chip sales surge 89%, but AI computing exposes the limits of growth",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261120VL213/sales-growth-2026-performance-packaging.html"
+    },
+    {
+      "title": "AI power demand stays resilient as US grid upgrades, SSTs gain focus",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261120PD231/demand-jensen-huang-nvidia-solar-market.html"
     }
   ],
   "source_stats": [
@@ -51,7 +38,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -177,7 +164,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -193,9 +180,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 11,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
