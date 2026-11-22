@@ -1,31 +1,38 @@
 {
   "date": "2026-11-22",
-  "count": 4,
+  "count": 8,
   "sources": [
+    "CNA",
     "DigiTimes",
+    "KED",
     "TechAsia"
   ],
   "post_file": "2026-11-22-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Mapping the dominant players in Israel\u2019s AI field",
+      "title": "South Korea education chief resigns amid AI cheating scandal",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/south-korea-education-chief-resigns-ai-cheating-scandal-suneung-6572626"
+    },
+    {
+      "title": "LG Uplus unveils 2027 reorganization to expand AI business",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/visual-story/mapping-dominant-players-israels-ai-field"
+      "url": "https://www.techinasia.com/lg-uplus-to-unveil-human-centered-ai-stack-at-mwc"
     },
     {
-      "title": "Taiwan develops energy-efficiency labels for AI compute centers",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261120PD211/taiwan-demand-electricity-data-carbon-emissions.html"
+      "title": "Mexico captures drug kingpin on FBI's most wanted list",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/mexico-captures-drug-kingpin-fbi-most-wanted-6572391"
     },
     {
-      "title": "Taiwan chip distributors see supply-chain risks after Huang's exit",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261120PD226/nvidia-taiwan-security-jensen-huang-supply-chain.html"
+      "title": "China plans new standards for AI token pricing, quality",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/alibaba-cloud-expands-europe-dutch-region"
     },
     {
-      "title": "Pan-International targets 2027 optical connector and humanoid robot motor launches",
+      "title": "US AI chip curbs force Alibaba to rethink overseas compute strategy",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261120PD238/2027-robot-shipments-automotive-mmc.html"
+      "url": "https://www.digitimes.com/news/a20261120PD234/alibaba-t-head-ai-chip-computing-power-capacity-2027.html"
     }
   ],
   "source_stats": [
@@ -42,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -122,8 +129,8 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
-      "relevant": 1,
+      "fetched": 0,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -141,7 +148,7 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 7,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -170,7 +177,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -188,7 +195,7 @@
       "fetched": 36,
       "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
