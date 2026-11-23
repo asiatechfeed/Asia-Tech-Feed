@@ -1,37 +1,38 @@
 {
   "date": "2026-11-23",
-  "count": 5,
+  "count": 10,
   "sources": [
     "CNA",
     "DigiTimes",
-    "NikkeiAsia"
+    "EETAsia",
+    "TechAsia"
   ],
   "post_file": "2026-11-23-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "India roundup: India's semiconductor ambitions' execution hurdles",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261119VL210/india-roundup-cost-equipment-investment-manufacturing-xiaomi.html"
-    },
-    {
-      "title": "China's chipmaking hubs double imports of Singapore-made equipment",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261120VL216/equipment-manufacturing-sk-hynix-beijing-cxmt.html"
-    },
-    {
-      "title": "Jensen's exit puts Japan's physical-AI revival to the test",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261120VL215/nvidia-jensen-huang-scandal-infrastructure-manufacturing.html"
-    },
-    {
-      "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+      "title": "Pandas, whale sharks and robots: Family adventures at Chimelong Resort",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/openai-scientist-proposes-industry-ai-limits-tied-model-intelligence-metric-6573461"
+      "url": "https://www.channelnewsasia.com/advertorial/pandas-whale-sharks-and-robots-family-adventures-chimelong-resort-6542916"
     },
     {
-      "title": "Corporate Japan races to revive rare-earth supply chain amid China curbs",
-      "source": "NikkeiAsia",
-      "url": "https://asia.nikkei.com/business/materials/corporate-japan-races-to-revive-rare-earth-supply-chain-amid-china-curbs"
+      "title": "XPeng's A868 tilt milestone pushes China's flying-car race into long-range aviation",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261123VL209/xpeng-evtol-aircraft-development-competition.html"
+    },
+    {
+      "title": "AI stock rout puts Taiwan's tech supply chain on alert, prompting government scrutiny of capital flows",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261123PD224/taiwan-government-moea-stock-market-industrial-supply-chain.html"
+    },
+    {
+      "title": "Trump-Xi talks set human guardrails for military AI",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261123PD223/military-donald-trump-xi-jinping-chips-shenzhen.html"
+    },
+    {
+      "title": "Ant Group begins releasing open-weight medical AI models",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/ant-group-upgrades-doctor-app-ai-hospital-tools"
     }
   ],
   "source_stats": [
@@ -128,8 +129,8 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
-      "relevant": 1,
+      "fetched": 0,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -147,16 +148,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 0,
+      "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 27,
+      "fetched": 53,
+      "relevant": 42,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +168,7 @@
       "fetched": 50,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -192,9 +193,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 11,
+      "relevant": 13,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
