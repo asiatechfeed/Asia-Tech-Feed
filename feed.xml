@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-22T08:01:24+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 22, 2026</title><link href="https://asiatechfeed.com/2026/11/22/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 22, 2026" /><published>2026-11-22T08:00:55+00:00</published><updated>2026-11-22T08:00:55+00:00</updated><id>https://asiatechfeed.com/2026/11/22/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/22/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-23T00:03:31+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 23, 2026</title><link href="https://asiatechfeed.com/2026/11/23/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 23, 2026" /><published>2026-11-23T00:02:44+00:00</published><updated>2026-11-23T00:02:44+00:00</updated><id>https://asiatechfeed.com/2026/11/23/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/23/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">India roundup: India's semiconductor ambitions' execution hurdles</span></td>
+  <td class="col-summary">India is accelerating semiconductor investment through research projects, equipment localization and subsidies, but customer skepticism, manufacturing challenges and a major customs dispute underscore risks to its expanding technology ambitions.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261119VL210/india-roundup-cost-equipment-investment-manufacturing-xiaomi.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">China's chipmaking hubs double imports of Singapore-made equipment</span></td>
+  <td class="col-summary">Imports of Singapore-made semiconductor manufacturing equipment into three of China's major chipmaking hubs doubled to US$3.46 billion in the first seven months of 2026, led by a sharp increase in purchases of deposition tools.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261120VL216/equipment-manufacturing-sk-hynix-beijing-cxmt.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Jensen's exit puts Japan's physical-AI revival to the test</span></td>
+  <td class="col-summary">The turmoil surrounding Jensen Huang's abrupt departure from Nvidia has quickly expanded beyond a corporate leadership scandal into a broader test of how deeply the AI industry had come to depend on one executive's influence.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261120VL215/nvidia-jensen-huang-scandal-infrastructure-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">OpenAI scientist proposes industry AI limits tied to model intelligence metric</span></td>
+  <td class="col-summary">OpenAI scientist proposes industry AI limits tied to model intelligence metric</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/openai-scientist-proposes-industry-ai-limits-tied-model-intelligence-metric-6573461" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Corporate Japan races to revive rare-earth supply chain amid China curbs</span></td>
+  <td class="col-summary">Corporate Japan races to revive rare-earth supply chain amid China curbs</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/materials/corporate-japan-races-to-revive-rare-earth-supply-chain-amid-china-curbs" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes India roundup: India's semiconductor ambitions' execution hurdles India is accelerating semiconductor investment through research projects, equipment localization and subsidies, but customer skepticism, manufacturing challenges and a major customs dispute underscore risks to its expanding technology ambitions. Semiconductor Read 2 DigiTimes China's chipmaking hubs double imports of Singapore-made equipment Imports of Singapore-made semiconductor manufacturing equipment into three of China's major chipmaking hubs doubled to US$3.46 billion in the first seven months of 2026, led by a sharp increase in purchases of deposition tools. Semiconductor Read 3 DigiTimes Jensen's exit puts Japan's physical-AI revival to the test The turmoil surrounding Jensen Huang's abrupt departure from Nvidia has quickly expanded beyond a corporate leadership scandal into a broader test of how deeply the AI industry had come to depend on one executive's influence. AI Read 4 CNA OpenAI scientist proposes industry AI limits tied to model intelligence metric OpenAI scientist proposes industry AI limits tied to model intelligence metric AI Read 5 NikkeiAsia Corporate Japan races to revive rare-earth supply chain amid China curbs Corporate Japan races to revive rare-earth supply chain amid China curbs Logistics Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 22, 2026</title><link href="https://asiatechfeed.com/2026/11/22/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 22, 2026" /><published>2026-11-22T08:00:55+00:00</published><updated>2026-11-22T08:00:55+00:00</updated><id>https://asiatechfeed.com/2026/11/22/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/22/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -651,113 +704,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261113VL224/nvidia-china-ai-chip-regulation-security.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia CapitalG leads $300m round for AI agent startup LangChain LangChain's LangSmith product counts Nvidia, Toyota, and Salesforce among its 7,000 customers. AI Read 2 TechAsia ByteDance plans up to $6b share buyback at $400b valuation ByteDance plans to offer AI division employees 300 million tracking shares tied to that unit. AI Read 3 TechAsia Samsung to produce DeepX’s next-generation AI chip Aimed at robots and AI PCs, the DX-M2 is designed to run generative AI models on about 5 watts. AISemiconductorAutomation Read 4 DigiTimes DIGITIMES Chairman urges Taiwan to become sovereign AI partner Digitimes Chairman and CEO Colley Hwang said Taiwan should leverage its strengths in chip manufacturing, advanced packaging, and ICT hardware production to pursue sovereign AI opportunities outside the US and China. Speaking at the 2026 Avnet Ecosystem Technology Forum on November 13, Hwang said AI and semiconductors w SemiconductorAI Read 5 DigiTimes Samsung weighs separating memory and mobile leadership Samsung Electronics may appoint separate heads of its memory and mobile businesses in an upcoming executive reshuffle, as record semiconductor profits contrast with losses in its consumer electronics division. SemiconductorElectronics Read 6 DigiTimes Chinese AI firms reportedly race for overseas compute, fear upcoming chip curbs amid Nvidia spy case Chinese AI companies reportedly are racing to sign overseas compute deals as they fear the political fallout of the Nvidia spy scandal could push US lawmakers to restrict their remote access to advanced chips. Congress could boost passage of such bills after mid-term elections revealed the US public's desire to rein in AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 13, 2026</title><link href="https://asiatechfeed.com/2026/11/13/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 13, 2026" /><published>2026-11-13T08:00:53+00:00</published><updated>2026-11-13T08:00:53+00:00</updated><id>https://asiatechfeed.com/2026/11/13/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/13/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Mouser’s Latest Series Examines Chiplets, Photonics and Emerging Technologies Beyond Moore’s Law</span></td>
-  <td class="col-summary">Latest technology series examines semiconductor scaling limits and alternative approaches to improving computing performance and efficiency. The post Mouser’s Latest Series Examines Chiplets, Photonics and Emerging Technologies Beyond Moore’s Law appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/mousers-latest-series-examines-chiplets-photonics-and-emerging-technologies-beyond-moores-law/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Huawei spin-off xFusion seeks US$1.2 billion IPO, capitalizing on China's AI server boom</span></td>
-  <td class="col-summary">China's expanding AI computing infrastructure is prompting server manufacturers to accelerate their capital-raising plans. xFusion Digital Technologies, spun off from Huawei's x86 server business, entered the Shenzhen Stock Exchange's ChiNext listing review process on 12 November, seeking to raise CNY8 billion (approx.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261113PD225/huawei-xfusion-ai-server-ipo-market-spin-off.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung reportedly wins more AI chip orders from US cloud firms</span></td>
-  <td class="col-summary">Samsung Electronics has reportedly secured new AI chip manufacturing orders from major US cloud service providers for a second consecutive quarter, with commercial shipments expected to begin in 2028 as tight capacity at TSMC creates opportunities for Samsung's foundry business.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261113VL229/samsung-ai-chip-manufacturing-2028-2nm.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">CXMT targets higher-value DRAM market with AI server memory, LPDDR6 breakthroughs</span></td>
-  <td class="col-summary">Chinese DRAM maker ChangXin Memory Technologies (CXMT) is expanding into higher-value memory markets, introducing DDR5 server modules, mass-produced LPDDR6 chips, and automotive DRAM at IC China 2026, which opened on November 12. The expansion, backed by manufacturing advances and higher research spending, signals CXMT</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261113VL228/dram-cxmt-market-ai-server-automotive.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Lattice, NXP Pair i.MX 95 Processors With Nexus FPGAs for Industrial Edge</span></td>
-  <td class="col-summary">The PCIe-based solution combines application processing, deterministic I/O and hardware security for industrial automation and robotics. The post Lattice, NXP Pair i.MX 95 Processors With Nexus FPGAs for Industrial Edge appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/lattice-nxp-pair-i-mx-95-processors-with-nexus-fpgas-for-industrial-edge/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Baidu AI Cloud, Chinese tech firm 1011 partner on physical AI</span></td>
-  <td class="col-summary">The companies will combine 1011’s simulation technology with Baidu AI Cloud’s computing infrastructure to develop a platform for simulation data production.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/alibaba-baidu-plan-to-raise-ai-cloud-prices-up-to-34" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Malaysia says probing Megaspeed subsidiary over possible AI chip diversion</span></td>
-  <td class="col-summary">SpeedMatrix, a Malaysian subsidiary of Singapore-based cloud computing firm Megaspeed, is a tenant at data centres in Malaysia.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/malaysia-probe-megaspeed-speedmatrix-ai-alice-huang-nvidia-6548491" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Mapping the AI startups making waves in Japan</span></td>
-  <td class="col-summary">Mapping Japan's AI sector: Key players, top investors, and funding insights in one report.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/visual-story/mapping-japans-leading-ai-startups" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Samsung Medical Center taps Australian AI firm Heidi for trial</span></td>
-  <td class="col-summary">If the trial succeeds, Samsung Medical Center will become a reference site for Heidi’s future use in South Korea.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/fixing-doctor-burnout-ai-harder-sea" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">TSMC seeks to back next chip titan with new investment arm</span></td>
-  <td class="col-summary">TSMC seeks to back next chip titan with new investment arm</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/editor-s-picks/interview/tsmc-seeks-to-back-next-chip-titan-with-new-investment-arm" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Vietnam pushes for homegrown chips in semiconductor drive</span></td>
-  <td class="col-summary">Vietnam pushes for homegrown chips in semiconductor drive</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/vietnam-pushes-for-homegrown-chips-in-semiconductor-drive" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">12</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Nvidia's Jensen problem set to become one for AI supply chain</span></td>
-  <td class="col-summary">Nvidia's Jensen problem set to become one for AI supply chain</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/nvidia-s-jensen-problem-set-to-become-one-for-ai-supply-chain" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 EETAsia Mouser’s Latest Series Examines Chiplets, Photonics and Emerging Technologies Beyond Moore’s Law Latest technology series examines semiconductor scaling limits and alternative approaches to improving computing performance and efficiency. The post Mouser’s Latest Series Examines Chiplets, Photonics and Emerging Technologies Beyond Moore’s Law appeared first on EE Times Asia . Semiconductor Read 2 DigiTimes Huawei spin-off xFusion seeks US$1.2 billion IPO, capitalizing on China's AI server boom China's expanding AI computing infrastructure is prompting server manufacturers to accelerate their capital-raising plans. xFusion Digital Technologies, spun off from Huawei's x86 server business, entered the Shenzhen Stock Exchange's ChiNext listing review process on 12 November, seeking to raise CNY8 billion (approx. AI Read 3 DigiTimes Samsung reportedly wins more AI chip orders from US cloud firms Samsung Electronics has reportedly secured new AI chip manufacturing orders from major US cloud service providers for a second consecutive quarter, with commercial shipments expected to begin in 2028 as tight capacity at TSMC creates opportunities for Samsung's foundry business. ElectronicsAISemiconductor Read 4 DigiTimes CXMT targets higher-value DRAM market with AI server memory, LPDDR6 breakthroughs Chinese DRAM maker ChangXin Memory Technologies (CXMT) is expanding into higher-value memory markets, introducing DDR5 server modules, mass-produced LPDDR6 chips, and automotive DRAM at IC China 2026, which opened on November 12. The expansion, backed by manufacturing advances and higher research spending, signals CXMT AISemiconductor Read 5 EETAsia Lattice, NXP Pair i.MX 95 Processors With Nexus FPGAs for Industrial Edge The PCIe-based solution combines application processing, deterministic I/O and hardware security for industrial automation and robotics. The post Lattice, NXP Pair i.MX 95 Processors With Nexus FPGAs for Industrial Edge appeared first on EE Times Asia . Automation Read 6 TechAsia Baidu AI Cloud, Chinese tech firm 1011 partner on physical AI The companies will combine 1011’s simulation technology with Baidu AI Cloud’s computing infrastructure to develop a platform for simulation data production. AI Read 7 CNA Malaysia says probing Megaspeed subsidiary over possible AI chip diversion SpeedMatrix, a Malaysian subsidiary of Singapore-based cloud computing firm Megaspeed, is a tenant at data centres in Malaysia. AISemiconductor Read 8 TechAsia Mapping the AI startups making waves in Japan Mapping Japan's AI sector: Key players, top investors, and funding insights in one report. AI Read 9 TechAsia Samsung Medical Center taps Australian AI firm Heidi for trial If the trial succeeds, Samsung Medical Center will become a reference site for Heidi’s future use in South Korea. AI Read 10 NikkeiAsia TSMC seeks to back next chip titan with new investment arm TSMC seeks to back next chip titan with new investment arm Semiconductor Read 11 NikkeiAsia Vietnam pushes for homegrown chips in semiconductor drive Vietnam pushes for homegrown chips in semiconductor drive Semiconductor Read 12 NikkeiAsia Nvidia's Jensen problem set to become one for AI supply chain Nvidia's Jensen problem set to become one for AI supply chain AILogistics Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia CapitalG leads $300m round for AI agent startup LangChain LangChain's LangSmith product counts Nvidia, Toyota, and Salesforce among its 7,000 customers. AI Read 2 TechAsia ByteDance plans up to $6b share buyback at $400b valuation ByteDance plans to offer AI division employees 300 million tracking shares tied to that unit. AI Read 3 TechAsia Samsung to produce DeepX’s next-generation AI chip Aimed at robots and AI PCs, the DX-M2 is designed to run generative AI models on about 5 watts. AISemiconductorAutomation Read 4 DigiTimes DIGITIMES Chairman urges Taiwan to become sovereign AI partner Digitimes Chairman and CEO Colley Hwang said Taiwan should leverage its strengths in chip manufacturing, advanced packaging, and ICT hardware production to pursue sovereign AI opportunities outside the US and China. Speaking at the 2026 Avnet Ecosystem Technology Forum on November 13, Hwang said AI and semiconductors w SemiconductorAI Read 5 DigiTimes Samsung weighs separating memory and mobile leadership Samsung Electronics may appoint separate heads of its memory and mobile businesses in an upcoming executive reshuffle, as record semiconductor profits contrast with losses in its consumer electronics division. SemiconductorElectronics Read 6 DigiTimes Chinese AI firms reportedly race for overseas compute, fear upcoming chip curbs amid Nvidia spy case Chinese AI companies reportedly are racing to sign overseas compute deals as they fear the political fallout of the Nvidia spy scandal could push US lawmakers to restrict their remote access to advanced chips. Congress could boost passage of such bills after mid-term elections revealed the US public's desire to rein in AISemiconductor Read]]></summary></entry></feed>
