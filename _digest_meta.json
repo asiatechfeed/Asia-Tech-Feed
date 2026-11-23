@@ -1,38 +1,31 @@
 {
   "date": "2026-11-23",
-  "count": 10,
+  "count": 4,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-23-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Pandas, whale sharks and robots: Family adventures at Chimelong Resort",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/advertorial/pandas-whale-sharks-and-robots-family-adventures-chimelong-resort-6542916"
-    },
-    {
-      "title": "XPeng's A868 tilt milestone pushes China's flying-car race into long-range aviation",
+      "title": "Commentary: Cursor's Kimi dilemma turns open-weight AI into next US-China dependency fight",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261123VL209/xpeng-evtol-aircraft-development-competition.html"
+      "url": "https://www.digitimes.com/news/a20261123VL204/ai-chip-exports-investigation-software-usa-china.html"
     },
     {
-      "title": "AI stock rout puts Taiwan's tech supply chain on alert, prompting government scrutiny of capital flows",
+      "title": "Apple enters silicon photonics race with optical packaging hires for custom chips",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261123PD224/taiwan-government-moea-stock-market-industrial-supply-chain.html"
+      "url": "https://www.digitimes.com/news/a20261123PD222/apple-photonics-silicon-packaging-chips.html"
     },
     {
-      "title": "Trump-Xi talks set human guardrails for military AI",
+      "title": "SK Hynix to gain voting rights in Kioxia under 15% cap",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261123PD223/military-donald-trump-xi-jinping-chips-shenzhen.html"
+      "url": "https://www.digitimes.com/news/a20261123VL207/sk-hynix-kioxia-investment-nand-flash.html"
     },
     {
-      "title": "Ant Group begins releasing open-weight medical AI models",
+      "title": "Tencent details Hy4 safety tests as AI misuse concerns grow",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/ant-group-upgrades-doctor-app-ai-hospital-tools"
+      "url": "https://www.techinasia.com/tencent-cloud-unveils-ai-tools-singapore-cloud-day"
     }
   ],
   "source_stats": [
@@ -51,7 +44,7 @@
       "fetched": 20,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -129,7 +122,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -150,7 +143,7 @@
       "fetched": 10,
       "relevant": 3,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -195,7 +188,7 @@
       "fetched": 36,
       "relevant": 13,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
