@@ -1,40 +1,37 @@
 {
   "date": "2026-11-24",
-  "count": 13,
+  "count": 7,
   "sources": [
     "CNA",
     "DigiTimes",
-    "EETAsia",
-    "EW",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-24-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Series SEA: Who\u2019s investing in the region\u2019s biotech startups?",
+      "title": "Singapore AI use hits 81%, but work clarity lags: report",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/top-sea-investors-biotech"
+      "url": "https://www.techinasia.com/whats-stopping-asias-chip-makers-nvidia"
     },
     {
-      "title": "ASML warns US MATCH Act could backfire, leaving China's fabs running beyond its control",
+      "title": "Analysis: Jensen Huang is back, but China's Nvidia GPU lifeline remains fragile",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261124PD226.html"
+      "url": "https://www.digitimes.com/news/a20261124VL213/nvidia-jensen-huang-gpu-ceo-market.html"
     },
     {
-      "title": "Amazon to acquire Decart optimization technology and bring team aboard",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261124PR200/amazon-ai-inference-acquisition-optimization.html"
-    },
-    {
-      "title": "Malaysia\u2019s Anwar says easier to deal with China than US amid tech tensions",
+      "title": "TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-easier-deal-china-us-tech-6577391"
+      "url": "https://www.channelnewsasia.com/business/tsmc-unit-seeks-texas-property-tax-limit-proposed-226-billion-chip-making-facility-6577671"
     },
     {
-      "title": "Analysis: Samsung, SK Hynix look beyond Nvidia as Huang returns",
+      "title": "Z.ai unveils GLM-5.4, debuting loop transformer architecture, general coding paradigm",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261124VL217/nvidia-samsung-jensen-huang-sk-hynix-ceo.html"
+      "url": "https://www.digitimes.com/news/a20261124VL224/z.ai-flagship-infrastructure.html"
+    },
+    {
+      "title": "US blacklists Megaspeed amid Nvidia chip smuggling probe; Alibaba disputes affiliate listing",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261124VL222/nvidia-alibaba-probe-entity-list-blacklist.html"
     }
   ],
   "source_stats": [
@@ -51,7 +48,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
       "published": 1,
       "error": null
@@ -134,7 +131,7 @@
       "fetched": 10,
       "relevant": 1,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -152,14 +149,14 @@
       "fetched": 10,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 48,
-      "relevant": 34,
+      "fetched": 55,
+      "relevant": 39,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -170,7 +167,7 @@
       "fetched": 50,
       "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {

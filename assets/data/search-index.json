@@ -1,148 +1,81 @@
 [
   {
     "date": "2026-11-24",
-    "title": "Series SEA: Who’s investing in the region’s biotech startups?",
-    "summary": "We've compiled a list of investors that are pouring money into Southeast Asia’s biotech startups.",
+    "title": "Singapore AI use hits 81%, but work clarity lags: report",
+    "summary": "In Singapore, 12% use AI for at least half of their daily tasks.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "Biotechnology"
+      "AI"
     ],
-    "url": "https://www.techinasia.com/top-sea-investors-biotech"
+    "url": "https://www.techinasia.com/whats-stopping-asias-chip-makers-nvidia"
   },
   {
     "date": "2026-11-24",
-    "title": "ASML warns US MATCH Act could backfire, leaving China's fabs running beyond its control",
-    "summary": "US Congress is accelerating efforts to advance the Multilateral Alignment of Technology Controls on Hardware Act (MATCH Act) following a series of dramatic developments surrounding Nvidia CEO Jensen Huang. The proposed legislation, which could restrict exports to China by US and third-country suppliers, has drawn oppos",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261124PD226.html"
-  },
-  {
-    "date": "2026-11-24",
-    "title": "Amazon to acquire Decart optimization technology and bring team aboard",
-    "summary": "Amazon's purchase of Decart's technology and recruitment of its founders and research team could strengthen the company's efforts to improve AI inference speed and computing efficiency worldwide. The transaction would connect Decart's full-stack optimization expertise with Amazon's custom silicon portfolio, although co",
+    "title": "Analysis: Jensen Huang is back, but China's Nvidia GPU lifeline remains fragile",
+    "summary": "Jensen Huang's reinstatement as Nvidia CEO on November 23 has restored confidence in the global AI computing market, but Chinese cloud providers face a more fundamental challenge: securing sufficient computing capacity under increasingly restrictive US export controls.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI"
     ],
-    "url": "https://www.digitimes.com/news/a20261124PR200/amazon-ai-inference-acquisition-optimization.html"
+    "url": "https://www.digitimes.com/news/a20261124VL213/nvidia-jensen-huang-gpu-ceo-market.html"
   },
   {
     "date": "2026-11-24",
-    "title": "Malaysia’s Anwar says easier to deal with China than US amid tech tensions",
-    "summary": "In an interview, Malaysian Prime Minister Anwar Ibrahim reveals how he navigates superpower rivalry, Trump’s pro-China complaint and AI chip curbs on Malaysia.",
+    "title": "TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility",
+    "summary": "TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility",
     "source": "Channel NewsAsia",
     "short": "CNA",
     "tags": [
-      "AI",
       "Semiconductor"
     ],
-    "url": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-easier-deal-china-us-tech-6577391"
+    "url": "https://www.channelnewsasia.com/business/tsmc-unit-seeks-texas-property-tax-limit-proposed-226-billion-chip-making-facility-6577671"
   },
   {
     "date": "2026-11-24",
-    "title": "Analysis: Samsung, SK Hynix look beyond Nvidia as Huang returns",
-    "summary": "Jensen Huang's return as Nvidia CEO has eased concerns among South Korean memory chipmakers over high-bandwidth memory (HBM) supply agreements and next-generation chip development, but growing demand for AI processors from Google, Amazon, and other technology companies continues to reshape the memory market.",
+    "title": "Z.ai unveils GLM-5.4, debuting loop transformer architecture, general coding paradigm",
+    "summary": "Chinese artificial intelligence firm Z.ai officially released its next-generation flagship model, GLM-5.4, marking the company's first flagship model built on a loop transformer architecture and the starting point of its push toward a general coding paradigm.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261124VL224/z.ai-flagship-infrastructure.html"
+  },
+  {
+    "date": "2026-11-24",
+    "title": "US blacklists Megaspeed amid Nvidia chip smuggling probe; Alibaba disputes affiliate listing",
+    "summary": "The US Department of Commerce added Singapore-based cloud firm Megaspeed and six of its Southeast Asian affiliates to its trade blacklist on Monday, escalating a federal crackdown on alleged artificial intelligence chip smuggling to China amid intense scrutiny from lawmakers and administration officials.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI",
       "Semiconductor"
     ],
-    "url": "https://www.digitimes.com/news/a20261124VL217/nvidia-samsung-jensen-huang-sk-hynix-ceo.html"
+    "url": "https://www.digitimes.com/news/a20261124VL222/nvidia-alibaba-probe-entity-list-blacklist.html"
   },
   {
     "date": "2026-11-24",
-    "title": "Cognition, Japan’s DeNA to bring AI coder Devin to startups",
-    "summary": "The program is open to Japan-based startups founded within the past five years.",
+    "title": "Meta to pause $60b AI stock sale over shareholder lawsuit",
+    "summary": "The plan would create non-voting Class C stock through a two-for-one split.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/us-ai-startup-cognition-enters-japan-for-asia-debut"
+    "url": "https://www.techinasia.com/meta-plans-95b-stock-sale-fund-ai-infrastructure"
   },
   {
     "date": "2026-11-24",
-    "title": "Cisco, OpenAI launch open-source AI tool to block cyberattacks",
-    "summary": "It uses AI agents and eBPF to help protect Linux systems from cyberattacks while security teams work on permanent patches.",
+    "title": "Huang’s back, but neoclouds want options",
+    "summary": "Nvidia reinstates its founder-CEO, but Asia's neoclouds will likely keep shopping around. Plus, how AI firms from before genAI are holding up.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/cisco-buys-israeli-security-startup-astrix-400m"
-  },
-  {
-    "date": "2026-11-24",
-    "title": "Flexcompute Integrates Siemens Calibre Verification into Photonic Chip Design Platform",
-    "summary": "PhotonForge 2.0 enables foundry-rule DRC and LVS checks during photonic chip development, supporting earlier verification and tapeout. The post Flexcompute Integrates Siemens Calibre Verification into Photonic Chip Design Platform appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.eetasia.com/flexcompute-integrates-siemens-calibre-verification-into-photonic-chip-design-platform/"
-  },
-  {
-    "date": "2026-11-24",
-    "title": "DigiKey Sponsors India IoT and AI Inference Design Contest",
-    "summary": "The competition offers development boards to 60 selected entrants and cash prizes totaling INR700,000, with submissions due December 30. The post DigiKey Sponsors India IoT and AI Inference Design Contest appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.eetasia.com/digikey-sponsors-india-iot-and-ai-inference-design-contest/"
-  },
-  {
-    "date": "2026-11-24",
-    "title": "The Real Architecture Behind Chiplets",
-    "summary": "Chiplet adoption is shifting toward system-first architectures, with partitioning driven by performance, yield, cost and scalability. The post The Real Architecture Behind Chiplets appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.eetasia.com/the-real-architecture-behind-chiplets/"
-  },
-  {
-    "date": "2026-11-24",
-    "title": "Electronic Character Recognition Acclerates Data Processing",
-    "summary": "SPEEDS and capacities of digital computers have increased so rapidly that there is a constant demand for new and faster methods of feed-ing-in and extracting information from them. Do, 65 […] The post Electronic Character Recognition Acclerates Data Processing appeared first on Electronics Weekly .",
-    "source": "Electronics Weekly",
-    "short": "EW",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/electronic-character-recognition-acclerates-data-processing-2026-11/"
-  },
-  {
-    "date": "2026-11-24",
-    "title": "Anthropic IPO raises the bar for Asia's AI labs",
-    "summary": "Anthropic IPO raises the bar for Asia's AI labs",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/anthropic-ipo-raises-the-bar-for-asia-s-ai-labs"
-  },
-  {
-    "date": "2026-11-24",
-    "title": "Nikkei Asia Forum 'The Global Chip Game: Our predictions for 2027'",
-    "summary": "Nikkei Asia Forum 'The Global Chip Game: Our predictions for 2027'",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://asia.nikkei.com/business/technology/nikkei-asia-forum-the-global-chip-game-our-predictions-for-2027"
+    "url": "https://www.techinasia.com/huangs-back-but-neoclouds-want-options"
   },
   {
     "date": "2026-11-23",
