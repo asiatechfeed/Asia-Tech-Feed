@@ -1,4 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-23T08:01:23+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 23, 2026</title><link href="https://asiatechfeed.com/2026/11/23/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 23, 2026" /><published>2026-11-23T08:00:52+00:00</published><updated>2026-11-23T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/11/23/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/23/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-24T00:03:11+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 24, 2026</title><link href="https://asiatechfeed.com/2026/11/24/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 24, 2026" /><published>2026-11-24T00:02:32+00:00</published><updated>2026-11-24T00:02:32+00:00</updated><id>https://asiatechfeed.com/2026/11/24/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/24/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: This is the problem with the circular AI economy</span></td>
+  <td class="col-summary">What will happen if the Jenga tower of Nvidia’s vendor financing collapses? Rana Foroohar from the Financial Times gives her take.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/circular-financing-ai-economy-nvidia-fallout-6574436" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">US blacklists Megaspeed chip firm linked to Nvidia scandal</span></td>
+  <td class="col-summary">Megaspeed, whose controlling shareholder Alice Huang is reportedly alleged to be a spy for Beijing, is closely tied to an espionage investigation involving Nvidia.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/world/us-blacklists-megaspeed-chip-firm-linked-nvidia-scandal-6576001" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">TSMC says advanced semiconductor capacity remains in short supply amid booming AI demand</span></td>
+  <td class="col-summary">Amid growing market concerns over artificial intelligence (AI), Taiwan's premier of the Executive Yuan Jung-tai Cho invited representatives from the financial and industrial sectors to a meeting on November 23 to bolster confidence in Taiwan's economic development. Cliff Hou, chairman of the Taiwan Semiconductor Indust</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261123PD239/market-taiwan-demand-tsmc-capacity.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Chinese LED giant San'an loses its GM to embezzlement probe</span></td>
+  <td class="col-summary">Lin Kechuang, vice chairman and general manager of China's LED leader San'an Optoelectronics, has resigned from all his posts at the company and its subsidiaries, citing personal health reasons. The move comes days after provincial lawmakers approved criminal measures against him.</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261123PD237/chairman-chongqing.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Chip prices set to rise through 2027, driving semiconductor growth</span></td>
+  <td class="col-summary">Chip prices are set to continue rising through 2027, with foundries confirmed to be raising prices and OSAT providers expected to follow, according to recent observations from IC design firms. As a result, chip designers are preparing to pass higher costs on to customers across most chip categories, except for a few co</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261123PD231/2027-growth-demand-revenue-chips.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">US data center firm Vertiv tests Nvidia AI infrastructure</span></td>
+  <td class="col-summary">Vertiv said the lab is part of its engineering collaboration with Nvidia.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/zte-launches-ai-data-center-module-250kw" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Germany’s BIT Capital takes AI funds to Hong Kong, Singapore</span></td>
+  <td class="col-summary">The firm said it was working with financial intermediaries in both markets, with regional distribution handled through licensed partners.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/granite-asias-jixun-foo-on-where-asias-ai-edge-is-forming" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Singapore GDP grows 6.1% in Q3 as AI demand stays strong</span></td>
+  <td class="col-summary">Singapore GDP grows 6.1% in Q3 as AI demand stays strong</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/economy/singapore-gdp-grows-6.1-in-q3-as-ai-demand-stays-strong" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japanese state-backed lender to invest in late-stage drug trials</span></td>
+  <td class="col-summary">Japanese state-backed lender to invest in late-stage drug trials</td>
+  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/pharmaceuticals/japanese-state-backed-lender-to-invest-in-late-stage-drug-trials" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan's Sumitomo creates fund to bring AI to smaller businesses</span></td>
+  <td class="col-summary">Japan's Sumitomo creates fund to bring AI to smaller businesses</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/finance/japan-s-sumitomo-creates-fund-to-bring-ai-to-smaller-businesses" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Commentary: This is the problem with the circular AI economy What will happen if the Jenga tower of Nvidia’s vendor financing collapses? Rana Foroohar from the Financial Times gives her take. AI Read 2 CNA US blacklists Megaspeed chip firm linked to Nvidia scandal Megaspeed, whose controlling shareholder Alice Huang is reportedly alleged to be a spy for Beijing, is closely tied to an espionage investigation involving Nvidia. Semiconductor Read 3 DigiTimes TSMC says advanced semiconductor capacity remains in short supply amid booming AI demand Amid growing market concerns over artificial intelligence (AI), Taiwan's premier of the Executive Yuan Jung-tai Cho invited representatives from the financial and industrial sectors to a meeting on November 23 to bolster confidence in Taiwan's economic development. Cliff Hou, chairman of the Taiwan Semiconductor Indust SemiconductorAI Read 4 DigiTimes Chinese LED giant San'an loses its GM to embezzlement probe Lin Kechuang, vice chairman and general manager of China's LED leader San'an Optoelectronics, has resigned from all his posts at the company and its subsidiaries, citing personal health reasons. The move comes days after provincial lawmakers approved criminal measures against him. Electronics Read 5 DigiTimes Chip prices set to rise through 2027, driving semiconductor growth Chip prices are set to continue rising through 2027, with foundries confirmed to be raising prices and OSAT providers expected to follow, according to recent observations from IC design firms. As a result, chip designers are preparing to pass higher costs on to customers across most chip categories, except for a few co Semiconductor Read 6 TechAsia US data center firm Vertiv tests Nvidia AI infrastructure Vertiv said the lab is part of its engineering collaboration with Nvidia. AI Read 7 TechAsia Germany’s BIT Capital takes AI funds to Hong Kong, Singapore The firm said it was working with financial intermediaries in both markets, with regional distribution handled through licensed partners. AI Read 8 NikkeiAsia Singapore GDP grows 6.1% in Q3 as AI demand stays strong Singapore GDP grows 6.1% in Q3 as AI demand stays strong AI Read 9 NikkeiAsia Japanese state-backed lender to invest in late-stage drug trials Japanese state-backed lender to invest in late-stage drug trials Pharmaceutical Read 10 NikkeiAsia Japan's Sumitomo creates fund to bring AI to smaller businesses Japan's Sumitomo creates fund to bring AI to smaller businesses AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 23, 2026</title><link href="https://asiatechfeed.com/2026/11/23/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 23, 2026" /><published>2026-11-23T08:00:52+00:00</published><updated>2026-11-23T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/11/23/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/23/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -635,65 +728,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261112PD220/demand-pc-shipments-market-revenue.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Lite-On targets LEO satellites and enterprise AI servers for edge computing growth As AI computing moves from the cloud to edge devices, Lite-On Technology has reorganized its IT business segments, launching its Edge Computing and Energy Solutions (ECES) division in the third quarter. Through this restructuring, the company is targeting opportunities in low-Earth-orbit (LEO) satellites, on-premises e AI Read 2 DigiTimes Lite-On sees AI server orders through 2028 as 800V DC reshapes power market Lite-On expects AI-related revenue to account for 40%–50% of total revenue by 2027, driven by strong growth in high-end AI power systems. As US cloud customers continue expanding AI infrastructure, the company's order visibility extends through 2028, while 800VDC specifications are undergoing major revisions that will AI Read 3 DigiTimes Neousys Technology posts record quarter as defense, AGV/AMR demand accelerates Industrial PC maker Neousys Technology posted record operating performance in 3Q26, driven by project customer shipments and peak shipments to the North American market. The company expects growth from defense, edge AI, and applications involving automated guided vehicles (AGVs) and autonomous mobile robots (AMRs), whi Automation Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 14, 2026</title><link href="https://asiatechfeed.com/2026/11/14/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 14, 2026" /><published>2026-11-14T08:00:49+00:00</published><updated>2026-11-14T08:00:49+00:00</updated><id>https://asiatechfeed.com/2026/11/14/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/14/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">CapitalG leads $300m round for AI agent startup LangChain</span></td>
-  <td class="col-summary">LangChain's LangSmith product counts Nvidia, Toyota, and Salesforce among its 7,000 customers.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/musks-openai-lawsuit-heads-to-jury-trial-in-march-us-judge-says" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">ByteDance plans up to $6b share buyback at $400b valuation</span></td>
-  <td class="col-summary">ByteDance plans to offer AI division employees 300 million tracking shares tied to that unit.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/bytedance-founder-zhang-yiming-asias-richest" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Samsung to produce DeepX’s next-generation AI chip</span></td>
-  <td class="col-summary">Aimed at robots and AI PCs, the DX-M2 is designed to run generative AI models on about 5 watts.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/hyundai-motor-unveils-on-device-ai-chip-for-robots" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">DIGITIMES Chairman urges Taiwan to become sovereign AI partner</span></td>
-  <td class="col-summary">Digitimes Chairman and CEO Colley Hwang said Taiwan should leverage its strengths in chip manufacturing, advanced packaging, and ICT hardware production to pursue sovereign AI opportunities outside the US and China. Speaking at the 2026 Avnet Ecosystem Technology Forum on November 13, Hwang said AI and semiconductors w</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261113PD248/digitimes-colley-hwang-ai-manufacturing-taiwan-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung weighs separating memory and mobile leadership</span></td>
-  <td class="col-summary">Samsung Electronics may appoint separate heads of its memory and mobile businesses in an upcoming executive reshuffle, as record semiconductor profits contrast with losses in its consumer electronics division.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261113VL233/samsung-mobile-development-revenue-business.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Chinese AI firms reportedly race for overseas compute, fear upcoming chip curbs amid Nvidia spy case</span></td>
-  <td class="col-summary">Chinese AI companies reportedly are racing to sign overseas compute deals as they fear the political fallout of the Nvidia spy scandal could push US lawmakers to restrict their remote access to advanced chips. Congress could boost passage of such bills after mid-term elections revealed the US public's desire to rein in</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261113VL224/nvidia-china-ai-chip-regulation-security.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia CapitalG leads $300m round for AI agent startup LangChain LangChain's LangSmith product counts Nvidia, Toyota, and Salesforce among its 7,000 customers. AI Read 2 TechAsia ByteDance plans up to $6b share buyback at $400b valuation ByteDance plans to offer AI division employees 300 million tracking shares tied to that unit. AI Read 3 TechAsia Samsung to produce DeepX’s next-generation AI chip Aimed at robots and AI PCs, the DX-M2 is designed to run generative AI models on about 5 watts. AISemiconductorAutomation Read 4 DigiTimes DIGITIMES Chairman urges Taiwan to become sovereign AI partner Digitimes Chairman and CEO Colley Hwang said Taiwan should leverage its strengths in chip manufacturing, advanced packaging, and ICT hardware production to pursue sovereign AI opportunities outside the US and China. Speaking at the 2026 Avnet Ecosystem Technology Forum on November 13, Hwang said AI and semiconductors w SemiconductorAI Read 5 DigiTimes Samsung weighs separating memory and mobile leadership Samsung Electronics may appoint separate heads of its memory and mobile businesses in an upcoming executive reshuffle, as record semiconductor profits contrast with losses in its consumer electronics division. SemiconductorElectronics Read 6 DigiTimes Chinese AI firms reportedly race for overseas compute, fear upcoming chip curbs amid Nvidia spy case Chinese AI companies reportedly are racing to sign overseas compute deals as they fear the political fallout of the Nvidia spy scandal could push US lawmakers to restrict their remote access to advanced chips. Congress could boost passage of such bills after mid-term elections revealed the US public's desire to rein in AISemiconductor Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes Lite-On targets LEO satellites and enterprise AI servers for edge computing growth As AI computing moves from the cloud to edge devices, Lite-On Technology has reorganized its IT business segments, launching its Edge Computing and Energy Solutions (ECES) division in the third quarter. Through this restructuring, the company is targeting opportunities in low-Earth-orbit (LEO) satellites, on-premises e AI Read 2 DigiTimes Lite-On sees AI server orders through 2028 as 800V DC reshapes power market Lite-On expects AI-related revenue to account for 40%–50% of total revenue by 2027, driven by strong growth in high-end AI power systems. As US cloud customers continue expanding AI infrastructure, the company's order visibility extends through 2028, while 800VDC specifications are undergoing major revisions that will AI Read 3 DigiTimes Neousys Technology posts record quarter as defense, AGV/AMR demand accelerates Industrial PC maker Neousys Technology posted record operating performance in 3Q26, driven by project customer shipments and peak shipments to the North American market. The company expects growth from defense, edge AI, and applications involving automated guided vehicles (AGVs) and autonomous mobile robots (AMRs), whi Automation Read]]></summary></entry></feed>
