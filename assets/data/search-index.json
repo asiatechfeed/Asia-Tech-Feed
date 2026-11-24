@@ -1,5 +1,116 @@
 [
   {
+    "date": "2026-11-24",
+    "title": "Commentary: This is the problem with the circular AI economy",
+    "summary": "What will happen if the Jenga tower of Nvidia’s vendor financing collapses? Rana Foroohar from the Financial Times gives her take.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/circular-financing-ai-economy-nvidia-fallout-6574436"
+  },
+  {
+    "date": "2026-11-24",
+    "title": "US blacklists Megaspeed chip firm linked to Nvidia scandal",
+    "summary": "Megaspeed, whose controlling shareholder Alice Huang is reportedly alleged to be a spy for Beijing, is closely tied to an espionage investigation involving Nvidia.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.channelnewsasia.com/world/us-blacklists-megaspeed-chip-firm-linked-nvidia-scandal-6576001"
+  },
+  {
+    "date": "2026-11-24",
+    "title": "TSMC says advanced semiconductor capacity remains in short supply amid booming AI demand",
+    "summary": "Amid growing market concerns over artificial intelligence (AI), Taiwan's premier of the Executive Yuan Jung-tai Cho invited representatives from the financial and industrial sectors to a meeting on November 23 to bolster confidence in Taiwan's economic development. Cliff Hou, chairman of the Taiwan Semiconductor Indust",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261123PD239/market-taiwan-demand-tsmc-capacity.html"
+  },
+  {
+    "date": "2026-11-24",
+    "title": "Chinese LED giant San'an loses its GM to embezzlement probe",
+    "summary": "Lin Kechuang, vice chairman and general manager of China's LED leader San'an Optoelectronics, has resigned from all his posts at the company and its subsidiaries, citing personal health reasons. The move comes days after provincial lawmakers approved criminal measures against him.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261123PD237/chairman-chongqing.html"
+  },
+  {
+    "date": "2026-11-24",
+    "title": "Chip prices set to rise through 2027, driving semiconductor growth",
+    "summary": "Chip prices are set to continue rising through 2027, with foundries confirmed to be raising prices and OSAT providers expected to follow, according to recent observations from IC design firms. As a result, chip designers are preparing to pass higher costs on to customers across most chip categories, except for a few co",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261123PD231/2027-growth-demand-revenue-chips.html"
+  },
+  {
+    "date": "2026-11-24",
+    "title": "US data center firm Vertiv tests Nvidia AI infrastructure",
+    "summary": "Vertiv said the lab is part of its engineering collaboration with Nvidia.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/zte-launches-ai-data-center-module-250kw"
+  },
+  {
+    "date": "2026-11-24",
+    "title": "Germany’s BIT Capital takes AI funds to Hong Kong, Singapore",
+    "summary": "The firm said it was working with financial intermediaries in both markets, with regional distribution handled through licensed partners.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/granite-asias-jixun-foo-on-where-asias-ai-edge-is-forming"
+  },
+  {
+    "date": "2026-11-24",
+    "title": "Singapore GDP grows 6.1% in Q3 as AI demand stays strong",
+    "summary": "Singapore GDP grows 6.1% in Q3 as AI demand stays strong",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/economy/singapore-gdp-grows-6.1-in-q3-as-ai-demand-stays-strong"
+  },
+  {
+    "date": "2026-11-24",
+    "title": "Japanese state-backed lender to invest in late-stage drug trials",
+    "summary": "Japanese state-backed lender to invest in late-stage drug trials",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Pharmaceutical"
+    ],
+    "url": "https://asia.nikkei.com/business/pharmaceuticals/japanese-state-backed-lender-to-invest-in-late-stage-drug-trials"
+  },
+  {
+    "date": "2026-11-24",
+    "title": "Japan's Sumitomo creates fund to bring AI to smaller businesses",
+    "summary": "Japan's Sumitomo creates fund to bring AI to smaller businesses",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/finance/japan-s-sumitomo-creates-fund-to-bring-ai-to-smaller-businesses"
+  },
+  {
     "date": "2026-11-23",
     "title": "Commentary: Cursor's Kimi dilemma turns open-weight AI into next US-China dependency fight",
     "summary": "As the US government continues to tighten controls on advanced AI chip exports amid growing concerns over Chinese technological gains, regulatory scrutiny is beginning to move further up the AI value chain toward the software layer where open-weight model development sits.",

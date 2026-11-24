@@ -1,31 +1,38 @@
 {
-  "date": "2026-11-23",
-  "count": 4,
+  "date": "2026-11-24",
+  "count": 10,
   "sources": [
+    "CNA",
     "DigiTimes",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-11-23-asia-tech-news-digest.md",
+  "post_file": "2026-11-24-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Commentary: Cursor's Kimi dilemma turns open-weight AI into next US-China dependency fight",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261123VL204/ai-chip-exports-investigation-software-usa-china.html"
+      "title": "Commentary: This is the problem with the circular AI economy",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/commentary/circular-financing-ai-economy-nvidia-fallout-6574436"
     },
     {
-      "title": "Apple enters silicon photonics race with optical packaging hires for custom chips",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261123PD222/apple-photonics-silicon-packaging-chips.html"
+      "title": "US blacklists Megaspeed chip firm linked to Nvidia scandal",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/us-blacklists-megaspeed-chip-firm-linked-nvidia-scandal-6576001"
     },
     {
-      "title": "SK Hynix to gain voting rights in Kioxia under 15% cap",
+      "title": "TSMC says advanced semiconductor capacity remains in short supply amid booming AI demand",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261123VL207/sk-hynix-kioxia-investment-nand-flash.html"
+      "url": "https://www.digitimes.com/news/a20261123PD239/market-taiwan-demand-tsmc-capacity.html"
     },
     {
-      "title": "Tencent details Hy4 safety tests as AI misuse concerns grow",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/tencent-cloud-unveils-ai-tools-singapore-cloud-day"
+      "title": "Chinese LED giant San'an loses its GM to embezzlement probe",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261123PD237/chairman-chongqing.html"
+    },
+    {
+      "title": "Chip prices set to rise through 2027, driving semiconductor growth",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261123PD231/2027-growth-demand-revenue-chips.html"
     }
   ],
   "source_stats": [
@@ -42,9 +49,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -149,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 53,
-      "relevant": 42,
+      "fetched": 64,
+      "relevant": 49,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -159,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 5,
+      "relevant": 7,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
@@ -186,9 +193,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 13,
+      "relevant": 14,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -204,7 +211,7 @@
       "source": "SemiEng",
       "name": "Semiconductor Engineering",
       "fetched": 10,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
