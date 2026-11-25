@@ -1,37 +1,38 @@
 {
-  "date": "2026-11-24",
-  "count": 7,
+  "date": "2026-11-25",
+  "count": 11,
   "sources": [
     "CNA",
     "DigiTimes",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-11-24-asia-tech-news-digest.md",
+  "post_file": "2026-11-25-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Singapore AI use hits 81%, but work clarity lags: report",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/whats-stopping-asias-chip-makers-nvidia"
-    },
-    {
-      "title": "Analysis: Jensen Huang is back, but China's Nvidia GPU lifeline remains fragile",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261124VL213/nvidia-jensen-huang-gpu-ceo-market.html"
-    },
-    {
-      "title": "TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility",
+      "title": "Nvidia, Anthropic end sharply lower as AI selloff resumes",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/tsmc-unit-seeks-texas-property-tax-limit-proposed-226-billion-chip-making-facility-6577671"
+      "url": "https://www.channelnewsasia.com/world/stocks-wall-street-nvidia-anthropic-ai-6579601"
     },
     {
-      "title": "Z.ai unveils GLM-5.4, debuting loop transformer architecture, general coding paradigm",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261124VL224/z.ai-flagship-infrastructure.html"
+      "title": "Dell lifts annual forecasts after record quarter on surging AI server demand",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-6579556"
     },
     {
-      "title": "US blacklists Megaspeed amid Nvidia chip smuggling probe; Alibaba disputes affiliate listing",
+      "title": "Mapping the trailblazing startups in Australia\u2019s AI sector",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/visual-story/mapping-trailblazing-startups-australias-ai-sector"
+    },
+    {
+      "title": "Analysis: Jensen\u2019s homecoming puts Nvidia under a sharper spotlight",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261124VL222/nvidia-alibaba-probe-entity-list-blacklist.html"
+      "url": "https://www.digitimes.com/news/a20261124VL225/jensen-huang-nvidia-chips-security-ceo.html"
+    },
+    {
+      "title": "TSMC eyes US$22.6 billion Texas campus for 2nm chips",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261124VL226/tsmc-texas-arizona-investment-manufacturing.html"
     }
   ],
   "source_stats": [
@@ -50,7 +51,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -155,8 +156,8 @@
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 55,
-      "relevant": 39,
+      "fetched": 63,
+      "relevant": 43,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -165,9 +166,9 @@
       "source": "NikkeiAsia",
       "name": "Nikkei Asia",
       "fetched": 50,
-      "relevant": 7,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
