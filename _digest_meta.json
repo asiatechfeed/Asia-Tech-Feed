@@ -1,37 +1,36 @@
 {
   "date": "2026-11-25",
-  "count": 9,
+  "count": 6,
   "sources": [
     "DigiTimes",
-    "EETAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-25-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Singapore\u2019s RWS launches AI lab to test resort automation",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability"
-    },
-    {
-      "title": "KakaoBank taps Mistral to build custom banking AI models",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/south-korean-banks-boost-ai-for-loans-money-transfers"
-    },
-    {
-      "title": "Canon unveils first new ArF dry scanner in 24 years",
+      "title": "Three Japanese auto suppliers target joint procurement in 2027",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261125VL218/canon-arf-scanner-equipment-manufacturing.html"
+      "url": "https://www.digitimes.com/news/a20261125PD222/2027-materials-business-semiconductors-automotive.html"
     },
     {
-      "title": "Taipower to pour NT$109.6 billion into grid for TSMC-led chip boom in southern Taiwan",
+      "title": "Analysis: Nvidia leadership settled, but US export rules still cloud outlook for Taiwan server makers",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261125PD217/taiwan-power-company-taiwan-expansion-infrastructure-transmission.html"
+      "url": "https://www.digitimes.com/news/a20261125PD214/jensen-huang-nvidia-taiwan-ceo-chips.html"
     },
     {
-      "title": "Xiaomi Q3 revenue hits $16.1b despite memory cost surge",
+      "title": "EU hybrid car quotas echo US curbs on AI computing via third countries",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261125PD207/eu-automakers-uk-nvidia-jensen-huang.html"
+    },
+    {
+      "title": "OpenClaw launches ShellBench to test real-world AI agents",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/xiaomi-profit-sinks-57-q1-higher-memory-costs"
+      "url": "https://www.techinasia.com/openclaw-ai-banned-financial-institutions-security-worries"
+    },
+    {
+      "title": "Securing enterprise data in the age of shadow AI",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/securing-enterprise-data-age-shadow-ai"
     }
   ],
   "source_stats": [
@@ -128,7 +127,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -149,14 +148,14 @@
       "fetched": 10,
       "relevant": 6,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 55,
-      "relevant": 39,
+      "fetched": 62,
+      "relevant": 44,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
