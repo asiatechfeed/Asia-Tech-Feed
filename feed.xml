@@ -1,4 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-25T08:05:29+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 25, 2026</title><link href="https://asiatechfeed.com/2026/11/25/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 25, 2026" /><published>2026-11-25T08:04:49+00:00</published><updated>2026-11-25T08:04:49+00:00</updated><id>https://asiatechfeed.com/2026/11/25/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/25/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-26T00:03:23+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 26, 2026</title><link href="https://asiatechfeed.com/2026/11/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 26, 2026" /><published>2026-11-26T00:02:42+00:00</published><updated>2026-11-26T00:02:42+00:00</updated><id>https://asiatechfeed.com/2026/11/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Commentary: From solving to ‘digesting’: How mathematicians can adapt to the dramatic changes of AI</span></td>
+  <td class="col-summary">If AI can generate papers that would take a human mathematician years to research and write, does that mean mathematics is dead? A professor gives his take.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/claude-ai-solves-mathematics-riemann-hypothesis-6581176" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Pentagon reportedly in talks with Ford, GM to produce drones and military hardware</span></td>
+  <td class="col-summary">The Pentagon is reportedly holding talks with Ford, General Motors, and other automotive manufacturers on producing military hardware, including drones and missiles. Discussions to branch into the defense sector reflect heightened competition in the global automotive market, along with the US government's push to expan</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261125VL229/ford-general-motors-drones-military-hardware-production.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Texas comptroller backs US$354 million tax break for TSMC</span></td>
+  <td class="col-summary">The Texas Comptroller of Public Accounts has recommended a property tax break worth an estimated US$354 million for TSMC's proposed US$22.6 billion semiconductor manufacturing campus in Brazos County, as the chipmaker weighs Texas against Arizona for its next major US expansion.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261125VL228/tsmc-texas-investment-tax-incentive-arizona.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Tesla's AI4.5 downgrade exposes the memory bottleneck behind physical AI</span></td>
+  <td class="col-summary">The ramifications of the prolonged memory squeeze are reverberating further across supply chains serving applications at the edge, as Elon Musk's ambitions in physical AI increasingly collide with the constraints imposed by the global memory shortage.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261125VL221/tesla-hardware-automotive-silicon-cost.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Dell Q3 beats estimates on strong AI server demand</span></td>
+  <td class="col-summary">Dell's PC business missed forecasts, posting US$12.89 billion in revenue for the quarter.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/dell-sees-ai-server-boom-driving-50b-2027-sales" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">DBS blends human advice with AI to promote financial literacy</span></td>
+  <td class="col-summary">Through digiWealth, DBS pairs carefully designed AI with dedicated wealth planning managers to support customers of all income levels and life stages.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/dbs-blends-human-advice-ai-promote-financial-literacy" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia’s rally is about Huang, not AI</span></td>
+  <td class="col-summary">Jensen Huang’s return is only going to prolong the inevitable shift in AI investments. And we have a hot take on Sarvam AI and more clarity of agentic AI.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidias-rally-is-about-huang-not-ai" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia turmoil casts pall over high-flying global AI chip industry</span></td>
+  <td class="col-summary">Nvidia turmoil casts pall over high-flying global AI chip industry</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/nvidia-turmoil-casts-pall-over-high-flying-global-ai-chip-industry" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan's Preferred Networks sows seeds of physical AI with robots, software and chips</span></td>
+  <td class="col-summary">Japan's Preferred Networks sows seeds of physical AI with robots, software and chips</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-preferred-networks-sows-seeds-of-physical-ai-with-robots-software-and-chips2" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">10</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Huang back at Nvidia as China builds own chip production system</span></td>
+  <td class="col-summary">Huang back at Nvidia as China builds own chip production system</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/opinion/huang-back-at-nvidia-as-china-builds-own-chip-production-system" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Commentary: From solving to ‘digesting’: How mathematicians can adapt to the dramatic changes of AI If AI can generate papers that would take a human mathematician years to research and write, does that mean mathematics is dead? A professor gives his take. AI Read 2 DigiTimes Pentagon reportedly in talks with Ford, GM to produce drones and military hardware The Pentagon is reportedly holding talks with Ford, General Motors, and other automotive manufacturers on producing military hardware, including drones and missiles. Discussions to branch into the defense sector reflect heightened competition in the global automotive market, along with the US government's push to expan Logistics Read 3 DigiTimes Texas comptroller backs US$354 million tax break for TSMC The Texas Comptroller of Public Accounts has recommended a property tax break worth an estimated US$354 million for TSMC's proposed US$22.6 billion semiconductor manufacturing campus in Brazos County, as the chipmaker weighs Texas against Arizona for its next major US expansion. Semiconductor Read 4 DigiTimes Tesla's AI4.5 downgrade exposes the memory bottleneck behind physical AI The ramifications of the prolonged memory squeeze are reverberating further across supply chains serving applications at the edge, as Elon Musk's ambitions in physical AI increasingly collide with the constraints imposed by the global memory shortage. AILogistics Read 5 TechAsia Dell Q3 beats estimates on strong AI server demand Dell's PC business missed forecasts, posting US$12.89 billion in revenue for the quarter. AI Read 6 TechAsia DBS blends human advice with AI to promote financial literacy Through digiWealth, DBS pairs carefully designed AI with dedicated wealth planning managers to support customers of all income levels and life stages. AI Read 7 TechAsia Nvidia’s rally is about Huang, not AI Jensen Huang’s return is only going to prolong the inevitable shift in AI investments. And we have a hot take on Sarvam AI and more clarity of agentic AI. AI Read 8 NikkeiAsia Nvidia turmoil casts pall over high-flying global AI chip industry Nvidia turmoil casts pall over high-flying global AI chip industry AISemiconductor Read 9 NikkeiAsia Japan's Preferred Networks sows seeds of physical AI with robots, software and chips Japan's Preferred Networks sows seeds of physical AI with robots, software and chips AISemiconductorAutomation Read 10 NikkeiAsia Huang back at Nvidia as China builds own chip production system Huang back at Nvidia as China builds own chip production system Semiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 25, 2026</title><link href="https://asiatechfeed.com/2026/11/25/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 25, 2026" /><published>2026-11-25T08:04:49+00:00</published><updated>2026-11-25T08:04:49+00:00</updated><id>https://asiatechfeed.com/2026/11/25/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/25/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -627,105 +720,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/business-deals/us-ai-voice-startup-elevenlabs-to-buy-japanese-focused-peer-kotoba" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Trust, innovation key to Singapore's efforts to grow and generate wealth: Alvin Tan AI research and application in sectors like finance, air and sea connectivity and healthcare are key areas where Singapore can generate wealth, says the minister of state. AI Read 2 DigiTimes HBMs beyond Nvidia: Why Samsung has the most to gain from Jensen's exit With Nvidia CEO Jensen Huang stepping down, market observers expect the AI chip landscape to gradually move away from Nvidia's near-monopoly, with HBM demand shifting toward non-Nvidia buyers such as Google and AMD. Analysts suggest that in this so-called "post-Huang era," Samsung Electronics stands to emerge as the bi ElectronicsAISemiconductor Read 3 CNA Head of China's Baidu warns of AI 'bubble' ahead of APEC talks AI adoption is not boosting profits for most companies, Baidu chief executive Robin Li said during a panel discussion with business leaders on Tuesday (Nov 17). AI Read 4 DigiTimes SK Hynix accelerates Yongin Y1 cleanroom opening as AI memory demand surges SK Hynix is accelerating construction of its new semiconductor fabrication facility in Yongin, South Korea, amid rapidly growing demand for artificial intelligence (AI) memory. SemiconductorAI Read 5 TechAsia Tencent launches lower-cost Hy4 Flash AI model Tencent also said the model has 12 billion active parameters and decoding speeds above 150 tokens per second. AI Read 6 DigiTimes SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sharply increased the South Korean chipmaker's exposure to Amer AISemiconductor Read 7 TechAsia Baidu AI cloud infrastructure revenue jumps 94% in Q3 At Baidu World 2026, the company launched Ciyuansuo, a marketplace for large models. AI Read 8 TechAsia Xpeng Q3 revenue rises 19% as deliveries hit record high WeRide has approval for a paid, fully driverless robotaxi service in Guangzhou's Huangpu District. Automation Read 9 NikkeiAsia US AI voice startup ElevenLabs to buy Japanese-focused peer Kotoba US AI voice startup ElevenLabs to buy Japanese-focused peer Kotoba AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 16, 2026</title><link href="https://asiatechfeed.com/2026/11/16/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 16, 2026" /><published>2026-11-16T08:00:52+00:00</published><updated>2026-11-16T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/11/16/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/16/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Hong Kong rolls out AI facial recognition across CCTV network</span></td>
-  <td class="col-summary">The AI functions will be used to monitor crowds and read licence plates, as well as track criminal suspects.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/hong-kong-ai-facial-recognition-cctv-network-6554651" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">How one startup shrinks AI down to a single transistor</span></td>
-  <td class="col-summary">By mimicking the human brain, Newmorphic is bringing powerful, low-energy AI capabilities directly to battery-powered wearables and sensors.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/startup-shrinks-ai-single-transistor" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">South Korea to inspect glasses worn by exam candidates after AI cheating scandal</span></td>
-  <td class="col-summary">South Korea adds glasses inspections, smart device monitoring and tougher penalties to protect this week’s college entrance exam from AI-assisted cheating.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/east-asia/south-korea-national-exam-ai-cheating-scandal-6554101" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Regional trade cooperation improving despite US-China tensions: APEC chief</span></td>
-  <td class="col-summary">APEC Secretariat executive director Eduardo Pedrosa tells CNA about progress in trade discussions, while highlighting supply chain resilience, global economic imbalances and AI as key areas of cooperation.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/apec-shenzhen-summit-trade-relations-us-china-asean-6554366" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SK Hynix's Trinity Fab aims to shorten suppliers' path to chip production</span></td>
-  <td class="col-summary">A new open test facility inside SK Hynix's Yongin semiconductor cluster is designed to address a costly bottleneck for domestic suppliers: proving that materials, components, and equipment can perform reliably under mass-production conditions before entering a chipmaker's production line.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261116VL216/sk-hynix-production-trinity-equipment-cleanroom.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Qisda affiliate Ace Pillar deepens semiconductor and AI automation push, expanding into wafer regeneration and SiPh</span></td>
-  <td class="col-summary">Taiwan-based industrial automation and smart manufacturing solutions provider Ace Pillar, an affiliate of Qisda Group, reported strong third-quarter 2026 results as its semiconductor, AI automation and green-energy businesses gained traction. Chairman Joshua Tzeng said the company will anchor its medium- to long-term g</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261116PD219/qisda-ace-pillar-automation-siph-cpo.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">India touts homegrown 2-micron 5-axis CNC machines as it seeks local semiconductor equipment</span></td>
-  <td class="col-summary">India's electronics and IT minister Ashwini Vaishnaw said on November 14 that the country has developed indigenous five-axis precision CNC machines with 2-micron accuracy, and called for India to build its own machinery and high-precision components for semiconductor manufacturing to reduce reliance on imports.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261116VL209/india-cnc-equipment-electronics-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">Intel, RadixArk Optimize SGLang for AI Inference on Intel Platforms</span></td>
-  <td class="col-summary">Collaboration targets open-source inference performance across Intel CPUs, GPUs and accelerators, including enterprise deployments. The post Intel, RadixArk Optimize SGLang for AI Inference on Intel Platforms appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/intel-radixark-optimize-sglang-for-ai-inference-on-intel-platforms/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">How Statistical Analysis Improved Semiconductor Manufacturing at Macronix</span></td>
-  <td class="col-summary">Collecting data is only the first step. Its real value comes from using it to improve manufacturing. The post How Statistical Analysis Improved Semiconductor Manufacturing at Macronix appeared first on EE Times Asia .</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/how-statistical-analysis-improved-semiconductor-manufacturing-at-macronix/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Info Edge backs Indian chip startup Bharat Semi’s $24m seed</span></td>
-  <td class="col-summary">The funding will support product development, engineering hires, and expansion in the US and other markets.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/india-vietnam-expand-tech-startup-cooperation" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">11</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Paper, plastic, or tokens? Grab’s AI grocery bet runs into a who-pays problem</span></td>
-  <td class="col-summary">Retailers’ limited margins and expensive AI token costs, however, could hamper its full implementation, analysts say.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/grab-thinks-ai-agents-handle-grocery-shopping-sea-bite" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Hong Kong rolls out AI facial recognition across CCTV network The AI functions will be used to monitor crowds and read licence plates, as well as track criminal suspects. AI Read 2 TechAsia How one startup shrinks AI down to a single transistor By mimicking the human brain, Newmorphic is bringing powerful, low-energy AI capabilities directly to battery-powered wearables and sensors. AI Read 3 CNA South Korea to inspect glasses worn by exam candidates after AI cheating scandal South Korea adds glasses inspections, smart device monitoring and tougher penalties to protect this week’s college entrance exam from AI-assisted cheating. AI Read 4 CNA Regional trade cooperation improving despite US-China tensions: APEC chief APEC Secretariat executive director Eduardo Pedrosa tells CNA about progress in trade discussions, while highlighting supply chain resilience, global economic imbalances and AI as key areas of cooperation. AILogistics Read 5 DigiTimes SK Hynix's Trinity Fab aims to shorten suppliers' path to chip production A new open test facility inside SK Hynix's Yongin semiconductor cluster is designed to address a costly bottleneck for domestic suppliers: proving that materials, components, and equipment can perform reliably under mass-production conditions before entering a chipmaker's production line. Semiconductor Read 6 DigiTimes Qisda affiliate Ace Pillar deepens semiconductor and AI automation push, expanding into wafer regeneration and SiPh Taiwan-based industrial automation and smart manufacturing solutions provider Ace Pillar, an affiliate of Qisda Group, reported strong third-quarter 2026 results as its semiconductor, AI automation and green-energy businesses gained traction. Chairman Joshua Tzeng said the company will anchor its medium- to long-term g SemiconductorAIAutomation Read 7 DigiTimes India touts homegrown 2-micron 5-axis CNC machines as it seeks local semiconductor equipment India's electronics and IT minister Ashwini Vaishnaw said on November 14 that the country has developed indigenous five-axis precision CNC machines with 2-micron accuracy, and called for India to build its own machinery and high-precision components for semiconductor manufacturing to reduce reliance on imports. SemiconductorElectronics Read 8 EETAsia Intel, RadixArk Optimize SGLang for AI Inference on Intel Platforms Collaboration targets open-source inference performance across Intel CPUs, GPUs and accelerators, including enterprise deployments. The post Intel, RadixArk Optimize SGLang for AI Inference on Intel Platforms appeared first on EE Times Asia . AI Read 9 EETAsia How Statistical Analysis Improved Semiconductor Manufacturing at Macronix Collecting data is only the first step. Its real value comes from using it to improve manufacturing. The post How Statistical Analysis Improved Semiconductor Manufacturing at Macronix appeared first on EE Times Asia . Semiconductor Read 10 TechAsia Info Edge backs Indian chip startup Bharat Semi’s $24m seed The funding will support product development, engineering hires, and expansion in the US and other markets. Semiconductor Read 11 TechAsia Paper, plastic, or tokens? Grab’s AI grocery bet runs into a who-pays problem Retailers’ limited margins and expensive AI token costs, however, could hamper its full implementation, analysts say. AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Trust, innovation key to Singapore's efforts to grow and generate wealth: Alvin Tan AI research and application in sectors like finance, air and sea connectivity and healthcare are key areas where Singapore can generate wealth, says the minister of state. AI Read 2 DigiTimes HBMs beyond Nvidia: Why Samsung has the most to gain from Jensen's exit With Nvidia CEO Jensen Huang stepping down, market observers expect the AI chip landscape to gradually move away from Nvidia's near-monopoly, with HBM demand shifting toward non-Nvidia buyers such as Google and AMD. Analysts suggest that in this so-called "post-Huang era," Samsung Electronics stands to emerge as the bi ElectronicsAISemiconductor Read 3 CNA Head of China's Baidu warns of AI 'bubble' ahead of APEC talks AI adoption is not boosting profits for most companies, Baidu chief executive Robin Li said during a panel discussion with business leaders on Tuesday (Nov 17). AI Read 4 DigiTimes SK Hynix accelerates Yongin Y1 cleanroom opening as AI memory demand surges SK Hynix is accelerating construction of its new semiconductor fabrication facility in Yongin, South Korea, amid rapidly growing demand for artificial intelligence (AI) memory. SemiconductorAI Read 5 TechAsia Tencent launches lower-cost Hy4 Flash AI model Tencent also said the model has 12 billion active parameters and decoding speeds above 150 tokens per second. AI Read 6 DigiTimes SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sharply increased the South Korean chipmaker's exposure to Amer AISemiconductor Read 7 TechAsia Baidu AI cloud infrastructure revenue jumps 94% in Q3 At Baidu World 2026, the company launched Ciyuansuo, a marketplace for large models. AI Read 8 TechAsia Xpeng Q3 revenue rises 19% as deliveries hit record high WeRide has approval for a paid, fully driverless robotaxi service in Guangzhou's Huangpu District. Automation Read 9 NikkeiAsia US AI voice startup ElevenLabs to buy Japanese-focused peer Kotoba US AI voice startup ElevenLabs to buy Japanese-focused peer Kotoba AI Read]]></summary></entry></feed>

@@ -1,5 +1,119 @@
 [
   {
+    "date": "2026-11-26",
+    "title": "Commentary: From solving to ‘digesting’: How mathematicians can adapt to the dramatic changes of AI",
+    "summary": "If AI can generate papers that would take a human mathematician years to research and write, does that mean mathematics is dead? A professor gives his take.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.channelnewsasia.com/commentary/claude-ai-solves-mathematics-riemann-hypothesis-6581176"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Pentagon reportedly in talks with Ford, GM to produce drones and military hardware",
+    "summary": "The Pentagon is reportedly holding talks with Ford, General Motors, and other automotive manufacturers on producing military hardware, including drones and missiles. Discussions to branch into the defense sector reflect heightened competition in the global automotive market, along with the US government's push to expan",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261125VL229/ford-general-motors-drones-military-hardware-production.html"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Texas comptroller backs US$354 million tax break for TSMC",
+    "summary": "The Texas Comptroller of Public Accounts has recommended a property tax break worth an estimated US$354 million for TSMC's proposed US$22.6 billion semiconductor manufacturing campus in Brazos County, as the chipmaker weighs Texas against Arizona for its next major US expansion.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261125VL228/tsmc-texas-investment-tax-incentive-arizona.html"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Tesla's AI4.5 downgrade exposes the memory bottleneck behind physical AI",
+    "summary": "The ramifications of the prolonged memory squeeze are reverberating further across supply chains serving applications at the edge, as Elon Musk's ambitions in physical AI increasingly collide with the constraints imposed by the global memory shortage.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261125VL221/tesla-hardware-automotive-silicon-cost.html"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Dell Q3 beats estimates on strong AI server demand",
+    "summary": "Dell's PC business missed forecasts, posting US$12.89 billion in revenue for the quarter.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/dell-sees-ai-server-boom-driving-50b-2027-sales"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "DBS blends human advice with AI to promote financial literacy",
+    "summary": "Through digiWealth, DBS pairs carefully designed AI with dedicated wealth planning managers to support customers of all income levels and life stages.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/dbs-blends-human-advice-ai-promote-financial-literacy"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Nvidia’s rally is about Huang, not AI",
+    "summary": "Jensen Huang’s return is only going to prolong the inevitable shift in AI investments. And we have a hot take on Sarvam AI and more clarity of agentic AI.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/nvidias-rally-is-about-huang-not-ai"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Nvidia turmoil casts pall over high-flying global AI chip industry",
+    "summary": "Nvidia turmoil casts pall over high-flying global AI chip industry",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-turmoil-casts-pall-over-high-flying-global-ai-chip-industry"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Japan's Preferred Networks sows seeds of physical AI with robots, software and chips",
+    "summary": "Japan's Preferred Networks sows seeds of physical AI with robots, software and chips",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI",
+      "Semiconductor",
+      "Automation"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-preferred-networks-sows-seeds-of-physical-ai-with-robots-software-and-chips2"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Huang back at Nvidia as China builds own chip production system",
+    "summary": "Huang back at Nvidia as China builds own chip production system",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://asia.nikkei.com/opinion/huang-back-at-nvidia-as-china-builds-own-chip-production-system"
+  },
+  {
     "date": "2026-11-25",
     "title": "Three Japanese auto suppliers target joint procurement in 2027",
     "summary": "Alps Alpine, Tokai Rika and Nippon Seiki announced on November 24 that they had signed a basic agreement for joint procurement, starting with materials used by all three companies, such as semiconductors, substrates and resins. The companies plan to launch joint purchasing as early as spring 2027 to strengthen bargaini",
