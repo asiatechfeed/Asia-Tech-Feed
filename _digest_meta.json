@@ -1,40 +1,38 @@
 {
   "date": "2026-11-26",
-  "count": 16,
+  "count": 9,
   "sources": [
     "CNA",
     "DigiTimes",
     "EETAsia",
-    "KED",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-26-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Exclusive: AI supply chain faces shipment delays as KYC expands",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261126PD214/supply-chain-gpu-data-center-gtc-data.html"
+      "title": "Apple pulls Chinese AI chatbot Talkie over child safety",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/minimax-seeks-2b-for-ai-expansion"
     },
     {
-      "title": "China scales, Japan supplies, Korea builds \u2014 three AI playbooks behind a 60%-plus grip on the global PCB market",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261125PD229/pcb-investment-demand-high-end-infrastructure.html"
-    },
-    {
-      "title": "Huang is back in Nvidia, but Washington's chip squeeze on China is only tightening",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261126VL219/nvidia-jensen-huang-chips-data.html"
-    },
-    {
-      "title": "Nvidia halts chip shipments to Southeast Asia: Report",
+      "title": "Nvidia halts chip shipments to Southeast Asia, FT reports",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351"
+      "url": "https://www.channelnewsasia.com/business/nvidia-halts-chip-shipments-southeast-asia-ft-reports-6584251"
     },
     {
-      "title": "Drug syndicate used military aircraft to transport 3 tonnes of meth: Malaysian Home Minister",
+      "title": "Tata Electronics reportedly opens talks with contractors for phase 2 of Assam chip packaging plant",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261126VL205/tata-group-india-fab-chips-packaging-plant-cleanroom.html"
+    },
+    {
+      "title": "South Korea minister pushes longer R&D hours to keep pace with China",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/malaysia-drug-syndicate-air-force-meth-military-aircraft-6584271"
+      "url": "https://www.channelnewsasia.com/east-asia/south-korea-longer-working-week-hours-pace-china-6583916"
+    },
+    {
+      "title": "Huawei offers free chip patent licenses to take on Nvidia",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261126VL211/huawei-ascend-patent-ip-nvidia.html"
     }
   ],
   "source_stats": [
@@ -53,7 +51,7 @@
       "fetched": 20,
       "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -152,7 +150,7 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {
@@ -170,7 +168,7 @@
       "fetched": 50,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 0,
       "error": null
     },
     {
@@ -179,7 +177,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {
@@ -197,7 +195,7 @@
       "fetched": 36,
       "relevant": 12,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 2,
       "error": null
     },
     {

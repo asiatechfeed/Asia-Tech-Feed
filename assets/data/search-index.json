@@ -1,187 +1,109 @@
 [
   {
     "date": "2026-11-26",
-    "title": "Exclusive: AI supply chain faces shipment delays as KYC expands",
-    "summary": "The US Department of Commerce's Bureau of Industry and Security (BIS) export control rules, effective November 19, 2026, expand customer reviews and shipment restrictions across the AI server supply chain. The rules cover not only GPU destinations, buyers, and equipment use, but also third-country data centers, remote ",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20261126PD214/supply-chain-gpu-data-center-gtc-data.html"
-  },
-  {
-    "date": "2026-11-26",
-    "title": "China scales, Japan supplies, Korea builds — three AI playbooks behind a 60%-plus grip on the global PCB market",
-    "summary": "Growing global investment in AI infrastructure is lifting demand for high-end printed circuit boards (PCBs), IC substrates and high-speed interconnects, and Asia's leading PCB makers are speeding up changes to their product lines and capacity. The Taiwan Printed Circuit Association (TPCA) says China, Japan and South Ko",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Electronics",
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20261125PD229/pcb-investment-demand-high-end-infrastructure.html"
-  },
-  {
-    "date": "2026-11-26",
-    "title": "Huang is back in Nvidia, but Washington's chip squeeze on China is only tightening",
-    "summary": "After just 11 days away from the job, Jensen Huang is back at the helm of Nvidia, the maker of the world's most advanced AI chips. However, his return has so far not changed the momentum of an unfolding US political crackdown on Chinese access to advanced chips. Instead, China's access to advanced AI compute is narrowi",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261126VL219/nvidia-jensen-huang-chips-data.html"
-  },
-  {
-    "date": "2026-11-26",
-    "title": "Nvidia halts chip shipments to Southeast Asia: Report",
-    "summary": "Move comes as US steps up export controls to prevent Chinese access to AI computing power.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "AI",
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351"
-  },
-  {
-    "date": "2026-11-26",
-    "title": "Drug syndicate used military aircraft to transport 3 tonnes of meth: Malaysian Home Minister",
-    "summary": "The syndicate used military planes to smuggle drugs worth US$37.9 million before it was busted.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Pharmaceutical"
-    ],
-    "url": "https://www.channelnewsasia.com/asia/malaysia-drug-syndicate-air-force-meth-military-aircraft-6584271"
-  },
-  {
-    "date": "2026-11-26",
-    "title": "S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch",
-    "summary": "S&P said it could downgrade Nvidia within the next 90 days, but expects any potential downgrade to be limited to one notch, unless investigations and other disclosures harm the company's reputation or future business prospects.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.channelnewsasia.com/business/s-and-p-nvidia-board-compromised-rating-downgrade-watch-6582441"
-  },
-  {
-    "date": "2026-11-26",
-    "title": "Japanese medical AI startup Nihin Media raises $3.3m",
-    "summary": "Nihin Media aims to reach 100,000 physician users by 2027.",
+    "title": "Apple pulls Chinese AI chatbot Talkie over child safety",
+    "summary": "Talkie was listed on Google Play when scraped; that does not establish current availability.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/how-this-ai-tool-ease-japans-physician-burnout-crisis"
+    "url": "https://www.techinasia.com/minimax-seeks-2b-for-ai-expansion"
   },
   {
     "date": "2026-11-26",
-    "title": "How a layoff pushed this PM from big tech to solo building",
-    "summary": "In the Backstory, Evgeny Lazarenko on why he left big tech after a layoff to build solo with AI agents, and why building was never the hard part.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/layoff-pushed-pm-big-tech-solo-building"
-  },
-  {
-    "date": "2026-11-26",
-    "title": "Universal Robots Integrates Inbolt 3D AI Vision Software Into Gen 7 Platform",
-    "summary": "Native controller integration eliminates external PCs, simplifying robot vision deployment for part localization and adaptive guidance. The post Universal Robots Integrates Inbolt 3D AI Vision Software Into Gen 7 Platform appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI",
-      "Automation"
-    ],
-    "url": "https://www.eetasia.com/universal-robots-integrates-inbolt-3d-ai-vision-software-into-gen-7-platform/"
-  },
-  {
-    "date": "2026-11-26",
-    "title": "Seoul Semiconductor Ramps Up Production of RGB LCD Backlight Technology",
-    "summary": "WICOP Pixel uses package-free RGB chips to improve LCD color reproduction and brightness while targeting premium television applications. The post Seoul Semiconductor Ramps Up Production of RGB LCD Backlight Technology appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
+    "title": "Nvidia halts chip shipments to Southeast Asia, FT reports",
+    "summary": "Nvidia halts chip shipments to Southeast Asia, FT reports",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
       "Semiconductor"
     ],
-    "url": "https://www.eetasia.com/seoul-semiconductor-ramps-up-production-of-rgb-lcd-backlight-technology/"
+    "url": "https://www.channelnewsasia.com/business/nvidia-halts-chip-shipments-southeast-asia-ft-reports-6584251"
   },
   {
     "date": "2026-11-26",
-    "title": "PCB Costs Push 65-in LCD TV Panel Production Costs Up 6.5%",
-    "summary": "AI server demand is tightening PCB supply, adding cost pressure to LCD panel manufacturing amid rising material prices. The post PCB Costs Push 65-in LCD TV Panel Production Costs Up 6.5% appeared first on EE Times Asia .",
-    "source": "EE Times Asia",
-    "short": "EETAsia",
-    "tags": [
-      "AI",
-      "Electronics"
-    ],
-    "url": "https://www.eetasia.com/pcb-costs-push-65-in-lcd-tv-panel-production-costs-up-6-5/"
-  },
-  {
-    "date": "2026-11-26",
-    "title": "Who’s investing in India’s AI startups?",
-    "summary": "We've compiled a list of investors pouring money into India’s AI startups.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/whos-investing-indias-ai-startups"
-  },
-  {
-    "date": "2026-11-26",
-    "title": "Humanoid robots meet factory reality on Toyota's home turf",
-    "summary": "Humanoid robots meet factory reality on Toyota's home turf",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
-    "tags": [
-      "Automation"
-    ],
-    "url": "https://asia.nikkei.com/business/automobiles/humanoid-robots-meet-factory-reality-on-toyota-s-home-turf"
-  },
-  {
-    "date": "2026-11-26",
-    "title": "Japan seeks supply chain mandate for chips, other critical goods",
-    "summary": "Japan seeks supply chain mandate for chips, other critical goods",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "Tata Electronics reportedly opens talks with contractors for phase 2 of Assam chip packaging plant",
+    "summary": "Tata Electronics is lining up the second phase of its semiconductor assembly and test plant in Assam before the facility has been formally inaugurated, extending a project described as India's first indigenous semiconductor assembly and test facility.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
     "tags": [
       "Semiconductor",
-      "Logistics"
+      "Electronics"
     ],
-    "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-seeks-supply-chain-mandate-for-chips-other-critical-goods"
+    "url": "https://www.digitimes.com/news/a20261126VL205/tata-group-india-fab-chips-packaging-plant-cleanroom.html"
   },
   {
     "date": "2026-11-26",
-    "title": "Singapore telco merger highlights AI infrastructure push amid uncertainty",
-    "summary": "Singapore telco merger highlights AI infrastructure push amid uncertainty",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "South Korea minister pushes longer R&D hours to keep pace with China",
+    "summary": "“If we cannot apply an exception to the 52-hour workweek even for semiconductor R&D, what are we going to be able to do in other industries such as robotics and biotechnology?” Industry Minister Kim Jung-kwan says.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
     "tags": [
-      "AI"
+      "Semiconductor",
+      "Biotechnology",
+      "Automation"
     ],
-    "url": "https://asia.nikkei.com/business/business-deals/singapore-telco-merger-highlights-ai-infrastructure-push-amid-uncertainty"
+    "url": "https://www.channelnewsasia.com/east-asia/south-korea-longer-working-week-hours-pace-china-6583916"
   },
   {
     "date": "2026-11-26",
-    "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
-    "summary": "Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio",
-    "source": "KED Global",
-    "short": "KED",
+    "title": "Huawei offers free chip patent licenses to take on Nvidia",
+    "summary": "Huawei Technologies is offering free patent licenses for its UnifiedBus chip interconnect technology and has set up dedicated semiconductor and artificial intelligence (AI) patent teams as it seeks to attract overseas hardware suppliers and build a computing ecosystem to rival Nvidia's.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "AI"
+    ],
+    "url": "https://www.digitimes.com/news/a20261126VL211/huawei-ascend-patent-ip-nvidia.html"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "US warns of memory glut as Samsung, SK Hynix expand",
+    "summary": "The US has warned that South Korea's government-backed memory chip expansion could lead to a glut even as AI demand strains global supplies. The findings name Samsung Electronics and SK Hynix, although memory chips are excluded from the proposed tariffs.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261126VL217/samsung-sk-hynix-demand-investment-expansion.html"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Renesas Expands ChipAgents AI Tools Across Global Design Teams",
+    "summary": "Renesas is extending AI-assisted design and verification workflows across engineering teams in four regions, targeting RTL closure and analog design. The post Renesas Expands ChipAgents AI Tools Across Global Design Teams appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.eetasia.com/renesas-expands-chipagents-ai-tools-across-global-design-teams/"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Edge AI Design Extends Beyond Compute to System Integration",
+    "summary": "Deploying edge AI requires coordinated optimization of processing, sensors, memory, thermal design, security and long-term product support. The post Edge AI Design Extends Beyond Compute to System Integration appeared first on EE Times Asia .",
+    "source": "EE Times Asia",
+    "short": "EETAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001"
+    "url": "https://www.eetasia.com/edge-ai-design-extends-beyond-compute-to-system-integration/"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Will Asia lose prediction markets too?",
+    "summary": "Asia’s banned prediction markets may go offshore like crypto did. Plus: fintech overtakes AI in SEA funding, and Jensen Huang's Nvidia mea culpa.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/will-asia-lose-prediction-markets-too"
   },
   {
     "date": "2026-11-25",
