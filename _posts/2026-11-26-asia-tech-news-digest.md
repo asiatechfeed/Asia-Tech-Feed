@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - November 26, 2026"
-date: 2026-11-26 08:02:42 +0800
-articles_count: 10
-sources_count: 4
-sources: ["CNA", "DigiTimes", "NikkeiAsia", "TechAsia"]
+date: 2026-11-26 15:55:28 +0800
+articles_count: 16
+sources_count: 6
+sources: ["CNA", "DigiTimes", "EETAsia", "KED", "NikkeiAsia", "TechAsia"]
 csv_file: /assets/data/news-2026-11-26.tsv
-featured_title: "Commentary: From solving to \u2018digesting\u2019: How mathematicians can adapt to the dramatic changes of AI"
-featured_url: "https://www.channelnewsasia.com/commentary/claude-ai-solves-mathematics-riemann-hypothesis-6581176"
-featured_source: "CNA"
-featured_summary: "If AI can generate papers that would take a human mathematician years to research and write, does that mean mathematics is dead? A professor gives his take."
-featured_image: "https://dam.mediacorp.sg/image/upload/s--JKZVzoat--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/25/robot_education_istock.jpg?itok=t6-vaekH"
+featured_title: "Exclusive: AI supply chain faces shipment delays as KYC expands"
+featured_url: "https://www.digitimes.com/news/a20261126PD214/supply-chain-gpu-data-center-gtc-data.html"
+featured_source: "DigiTimes"
+featured_summary: "The US Department of Commerce's Bureau of Industry and Security (BIS) export control rules, effective November 19, 2026, expand customer reviews and shipment restrictions across the AI server supply chain. The rules cover not only GPU destinations, buyers, and equipment use, but also third-country data centers, remote "
+featured_image: "https://img.digitimes.com/newsshow/20261126pd214_files/1_b.jpg"
 ---
 
 <table class="news-table">
@@ -27,83 +27,131 @@ featured_image: "https://dam.mediacorp.sg/image/upload/s--JKZVzoat--/c_fill,g_au
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Commentary: From solving to ‘digesting’: How mathematicians can adapt to the dramatic changes of AI</span></td>
-  <td class="col-summary">If AI can generate papers that would take a human mathematician years to research and write, does that mean mathematics is dead? A professor gives his take.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/commentary/claude-ai-solves-mathematics-riemann-hypothesis-6581176" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Exclusive: AI supply chain faces shipment delays as KYC expands</span></td>
+  <td class="col-summary">The US Department of Commerce's Bureau of Industry and Security (BIS) export control rules, effective November 19, 2026, expand customer reviews and shipment restrictions across the AI server supply chain. The rules cover not only GPU destinations, buyers, and equipment use, but also third-country data centers, remote </td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261126PD214/supply-chain-gpu-data-center-gtc-data.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Pentagon reportedly in talks with Ford, GM to produce drones and military hardware</span></td>
-  <td class="col-summary">The Pentagon is reportedly holding talks with Ford, General Motors, and other automotive manufacturers on producing military hardware, including drones and missiles. Discussions to branch into the defense sector reflect heightened competition in the global automotive market, along with the US government's push to expan</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261125VL229/ford-general-motors-drones-military-hardware-production.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">China scales, Japan supplies, Korea builds — three AI playbooks behind a 60%-plus grip on the global PCB market</span></td>
+  <td class="col-summary">Growing global investment in AI infrastructure is lifting demand for high-end printed circuit boards (PCBs), IC substrates and high-speed interconnects, and Asia's leading PCB makers are speeding up changes to their product lines and capacity. The Taiwan Printed Circuit Association (TPCA) says China, Japan and South Ko</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Electronics</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261125PD229/pcb-investment-demand-high-end-infrastructure.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Texas comptroller backs US$354 million tax break for TSMC</span></td>
-  <td class="col-summary">The Texas Comptroller of Public Accounts has recommended a property tax break worth an estimated US$354 million for TSMC's proposed US$22.6 billion semiconductor manufacturing campus in Brazos County, as the chipmaker weighs Texas against Arizona for its next major US expansion.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261125VL228/tsmc-texas-investment-tax-incentive-arizona.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Huang is back in Nvidia, but Washington's chip squeeze on China is only tightening</span></td>
+  <td class="col-summary">After just 11 days away from the job, Jensen Huang is back at the helm of Nvidia, the maker of the world's most advanced AI chips. However, his return has so far not changed the momentum of an unfolding US political crackdown on Chinese access to advanced chips. Instead, China's access to advanced AI compute is narrowi</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261126VL219/nvidia-jensen-huang-chips-data.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Tesla's AI4.5 downgrade exposes the memory bottleneck behind physical AI</span></td>
-  <td class="col-summary">The ramifications of the prolonged memory squeeze are reverberating further across supply chains serving applications at the edge, as Elon Musk's ambitions in physical AI increasingly collide with the constraints imposed by the global memory shortage.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261125VL221/tesla-hardware-automotive-silicon-cost.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Nvidia halts chip shipments to Southeast Asia: Report</span></td>
+  <td class="col-summary">Move comes as US steps up export controls to prevent Chinese access to AI computing power.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Dell Q3 beats estimates on strong AI server demand</span></td>
-  <td class="col-summary">Dell's PC business missed forecasts, posting US$12.89 billion in revenue for the quarter.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/dell-sees-ai-server-boom-driving-50b-2027-sales" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">Drug syndicate used military aircraft to transport 3 tonnes of meth: Malaysian Home Minister</span></td>
+  <td class="col-summary">The syndicate used military planes to smuggle drugs worth US$37.9 million before it was busted.</td>
+  <td class="col-tags"><span class="tag bio">Pharmaceutical</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/malaysia-drug-syndicate-air-force-meth-military-aircraft-6584271" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">DBS blends human advice with AI to promote financial literacy</span></td>
-  <td class="col-summary">Through digiWealth, DBS pairs carefully designed AI with dedicated wealth planning managers to support customers of all income levels and life stages.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/dbs-blends-human-advice-ai-promote-financial-literacy" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch</span></td>
+  <td class="col-summary">S&P said it could downgrade Nvidia within the next 90 days, but expects any potential downgrade to be limited to one notch, unless investigations and other disclosures harm the company's reputation or future business prospects.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/business/s-and-p-nvidia-board-compromised-rating-downgrade-watch-6582441" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">7</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Nvidia’s rally is about Huang, not AI</span></td>
-  <td class="col-summary">Jensen Huang’s return is only going to prolong the inevitable shift in AI investments. And we have a hot take on Sarvam AI and more clarity of agentic AI.</td>
+  <td class="col-title"><span class="article-title">Japanese medical AI startup Nihin Media raises $3.3m</span></td>
+  <td class="col-summary">Nihin Media aims to reach 100,000 physician users by 2027.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidias-rally-is-about-huang-not-ai" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/how-this-ai-tool-ease-japans-physician-burnout-crisis" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Nvidia turmoil casts pall over high-flying global AI chip industry</span></td>
-  <td class="col-summary">Nvidia turmoil casts pall over high-flying global AI chip industry</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/nvidia-turmoil-casts-pall-over-high-flying-global-ai-chip-industry" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">How a layoff pushed this PM from big tech to solo building</span></td>
+  <td class="col-summary">In the Backstory, Evgeny Lazarenko on why he left big tech after a layoff to build solo with AI agents, and why building was never the hard part.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/layoff-pushed-pm-big-tech-solo-building" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Japan's Preferred Networks sows seeds of physical AI with robots, software and chips</span></td>
-  <td class="col-summary">Japan's Preferred Networks sows seeds of physical AI with robots, software and chips</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-preferred-networks-sows-seeds-of-physical-ai-with-robots-software-and-chips2" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Universal Robots Integrates Inbolt 3D AI Vision Software Into Gen 7 Platform</span></td>
+  <td class="col-summary">Native controller integration eliminates external PCs, simplifying robot vision deployment for part localization and adaptive guidance. The post Universal Robots Integrates Inbolt 3D AI Vision Software Into Gen 7 Platform appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/universal-robots-integrates-inbolt-3d-ai-vision-software-into-gen-7-platform/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">10</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">Huang back at Nvidia as China builds own chip production system</span></td>
-  <td class="col-summary">Huang back at Nvidia as China builds own chip production system</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">Seoul Semiconductor Ramps Up Production of RGB LCD Backlight Technology</span></td>
+  <td class="col-summary">WICOP Pixel uses package-free RGB chips to improve LCD color reproduction and brightness while targeting premium television applications. The post Seoul Semiconductor Ramps Up Production of RGB LCD Backlight Technology appeared first on EE Times Asia .</td>
   <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/opinion/huang-back-at-nvidia-as-china-builds-own-chip-production-system" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/seoul-semiconductor-ramps-up-production-of-rgb-lcd-backlight-technology/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">11</td>
+  <td class="col-source"><span class="source-badge">EETAsia</span></td>
+  <td class="col-title"><span class="article-title">PCB Costs Push 65-in LCD TV Panel Production Costs Up 6.5%</span></td>
+  <td class="col-summary">AI server demand is tightening PCB supply, adding cost pressure to LCD panel manufacturing amid rising material prices. The post PCB Costs Push 65-in LCD TV Panel Production Costs Up 6.5% appeared first on EE Times Asia .</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/pcb-costs-push-65-in-lcd-tv-panel-production-costs-up-6-5/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">12</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Who’s investing in India’s AI startups?</span></td>
+  <td class="col-summary">We've compiled a list of investors pouring money into India’s AI startups.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/whos-investing-indias-ai-startups" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">13</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Humanoid robots meet factory reality on Toyota's home turf</span></td>
+  <td class="col-summary">Humanoid robots meet factory reality on Toyota's home turf</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/automobiles/humanoid-robots-meet-factory-reality-on-toyota-s-home-turf" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">14</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan seeks supply chain mandate for chips, other critical goods</span></td>
+  <td class="col-summary">Japan seeks supply chain mandate for chips, other critical goods</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/spotlight/supply-chain/japan-seeks-supply-chain-mandate-for-chips-other-critical-goods" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">15</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Singapore telco merger highlights AI infrastructure push amid uncertainty</span></td>
+  <td class="col-summary">Singapore telco merger highlights AI infrastructure push amid uncertainty</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/business-deals/singapore-telco-merger-highlights-ai-infrastructure-push-amid-uncertainty" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">16</td>
+  <td class="col-source"><span class="source-badge">KED</span></td>
+  <td class="col-title"><span class="article-title">Go master Shin cracks AI barrier with win over KataGo, sets up series decider</span></td>
+  <td class="col-summary">Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>

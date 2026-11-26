@@ -1,38 +1,40 @@
 {
   "date": "2026-11-26",
-  "count": 10,
+  "count": 16,
   "sources": [
     "CNA",
     "DigiTimes",
+    "EETAsia",
+    "KED",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-26-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Commentary: From solving to \u2018digesting\u2019: How mathematicians can adapt to the dramatic changes of AI",
+      "title": "Exclusive: AI supply chain faces shipment delays as KYC expands",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261126PD214/supply-chain-gpu-data-center-gtc-data.html"
+    },
+    {
+      "title": "China scales, Japan supplies, Korea builds \u2014 three AI playbooks behind a 60%-plus grip on the global PCB market",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261125PD229/pcb-investment-demand-high-end-infrastructure.html"
+    },
+    {
+      "title": "Huang is back in Nvidia, but Washington's chip squeeze on China is only tightening",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261126VL219/nvidia-jensen-huang-chips-data.html"
+    },
+    {
+      "title": "Nvidia halts chip shipments to Southeast Asia: Report",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/claude-ai-solves-mathematics-riemann-hypothesis-6581176"
+      "url": "https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351"
     },
     {
-      "title": "Pentagon reportedly in talks with Ford, GM to produce drones and military hardware",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261125VL229/ford-general-motors-drones-military-hardware-production.html"
-    },
-    {
-      "title": "Texas comptroller backs US$354 million tax break for TSMC",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261125VL228/tsmc-texas-investment-tax-incentive-arizona.html"
-    },
-    {
-      "title": "Tesla's AI4.5 downgrade exposes the memory bottleneck behind physical AI",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261125VL221/tesla-hardware-automotive-silicon-cost.html"
-    },
-    {
-      "title": "Dell Q3 beats estimates on strong AI server demand",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/dell-sees-ai-server-boom-driving-50b-2027-sales"
+      "title": "Drug syndicate used military aircraft to transport 3 tonnes of meth: Malaysian Home Minister",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-drug-syndicate-air-force-meth-military-aircraft-6584271"
     }
   ],
   "source_stats": [
@@ -49,9 +51,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 5,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 3,
       "error": null
     },
     {
@@ -148,16 +150,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 6,
+      "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 24,
+      "fetched": 38,
+      "relevant": 25,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -177,7 +179,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -193,7 +195,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 15,
+      "relevant": 12,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
