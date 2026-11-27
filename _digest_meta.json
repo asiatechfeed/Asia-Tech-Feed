@@ -1,39 +1,37 @@
 {
   "date": "2026-11-27",
-  "count": 13,
+  "count": 7,
   "sources": [
-    "CNA",
     "DigiTimes",
     "EETAsia",
-    "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-27-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Huawei gains ground in China\u2019s AI chip market after US curbs",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/huawei-launches-ai-computing-system-export-controls"
-    },
-    {
-      "title": "Russian AI model fills void in unfinished Gogol novel. Not everyone is happy",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/russian-ai-model-fills-void-in-unfinished-gogol-novel-not-everyone-happy-6587046"
-    },
-    {
-      "title": "The 50 top-funded AI startups in Asia",
-      "source": "TechAsia",
-      "url": "https://www.techinasia.com/the-50-top-funded-ai-startups-in-asia"
-    },
-    {
-      "title": "Japan's JERA in talks with Anthropic, Meta on AI data centers",
+      "title": "SpaceX million-satellite plan exposes hurdles to space-based data centers",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261127VL212/anthropic-meta-data-infrastructure-electricity.html"
+      "url": "https://www.digitimes.com/news/a20261127PD211/spacex-data-fcc-launch-capacity.html"
     },
     {
-      "title": "Silicon 4.0 arrives as AI rewrites semiconductor economics, says Etron Chairman",
+      "title": "DIGITIMES Insight: KV cache growth will not translate one-for-one into CXL memory demand",
       "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261127PD217/etron-ai-server-semiconductors-taiwan-2026.html"
+      "url": "https://www.digitimes.com/news/a20261126PD215/cxl-memory-dram-data-demand-growth.html"
+    },
+    {
+      "title": "Can AI resist temptation? Anthropic finds lower violation rates in new Claude models",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261127PD203/anthropic-claude-data-security.html"
+    },
+    {
+      "title": "Tencent Cloud explores AI tie-up with HK food giant Maxim\u2019s",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/tencent-cloud-partners-malaysia-fintech-boost-ai"
+    },
+    {
+      "title": "TCS survey finds Singapore firms struggle to scale AI",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/tcs-mistral-partner-enterprise-ai-deployment"
     }
   ],
   "source_stats": [
@@ -52,7 +50,7 @@
       "fetched": 20,
       "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -130,7 +128,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 0,
+      "fetched": 10,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -151,7 +149,7 @@
       "fetched": 10,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 3,
+      "published": 1,
       "error": null
     },
     {
@@ -169,7 +167,7 @@
       "fetched": 50,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
