@@ -1,37 +1,39 @@
 {
   "date": "2026-11-27",
-  "count": 6,
+  "count": 13,
   "sources": [
+    "CNA",
     "DigiTimes",
+    "EETAsia",
     "NikkeiAsia",
     "TechAsia"
   ],
   "post_file": "2026-11-27-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "US battery startups find a second wind as Washington weighs funding revival",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261126VL215/funding-manufacturing-commercial-production.html"
-    },
-    {
-      "title": "Vietnam's Hai Phong bets on port capacity and rare earth processing",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261126VL206/vietnam-rare-earth-shipping-logistics-materials-plant.html"
-    },
-    {
-      "title": "Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261126PD234/taiwan-investigation-overcapacity-2026-investment.html"
-    },
-    {
-      "title": "SoftBank\u2019s credit risk rises as investors question AI bets",
+      "title": "Huawei gains ground in China\u2019s AI chip market after US curbs",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/softbank-credit-risk-highest-2022-ai-worries"
+      "url": "https://www.techinasia.com/huawei-launches-ai-computing-system-export-controls"
     },
     {
-      "title": "Kioxia, Nvidia expand GPU memory capacity for AI systems",
+      "title": "Russian AI model fills void in unfinished Gogol novel. Not everyone is happy",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/russian-ai-model-fills-void-in-unfinished-gogol-novel-not-everyone-happy-6587046"
+    },
+    {
+      "title": "The 50 top-funded AI startups in Asia",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/japanese-chipmaker-kioxia-ships-nand-ai-data-centers"
+      "url": "https://www.techinasia.com/the-50-top-funded-ai-startups-in-asia"
+    },
+    {
+      "title": "Japan's JERA in talks with Anthropic, Meta on AI data centers",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261127VL212/anthropic-meta-data-infrastructure-electricity.html"
+    },
+    {
+      "title": "Silicon 4.0 arrives as AI rewrites semiconductor economics, says Etron Chairman",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261127PD217/etron-ai-server-semiconductors-taiwan-2026.html"
     }
   ],
   "source_stats": [
@@ -48,9 +50,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 0,
+      "relevant": 2,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 2,
       "error": null
     },
     {
@@ -128,7 +130,7 @@
     {
       "source": "EW",
       "name": "Electronics Weekly",
-      "fetched": 10,
+      "fetched": 0,
       "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
@@ -147,16 +149,16 @@
       "source": "EETAsia",
       "name": "EE Times Asia",
       "fetched": 10,
-      "relevant": 8,
+      "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 3,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 35,
-      "relevant": 27,
+      "fetched": 56,
+      "relevant": 45,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -167,7 +169,7 @@
       "fetched": 50,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 2,
       "error": null
     },
     {
@@ -192,9 +194,9 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 10,
+      "relevant": 19,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 3,
       "error": null
     },
     {
