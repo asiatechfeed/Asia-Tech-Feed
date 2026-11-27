@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-26T08:01:52+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 26, 2026</title><link href="https://asiatechfeed.com/2026/11/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 26, 2026" /><published>2026-11-26T08:00:52+00:00</published><updated>2026-11-26T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/11/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-27T00:01:37+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 27, 2026</title><link href="https://asiatechfeed.com/2026/11/27/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 27, 2026" /><published>2026-11-27T00:01:06+00:00</published><updated>2026-11-27T00:01:06+00:00</updated><id>https://asiatechfeed.com/2026/11/27/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/27/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">US battery startups find a second wind as Washington weighs funding revival</span></td>
+  <td class="col-summary">Among the industrial-policy changes anticipated following the US midterm elections is a potential revival of federal funding aimed at stimulating the domestic energy-technology supply chain amid growing concerns over China's entrenched dominance in critical battery materials.</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261126VL215/funding-manufacturing-commercial-production.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Vietnam's Hai Phong bets on port capacity and rare earth processing</span></td>
+  <td class="col-summary">Vietnam is pairing a major expansion of its northern seaport capacity with a rare earth materials plant, a combination Hai Phong officials say will strengthen the city's logistics role and help it move into higher-value industries.</td>
+  <td class="col-tags"><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261126VL206/vietnam-rare-earth-shipping-logistics-materials-plant.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%</span></td>
+  <td class="col-summary">The Office of the US Trade Representative (USTR) on November 25 US Eastern Time released its Section 301 investigation report on "structural overcapacity," recommending tariffs on 14 economies. Taiwan's Executive Yuan said on November 26 that Taiwanese semiconductor exporters face a maximum tariff of 15%, not the 200% </td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261126PD234/taiwan-investigation-overcapacity-2026-investment.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">SoftBank’s credit risk rises as investors question AI bets</span></td>
+  <td class="col-summary">SoftBank and OpenAI have agreed to invest US$1 billion together in SB Energy.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/softbank-credit-risk-highest-2022-ai-worries" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Kioxia, Nvidia expand GPU memory capacity for AI systems</span></td>
+  <td class="col-summary">Kioxia said the setup could process a database of 2 trillion vectors, each 512 bytes in size.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/japanese-chipmaker-kioxia-ships-nand-ai-data-centers" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia, Kioxia team on AI server memory as alternative to South Korean chips</span></td>
+  <td class="col-summary">Nvidia, Kioxia team on AI server memory as alternative to South Korean chips</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/tech/semiconductors/nvidia-kioxia-team-on-ai-server-memory-as-alternative-to-south-korean-chips" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 DigiTimes US battery startups find a second wind as Washington weighs funding revival Among the industrial-policy changes anticipated following the US midterm elections is a potential revival of federal funding aimed at stimulating the domestic energy-technology supply chain amid growing concerns over China's entrenched dominance in critical battery materials. Logistics Read 2 DigiTimes Vietnam's Hai Phong bets on port capacity and rare earth processing Vietnam is pairing a major expansion of its northern seaport capacity with a rare earth materials plant, a combination Hai Phong officials say will strengthen the city's logistics role and help it move into higher-value industries. Logistics Read 3 DigiTimes Trump calls for 200% semiconductor tariff; Taiwan says cap is 15% The Office of the US Trade Representative (USTR) on November 25 US Eastern Time released its Section 301 investigation report on "structural overcapacity," recommending tariffs on 14 economies. Taiwan's Executive Yuan said on November 26 that Taiwanese semiconductor exporters face a maximum tariff of 15%, not the 200% Semiconductor Read 4 TechAsia SoftBank’s credit risk rises as investors question AI bets SoftBank and OpenAI have agreed to invest US$1 billion together in SB Energy. AI Read 5 TechAsia Kioxia, Nvidia expand GPU memory capacity for AI systems Kioxia said the setup could process a database of 2 trillion vectors, each 512 bytes in size. AI Read 6 NikkeiAsia Nvidia, Kioxia team on AI server memory as alternative to South Korean chips Nvidia, Kioxia team on AI server memory as alternative to South Korean chips AISemiconductor Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 26, 2026</title><link href="https://asiatechfeed.com/2026/11/26/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 26, 2026" /><published>2026-11-26T08:00:52+00:00</published><updated>2026-11-26T08:00:52+00:00</updated><id>https://asiatechfeed.com/2026/11/26/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/26/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -627,89 +688,4 @@
   <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/how-ai-chip-manufacturing-is-changing-seal-selection/" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Cohere partners with S Korean startup Upstage on AI platform Upstage previously raised US$120 million, following a US$45 million Series B bridge round. AI Read 2 TechAsia A new way to track textiles for the circular economy By weaving unique optical identifiers into standard fabrics, Fibarcode ensures garments can be tracked from manufacturing to chemical recycling. Semiconductor Read 3 DigiTimes Nvidia adds Kinsus to Asian supply push, keeps Rubin Ultra and Feynman on schedule Nvidia is signing up more Asian substrate and packaging suppliers and committing more cash to them. The move shows that capacity, not demand, is still the main limit on the AI chip leader's growth. Its product roadmap is unchanged despite the leadership upheaval at the top of the company. AISemiconductor Read 4 DigiTimes Samsung reportedly plans three-track DRAM roadmap for HBM5 Samsung Electronics has reportedly decided to pursue three separate technologies for its next-generation DRAM, adopting wafer bonding for HBM5 while retaining a conventional design for mobile memory and continuing development of smaller memory cells for future high-performance products. ElectronicsSemiconductor Read 5 DigiTimes Profet AI sees AI agents easing Taiwan manufacturers' talent bottleneck Taiwanese manufacturers are accelerating capacity expansion and global production footprints amid the AI boom, but talent shortages and the difficulty of replicating senior technical expertise are emerging as major obstacles. Smart manufacturing specialist Profet AI has launched Twin Accelerator, combining Domain Twin AI Read 6 TechAsia Microsoft unveils AI models for coding, cybersecurity Microsoft calls MAI a 'hill-climbing' effort, with models linked to GitHub Copilot and Excel. AI Read 7 CNA Malaysia sees AI boom driving 2027 growth after Q3 GDP tops forecasts Malaysia sees AI boom driving 2027 growth after Q3 GDP tops forecasts AI Read 8 EETAsia How AI Chip Manufacturing is Changing Seal Selection AI processors, high-bandwidth memory and advanced packaging are placing tighter demands on semiconductor equipment. Selecting reliable seals requires engineers to account for process chemistry, cleaning exposure and mechanical behavior, then verify performance in the installed geometry. The post How AI Chip Manufacturi SemiconductorAI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 17, 2026</title><link href="https://asiatechfeed.com/2026/11/17/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 17, 2026" /><published>2026-11-17T08:01:00+00:00</published><updated>2026-11-17T08:01:00+00:00</updated><id>https://asiatechfeed.com/2026/11/17/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/17/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Trust, innovation key to Singapore's efforts to grow and generate wealth: Alvin Tan</span></td>
-  <td class="col-summary">AI research and application in sectors like finance, air and sea connectivity and healthcare are key areas where Singapore can generate wealth, says the minister of state.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/singapore/wealth-hub-grow-finance-trust-innovation-6558016" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">HBMs beyond Nvidia: Why Samsung has the most to gain from Jensen's exit</span></td>
-  <td class="col-summary">With Nvidia CEO Jensen Huang stepping down, market observers expect the AI chip landscape to gradually move away from Nvidia's near-monopoly, with HBM demand shifting toward non-Nvidia buyers such as Google and AMD. Analysts suggest that in this so-called "post-Huang era," Samsung Electronics stands to emerge as the bi</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261117PD239/nvidia-samsung-hbm-market-amd.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Head of China's Baidu warns of AI 'bubble' ahead of APEC talks</span></td>
-  <td class="col-summary">AI adoption is not boosting profits for most companies, Baidu chief executive Robin Li said during a panel discussion with business leaders on Tuesday (Nov 17).</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/baidu-china-ai-adoption-apec-summit-6558021" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SK Hynix accelerates Yongin Y1 cleanroom opening as AI memory demand surges</span></td>
-  <td class="col-summary">SK Hynix is accelerating construction of its new semiconductor fabrication facility in Yongin, South Korea, amid rapidly growing demand for artificial intelligence (AI) memory.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261117PD231/sk-hynix-cleanroom-memory-equipment-demand.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Tencent launches lower-cost Hy4 Flash AI model</span></td>
-  <td class="col-summary">Tencent also said the model has 12 billion active parameters and decoding speeds above 150 tokens per second.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/tencent-expands-overseas-data-centers-ai-demand-surges" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales</span></td>
-  <td class="col-summary">SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sharply increased the South Korean chipmaker's exposure to Amer</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261117VL211/sk-hynix-memory-nvidia-revenue-sales-2026.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Baidu AI cloud infrastructure revenue jumps 94% in Q3</span></td>
-  <td class="col-summary">At Baidu World 2026, the company launched Ciyuansuo, a marketplace for large models.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/baidu-chip-arm-kunlunxin-eyes-50b-valuation-hk" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Xpeng Q3 revenue rises 19% as deliveries hit record high</span></td>
-  <td class="col-summary">WeRide has approval for a paid, fully driverless robotaxi service in Guangzhou's Huangpu District.</td>
-  <td class="col-tags"><span class="tag auto">Automation</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/xpeng-starts-robotaxi-production-with-in-house-ai-chips" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">9</td>
-  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
-  <td class="col-title"><span class="article-title">US AI voice startup ElevenLabs to buy Japanese-focused peer Kotoba</span></td>
-  <td class="col-summary">US AI voice startup ElevenLabs to buy Japanese-focused peer Kotoba</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/business-deals/us-ai-voice-startup-elevenlabs-to-buy-japanese-focused-peer-kotoba" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA Trust, innovation key to Singapore's efforts to grow and generate wealth: Alvin Tan AI research and application in sectors like finance, air and sea connectivity and healthcare are key areas where Singapore can generate wealth, says the minister of state. AI Read 2 DigiTimes HBMs beyond Nvidia: Why Samsung has the most to gain from Jensen's exit With Nvidia CEO Jensen Huang stepping down, market observers expect the AI chip landscape to gradually move away from Nvidia's near-monopoly, with HBM demand shifting toward non-Nvidia buyers such as Google and AMD. Analysts suggest that in this so-called "post-Huang era," Samsung Electronics stands to emerge as the bi ElectronicsAISemiconductor Read 3 CNA Head of China's Baidu warns of AI 'bubble' ahead of APEC talks AI adoption is not boosting profits for most companies, Baidu chief executive Robin Li said during a panel discussion with business leaders on Tuesday (Nov 17). AI Read 4 DigiTimes SK Hynix accelerates Yongin Y1 cleanroom opening as AI memory demand surges SK Hynix is accelerating construction of its new semiconductor fabrication facility in Yongin, South Korea, amid rapidly growing demand for artificial intelligence (AI) memory. SemiconductorAI Read 5 TechAsia Tencent launches lower-cost Hy4 Flash AI model Tencent also said the model has 12 billion active parameters and decoding speeds above 150 tokens per second. AI Read 6 DigiTimes SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sharply increased the South Korean chipmaker's exposure to Amer AISemiconductor Read 7 TechAsia Baidu AI cloud infrastructure revenue jumps 94% in Q3 At Baidu World 2026, the company launched Ciyuansuo, a marketplace for large models. AI Read 8 TechAsia Xpeng Q3 revenue rises 19% as deliveries hit record high WeRide has approval for a paid, fully driverless robotaxi service in Guangzhou's Huangpu District. Automation Read 9 NikkeiAsia US AI voice startup ElevenLabs to buy Japanese-focused peer Kotoba US AI voice startup ElevenLabs to buy Japanese-focused peer Kotoba AI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Cohere partners with S Korean startup Upstage on AI platform Upstage previously raised US$120 million, following a US$45 million Series B bridge round. AI Read 2 TechAsia A new way to track textiles for the circular economy By weaving unique optical identifiers into standard fabrics, Fibarcode ensures garments can be tracked from manufacturing to chemical recycling. Semiconductor Read 3 DigiTimes Nvidia adds Kinsus to Asian supply push, keeps Rubin Ultra and Feynman on schedule Nvidia is signing up more Asian substrate and packaging suppliers and committing more cash to them. The move shows that capacity, not demand, is still the main limit on the AI chip leader's growth. Its product roadmap is unchanged despite the leadership upheaval at the top of the company. AISemiconductor Read 4 DigiTimes Samsung reportedly plans three-track DRAM roadmap for HBM5 Samsung Electronics has reportedly decided to pursue three separate technologies for its next-generation DRAM, adopting wafer bonding for HBM5 while retaining a conventional design for mobile memory and continuing development of smaller memory cells for future high-performance products. ElectronicsSemiconductor Read 5 DigiTimes Profet AI sees AI agents easing Taiwan manufacturers' talent bottleneck Taiwanese manufacturers are accelerating capacity expansion and global production footprints amid the AI boom, but talent shortages and the difficulty of replicating senior technical expertise are emerging as major obstacles. Smart manufacturing specialist Profet AI has launched Twin Accelerator, combining Domain Twin AI Read 6 TechAsia Microsoft unveils AI models for coding, cybersecurity Microsoft calls MAI a 'hill-climbing' effort, with models linked to GitHub Copilot and Excel. AI Read 7 CNA Malaysia sees AI boom driving 2027 growth after Q3 GDP tops forecasts Malaysia sees AI boom driving 2027 growth after Q3 GDP tops forecasts AI Read 8 EETAsia How AI Chip Manufacturing is Changing Seal Selection AI processors, high-bandwidth memory and advanced packaging are placing tighter demands on semiconductor equipment. Selecting reliable seals requires engineers to account for process chemistry, cleaning exposure and mechanical behavior, then verify performance in the installed geometry. The post How AI Chip Manufacturi SemiconductorAI Read]]></summary></entry></feed>
