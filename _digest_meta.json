@@ -1,38 +1,37 @@
 {
-  "date": "2026-11-26",
-  "count": 9,
+  "date": "2026-11-27",
+  "count": 6,
   "sources": [
-    "CNA",
     "DigiTimes",
-    "EETAsia",
+    "NikkeiAsia",
     "TechAsia"
   ],
-  "post_file": "2026-11-26-asia-tech-news-digest.md",
+  "post_file": "2026-11-27-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "Apple pulls Chinese AI chatbot Talkie over child safety",
+      "title": "US battery startups find a second wind as Washington weighs funding revival",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261126VL215/funding-manufacturing-commercial-production.html"
+    },
+    {
+      "title": "Vietnam's Hai Phong bets on port capacity and rare earth processing",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261126VL206/vietnam-rare-earth-shipping-logistics-materials-plant.html"
+    },
+    {
+      "title": "Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261126PD234/taiwan-investigation-overcapacity-2026-investment.html"
+    },
+    {
+      "title": "SoftBank\u2019s credit risk rises as investors question AI bets",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/minimax-seeks-2b-for-ai-expansion"
+      "url": "https://www.techinasia.com/softbank-credit-risk-highest-2022-ai-worries"
     },
     {
-      "title": "Nvidia halts chip shipments to Southeast Asia, FT reports",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/nvidia-halts-chip-shipments-southeast-asia-ft-reports-6584251"
-    },
-    {
-      "title": "Tata Electronics reportedly opens talks with contractors for phase 2 of Assam chip packaging plant",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261126VL205/tata-group-india-fab-chips-packaging-plant-cleanroom.html"
-    },
-    {
-      "title": "South Korea minister pushes longer R&D hours to keep pace with China",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/south-korea-longer-working-week-hours-pace-china-6583916"
-    },
-    {
-      "title": "Huawei offers free chip patent licenses to take on Nvidia",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261126VL211/huawei-ascend-patent-ip-nvidia.html"
+      "title": "Kioxia, Nvidia expand GPU memory capacity for AI systems",
+      "source": "TechAsia",
+      "url": "https://www.techinasia.com/japanese-chipmaker-kioxia-ships-nand-ai-data-centers"
     }
   ],
   "source_stats": [
@@ -49,9 +48,9 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 5,
+      "relevant": 0,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
@@ -150,14 +149,14 @@
       "fetched": 10,
       "relevant": 8,
       "sponsored_skipped": 0,
-      "published": 2,
+      "published": 0,
       "error": null
     },
     {
       "source": "DigiTimes",
       "name": "DigiTimes",
-      "fetched": 38,
-      "relevant": 25,
+      "fetched": 35,
+      "relevant": 27,
       "sponsored_skipped": 0,
       "published": 3,
       "error": null
@@ -168,7 +167,7 @@
       "fetched": 50,
       "relevant": 9,
       "sponsored_skipped": 0,
-      "published": 0,
+      "published": 1,
       "error": null
     },
     {
@@ -193,7 +192,7 @@
       "source": "TechAsia",
       "name": "Tech in Asia",
       "fetched": 36,
-      "relevant": 12,
+      "relevant": 10,
       "sponsored_skipped": 0,
       "published": 2,
       "error": null
