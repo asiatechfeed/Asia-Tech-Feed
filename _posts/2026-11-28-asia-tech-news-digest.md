@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Asia Tech News Digest - November 28, 2026"
-date: 2026-11-28 15:26:05 +0800
-articles_count: 7
-sources_count: 3
-sources: ["DigiTimes", "KED", "TechAsia"]
+date: 2026-11-28 16:00:51 +0800
+articles_count: 6
+sources_count: 2
+sources: ["DigiTimes", "TechAsia"]
 csv_file: /assets/data/news-2026-11-28.tsv
-featured_title: "SK Group, Panmnesia discuss CXL-based AI infrastructure"
-featured_url: "https://www.techinasia.com/meta-collaborates-korean-chip-startup-cxl-ai"
-featured_source: "TechAsia"
-featured_summary: "The session was moderated by SK hynix VP Youngpyo Joo and included HyperAccel and Point2 execs."
-featured_image: ""
+featured_title: "Analog IC shortages persist despite AI uncertainty as supply becomes key concern for 2027"
+featured_url: "https://www.digitimes.com/news/a20261126PD208/analog-ic-capacity-financing-2027.html"
+featured_source: "DigiTimes"
+featured_summary: "Market concerns over circular financing in AI remain unresolved following the turmoil surrounding Nvidia CEO Jensen Huang's resignation on November 12 and subsequent return. Supply chain players across AI chips, memory, and power-related sectors could all be affected, fueling uncertainty over the broader AI outlook."
+featured_image: "https://img.digitimes.com/newsshow/20261126pd208_files/1_b.jpg"
 ---
 
 <table class="news-table">
@@ -27,59 +27,51 @@ featured_image: ""
 <tbody>
 <tr>
   <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">SK Group, Panmnesia discuss CXL-based AI infrastructure</span></td>
-  <td class="col-summary">The session was moderated by SK hynix VP Youngpyo Joo and included HyperAccel and Point2 execs.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/meta-collaborates-korean-chip-startup-cxl-ai" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Analog IC shortages persist despite AI uncertainty as supply becomes key concern for 2027</span></td>
+  <td class="col-summary">Market concerns over circular financing in AI remain unresolved following the turmoil surrounding Nvidia CEO Jensen Huang's resignation on November 12 and subsequent return. Supply chain players across AI chips, memory, and power-related sectors could all be affected, fueling uncertainty over the broader AI outlook.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261126PD208/analog-ic-capacity-financing-2027.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Who’s investing in India’s biotech startups?</span></td>
-  <td class="col-summary">We've compiled a list of investors pouring money into India’s biotech startups.</td>
-  <td class="col-tags"><span class="tag bio">Biotechnology</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/whos-investing-indias-biotech-startups" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">US chip rules, anti-distillation efforts force delays on China's flagship AI models</span></td>
+  <td class="col-summary">A coordinated push by Washington and leading American artificial intelligence labs is beginning to bottleneck China's rapid AI progress. By tightening access to offshore computing clusters and erecting technical barriers against unauthorized model training, US policymakers and tech giants have forced major Chinese deve</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261127VL208/flagship-moonshot-training-data-claude.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">3</td>
   <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">From lab to fab: Taiwan's supply chain holds key to mass-producing silicon photonics and CPO</span></td>
-  <td class="col-summary">The first Silicon Photonics Technology Applications Exhibition will run from April 21 to 23, 2027, as AI speeds up the development of silicon photonics (SiPh) and co-packaged optics (CPO). The show will cover SiPh, CPO, high-speed optical communications, AI data centers, advanced packaging, optoelectronic components, e</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261127PD225/siph-cpo-equipment-2027.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-title"><span class="article-title">Samsung chip fabs could deploy over 10,000 robots by 2030</span></td>
+  <td class="col-summary">The number of robots operating in Samsung Electronics' semiconductor facilities could rise from about 100 in 2026 to more than 10,000 by 2030 as the South Korean chipmaker seeks to automate tasks that still require human labor.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag semi">Electronics</span><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261127VL209/samsung-2030-equipment-2026-manufacturing.html" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Phone chip demand may stay weak in 2027, recovery seen in 2028</span></td>
-  <td class="col-summary">Research firms and industry sources expect the smartphone market to remain sluggish in 2027, with a more noticeable recovery potentially not arriving until 2028. Overall market conditions are expected to remain similar to those in 2026, with Apple and Samsung Electronics maintaining their relative lead while Chinese sm</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261127PD220/smartphone-demand-recovery-2027-2028.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Jensen Huang’s back, but the chips are still down for SEA</span></td>
+  <td class="col-summary">The Nvidia chief’s return calmed markets, but US chip licenses and tighter financing leave Southeast Asia's neoclouds and AI founders exposed.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/jensen-huangs-chips-sea" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">TSMC's A14 ready for chip design</span></td>
-  <td class="col-summary">TSMC's next-generation A14 process is ready for chip design, as the world's largest contract chipmaker prepares for volume production of its 1.4nm-class technology in 2028.</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Nvidia chip sellers block neocloud sales tied to China</span></td>
+  <td class="col-summary">Sellers sent that message after a new US rule was announced on November 16.</td>
   <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261127VL211/tsmc-ic-design-production-capacity.html" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-scrutiny-curbs-put-3b-china-ai-projects-risk" target="_blank" rel="noopener">Read</a></td>
 </tr>
 <tr>
   <td class="col-num">6</td>
   <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Shein struggles to regain traction in India with Reliance</span></td>
-  <td class="col-summary">Its comeback has been hampered by supply chain problems, leadership turnover, and limited access to the proprietary trend-spotting technology.</td>
-  <td class="col-tags"><span class="tag logis">Logistics</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/shein-ipo-valuation-may-fall-below-30b-investor-target-report" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">KED</span></td>
-  <td class="col-title"><span class="article-title">AI payoffs, green transition shape France-Korea Tech Summit 2026</span></td>
-  <td class="col-summary">Artificial intelligence and industrial sustainability dominated talks among South Korean and French business and policy leaders in Seoul last week, wi</td>
+  <td class="col-title"><span class="article-title">SAP prepares to cut at least 10,000 jobs in AI overhaul</span></td>
+  <td class="col-summary">SAP’s German works council negotiated an employment guarantee through 2028.</td>
   <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.kedglobal.com/artificial-intelligence/newsView/ked202610190009" target="_blank" rel="noopener">Read</a></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/how-europe-wins-the-ai-race-in-sap-ceos-view" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
 </table>

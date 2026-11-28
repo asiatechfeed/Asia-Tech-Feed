@@ -1,37 +1,36 @@
 {
   "date": "2026-11-28",
-  "count": 7,
+  "count": 6,
   "sources": [
     "DigiTimes",
-    "KED",
     "TechAsia"
   ],
   "post_file": "2026-11-28-asia-tech-news-digest.md",
   "articles": [
     {
-      "title": "SK Group, Panmnesia discuss CXL-based AI infrastructure",
+      "title": "Analog IC shortages persist despite AI uncertainty as supply becomes key concern for 2027",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261126PD208/analog-ic-capacity-financing-2027.html"
+    },
+    {
+      "title": "US chip rules, anti-distillation efforts force delays on China's flagship AI models",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261127VL208/flagship-moonshot-training-data-claude.html"
+    },
+    {
+      "title": "Samsung chip fabs could deploy over 10,000 robots by 2030",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261127VL209/samsung-2030-equipment-2026-manufacturing.html"
+    },
+    {
+      "title": "Jensen Huang\u2019s back, but the chips are still down for SEA",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/meta-collaborates-korean-chip-startup-cxl-ai"
+      "url": "https://www.techinasia.com/jensen-huangs-chips-sea"
     },
     {
-      "title": "Who\u2019s investing in India\u2019s biotech startups?",
+      "title": "Nvidia chip sellers block neocloud sales tied to China",
       "source": "TechAsia",
-      "url": "https://www.techinasia.com/whos-investing-indias-biotech-startups"
-    },
-    {
-      "title": "From lab to fab: Taiwan's supply chain holds key to mass-producing silicon photonics and CPO",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261127PD225/siph-cpo-equipment-2027.html"
-    },
-    {
-      "title": "Phone chip demand may stay weak in 2027, recovery seen in 2028",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261127PD220/smartphone-demand-recovery-2027-2028.html"
-    },
-    {
-      "title": "TSMC's A14 ready for chip design",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20261127VL211/tsmc-ic-design-production-capacity.html"
+      "url": "https://www.techinasia.com/nvidia-scrutiny-curbs-put-3b-china-ai-projects-risk"
     }
   ],
   "source_stats": [
@@ -48,7 +47,7 @@
       "source": "CNA",
       "name": "Channel NewsAsia",
       "fetched": 20,
-      "relevant": 1,
+      "relevant": 0,
       "sponsored_skipped": 0,
       "published": 0,
       "error": null
@@ -176,7 +175,7 @@
       "fetched": 20,
       "relevant": 4,
       "sponsored_skipped": 0,
-      "published": 1,
+      "published": 0,
       "error": null
     },
     {

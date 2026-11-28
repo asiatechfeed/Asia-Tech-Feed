@@ -1,30 +1,8 @@
 [
   {
     "date": "2026-11-28",
-    "title": "SK Group, Panmnesia discuss CXL-based AI infrastructure",
-    "summary": "The session was moderated by SK hynix VP Youngpyo Joo and included HyperAccel and Point2 execs.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "AI"
-    ],
-    "url": "https://www.techinasia.com/meta-collaborates-korean-chip-startup-cxl-ai"
-  },
-  {
-    "date": "2026-11-28",
-    "title": "Who’s investing in India’s biotech startups?",
-    "summary": "We've compiled a list of investors pouring money into India’s biotech startups.",
-    "source": "Tech in Asia",
-    "short": "TechAsia",
-    "tags": [
-      "Biotechnology"
-    ],
-    "url": "https://www.techinasia.com/whos-investing-indias-biotech-startups"
-  },
-  {
-    "date": "2026-11-28",
-    "title": "From lab to fab: Taiwan's supply chain holds key to mass-producing silicon photonics and CPO",
-    "summary": "The first Silicon Photonics Technology Applications Exhibition will run from April 21 to 23, 2027, as AI speeds up the development of silicon photonics (SiPh) and co-packaged optics (CPO). The show will cover SiPh, CPO, high-speed optical communications, AI data centers, advanced packaging, optoelectronic components, e",
+    "title": "Analog IC shortages persist despite AI uncertainty as supply becomes key concern for 2027",
+    "summary": "Market concerns over circular financing in AI remain unresolved following the turmoil surrounding Nvidia CEO Jensen Huang's resignation on November 12 and subsequent return. Supply chain players across AI chips, memory, and power-related sectors could all be affected, fueling uncertainty over the broader AI outlook.",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
@@ -32,52 +10,66 @@
       "Semiconductor",
       "Logistics"
     ],
-    "url": "https://www.digitimes.com/news/a20261127PD225/siph-cpo-equipment-2027.html"
+    "url": "https://www.digitimes.com/news/a20261126PD208/analog-ic-capacity-financing-2027.html"
   },
   {
     "date": "2026-11-28",
-    "title": "Phone chip demand may stay weak in 2027, recovery seen in 2028",
-    "summary": "Research firms and industry sources expect the smartphone market to remain sluggish in 2027, with a more noticeable recovery potentially not arriving until 2028. Overall market conditions are expected to remain similar to those in 2026, with Apple and Samsung Electronics maintaining their relative lead while Chinese sm",
+    "title": "US chip rules, anti-distillation efforts force delays on China's flagship AI models",
+    "summary": "A coordinated push by Washington and leading American artificial intelligence labs is beginning to bottleneck China's rapid AI progress. By tightening access to offshore computing clusters and erecting technical barriers against unauthorized model training, US policymakers and tech giants have forced major Chinese deve",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261127VL208/flagship-moonshot-training-data-claude.html"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "Samsung chip fabs could deploy over 10,000 robots by 2030",
+    "summary": "The number of robots operating in Samsung Electronics' semiconductor facilities could rise from about 100 in 2026 to more than 10,000 by 2030 as the South Korean chipmaker seeks to automate tasks that still require human labor.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
       "Electronics",
-      "Semiconductor"
+      "Automation"
     ],
-    "url": "https://www.digitimes.com/news/a20261127PD220/smartphone-demand-recovery-2027-2028.html"
+    "url": "https://www.digitimes.com/news/a20261127VL209/samsung-2030-equipment-2026-manufacturing.html"
   },
   {
     "date": "2026-11-28",
-    "title": "TSMC's A14 ready for chip design",
-    "summary": "TSMC's next-generation A14 process is ready for chip design, as the world's largest contract chipmaker prepares for volume production of its 1.4nm-class technology in 2028.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261127VL211/tsmc-ic-design-production-capacity.html"
-  },
-  {
-    "date": "2026-11-28",
-    "title": "Shein struggles to regain traction in India with Reliance",
-    "summary": "Its comeback has been hampered by supply chain problems, leadership turnover, and limited access to the proprietary trend-spotting technology.",
+    "title": "Jensen Huang’s back, but the chips are still down for SEA",
+    "summary": "The Nvidia chief’s return calmed markets, but US chip licenses and tighter financing leave Southeast Asia's neoclouds and AI founders exposed.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "Logistics"
+      "AI",
+      "Semiconductor"
     ],
-    "url": "https://www.techinasia.com/shein-ipo-valuation-may-fall-below-30b-investor-target-report"
+    "url": "https://www.techinasia.com/jensen-huangs-chips-sea"
   },
   {
     "date": "2026-11-28",
-    "title": "AI payoffs, green transition shape France-Korea Tech Summit 2026",
-    "summary": "Artificial intelligence and industrial sustainability dominated talks among South Korean and French business and policy leaders in Seoul last week, wi",
-    "source": "KED Global",
-    "short": "KED",
+    "title": "Nvidia chip sellers block neocloud sales tied to China",
+    "summary": "Sellers sent that message after a new US rule was announced on November 16.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/nvidia-scrutiny-curbs-put-3b-china-ai-projects-risk"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "SAP prepares to cut at least 10,000 jobs in AI overhaul",
+    "summary": "SAP’s German works council negotiated an employment guarantee through 2028.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202610190009"
+    "url": "https://www.techinasia.com/how-europe-wins-the-ai-race-in-sap-ceos-view"
   },
   {
     "date": "2026-11-27",
