@@ -1,104 +1,83 @@
 [
   {
     "date": "2026-11-28",
-    "title": "'Nobody is going to help us': India's drone and robotics firms face hurdles amid growing military demand",
-    "summary": "Border tensions and government support are driving India's drone and robotics manufacturers towards defence applications. But experts warn that reliance on imported components and unpredictable military orders could hinder long-term growth.",
-    "source": "Channel NewsAsia",
-    "short": "CNA",
-    "tags": [
-      "Automation"
-    ],
-    "url": "https://www.channelnewsasia.com/asia/nobody-going-help-us-indias-drone-and-robotics-firms-face-hurdles-amid-growing-military-demand-6587486"
-  },
-  {
-    "date": "2026-11-28",
-    "title": "Grab taps five Indonesian startups for AI pilot projects",
-    "summary": "The participating startups were Algobash, Dash, Fineksi, Grivy, and Sekilo.",
+    "title": "SK Group, Panmnesia discuss CXL-based AI infrastructure",
+    "summary": "The session was moderated by SK hynix VP Youngpyo Joo and included HyperAccel and Point2 execs.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
       "AI"
     ],
-    "url": "https://www.techinasia.com/grab-openai-launch-ai-training-aiming-30000-partners"
+    "url": "https://www.techinasia.com/meta-collaborates-korean-chip-startup-cxl-ai"
   },
   {
     "date": "2026-11-28",
-    "title": "Kioxia and Nvidia extend GPU to petabyte scale",
-    "summary": "Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using Nvidia SCADA software harnessing the performance of Kioxia SSDs in support of Nvidia’s […] The post Kioxia and Nvidia extend GPU to petabyte scale appeared first on Electronics Weekly .",
-    "source": "Electronics Weekly",
-    "short": "EW",
-    "tags": [
-      "Electronics"
-    ],
-    "url": "https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/"
-  },
-  {
-    "date": "2026-11-28",
-    "title": "Singapore says reports of Nvidia shipment halt unconfirmed",
-    "summary": "A new US rule requires export licenses for advanced chips bound for Singapore, Thailand, Malaysia, Indonesia, and Brazil.",
+    "title": "Who’s investing in India’s biotech startups?",
+    "summary": "We've compiled a list of investors pouring money into India’s biotech startups.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "Semiconductor"
+      "Biotechnology"
     ],
-    "url": "https://www.techinasia.com/nvidia-forms-board-panel-national-security-export-rules"
+    "url": "https://www.techinasia.com/whos-investing-indias-biotech-startups"
   },
   {
     "date": "2026-11-28",
-    "title": "China's chip expansion stalls on two-year tool waits, and missing parts are to blame",
-    "summary": "China's foundries keep adding capacity, but longer equipment lead times are starting to slow them down. SMIC says the global semiconductor equipment supply chain remains tight. Lead times for some tools have stretched to 16-24 months, and a few now exceed 24 months. Some equipment that was due this year has been pushed",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor",
-      "Logistics"
-    ],
-    "url": "https://www.digitimes.com/news/a20261127PD213/china-semiconductors-capacity-expansion-component-equipment-smic.html"
-  },
-  {
-    "date": "2026-11-28",
-    "title": "Dutch tool maker Trymax deepens Japan push with Kanematsu PWS",
-    "summary": "Dutch plasma equipment maker Trymax Semiconductor Equipment has named Kanematsu PWS its exclusive sales representative in Japan. The deal is a bet on Japanese power and automotive chipmakers at a time when their investment is weak.",
-    "source": "DigiTimes",
-    "short": "DigiTimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "url": "https://www.digitimes.com/news/a20261127VL216/dutch-automotive-equipment-investment-japan-production.html"
-  },
-  {
-    "date": "2026-11-28",
-    "title": "Bank of Korea flags risks to memory chip boom",
-    "summary": "Memory chip prices could fall well below current projections by 2028 if AI investment slows, financing conditions tighten, and Chinese manufacturers expand production, according to a Bank of Korea study released on November 26.",
+    "title": "From lab to fab: Taiwan's supply chain holds key to mass-producing silicon photonics and CPO",
+    "summary": "The first Silicon Photonics Technology Applications Exhibition will run from April 21 to 23, 2027, as AI speeds up the development of silicon photonics (SiPh) and co-packaged optics (CPO). The show will cover SiPh, CPO, high-speed optical communications, AI data centers, advanced packaging, optoelectronic components, e",
     "source": "DigiTimes",
     "short": "DigiTimes",
     "tags": [
       "AI",
-      "Semiconductor"
+      "Semiconductor",
+      "Logistics"
     ],
-    "url": "https://www.digitimes.com/news/a20261127VL213/memory-exports-financing-investment-2027-2028.html"
+    "url": "https://www.digitimes.com/news/a20261127PD225/siph-cpo-equipment-2027.html"
   },
   {
     "date": "2026-11-28",
-    "title": "Your sales team saved time with AI. Now what?",
-    "summary": "Gong explores how revenue AI can help sales teams focus on what matters.",
+    "title": "Phone chip demand may stay weak in 2027, recovery seen in 2028",
+    "summary": "Research firms and industry sources expect the smartphone market to remain sluggish in 2027, with a more noticeable recovery potentially not arriving until 2028. Overall market conditions are expected to remain similar to those in 2026, with Apple and Samsung Electronics maintaining their relative lead while Chinese sm",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Electronics",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261127PD220/smartphone-demand-recovery-2027-2028.html"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "TSMC's A14 ready for chip design",
+    "summary": "TSMC's next-generation A14 process is ready for chip design, as the world's largest contract chipmaker prepares for volume production of its 1.4nm-class technology in 2028.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261127VL211/tsmc-ic-design-production-capacity.html"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "Shein struggles to regain traction in India with Reliance",
+    "summary": "Its comeback has been hampered by supply chain problems, leadership turnover, and limited access to the proprietary trend-spotting technology.",
     "source": "Tech in Asia",
     "short": "TechAsia",
     "tags": [
-      "AI"
+      "Logistics"
     ],
-    "url": "https://www.techinasia.com/sales-team-saved-time-ai"
+    "url": "https://www.techinasia.com/shein-ipo-valuation-may-fall-below-30b-investor-target-report"
   },
   {
     "date": "2026-11-28",
-    "title": "Japan's JERA aims to build data centers for Anthropic, other AI players near power plants",
-    "summary": "Japan's JERA aims to build data centers for Anthropic, other AI players near power plants",
-    "source": "Nikkei Asia",
-    "short": "NikkeiAsia",
+    "title": "AI payoffs, green transition shape France-Korea Tech Summit 2026",
+    "summary": "Artificial intelligence and industrial sustainability dominated talks among South Korean and French business and policy leaders in Seoul last week, wi",
+    "source": "KED Global",
+    "short": "KED",
     "tags": [
       "AI"
     ],
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-jera-aims-to-build-data-centers-for-anthropic-other-ai-players-near-power-plants"
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202610190009"
   },
   {
     "date": "2026-11-27",
