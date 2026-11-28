@@ -1,4 +1,89 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-27T08:02:12+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 27, 2026</title><link href="https://asiatechfeed.com/2026/11/27/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 27, 2026" /><published>2026-11-27T08:00:59+00:00</published><updated>2026-11-27T08:00:59+00:00</updated><id>https://asiatechfeed.com/2026/11/27/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/27/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://asiatechfeed.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asiatechfeed.com/" rel="alternate" type="text/html" /><updated>2026-11-28T00:04:15+00:00</updated><id>https://asiatechfeed.com/feed.xml</id><title type="html">Asia Tech Feed</title><subtitle>Daily Asia tech news digest covering semiconductors, electronics, logistics, pharma, biotech, AI &amp; automation</subtitle><entry><title type="html">Asia Tech News Digest - November 28, 2026</title><link href="https://asiatechfeed.com/2026/11/28/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 28, 2026" /><published>2026-11-28T00:03:40+00:00</published><updated>2026-11-28T00:03:40+00:00</updated><id>https://asiatechfeed.com/2026/11/28/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/28/asia-tech-news-digest/"><![CDATA[<table class="news-table">
+<thead>
+<tr>
+  <th class="col-num">#</th>
+  <th class="col-source">Source</th>
+  <th class="col-title">Title</th>
+  <th class="col-summary">Summary</th>
+  <th class="col-tags">Topics</th>
+  <th class="col-link">Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td class="col-num">1</td>
+  <td class="col-source"><span class="source-badge">CNA</span></td>
+  <td class="col-title"><span class="article-title">'Nobody is going to help us': India's drone and robotics firms face hurdles amid growing military demand</span></td>
+  <td class="col-summary">Border tensions and government support are driving India's drone and robotics manufacturers towards defence applications. But experts warn that reliance on imported components and unpredictable military orders could hinder long-term growth.</td>
+  <td class="col-tags"><span class="tag auto">Automation</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/nobody-going-help-us-indias-drone-and-robotics-firms-face-hurdles-amid-growing-military-demand-6587486" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">2</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Grab taps five Indonesian startups for AI pilot projects</span></td>
+  <td class="col-summary">The participating startups were Algobash, Dash, Fineksi, Grivy, and Sekilo.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/grab-openai-launch-ai-training-aiming-30000-partners" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">3</td>
+  <td class="col-source"><span class="source-badge">EW</span></td>
+  <td class="col-title"><span class="article-title">Kioxia and Nvidia extend GPU to petabyte scale</span></td>
+  <td class="col-summary">Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using Nvidia SCADA software harnessing the performance of Kioxia SSDs in support of Nvidia’s […] The post Kioxia and Nvidia extend GPU to petabyte scale appeared first on Electronics Weekly .</td>
+  <td class="col-tags"><span class="tag semi">Electronics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">4</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Singapore says reports of Nvidia shipment halt unconfirmed</span></td>
+  <td class="col-summary">A new US rule requires export licenses for advanced chips bound for Singapore, Thailand, Malaysia, Indonesia, and Brazil.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/nvidia-forms-board-panel-national-security-export-rules" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">5</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">China's chip expansion stalls on two-year tool waits, and missing parts are to blame</span></td>
+  <td class="col-summary">China's foundries keep adding capacity, but longer equipment lead times are starting to slow them down. SMIC says the global semiconductor equipment supply chain remains tight. Lead times for some tools have stretched to 16-24 months, and a few now exceed 24 months. Some equipment that was due this year has been pushed</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag logis">Logistics</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261127PD213/china-semiconductors-capacity-expansion-component-equipment-smic.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">6</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Dutch tool maker Trymax deepens Japan push with Kanematsu PWS</span></td>
+  <td class="col-summary">Dutch plasma equipment maker Trymax Semiconductor Equipment has named Kanematsu PWS its exclusive sales representative in Japan. The deal is a bet on Japanese power and automotive chipmakers at a time when their investment is weak.</td>
+  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261127VL216/dutch-automotive-equipment-investment-japan-production.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">7</td>
+  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
+  <td class="col-title"><span class="article-title">Bank of Korea flags risks to memory chip boom</span></td>
+  <td class="col-summary">Memory chip prices could fall well below current projections by 2028 if AI investment slows, financing conditions tighten, and Chinese manufacturers expand production, according to a Bank of Korea study released on November 26.</td>
+  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261127VL213/memory-exports-financing-investment-2027-2028.html" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">8</td>
+  <td class="col-source"><span class="source-badge">TechAsia</span></td>
+  <td class="col-title"><span class="article-title">Your sales team saved time with AI. Now what?</span></td>
+  <td class="col-summary">Gong explores how revenue AI can help sales teams focus on what matters.</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/sales-team-saved-time-ai" target="_blank" rel="noopener">Read</a></td>
+</tr>
+<tr>
+  <td class="col-num">9</td>
+  <td class="col-source"><span class="source-badge">NikkeiAsia</span></td>
+  <td class="col-title"><span class="article-title">Japan's JERA aims to build data centers for Anthropic, other AI players near power plants</span></td>
+  <td class="col-summary">Japan's JERA aims to build data centers for Anthropic, other AI players near power plants</td>
+  <td class="col-tags"><span class="tag ai">AI</span></td>
+  <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-jera-aims-to-build-data-centers-for-anthropic-other-ai-players-near-power-plants" target="_blank" rel="noopener">Read</a></td>
+</tr>
+</tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 CNA 'Nobody is going to help us': India's drone and robotics firms face hurdles amid growing military demand Border tensions and government support are driving India's drone and robotics manufacturers towards defence applications. But experts warn that reliance on imported components and unpredictable military orders could hinder long-term growth. Automation Read 2 TechAsia Grab taps five Indonesian startups for AI pilot projects The participating startups were Algobash, Dash, Fineksi, Grivy, and Sekilo. AI Read 3 EW Kioxia and Nvidia extend GPU to petabyte scale Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using Nvidia SCADA software harnessing the performance of Kioxia SSDs in support of Nvidia’s […] The post Kioxia and Nvidia extend GPU to petabyte scale appeared first on Electronics Weekly . Electronics Read 4 TechAsia Singapore says reports of Nvidia shipment halt unconfirmed A new US rule requires export licenses for advanced chips bound for Singapore, Thailand, Malaysia, Indonesia, and Brazil. Semiconductor Read 5 DigiTimes China's chip expansion stalls on two-year tool waits, and missing parts are to blame China's foundries keep adding capacity, but longer equipment lead times are starting to slow them down. SMIC says the global semiconductor equipment supply chain remains tight. Lead times for some tools have stretched to 16-24 months, and a few now exceed 24 months. Some equipment that was due this year has been pushed SemiconductorLogistics Read 6 DigiTimes Dutch tool maker Trymax deepens Japan push with Kanematsu PWS Dutch plasma equipment maker Trymax Semiconductor Equipment has named Kanematsu PWS its exclusive sales representative in Japan. The deal is a bet on Japanese power and automotive chipmakers at a time when their investment is weak. Semiconductor Read 7 DigiTimes Bank of Korea flags risks to memory chip boom Memory chip prices could fall well below current projections by 2028 if AI investment slows, financing conditions tighten, and Chinese manufacturers expand production, according to a Bank of Korea study released on November 26. AISemiconductor Read 8 TechAsia Your sales team saved time with AI. Now what? Gong explores how revenue AI can help sales teams focus on what matters. AI Read 9 NikkeiAsia Japan's JERA aims to build data centers for Anthropic, other AI players near power plants Japan's JERA aims to build data centers for Anthropic, other AI players near power plants AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 27, 2026</title><link href="https://asiatechfeed.com/2026/11/27/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 27, 2026" /><published>2026-11-27T08:00:59+00:00</published><updated>2026-11-27T08:00:59+00:00</updated><id>https://asiatechfeed.com/2026/11/27/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/27/asia-tech-news-digest/"><![CDATA[<table class="news-table">
 <thead>
 <tr>
   <th class="col-num">#</th>
@@ -619,81 +704,4 @@
   <td class="col-link"><a class="btn-link" href="https://asia.nikkei.com/editor-s-picks/interview/blackrock-ceo-warns-tighter-ai-regulations-could-lead-to-us-recession" target="_blank" rel="noopener">Read</a></td>
 </tr>
 </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia NETS to join Ant International’s AI agent payment protocol NETS will become the first national payment rail to join Ant’s Agentic Mobile Protocol. AI Read 2 CNA South Korea becomes fourth country globally to hit US$1 trillion exports on AI chip boom This surpassed last year's record of US$709 billion, the country's trade ministry said. AISemiconductor Read 3 TechAsia SG AI firm Vulcan secures deal to expand across Asia Citrix ASEAN will market, sell, and support Vulcan Protect for enterprises, including financial institutions. AI Read 4 DigiTimes Everlight ramps up AI optical communications push, targets double-digit growth in 2027 on robust coupler orders Taiwan-based Everlight Electronics is accelerating its entry into the AI optical communications market through overseas technology partnerships, automated packaging investments and strategic upstream supply agreements. With customer validation underway for its chip-on-submount (COS) and chip-on-carrier (COC) processes, ElectronicsAISemiconductor Read 5 DigiTimes Qualipoly accelerates shift to electronic chemicals, targeting over 50% revenue contribution Growing demand for AI servers and high-speed switches is driving upgrades in high-frequency, high-speed copper-clad laminate (CCL) materials, prompting Qualipoly Chemical to accelerate its transition toward electronic chemicals. AI Read 6 DigiTimes UBright eyes semiconductor, passive components and smart acoustics growth As competition intensifies in the optical film market, UBright Optronics is accelerating its product and technology transformation. The company is expanding into semiconductor packaging and optical waveguides while investing in passive components and smart acoustics. It expects its new businesses to begin contributing Semiconductor Read 7 EETAsia Mouser Expands Industrial Automation Inventory for Smart Factory and Robotics Markets Mouser is expanding its industrial automation product portfolio, adding suppliers and inventory to serve smart factories, robotics and AI applications. The post Mouser Expands Industrial Automation Inventory for Smart Factory and Robotics Markets appeared first on EE Times Asia . AIAutomation Read 8 EETAsia JEDEC DDR6 Targets 12.8GT/s Initial Data Rate, 96-bit Bus DDR6 development targets higher bandwidth, greater memory density and improved power efficiency for AI and data-intensive computing. The post JEDEC DDR6 Targets 12.8GT/s Initial Data Rate, 96-bit Bus appeared first on EE Times Asia . AI Read 9 EETAsia Sivers Semiconductors Taps WT Microelectronics to Expand Global Market WT will serve as a strong global distribution partner for Sivers' InP lasers and wireless beamformer products and solutions. The post Sivers Semiconductors Taps WT Microelectronics to Expand Global Market appeared first on EE Times Asia . SemiconductorElectronics Read 10 TechAsia OpenAI’s first AI device may be made in China, ship this year Luxshare Precision, a China-based electronics manufacturer, is reportedly solely responsible for assembling the device and supplying core components. ElectronicsAI Read 11 NikkeiAsia South Korea rides AI boom to new height as exports hit $1 trillion South Korea rides AI boom to new height as exports hit $1 trillion AI Read 12 NikkeiAsia BlackRock CEO warns tighter AI regulations could lead to US recession BlackRock CEO warns tighter AI regulations could lead to US recession AI Read]]></summary></entry><entry><title type="html">Asia Tech News Digest - November 18, 2026</title><link href="https://asiatechfeed.com/2026/11/18/asia-tech-news-digest/" rel="alternate" type="text/html" title="Asia Tech News Digest - November 18, 2026" /><published>2026-11-18T08:00:54+00:00</published><updated>2026-11-18T08:00:54+00:00</updated><id>https://asiatechfeed.com/2026/11/18/asia-tech-news-digest</id><content type="html" xml:base="https://asiatechfeed.com/2026/11/18/asia-tech-news-digest/"><![CDATA[<table class="news-table">
-<thead>
-<tr>
-  <th class="col-num">#</th>
-  <th class="col-source">Source</th>
-  <th class="col-title">Title</th>
-  <th class="col-summary">Summary</th>
-  <th class="col-tags">Topics</th>
-  <th class="col-link">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="col-num">1</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Cohere partners with S Korean startup Upstage on AI platform</span></td>
-  <td class="col-summary">Upstage previously raised US$120 million, following a US$45 million Series B bridge round.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/s-korea-removes-naver-ncsoft-teams-from-sovereign-ai-model-race" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">2</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">A new way to track textiles for the circular economy</span></td>
-  <td class="col-summary">By weaving unique optical identifiers into standard fabrics, Fibarcode ensures garments can be tracked from manufacturing to chemical recycling.</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/track-textiles-circular-economy" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">3</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Nvidia adds Kinsus to Asian supply push, keeps Rubin Ultra and Feynman on schedule</span></td>
-  <td class="col-summary">Nvidia is signing up more Asian substrate and packaging suppliers and committing more cash to them. The move shows that capacity, not demand, is still the main limit on the AI chip leader's growth. Its product roadmap is unchanged despite the leadership upheaval at the top of the company.</td>
-  <td class="col-tags"><span class="tag ai">AI</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261118VL203/nvidia-rubin-kinsus-capacity-packaging.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">4</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Samsung reportedly plans three-track DRAM roadmap for HBM5</span></td>
-  <td class="col-summary">Samsung Electronics has reportedly decided to pursue three separate technologies for its next-generation DRAM, adopting wafer bonding for HBM5 while retaining a conventional design for mobile memory and continuing development of smaller memory cells for future high-performance products.</td>
-  <td class="col-tags"><span class="tag semi">Electronics</span><span class="tag semi">Semiconductor</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261118VL214/samsung-dram-roadmap-wafer.html" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">5</td>
-  <td class="col-source"><span class="source-badge">DigiTimes</span></td>
-  <td class="col-title"><span class="article-title">Profet AI sees AI agents easing Taiwan manufacturers' talent bottleneck</span></td>
-  <td class="col-summary">Taiwanese manufacturers are accelerating capacity expansion and global production footprints amid the AI boom, but talent shortages and the difficulty of replicating senior technical expertise are emerging as major obstacles. Smart manufacturing specialist Profet AI has launched Twin Accelerator, combining Domain Twin </td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.digitimes.com/news/a20261118PD200/profet-ai-talent-production-manufacturing-capacity-expansion.html?chid=10" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">6</td>
-  <td class="col-source"><span class="source-badge">TechAsia</span></td>
-  <td class="col-title"><span class="article-title">Microsoft unveils AI models for coding, cybersecurity</span></td>
-  <td class="col-summary">Microsoft calls MAI a 'hill-climbing' effort, with models linked to GitHub Copilot and Excel.</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.techinasia.com/microsoft-ai-accurate-doctors-300-cases" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">7</td>
-  <td class="col-source"><span class="source-badge">CNA</span></td>
-  <td class="col-title"><span class="article-title">Malaysia sees AI boom driving 2027 growth after Q3 GDP tops forecasts</span></td>
-  <td class="col-summary">Malaysia sees AI boom driving 2027 growth after Q3 GDP tops forecasts</td>
-  <td class="col-tags"><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.channelnewsasia.com/asia/malaysia-sees-ai-boom-driving-2027-growth-after-q3-gdp-tops-forecasts-6561456" target="_blank" rel="noopener">Read</a></td>
-</tr>
-<tr>
-  <td class="col-num">8</td>
-  <td class="col-source"><span class="source-badge">EETAsia</span></td>
-  <td class="col-title"><span class="article-title">How AI Chip Manufacturing is Changing Seal Selection</span></td>
-  <td class="col-summary">AI processors, high-bandwidth memory and advanced packaging are placing tighter demands on semiconductor equipment. Selecting reliable seals requires engineers to account for process chemistry, cleaning exposure and mechanical behavior, then verify performance in the installed geometry. The post How AI Chip Manufacturi</td>
-  <td class="col-tags"><span class="tag semi">Semiconductor</span><span class="tag ai">AI</span></td>
-  <td class="col-link"><a class="btn-link" href="https://www.eetasia.com/how-ai-chip-manufacturing-is-changing-seal-selection/" target="_blank" rel="noopener">Read</a></td>
-</tr>
-</tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia Cohere partners with S Korean startup Upstage on AI platform Upstage previously raised US$120 million, following a US$45 million Series B bridge round. AI Read 2 TechAsia A new way to track textiles for the circular economy By weaving unique optical identifiers into standard fabrics, Fibarcode ensures garments can be tracked from manufacturing to chemical recycling. Semiconductor Read 3 DigiTimes Nvidia adds Kinsus to Asian supply push, keeps Rubin Ultra and Feynman on schedule Nvidia is signing up more Asian substrate and packaging suppliers and committing more cash to them. The move shows that capacity, not demand, is still the main limit on the AI chip leader's growth. Its product roadmap is unchanged despite the leadership upheaval at the top of the company. AISemiconductor Read 4 DigiTimes Samsung reportedly plans three-track DRAM roadmap for HBM5 Samsung Electronics has reportedly decided to pursue three separate technologies for its next-generation DRAM, adopting wafer bonding for HBM5 while retaining a conventional design for mobile memory and continuing development of smaller memory cells for future high-performance products. ElectronicsSemiconductor Read 5 DigiTimes Profet AI sees AI agents easing Taiwan manufacturers' talent bottleneck Taiwanese manufacturers are accelerating capacity expansion and global production footprints amid the AI boom, but talent shortages and the difficulty of replicating senior technical expertise are emerging as major obstacles. Smart manufacturing specialist Profet AI has launched Twin Accelerator, combining Domain Twin AI Read 6 TechAsia Microsoft unveils AI models for coding, cybersecurity Microsoft calls MAI a 'hill-climbing' effort, with models linked to GitHub Copilot and Excel. AI Read 7 CNA Malaysia sees AI boom driving 2027 growth after Q3 GDP tops forecasts Malaysia sees AI boom driving 2027 growth after Q3 GDP tops forecasts AI Read 8 EETAsia How AI Chip Manufacturing is Changing Seal Selection AI processors, high-bandwidth memory and advanced packaging are placing tighter demands on semiconductor equipment. Selecting reliable seals requires engineers to account for process chemistry, cleaning exposure and mechanical behavior, then verify performance in the installed geometry. The post How AI Chip Manufacturi SemiconductorAI Read]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# Source Title Summary Topics Link 1 TechAsia NETS to join Ant International’s AI agent payment protocol NETS will become the first national payment rail to join Ant’s Agentic Mobile Protocol. AI Read 2 CNA South Korea becomes fourth country globally to hit US$1 trillion exports on AI chip boom This surpassed last year's record of US$709 billion, the country's trade ministry said. AISemiconductor Read 3 TechAsia SG AI firm Vulcan secures deal to expand across Asia Citrix ASEAN will market, sell, and support Vulcan Protect for enterprises, including financial institutions. AI Read 4 DigiTimes Everlight ramps up AI optical communications push, targets double-digit growth in 2027 on robust coupler orders Taiwan-based Everlight Electronics is accelerating its entry into the AI optical communications market through overseas technology partnerships, automated packaging investments and strategic upstream supply agreements. With customer validation underway for its chip-on-submount (COS) and chip-on-carrier (COC) processes, ElectronicsAISemiconductor Read 5 DigiTimes Qualipoly accelerates shift to electronic chemicals, targeting over 50% revenue contribution Growing demand for AI servers and high-speed switches is driving upgrades in high-frequency, high-speed copper-clad laminate (CCL) materials, prompting Qualipoly Chemical to accelerate its transition toward electronic chemicals. AI Read 6 DigiTimes UBright eyes semiconductor, passive components and smart acoustics growth As competition intensifies in the optical film market, UBright Optronics is accelerating its product and technology transformation. The company is expanding into semiconductor packaging and optical waveguides while investing in passive components and smart acoustics. It expects its new businesses to begin contributing Semiconductor Read 7 EETAsia Mouser Expands Industrial Automation Inventory for Smart Factory and Robotics Markets Mouser is expanding its industrial automation product portfolio, adding suppliers and inventory to serve smart factories, robotics and AI applications. The post Mouser Expands Industrial Automation Inventory for Smart Factory and Robotics Markets appeared first on EE Times Asia . AIAutomation Read 8 EETAsia JEDEC DDR6 Targets 12.8GT/s Initial Data Rate, 96-bit Bus DDR6 development targets higher bandwidth, greater memory density and improved power efficiency for AI and data-intensive computing. The post JEDEC DDR6 Targets 12.8GT/s Initial Data Rate, 96-bit Bus appeared first on EE Times Asia . AI Read 9 EETAsia Sivers Semiconductors Taps WT Microelectronics to Expand Global Market WT will serve as a strong global distribution partner for Sivers' InP lasers and wireless beamformer products and solutions. The post Sivers Semiconductors Taps WT Microelectronics to Expand Global Market appeared first on EE Times Asia . SemiconductorElectronics Read 10 TechAsia OpenAI’s first AI device may be made in China, ship this year Luxshare Precision, a China-based electronics manufacturer, is reportedly solely responsible for assembling the device and supplying core components. ElectronicsAI Read 11 NikkeiAsia South Korea rides AI boom to new height as exports hit $1 trillion South Korea rides AI boom to new height as exports hit $1 trillion AI Read 12 NikkeiAsia BlackRock CEO warns tighter AI regulations could lead to US recession BlackRock CEO warns tighter AI regulations could lead to US recession AI Read]]></summary></entry></feed>

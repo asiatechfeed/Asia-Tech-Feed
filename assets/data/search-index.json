@@ -1,5 +1,106 @@
 [
   {
+    "date": "2026-11-28",
+    "title": "'Nobody is going to help us': India's drone and robotics firms face hurdles amid growing military demand",
+    "summary": "Border tensions and government support are driving India's drone and robotics manufacturers towards defence applications. But experts warn that reliance on imported components and unpredictable military orders could hinder long-term growth.",
+    "source": "Channel NewsAsia",
+    "short": "CNA",
+    "tags": [
+      "Automation"
+    ],
+    "url": "https://www.channelnewsasia.com/asia/nobody-going-help-us-indias-drone-and-robotics-firms-face-hurdles-amid-growing-military-demand-6587486"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "Grab taps five Indonesian startups for AI pilot projects",
+    "summary": "The participating startups were Algobash, Dash, Fineksi, Grivy, and Sekilo.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/grab-openai-launch-ai-training-aiming-30000-partners"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "Kioxia and Nvidia extend GPU to petabyte scale",
+    "summary": "Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using Nvidia SCADA software harnessing the performance of Kioxia SSDs in support of Nvidia’s […] The post Kioxia and Nvidia extend GPU to petabyte scale appeared first on Electronics Weekly .",
+    "source": "Electronics Weekly",
+    "short": "EW",
+    "tags": [
+      "Electronics"
+    ],
+    "url": "https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "Singapore says reports of Nvidia shipment halt unconfirmed",
+    "summary": "A new US rule requires export licenses for advanced chips bound for Singapore, Thailand, Malaysia, Indonesia, and Brazil.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.techinasia.com/nvidia-forms-board-panel-national-security-export-rules"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "China's chip expansion stalls on two-year tool waits, and missing parts are to blame",
+    "summary": "China's foundries keep adding capacity, but longer equipment lead times are starting to slow them down. SMIC says the global semiconductor equipment supply chain remains tight. Lead times for some tools have stretched to 16-24 months, and a few now exceed 24 months. Some equipment that was due this year has been pushed",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor",
+      "Logistics"
+    ],
+    "url": "https://www.digitimes.com/news/a20261127PD213/china-semiconductors-capacity-expansion-component-equipment-smic.html"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "Dutch tool maker Trymax deepens Japan push with Kanematsu PWS",
+    "summary": "Dutch plasma equipment maker Trymax Semiconductor Equipment has named Kanematsu PWS its exclusive sales representative in Japan. The deal is a bet on Japanese power and automotive chipmakers at a time when their investment is weak.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261127VL216/dutch-automotive-equipment-investment-japan-production.html"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "Bank of Korea flags risks to memory chip boom",
+    "summary": "Memory chip prices could fall well below current projections by 2028 if AI investment slows, financing conditions tighten, and Chinese manufacturers expand production, according to a Bank of Korea study released on November 26.",
+    "source": "DigiTimes",
+    "short": "DigiTimes",
+    "tags": [
+      "AI",
+      "Semiconductor"
+    ],
+    "url": "https://www.digitimes.com/news/a20261127VL213/memory-exports-financing-investment-2027-2028.html"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "Your sales team saved time with AI. Now what?",
+    "summary": "Gong explores how revenue AI can help sales teams focus on what matters.",
+    "source": "Tech in Asia",
+    "short": "TechAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://www.techinasia.com/sales-team-saved-time-ai"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "Japan's JERA aims to build data centers for Anthropic, other AI players near power plants",
+    "summary": "Japan's JERA aims to build data centers for Anthropic, other AI players near power plants",
+    "source": "Nikkei Asia",
+    "short": "NikkeiAsia",
+    "tags": [
+      "AI"
+    ],
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-jera-aims-to-build-data-centers-for-anthropic-other-ai-players-near-power-plants"
+  },
+  {
     "date": "2026-11-27",
     "title": "SpaceX million-satellite plan exposes hurdles to space-based data centers",
     "summary": "The US Federal Communications Commission (FCC) has approved SpaceX's plan to deploy one million space-based data center satellites, paving the way for AI infrastructure to extend beyond Earth.",
